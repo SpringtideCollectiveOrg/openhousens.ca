@@ -12,9 +12,8 @@ Install the requirements:
 
     pip install -r requirements.txt
 
-Create a database (`openhousens pupa` if it already exists):
+Create a database (`dropdb openhousens` if it already exists):
 
-    dropdb openhousens
     createdb openhousens
     python manage.py syncdb --noinput
     python manage.py migrate
@@ -61,9 +60,8 @@ SayIt requires the `compass` and `zurb-foundation` gems to collect static files,
 
     heroku config:set DISABLE_COLLECTSTATIC=1
 
-Setup the database (replace `DATABASE`):
+Setup the database (you can run `heroku pg:reset` to start over):
 
-    heroku pg:reset DATABASE
     heroku run python manage.py syncdb --noinput
     heroku run python manage.py migrate
 
