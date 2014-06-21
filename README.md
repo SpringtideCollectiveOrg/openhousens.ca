@@ -30,6 +30,7 @@ Start the web app:
 
 Add configuration variables (replace `YOUR-SECRET-KEY` and `DATABASE`):
 
+    heroku config:set PRODUCTION=1
     heroku config:set DJANGO_SECRET_KEY=YOUR-DJANGO-SECRET-KEY
 
 You can [generate a secret key in Python](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py):
