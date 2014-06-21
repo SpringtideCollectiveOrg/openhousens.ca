@@ -45,6 +45,19 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
+    'django.contrib.humanize',
+    'haystack',
+    'south',
+    'tastypie',
+    'pagination',
+    'pipeline',
+    'django_select2',
+    'django_bleach',
+    'popolo',
+    'popit',
+    'instances',
+    'speeches',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -54,6 +67,8 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
+    'speeches.middleware.InstanceMiddleware',
 )
 
 ROOT_URLCONF = 'openhousens.urls'
@@ -79,3 +94,72 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+# @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
+        'URL': os.getenv('ELASTICSEARCH_URL', 'http://127.0.0.1:9200/'),
+        'INDEX_NAME': 'openhousens',
+    },
+}
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
+
+STATICFILES_STORAGE = 'pipeline.storage.PipelineCachedStorage'
+PIPELINE_CSS_COMPRESSOR = None
+PIPELINE_JS_COMPRESSOR = None
+PIPELINE_COMPILERS = (
+    'pipeline_compass.compass.CompassCompiler',
+)
+PIPELINE_COMPASS_ARGUMENTS = '-r zurb-foundation'
+PIPELINE_CSS = {
+    'sayit-default': {
+        'source_filenames': (
+            'speeches/sass/speeches.scss',
+        ),
+        'output_filename': 'css/speeches.css',
+    },
+}
+PIPELINE_JS = {
+    'sayit-default-head': {
+        'source_filenames': (
+            'speeches/js/jquery.js',
+        ),
+        'output_filename': 'js/sayit.head.min.js',
+    },
+    'sayit-default': {
+        'source_filenames': (
+            'speeches/js/foundation/foundation.js',
+            'speeches/js/foundation/foundation.dropdown.js',
+            'speeches/js/speeches.js',
+        ),
+        'output_filename': 'js/sayit.min.js',
+    },
+    'sayit-player': {
+        'source_filenames': (
+            'speeches/mediaelement/mediaelement-and-player.js',
+        ),
+        'output_filename': 'js/sayit.mediaplayer.min.js',
+    },
+    'sayit-upload': {
+        'source_filenames': (
+            'speeches/js/jQuery-File-Upload/js/vendor/jquery.ui.widget.js',
+            'speeches/js/jQuery-File-Upload/js/jquery.iframe-transport.js',
+            'speeches/js/jQuery-File-Upload/js/jquery.fileupload.js',
+        ),
+        'output_filename': 'js/sayit.upload.min.js',
+    },
+}
+
+BLEACH_ALLOWED_TAGS = [
+    'a', 'abbr', 'b', 'i', 'u', 'span', 'sub', 'sup', 'br',
+    'p',
+    'ol', 'ul', 'li',
+    'table', 'caption', 'tr', 'th', 'td',
+]
+BLEACH_ALLOWED_ATTRIBUTES = {
+    '*': [ 'id', 'title' ], # class, style
+    'a': [ 'href' ],
+    'li': [ 'value' ],
+}
