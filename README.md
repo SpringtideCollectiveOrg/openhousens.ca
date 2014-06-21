@@ -17,6 +17,7 @@ Create a database (`openhousens pupa` if it already exists):
     dropdb openhousens
     createdb openhousens
     python manage.py syncdb --noinput
+    python manage.py migrate
 
 Install the foreman gem:
 
@@ -25,6 +26,10 @@ Install the foreman gem:
 Start the web app:
 
     foreman start
+
+## Importing speeches
+
+    python manage.py load_akomantoso --commit --instance=default --file=/path/to/file.an
 
 ## Deployment
 
@@ -45,10 +50,6 @@ Add configuration variables (replace `YOUR-SECRET-KEY`):
     heroku config:set PRODUCTION=1
     heroku config:set DJANGO_SECRET_KEY=YOUR-DJANGO-SECRET-KEY
 
-SayIt requires the `compass` and `zurb-foundation` gems to collect static files, which would take a lot of effort to run on Heroku, so instead we collect and commit static files.
-
-    heroku config:set DISABLE_COLLECTSTATIC=1
-
 You can [generate a secret key in Python](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py):
 
 ```python
@@ -56,10 +57,15 @@ from django.utils.crypto import get_random_string
 get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 ```
 
+SayIt requires the `compass` and `zurb-foundation` gems to collect static files, which would take a lot of effort to install on Heroku in a Python environment, so instead we collect and commit static files.
+
+    heroku config:set DISABLE_COLLECTSTATIC=1
+
 Setup the database (replace `DATABASE`):
 
     heroku pg:reset DATABASE
     heroku run python manage.py syncdb --noinput
+    heroku run python manage.py migrate
 
 ## Bugs? Questions?
 
