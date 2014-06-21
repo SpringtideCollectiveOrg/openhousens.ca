@@ -10,5 +10,8 @@ https://docs.djangoproject.com/en/1.6/howto/deployment/wsgi/
 import os
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "openhousens.settings")
 
+# @see https://devcenter.heroku.com/articles/getting-started-with-django#wsgi-py
 from django.core.wsgi import get_wsgi_application
-application = get_wsgi_application()
+from dj_static import Cling
+
+application = Cling(get_wsgi_application())
