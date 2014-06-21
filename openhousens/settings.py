@@ -95,6 +95,11 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 
+# @see https://devcenter.heroku.com/articles/django-assets
+STATIC_ROOT = 'staticfiles'
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 HAYSTACK_CONNECTIONS = {
