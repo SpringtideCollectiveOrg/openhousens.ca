@@ -16,7 +16,6 @@ Create a database (`dropdb openhousens` if it already exists):
 
     createdb openhousens
     python manage.py syncdb --noinput
-    python manage.py migrate
 
 Install the foreman gem:
 
@@ -28,7 +27,13 @@ Start the web app:
 
 ## Importing speeches
 
-    python manage.py load_akomantoso --commit --instance=default --file=/path/to/file.an
+Import a file:
+
+    python manage.py load_akomantoso --commit --instance=default --file=akoma_ntoso/11-38.xml
+
+Import a directory:
+
+    python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
 
 ## Deployment
 
