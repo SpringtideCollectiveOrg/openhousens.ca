@@ -1,17 +1,15 @@
 # @see https://devcenter.heroku.com/articles/getting-started-with-django#requirements-txt
-Django==1.6
+https://www.djangoproject.com/download/1.7c1/tarball/
 dj-database-url==0.3.0
 dj-static==0.0.5
-gunicorn==18.0
-psycopg2==2.5.2
+gunicorn==19.0.0
+psycopg2==2.5.3
+static==1.0.2
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 # -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
--e git+git://github.com/jpmckinney/sayit.git@hotfix#egg=django-sayit
+-e git+git://github.com/jpmckinney/sayit.git@lxml#egg=django-sayit
 
 # Akoma Ntoso importer
-python-dateutil<2
-lxml
-
-# manage.py collectstatic
-django-pipeline-compass-rubygem
+python-dateutil==2.2
+lxml==3.3.5
