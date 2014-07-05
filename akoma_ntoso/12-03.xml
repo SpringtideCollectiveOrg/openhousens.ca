@@ -1,0 +1,1197 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="d36a0432-7994-4030-ab00-b21fc858e7d2" href="/ontology/person/ca-ns.ross.landry" showAs="Hon. R. Landry"/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
+        <TLCPerson id="2c8e1a56-2f9d-4156-a91f-77802701e3d3" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="b67194ee-eead-4e8d-9cdb-2d1935c5be52" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="MR. D'ENTREMONT"/>
+        <TLCPerson id="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="b31db77c-006f-4f6e-ab57-0c449cb2d93a" href="/ontology/person/ca-ns.ramona.jennex" showAs="Hon. R. Jennex"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="aef785d7-7697-4453-8f9c-eef26e4928c3" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="22119b83-0505-4c62-95ff-e8c0e378764c" href="/ontology/person/ca-ns.jim.morton" showAs="Mr. Jim Morton"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="aefec392-99d6-4923-8d87-227e50d567e8" href="/ontology/person/ca-ns.pam.birdsall" showAs="Ms. Pam Birdsall"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="8dbda583-1553-4164-a616-3008fb0fdac4" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
+        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="Hon. Sterling Belliveau"/>
+        <TLCPerson id="5da6e0aa-9066-4b5c-8d26-9222b854db7e" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 2 April 2012</docTitle>
+      <docNumber>12-03</docNumber>
+      <docDate date="2012-04-02">Monday, April 2, 2012</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="4">4th Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We'll begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Clare.</p>
+        </speech>
+        <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I beg leave to table a petition signed by 42 residents from Clare.</p>
+<blockquote>"This is a petition aimed at having the Department of Transportation to assess the poor condition of the Harrington road and take the necessary measures to fix the problems."</blockquote>
+<p>Mr. Speaker, I have affixed my name to it.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The petition is tabled.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350">
+          <from>MR. ALFIE MACLEOD</from>
+          <p>Mr. Speaker, I'd like to table a petition, the operative clause is, for a better Grand Mira South Road. It is signed by 377 individuals and I have attached my name, as per the Rules of the House.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The petition is tabled.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+        <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4">
+          <from>HON. WILLIAM ESTABROOKS</from>
+          <p>Mr. Speaker, on behalf of the 12 residents of the Old Coach Road, I would like to take this opportunity to table this petition, requesting paving of this road in Goodwood. I have affixed my name to the petition.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of the Voluntary Sector.</p>
+        </speech>
+        <debateSection>
+          <num title="14">RESOLUTION NO. 14</num>
+          <speech by="#5da6e0aa-9066-4b5c-8d26-9222b854db7e"><from>HON. MARILYN MORE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers from Nova Scotia devoted 207 hours, on average, to volunteer work in 2010, the highest average in Canada; and</p>
+<p>Whereas many community groups and organizations in our province would not be able to continue their work without the commitment and dedication of volunteers; and</p>
+<p>Whereas today at our 38<sup>th</sup> Annual Provincial Volunteer Awards ceremony, the provincial government recognized 69 outstanding volunteers who have a common desire to make a difference in their community by giving their time and talents to improving the lives of others;</p>
+<p>Therefore be it resolved that members of this House acknowledge the significant contribution that Nova Scotia's volunteers make to their community, and congratulate the 69 volunteers who have received the 2012 Provincial Volunteer Award.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Health and Wellness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="15">RESOLUTION NO. 15</num>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Autism Spectrum Disorder (ASD) is a developmental disability that affects girls and boys around the world; and</p>
+<p>Whereas every year autism organizations celebrate Autism Awareness Day on April 2<sup>nd</sup> and use this day to spread awareness of Autism Spectrum Disorder and the impact it has on children, families, and communities; and</p>
+<p>Whereas according to Autism Nova Scotia, an organization that helps children, families and communities living with autism, one in every 110 Nova Scotians has Autism Spectrum Disorder;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize April 2<sup>nd</sup> as World Autism Awareness Day, and congratulate the dedication of Autism Nova Scotia and other autism support groups in our province for the valuable services they provide.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 5 - Entitled an Act to Amend Chapter 18 of the Acts of 1998. The Municipal Government Act. (Hon. John MacDonell)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 6 - Entitled an Act to Provide for the Fair Treatment of Children. (Mr. Chuck Porter)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 7 - Entitled an Act to Promote Education Respecting Concussion in Sports. (Mr. Chuck Porter)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that these bills be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <debateSection>
+          <num title="16">RESOLUTION NO. 16</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers provide immeasurable benefit to their communities and our province by putting their minds, hands, and most importantly their hearts, at the service of others; and</p>
+<p>Whereas earlier today individuals and organizations from across Nova Scotia were honoured for their generosity at the 38<sup>th</sup> Annual Provincial Volunteer Awards held in Halifax; and</p>
+<p>Whereas their dedication, support, and true desire to make a difference in both their community and in the lives of others is what makes our province so great;</p>
+<p>Therefore be it resolved that all members of this Legislature congratulate the individuals and organizations recognized at today's 38<sup>th</sup> Annual Provincial Volunteer Awards, and extend our appreciation for the difference they make in the lives of others.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="17">RESOLUTION NO. 17</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in early February Nova Scotians and all Canadians lost a loyal public servant with the passing of Senator Fred Dickson; and</p>
+<p>Whereas Senator Dickson was a respected lawyer, an expert in offshore resources and a tireless promoter of Nova Scotia's energy interests; and</p>
+<p>Whereas since 2008 Senator Dickson served in the Senate of Canada where his advocacy for and on behalf of Nova Scotians was most notable;</p>
+<p>Therefore be it resolved that all members of this House express sincere condolences to the family and friends of Senator Dickson and pause to remember the many important contributions that he has made to our province.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="18">RESOLUTION NO. 18</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas April 2<sup>nd</sup> marks World Autism Awareness Day; and</p>
+<p>Whereas the NDP Government has shown Nova Scotians that public education, especially special needs education, is not a priority by slashing public education funding by $65 million in the last two years; and</p>
+<p>Whereas parents are rightfully worried about cuts to teachers, education assistants, and special needs services and resources as a result of the NDP Government's actions;</p>
+<p>Therefore be it resolved that the NDP Government and the Minister of Education commit, on this World Autism Awareness Day, to reinstate funding to public education, invest in special needs resources, and provide real support to children and families living with autism.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="19">RESOLUTION NO. 19</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are a source of fresh ideas and energy, and their efforts can expand an organization's capacity; and</p>
+<p>Whereas David Shufelt, from the Municipality of Argyle, is a dedicated and loyal volunteer who gets things done, such as organizing a fundraising drive in 2007 which raised $12,000 for repairs to a local church roof and being the co-chair of the April Hubbard fundraiser which raised $55,000 in 2011; and</p>
+<p>Whereas Mr. Shufelt also coaches minor hockey and baseball, and is serving his second term as Grand Knight of the Knights of Columbus 8988;</p>
+<p>Therefore be it resolved that all members of this House of Assembly applaud the significant volunteer contributions of David Shufelt and congratulate him for being recognized by the Municipality of Argyle as their 2012 Volunteer of the Year.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="20">RESOLUTION NO. 20</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the community of Bridgetown has been selected as the 2012 Model Volunteer Community of the Year by the Provincial Volunteer Week Awards Committee, in recognition of its support for volunteers and its impressive number of community accomplishments; and</p>
+<p>Whereas through co-operation, commitment and a desire to enhance the lives of its residents, projects such as a new library, a new fire hall, a new playground at Jubilee Park, a new ice plant for their curling rink, the Bridgetown Area Sports Hall of Fame, the Bridgetown Area Community Fund, and the Bridgetown and Area Youth Ambassador Program came into fruition; and</p>
+<p>Whereas these projects served to foster community spirit and pride in the town and has successfully attracted many newcomers as a result of its community resources and its positive Can Do attitude;</p>
+<p>Therefore be it resolved that the members of the House of Assembly join me in congratulating Steve Raftery, Community Development Coordinator for Bridgetown area and the incredible group of volunteers that give up their time and talents to make their community a better place to live and to work.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="21">RESOLUTION NO. 21</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Jessie MacNeil, daughter of John and Theresa MacNeil from Sydney River, is about to embark on the adventure of a lifetime; and</p>
+<p>Whereas in July, Jessie will be heading overseas on the first leg of a mission trip with the World Race Program that will see her living and working in 11 countries over an 11 month period; and</p>
+<p>Whereas Jessie is a Cape Breton University student who will graduate this spring with a Bachelor of Arts degree in Communication and Psychology;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Jessie MacNeil and wish her all the best of luck in the wonderful experience she is about to take part in.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="22">RESOLUTION NO. 22</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, on behalf of the member for Dartmouth East, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills, physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Andrew Furey, a resident of Dartmouth East, has received a silver Duke of Edinburgh award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that members of the House of Assembly congratulate Andrew on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="23">RESOLUTION NO. 23</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Donald MacEachern joined the Port Hood Fire Department 50 years ago and in 1980 became their longest serving chief; and</p>
+<p>Whereas today, Donald still takes enormous pride in the maintenance of the fire hall, doing whatever it takes to keep it in top shape; and</p>
+<p>Whereas in addition to the fire department, Mr. MacEachern also volunteers with the Chestico Days Parade, the Port Hood Planning Committees and speaks to children whenever he can about fire prevention;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize Donald MacEachern for being named outstanding volunteer by the Municipality of the County of Inverness for 2012.</p>
+<p>Mr. Speaker, I ask for waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="24">RESOLUTION NO. 24</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas April 2 was designated by the United Nations five years ago as World Autism Day; and</p>
+<p>Whereas World Autism Day promotes greater understanding of autism and strives to develop positive perceptions about the remarkable people living with this pervasive disorder; and</p>
+<p>Whereas for the second year, Home Depots across Canada have been participating in the Light It Up Blue initiative, where blue light bulbs are sold to fund research, advocacy and community supports for persons with autism while buildings and homes can shine a light on autism;</p>
+<p>Therefore be it resolved that all members of the Legislature acknowledge today, April 2, as World Autism Day and strive to ensure that adequate early interventions, as well as supports in schools and in the community are available, to ensure the unique talents and skills of persons with autism are fully realized.</p>
+<p>Mr. Speaker, I ask for waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="25">RESOLUTION NO. 25</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Aimee Gordon of Sydney Mines represented Cape Breton Island on the Nova Scotia team at her second Special Olympics Canada Winter Games; and</p>
+<p>Whereas Aimee participated in speed skating and her sponsors, Haley Street Adult Services Centre and Resi-Care, are thrilled that she was chosen to be on the Nova Scotia team; and</p>
+<p>Whereas Aimee and approximately 700 participants converged on St. Albert, Alberta, for the Special Olympics Canada Winter Games;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Aimee for her success at the Games and her many great memories of this event.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hammonds Plains-Upper Sackville on an introduction.</p></speech>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301">
+            <from>MR. MAT WHYNOTT</from>
+            <p>Thank you very much, Mr. Speaker. I'm glad to rise tonight to introduce a Girl Guide unit from the Sackville area. What I'll do is ask the Guides themselves to rise when I say your name. We have Lauren Geizer, Emma Murphy, and Megan McNeil, if you guys can stand and receive the warm welcome of the House. They're here with their leaders Sarah Bent, Natasha Juntermanns, Susan MacKenzie, and Wendy Murphy. They are from the 5<sup>th</sup> Carter Unit of Guides in the Sackville area, so I ask the House to give them a warm welcome. (Applause)</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Clare.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <num title="26">RESOLUTION NO. 26</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the backbone of every community in Nova Scotia and the people of Clare are proud of the many dedicated individuals who give of themselves each day to make our municipality a better place to live; and</p>
+<p>Whereas this year the Clare community has selected one of its outstanding citizens as Volunteer of the Year, and this individual has given much in the way of time and energy to various organizations; and</p>
+<p>Whereas through this individual's genuine warmth and caring toward others, she has become a valuable asset to the organizations that she has been involved in;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Joan Tufts of Saulnierville for being named Clare's Volunteer of the Year for her outstanding contribution to her community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="27">RESOLUTION NO. 27</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 44 per cent of Nova Scotia seniors volunteer by giving their time and talents to their communities; and</p>
+<p>Whereas Lyman Little of Ellershouse embodies the true spirit of volunteerism, as he has assisted for the past 15 years with the Ellershouse Community Hall association, as a member of the Oakhill Cemetery committee, and has served as a church elder with the St. Louise Church for more than 40 years and as janitor of the church for 51 years; and</p>
+<p>Whereas Lyman first began singing in the church choir when he was 14 years old and today remains a committed supporter of the Canadian Red Cross and Canadian Blood Services, having donated blood more than 60 times;</p>
+<p>Therefore be it resolved that all members of this House of Assembly applaud Lyman Little of Ellershouse for volunteer work above and beyond the call of duty and congratulate him for being recognized by the Municipality of West Hants as their 2012 Volunteer of the Year.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Preston.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="28">RESOLUTION NO. 28</num>
+          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Kathy Gray was born and brought up in Windsor, Nova Scotia, and married the boy next door, Glenn Gray, and together they had four children; and</p>
+<p>Whereas her husband heeded the call for the ministry and she moved with him to various charges, and in each case they renovated, improved, or enlarged each church together until they built a new church in Westphal, Nova Scotia, called New Beginnings Ministries; and</p>
+<p>Whereas she, along with her husband, formed cell groups, TLC groups, and drama groups and started or supported Sunday schools in each area where they worked, and when the new church was built, she became choir director and formed one of the best choirs in all of Nova Scotia;</p>
+<p>Therefore be it resolved that the members of this House recognize and acknowledge the dedication and many contributions Kathy Gray has made for her community and for Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="29">RESOLUTION NO. 29</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Denise Sampson from the Town of Port Hawkesbury volunteers her time and talents with the Port Hawkesbury Highland Dance Association and has served as co-chair for the Festival of the Strait for the past five years; and</p>
+<p>Whereas Denise is one of the first to step up to the plate when someone is in need, saying she wants to be a positive role model for her daughter and be part of her activities; and</p>
+<p>Whereas it is people like Denise Sampson who keep our communities vibrant;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize the significant volunteer commitment of Denise Sampson in being named the 2012 Volunteer of the Year by the Town of Port Hawkesbury.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="30">RESOLUTION NO. 30</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Bakers Journal, a national magazine based out of Ontario, featured an ultimate pie contest; and</p>
+<p>Whereas the Masstown Market in Colchester North, one of the three finalists, was chosen as winner over the Toronto and Vancouver based runners-up; and</p>
+<p>Whereas the pie was chosen because of its crust, its filling, and its balance of flavor including haddock, cod, scallops, shrimp, cream cheese, cheddar cheese, red peppers, potato, corn and undisclosed spices;</p>
+<p>Therefore be it resolved that all the members of the House of Assembly congratulate chef Megan Anatol, fish market manager Mike DeSaulniers, and Masstown Market owner and operator Laurie Jennings for winning this national competition and for bringing recognition to Masstown Market, Colchester North and Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="31">RESOLUTION NO. 31</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Sydney Mines native Arlene Baxendale was among one of the first six civilians to be awarded the Alberta Emergency Services Medal for years of service supporting Emergency Management in Alberta; and</p>
+<p>Whereas Ms. Baxendale is an instructor for the Canadian Emergency Management College in Ottawa, an instructor in emergency management for Northern Alberta's Institute of Technology and also teaches Foundations to Community Development at Rocky Mountain College in Calgary; and</p>
+<p>Whereas Arlene has been involved with emergency management for the last 24 years and she works corporately looking after emergency response plans and running emergencies in the fields;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Arlene Baxendale on receiving this ground-breaking award, thank her for her many years of public service and wish her continued success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="32">RESOLUTION NO. 32</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Charles Edward Aitken was an extraordinary individual who always brightened any room he entered with his dazzling smile and can-do attitude; and</p>
+<p>Whereas Ed was a consummate salesman, running his own sales and marketing firm, and a valued volunteer serving on a variety of organizations, including the IWK Kermesse and Celebrate Canada, and was especially active volunteering for federal and provincial Liberal Party candidates; and</p>
+<p>Whereas on Saturday, March 10, 2012, Ed lost his 10-year battle with a very rare form of cancer, chordoma, leaving his many friends and family to mourn the loss of a real gentleman, a true and valued friend;</p>
+<p>Therefore be it resolved that the members of this House send their condolences to Ed's family, including the love of his life, his wife Marie, and his siblings Audrey Hall, Janet Harris and Jim Aitken and their families, and wish them Godspeed.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="33">RESOLUTION NO. 33</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas based on the latest statistical information Nova Scotians on average donate 207 hours to volunteer work on an annual basis, the highest average in Canada; and</p>
+<p>Whereas based on her community involvement, Michelle Symes from the Municipality of Victoria County would have to be at least one of the Nova Scotians contributing 207 or more voluntary hours per year, based on her work with Ross Ferry Fire Department, where she has consistently arranged to conduct the training sessions for the department under a wide variety of topics; and</p>
+<p>Whereas Michelle also volunteers at the Atlantic Burn Camp and is a member of the Parent Support Group at Boularderie Elementary School, while also taking time this past year to volunteer for Celtic Colours;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize the significant volunteer commitment put forth by Michelle Symes in being named 2012 Volunteer of the Year by the Municipality of Victoria County, and wish her and her family the very best in all future endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="34">RESOLUTION NO. 34</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas while Canada celebrates Queen Elizabeth's Diamond Jubilee, medals are being awarded to Canadians who have made significant contributions and achievements; and</p>
+<p>Whereas Yarmouth resident, nine-year-old Bryden Hutt, was presented the Diamond Jubilee Medal by the Prime Minister and Governor General for his continued efforts to raise money for the Children's Wish Foundation at a ceremony at Rideau Hall on February 6, 2012; and</p>
+<p>Whereas Bryden, a Grade 3 student at Meadowfields Community School and Canada's youngest recipient in February, has a rare immune deficiency known as Omenn syndrome and was granted his own wish in 2008, a trip to Disney World;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate nine-year-old Bryden Hutt for receiving this prestigious honour, and recognize him for giving so much to his community and beyond.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="35">RESOLUTION NO. 35</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on January 24, 2012, the Knights of Columbus Council 8988 presented a cheque for $5,000 for the Sainte-Anne's Parish building fund; and</p>
+<p>Whereas two of the church steeples had to be repaired at an estimated cost of $64,000; and</p>
+<p>Whereas the Knights of Columbus organized a lottery to help raise funds toward the repairs;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank the Knights of Columbus for organizing this lottery and thank them for their efforts to help maintain the integrity of the structure of Sainte-Anne's Church, the oldest Acadian parish of the region.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="36">RESOLUTION NO. 36</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Carl and Evelyn Palmer of Harmony, Kings County, continue to travel across this country promoting farm safety, like they have now for the past 32 years; and</p>
+<p>Whereas Carl and Evelyn Palmer have played key roles in the creation of provincial and national farmers with disabilities associations; and</p>
+<p>Whereas the Palmers have taken part in Canada Agricultural Safety Week from March 11-17, 2012, where the campaign's three-year theme is Plan Farm Safety;</p>
+<p>Therefore be it resolved that this House of Assembly recognize Carl and Evelyn Palmer of Harmony, Kings County, for their continued leadership in promoting farm safety all across Canada.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="37">RESOLUTION NO. 37</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Cyril MacDonald from Albert Bridge was recently elected to the Student Representative Council as a member for the Shannon School of Business; and</p>
+<p>Whereas Cyril is the son of Abe MacDonald and Brenda Williamson; and</p>
+<p>Whereas Cyril MacDonald is an active student at the Cape Breton University;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Cyril MacDonald and wish him the very best in his future endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Preston.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="38">RESOLUTION NO. 38</num>
+          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the general rate on power has increased by 38 per cent since 2001; and</p>
+<p>Whereas the NDP added a tax on every power bill in the province, which will amount to an extra $53 next year; and</p>
+<p>Whereas Nova Scotians are struggling to keep up with ever-increasing power rates under this NDP Government;</p>
+<p>Therefore be it resolved that all members of this House of Assembly remind the Premier that Nova Scotians cannot afford these high increases in the price of power and that the Premier's continued inaction is making life very expensive for all Nova Scotians - they called it a better deal for all families.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="39">RESOLUTION NO. 39</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Captain Richard Smith of Windsor is one of 453,000 volunteers in Nova Scotia who contribute $1.8 billion worth of services to the province's economy; and</p>
+<p>Whereas Richard joined the Windsor Fire Department in 1991 and by 1993 received the Outstanding Achievement Award from the Windsor Fire Department Veterans Association for his work in promoting fire prevention, and was recognized again by the Veterans Association in 2007 for his work in training firefighters in rescue boat operations; and</p>
+<p>Whereas in addition to the fire department, Richard is a survivor of prostate cancer and one of the many who supports the Canadian Cancer Society Relay for Life Campaign, and serves on the Town of Windsor's Police Advisory Committee;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Captain Richard Smith for being recognized by the Town of Windsor for his outstanding volunteer work and wish him continuing success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="40">RESOLUTION NO. 40</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the owners and staff of Imagine Salon and Spa of Bedford determined last year that they wanted to raise money to combat breast cancer; and</p>
+<p>Whereas the salon raised money by holding bake sales, gift basket draws, and producing and selling a calendar developed by the salon, featuring 16 women and one man, all survivors of breast cancer; and</p>
+<p>Whereas the salon reached its goal on February 26, 2012, when staff, clients, friends, family, and breast cancer survivors all gathered at Imagine to celebrate the donation of $10,000 to CIBC Run for the Cure, Breast Cancer Action Nova Scotia, and Dalhousie Medical Research;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Imagine Salon, owners Ian Marc Smith and Jacqueline Smith, and all of their staff for comforting and encouraging breast cancer survivors while generating funds for research.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="41">RESOLUTION NO. 41</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Atom B's Baddeck Bobcats won a silver medal at the Provincial Qualifying Tournament in Cheticamp in February; and</p>
+<p>Whereas the Baddeck team was seeded fifth in the league standings and faced an uphill battle from the start but defeated Ch&#xE9;ticamp, Port Hood, and New Waterford to capture silver against all odds; and</p>
+<p>Whereas as a result of their success at the Provincial Qualifying Tournament, the Bobcats will advance to the regionals;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Baddeck Bobcats players Joshua MacDonald, Jessica MacLean, Keanna Pierro, Bauer Matheson, Ben MacKenzie, Carson Buchannan, Josh Bennett, MacKenzie LeBlanc, Drew LeBlanc, Kenzie MacFarlane, Robert Berk, Zachary Bennett, and Michael Cameron, and coaches Sheldon Matheson, Edward Cameron, Lawrence Bennett, and Jason Leblanc, and wish them the best in the regionals.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Richmond.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="42">RESOLUTION NO. 42</num>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, on behalf of the member for Dartmouth East, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service, and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Evan Forde, a resident of Dartmouth, has received a silver Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Evan on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="43">RESOLUTION NO. 43</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the SHYFT home in Yarmouth has been a safe haven to many homeless youth, giving them a safe place to stay and access necessary services; and</p>
+<p>Whereas SHYFT will no longer be able to provide supportive housing to troubled youth as of March 31<sup>st</sup> without funding from the Departments of Community Services, Justice, or Health and Wellness; and</p>
+<p>Whereas despite calls from the community, staff, and residents past and present to fund SHYFT house, the Minister of Community Services still refuses to provide that funding;</p>
+<p>Therefore be it resolved that this NDP Government fund SHYFT so that they can continue to support youth in keeping a roof over their heads and help them in reaching their full potential.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Glace Bay.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="44">RESOLUTION NO. 44</num>
+          <speech by="#2c8e1a56-2f9d-4156-a91f-77802701e3d3"><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas from March 22-25, 2012, the 23<sup>rd</sup> Annual Vince Ryan Memorial Scholarship Hockey Tournament was hosted in my great community of Glace Bay and across many rinks in Cape Breton; and</p>
+<p>Whereas the tournament hosted over 130 men's and women's teams from across the province, country and continent, bringing thousands of hockey players and visitors to our island and leaving a lasting legacy, and cultural and economic impact on our communities and region; and</p>
+<p>Whereas the annual tournament has generated close to $300,000 in its 23-year history, providing scholarships in the amount of $1,000 to all high schools in Cape Breton;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Katherine Ryan and the Ryan family, tournament organizer Mr. Rich Warren, and the hundreds of volunteers who dedicate themselves to making the Vince Ryan into one of the largest adult hockey tournaments in the world, and we look forward to the 24<sup>th</sup> edition of this legendary hockey celebration.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT MOTIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, I move that the adjourned debate on the Address in Reply to the Speech from the Throne be now resumed.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Richmond.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, it's a pleasure to rise this evening as the member for Richmond and to share a few comments regarding the Speech from the Throne, 2012 edition. This is the third edition that we've been given the pleasure of being entertained with. (Interruptions) It's the fourth? Well, look at how time flies by, there were two in one year. We're up to number four, which is interesting because I've said a few times for those members who might not have heard me say it, the NDP has spent its entire existence in Opposition prior to the last provincial election so one would have thought they clearly had time on their hands to develop a vision and a plan of where they want to bring Nova Scotia.</p>
+<p>But here we are, the fourth edition of the Speech from the Throne, and we've yet to hit the third anniversary of this government's first mandate from the July 2009 provincial election.</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>It was June.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>MR. SAMSON</from><p>It was June, was it? Okay.</p>
+<p>I'll speak a little bit about elections and why I might get confused at times as I go on, Mr. Speaker, and I'll have the chance to get a bit more into some of the areas of the Speech from the Throne, but first, as is customary, I want to recognize Her Honour Mayann Francis, the Lieutenant Governor of Nova Scotia, who will soon be ending her term. I want to thank her on behalf of the residents of Richmond County.</p>
+<p>I believe she made a number of visits to our county. One that I recall was she presented one of her Community Spirit Awards to the South Mountain Arm of Gold Association, which is located right along the Bras d'Or Lakes, just outside the community of Dundee. It is probably one of the more active organizations in Nova Scotia. Most of them are retired but they continually put on activities on a regular basis. I certainly was pleased to support their nomination and I know they were extremely proud when Her Honour came to personally deliver the Community Spirit Award to the membership and the executive of the South Mountain Arm of Gold Association. So again I want to express my personal thanks and that on behalf of the residents of Richmond County for the dedication and commitment she gave to her role as Lieutenant Governor of our province.</p>
+<p>Now, Mr. Speaker, I got confused a bit earlier about the last provincial election, but one thing that I recall very fondly was an anniversary which just recently passed, March 24, 2012, for a couple of important occasions - it is my father-in-law's birthday but the other important milestone is that it was on March 24, 1998, that I first had the privilege of being elected to represent the people of Richmond County. (Applause)</p>
+<p>Mr. Speaker, 14 years have gone by very quickly and I do want to recognize the remaining members of the Class of 1998 - we're down to eight members now. I'm the only member from our caucus, but on the government side the Premier, Deputy Premier, the Minister of Service Nova Scotia and Municipal Relations, the Minister of Health and Wellness, the Minister of Transportation and Infrastructure Renewal - they almost all went to Cabinet - and then the member for Halifax Chebucto as well are the remaining members of the Class of 1988. So I certainly want to extend my congratulations to them as well because we were elected on the same date and we went on to face our electorate on four other occasions - the fact that we're here, and all of us, I have to say, made it through all five elections.</p>
+<p>I shouldn't forget as well that the member for Pictou West was a member of the Class of 1998 but he did take a bit of a sabbatical at one point - he wanted to focus on a few other things, but he did come back to the Chamber. That often happens when you have five elections in 14 years; it certainly is not what we would say is the norm.</p>
+<p>Mr. Speaker, when I look back at the March 24, 1998, date, previous to me serving in Richmond we had been represented for 10 years by Richie Mann, who had served as a very strong advocate for the people of Richmond County and was a minister who held a number of important portfolios in the Savage Government. Ironically, in the Savage Government he was also the House Leader for the Savage Government, so I'm pleased to see that Richmond County has been able to continue the tradition of having their members serve as House Leaders as this is my first session of having the privilege of serving as the House Leader for the Official Opposition. In saying so, I certainly want to recognize my colleague, the member for Cape Breton South, who has been House Leader for our caucus since 1997. So even before I got elected, he was the House Leader under Premier Russell MacLellan and he remained our House Leader right up until very recently when I was named to the post. (Applause)</p>
+<p>In 1998, it was I believe January, Mr. Speaker, when Richie Mann announced that he would not be reoffering after 10 years of service to the people of Richmond County as their MLA and thus became the debate of who should run for the Liberal nomination. At the time I was completing my articles after graduating from law school with a law firm here in Halifax - Blois, Nickerson &amp; Bryson. After an evening of lively discussion with friends and going through a period of elimination, it suddenly showed up to me and said, well, why don't you run which at the time I laughed. Being 25 years of age and doing my articling, I certainly did not see that as an opportune time to be running for elected office but it's one of those things that when opportunity knocks, one should be very careful to close that door.</p>
+<p>So on March 1<sup>st</sup>, the election was called mid-February and we had already set a date of March 1<sup>st</sup> for nomination knowing the election was March 24<sup>th</sup>. We had three candidates running for the Liberal nomination and there were 627 voting delegates on the first ballot. I've got to say for a fairly small riding to get, that day there were well over 800 people out because a number had come just to see, knowing how many people there was going to be, and after the first ballot I was 16 votes shy of taking it on the first ballot. So the third place candidate dropped off and we went to a second round.</p>
+<p>I can tell you, Mr. Speaker, it was flu season and a number of our supporters said, well, you know, he has come so close, he's obviously going to win it, so we're just going to go home rather than stand in line and vote again. It made for a very interesting challenge of trying to find our largest supporters to block the doors and not let our people go before they went out and voted because one was not going to maintain the momentum of the first ballot if the first ballot supporters were not going to stay to vote again.</p>
+<p>So, Mr. Speaker, it was an exciting end to the day. I ended up winning on the second ballot by 36 votes so it was fairly close and it made for an extremely exciting time and the very next day we were off into the campaign because the campaign was already two weeks underway. If anyone thinks that was pretty close, the dates of March 1<sup>st</sup> to March 24<sup>th</sup>, it was only 23 days to campaign. My colleague over in Inverness, Charlie MacDonald, only got nominated a week after me. So he was March 7<sup>th</sup> or March 8<sup>th</sup> I believe to be nominated for a March 23<sup>rd</sup> election. I'm happy to say that he won with a commanding victory in Inverness in the 1998 election.</p>
+<p>So, Mr. Speaker, those are my very fond memories. If someone had told me at that time that I would still be representing the people of Richmond County 14 years later or, more importantly, that in doing so I would have to face four more elections in order to be able to achieve that, I'm not sure how many - whether myself or my other colleagues from the Class of 1998 - would have been so eager to put our names on the ballot knowing what we were going to be faced with because prior to that elections were being held every four years. In the case of the 1998 election it had been a full five years and yet here we were, we got elected on March 24, 1998. The next election came in July 1999. The next election was in August 5, 2003. Some people remember that a bit more than I because that would be when they may have arrived in this Chamber and after 2003 we had the election in 2006, which I believe was a summer election as well. That was a June election. You can tell who got elected in which election just from who's giving the specific dates. Then we had the election, I believe they said earlier it was June 2009, which was my last election.</p>
+<p>I'm proud to say, Mr. Speaker, in my case it was the election that I won with the largest majority and that was in the face of a very clear orange tide going through the province, so I was certainly very humbled to see the level of support. Richmond County is an area that certainly focused heavily on who their representative has been and has often voted against the government in choosing who was going to be their elected representative. I was very humbled to have the opportunity to serve them again.</p>
+<p>Mr. Speaker, after 14 years you look back at some of the changes that have taken place. When I speak of that nomination on March 1, 1998 there were pictures taken of the crowd. When I sit back now and look at some of those pictures, it just amazes me to see how many of those faces are no longer with us. If I look in Richmond County - what I've done over the years is when someone passes away I send a handwritten card to their spouse, their children, their brothers and sisters. I haven't kept track but I believe most of the cards are ordered here from the Legislature, but I would dare say that we are well into the thousands. That is unfortunate because we have lost a lot of good men and women in Richmond County during those 14 years - both family, friends, supporters, opponents, people who ran against me for elected office who are no longer here. It's difficult when you think of all those who have passed on in that time, some of the friendships that were formed and the changes that take place over time with elected office.</p>
+<p>Mr. Speaker, I, as well, wanted to extend my deepest sympathy. I know in the Throne Speech, it referred to notable Nova Scotians who have passed away. Some I knew but others were names I certainly was aware of. I, as well, want to echo my sympathy to the family of Senator Fred Dickson. I know that the Leader of the Progressive Conservative Party read a resolution this evening recognizing his passing and his many accomplishments. I had the opportunity to meet with him a number of times, especially on the Energy file. I know he certainly had a vast interest in mining development in Cape Breton and the potential for a number of projects there and I had the opportunity to discuss that with him at length.</p>
+<p>I can tell you that I would have appreciated the opportunity to hear more about his experiences when he was 25 and 30 and 40 years old and the workings of someone who was very close to the government of the day, the Buchanan Government, and the work that he did as a strategist, as a supporter. I certainly would have enjoyed hearing his stories because obviously they were stories of success, considering the amount of majority governments that the Buchanan Government was able to achieve.</p>
+<p>For us, as a Liberal Caucus, it is with great sadness that we, as well, since the last Speech from the Throne, saw the loss of Richie Hubbard who was a well-respected, well-liked, friendly individual who served the people of Yarmouth here in this Legislature. Richie continued, even after being in elected office, to be a very active member of our Party, a well-respected member of our Party, he, along with his wife Barb, and it was certainly a loss for us when Richie passed on.</p>
+<p>As well, Mr. Speaker, we lost another success story, both in business and in elected life, with the passing of Harold Huskilson who served here for many years as the MLA for Shelburne, also served in the Cabinet of Premier Gerald Regan, as well as being a very successful businessman in his own right. I believe it's quite rare in Nova Scotia politics that we've seen a father be able to hand over the reins to his son, not only in business but as well in elected office because it was his son, Clifford, who replaced him in elected office as the MLA in Shelburne. Clifford has taken over the family business as well. I and our entire caucus want to extend our deepest sympathies to the family of Harold Huskilson and, as well, to the many residents of Shelburne County, which he worked for, and who would have supported him during his lengthy time in office.</p>
+<p>I as well want to express both my shock and sympathy to the family of former Deputy Minister Peter Underwood. I did have the opportunity to work with Peter on a number of files affecting my constituents. I always found him to be a very knowledgeable individual, a very pleasant individual to approach, someone I would often see walking on the street from our office here at the Bank of Montreal building. He worked in the same building for a period of time and held a number of portfolios as deputy minister. Certainly, the news of his passing came as a shock considering his age and everything else, so to his family, our deepest sympathy and our thanks for someone who clearly dedicated almost all of his working life to the service of the people of Nova Scotia.</p>
+<p>Mr. Speaker, I wanted to take the opportunity to look at a few of the items that were raised in the Throne Speech, and as well, a number of the items that were not raised in the Throne Speech that was read by Her Honour. First, I would be remiss if I didn't state again my disappointment. Having been elected for 14 years I have heard a number of Throne Speeches, and prior to this government I have never heard a Throne Speech delivered by a Lieutenant Governor of Nova Scotia that had any political references in it - never. This is not the first time, because it has happened before that this government has chosen to use the Throne Speech, which is read by what is considered to be the head of state for Nova Scotia, the Queen's representative. I find it extremely unfortunate to make political references in that speech, because as the Lieutenant Governor, she really has no ability to refuse to read a speech or refuse to read the contents.</p>
+<p>There is a part very early in the speech where it makes reference to the previous administration. Now, this is not year one of this government and it's not year two. It's year three, and I find it very unfortunate to take the fourth Throne Speech to again be making a political cheap shot at the previous government. If you look at the pomp and ceremony that go along with a Speech from the Throne, you would expect that the government is going to show respect to our head of state and leave out those types of comments. We cannot challenge the Lieutenant Governor on what she is saying, nor can she defend herself in what she is reading. I find it extremely distasteful that the government would have chosen the Throne Speech to make that type of political shot. Whether it be at our caucus or whether it be at the other caucus, it was simply inappropriate. I can tell you in my 14 years I haven't seen it done until the election of the NDP.</p>
+<p>It goes on a bit further into the speech, where I find it gets even worse when it's talking about energy development and the cost of energy - those who would " &#x2026; curse the darkness rather than light a candle." Mr. Speaker, why would you put that in a speech read by the Lieutenant Governor, when you look at the ceremony that took place? Who would put that in there and find that that is not distasteful? I would certainly hope if this government is going to do another Speech from the Throne that they would show more respect to the head of state here in our province. We all know there are lots of opportunities in our Chamber if we want to speak about politics and speak about previous governments or speak about the current government. We're elected officials and we have lots of opportunities to make statements and to defend them, but to ask the Lieutenant Governor to sit there and read political statements was completely inappropriate.</p>
+<p>That would not be the only thing that I would deem to be inappropriate, because when one looks at the unprecedented amount of taxpayers' dollars that are currently being used by this government for politically-motivated advertising, I would again say, completely inappropriate. When they sat on this side of the House they criticized the previous government of John Hamm and the previous government of Rodney MacDonald for what they termed to be political-type advertising. So one can say that the ads for jobsHere are not politically motivated, the ads for Better Care Sooner might not be politically motivated, the ads for 811 might not be politically motivated. But, Mr. Speaker, you would have seen a number of signs popping up in different areas around the province. What do those say? Well in the last election we know that the NDP campaigned on their slogan, "A Better Deal for Nova Scotia Families". So we are now seeing signs that say, "Making life better for today's families".</p>
+<p>Now we are asking public servants, paid for by taxpayers, to put these types of slogans on literature, to have signs printed and asking public servants to go and erect those signs. If that is not political advertising, what is it? It is very similar to what the Harper Government has been doing, yet if you look back at the criticisms that were made by this government when they sat in Opposition, you would clearly see how their actions today are inappropriate. I don't see how any independent person could look at the political slogan of "A Better Deal for Nova Scotia Families" and then look at a government slogan of saying "Making life better for today's families" is not the same.</p>
+<p>To show you how - and this where too often a government in its rush to try to take credit for everything they do and try to make Nova Scotians feel, at a time when they are cutting education, at a time when they are cutting health, at a time when they are firing mental health, addiction workers, they want the public to look somewhere else. So lo and behold, walking out of the Bank of Montreal building here on George Street in downtown Halifax, what do you look at? You look at staging across the road that is around the Dominion Building, which is part of the Art Gallery of Nova Scotia. Here's the big sign that taxpayers paid for, that a civil servant was asked to draw up, do the design work, print it and then someone had to go and climb the scaffolding to erect this sign. What does it say? "Making life better for families."</p>
+<p>It has the Premier's name on it, the Minister of Communities, Culture and Heritage and what does it say on the bottom? Exterior renovations, sandstone to the Dominion Building. Now if anyone can explain to me how that makes life better for families, I'd be curious to hear which member of the government side can justify that. If that is not political advertising at its worst, what is?</p>
+<p>Mr. Speaker, when a constituent comes in to me and says, I can't pay my power bill, can I show them that sign and say well don't complain about not being able to pay your power bill because look what the government is doing, they are fixing the exterior of the Dominion Building and that's making life better for you, according to this government. When they come in and say, I can't pay my rent because Community Services has not kept up with inflation and the cost of living is going up, I can show them that sign. I've taken a picture of it so I can have it and say well no, no, everything is fine because they are fixing the exterior of the Dominion Building in downtown Halifax, which is making life better for you under this government.</p>
+<p>Mr. Speaker, when a mother comes in and says, I can no longer take my children to all their sporting activities because of the price of gas, I will again be able to show them the picture and say, relax, because the government is fixing the exterior of the Dominion Building in downtown Halifax, which is making life better for your family.</p>
+<p>Now, Mr. Speaker, if that is not proof of a government that is out of touch with the needs of everyday Nova Scotians, I don't know what is. The reason why is because the NDP as a Party, as I said before, spent its entire existence in Opposition. It always said it was the one Party of principle - the Liberals and Tories went all over the place but they were the Party of principle, they were the Party of putting people first, or can we even say, a better deal for today's families. Yet what I can tell you now and what I've said to the media when they've asked me is that this government has but one focus now - not on families, it's not on seniors, it's not on students, it's not on children with mental health addictions, it's on one thing and one thing only - winning the next election. That is the only priority that this government has right now.</p>
+<p>It's become obvious. How else would a Premier be able to say, put my name on a sign on the Dominion Building in downtown Halifax that's getting its exterior fixed and I want you to put the slogan, this is making life better for families? I hope the Premier will stand in his place and explain to Nova Scotians how that is making life better for their families. (Interruptions) Well, I'm afraid, Mr. Premier, you are going to have to listen for a little bit longer because, if I'm not mistaken, there are about 35 minutes left, if the Speaker wishes to correct that. So it might be a little bit.</p>
+<p>Mr. Speaker, our Leader mentioned it when we go back to the Speech from the Throne, and just to show you the irony of how the government is, look over here. To hear them talk in their Speech from the Throne about the success of Michelin here in Nova Scotia, the irony of that - if I could even say the unmitigated gall of them to put that in the Throne Speech and try to say, somehow, they're responsible for that or that they truly value that. It was just last Fall that for the first time in my 14 years - never before, and in that 14 years almost all of those years were spent sitting on the Committee on Law Amendments, I never saw anyone from Michelin appear at the Nova Scotia House of Assembly. It took an NDP Government, with its labour-friendly law, anti-business law agenda, to bring Michelin here and to speak in some of the strongest language I've ever heard presenters give.</p>
+<p>It came down to a question of credibility, because when the Premier initially met with Michelin, it was reported that they had used very strong language with him and said that future investments were in doubt. Our Leader put the question to the Premier here in this House - Hansard will show that - and the Premier stood there and said no such thing was said, nothing at all, an exaggeration by the media, an exaggeration by the Leader of the Official Opposition. No such thing was said.</p>
+<p>I wasn't at that meeting, Mr. Speaker, I don't think you were either. The Premier was there, representatives from Michelin were there, so at that point we were left with the Premier's version of events. We had no other way of knowing what was said, what the tone of the discussion was. Whatever the Premier reported, that's what we had to go with.</p>
+<p>But when Michelin came to the Committee on Law Amendments and made their presentation, they were fairly strong in their presentation. I had the opportunity to ask supplementary questions after their presentation and I asked the gentleman that was there, very specifically, when you met with the Premier, did you indicate anything about the impact of this legislation? He very clearly said, we informed the Premier that passage of this type of legislation would call into question any future investment in Michelin's three facilities in Nova Scotia - Mr. Speaker, exactly what our Leader questioned the Premier on.</p>
+<p>At the time we were left with the question, who do we believe? Do we believe the Premier who says no such thing was said? Or, do we believe this individual who has come in, who has, to our knowledge, no political agenda other than trying to ensure the best interests of his company and certainly his interest in Nova Scotia based on his presentation, his commitment to the company here in our province? Why is it that when it was first reported, the Premier wouldn't have simply acknowledged that?</p>
+<p>If there is one company in Nova Scotia which has received significant attention, which has its own legislation, it's Michelin. How ironic as well, not only their discussions with the Premier but if I'm not mistaken, all three of their facilities are located in government-held ridings. Yet, here is a company that in my 14 years never appeared in front of this Legislature, never saw legislation which caused it concern that would lead it to come down here and yet, for this bill, they came. They gave that message.</p>
+<p>And we heard it from Sobeys, another company that I don't believe I'd ever seen come before the Committee on Law Amendments, and Clearwater, and some of our largest employers. Here we are now, after hearing that, and yet in the Speech from the Throne anyone who didn't know about Bill No. 102 and first contract arbitration might say what a wonderful relationship this government has with Michelin and they're celebrating their success. But that's the gall that this government has of trying to make Nova Scotians forget what has really happened, the changes that they have made, and where that was another example of where on the order of priority, do you support a strong business climate that's been working or do you reward your friends in the labour movement that have given your political Party millions of dollars over the years? I think Nova Scotians can draw their own conclusions.</p>
+<p>Mr. Speaker, one of the things that's mentioned in the Speech from the Throne, which I have to say as a representative from Cape Breton drew my attention, was this reference to a Cape Breton Strategic Framework Advancement project.</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>What the heck is that?</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>MR. SAMSON</from><p>I wouldn't want to try to say that one three times fast but, you know, what is that? What does it tell us in the Speech from the Throne? It says that " &#x2026; will tap into the amazing potential the Island holds."</p>
+<p>So I guess we have to wait and see what this means because, Mr. Speaker, as a member from Cape Breton, that's the first time I heard of any such reference to this. Is it something for the economy? When it talks about potential, is it tourism, is it mineral development, is it the possible NASA landing station that they talked about before? Which one is it? I can tell you, Mr. Speaker, the people of Cape Breton are getting tired of strategies and they're getting tired of projects - they really are - because right now in my riding, which I'm sure is the same thing for Inverness and ridings throughout Cape Breton, people are extremely worried. It doesn't take long to look around and to see there are many more seniors than there are young people in Cape Breton, in communities throughout.</p>
+<p>One of the things that I'm disappointed that's not mentioned in this Speech from the Throne is any sort of specific economic development plan for communities such as the Strait with the NewPage mill being closed, or even for the South Shore with the uncertainty that exists at the Bowater pulp mill - there is no reference at all.</p>
+<p>I can tell you, Mr. Speaker, the days when the NDP were in Opposition, if any Speech from the Throne didn't mention Cape Breton or specific initiatives, we certainly heard about it. Yet the people in the Strait area are asking what is there in the Speech from the Throne that gives us hope, what is there for over half the workforce, almost 300 tradespeople, who will not have a job once the mill reopens - which we're all hoping will be sooner rather than later. They've already been told only half the workforce will be required. What is in this plan for all those workers and their families? What is in the Speech from the Throne to talk about the pensions at NewPage and the significant deficiency that exists in those pensions?</p>
+<p>Mr. Speaker, I can tell you, and I'm sure you're probably aware - it's different in your riding than mine - but in Richmond County, other than teachers and a couple of civil servants, the only people with private pension plans were the workers of Stora and NewPage; that was it. I would say 70 per cent of my retirees are probably drawing the supplementary which is just bringing them to a basic level of income - Canada Pension Old Age Supplementary. Maybe 30 per cent had private pension plans and of that 30 per cent, they were either teachers or they were employees of Stora and later NewPage. If those pension plans are going to cut benefits by the amounts that have been suggested, that is going to be an extremely difficult blow to the economy of the Strait area because of the fact that we have so many seniors living in our community - if their income is reduced, it affects the entire economy.</p>
+<p>At this point we're still in wait-and-see mode, and I know many of the pensioners, especially those who have retired in the last year or so, who made decisions of their retirement and made decisions on investments and on expenses they incurred based on what their pension would be once they were done work. Now for it to be suggested that that could be reduced by 30 per cent - possibly 40 per cent - that is going to cause true economic hardship, so one cannot just talk about the potential job losses even when the new operator reaches agreement to be able to resume operations. It's not only those job losses that we know of but it's certainly going to be the significant impact that any reductions are going to take place in those pensions and the impact on both the workers, their spouses, their widows and their families.</p>
+<p>Mr. Speaker, what was interesting as well is this government's desire to have strategies for everything. Again, when you're into year three, one would suspect the government has a bit of a sense of where they're going to go and how they're going to get there. Yet, just a few that I noted in looking quickly through the Speech from the Throne are the International Commerce Strategy, there's one. Then we're going to have a Commercial Fisheries Strategy, and then we're going to have an Aquaculture Strategy. This certainly begs the question of where we are at with these strategies, especially when you look at aquaculture and you look at the seafood industry, which I'm sure the minister knows, is one of our most significant exports we have in this province and yet we're talking about strategies. We're talking about strategies, what have we been doing this whole time that we're talking about strategies?</p>
+<p>Mr. Speaker, I did have the opportunity to attend the International Boston Seafood Show with the minister and with a number of companies from Nova Scotia. While it is always impressive to see where our industry is in our province, it's also quite obvious that we are behind other provinces in the development of aquaculture, in the development of secondary processing. That's an issue which I have been talking about for years, not only with this government, with the previous administration as well and even in our time in government - how do we find ways of doing that value-added processing? Whether it's with mussels, whether it's with scallops, whether it's with lobster, crab, shrimp - everything you can think of because we need to find new creative ways. When you look at our lobster fishery and our crab fishery as examples, they are fished in a very sustainable fashion and sustainability is a big issue today. More and more consumers are concerned about how their food has ended up in front of them. The whole idea of stuff being dragged is something that's going to be very difficult for that industry because of these new sustainability measures.</p>
+<p>But we have something that we can brag about here in Nova Scotia. Lobsters enter a lobster pot willing, no one has forced them, they do so, they are not under duress, no one is chasing them, they have the opportunity to go and enter it on their own; probably not the wisest decision that they'll make in their life but they do so willingly. Crab is the same thing, they enter a pot on their own, they are not forced, they are not chased, they are not damaged, they go into these traps willingly and that's a big part of sustainability, and that's something that people want to see. I know, for example, our swordfish industry wants to receive the sustainability certification as well and last year during estimates we did raise the matter with the minister and I know he had indicated some monies had gone towards that, which I would say is a good investment on our part.</p>
+<p>As we're talking strategies and strategies let's not forget that there are immediate needs here in this province. We all collectively need to find ways to grow our economy. The offshore, the current project, is going dry; those revenues are going to continue to decrease. The demands for services from government will continue to increase and the only way to deal with that is going to be with increased revenue and what are we doing as a province to have more revenue here? If one looks at aquaculture - for example, New Brunswick has almost four times more value than where we are here in Nova Scotia. B.C. is ahead of everybody else in Canada, almost everybody combined. So there are tremendous opportunities there for us to continue to work and I'm certainly hoping we're not going to get bogged down in strategies rather than finding real solutions that are going to be able to grow the economy because while the Minister of Finance has told us user fees are not going up this year, we have to find ways other than continually taxing Nova Scotians.</p>
+<p>It was interesting because I know it has been quoted in the House before when the Minister of Finance was in Opposition, he felt that the use of increasing user fees was a stealth tax - I believe those were his words. Even more reprehensible, and we agreed with him, was that increasing user fees was being done outside the budgetary process and outside of the Legislature. The Minister of Finance could just send an announcement out. He didn't have to face the elected members of the Legislature, he didn't have to try to get legislation passed to that effect, he could do it just like that. Yet when he had the opportunity, as Minister of Finance, to do things differently, to say I'm going to put it in my budget or I'm going to bring in a piece of legislation and I'm going to allow Nova Scotians' elected members to be able to discuss this, I'm going to allow our ministers to justify the increases in user fees of their own departments, it didn't happen.</p>
+<p>It was interesting, Mr. Speaker, it was almost amusing, I must say, because one of the questions went to the Minister of Service Nova Scotia and Municipal Relations about an increase in one of the user fees, I believe it was some type of a permit that had increased by almost $400. The question to him was, what has changed in the delivery of that permit to justify such an increase? The first question, he tried to answer it, and by the final supplementary he said I don't know, ask the Minister of Finance, it was his decision to do it.</p>
+<p>Then we all remember how the Minister of Finance says no, I don't make any decisions about increases in fees or increases in income or increases in taxes. I am the Minister of Finance but I have nothing to do with that, which is laughable, to say the least, but it is already part of the political cover that the Minister of Finance is trying to establish for himself in some of the unpopular decisions being made by the government because if there is no increase this year, one has to question, was last year a double increase? Was it a two-year increase so that they wouldn't have to do it in year two and somehow tell Nova Scotians look, we're a kind and compassionate government, we're not going to increase user fees this year?</p>
+<p>As we get into the budgetary process, we may have the opportunity to ask that because as the Minister of Finance would have said in opposition, a user fee should be based on the cost of delivering a service. If a government cannot justify the cost of delivering the service, it becomes a tax. I believe he will now, if he is going to be honest with himself, he will say it is in essence a tax. The fact that it was done without representation, without the ability of elected members in this House to be able to debate the issue on behalf of our constituents, makes it that much more reprehensible, to not only do the increase but to not come before the elected members of the House to justify it. Now the Minister of Finance had a couple of opportunities to do that and he has chosen not to.</p>
+<p>Here we get to the end of the agreement of the Imperial Oil bill. I was here in this House when that was debated, where the former Progressive Conservative government had agreed that they would cap the assessment on that facility, meaning that they would not pay to the Halifax Regional Municipality the amount of taxes that would be based on their normal assessment. It was an interesting discussion because the Progressive Conservatives were clearly for it, they brought in the legislation. Our caucus made it very clear that we were against it. We didn't think Nova Scotia taxpayers should be funding big oil at a time especially when people were concerned here in the city about taxes going up, the cost of services going up, and that this was potential revenue that the city would be losing because the province was sticking its nose, basically, into their affairs and dictating how Imperial Oil was going to pay its taxes.</p>
+<p>What was interesting is the positions were clear between the Progressive Conservative government and the Liberal Opposition; what wasn't clear was, where was the NDP who was the Official Opposition? So what is interesting in our democracy - and here in the Legislature, Mr. Speaker - when you're not sure where a political Party is on a bill and you want to have a better indication of where they are, you call for a recorded vote. That is what happened on that bill. It was interesting because with a recorded vote, the way it goes, it does the government side first, which clearly was all in favour, then it comes to the Official Opposition. It starts over closest to the Speaker. What was interesting was that the first member - if I'm not mistaken, it might have been the member for Pictou West at the time but I can't be sure - the first member got up - it was the member for Dartmouth East. He got up, he said &#x2026;</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>She.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>MR. SAMSON</from><p>She got up &#x2013; I thought it was Don Chard (interruption) - Joan Massey, that's right, Don Chard was before that. She got up and said no. Then the next member of the NDP said no and they kept saying no. The Premier himself, as Leader of the Official Opposition, said no, and then it got to the Official Opposition House Leader, Mr. Kevin Deveaux, Cole Harbour-Eastern Passage, and he said yes. Then it went to the Liberal side and we all said no, as we had publicly said we didn't support the legislation. As it went to the Official Opposition, second row, third row - everybody said no except the Official Opposition House Leader.</p>
+<p>One thing I can say is that the Progressive Conservative Government of the day brought that bill here before the House. We had a lively debate. We had a debate which Nova Scotians were engaged in, where Nova Scotians were calling their elected members and saying, here's my position, or here's my concern, here's what I suggest. That's how democracy should work.</p>
+<p>Now that five-year agreement expires, so the government has two choices. One, they can say, this is an issue that we were obviously split on before. We don't want to go down that road again, so instead we'll just renew it at the Cabinet Table and it'll never have to go before the people of Nova Scotia. Or option two would have been to say, we'll bring in another bill to basically renew the agreement, but in doing so we will allow all elected members of the Legislature on all sides - there might even be some government members who aren't fussy about seeing taxpayers' dollars going to give a break to big oil. I would have to think there are a number of supporters in the NDP who probably are not overly fussy about seeing tax breaks being given to Imperial Oil at a time when we're paying over $1.40 a litre for unleaded gas.</p>
+<p>That's when it comes to the question of, are you there to do what's right or are you there to try to win the next election? There's but one more example where this government took the easy road and said, we'll renew it in Cabinet; we'll put out a press release. The Premier was asked, how do you explain that you voted against it when you were in Opposition, and yet now, when you have an opportunity as Premier to make your mark on this agreement, you allow it to get renewed in Cabinet? The Premier's weak response was, the price of gas is higher today.</p>
+<p>Really? That's the best he could give? During the debate they almost remained silent and it was clear there was division. The Minister of Finance, when he would have been sitting here, he voted no as well. Only the member for Cole Harbour-Eastern Passage voted yes. Yet now, rather than stand in the House and say, we're prepared to bring in legislation explaining to Nova Scotians our flip-flop on this issue and the reasons behind it, instead they would rather stay hidden in the Cabinet Room and make the unpopular decisions there rather than allow the elected members of this House to have a full and open debate on these types of issues.</p>
+<p>Nova Scotians deserve better. Nova Scotians thought they were going to get better. Instead, what we see now is a Party that's no longer there to stand on the principles which they talked about for years, but is there to try to win the next election.</p>
+<p>Nova Scotians have an opportunity to see this province move forward. There are challenging times and there are opportunities. We're either going to have those open discussions here in this Legislature and work together or we're going to miss out on some of those opportunities.</p>
+<p>I have to reiterate again that the situation in the Strait area is a dire one. It's one that has caused a great level of concern, and I certainly made the offer right from the start and the suggestion that the four members for the Strait area - myself, the member for Inverness, the member for Antigonish on the government side, and the member for Guysborough-Sheet Harbour - should be kept informed of what was going on. This mills committee that the government has formed should involve the participation of the four members from the Strait area - two from the government, one from each Opposition Party.</p>
+<p>At the end of the day the residents in my riding - and I'm sure in the riding of Guysborough-Sheet Harbour and in Inverness and Antigonish - aren't calling the mills committee for status updates. They are calling us and they're saying what's going on? What is the state of the negotiations? What are we looking at? Is there anything that can be done for these pensions?</p>
+<p>The four of us met with the management retirees and at that time they expressed their significant disappointment that the Premier had not responded to their request to meet with them. Now I will acknowledge that the last time he was in the Strait area - this request went in, I believe, at the end of November 2011 and when we met with them in February, they had not received a response or any indication that the Premier would be willing to meet with them - he did meet with them when he was down the last time, but, again, I'm not sure if the member for Antigonish was there or the member for Guysborough-Sheet Harbour was part of that meeting. I can tell you I wasn't and I don't believe the member for Inverness was and we should have been there because we're the ones who will get the phone calls, we're the ones that our residents will be looking to to give them answers and assurances.</p>
+<p>What is the status of the negotiations for a new power agreement? What is the status of negotiations with the Department of Natural Resources for a wood supply? What is the status of discussions with the union, which we understand is now going on? I don't suspect that the Premier or his mills committee would be able to divulge all of the information to us, but to even be able to tell the elected officials in the Strait as much information as possible, knowing that we can then pass it on to our constituents who are extremely worried. I find it unfortunate that the Premier and this government chose not to take up that opportunity.</p>
+<p>I have to say that as frustrating as it is when you're in Opposition, you almost have to accept that that is unfortunately what often happens with a majority government. But I have to say I found it disappointing, almost bordering on sad that when we met with the pension group the government members for Antigonish and Guysborough-Sheet Harbour clearly had no more information than we had. For us it's easy to say we are the Opposition and government is not going to share with us, but as far as why they wouldn't share it, even with the government members, that I find was a little distasteful to say the least and unfortunate that they were not more aware of what their own government was doing through this mills committee.</p>
+<p>Madam Speaker, as I said, the Speech from the Throne clearly does not set out a specific, economic plan to deal with the hundreds of tradespeople who are going to be left without work that formerly were NewPage, it does not address the skills and tradespeople who worked at the Bowater facility, which my understanding is it has been on repeated shutdowns and therefore lack of work becoming a significant concern there as well, that is what we are hoping that we would see. If the government wanted another Speech from the Throne, its fourth in three years, we would have thought they would have at least had specific initiatives in this. Instead, that clearly did not happen and as a result, Madam Speaker, I can assure you that we will continue to do our best to hold this government accountable for the decisions they make here in this Legislature and the many, as I've indicated, that they make in the Cabinet Room and away from the elected House of Representatives here in Nova Scotia.</p>
+<p>Madame la P r&#xE9;sidente, vous me permettrez juste quelques minutes pour souligner &#xE0; tous les &#xE9;lecteurs, les r&#xE9;sidents du comt&#xE9; de Richmond, mes remerciements. Comme j'ai dis au d&#xE9;but, le 24 mars 2012 a marqu&#xE9; le quatorzi&#xE8;me anniversaire de ma premi&#xE8;re &#xE9;lection, comme le d&#xE9;put&#xE9; de Richmond. Il me semble c'&#xE9;tait juste hier que je m'en rappelle. La campagne, une journ&#xE9;e il faisait beau soleil, il faisait chaud. La prochaine journ&#xE9;e, il y avait de la neige. La prochaine journ&#xE9;e, c'&#xE9;tait trempe. Alors, &#xE0; la fin, j'avais d&#xE9;cid&#xE9; de porter des, comme qu'on dirait, des &#xAB; steel-toed boots &#xBB; parce qu'il y avait tant de vase, ou bien de la neige, ou bien qu'il faisait froid, j'ai pens&#xE9;, c'est &#xE7;a qui &#xE9;tait la meilleure chose &#xE0; mettre sur mes pieds, je dois dire. Mais je peux vous dire que j'ai tellement aim&#xE9; les derniers 14 ans. Je suis un avocat, et puis je dis souvent que, ce que j'aime tant de la profession d'&#xEA;tre un d&#xE9;put&#xE9; &#xE9;lu, c'est que je peux faire du travail, je peux &#xEA;tre porte-parole, je peux &#xEA;tre, en essence, un avocat pour les gens que je repr&#xE9;sente. Mais, &#xE0; la fin de la journ&#xE9;e, je n'ai pas besoin de leur envoyer une facture. C'est &#xE7;a qui est la grande diff&#xE9;rence entre la vie d'un avocat priv&#xE9; et la vie d'un avocat qui se trouve dans la situation d'&#xEA;tre un &#xE9;lu, ici &#xE0; la Province.</p>
+<p>Je veux remercier tous les gens qui ont travaill&#xE9; sur mes campagnes. Comme je l'ai dit plus t&#xF4;t, &#xE7;a fait cinq &#xE9;lections que j'ai fait face au comt&#xE9; de Richmond : en 1998, 1999, 2003, 2006, 2009. Alors, cinq &#xE9;lections dans 14 ans, je pense que c'est assez d'&#xE9;lections dans ce bout de temps-l&#xE0;, mais je peux vous dire que, chaque fois, j'ai toujours aim&#xE9; faire la campagne, aller visiter avec les gens &#xE0; leur maison, dans leur cuisine, dans leur tambour, sur leur terrain, pour entendre qu'est-ce qui &#xE9;taient leurs inqui&#xE9;tudes, qu'est-ce qui &#xE9;taient leurs espoirs, qu'est-ce qu'ils s'attendaient de leur repr&#xE9;sentant et puis, je peux vous dire que j'&#xE9;tais tr&#xE8;s fier. Que mes derni&#xE8;res &#xE9;lections, qui s'est trouv&#xE9; un moment qu'on avait une mer orange qui passait &#xE0; travers de la province, avec la majorit&#xE9; qui a &#xE9;t&#xE9; r&#xE9;alis&#xE9;e par le parti NPD.</p>
+<p>De voir que j'ai pu gagner ma plus grosse majorit&#xE9;, les derni&#xE8;res &#xE9;lections, chez nous, au comt&#xE9; de Richmond et puis, en m&#xEA;me temps, on aura l'occasion durant cette session de parler un peu plus du futur de notre circonscription et les circonscriptions de quelques de mes coll&#xE8;gues. Mais, c'est une circonscription qui a un riche h&#xE9;ritage, qui a tant de diff&#xE9;rentes cultures qui sont repr&#xE9;sent&#xE9;es. La fiert&#xE9; qui est l&#xE0;, dans la communaut&#xE9;. C'est l'ancien d&#xE9;put&#xE9; de Richmond, Gerry Doucet, qui est un d&#xE9;put&#xE9; conservateur, quand il avait &#xE9;crit ses m&#xE9;moires, il avait dit que dans ses 11 ann&#xE9;es comme d&#xE9;put&#xE9;, il avait eu l'occasion de parler &#xE0; des coll&#xE8;gues qui repr&#xE9;sentaient des circonscriptions &#xE0; travers de la province. Puis, il avait, &#xE0; lui, apr&#xE8;s d'entendre de tous ses coll&#xE8;gues, il avait d&#xE9;cid&#xE9; que les gens de Richmond, c'&#xE9;taient des gens qui demandaient le plus de leur d&#xE9;put&#xE9; provincial que toutes les autres r&#xE9;gions de la province.</p>
+<p>Bien, je peux vous dire, apr&#xE8;s 14 ans, je n'ai rien que je peux dire contre la conclusion qui a &#xE9;t&#xE9; faite par M. Doucet sur &#xE7;a. Mais, en m&#xEA;me temps, c'est une population de gens qui demandent beaucoup de leur repr&#xE9;sentant, mais qui sont aussi des personnes qui te remercient, qui reconnaissent les demandes de la vie politique, qui reconnaissent les diff&#xE9;rents efforts qui ont &#xE9;t&#xE9; faits par leur d&#xE9;put&#xE9; pour eux, et, &#xE0; la fin de la journ&#xE9;e, comme j'ai dit, j'aurais jamais pens&#xE9; que je serais ici pour 14 ans; cinq &#xE9;lections. Mais &#xE7;a &#xE9;t&#xE9; une exp&#xE9;rience remarquable, une exp&#xE9;rience que je suis tr&#xE8;s content que j'ai d&#xE9;cid&#xE9; de poursuivre, et puis, je peux vous dire, que j'ai h&#xE2;te de voir, encore, quelques ann&#xE9;es ici &#xE0; l'Assembl&#xE9;e et j'aurai encore l'occasion de parler un peu plus sur ce sujet et sur autres sujets pour les gens du comt&#xE9; de Richmond. Merci Madame la Pr&#xE9;sidente.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable member for Argyle.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam Speaker, it's a pleasure to stand and maybe say a few words in regard to the Speech from the Throne that we heard a few days ago. It has been a great opportunity to think about it over the weekend. First of all, I want to wish everybody a Happy Easter &#x2013; just in case I don't have the chance throughout this week to offer everybody a Happy Easter and, of course, a Happy Holy Week because, don't forget, it's not just about Easter, there are a whole bunch of other things that go on this week that, of course, commemorate and underline the sufferances of Our Lord Jesus Christ. So I just want to make sure that everybody, of course, you know, if they haven't been to church in awhile, maybe they should go. You know, we, as politicians, all need the help and faith that we possibly could get and I do hope that everyone takes that opportunity during this Passover season.</p>
+<p>Second of all, of course, after religion there's also something that's very important which is hockey and I want to use this moment to publicly thank each and every person who had the opportunity to vote for Kraft Hockeyville. That came to fruition on Saturday night. Of course, this was put on by a local committee. Being one of the top five, the community was able to win $5,000 from Kraft for upgrading the Mariners Centre, the hockey rink that we have in Yarmouth.</p>
+<p>Again, I want to thank the organizers - Wayne Hamilton, the owners of the Tri-Star Mariners - and all the community that came out and supported the activities that were on Saturday. A tremendous amount of time and fun was had by all at the Mariners Centre. We came out with 1.6 million votes for Yarmouth, supporting Yarmouth as being Kraft Hockeyville.</p>
+<p>Now what does that mean? That means we came in fourth, Madam Speaker. Unfortunately, we didn't grasp that prize. I want to congratulate Stirling-Rawdon - I believe they are in Ontario - who did win the Kraft Hockeyville, and they did it with somewhere close to four million votes. You can only imagine how many times people would have to vote to even get to 1.6 million in Nova Scotia. That means everyone is going to almost have to vote twice, with the population we have here in Nova Scotia. But here you go with Kraft Hockeyville, which gave us - not necessarily international, but across Canada people knew who Yarmouth was. It gave that community a sense of pride, a sense of belonging, and something that they haven't felt in some time now. I'll get a little bit to the concerns that we have in Yarmouth County in southwest Nova Scotia a little later on.</p>
+<p>The other great part that happened that night was the hockey game itself, where there was a hockey game vying for the Bent Division finals in the junior hockey league. The Yarmouth Mariners beat out the Amherst Ramblers, I believe - I think that's what they are called - in a phenomenal game. Apparently it was just an absolutely phenomenal game. Unfortunately, I was too late in trying to buy tickets and was unable to buy a ticket. There were actually people - shame on them - on Facebook trying to sell tickets to the game Saturday night for $500. So they should have been nice enough - if they couldn't make it, they should have passed it on to someone else. They could have participated in the fun of that evening, but they chose to go a little more - maybe they needed the money, I don't know, but it didn't seem fair at all.</p>
+<p>That means that the Yarmouth Mariners, after all this excitement, move on to the finals of the league and will be up against the Woodstock Slammers from New Brunswick, so we're hoping that Nova Scotia pride does come forward on this one again and that we do support them. I hope everybody offers themselves, whether it's a tweet or on Facebook or a note of encouragement, to support the work of the Yarmouth Tri-Star Mariners as they vie for the cup of this year's hockey league.</p>
+<p>Madam Speaker, I do want to bring up a couple of issues that have been going on in my constituency. This one is to the Minister of Transportation and Infrastructure Renewal, before I get into the meat of my speech tonight. As you know, I've been advocating for a new bridge in my constituency, which is the bridge that goes from the mainland to Surette's Island. I know that the minister and I have traded comments back and forth in Question Period, and I want to thank the minister for his support on this one.</p>
+<p>If you remember last year, there was an issue of an osprey. On top of this bridge, as everybody was getting ready to review the bridge and do an engineering study, everything got shut down because an osprey sat on top of the bridge and would dive-bomb anybody who tried to visit the bridge or tried to measure the bridge or anything like that. So last week or the week before, the Department of Transportation and Infrastructure Renewal, with help from the Department of Natural Resources - so I'll thank the Minister of Natural Resources for the support from his department on this one - went to move the nest for the osprey.</p>
+<p>So we go from the top of the middle span of the bridge to another location, as I think many of you have seen. I believe it's Nova Scotia Power that sets up these poles with boxes on top that everybody can move either an osprey nest or an eagle's nest or whatever it is. They set one up; I got pictures and if anybody wants to see them I can show them later on. But the funny part is today what happens, the osprey came back from wherever it goes during the winter - which is probably smarter than most of us, it goes down south somewhere warm - and tries to set up his nest again on top of the bridge. So all of this work, I think, was for not, setting up this new pole and getting the thing moved over.</p>
+<p>My request, in this medium, to the Minister of DNR, maybe the Minister of Transportation and Infrastructure Renewal, if there's anything we can do to make sure the osprey moves to the other location would be good so work can commence on that bridge without disturbing, of course, that bridge and that bird because we don't want to be disturbing these birds too much.</p>
+<p>That's important in my constituency and the people of Surette's Island are a little worried that maybe their bridge might get a little more delayed because of the appearance of the osprey. We'll see how it goes in a number of days and I thank the ministers for any input, for any help that they might be able to give on this issue in my constituency.</p>
+<p>The member for Richmond took an opportunity to talk about some of the people who have not been able to follow along throughout the years as they passed away, unfortunately, in a lot of cases and where we've lost a lot of our friends. I do want to underline, particularly, one individual from my constituency, and maybe someone else after this as well. I want to bring up the issue of Michel d'Entremont, and Mary Ella who is his wife.</p>
+<p>Michel was about 67 years old, I believe is what it said in the obituary, and Michel had been fighting cancer for probably close to 15 years. As we would go to the walks and to the organizations, to the different things that would go on in support of cancer research, of course, Michel would be there wearing his yellow shirt. Knowing the things that that guy went through and how tough he was, I just want to thank him. I know he's not with us today, but I want to thank him for the work he did in providing support to other families. Even though he was going through his own issues, he always was able to support and lend a hand to others who were stepping up to the fight to cancer.</p>
+<p>Michel, of course, did it with class. He did it with absolute tons of heart and I do want to thank him and, of course, Mary Ella, because Mary Ella, I've got to say, is a phenomenal spouse and support for Michel and for the whole community as well. Always by Michel's side was Mary Ella helping him along and being the best booster that a husband could ever have. I just wanted to mention Michel quickly today and thank all of his family and give this House of Assembly's condolences to them and all the friends of Michel d'Entremont. He will definitely be missed and I do hope that through his souffrance that some good will come of it. We'll continue to support the Canadian Cancer Society, continue to support different activities that are happening to find a cure for this disease and I just wanted to mention that.</p>
+<p>The other person - and I know the member for Richmond did mention him - was, of course, Peter Underwood. Peter and I had a bit of a bond because Peter was my first deputy minister. Here was a newly minted MLA back in 2003, August 5, 2003, and was put into Cabinet and not knowing exactly what goes on in Agriculture or what was going on in the Department of Fisheries - at the time they were combined departments - the deputy was Peter Underwood.</p>
+<p>Peter did a phenomenal job in supporting those organizations, to be able to support those industries as they were so important in Nova Scotia, but also the personal help that he gave me as I was learning about those departments. I know many of the ministers could vouch for this as they became ministers and looked at the piles of briefing books and had all the briefings done, sort of like drinking from a fire hose. Peter did it with extreme class as well. To see the work he did as he moved on to the Department of Natural Resources and then into central government and the support I know he gave this government, as well, in getting things set up and getting things moving, as you gave him some difficult issues to deal with.</p>
+<p>Peter and his family, of course I want to give them my sincere condolences as well. I know every time one of us gets up to speak over the next bit, we'll probably all have our own story of someone that just didn't make it long enough to be here and I think have all provided us with some kind of support or have had impacted our lives in one way or another. Those are the two gentlemen that I did want to speak about today.</p>
+<p>I did also want to say that as a member of the Class of August 5, 2003, there are maybe more of us than there is the Class of 1998 or 1999, but I think a lot of us are still here working hard for our constituents. I want to thank the constituents of the beautiful constituency of Argyle for the beautiful communities that are held within it, and thank them not only for winning on August 5, 2003 - thank goodness that happened - but for the majorities that they gave me following that. In 2006 I was able to pull about 67 per cent of the vote; in 2009 in the "orange crush" that we would call it, I was able to pull off 64 per cent of the vote. I continued to stay in that really good realm. To me, I hope that I'm doing the right thing for the constituents of Argyle and I think in the last two elections it showed I must be in the right place because they did give me their support. (Applause)</p>
+<p>Argyle is a phenomenally diverse place. Whether you're down by the ocean in the Pubnicos watching the hundreds of lobster boats coming in and out, or whether you're on a skidder in the woods of East Kempt or whether you're watching the hundreds of boats leaving Wedgeport, et cetera, our constituency is made up of a whole bunch of points, all different in respect to their identities and to their cultures. Argyle, even though it is an English word, represents the second largest Acadian constituency in Nova Scotia.</p>
+<p>Thorough those communities, as you weave in and out of those points, we all have a different culture and identity, we have a different way of speaking; we have a different accent. I know the member for Richmond and the member for Clare could vouch for that, my accent when I speak French is not necessarily one of Argyle - it's one of Middle West Pubnico. I tell you the people from Lower West Pubnico speak differently than the Middle West, the Wedgeports, of course, speak way differently - the ones in Surette's Island, the ones in Quinan, the ones in East Pubnico.</p>
+<p>I want people, if they have access to YouTube, to take the opportunity to search about the "patois", or the accent that they have in Shediac. They call it the "chiac", that is what they call it. I'm trying to remember how to spell that, but if you do Shediac speaking chiac, you'll find a little video which is really interesting and there's one line in it that reminds me of people from East Pubnico because of their connection to the region of Shelburne, as you head towards the Woods Harbours and those areas, so they're probably the area that's starting to be assimilated more than other areas. In that YouTube video the line is "je crosser le street" - I cross the road - which is very indicative of what's happening in our constituencies and happening in those communities. What we say of the people in East Pubnico, the people in East Pubnico would say "j'ai tir&#xE9; la ball over la fence." How many people got that? I'm sure everyone got that one.</p>
+<p>What we need to do is work even harder to make sure those lines are drawn to make sure that those lines are drawn, to make sure that that assimilation doesn't continue to happen, because little by little that will continue to happen in all of our communities. I look at Richmond and L'Ardoise - L'Ardoise is what we would call it; "Lardways" is what everybody else should call it - sorry to the member for Cape Breton West, because L'Ardoise is getting closer to his constituency as it goes into St. Peter's and those areas. We have very diverse and interesting communities.</p>
+<p>The thing I wanted to quickly say about that is that these constituencies are threatened - and we will talk about this as we go forward - but it really looks like, through the new Electoral Boundaries Commission, I might be the last MLA for Argyle. They might belong to another constituency. Luckily, if it does get built into a different community - well, you know, God willing that I'm able to represent that new constituency, but to be the last MLA of an area makes my heart hurt just a little bit. I think we all worked really hard in presenting the issues of assimilation in this House of Assembly, and it really went to show through a process that the NDP majority committee didn't understand that, doesn't understand what it is to be in a community that is threatened by assimilation every day, and the importance of not only having a last name that is Acadian but having also the opportunity to speak French, the opportunity to understand and live in those communities.</p>
+<p>I'm going to speak about that later on, because it is something that's really concerning me and it's concerning the people of Argyle - all the people of Argyle, not only the people in the Pubnicos but the people in the Argyles, the people in the Tuskets, the people in the Plymouths, all those people in the constituency. Not only are we talking about Acadians, we're talking about anglophones as well. In my constituency, don't forget, we're about 60/40. About 60 per cent of the constituency is French-speaking Acadians and the rest of it, 40 per cent, is English speakers.</p>
+<p>There are a lot of intermarriages, Madam Speaker, but ultimately we are losing a little bit of our face and we need to do more - not only provide us with schools, not only provide us with school community centres, but trying to find true, concrete ways to make sure that that doesn't continue to happen, to represent a group of individuals who are very vibrant, who are very exciting, who are movers and shakers in this province.</p>
+<p>I'll move on from that and maybe get onto what my thoughts are directly of this year's Speech from the Throne. I get a kick out of all the names that Throne Speeches have had, because they've all had a different lineup. I wish I had all the lists here, but this year's is The Future Starts Here. Well, the future should have started in 2009, apparently, because that's when the first budget came in - or the first Throne Speech came in. Apparently they didn't get it right that time, so maybe they had to do another one. Okay, well, I can forgive them for two Throne Speeches. Then the third one came along and we're thinking, okay, maybe they're just continuing to press "reset" because they couldn't quite make the issues or the promises that are held within these Throne Speeches - and not only that, but twice. They did it two more times to make it four in three years.</p>
+<p>I have been here since 2003, which is getting close to nine years. I've seen quite a few Throne Speeches - maybe not as many as the member for Richmond or the member for Clare, but I've seen a few. I understand what goes in them. I've brought in my parts when I was the Minister of Agriculture or the Minister of Fisheries and Aquaculture or the Minister of Health, making sure that departmental issues and important issues were held within those documents, but what I find before us and what I saw the Lieutenant Governor present to us the other day was nothing more than a politically-charged document, one that really started to say some things that we can't necessarily support.</p>
+<p>When you have a Lieutenant Governor - and one thing maybe the NDP didn't understand is that the Lieutenant Governor is the representative of government here in Nova Scotia. She will be the representative - or he will be the representative, or whoever that office will be, will be the representative of government for many, many years to come. They were the representatives in the past and will be the representative of governments in the future.</p>
+<p>When I see inflammatory government spin coming out of the Lieutenant Governor's lips like, as the member for Richmond talked about, "Like some current opponents, they preferred to curse the darkness rather than light a candle." - which is a line I heard on the Catholic channel the other day, so I don't know who's writing the speeches there - or on Page 19 when, "No government in Nova Scotia's history has shown a deeper commitment to children and education" well that's mean. That government is sitting there saying that we didn't care about children; that's wrong. I can't believe that they would be saying that when they go and tell the department - they tell schools to close, they're telling the school boards to cut, they're telling organizations that certain programs can no longer exist, to go on and on, of things that this government is not doing for education.</p>
+<p>Madam Speaker, to see that text in a Throne Speech, being presented by the Queen's representative here in Nova Scotia, the Governor General's representative here in Nova Scotia, it just absolutely doesn't make any sense at all.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. With the member's indulgence we've had a request for an introduction.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca">
+          <from>MR. ZACH CHURCHILL</from>
+          <p>Madam Speaker, in the west gallery tonight we have a dear friend of mine and a colleague who works in our caucus, who is very involved in the budgetary process and helping our caucus prepare to evaluate and respond to the provincial budget. I just wanted to thank him on the record tonight, Shawn Lawlor, who's in the west gallery, for his continued dedication to democracy in Nova Scotia. Thank you.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>I would remind the members that they're not to speak to the guests in the gallery on an introduction. It would be more appropriate just to introduce them, just a reminder for everyone.</p>
+<p>The honourable member for Argyle.</p></speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>MR. D'ENTREMONT</from><p>Madam Speaker, of course, we welcome all visitors to the House of Assembly. I know, getting to this late hour, that we'll probably have very few visiting us here tonight, but we know that people are paying attention on Legislative Television. I find that interesting, how many people actually watch Leg. TV and I just want to welcome them here tonight, making sure that they see what their government is doing here in Halifax.</p>
+<p>Again, I'll go back to the issue of the Speech from the Throne, as I said, the fourth by this NDP Government. Each one promises to make life better. Apparently, it didn't do it the first time so they tried it a couple of more times in order to get it right. Each one results in higher and higher costs for Nova Scotia families is what we continue to add up and be able to see what the impact is, truly, on each and every one of us. I think this government believes in the adage that if at first you don't succeed, try again and what we've seen is four times they've tried again. They keep trying and, of course, what happens is people keep paying, they keep paying. They're not succeeding.</p>
+<p>The people of Nova Scotia saw a plan called A Better Deal for Today's Families come and go in the Fall of 2009. I think many of us have that document that the government ran on in the 2009 election. It has been interesting to be able to go through that document and look at the things that have not been accomplished by this government.</p>
+<p>I do want to talk about the ferry issue just for a few minutes and I hope the member for Lunenburg West will indulge me for just a few moments because I hear him humphing over there, I hear them talking over there, and I hear the member for Chester-St. Margaret's also all of a sudden pay interest into what is going on here. Maybe she's ashamed of what is going on because it's her department right now that is seeing the largest impact about a decision that this government has made.</p>
+<p>Over and over we hear people come to our offices - and I know the member for Yarmouth is talking about it - looking for help. It was interesting, the other day I had someone pop in, and they were actually asking, is it going to get any worse? That was the question: is it going to get worse? The guy was interested in purchasing a local business. There was an interesting outlay of money. It would have cost him money to buy stock in the company, thinking that it would be a good opportunity for his family to run a business in Argyle.</p>
+<p>I can tell you, there's not a lot of non-fishing businesses in Argyle. This one is a very important one. He came to me and asked, is it going to get any worse? What I told him was, listen, I don't think it can, but you never know. There is still this Throne Speech we hear about, and of course there's the budget that will happen tomorrow, and we'll get a better indication of what all this hoopla has been about cuts to education, cuts to the district health authorities, cuts to God knows what.</p>
+<p>What does it really mean to small-town, rural Nova Scotia? I'm still worried. I've been here nine years, and I haven't seen it that desolate and that quiet in my neck of the woods - in Yarmouth and in all of Argyle and all of Yarmouth County, if not all of southwest Nova Scotia. It's really quiet. Thank goodness we have a fishery that is surviving quite well.</p>
+<p>The lobster fishery, which I think is the premier fishery of Nova Scotia, is doing very well. Biomass is one, again, that they've never seen. Why is that biomass still coming? Is it because of ocean currents? Is it because of feed? Is it because of God knows what? But they're doing well, thankfully. Even with the low prices that we had at the beginning of the season, it seems like those things right now are okay.</p>
+<p>This is what I get, Madam Speaker. Fishermen are interesting people - I know the Minister of Fisheries and Aquaculture would agree with me. They don't really tell you much. They grumble, but what I've got lately is - how are you doing, and all I get is an "eh." I get a shrug, I get an "eh," so that to me means they must be doing okay.</p>
+<p>Now there may be some that aren't going to survive through the season, but for the large part, I think our fishery is doing okay. Thank goodness for that, because right now there's nothing else to look forward to in southwest Nova Scotia.</p>
+<p>As we've gone through different budgets and different Throne Speeches, all we've seen from this government is that things get worse. User fees on 1,000 government services have gone up over the last three years. The largest piece was the HST hike by 2 per cent. Almost everything right now costs more in Nova Scotia - everything - because the HST went on it.</p>
+<p>We've been saying for a while that people do not see a better life for them and their families here in Nova Scotia. I don't know how many of you, for those of us who sit in Opposition or maybe those who sit in the backbenches of government - is how many people have moved away? How many people have finally said, listen, I've got to go somewhere else in order to make some money to support my family?</p>
+<p>Through a survey they did in the small community of Wedgeport, I know that right now there are about 40 homes that are empty today. Some of them are just closed up. Some of them are abandoned, as those individuals either moved into a long-term care facility or moved out West or moved God knows where. It has provided us with a very quiet area with lots of opportunity, but we haven't been able to really grab hold of that, and this government hasn't given any direction on how to do that either.</p>
+<p>So here we are a year later, another Speech from the Throne. This one was building on a plan to make a better life for you and your family - I think that was last year's Throne Speech that was reset as this one was read. Talk about building a shaky foundation, if you build your house and it's on sand it's bound to crumble and predictably this plan didn't work because, of course, we have a new one here today.</p>
+<p>That brought us to today's The Future Starts Here. You know I joked in the media the other day that the title should be: Still making plans to try to think of ways to hopefully, someday, make life better. That's kind of what we saw in this document because it talks about all kinds of different strategies and opportunities; I think there were 27 different things that they were going to try to do. Well, going on the record of the previous Throne Speeches, I'm not going to really hang my hat on getting any of them accomplished. I bet you in a year's time, should we all still be here - you know there might be an election in between because I'm starting to see a few little indications that an election is coming along - I really think we're going to see another one that's going to try to say some of the same things if this bunch is still in government.</p>
+<p>It read like a sci-fi novel this year, science fiction, I think, at its best. The NDP Government has grown out of touch, I think, with the reality in Nova Scotia that it considered taking $743 - they've taken $743 in HST, taken it out of my pocket, taken out of your pocket, taken it out of everybody's pocket in Nova Scotia, man, woman and child, and it's counting because as next year rolls around that will probably go up over $1,000. They think that means making life more affordable. Maybe I'm not good at math but I think that's going a little backwards there.</p>
+<p>It's absolute fiction to tell Nova Scotians that they're putting more money back in their pockets when they've taken $743 from each of us in higher HST. That, Mr. Speaker, is more than $685 million since this government broke its promise not to raise taxes. Not to raise taxes, that was in that first document. Maybe it wasn't a Throne Speech, maybe it wasn't a Budget Speech, but it had a real nice picture of the Leader of the NDP, the current Premier, and said these are things that we are going to be doing, not raise taxes. Well, who will believe you now?</p>
+<p>Taking money out of the pockets of people who are already struggling with the highest taxes in the country, skyrocking energy prices, gas prices in the above, now, $1.40 range, is not making life more affordable or making Nova Scotians enthusiastic about a future. I think it's the Nova Scotia version of <i>The Hunger Games</i>; the odds are never in our favour.</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>Is that original?</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52">
+          <from>MR. D'ENTREMONT</from>
+          <p>It's a good line and I'm taking credit for it.</p>
+        </speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>You're taking credit.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>MR. D'ENTREMONT</from><p>I know who wrote it, thank you. The government has spending priorities completely wrong, Mr. Speaker. When Nova Scotians need relief from high taxes and high costs, this government finds 16 new plans and strategies and agencies to make sure that they don't get relief. Sure they found money to spend a whopping million dollars on advertising campaigns in the past six months, a million bucks. A million bucks, can you imagine a million dollars in what I would call inflammatory political advertising by this government? Whether it's jobsHere, whether it's Better Health Now, whether it's the 811, all of these create a light on this government. Maybe it's because they feel they are not convincing regular Nova Scotians so they got to go and get the shiny TV ads.</p>
+<p>Mr. Speaker, the member for Richmond also talked about that silly sign that's sitting up on the Art Gallery of Nova Scotia, making life better, I don't know how re-facing that building is making life better for Nova Scotians. I'm sure it will look nice when it's done but this is, what, year two of that project, that's the first time we've seen a sign on it. Why is that up there now? And quite oddly they've now changed the colour of the ads of the signs; they're maybe not orange, but they're brown now - you know, trying to line up with the visual presence created by the NDP.</p>
+<p>Another fiction that they hope to peddle to Nova Scotians over the next number of weeks is their claim that no government has shown a deeper commitment to children in education than this government. I spoke about this one earlier - I don't even know where to start on that one, Mr. Speaker. They will need to spend a lot more on false advertising to convince Nova Scotians of that.</p>
+<p>Nova Scotians know that school boards were forced to make cuts, and let me list them off just in case you weren't really paying attention to the numbers: Annapolis Valley Regional School Board, they needed to lose .09 per cent, or just over $1 million; Halifax Regional School Board had to cut .09 per cent, which is $3.2 million - and apparently today they got a new school, so I'm going to question that one; South Shore Regional School Board, 2.1 per cent or $2.7 million - $2.7 million to education, can you imagine? It doesn't equate when education should be the foundation of a new economy, of an economy that makes sense. That's where the investment should be happening, not on fancy advertising campaigns to make you look better. That's embarrassing, that is what that is.</p>
+<p>The Strait Regional School Board, 2.1 per cent &#x2026;</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>Three schools closing.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52">
+          <from>MR. D'ENTREMONT</from>
+          <p>Three schools closing. They had to find $1.5 million in efficiencies or cuts &#x2026;</p>
+        </speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>Shame.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>MR. D'ENTREMONT</from><p>That's a shame.</p>
+<p>Chignecto-Central Regional School Board, they had to cut 1.7 per cent or $2.98 million; and Tri-County Regional School Board - mine - had to cut 1.7 per cent. These are not just numbers on a spreadsheet, they translate into front-line education workers, people our kids rely on; people who truly make life better for our kids.</p>
+<p>If the government needs to make an investment and if you want to run on a line like "no government has made a larger or deeper commitment to children", well then reverse that trend and then I'll believe you. Reverse that trend and tell families and parents that they're not going to be able to get a student aid or they're not going to be able to get the right kind of resource for those kids who have difficulties in reading, who have other difficulties that are, of course, a list longer than my arm. Those are the kids that can be true participants in an economy, that can be true participants in a community, and we're going to be cutting those things out because these cuts truly translate into front-line workers.</p>
+<p>If there isn't any doubt as to the failure of this government to manage our economy, consider this - every Canadian province provides public services at a lower rate of taxation than here in Nova Scotia, every one of them. In fact, the biggest contrast between what the NDP is doing in Nova Scotia and to what other provinces like Ontario and New Brunswick (Interruptions)</p>
+<p>I get a kick - normally the Minister of Community Services has her headphones on listening to music, so why doesn't she put those headphones on again and ignore me like she normally does? Why doesn't she do that? (Interruptions)</p>
+<p>I hear the Minister of Finance barking because he's going to do some really miserable things. He doesn't like Acadians. He's the Minister of Acadian Affairs and he's cutting the boundaries for Nova Scotia. I can't believe he's doing that - embarrassing, embarrassing bunch of people.</p>
+<p>Maybe the Minister of Justice over there, I kind of like him, he's okay, I'm not going to say much about him, but the Minister of Community Services right now, I can't believe that she's there barking away, that she's over there yelling these things across. She has no foundation in any of those accusations - absolutely none - so I can't imagine why she continues to do that. Put the headphones on and ignore me like you normally do - that's what you do to the rest of the people in this House of Assembly, which is absolutely shameful.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Order, please. (Interruption) I understand that, but that word "ignore" &#x2026;</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52">
+          <from>MR. D'ENTREMONT</from>
+          <p>You've got to be kidding me?</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>No, I'm not kidding you, no.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52">
+          <from>MR. D'ENTREMONT</from>
+          <p>I retract that.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Thank you.</p>
+        </speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52">
+          <from>MR. D'ENTREMONT</from>
+          <p>Not paying attention.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>"You ignore" is what he said. Thank you. (Interruptions)</p>
+<p>The honourable member for Argyle has the floor.</p></speech>
+        <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>MR. D'ENTREMONT</from><p>Thank you very much. I'll have a little drink of water and calm myself down from these things and, you know, the member for Guysborough-Sheet Harbour, he's a pretty good guy over there too. (Interruptions) I kind of enjoy the debate here tonight.</p>
+<p>Now, again I'll say the line that really started to take some of the noise here today. If there's any doubt that it's the failure of this government to manage our economy, consider this. Every Canadian province provides public services at a lower rate of taxation than Nova Scotia. The Minister of Finance is going to say that's just not true but, do you know what? He uses that line a lot but he does nothing to back it up. So if he says it, I guess it must be true but I'm not going to go with that because, you know, right now I don't listen to anything he tells me.</p>
+<p>In fact, the biggest contrast between what the NDP is doing in Nova Scotia and to what other provinces like Ontario and New Brunswick are doing, and the federal government is doing, is that they have to look for savings on the spending side without asking people to pay higher taxes. They need to think about affordability, but not this government, Mr. Speaker.</p>
+<p>Only in Nova Scotia with the NDP has the hardship been placed on the backs of families, each of which has already coughed up more than $3,000 worth of higher HST because of this out-of-touch government. The NDP promised to make life affordable for Nova Scotians but with every new dollar they spend on misplaced priorities, picking winners and losers, they're making life less affordable.</p>
+<p>I don't know what you've heard but Nova Scotia not only has the highest taxes in the country, but thanks to the expensive bite-the-bullet electricity plan from this government, we also have the highest energy costs in Canada - the highest taxes, the fastest rising energy costs - but they still outlandishly claim that they are making life more affordable for Nova Scotian families and that, Mr. Speaker, is the point that this is a big piece of fiction.</p>
+<p>There's nothing in that document that I can bring back to the people of Argyle that they'll say this makes me feel better, this makes me feel more a part of Nova Scotia, because no other part of Nova Scotia - you know, to my Cape Breton friends - has been hit harder than southwestern Nova Scotia over the last bit, and I'm going to say maybe Cape Breton is number two. (Interruption) I'm going to say rural Nova Scotia is second.</p>
+<p>Mr. Speaker, I've got a lot of things to say and in order to maybe think about some more things, to get some stuff written down, I'm going to move that we adjourn debate on the Address in Reply to the Speech from the Throne so I can get going on another day.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for adjournment.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>What's going on here tonight, Mr. Speaker, is the Opposition knows very well that the Premier was going to speak in this House tonight. But for the lack of respect that those two Parties have shown to the Premier of this province (Interruptions)</p>
+<p>That's fine, Mr. Speaker, the people of Nova Scotia will judge them. The people of Nova Scotia will judge (Interruptions)</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
+<p>A recorded vote is being called for.</p>
+<p>We'll now ring the bells until the Whips are satisfied.</p>
+<p>Ring the bells. Call in the members.</p></speech>
+        <recordedTime time="2012-04-02T09:29:00-03:00">
+          <p>9:29 p.m.</p>
+        </recordedTime>
+        <narrative>
+          <p>The Division bells were rung.</p>
+        </narrative>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
+<p>Are the Whips satisfied?</p>
+<p>A recorded vote has been called for. I will now ask the Clerks to record the vote.</p></speech>
+        <recordedTime time="2012-04-02T10:03:00-03:00">
+          <p>10:03 p.m.</p>
+        </recordedTime>
+        <other>
+<p>Mr. Landry</p>
+<p>Ms. Peterson-Rafuse</p>
+<p>Mr. Corbett</p>
+<p>Mr. Steele</p>
+<p>Ms. Maureen MacDonald</p>
+<p>Mr. Paris</p>
+<p>Ms. Jennex</p>
+<p>Mr. Belliveau</p>
+<p>Mr. Preyra</p>
+<p>Ms. Zann</p>
+<p>Ms. Kent</p>
+<p>Ms. Conrad</p>
+<p>Mr. Wilson</p>
+<p>Mr. Parker</p>
+<p>Mr. MacKinnon</p>
+<p>Ms. Raymond</p>
+<p>Mr. Smith</p>
+<p>Mr. Epstein</p>
+<p>Mr. Prest</p>
+<p>Mr. Ramey</p>
+<p>Mr. Skabar</p>
+<p>Mr. Whynott</p>
+<p>Mr. Morton</p>
+<p>Ms. Birdsall</p>
+<p>Mr. Boudreau</p>
+<p>Mr. Burrill</p>
+<p>Mr. Gaudet</p>
+<p>Mr. Glavine</p>
+<p>Ms. Whalen</p>
+<p>Mr. Samson</p>
+<p>Mr. d'Entremont</p>
+<p>Mr. Bain</p>
+<p>Mr. MacMaster</p>
+<p>Mr. MacLeod</p>
+<p>Mr. Orrell</p>
+<p>Ms. Regan</p>
+<p>Ms. Casey</p>
+<p>Mr. Colwell</p>
+<p>Mr. MacLellan</p>
+<p>Mr. Churchill</p></other>
+        <speech by="" as="#clerk" status="undefined">
+          <from>THE CLERK</from>
+          <p>For, 40. Against, 0.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is carried.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, I move that the House do now rise to meet tomorrow at the hours of 2:00 p.m. to 6:00 p.m. The order of business following the daily routine will be Bill No. 1 and Address in Reply to the Speech from the Throne. I move that we now adjourn.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion to adjourn has been made.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>We stand adjourned until 2:00 p.m. on Tuesday.</p></speech>
+        <narrative>
+          <p>The House rose at 10:06 p.m.</p>
+        </narrative>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
+        <debateSection>
+          <heading>RESPONSES</heading>
+        </debateSection>
+        <debateSection>
+          <heading>PURSUANT TO RULE 30</heading>
+        </debateSection>
+        <debateSection>
+          <num title="7">QUESTION NO. 7</num>
+          <question to="b31db77c-006f-4f6e-ab57-0c449cb2d93a" by="e14ef5f0-e76a-4413-842d-24e0bfcba8d2">
+            <from>Mr. E. Orrell</from>
+            <p>(1) In May 2009, Opposition Leader Darrell Dexter's Chief of Staff Dan O'Connor in a letter on behalf of his Leader was critical of the established funding criteria concerning the Tuition Support Program being put forth. The letter sent to Landmark East clearly left a firm impression that a fourth year of funding would be made available to students. Will the minister explain why her government in April 2010 added only an optional fourth year for transition instead of a guaranteed fourth year?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <heading>RESPONSE:</heading>
+          <answer by="b31db77c-006f-4f6e-ab57-0c449cb2d93a" to="e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>Hon. R. Jennex</from><p><i>January 5, 2012</i></p>
+<p><i>Mr. Eddie Orrell</i></p>
+<p><i>MLA, Cape Breton North</i></p>
+<p><i>309 Commercial Street</i></p>
+<p><i>North Sydney, NS B2A 1B9</i></p>
+<p><i>Dr. Mr. Orrell :</i></p>
+<p><i>Thank you for your written question regarding the number of funded years available to students through the Tuition Support Program (TSP) tabled in the House on December 9, 2011.</i></p>
+<p><i>The Review of the TSP (2009), firmly established the intent of the program as a short-term option for students, who meet eligibility requirements, to access disability-specific programming and services through a Designated Special Education Private School (DSEPS) that will help to prepare them to meet their educational goals with their same-age peers in their neighborhood school, post-secondary or employment pursuits. The TSP is not meant to be a permanent alternative to the public school system, rather a collaborative effort to effectively support students' challenges while recognizing their strengths so that they will be better able to successfully meet their academic and social development goals.</i></p>
+<p><i>Through the review, there was consultation with students, parents/guardians, the DSEPS, advocacy groups and the public school system. The importance of an on-going and concentrated focus on transition planning throughout the students' time in the TSP was recognized by all involved. It was also recognized that during the students' final year at the DSEPS, this effort would be a priority. Students are not required to remain at the DSEPS for the full four years and will receive transition support whenever the decision to return to the public school system is made. All students are guaranteed to have access to up to four years of funding as long as they continue to meet eligibility requirements - this has not changed.</i></p>
+<p><i>The TSP will only be an effective option on the continuum of programming and services for students with special needs if we actively engage in transition planning with all TSP partners which include the student, parent/guardians, the DSEPS and the public school system.</i></p>
+<p><i>Sincerely,</i></p>
+<p><i>Ramona Jennex</i></p>
+<p><i>Minister of Education</i></p>
+<p><i>C: Neil Ferguson, Chief Clerk, Office of the Clerk</i></p></answer>
+        </debateSection>
+        <debateSection>
+          <num title="8">QUESTION NO. 8</num>
+          <question to="d36a0432-7994-4030-ab00-b21fc858e7d2" by="6918f31d-8900-4400-a42c-b0374b14b8ff">
+            <from>Mr. A. MacMaster</from>
+            <p>(1) The Town of New Glasgow has met a total of six times with four different members of the Executive Council including the Minister of Justice as well as the Premier between November 9, 2009 and August 30, 2011. Concerns were raised each time about the establishment of a new permanent justice complex within the Town of New Glasgow. Will the minister provide an update as to the government's plan concerning such a complex?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <heading>RESPONSE:</heading>
+          <answer by="d36a0432-7994-4030-ab00-b21fc858e7d2" to="6918f31d-8900-4400-a42c-b0374b14b8ff"><from>Hon. R. Landry</from><p><i>January 11, 2012</i></p>
+<p><i>Mr. Allan MacMaster</i></p>
+<p><i>15759 Central Avenue</i></p>
+<p><i>P.O. Box 238</i></p>
+<p><i>Inverness, Nova Scotia</i></p>
+<p><i>B0E 1N0</i></p>
+<p><i>Dear Mr. MacMaster :</i></p>
+<p><i>Thank you for your written question number eight dated December 9, 2011 in respect to justice facilities in the Town of New Glasgow.</i></p>
+<p><i>Providing access to justice services in one location in a facility that meets the requirements of the Occupational Health and Safety Act and that satisfies the program requirements of a modern court is a priority to this department. In the immediate future these needs can be met in the newly renovated Pictou Justice Centre. In the long term a new Justice Centre in New Glasgow remains a goal to which the department remains committed.</i></p>
+<p><i>Thank you for your interest in our efforts to ensure access to justice for Nova Scotians.</i></p>
+<p><i>Yours very truly,</i></p>
+<p><i>Ross Landry</i></p>
+<p><i>cc: Neil Ferguson, Office of the Clerk</i></p></answer>
+        </debateSection>
+        <debateSection>
+          <num title="9">QUESTION NO. 9</num>
+          <question to="d36a0432-7994-4030-ab00-b21fc858e7d2" by="6918f31d-8900-4400-a42c-b0374b14b8ff">
+            <from>Mr. A. MacMaster</from>
+            <p>(1) In May 2010, did the Government of Nova Scotia through the Department of Justice agreed to cover the cost of a regional policing study for Pictou County. More than 18 months later, the government has not made any funding available. Why?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <heading>RESPONSE:</heading>
+          <answer by="d36a0432-7994-4030-ab00-b21fc858e7d2" to="6918f31d-8900-4400-a42c-b0374b14b8ff"><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
+<p><i>Mr. Neil Ferguson</i></p>
+<p><i>Office of the Clerk</i></p>
+<p><i>House of Assembly</i></p>
+<p><i>PO Box 1617</i></p>
+<p><i>Halifax, NS B3J 2Y3</i></p>
+<p><i>Dear Mr. Ferguson:</i></p>
+<p><i>In response to written questions tabled by Allan MacMaster in the House on December 9, 2011, I wish to provide the following details.</i></p>
+<p><i>With respect to written question nine, dealing with the Department of Justice's agreement to cover the cost of a policing study for Pictou County, I can inform the member that this commitment still stands. However, we have been provided with information through the representatives of Westville, Stellarton, New Glasgow, Trenton and the Town of Pictou that ongoing contract negotiations have precluded proceeding with a Pictou County Policing Study at this time. The Government of Nova Scotia, through the Department of Justice, remains committed to ensuring that adequate, efficient and effective policing services are delivered in Pictou County. A review of policing services continues to represent one means for accomplishing that goal. The Department of Justice will offer support as and when the representatives of Pictou County request it.</i></p>
+<p><i>With respect to question ten, dealing with my support for a regional policing study, I can assure the honourable member and this House that my office and this government remain committed to ensuring a high standard of policing consistent with the requirements of the Police Act. Furthermore, I can also reassure the member that it is not my intention to dissolve municipal police services. The Department of Justice continues to work collaboratively to review models and options for municipal policing in the best interests of those communities. Every municipality in Nova Scotia is responsible for the policing and maintenance of law and order in their jurisdiction. The Minister of Justice's duties include ensuring that an adequate and effective level of policing is maintained throughout Nova Scotia.</i></p>
+<p><i>Yours very truly,</i></p>
+<p><i>Ross Landry</i></p></answer>
+        </debateSection>
+        <debateSection>
+          <num title="10">QUESTION NO. 10</num>
+          <question to="d36a0432-7994-4030-ab00-b21fc858e7d2" by="6918f31d-8900-4400-a42c-b0374b14b8ff">
+            <from>Mr. A. MacMaster</from>
+            <p>(1) Does the Minister of Justice support a regional policing study which will ensure a high standard of policing services throughout Pictou County or is it his intention to dissolve the municipal police forces and accept RCMP policing?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <heading>RESPONSE:</heading>
+          <answer by="d36a0432-7994-4030-ab00-b21fc858e7d2" to="6918f31d-8900-4400-a42c-b0374b14b8ff"><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
+<p><i>Mr. Neil Ferguson</i></p>
+<p><i>Office of the Clerk</i></p>
+<p><i>House of Assembly</i></p>
+<p><i>PO Box 1617</i></p>
+<p><i>Halifax, NS B3J 2Y3</i></p>
+<p><i>Dear Mr. Ferguson:</i></p>
+<p><i>In response to written questions tabled by Allan MacMaster in the House on December 9, 2011, I wish to provide the following details.</i></p>
+<p><i>With respect to written question nine, dealing with the Department of Justice's agreement to cover the cost of a policing study for Pictou County, I can inform the member that this commitment still stands. However, we have been provided with information through the representatives of Westville, Stellarton, New Glasgow, Trenton and the Town of Pictou that ongoing contract negotiations have precluded proceeding with a Pictou County Policing Study at this time. The Government of Nova Scotia, through the Department of Justice, remains committed to ensuring that adequate, efficient and effective policing services are delivered in Pictou County. A review of policing services continues to represent one means for accomplishing that goal. The Department of Justice will offer support as and when the representatives of Pictou County request it.</i></p>
+<p><i>With respect to question ten, dealing with my support for a regional policing study, I can assure the honourable member and this House that my office and this government remain committed to ensuring a high standard of policing consistent with the requirements of the Police Act. Furthermore, I can also reassure the member that it is not my intention to dissolve municipal police services. The Department of Justice continues to work collaboratively to review models and options for municipal policing in the best interests of those communities. Every municipality in Nova Scotia is responsible for the policing and maintenance of law and order in their jurisdiction. The Minister of Justice's duties include ensuring that an adequate and effective level of policing is maintained throughout Nova Scotia.</i></p>
+<p><i>Yours very truly,</i></p>
+<p><i>Ross Landry</i></p></answer>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
+        <debateSection>
+          <heading>Given on December 15, 2011</heading>
+        </debateSection>
+        <debateSection>
+          <heading>PURSUANT TO RULE 30</heading>
+        </debateSection>
+        <debateSection>
+          <num title="11">QUESTION NO. 11</num>
+          <question to="b1bb12cd-3928-4525-bab1-d76d28109b5b" by="e14ef5f0-e76a-4413-842d-24e0bfcba8d2">
+            <from>Mr. Eddie Orrell</from>
+            <p>(1) The Keltic Lodge Resort, one of the province's Signature Resorts is an important economic and employment drive in Cape Breton. Last week, at the announcement for the Capital Plan, the Minister of Finance said there will be an announcement made soon about the fate of the resorts. I'm not sure if the minister has a plan, will have a plan or knows how to plan based on his response to my colleague on November 2, when he said "we will have a plan - we have a plan that will be going to Cabinet very shortly." My question to the Minister of Economic and Rural Development and Tourism is, will the minister outline his plan today for the Signature Resorts, which are important tourism drivers?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <num title="12">QUESTION NO. 12</num>
+          <question to="b1bb12cd-3928-4525-bab1-d76d28109b5b" by="e14ef5f0-e76a-4413-842d-24e0bfcba8d2">
+            <from>Mr. Eddie Orrell</from>
+            <p>(1) Community members in Ingonish are concerned about the diminishing condition and reputation of the Keltic Lodge due to lack of repairs and investment from this NDP Government. Even so, the minister has been sitting on his hands and doing nothing for over two years. Is this government considering selling the Signature Resorts or is it planning to invest in jobs and the rural communities that rely on these resorts?</p>
+          </question>
+        </debateSection>
+        <debateSection>
+          <num title="13">QUESTION NO. 13</num>
+          <question to="b1bb12cd-3928-4525-bab1-d76d28109b5b" by="e14ef5f0-e76a-4413-842d-24e0bfcba8d2">
+            <from>Mr. Eddie Orrell</from>
+            <p>(1) Will the minister stop the guessing game and provide some certainty for the people who rely on the Signature Resorts?</p>
+          </question>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="45">RESOLUTION NO. 45</num>
+          <speech by="22119b83-0505-4c62-95ff-e8c0e378764c"><from>Mr. Jim Morton</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Eastern Kings Chamber of Commerce (EKCC) is the chief advocacy group for more than 300 businesses, organizations, and individuals in Eastern Kings County; and</p>
+<p>Whereas the EKCC held its 17<sup>th</sup> Annual Kings County Business Awards on Thursday, November 3<sup>rd</sup> at the Old Orchard Inn in Greenwich; and</p>
+<p>Whereas Scotian Gold Co-operative Limited, an apple cooperative that handles fruit from approximately 55 growers and represents about 50 per cent of the total Nova Scotia apple crop, was the winner in the category of Outstanding Exporter of the Year;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Scotian Gold Co-operative Limited for their achievement in being named the Outstanding Exporter of the Year for 2011 and acknowledge their exemplary contributions to the Kings County community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="46">RESOLUTION NO. 46</num>
+          <speech by="22119b83-0505-4c62-95ff-e8c0e378764c"><from>Mr. Jim Morton</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Eastern Kings Chamber of Commerce (EKCC) is the chief advocacy group for more than 300 businesses, organizations, and individuals in Eastern Kings County; and</p>
+<p>Whereas the EKCC held its 17<sup>th</sup> Annual Kings County Business Awards on Thursday, November 3<sup>rd</sup> at the Old Orchard Inn in Greenwich; and</p>
+<p>Whereas Livelenz of Centreville, a leading POS data analytic software provider serving the quick-service restaurant industry worldwide, was the winner in the category of Outstanding Innovator of the Year;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Livelenz for their achievement in being named the Outstanding Innovator of the Year for 2011 and acknowledge their exemplary contributions to the Kings County community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="47">RESOLUTION NO. 47</num>
+          <speech by="22119b83-0505-4c62-95ff-e8c0e378764c"><from>Mr. Jim Morton</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Eastern Kings Chamber of Commerce (EKCC) is the chief advocacy group for more than 300 businesses, organizations, and individuals in Eastern Kings County; and</p>
+<p>Whereas the EKCC held its 17<sup>th</sup> Annual Kings County Business Awards on Thursday, November 3<sup>rd</sup> at the Old Orchard Inn in Greenwich; and</p>
+<p>Whereas Valley Credit Union, a member-owned financial institution offering a broad array of products and services with eight branches throughout the Valley, was the winner in the category of Outstanding Large Business of the Year;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Valley Credit Union for their achievement in being named the Outstanding Large Business of the Year for 2011 and acknowledge their exemplary contributions to the Kings County community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="48">RESOLUTION NO. 48</num>
+          <speech by="22119b83-0505-4c62-95ff-e8c0e378764c"><from>Mr. Jim Morton</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Eastern Kings Chamber of Commerce (EKCC) is the chief advocacy group for more than 300 businesses, organizations, and individuals in Eastern Kings County; and</p>
+<p>Whereas the EKCC held its 17<sup>th</sup> Annual Kings County Business Awards on Thursday, November 3<sup>rd</sup> at the Old Orchard Inn in Greenwich; and</p>
+<p>Whereas Shannex, retirement living campuses and long-term care facilities within Atlantic Canada, with newly opened long-term care homes in Kentville and Greenwich, was the winner in the category of Outstanding New Business of the Year;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Shannex for their achievement in being named the Outstanding New Business of the Year for 2011 and acknowledge their exemplary contributions to the Kings County community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="49">RESOLUTION NO. 49</num>
+          <speech by="aefec392-99d6-4923-8d87-227e50d567e8"><from>Ms. Pam Birdsall</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Provincial Volunteer Awards thank and honour people who donate their time to help others by supporting the causes in which they believe and serves to reinforce the human values that volunteering represents and increase awareness of the vital importance of volunteerism to our communities; and</p>
+<p>Whereas Mervyn Joudrey served the Blockhouse Fire Department for 50 years as an active member while also volunteering his time and energy with St. John's Evangelical Church, including maintenance and upkeep of the church and its buildings while also contributing to the local food bank; and</p>
+<p>Whereas Mervyn Joudrey had been chosen to represent the Municipality of the</p>
+<p>District of Lunenburg at this year's awards ceremony today, April 2, in Halifax;</p>
+<p>Therefore be it resolved that this House of Assembly recognizes the decades of service and volunteerism provided by Mervyn Joudrey of Blockhouse, Nova Scotia.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="50">RESOLUTION NO. 50</num>
+          <speech by="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3"><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Shelburne Minor Ball has been named Association of the Year for 2011 by Baseball Nova Scotia for the impressive gains they have made on numerous fronts over the past six years; and</p>
+<p>Whereas Shelburne Minor Ball focuses on every aspect of the game, from player development and certification for coaches and umpires to building their own ball field, ensuring the foundation is there for future growth in the sport in the community; and</p>
+<p>Whereas Shelburne Minor Ball had a stellar season in 2011, with the Mosquito A Bashers bringing home the first provincial banner for the association in 11 years, and the Peewee AA Bashers taking first place for the regular season in Nova Scotia Bluenose League;</p>
+<p>Therefore be it resolved that this House of Assembly congratulates Shelburne Minor Ball for being named Association of the Year for 2011 by Baseball Nova Scotia.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="51">RESOLUTION NO. 51</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this year's Family Volunteer of the Year award goes to the Smith family from the Town of Oxford; and</p>
+<p>Whereas together, Kelly and Dana Smith have taught their three children Evan, Adam and Olivia, the importance of extending a hand and helping out in their community; and</p>
+<p>Whereas the Smith family has made an incredible contribution to their community by organizing recreation sports and community programs and activities, participating in fundraising events, and even coaching the local ringette team;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate the Smith Family on their richly deserved award and thank them for helping to make the Town of Oxford the wonderful place that it is.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="52">RESOLUTION NO. 52</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Ben Power, a resident of Dartmouth, has received a silver Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Ben on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="53">RESOLUTION NO. 53</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Melanie Blagdon, a resident of Dartmouth East, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Melanie on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="54">RESOLUTION NO. 54</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Matthew Arnold, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Matthew on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="55">RESOLUTION NO. 55</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Hillary Brosseau, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Hillary on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="56">RESOLUTION NO. 56</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Timothy Conrad, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Timothy on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="57">RESOLUTION NO. 57</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963 and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Sam Dodge, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sam on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="58">RESOLUTION NO. 58</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Nicholas Doiron, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Nicholas on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="59">RESOLUTION NO. 59</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Timmy Doucett, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Timmy on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="60">RESOLUTION NO. 60</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Halle Ford, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Halle on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="61">RESOLUTION NO. 61</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Emily Hally, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Emily on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="62">RESOLUTION NO. 62</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Rebecca Jardine, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Rebecca on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="63">RESOLUTION NO. 63</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh's Award was founded in 1956 and came to Canada in 1963, and is now present in 126 countries; and</p>
+<p>Whereas the award encourages young people to become active and engaged citizens in the area of community service and challenges them to develop personal skills and physical activity and learn what it means to exemplify leadership; and</p>
+<p>Whereas Peter Payzant, a resident of Dartmouth, has received a bronze Duke of Edinburgh's Award for the quarter from July to December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Peter on receiving this prestigious award and offer best wishes for continued success as a leader in our community.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

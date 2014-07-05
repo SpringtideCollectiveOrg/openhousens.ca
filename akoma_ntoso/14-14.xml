@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="578ba1c9-5f6c-4b7b-a5cd-b915e1801c37" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 1 March 2014</docTitle>
+      <docNumber>14-14</docNumber>
+      <docDate date="2014-03-01">Saturday, March 1, 2014</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="62">62nd General Assembly</legislature>
+      <session value="1">1st Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We will now proceed with the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Justice.</p>
+        </speech>
+        <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+<p><b>Bill No. 30 - Essential Home-support Services (2014) Act.</b></p>
+<p>and the committee recommends this bill to the favourable consideration of the House, without amendment.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, with the unanimous consent of the House, I would move that the bill just tabled be added to the order paper and be considered for debate in Committee of the Whole House on Bills today.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
+<p>It is agreed.</p></speech>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, with the unanimous consent of the House, I would move we waive the Committee of the Whole hearing of Bill No. 30 and proceed directly for consideration of Bill No. 30 third reading.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR THIRD READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, would you please call Bill No. 30.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

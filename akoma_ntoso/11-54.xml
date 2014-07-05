@@ -1,0 +1,1144 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="b1bb12cd-3928-4525-bab1-d76d28109b5b" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="c7f2d366-8ba0-4263-98e0-bdaa9336415f" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="8dbda583-1553-4164-a616-3008fb0fdac4" href="/ontology/person/ca-ns.bill.estabrooks" showAs="MR. ESTABROOKS"/>
+        <TLCPerson id="2c8e1a56-2f9d-4156-a91f-77802701e3d3" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="d6c0c78d-dcf3-456a-915c-a20ecb33050f" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="4fbcc786-c835-4a0e-bd05-40afb30e0683" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="5e4eedce-ee17-4542-8b27-a1e87f85ec80" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
+        <TLCPerson id="169d581a-9c34-47f3-9660-9ccb38d06bf4" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="Mr. Mat Whynott"/>
+        <TLCPerson id="fb58b45c-b6ac-4b76-9d1f-045155b8493f" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="a5e0e841-506b-4c0b-a88e-c09691bd745b" href="/ontology/person/ca-ns.manning.macdonald" showAs="HON. MANNNING MACDONALD"/>
+        <TLCPerson id="c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 28 November 2011</docTitle>
+      <docNumber>11-54</docNumber>
+      <docDate date="2011-11-28">Monday, November 28, 2011</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="3">3rd Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
+<p>The honourable member for Halifax Chebucto on an introduction.</p></speech>
+      <speech by="#c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e"><from>MR. HOWARD EPSTEIN</from><p>Mr. Speaker, thank you very much. I would like to present to the House, today, two distinguished visitors who are sitting in the east gallery. The particular visitor that I would like to draw the members' attention to is Mr. Paul Dewar who is the Member of Parliament for Ottawa Centre. As members will know, he is one of the candidates for the leadership of the federal New Democratic Party and he, along with a member of the staff from his campaign, Denis Monnin, are visiting Nova Scotia.</p>
+<p>I would ask the members of the House to give them both a warm welcome. (Applause)</p></speech>
+      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope that they enjoy today's proceedings.</p>
+<p>We will begin the daily routine.</p></speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
+        </speech>
+        <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b"><from>HON. PERCY PARIS</from><p>Mr. Speaker, it gives me great pleasure to rise and address the House today, one year after the launch of jobsHere - government's plan to create good jobs and grow the economy.</p>
+<p>It was a year ago when this government decided to put an end to 20 years of slow economic growth. We responded, Mr. Speaker, with an aggressive plan focused on three principles: learning the right skills for good jobs; growing the economy through innovation; and helping businesses to be more competitive globally. Through jobsHere this government has invested in hundreds of businesses through programs including the Credit Union Loan Program, the Nova Scotia Business Development Program, and the Productivity Investment Program.</p>
+<p>In fact, Mr. Speaker, under jobsHere the province has funded a total of 177 projects through PIP alone. This funding has given companies in every region of the province the financial incentives for capital investments and workplace training and certification. The result for these companies has been that they are now more productive, more innovative, and more competitive globally.</p>
+<p>Take for example, Mr. Speaker, A.F. Theriault &amp; Son Ltd. - this boat-building company in Meteghan River used almost $10,000 in PIP funding to purchase new equipment that aligns the engines and propulsion shafts of their vessels with more accuracy and, as a result, they are able to build larger, higher-qualified boats to be sold in Canada and internationally.</p>
+<p>And if it weren't for jobsHere, Pro Poly Cushioning in Yarmouth wouldn't have received $10,000 from the business development program to help them develop a marketing plan to expand their business worldwide.</p>
+<p>Mr. Speaker, we recognize that creating good jobs and growing the economy takes time, but there is no denying that jobsHere is already working. Our investments are supporting jobs in every part of the province - we have invested $10 million through LED Roadway Lighting, supporting 210 jobs; we've invested $8.8 million in Shelburne Ship Repair, supporting 60 jobs; and we've invested $1.5 million in Ledwidge Lumber, supporting 50 jobs (Interruption) And the list does goes on.</p>
+<p>We are investing in high growth sectors; we've committed $525,000 to 35 companies this year alone through the Productivity and Innovation Voucher Program. We're investing $10 million in Nova Scotia aerospace and defence companies and suppliers, and we've developed a regional venture capital fund which will attract new capital in the region.</p>
+<p>You see, this government is in the business of creating a better economy with investment after investment. We are helping to boost the economy in every region of the province. With Irving's winning bid to build Canada's new combat vessel fleet, Nova Scotians can expect up to 11,500 jobs in the province, and with last week's announcement of a workplace strategy, we will be able to fill those jobs by connecting Nova Scotians to those job opportunities and career options in shipbuilding and other sectors. Thank you, Mr. Speaker.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I want to thank the minister for a copy of his remarks today.</p>
+<p>We know that rural Nova Scotia is bleeding jobs because of the decisions and policies of this government. In the last year, 6,600 jobs were lost outside of Halifax in one year alone. There were 9,800 fewer people who were looking for work in the labour force. The unemployment rate outside of Halifax is 10.2 per cent and as high as 15.4 per cent in Cape Breton. Since this government has taken power, Nova Scotia has lost 12,500 jobs and there are 14,800 fewer people looking for work. This is not a record to celebrate.</p>
+<p>With the reality this grim, it is not surprising that government disagrees with Statistics Canada. It's also not surprising that they focused on June 2011 - before NewPage, before Bowater, before Fundy Gypsum, to name but a few. These are the big closures that aren't headlines. The reality is that there are fewer small businesses with each passing month.</p>
+<p>In the minister's statement he celebrated success, but at no point offered proof of jobs created. He speaks of jobs supported and cheques that were cut, but never speaks of jobs created. According to the minister, this government wrote plenty of cheques, and most of those cheques went to NDP ridings. The heft of this government's chequebook and their willingness to award NDP ridings has never been in dispute.</p>
+<p>Even if we buy this government's numbers - which we don't - this government says they've created 700 jobs in the last year, but they were supposed to create 2,200 jobs a year. That means that this year alone they are 1,500 jobs short. They tell us not to dwell on targets, and it's clear why they offered that advice - they can't even hit their own targets. The numbers they offered are also province-wide. In focusing on those numbers, this government glosses over regional disparities and ignores the plight of rural Nova Scotia - 10.2 per cent unemployment.</p>
+<p>Today we are asked to celebrate a flimsy and weak job creation strategy without targets. Interestingly, the only target provided is several years away and the result of another group's efforts, even though they caution about dwelling on targets. If this government continues their economic mismanagement, our province will not capitalize on the Irving Shipbuilding success. We have the highest taxes in Canada, the fastest-growing power rates, and sky-high fuel prices. These policies make attracting businesses an uphill battle.</p>
+<p>Fewer jobs since they took office; a crisis in rural Nova Scotia; lower wages across the province; much lower wages for women; and sky-high unemployment outside of Halifax. This is not a record to celebrate. It is not time to chest-thump. It is time for some humility and it is time to admit your failure.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Cape Breton North.</p>
+        </speech>
+        <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I want to thank the minister for providing a copy of his statement to our office earlier today. However, when I saw what the minister planned to say, I thought it might be a joke. I guess, though, it's in keeping with this minister's recent behaviour. To me, it is shocking that this minister would celebrate a fiction and call something a success when every measurable indicator provided is a failure. I can assure you, minister, that the people in rural Nova Scotia will not be joining in this celebration of the anniversary of a failed job scheme.</p>
+<p>For 2,100 Cape Bretoners who have lost their job in the last year alone, today marks just another day that this government has failed them. The 1,400 unemployed Nova Scotians on the North Shore will not be raising a glass to a plan that has let them down; 600 people in the Valley who have lost their jobs since October 2010 will see no cause for celebration today; and the 2,500 struggling, unemployed people in southwestern Nova Scotia will see the minister's triumphant statement today as nothing more than a slap in the face, an insult, and further proof that the NDP Government is completely out of touch with their increasingly desperate situation. That adds up to 6,600 Nova Scotia families that this minister and his jobs plan have let down.</p>
+<p>Nova Scotians are worried that this is the man tasked with creating the conditions for a better jobs economy. The minister will quibble with these numbers, even though they are from Statistics Canada. Surely he won't deny the statistics reported by allnovascotia.com last week which said that from October 2009 to October 2011, unemployment throughout the province is down by 5,000. Areas outside Halifax lost 7,900 jobs between the April and June period in 2009 and the same period in 2011.</p>
+<p>The minister proudly listed the companies where he says help from his department helped maintain jobs, but we have a list too, Mr. Speaker, a list of businesses that have recently laid off Nova Scotia workers or closed their doors altogether: Bowater Mersey, NewPage, Minas Basin Pulp and Power, Fundy Gypsum, Composites Atlantic, New Minas Co-Op, Hart in Windsor and Port Hawkesbury, Ed Martin Printing in Windsor, Margolians in Truro, and Signature Styles. And the list goes on.</p>
+<p>To call down these job losses, Nova Scotians pay the highest taxes in Canada, shouldering spiralling energy costs, enduring the highest inflation rates in the country, and trying to make ends meet while their wages lay stagnant. Instead of patting himself on the back today, it would have been more appropriate for this minister to take his blinders off and admit to Nova Scotians that his plan isn't working and concede that they deserve better from this government.</p>
+<p>Mr. Speaker, this minister is simply not up to the job. Thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>I would like to remind all members not to refer to other members as "you" or use "your" in reference to another member. This is one of the basic principles of decorum in any Parliament, so I'm just reminding all members to start the week off right and refer to somebody in the third person. Thank you very much.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Acadian Affairs.</p>
+        </speech>
+        <debateSection>
+          <num title="2539">RESOLUTION NO. 2539</num>
+          <speech by="#5e4eedce-ee17-4542-8b27-a1e87f85ec80"><from>HON. GRAHAM STEELE</from><p>M. le President, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que la M. A.J.B. (John) Johnston, qui est n&#xE9; et qui a grandi &#xE0; Truro, a contribut&#xE9; &#xE0; notre compr&#xE9;hension du r&#xF4;le de le Forteresse de Louisbourg dans la culture et le patrimoine de la Nouvelle-&#xC9;cosse dans le cadre de son &#xE9;minente carri&#xE8;re d'historien chex Parcs Canada pendant 35 ans; et</p>
+<p>Attendu que M. Johnston a &#xE9;t&#xE9; un auteur prolifique ayant publi&#xE9; plus d'une douzaine d'ouvrages, y compris, son dernier ouvrage intitul&#xE9; 1758: la Finale: Promesses, Splendeur et D&#xE9;solation de la Derni&#xE8;re Decennie de Louisbourg; et</p>
+<p>Attendu que le 30 novembre 2011 M. Johnston sera nomm&#xE9; par le gouvernement de la France au grade de Chevalier de l'Ordre des Palmes acad&#xE9;miques, un prix prestigieux cr&#xE9;&#xE9; par Napol&#xE9;on, pour ses contributions remarquables &#xE0; l'&#xE9;ducation et &#xE0; la culture fran&#xE7;aises;</p>
+<p>Par consequent, il est r&#xE9;solu que les members de l'Assembl&#xE9;e f&#xE9;licitent M. Johnston pour sa nomination, par le gouvernement de la France, au grade de Chevalier de l'Ordre des Palmes acad&#xE9;miques, et lui souhaitent un succ&#xE8;s continu dans son travail.</p>
+<p>M. le Pr&#xE9;sident, je demande l'adoption de cette resolution sans pr&#xE9;vais et sans d&#xE9;bat.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dr. A.J.B. (John) Johnston, who was born and raised in Truro, has contributed to our understanding of the role of Fortress Louisbourg in the culture and heritage of Nova Scotia, as part of a distinguished 35-year career as historian with Parks Canada; and</p>
+<p>Whereas Dr. Johnston has been a prolific author with more than a dozen books published, including his latest, entitled <i>Endgame 1758: The Promise, the Glory and the Despair of Louisbourg's Last Decade; </i>and</p>
+<p>Whereas on November 30, 2011, Dr. Johnston will be named by the government of France as a Knight of the Ordre des Palmes acad&#xE9;miques, a prestigious award created by Napoleon, for Dr. Johnston's tremendous contributions toward French education and culture;</p>
+<p>Therefore be it resolved that the House of Assembly congratulate Dr. Johnston on being named by the Government of France as a Knight of the Ordre des Palmes acad&#xE9;miques and wish him continued success in his academic work.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Gaelic Affairs.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2540">RESOLUTION NO. 2540</num>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas since it began in 2006, Gaelic Affairs has supported hundreds of Nova Scotians in language programs and mentorship programs that link Gaelic-speaking elders with Gaelic learners; and</p>
+<p>Whereas on Sunday, November 27<sup>th</sup> at the Gaelic College, new visual aids, tutor guides, and resources were launched that will help support Gaelic learning and culture and strengthen the Gaelic in the Community program; and</p>
+<p>Whereas giving Nova Scotians tools and resources to increase their knowledge of Gaelic language and culture helps to build pride in our heritage and keeps traditions alive for future generations;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in celebrating and promoting Nova Scotia's diverse culture and heritage and recognize the importance of maintaining Gaelic traditions for future generations.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Fisheries and Aquaculture</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2541">RESOLUTION NO. 2541</num>
+          <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Nova Scotia Fish Packers Association has provided a leadership role in addressing the interests of the processing sector as well as the commercial fishery in general; and</p>
+<p>Whereas Denny Morrow of Yarmouth County has provided 15 years of excellent, dedicated, and professional service to the association and the entire fishing industry in Nova Scotia; and</p>
+<p>Whereas Denny Morrow will retire in December 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Mr. Denny Morrow for his many years of service and wish him well as he begins this new chapter of his life.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Acadian Affairs.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2542">RESOLUTION NO. 2542</num>
+          <speech by="#5e4eedce-ee17-4542-8b27-a1e87f85ec80"><from>HON. GRAHAM STEELE</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse a jou&#xE9; une r&#xF4;le de premier plan dans la d&#xE9;fense des droits de la communaut&#xE9; acadienne et francophone de notre province pour faire en sorte que ses contributions &#xE0; notre culture et &#xE0; notre patrimoine soient reconnues, pr&#xE9;serv&#xE9;es et c&#xE9;l&#xE9;br&#xE9;es; et</p>
+<p>Attendu que lors des Rendez-vous de la Francophonie de 2010, une proposition a &#xE9;t&#xE9; soumise visant &#xE0; jumeler les communaut&#xE9;s francophones du Canada avec des communaut&#xE9;s du Qu&#xE9;bec en reconnaissance de leur vitalit&#xE9; et de leurs contributions &#xE0; la langue fran&#xE7;aise et &#xE0; le culture francophone au Canada; et</p>
+<p>Attendu que la ville de Val-d'Or, au Qu&#xE9;bec, et la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse d&#xE9;ploient des efforts visant &#xE0; jumeler Val-d'Or avec la communaut&#xE9; acadienne et francophone de la Nouvelle-&#xC9;cosse en vue d'am&#xE9;liorer la collaboration et les &#xE9;changes qui permettront de renforcer la relation entre ces deux communaut&#xE9;s dynamiques et actives;</p>
+<p>Par cons&#xE9;quent, il est r&#xE9;solu que les members de l'Assembl&#xE9;e f&#xE9;licitent la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;osse et la ville de Val-d'Or pour leurs efforts visant &#xE0; favoriser des liens &#xE9;troits entre les communaut&#xE9;s francophones du Canada.</p>
+<p>M. le Pr&#xE9;sident, je demande l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse has played a leading role in advocating for the Acadian and francophone communities of our province, to ensure their contributions to our diverse culture and heritage are recognized, preserved and celebrated; and</p>
+<p>Whereas in 2010 at the Rendez-vous de la Francophonie, a proposal was put forward to twin francophone communities in Canada with communities in Quebec, as a recognition of their vitality and contributions to French language and culture in Canada; and</p>
+<p>Whereas the city of Val-d'Or, Qu&#xE9;bec and the F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse are acting to twin Val-d'Or with Nova Scotia's Acadian and francophone community in an effort to enhance collaboration and exchanges that will build a strong relationship between these two vibrant and active communities;</p>
+<p>Therefore be it resolved that the House of Assembly congratulates the F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse and the City of Val-d'Or, Qu&#xE9;bec for their efforts to foster strong links between Canada's francophone communities.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Fisheries and Aquaculture.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2543">RESOLUTION NO. 2543</num>
+          <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Tuesday, November 29<sup>th</sup> is known as dumping day in southwest Nova Scotia as it marks the start of the lobster fishing season in Lobster Fishing Areas 33 and 34; and</p>
+<p>Whereas the lobster fishery is a valuable part of Nova Scotia's economy, generating thousands of good jobs and bringing hundreds of millions of export dollars into the province each year; and</p>
+<p>Whereas ocean conditions at this time of year can be extreme and the working conditions can be dangerous for our fishers;</p>
+<p>Therefore be it resolved that all members of the House of Assembly wish all lobster fishers a safe and productive season and recognize the difficult working conditions they face on the sea and the substantial contributions they make to the economy of Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Mr. Speaker, would you please revert to the order of business, Tabling Reports, Regulations and Other Papers.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request to revert to the order of business, Tabling Reports, Regulations and Other Papers.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Natural Resources.</p>
+        </speech>
+        <speech by="#4fbcc786-c835-4a0e-bd05-40afb30e0683">
+          <from>HON. CHARLIE PARKER</from>
+          <p>Mr. Speaker, I beg leave to table a report under Section 4(8) of the Acts of 2007, the Fees Act, Off-Highway Vehicle Permit Fees for Snow Vehicles.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The report is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 115 - Entitled an Act to Amend Chapter 246 of the Revised Statutes of 1989. The Labour Standards Code, Respecting Citizenship Ceremony Leave. (Hon. Marilyn More)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 116 - Entitled an Act to Amend Chapter 5 of the Acts of 2011. The Elections Act. (Hon. Ross Landry)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 117 - Entitled an Act to Amend Chapter 31 of the Acts of 1996. The Sales Tax Act. (Mr. Harold Theriault)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that these bills be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <debateSection>
+          <num title="2544">RESOLUTION NO. 2544</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Daniel J. McNeil served the people of District 12 in the County of Halifax as municipal councillor from 1956 to 1958; and</p>
+<p>Whereas Peter Joseph Bert McNeil served the people of District 4 in Annapolis County as municipal councillor from 1970 until 1973; and</p>
+<p>Whereas on November 26, 2011, Bert McNeil was elected to serve the people of District 7 of Annapolis County as municipal councillor;</p>
+<p>Therefore be it resolved that the members of the Legislature extend our congratulations to Bert McNeil, grandson of the late Daniel J. McNeil and son of the late Peter Joseph Bert McNeil, and wish him best wishes as he serves his community in his new role and follows in the footsteps of his father and his grandfather.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2545">RESOLUTION NO. 2545</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, on behalf of the honourable member for Cumberland South, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas tomorrow lobster fishermen from Eastern Passage to Digby will kick off the winter lobster season with Dumping Day; and</p>
+<p>Whereas people will gather before dawn tomorrow, flashlights in hand, to show their support for the local lobster fishermen at the Cape Forchu lighthouse and local wharves all around the province and to take in the annual blessing of the fleet before 6 o'clock; and</p>
+<p>Whereas Dumping Day signifies the start of our most lucrative industry in southwest Nova Scotia as the lobster fishery accounts for 35 per cent of total economic returns for the area;</p>
+<p>Therefore be it resolved that all members of this House of Assembly wish these brave Nova Scotians a successful season and, most importantly, remind them to take every effort to ensure their safety while out in the ocean this winter.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2546">RESOLUTION NO. 2546</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Shaw Group Limited is a dynamic and innovative company that traces its roots back to a small clay, brick and tile manufacturing operation founded by Robert Shaw in Hantsport in 1861; and</p>
+<p>Whereas throughout the last 150 years, the company has grown and diversified to become one of Eastern Canada's leading natural resource manufacturers and community developers; and</p>
+<p>Whereas the Shaw Group includes a number of successful divisions and subsidiaries, including Clayton Developments which has indelibly shaped our province through the creation of vibrant new communities beginning with Clayton Park in the early 1960s;</p>
+<p>Therefore be it resolved that the members of this House congratulate the management team, board of directors and staff of the Shaw Group as they celebrate 150 years in business in Nova Scotia and wish them continued success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2547">RESOLUTION NO. 2547</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Earlene Busch, owner of Chanterelle Country Inn and Cottages in St. Ann's on the Cabot Trail, will be in Toronto this evening as one of two finalists from Nova Scotia in the 2011 RBC Canadian Women Entrepreneur Awards; and</p>
+<p>Whereas Earlene opened her business in 2000 to provide an upscale green accommodation to travellers seeking a restful and healthy environment; and</p>
+<p>Whereas the RBC Awards recognize strong entrepreneurial vision, relentless passion, and those who are positive role models for young women;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Earlene Busch on being chosen as one of the finalists for the 2011 RBC Canadian Women Entrepreneur Awards and wish her well at tonight's awards ceremony in Toronto.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2548">RESOLUTION NO. 2548</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas for the first time ever, MADD, Mothers Against Drunk Driving, has partnered with the Mi'kmaq Annapolis Valley First Nation; and</p>
+<p>Whereas Strides for Change was held June 4, 2011, and welcomed participants from Central Kings Rural High School, MADD Canada, local students, and visiting First Nation communities; and</p>
+<p>Whereas the Annapolis Valley First Nation and Mothers Against Drunk Driving were instrumental in raising awareness of the dangers of drinking and driving, hopefully making this walk an annual event;</p>
+<p>Therefore be it resolved that this House of Assembly recognize the Annapolis Valley Mi'kmaq First Nation and MADD Canada for their valiant efforts on June 4, 2011.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2549">RESOLUTION NO. 2549</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Minister of Economic and Rural Development and Tourism remains under the illusion that his government is creating employment despite the evidence to the contrary; and</p>
+<p>Whereas Statistics Canada clearly shows that 13,800 Nova Scotians have either lost full-time jobs or have simply given up looking for one since the NDP came into power; and</p>
+<p>Whereas federal NDP leadership candidate Paul Dewar, in Nova Scotia over the weekend, is obviously not under the same illusion as the minister is, saying NDP supporters are "most concerned with job losses and the environment";</p>
+<p>Therefore be it resolved that the Minister of Economic and Rural Development and Tourism take the advice of his federal cousin and start getting concerned about job losses under his watch.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Richmond.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2550">RESOLUTION NO. 2550</num>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the 7<sup>th</sup> Annual Martell Richard Memorial Mini Marathon took place September 24, 2011, in Arichat; and</p>
+<p>Whereas participants of the mini marathon had a choice to walk five kilometres, run five kilometres, or run 10 kilometres; and</p>
+<p>Whereas in the Youth 16 and Under boys division five-kilometre run, Mason Maxwell finished first place, Caleb Hearn finished second place, and Eric DeWolf finished third place;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Mason Maxwell, Caleb Hearn, and Eric DeWolf on finishing in the top three in the Youth 16 and Under boys division five-kilometre run at the Martell Richard Memorial Mini Marathon.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2551">RESOLUTION NO. 2551</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Monsieur le Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que l'Ordre du Canada a &#xE9;t&#xE9; &#xE9;tabli pour souligner ceux et celles qui ont apport&#xE9; une contribution sp&#xE9;ciale &#xE0; notre pays; et</p>
+<p>Attendu que monsieur Phil Comeau de la Baie Sainte-Marie est reconnu dans la production de films et qu'il est engag&#xE9; dans la promotion de la culture acadienne; et</p>
+<p>Attendu que Phil Comeau est bien reconnu dans le domaine de la production de film et a re&#xE7;u de nombreux prix d'excellence;</p>
+<p>Qu'il soit r&#xE9;solu que les membres de cette assembl&#xE9;e offrent leurs meilleurs v&#x153;ux et sinc&#xE8;res f&#xE9;licitations &#xE0; Phil Comeau pour &#xEA;tre re&#xE7;u dans l'Ordre du Canada.</p>
+<p>Monsieur le Pr&#xE9;sident, je propose l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bats.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the purpose of the Order of Canada is to recognize those who have made a special contribution to our country; and</p>
+<p>Whereas M. Phil Comeau from la Baie Sainte-Marie is a renowned filmmaker who has used his skill to promote the Acadian culture; and</p>
+<p>Whereas M. Comeau is highly regarded in the film art form and has won many awards;</p>
+<p>Therefore be it resolved that all members of this House of Assembly extend their best wishes and congratulations to Phil Comeau on becoming a member of the Order of Canada.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2552">RESOLUTION NO. 2552</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event, which up until this past weekend had raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the volunteers, corporate sponsors, and staff of the Mental Health Foundation of Nova Scotia for yet another successful Festival of Trees and the roles they all play, every day, when it comes to changing the way people think about mental illness.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2553">RESOLUTION NO. 2553</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Ron Marks, a member of the Chignecto-Central Regional School Board, has served the students of Nova Scotia for 26 years, has been on the NSSBA board of directors for over 20 years, and has twice served as its president; and</p>
+<p>Whereas Marks is known for his commitment to education, particularly for his advocacy work in the area of developing a vision for 21<sup>st</sup> Century education; and</p>
+<p>Whereas Marks received the 2011 NSSBA Education Week Partner Award, which recognizes representatives who make significant contributions to the lives of our young people;</p>
+<p>Therefore be it resolved that all members of this House of Assembly express congratulations and thanks to a dedicated school board member, especially for his specific contributions to the Education Week 2011 theme - Innovative Teaching in the 21<sup>st</sup> Century.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2554">RESOLUTION NO. 2554</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Eldridge Densmore is a distinguished and decorated veteran active in the Royal Canadian Legion, Bedford Branch, and has been awarded the Legion's highest honour - the Palm Leaf; and</p>
+<p>Whereas this kind and generous man was named Bedford Volunteer of the Year in 1996 and is a member and honorary director of the Brookside Bedford Community Cemetery, a volunteer with Meals on Wheels, and a 62-year member of the Maitland Masons; and</p>
+<p>Whereas Eldridge Densmore will mark his 90<sup>th</sup> birthday on December 10<sup>th</sup> of this year, and friends and family celebrated his special day with a party in his honour at Bedford United Church on November 26<sup>th</sup>;</p>
+<p>Therefore be it resolved that the members of this House of Assembly applaud the accomplishments and contributions of Eldridge Densmore, who personifies the can-do spirit of the community of Bedford, and wish him health and happiness and many more years to come.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2555">RESOLUTION NO. 2555</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the construction of the Shubenacadie Canal began in 1826, and it is now a National Engineering Historic Site managed by the Shubenacadie Canal Commission; and</p>
+<p>Whereas November 29<sup>th</sup> marks the 150<sup>th</sup> Anniversary of the first complete crossing of the province entirely by water by the vessel Avery, a crossing made using the Shubenacadie Canal from Dartmouth to Maitland; and</p>
+<p>Whereas from November 27<sup>th</sup> to November 29<sup>th</sup>, to mark the anniversary of this first crossing, two members of the Shubenacadie Canal Commission will recreate this historic journey by canoe;</p>
+<p>Therefore be it resolved that all members of the House of Assembly join me in wishing success to Mr. Allan Billard and Mr. Gordon Warnica on their endeavour, and thank them for their efforts to promote the importance of Nova Scotia's Shubenacadie Canal and Waterway to the province's history.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Digby-Annapolis.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2556">RESOLUTION NO. 2556</num>
+          <speech by="#169d581a-9c34-47f3-9660-9ccb38d06bf4"><from>MR. HAROLD THERIAULT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Eric Amero of Plympton has reached a milestone like no other; and</p>
+<p>Whereas at the age of 22, Eric answered a call with Canada Post to deliver mail along the Plympton route; and</p>
+<p>Whereas on October 16, 2011, Eric Amero celebrated 50 years of working for Canada Post, ensuring the residents of that area received their mail;</p>
+<p>Therefore be it resolved that all members of the House of Assembly commend Eric Amero on his 50 years with Canada Post and wish him continued success on the job.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2557">RESOLUTION NO. 2557</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in the Spring of 2011 Rita-Clare LeBlanc won dual honours when she received a Lieutenant Governor's Medal for Halifax West High School and was also the only Atlantic Canadian youth named to the prestigious Top 20 Under 20 for 2011; and</p>
+<p>Whereas the Top 20 Under 20 award recognizes outstanding young Canadian leaders and includes a post-secondary scholarship, mentorship opportunities, and career coaching; and</p>
+<p>Whereas Rita-Clare was honoured for creating MYST, Maritime Youth Standing Together, which has over 30 members and has raised money to build and outfit a school in Mali, Africa;</p>
+<p>Therefore be it resolved that the members of this House of Assembly join me in recognizing Rita-Clare LeBlanc on receiving both the Lieutenant Governor's Medal and being chosen as one of the Top 20 Under 20 award winners and wish her every success in her promising future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2558">RESOLUTION NO. 2558</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Charles Hill and Son Limited, a fifth generation family farm, is a 150-cow dairy operation in Colchester North on the banks of the Cobequid Bay; and</p>
+<p>Whereas the newest generation of farmers - Tara Hill, her husband Al, and her father Geordie - while working hard to preserve their tradition of farming, have made their farm a model of modern dairy farming at its best through the use of such things as the open-style barn, a nutrient management plan, crop rotation, no-till technology, buffers to protect waterways, and the growth of natural vegetation and perennial forage to protect brooks and areas at risk of erosion; and</p>
+<p>Whereas the Farm Environmental Stewardship Award, part of the Environmental Farm Plan Program, is delivered by the Nova Scotia Federation of Agriculture to a farmer who has demonstrated an outstanding commitment toward healthy soils, improved water quality, diverse landscapes, and vibrant communities;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Tara Hill-MacMillan of Charles Hill and Son Limited for being chosen one of the finalists to be named the 2011 Environmental Farm Steward.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2559">RESOLUTION NO. 2559</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dale Godsoe is a community leader who served Symphony Nova Scotia, the National Arts Centre, the United Way, YWCA of Canada, the Atlantic Film Festival, and the Nova Scotia Liberal Party; and</p>
+<p>Whereas Dale has served on the boards of numerous media outlets - in fact, she currently chairs the SVOX Foundation and previously chaired its predecessor, Vision TV Network, and also served on the board of OWL TV and OWL and Chickadee Magazine; and</p>
+<p>Whereas Dale has been honoured with numerous awards, including an honorary doctorate from MSVU, the Canada Volunteer Award, the Order of Canada, the Canadian Society of Fundraising Executive of the Year and, most recently, Dale was named a Woman of Excellence in the Arts and Culture category;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Dale Godsoe on her latest honour and thank her for her service to Canada and Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2560">RESOLUTION NO. 2560</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Darragh O'Connor, a Halifax resident, holds a degree in earth science from Dalhousie and is currently a master's student of applied science at Dalhousie University; and</p>
+<p>Whereas the Pengrowth-Nova Scotia Energy Innovation Grant supports researchers in their vital fields of earth science, environmental science, business and engineering at Nova Scotia's universities; and</p>
+<p>Whereas Mr. O'Connor is the recipient of a $15,000 grant to assist his research in Nova Scotia's offshore petroleum exploration;</p>
+<p>Therefore be it resolved that all members of the House of Assembly join me in congratulating Darragh O'Connor on his receipt of this grant, as well as his initiative and his commitment to promoting Nova Scotia as a world leader in petroleum exploration and promotion.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Richmond.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2561">RESOLUTION NO. 2561</num>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the 7<sup>th</sup> Annual Martell Richard Memorial Mini Marathon, took place September 24, 2011, in Arichat; and</p>
+<p>Whereas participants of the mini marathon had a choice to walk 5 kilometres, run 5 kilometres, or run 10 kilometres; and</p>
+<p>Whereas in the men's 5-kilometre run category, Matt Richard finished first place, Henry Doyle finished second place, and David Fougere finished third place;</p>
+<p>Therefore be it resolved that the members of the House of Assembly congratulate Matt Richard, Henry Doyle, and David Fougere on finishing in the top three in the men's 5- kilometre run category at the Martell Richard Memorial Mini Marathon.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2562">RESOLUTION NO. 2562</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nancy Chittick of Berwick is an inspiring human being who has always met life's challenges head-on; and</p>
+<p>Whereas when Nancy had her left leg amputated last year, after three weeks in rehab she started training to regain her mobility - at age 41, the youngest person in rehab; and</p>
+<p>Whereas Nancy Chittick, coach and owner at the Berwick Amateur Boxing Club, was the first woman to obtain a Level 3 Amateur Boxing Coach and also the first female to own a boxing club in Nova Scotia;</p>
+<p>Therefore be it resolved that Nancy Chittick of Berwick, Nova Scotia, be recognized by the House of Assembly for her bravery, tenacity, and courage as she continues to train athletes in the ring.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye, Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2563">RESOLUTION NO. 2563</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>M. le Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la resolution suivante:</p>
+<p>Attendu que l'Universit&#xE9; Sainte-Anne a une association des anciens active qui soutient des projets de l'Universit&#xE9;; et</p>
+<p>Attendu que M. &#xC9;mile Melanson est engag&#xE9; depuis plusieurs ann&#xE9;es dans l'association des anciens et ses nombreux projets; et</p>
+<p>Attendu que M. Melanson a &#xE9;t&#xE9; reconnu comme ancien de l'ann&#xE9;e pour 2011 par l'Association des Anciens et Amis de l'Universit&#xE9; Sainte-Anne;</p>
+<p>Qu'il soit r&#xE9;solu qu les members de cette assemble se joint &#xE0; moi pour f&#xE9;liciter &#xC9;mile Melanson et l'encourage &#xE0; continuer son d&#xE9;vouement envers l'Association des Anciens et Amis de l'Universit&#xE9; Sainte-Anne.</p>
+<p>M. le Pr&#xE9;sident, je propose l'adoption de cette resolution sans pr&#xE9;avis et sans d&#xE9;bats.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Universit&#xE9; Sainte-Anne has a strong alumni association dedicated to supporting university projects; and</p>
+<p>Whereas &#xC9;mile Melanson has been actively engaged in the alumni association of Universit&#xE9; Sainte-Anne for many years; and</p>
+<p>Whereas &#xC9;mile Melanson has been recognized this year by l'Association des Anciens et Amis de Universit&#xE9; Sainte-Anne as Alumni of the Year;</p>
+<p>Therefore be it resolved that all members of this House join me in congratulating &#xC9;mile Melanson on receiving the honour of Alumni of the Year for 2011, and encourage him to continue his contributions to Universit&#xE9; Sainte-Anne.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call the order of business, Private and Local Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRIVATE AND LOCAL BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call Bill No. 99.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 99 &#x2013; Archdiocese of Halifax-Yarmouth Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Citadel-Sable Island.</p>
+          </speech>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, I'm pleased to rise to say a few words here on Bill No. 99, An Act Respecting the Archdiocese of Halifax-Yarmouth.</p>
+<p>Just to put it in a layperson's terms, under church law, the two Roman Catholic dioceses of Halifax and Yarmouth will become one archdiocese known as the Archdiocese of Halifax-Yarmouth. This change will be effective on December 8<sup>th</sup>, 2011. The two dioceses are now separate civil corporations both being incorporated by a private Statute. This bill ensures that the two civil corporations continue as separate entities in order to give the archbishop of the new archdiocese time to consider the appropriate civil structure for the newly created archdiocese.</p>
+<p>Mr. Speaker, I'm informed that the proponents have met all the procedural requirements, including advertisement in The Chronicle-Herald and representatives of the two dioceses will be available at the Private and Local Bills Committee when this bill is examined there. With those few words, I'll take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>I think that the honourable member would like to recommend second reading of Bill No. 99.</p>
+          </speech>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a">
+            <from>MR. PREYRA</from>
+            <p>Mr. Speaker, I move second reading of Bill No. 99.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 99. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Private and Local Bills.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Mr. Speaker, would you please call Bill No. 101.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 101 &#x2013; Halifax Kennel Club Incorporation Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Atlantic.</p>
+          </speech>
+          <speech by="#fb58b45c-b6ac-4b76-9d1f-045155b8493f"><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, it gives me pleasure to rise to speak for a few moments on the amendment to the Halifax Kennel Club Incorporation Act. The Halifax Kennel Club was actually established in 1944, although it has been suggested that such amendments could, in fact, be accomplished by having the society reincorporated under the Societies Act. The Kennel Club has chosen to maintain its status under a private Statute of incorporation and it's understandable it will do this.</p>
+<p>The Kennel Club is looking for the ability to hold more property than it has in the past. It has been devoted up to this point to the promotion of purebred dog standards but has increased its scope of work, most recently to charitable work, to raising money and donating fire and oxygen masks to the fire departments for the rescue of household pets, to the promotion of domestic standards and working with various breed rescue associations throughout the country. Thus, the Kennel Club can be involved in finding new homes for members of the Basenji Club of Canada; the Basset Hound Rescue of Ontario; the Burmese Mountain Dog Club of Canada, National Rescue Program; Canadian Border Terrier Welfare; Irish Setters; Scottish Terriers; Sharpei Rescues; Wheaton Canada; Westie Rescue of Canada; and the Canadian West Highland Terrier Club.</p>
+<p>Along with all of this, the Kennel Club is also interested in promoting not only breed standards but membership in the canine good neighbour program, which I would suggest to all dog owners is a very worthwhile enterprise that their dogs find themselves with the title of canine good neighbour, showing that they have in fact been tested, that they can access a friendly stranger, politely accept petting, go out for a walk, be well groomed, walk through a crowd, sit down on command and stay in place, come when called on a long line, and accept praise and interaction, react to passing dogs well and distractions, endure supervised isolation and walk through a door and gate without obstruction.</p>
+<p>Therefore, with this, Mr. Speaker, given the valuable social attributes that the kennel club is promoting in all members of our society canine, I would like to move second reading of this bill. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 101. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Private and Local Bills.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call Bill No. 109.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 109 - Safe Body Art Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Health and Wellness.</p>
+          </speech>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm pleased to have an opportunity to rise for a short opening remark. First of all, I believe I should move second reading of Bill No. 109, the Safe Body Art Act.</p>
+<p>The personal service industry has advanced significantly from what it was when I and many members of this House were in our youth, not so long ago. Body art at that time was generally limited to tattoos and piercings and I'm confident in saying that many parents today of our generation still commonly think of tattoos and piercing when they hear the term "body art".</p>
+<p>Times have changed and the industry has evolved and so have the clientele. Over the years, it has become more commonplace for youth to want to decorate their bodies. Not only did the range of individuals seeking these services expand, but the methods and types of services offered has changed and evolved. Today body art may include the things that we think about, like tattoos and piercings. However it includes many, many more things than that.</p>
+<p>One of the things that currently make up part of this industry is something called scarification, the intentional scarring or peeling away of skin to form a pattern or design. Branding, which is using a heated or cold object to imprint a design on the skin is also a feature of this industry now, as well as implants where material is embedded beneath the skin to form a raised or three dimensional design, as well as tongue-splitting where the tongue is divided to give it a forked appearance. These are only some of the procedures available. These procedures, for many, are an outlet for individualization and self expression. For the artist, it's a work of art. For many artists, their reputation is built on the quality of the work they produce.</p>
+<p>However, as I've mentioned, this industry is always evolving and the introduction of many of these new forms of body art have created a greater opportunity for public risk of infectious diseases. This industry offers a service that intentionally breaks the skin or draws blood which creates a need for control measures to be put in place to protect the public and those working in the industry. This is why the Safe Body Art Bill is such an important piece of legislation.</p>
+<p>This legislation will require all personal service establishments in our province that offer non-medical body art services, to follow regulations and technical guidelines that will mitigate the risk for everyone. Some of these risks include the transmission of diseases such as hepatitis B, C, HIV, as well as other serious infections. Other risks include mutilation or serious allergic reactions by using inappropriate equipment or tools that have not been properly sterilized or are not used for their intended purpose.</p>
+<p>Mr. Speaker, in my department and in district health authorities, public health receives a notification every time there is a known case of a communicable disease like hepatitis. As part of our commitment to ensuring the safety of Nova Scotians, public health staff conduct follow-up interviews to trace back as far as possible to find the source of the disease. There are often multiple sources of infection and many variables to consider during the investigation. While we are unable to conclusively link cases of disease to specific establishments, we know the hazards and risks of disease transmission is enough to warrant action to mitigate those risks.</p>
+<p>We have reviewed evidence of those hazards and risks, Mr. Speaker, evidence that was gathered during an 11-month analysis of the industry. Staff in my department interviewed artists, visited several establishments to see first-hand the practices, and visited an annual tattoo festival in our province. From this review we discovered that there was a lack of standard methods in place and, in many cases, inconsistent understanding of infectious disease control among operators. That fact alone is enough to warrant regulation of this industry.</p>
+<p>Mr. Speaker, government is not the only one that feels this is necessary. Members of the industry are also in favour of regulations and, indeed, they have been asking for them for some time. We recognize that the desire for regulations will not please every owner and operator, but we must keep protection of the public's health in mind.</p>
+<p>Allow me to highlight a few reasons how regulation will protect health and benefit the industry. As I have mentioned, standardized measures for infection and disease controls will reduce the risk of disease transmission and operators will know what to do, should there be a breach. A permitting and inspection program will allow the department to monitor and track any compliance issues, better target resources where they are needed, better manage communicable disease cases and outbreaks or other public concerns.</p>
+<p>This same permitting program will help further legitimate artists in this industry who take their craft seriously and want to provide safe services to their clients. Legitimate establishments will have the documentation to validate for customers that they are a reputable, clean and safe environment.</p>
+<p>The permit itself will provide a visual clue to members of the public that an establishment has met the minimum requirements set out in regulation. It will give Nova Scotians an added sense of safety by knowing that the establishment they use has such plans in place. If they aren't licensed, then don't accept service.</p>
+<p>Mr. Speaker, in the coming weeks and months my staff will work toward creating a regulatory process, technical guidelines and other details around this legislation, with input from the industry. We have looked at what others are doing and from that we will build a plan that is right to protect Nova Scotians. We will become a leader in this regard.</p>
+<p>Seven other health jurisdictions across the country either regulate or inspect this industry through an active public health inspection program. Others are exploring the issue of regulation. I say it's time that Nova Scotia joins those provinces. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings West.</p>
+          </speech>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm pleased tonight to stand in my place and join the debate on Bill No. 109, an Act to Regulate Body Art Facilities. I know some members of the House are aware that on November 8<sup>th</sup>, to be exact, I was pleased to table Bill No. 83, which suggested that government establish health and safety standards for the tattoo and body piercing industry.</p>
+<p>The bill that the minister has brought forth is based upon work that the Department of Health and Wellness and the Department of Justice have been carrying out for almost a year now. I'm pleased and want to commend government in doing this.</p>
+<p>It is interesting - when you talk to people about the tattooing industry, many have the view and the opinion that it's already regulated, that a tattoo parlour, a body piercing establishment, and many of the other body art procedures that the minister listed off - many people think that a shop on Main Street already is regulated and has the consumer's best interest by being regulated, but that's not the case in Nova Scotia.</p>
+<p>We have no regulation. It's simply a case of buyer beware. As this bill moves through the House, the very, very important part will be the regulations that will follow. There's an ongoing commitment to make those some of the best in Canada, the best in safeguarding the industry. We license and regulate almost all establishments where you can have an invasive procedure, and the time has come for tattoo, body piercing, and body art facilities to have regulations put in place.</p>
+<p>Many of the people in the industry are professionals. Many have already established very high standards for their premises. We have to remember that the tattoo artist is basically using a needle about one to one and a half millimetres below the very surface of the skin. If you go below that then you break through the subcutaneous layer, and that's when infections can take place. It does require a great deal of precision, knowledge, and execution to do safe work day in and day out. Fortunately, many of the people - most of the people, in fact - have that kind of expertise.</p>
+<p>In many ways this bill has been a long time in coming, in being developed in our province. Seven other jurisdictions in Canada already do have regulations in place. When the Liberal Party introduced Bill No. 83, we were basing it primarily on the Alberta regulations. In Alberta, the province requires that clients sign a form that says you are 18 years of age, you are not under the influence of any substance which could have caused you to move towards getting a tattoo and perhaps it wasn't really the strong intent otherwise.</p>
+<p>The form also details proper handling of tattoo instruments and describes cleaning, disinfecting and sterilizing. So we know, Mr. Speaker, that government started looking at this issue actually in 2006 and I believe it was 2009 or 2010 that HRM also was requesting that there be regulations around the body art facilities here in HRM because, in fact, there are about 50 such facilities here in HRM and many other across the province.</p>
+<p>I don't want to, I guess, not bring forth the fact that many of those who currently practice already have very high standards; they are professionals and, in fact, they have been leading the way. They have been asking for these regulations to come in. In some ways it acts as a safeguard for those who do have best practices. It also, I think, will cause, through regulation - it will take some time - but currently a tattoo artist can come into Nova Scotia and set up in a hotel room for a week and there are no regulations.</p>
+<p>During the summer we have artists from across Canada and from our province who get together for seminars, demonstrations of their practices, and again, no regulation guiding those kinds of events.</p>
+<p>Those who have been on the leading edge of wanting the best standards, the most hygienic premises, the sterilization requirements of their industry - also knowing how to look after, if there is blood that is brought forward in the procedure, knowing how to deal with this is critically important.</p>
+<p>In many ways the bill is a testament to the hard work and dedication of their efforts, so I congratulate them on the role they play in getting where we are today. No one can argue, the health and well-being of Nova Scotians is so important. While we don't have that conclusive proof that tattooing and body piercing could lead to hepatitis B and C, possibly HIV, we know that possibility does indeed exist. It is important that Nova Scotians have the assurance that the facilities they choose are safe and standards are being followed.</p>
+<p>Also, Mr. Speaker, legitimate companies performing their artistry, who are adhering to health standards, need protection from those practising the profession with no standards. We know in university dorms and in basements, tattooing does go on, possibly will continue to go on. Really what this bill does is ensure Nova Scotians and any parent that is concerned about their teenage child, that the place they go to get a tattoo will be practising the highest standards.</p>
+<p>Again, I commend the minister for bringing forth a permitting system because the permit, in fact, will be that visible indicator that these premises are being inspected, will be inspected, and have to meet certain standards that are required.</p>
+<p>Over the coming months the details around the regulations will be what the industry and Nova Scotians will need to pay attention to. Standards for infection control and disease transmission will be minimum standards according to the bill, and will be developed by regulation. Again, my hope - our Party's hope - is that the industry is consulted every step of the way.</p>
+<p>It's also important here for government and for the Departments of Health and Wellness and Justice, all those who will be developing these regulations, to look at what has been going on in other provinces where they have regulations - what are enforceable, and what may be put down in regulation but difficult or impossible to enforce.</p>
+<p>I know the minister was asked about how much this would cost to implement, and a ballpark figure of $380,000 was put forward. I see this as investment in safe and healthy practices for those who will get a tattoo, body piercing, branding, or scarification, any of these processes now that are considered part of the body art movement.</p>
+<p>As I left the high school scene - maybe some of my colleagues, I know the Minister of Transportation and Infrastructure Renewal maybe has been here long enough, or too long, that he didn't see a lot of this tattooing going on. But I know that in my last few years I saw a real escalation of students getting tattoos. It is very mainstream, and for that reason the highest safeguards, the best practices, should be what we, as Nova Scotians, want for this industry.</p>
+<p>During the presentation by the minister we also had Colin Green, who is executive director of the Hepatitis Outreach Society of Nova Scotia. I took strong notice of what he did have to say, and he said that there is a study linking a higher number of tattoos to a higher likelihood of having hepatitis C. But he said the risk of transmission is low with proper sterilization procedures. He said regulations are needed especially to protect the health of young people.</p>
+<p>Those two comments I've just made about a growing amount of tattooing, body piercing, branding, and so forth with our youth - it is very important that we do have the highest regulations and best practices in our province, because we all know that hepatitis C will have very costly outcomes for the province.</p>
+<p>I think setting up permitting, strong regulations, inspection, and enforcements - these will be interesting to watch to see what has developed over the next year, but in the short term, I'm very interested in what people from the industry will come in to say at the Law Amendments Committee. These are the people who we can learn a great deal from.</p>
+<p>I look forward, Madam Speaker - who has now proceeded to the Chair - to this bill going forward to the Law Amendments Committee. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Hants West.</p>
+          </speech>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Thank you, Madam Speaker. I'll just take a few minutes. I don't think there is any reason to talk for an hour by any stretch on this particular bill. It is something we agree with, but I could - there's certainly no problem that, I certainly could, given my past profession.</p>
+<p>I would say that I think it's important that we are not only introducing legislation and regulations but getting some awareness out to advise people of what it is they are getting into when seeking out tattoos or body art or whatever we're calling it these days - certainly nothing that I've ever taken part in but I know lots do. Lots like it and there are some pretty neat things out there.</p>
+<p>So Madam Speaker, from my former profession I guess I can tell you that it's so easy to transfer disease through blood. We've seen it. All of us in this House have seen it. We've seen over the years how things have evolved through the transmission of disease whether they are a very serious disease or even a minor disease. We see hepatitis. We've seen AIDS. We've seen a lot of things evolve over the years and we don't know. I don't think you could ever track how that has been transferred through patients receiving tattoos and being in this industry.</p>
+<p>I would think that the majority of these folks are probably out there doing the right thing, doing the right sterilization techniques. I don't know how many different types of shops there are. I do know people who are in the industry. We have a local one in Windsor, where I come from, and it's the only one that I'm aware of. There may be others that I'm not aware of but they seem to be quite reputable and doing business the right way and so on.</p>
+<p>That's important, Madam Speaker, and so as I said, this is a good bill. I hope that there's a lot of awareness and education to our youth and to all age groups when it comes to getting something like tattoos or body art, just on the safety itself and the kinds of things that you should be looking for, and the detailing of the different procedures and sterile techniques and so on when it comes to getting such artwork done. There have been lots of comments on this. I'm sure that it will be interesting to see, going over to the Law Amendments Committee, if there's anyone who comes forward from the industry. We hope that there is and that they are included in building regulations because it is important to them.</p>
+<p>So with those very few words, Madam Speaker, thanks very much, and I'll take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Health and Wellness.</p></speech>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9">
+            <from>HON. MAUREEN MACDONALD</from>
+            <p>Madam Speaker, I would like to thank my colleagues on the Opposition benches for their interventions and with that, I would move that we close second reading on this bill and move it to the Law Amendments Committee.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 109. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Madam Speaker, would you please call Bill No. 114.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 114 &#x2013; Consumer Protection Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
+          </speech>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Madam Speaker, I move that Bill No. 114, an Act to Amend Chapter 92 of the Revised Statutes, 1989, the Consumer Protection Act, be now read a second time.</p>
+<p>Madam Speaker, the proposed amendments we are bringing forward will help provide protection and more information to consumers who borrow from payday lenders. These amendments were recently recommended by the Utility and Review Board to regulate on-line payday lenders. The province has already moved forward on two other recommendations by the URB. Payday lenders are now required to include the cost of borrowing on their advertising material. Payday lenders are also required to report to the department on the number of repeat loans. These recommendations take effect on December 1<sup>st</sup>.</p>
+<p>We are now moving forward on another URB recommendation to regulate on-line lending. Currently the province licenses payday lenders that operate outlets in Nova Scotia but, Madam Speaker, not on-line payday lenders. The proposed amendments will require on-line payday lenders to be licensed and to maintain a physical location in Nova Scotia. On-line payday lenders that are not licensed will not be able to collect fees, charges or interest on loans.</p>
+<p>Along with regulating on-line lending, Madam Speaker, another proposed amendment includes payday lenders already licensed in Nova Scotia. Currently some payday lenders only offer cash cards or cheques, but not cash as an option to their customers. This amendment will help ensure the customers have the option of cash.</p>
+<p>These amendments will make on-line payday lending safer and more transparent for Nova Scotians, and they will help make life better for Nova Scotians by ensuring that the information and the protections are in place for Nova Scotians who access payday loans. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Cape Breton South.</p>
+          </speech>
+          <speech by="#a5e0e841-506b-4c0b-a88e-c09691bd745b"><from>HON. MANNNING MACDONALD</from><p>Madam Speaker, just a few comments on behalf of our member for Preston, who is the critic for this particular bill.</p>
+<p>Generally speaking, we agree with this bill and we agree with what the bill attempts to do. Does it go far enough? I think only time will tell. I think this whole question of payday loans is certainly a moving target and deserves a constant look at it now and in the future to make sure that we're protecting consumers in this province. It is very important that we provide as much protection to consumers who are in need of payday loans for various reasons. Unfortunately there are a number of people out there who can't access loans through conventional sources in this province and that's too bad, but there are people in that fix and have to resort to going to payday lenders.</p>
+<p>They do provide a service, Madam Speaker, and I believe as long as it's closely regulated and we ensure that the consumers' protection is number one and uppermost in our minds and the minds of legislators, I think this bill should move on to the Committee on Law Amendments and perhaps the critic, the member for Preston, may have some things to say about it over there or at Committee of the Whole House on Bills. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Leader of the Progressive Conservative Party.</p>
+          </speech>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>I just wish to say a few words on this bill. Although I do agree it is a step forward in the regulation of the payday lending industry and, in particular, on-line payday lending, I am concerned that it does not go far enough to protect Nova Scotians, and I would encourage the government to look seriously at further regulation in this area, and just for a few quick moments I'll share with you why. I do have some experience in this area, as some members will know, having worked at the credit union prior to losing my mind and deciding that I would jump into this business - some say it was lost long before that, I know but, more importantly to this point, the fact of the matter is that payday lending ought to be an absolute source of funds of last resort. For too many Nova Scotians, it is a place that they run to between paydays for short-term loans.</p>
+<p>Madam Speaker, as many members will know, the terms of payment, the rates of interest and so on that are associated with these types of loans are providing for a great hardship to many, many Nova Scotians who find themselves in that sad situation. The fact of the matter is it's not only Nova Scotians of low income or limited means, in fact all the studies of the industry have shown that even for people with substantial salaries, they turn to payday lenders.</p>
+<p>The reason is that they often don't want a record of that loan; they don't want either co-workers or their employer, or family members, or husband or wife or spouse to know that they've turned to a payday lender - maybe because they have used their other funds for other reasons, to hide a substance abuse problem, to hide a gambling problem and so on.</p>
+<p>The reason I raise this is for those thousands of Nova Scotians who need help, who have exhausted their own funds through those means, who now have turned to a payday lender - they may not be a person of limited means, but they're a person who wishes to not have a record of having gone to a payday lender that Internet lending becomes an even greater risk for people in that unfortunate circumstance.</p>
+<p>The government, rather than place more onerous restrictions on Internet payday lending, is choosing to regulate it and require a permit to operate an Internet payday lending site. It is a step forward, because it's a completely Wild Wild West, unregulated industry on the Internet now. I certainly understand that, and we'll encourage it and support it for that reason, but it is not enough. It is not enough for those thousands of Nova Scotians who are going to go to the Internet, who are going to get a payday loan, who are going to pay a ridiculous, onerous rate of interest, under crushing terms, who are going to find that they are not able to pay it back when the next payday comes, who are going to have it rolled forward into a new payday loan, at a higher principal balance, and watch their payday loan, which was meant to be a few hundred dollars, turn into a few thousand dollars and tens of thousands of dollars over time, at rates of interest that the Criminal Code would never allow, Madam Speaker.</p>
+<p>I recognize that the Government of Canada has left it to the provinces to regulate in this area and that is what the government is going to do. My concern is about those Nova Scotians who are in that circumstance and are not fully protected here. I would encourage the government to do more in this area. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. Before I recognize the next speaker, the chatter is getting a little loud. It was particularly difficult to hear the last speaker, so be mindful of that. Thank you.</p>
+<p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Thank you, Madam Speaker. I thank the members for their comments and, in particular, the member for Cape Breton South when he talked about that this is an area where the government should be vigilant, I think. Into the future, we'll look and see the impacts of the regulation changes that we've made already and the impact of this legislation.</p>
+<p>I think the member for Cumberland South raised some good points. The issue I want him to be aware of is that there is a reduced cost to borrowing and that is a product of the URB's interventions, I'll say, so anything that was recommended by them that we could put into regulations, we've done, and tried to ensure that payday lenders don't add other costs in there, so that the limit, whatever they're doing, has to be within that prescribed limit and they can't circumvent that and add other fees and costs, which is what was happening and I think leads to the issue that he talked about, where people can't ever seem to get out of their debt, their obligation to them.</p>
+<p>It is a worry, he's right. I think, generally, the place of last resort when people are looking to borrow money, and as much as the circumstances around that are hard to regulate but in order to at least ensure some fairness, I think, to them, in the marketplace, we bring in these changes. Certainly one of them is to make sure that in the advertising by the lender, that they include those fees - all the fees - in their advertising and make it as transparent as possible.</p>
+<p>It may never be perfect, the circumstances that lend themselves to people having to use this service is perhaps what we need to work harder at but we're trying to, I think, make as much good out of a bad situation as we can legislate and do that.</p>
+<p>With that, Madam Speaker, I move second reading of Bill No. 114. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 114. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Madam Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR THIRD READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Would you please call Bill No. 65.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 65 - Nova Scotia Jobs Fund Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
+          </speech>
+          <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b"><from>HON. PERCY PARIS</from><p>Madam Speaker, I move that Bill No. 65, also known as the Nova Scotia Jobs Fund Act, now be read a third time and that it do pass.</p>
+<p>It gives me great pleasure, Madam Speaker, to rise in this Assembly to speak with you about the Nova Scotia Jobs Fund Bill. This updated, modern legislation will provide the backbone for job creation in the province. The Nova Scotia Jobs Fund will be created from this new Act, which will replace the Industrial Expansion Fund.</p>
+<p>The bill fulfills the recommendations of the Auditor General's Report. It will help the province make the most of jobsHere, our plan to grow the economy.</p>
+<p>Mr. Speaker, the Nova Scotia Jobs Fund Act is very different from the Industrial Expansion Fund. The new fund will be more accountable. The new fund uses a completely new governance model. The processes associated with this fund have been greatly improved and, finally, we are restructuring the way we administer provincial investments through this new fund.</p>
+<p>Mr. Speaker, when it comes to provincial investment tools, the new Jobs Fund could not be more different; it is a completely new fund. This is only the beginning of transparency and accountability improvements we are putting in place with this bill. For example, the new fund, NSBI, and other provincial economic development investments will be overseen by the newly-created Economic Investment Committee. This committee will help better serve Nova Scotian businesses and communities and attract foreign investment to the province. The Public Service Act will also be amended to allow for the creation of this new Cabinet committee.</p>
+<p>Mr. Speaker, under the Nova Scotia Jobs Fund Act each new body plays a distinct and important role. The Joint Management Committee will ensure all the provincial agencies are working well together and ensure the process is as timely and efficient as possible. The Jobs Fund Board will involve community leaders in decisions on economic investments through the new fund and the investment committee will ensure accountable decisions.</p>
+<p>Mr. Speaker, Nova Scotia is on the cusp of some of the greatest economic opportunities in the province's history. The shipbuilding contracts alone will create thousands of jobs and boost our economy for decades but we can't sit idly by waiting to see spinoffs. There are tremendous opportunities for growth in this province and this new legislation will help ensure that Nova Scotians have access to good jobs that will allow them to stay and build a life here. The new fund will help the province pursue regional economic initiatives, support programs that provide assistance to small businesses, and provide community economic stability where needed.</p>
+<p>Mr. Speaker, it is time to think big. It is time to be optimistic about our future and this legislation lays the groundwork to help us do just that. I urge all members of this House to support this bill which is updated, modern legislation that will provide the backbone for job creation in the province.</p>
+<p>Mr. Speaker, I thank you for providing me time to speak to this bill and with that, I will take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Glace Bay.</p>
+          </speech>
+          <speech by="#2c8e1a56-2f9d-4156-a91f-77802701e3d3"><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I'm happy to get on my feet today in my place and make a few points about Bill No. 65, the Nova Scotia Jobs Fund Act. Certainly we all do agree with the Auditor General's recommendations that there had to be sweeping changes to the IEF and, you know, I truly believe that this was a significant opportunity to make meaningful, deeply impacted changes to the IEF.</p>
+<p>What I believe that Bill No. 65 has done &#x2013; from what I've read and from what I understand &#x2013; is we have simply renamed it. It's the IEF II, it's the Jobs Fund - it is whatever you want to call it. I think this was an opportunity to show Nova Scotians - we talked about making changes and doing things differently and I think this misses the mark in terms of how we do things. If we want to be accountable to our electorate, if we want to be accountable to Nova Scotians, we've got to take the politics out and let the decision-makers who know these industries and who know these decisions best do these things and that, of course, is our business community in Nova Scotia. Businesses know best. This is what they do.</p>
+<p>Entrepreneurs, the corporations, the large business, the small business, medium enterprises, they all know. They're industries, they know their game, they know their demographics, and they certainly know their markets. I think, if you talk about Irving Shipbuilding - Irving Shipbuilding won this bid because they deserved to win. They told our caucus and they told the three caucuses in the Legislature that if the politics is out and everything is a clean slate, all things are open and it's a fair process, then we will win this bid hands down. Certainly all 52 members and many Nova Scotians are thankful and appreciative and happy that Irving won that bid. That's the exact situation that we want to foster here in the province. We want businesses and business leaders to shape and direct and form our economic development and our decisions moving forward.</p>
+<p>The reality is that this is still a slush fund, as it has been called by members of the government while in Opposition, because it is still Cabinet-controlled. We can make it a committee and we can have input and you can have input from NSBI, but Mr. Speaker, at the end of the day the Cabinet makes the final decision.</p>
+<p>What we talked about and what we thought we would see here with Bill No. 65 was a different approach. I believe that we do have a chance to be better and that Nova Scotians are looking for us to be better in terms of how we spend money, how we create jobs, and how we find meaningful targets for economic development, because we're losing our people, we're losing our workforce, and we've got to be better.</p>
+<p>With those few remarks, I will take my place and will look forward to potential changes as we move on with this bill. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>The Industrial Expansion Fund was the vision of Premier Stanfield, somebody who people say was the greatest Prime Minister we never had. He certainly was responsible for a number of success stories in this province; some of those businesses are still in business today.</p>
+<p>If there were a lot of charges over the years that there was a lot of politics in this fund, and if the goal was to remove politics, we don't see any changes of any substance between the legislation that governed the Industrial Expansion Fund and what is being proposed here for the fund that the government is starting.</p>
+<p>At the end of the day, the fund should have clear criteria, clear benchmarks, and transparent reporting, and none of those crucial components are contained in this bill. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>If I recognize the honourable minister it will be to close the debate.</p>
+          </speech>
+          <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b">
+            <from>HON. PERCY PARIS</from>
+            <p>Mr. Speaker, I acknowledge all members of the House who spoke on this bill. I now wish to close debate on Bill No. 65, the Nova Scotia Jobs Fund Act.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for third reading of Bill No. 65. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, would you please call Bill No. 73.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 73 - Safer School Zones Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
+          </speech>
+          <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4"><from>HON. WILLIAM ESTABROOKS</from><p>Mr. Speaker, I move that Bill No. 73, the Safer School Zones Act, be read for a third time. There are members of the House who have spoken to me at other times and I've heard other comments in the House. I'm very well aware of the fact that members opposite have some ongoing concerns that we are going to address during the next number of months as we prepare Nova Scotians, hopefully, when this bill does pass and become law for school zones that are 30 kilometres per hour.</p>
+<p>Mr. Speaker, you personally brought examples to my attention, as have a number of members of the House. I share the points that were brought forward, particularly by the MLA for Clare, who brought forward the concern that because this is a significant and important change to the Motor Vehicle Act, because it's important as we get ready for this change, hopefully when this bill does pass and become law, that come next September - and next September will be here before we know it, Mr. Speaker. Next September is, after all, the time when this law will come forward and we'll be having 30 kilometre speed zones when it comes to schools.</p>
+<p>In the interim, it's very important that we recognize the need to have an education campaign, an education campaign that has to be based on the fact of how we actually inform Nova Scotians - the school children specifically, but of course, the motorists, the teachers, and all involved - that this important change in legislation is going to be in place next September when school begins.</p>
+<p>I say that the time will fly, Mr. Speaker, because I've had the opportunity to meet with TIR staff when we were looking at how we're going to go forward based upon some suggestions of members of the House, the member from Clare specifically. We're concerned about the education campaign because we had to be ready as soon as possible to make sure that we're in contact with these little people as they prepare for school in September, whether they're in high school, middle school, junior high school, or elementary school.</p>
+<p>The concern of course comes back that we need an interdepartmental committee. We need a committee that will represent Justice and Education, and will also represent Service Nova Scotia and Municipal Relations, and Transportation Infrastructure and Renewal. We have to take advantage of everything from Facebook to electronic media today, we have to make sure that we have the school principals involved, and we have to have the school boards involved. We cannot just count on putting up new signs come next May, June or July and say there's going to be a change when it comes to speed zones, put it in school areas. We have to make sure that all are informed, Mr. Speaker, of what is actually going to happen here because, as the minister, I can tell you this is a significant piece of legislation.</p>
+<p>We are also going to hear from Nova Scotians because they are going to be requesting that certain areas - the areas beyond the school zone - be dropped to 50 kilometres so they can have a 30-kilometre speed zone at a particular school in their community, and I encourage them to continue to be touch with us.</p>
+<p>It's important that, particularly, the school principals have to be informed of how we're going to get this information out. This is more than a campaign by a politician who is going to meet kids on the crosswalk and say, this is our change when it comes to legislation. We have to make sure that we have an education campaign in place, that's in place as soon as possible in the new year, that it's the needed departmental committee that after all will have a say from all kinds of Nova Scotians of all ages, Mr. Speaker. We're looking at the suggestions that have come forward thus far - I know there has been thought of doing a mail-out campaign across the province. Sometimes, it's not a bad idea; I'm not in any way dismissing it because the committee, which I will have a representative on the committee, will look at all ideas and how they can be worked upon.</p>
+<p>Well we have to look at different ways of communicating this very significant change when it comes to this piece of legislation. It's important that we not just take ads in the local newspaper, that we're in contact with parents, with school teachers and, of course, with the motoring public, that you're going to be coming in on school zone areas that are now 30 kilometres and are no longer 50 kilometres. The significance of this is we're talking about the health and safety of children who attend our schools, and it is crucial.</p>
+<p>I've been in a situation, Mr. Speaker, and you've heard me speak of this example when I used the example when we first had this introduced in the House. I used the example of being on the slide - and I wasn't on the slide - with my granddaughter Ella in Edmonton. And I wasn't, I assure the member - I see the member from Kings West nodding away here. But it's of real crucial importance that when you can have a school zone of 30 kilometres, it's a significant thing that just basically slows down the tone in the communities around the province, and it think it makes a huge success that we slow people down as much as possible so that they can be aware of the fact that they're in a 30- kilometre zone.</p>
+<p>The key this is that we have to make sure that we have a campaign in place as soon as possible to begin to inform Nova Scotians on this significant change in the Motor Vehicle Act. The last thing we need is to have someone injured, particularly a young person. But we're not particularly interested either in suddenly having the police sitting at either end of the school zone and racking up the fines. We want Nova Scotians to be aware of the fact as easily as possible. Probably if we could get newsletters through to the children but let's call it like it is. Elementary school children faithfully take home the newsletters; junior high and middle school, there's a few more that don't make it out of the locker; and high school students, forget it, they're not going to be - well they're far too cool to take home a newsletter. But we're going to continue as a committee, we're going to meet regularly, and we're going to make sure that we take every possible opportunity to inform Nova Scotians on this significant change.</p>
+<p>I encourage members opposite and I encourage people who might be, Mr. Speaker, watching this or hearing this later as it's covered in the media - we want to hear from them on how we can inform Nova Scotians of all ages, Nova Scotians, whether they're pedestrians of motorists, on this significant piece of legislation. This education campaign has to begin as soon as possible, and when September of next school year begins we want every Nova Scotian to know that they have these changes in the school zones.</p>
+<p>Does it mean different signs? For example, there has been some talk about the fact that perhaps we can have a different type of sign. We can also have the ways of communicating with people across the province electronically, not just relying upon the printed word.</p>
+<p>As the member for Clare has said, this is a significant change in the legislation in this province. It's important that we inform Nova Scotians of all ages on what is going to take place in September of 2012. I encourage members opposite and I encourage members of my caucus to continue to bring forward their ideas. It's important the education campaign is safe, it's responsible and when September 2012 arrives, Nova Scotians will be prepared that there will be school zones across this province at 30 kilometres per hour, making it safer and safer for young people and, of course, pedestrians of all ages, as they travel close to our schools.</p>
+<p>With those comments, I will take my place and I look forward to comments from members opposite or members of my own caucus. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Clare.</p>
+          </speech>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I was glad to hear the minister in his closing comments on third reading of this bill. This bill proposes a very significant change to the Motor Vehicle Act and at the same time, we need - not just myself, but many other speakers who spoke on second reading - pointed out how critical it is before this bill is proclaimed by government, it is absolutely critical, 100 per cent critical, that all drivers in Nova Scotia are made aware of this change.</p>
+<p>This bill will reduce the current speed limit of 50 kilometres per hour allowed in some school zones - some school zones - down to 30 kilometres per hour. Again, it's critical and I'm not just going to go back repeating what I said in second reading but when we're looking at changing the speed limit in some school zones down from 50 kilometres down to 30 kilometres, it is a significant change, as the minister pointed out.</p>
+<p>As I pointed out on second reading, I have some concerns with this bill before it becomes law in Nova Scotia. I was glad to hear the minister talking about this extensive awareness campaign. It's not just advertising in the local paper - we need to do a good job in order to reach out, hopefully, to all drivers in Nova Scotia before the government proclaims this bill into law.</p>
+<p>This bill is about protecting our students in school zones. If the government fails to reach all drivers in our province of this change, what we're going to have is some drivers on our roads slowing down to 50 kilometres an hour through all school zones. I think it's absolutely critical that we have an awareness campaign that we can reach out to all our drivers in our province. Naturally, as I've said, it's critical for government to reach out to all drivers, to make sure that they are all aware of this change.</p>
+<p>We can certainly pass this bill, pass third reading and then the government decides at some point to proclaim this bill into making it a law for drivers on our roads. But it's also critical, for out of province drivers, to be made aware of this change. I hope that the government will have signs posted at all of our entries into our province, again, to inform our out of province drivers of this significant change. The department needs to work with all car rental agencies in the province to get that message out, to get that information out to drivers, especially those from outside of our province.</p>
+<p>In closing, I was glad to hear the minister talking about this significant change and how critical it is to take the appropriate time that's needed in order to reach out to all our drivers in the province and to drivers from outside the province that will be driving on our roads.</p>
+<p>I welcome the minister's comments about how critical it is, before any changes are made, time is needed in order to get this word out to all our drivers. With those few notes, I will take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I wonder if the minister might be kind enough to furnish us with a copy of all the areas that would be affected, at some point. I'm sure it will come out at some point anyway but I think that would be helpful. I think this legislation has some benefits, probably in some areas more so than others. When I say that, I mean certain locations may benefit from the legislation in a better way when it comes to practical terms.</p>
+<p>I do worry a little bit about the practicality in some rural areas where schools may already be at a significant distance from roads because I can think of a number of areas in my own constituency where the traffic is flowing through and it's quite a distance from the schools. I guess I just worry. I know 30 kilometres an hour is not a significant adjustment if you're in an urban area but if you're in a rural area, where the school is quite a distance from the road, it might not be as practical as it may appear when we look at it here in the Legislature in its legislative form.</p>
+<p>I also think about the potential for giving people a false sense of safety. People need to respect our highways. I know that - I suppose it does make a difference if a vehicle is travelling at 30 kilometres versus 50 kilometres. I've actually been hit by a car myself when I was younger, I still have a scar on my leg from it, and Dr. Bernie gave me, I think it was 54 stitches in my thigh, and I still have the mark there, but thankfully - I think it was a Chevette or an Acadian - so thankfully it was a small car. (Interruption)</p>
+<p>The person at fault in that instance was actually myself. It was kind of blizzard-like conditions and I was running down the driveway and kind of lost track of where I was. Before I knew it, there was a car coming at me and I thought, I'm going to beat that car, and I almost did. So, obviously, there's a lot of importance around the safety of this to make sure, if other young people are around roadways, they still respect the roadway and, of course, motorists, if there's the risk that somebody could come on the road, I could certainly see the logic behind the bill.</p>
+<p>So with that, Mr. Speaker, I will take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Bedford-Birch Cove.</p>
+          </speech>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I did want to put the honourable member's mind at ease because the bill does make provision for areas where the speed limit immediately preceding the school zone is 50 kilometres per hour, it will drop down to 30 kilometres. So it will not be the case that all areas will drop down according to the information we've received on the bill anyway.</p>
+<p>The minister will remember that earlier this Fall, I tabled a petition in this House from the Basinview Community School community. It wasn't just the parents at the school who signed the petition asking that the speed limit drop down to 30 kilometres, it was residents from around the neighbouring area. Earlier, shortly after I was elected, I had met with a group from the school and they were concerned that not a lot of children were walking to school, and there were a variety of reasons for that, but one of them along Basinview Drive was, in fact, the speed that drivers were coming along and that there aren't sidewalks on both sides of the road all the way along.</p>
+<p>Oddly enough we did have a concern for awhile about coyotes because they were making an appearance in the area but that seems to have abated somewhat, although I don't think the Minister of Natural Resources should take credit for that with the coyote cull. I think it was just a crash of the rabbit population that was forcing the coyotes out of their natural area.</p>
+<p>One of the things that the parents particularly identified was that children were not walking to school because their parents were concerned about the speeds around the school and so in the Spring, they launched a petition and at various events at the school, they had folks sign that petition. I think this is a good bill. Again, what will be key, whether it is efficacious or not, is education. We have to make sure that all our drivers understand what the new rules are. The member for Clare was quite right - where people are renting cars at the airport, when they are coming across the border or some day, when we have a ferry in Yarmouth again, when they get off the ferry in Yarmouth, it will be important to make sure that people coming into the province will need to know what the rules are here in Nova Scotia, that they may not be the same as their province.</p>
+<p>It is important to note that the trend in recent years is an increase in numbers of cars dropping students off at school. In part, that is because everybody is in a rush; it's also in part because we've got less busing of students. Courtesy busing has been reduced and, in fact, the Nova Scotia Department of Health and Wellness reported that from 2001 to 2005, Grade 3 students walking to school dropped by 10 per cent, so we know that fewer students are walking to school. We want to encourage the physical activity of walking to school if, in fact, students are supposed to be getting an hour of exercise a day, they could get a good chunk of that walking to and from school. With car use going up, we want to make sure that our students are protected. This drop in speed in school zones is recommended. It is supported by Transport Canada and Safe Kids Canada.</p>
+<p>Mr. Speaker, I would like to thank the minister for bringing this bill forward because if he hadn't, I would have, as we've discussed previously, and I thank him for his careful attention to the detail around the implementation of this bill. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Colchester North.</p>
+          </speech>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I did not speak on second reading, so I do want to take an opportunity to say to the minister that I want to congratulate him on this piece of legislation. It does something that every parent and citizen of the province wants to do, that is to enhance the standard of care we provide for our young people.</p>
+<p>Whether you are a parent or a teacher or a resident passing through a school zone, the radar needs to be on its highest alert because we have little people who are darting hither and yon around the school. For those of us who have been administrators on a playground, you only breathe easily after you know that every student is in their class and the door is shut. Even then, you may have a few that come straggling in. It is constantly on the minds of educators, of teachers, of administrators and of crosswalk guards and all of those people who do want to make sure that our children are safe.</p>
+<p>We've talked a bit about the number of vehicles around schools and that more parents are dropping their kids off. We've talked about rural and urban. I happen to have both extremes in my riding and a conglomerate of subdivisions. They are a stone's throw away from the school, Mr. Speaker, but parents still drive them to school and drop them off. That may be because they've been to hockey practice and then they're getting back to school. The fact that it's only when students have to walk a distance that they get a drive is quite misleading.</p>
+<p>You come across these schools and you have cars that are dropping off - kids jumping out of the vehicle, running across to meet their friends and they don't have any regard, sometimes, for the traffic. So I think anything that we can do to slow the traffic down in those school zones is positive and, as I said, I commend the minister for this piece of legislation.</p>
+<p>I also want to repeat something that my colleague has mentioned about the education component. I've been talking to folks in my area about this particular piece of legislation. They are asking questions - will it change in my school zone and so on. I was quite surprised to hear some people say, well you know what it says now in the speed zone - 50 kilometres per hour when students are present.</p>
+<p>The number of interpretations is amazing. Some people are saying that means when the kids are getting there at 9:00 a.m. Others say, no, it's only Monday to Friday, and others will say it's only - there are so many interpretations of "when children are present," which is now posted on the signs, that I think it's imperative that we do a very good information session, not only to share with parents what the new legislation will mean but to help parents - not just parents, but drivers - understand what it means when you say 50 kilometres per hour in a school zone when children are present. (Interruption)</p>
+<p>There you go, there are all kinds. Maybe there's a soccer practice after school and the kids are getting picked up at 6:00 p.m. That's a school zone and children are present. I think we have some educating to do of the existing law and also of the change. I would ask the minister, when he's looking at the education component for this, that he also address that, because I could not believe that there were so many interpretations. If there are that many interpretations, then how people adjust their driving when they're going by a school is going to be as varied as the number of interpretations. I would simply pass that on to the minister. I think it would be worth addressing in the education component.</p>
+<p>We had second reading and there were some statistics, and I think it was only one fatality in so many years in a school zone. From my perspective, that's one too many. I think that we need to try to ensure that we have an accident-free environment everywhere on our highways, but this particular legislation speaks to our school zones.</p>
+<p>The second part of this is the enforcement. Once this becomes law, then you have to look at how well it's enforced. You can be sure that there will be people who, after they've been educated, may try to run the risk. They may think it doesn't apply to me or they may think it's not my school zone, it's the other one, because it will vary. As people are travelling, they're going to be going from an 80 into a 50 or they're going to be going from a 50 into a 30, so it could be confusing for them.</p>
+<p>I think hand in hand with the education component has to be the enforcement, because it's only as good as the implementation. The implementation is what we really want to focus on. I would say to the minister that I commend him for increasing the level of care that we're providing. I believe this legislation does that. I think it's a message that we need to get to our current drivers. We also need to get it into the hands of those who are in driver education programs. I think we have a wonderful opportunity there, because if the handbooks that are used in driver ed focus on that, the next generation of drivers who come on the road aren't going to know anything different. They're going to have been trained and educated with that particular law in mind.</p>
+<p>With those few words, I would say again that I think it's legislation that's long overdue. It's important legislation and it's one we will support and look for the implementation. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+          <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4"><from>HON. WILLIAM ESTABROOKS</from><p>I thank the members opposite. Not one particular member in this House, not one particular minister in the House - certainly not this Minister of Transportation and Infrastructure Renewal - has the patent on good ideas. No comments from the House Leader, please.</p>
+<p>I want to point out to members opposite that during the last exchange of ideas that we just had here, I've heard about the importance of contacting car rental agencies. I've heard about crossing guards who have to be consulted. Now I also hear from the member for Colchester North about driver education - all good, solid ideas, ideas that I wouldn't necessarily as one member think of. I encourage members opposite to take a moment over the next few weeks, perhaps prior to Christmas. When you send me your Christmas card, include a list of some suggestions that you would like to see to make sure &#x2026;</p></speech>
+          <speech by="" as="##member" status="undefined">
+            <from>AN HON. MEMBER</from>
+            <p>Not on a napkin, though. Not on a napkin.</p>
+          </speech>
+          <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4"><from>MR. ESTABROOKS</from><p>No, it won't be on a napkin this time. It will be properly done, to the one member opposite.</p>
+<p>I think it's truly important that we have people - whether you have children or grandchildren in the school system - you consult, please, make sure you have your views known and we'll make sure that this particular bill is possibly an example of how we should do education when it comes to other campaigns across the province.</p>
+<p>With that, Mr. Speaker, I move that we close debate on third reading.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for third reading of Bill No. 73. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, would you please call Bill No. 76.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 76 - Civil Forfeiture Act.</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 78 - Civil Constables Act.</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 80 - Constables Act.</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 84 - Animal Protection Act.</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 85 - Agriculture and Rural Credit Act.</heading>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motions are carried.</p>
+<p>Ordered that these bills do pass. Ordered that the titles be as read by the Clerk. Ordered that the bills be engrossed.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, that concludes the government's business for today.</p>
+<p>Mr. Speaker, I move that the House do now rise, to meet from 12:00 noon to 6:00 p.m. tomorrow. After the daily routine we will be dealing with Bill Nos. 115 and 116.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House adjourn. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>We are now adjourned until 12:00 noon tomorrow.</p></speech>
+          <narrative>
+            <p>The House rose at 6:20 p.m.</p>
+          </narrative>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="2564">RESOLUTION NO. 2564</num>
+          <speech by="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Hammonds Plains Baseball Association held Baseball Nova Scotia's Mosquito AA Provincial Tournament from September 2<sup>nd</sup> to 4<sup>th</sup> at Eisenhower Field in Hammonds Plains; and</p>
+<p>Whereas teams from Bridgewater, New Glasgow, Tri-County, Sydney Mines, and Hammonds Plains competed for the provincial title; and</p>
+<p>Whereas the Hammonds Plains A's Mosquito AA team defeated Bridgewater in the championship game, making them the provincial champions and finishing off their season with 24 wins and three losses;</p>
+<p>Therefore be it resolved that the House of Assembly congratulate the members of the Hammonds Plains Baseball Association and the Hammonds Plains A's Mosquito AA team for the championship win at the 2011 provincial tournament and wish them all the best in the future.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2565">RESOLUTION NO. 2565</num>
+          <speech by="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Halifax County United Soccer Team participated in the 2011 Women's under-14 soccer nationals; and</p>
+<p>Whereas the team were strong competitors, finishing fifth of the 12 teams competing; and</p>
+<p>Whereas the team provides a good example to young Nova Scotian athletes of how hard work, dedication, and co-operation can yield positive results;</p>
+<p>Therefore be it resolved that all members of this House join me in congratulating the Halifax County United Soccer Team, who achieved a strong standing at the Women's under-14 nationals competition and wish them all the best in the future.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2566">RESOLUTION NO. 2566</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Sarah Weston has recently completed the activities and challenges necessary to obtain the Lady Baden-Powell Challenge, the highest award achievable in the Guide Program; and</p>
+<p>Whereas the lady Baden-Powell Challenge takes at least two years to complete and provides the candidate with the opportunity to learn more about the Guiding Movement and to gain a deeper understanding of the sisterhood of Guiding; and</p>
+<p>Whereas Sarah showed her compassion and care for others in her community through her community-based projects that taught her how she could make a difference in the lives of others;</p>
+<p>Therefore be it resolved that members of the House of Assembly join me in recognizing and congratulating Sarah Weston on this proud moment in her life and wish her success in all her future endeavours.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2567">RESOLUTION NO. 2567</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Danielle Stewart has recently completed the activities and challenges necessary to obtain the Lady Baden-Powell Challenge, the highest award achievable in the Guide Program; and</p>
+<p>Whereas the Lady Baden-Powell Challenge takes around two years to complete and provides the candidate with the opportunity to learn more about the Guiding Movement and to gain a deeper understanding of the sisterhood of guiding; and</p>
+<p>Whereas Danielle showed her compassion and care for others in their communities through her community-based projects that taught her how she could make a difference in the lives of others;</p>
+<p>Therefore be it resolved that members of the House of Assembly join me in recognizing and congratulating Danielle Stewart on this proud moment in her life and wish her success in all her future endeavours.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2568">RESOLUTION NO. 2568</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of O'Regan's Mercedes Benz for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2569">RESOLUTION NO. 2569</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of MacPhee Leasing for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2570">RESOLUTION NO. 2570</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Lawtons Drugs for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2571">RESOLUTION NO. 2571</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Las Moras for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2572">RESOLUTION NO. 2572</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Jaymar for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2573">RESOLUTION NO. 2573</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the Hospitality Network for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2574">RESOLUTION NO. 2574</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Glubes Audio Video for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2575">RESOLUTION NO. 2575</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the Egg Films for producing the 20<sup>th</sup> Anniversary Festival of Trees video montage and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2576">RESOLUTION NO. 2576</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the CTV for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2577">RESOLUTION NO. 2577</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to Compass Canada for the support they offered as title sponsor for the 2011 Festival of Trees and the role management and staff play when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2578">RESOLUTION NO. 2578</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to co-chairs Cathy Keating and Karen Bezanson and their wonderful committee members for organizing an outstanding event and the role they play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2579">RESOLUTION NO. 2579</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the Chronicle Herald for their support of the 20th Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2580">RESOLUTION NO. 2580</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Charm Diamond Centres for their support of the 20th Anniversary Festival of Trees and the role they play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2581">RESOLUTION NO. 2581</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Burgess Transfer for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2582">RESOLUTION NO. 2582</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and business that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the partners and staff of Boyne Clarke for sponsoring the Boyne Clarke Black Tie Gala and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2583">RESOLUTION NO. 2583</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Bell Aliant for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2584">RESOLUTION NO. 2584</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Basil Audio-Visual for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2585">RESOLUTION NO. 2585</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Atlantic Digital for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2586">RESOLUTION NO. 2586</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of VINCI Park Canada for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2587">RESOLUTION NO. 2587</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Tour Tech East for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2588">RESOLUTION NO. 2588</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of Touch of Gold for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2589">RESOLUTION NO. 2589</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the Steele Auto Group for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2590">RESOLUTION NO. 2590</num>
+          <speech by="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Christmas spirit was alive and well this past weekend when the Compass Group Festival of Trees was held in support of the Mental Health Foundation of Nova Scotia; and</p>
+<p>Whereas 2011 marks the 20<sup>th</sup> Anniversary of this glamorous event which, up until this past weekend, has raised $3.5 million to support education and patient care for the one in five Nova Scotians living with a mental illness; and</p>
+<p>Whereas events of this magnitude would never happen without the generosity of spirit of individuals and businesses that make magic happen year after year;</p>
+<p>Therefore be it resolved that all members of the Legislature extend our appreciation to the management and staff of the Spryfield Shopping Centre for their support of the 20<sup>th</sup> Anniversary Festival of Trees and the role they all play every day when it comes to changing the way people think about mental illness.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

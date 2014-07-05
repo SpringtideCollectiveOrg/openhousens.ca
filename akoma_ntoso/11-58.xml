@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="c7f2d366-8ba0-4263-98e0-bdaa9336415f" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="d36a0432-7994-4030-ab00-b21fc858e7d2" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="ce90163b-7a3b-4884-b7d9-b5ca06af4cc3" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="aefec392-99d6-4923-8d87-227e50d567e8" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="8dbda583-1553-4164-a616-3008fb0fdac4" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="b67194ee-eead-4e8d-9cdb-2d1935c5be52" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="c479d7de-83a6-47c7-a045-07816407bdb3" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. ZANN"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="20520cce-c7eb-4da6-bc5e-8e9f24f3db6b" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="169d581a-9c34-47f3-9660-9ccb38d06bf4" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
+        <TLCPerson id="b31db77c-006f-4f6e-ab57-0c449cb2d93a" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="22119b83-0505-4c62-95ff-e8c0e378764c" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
+        <TLCPerson id="799b989e-2c9d-4331-b5f3-5f78d3447b57" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="4fbcc786-c835-4a0e-bd05-40afb30e0683" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 2 December 2011</docTitle>
+      <docNumber>11-58</docNumber>
+      <docDate date="2011-12-02">Friday, December 2, 2011</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="3">3rd Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MADAM SPEAKER</from>
+        <p>Order, please. We will begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable member for Halifax Clayton Park.</p>
+        </speech>
+        <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2">
+          <from>MS. DIANA WHALEN</from>
+          <p>Madam Speaker, I beg leave to table the Annual Report for the Standing Committee on Public Accounts.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The report is tabled.</p>
+<p>The honourable Minister of Justice.</p></speech>
+        <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bills:</p>
+<p><b>Bill No. 55 - Medical Act.</b></p>
+<p><b>Bill No. 102 - Trade Union Act.</b></p>
+<p>and the committee recommends these bills to the favourable consideration of the House, with certain amendments.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
+<p>The honourable Minister of Justice.</p></speech>
+        <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bills:</p>
+<p><b>Bill No. 106 - Libraries Act.</b></p>
+<p><b>Bill No. 109 - Safe Body Art Act.</b></p>
+<p><b>Bill No. 115 - Labour Standards Code.</b></p>
+<p><b>Bill No. 116 - Elections Act.</b></p>
+<p>and the committee recommends these bills to the favourable consideration of the House, each without amendment.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable Premier.</p>
+        </speech>
+        <debateSection>
+          <num title="2695">RESOLUTION NO. 2695</num>
+          <speech by="#799b989e-2c9d-4331-b5f3-5f78d3447b57"><from>HON. DARRELL DEXTER</from><p>Madam Speaker, I am about to read a notice of motion with respect to the life of Graham Dennis, and I wonder if the House would indulge us with a moment of silence at the end to commemorate the life of this outstanding Nova Scotian.</p>
+<p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Graham Dennis, publisher of the Halifax Herald, holds the longest record of service as a publisher in the Canadian daily newspaper industry; and</p>
+<p>Whereas The ChronicleHerald newspaper, under his direction, remained independent, a rarity in Canadian journalism; and</p>
+<p>Whereas Mr. Dennis, an outstanding businessman and champion for this province, passed away last evening, leaving behind an important legacy of good, responsible journalism;</p>
+<p>Therefore be it resolved that members of the House recognize what a great man Graham Dennis was, and send our deepest condolences to the Dennis family and the entire staff of The Halifax ChronicleHerald.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>A moment of silence was observed.</p>
+          </narrative>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <num title="2696">RESOLUTION NO. 2696</num>
+          <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4"><from>HON. WILLIAM ESTABROOKS</from><p>Madam Speaker, on behalf of the honourable Minister of Community Services, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas tomorrow, December 3<sup>rd</sup>, marks the United Nations International Day of Persons with Disabilities, a day that highlights disability issues and encourages support for the dignity, rights, and well-being of persons with disabilities; and</p>
+<p>Whereas approximately 10 per cent of the world's population, and one in five Nova Scotians, lives with a disability, and people are often unaware of the challenges persons face with disabilities; and</p>
+<p>Whereas this year's theme, "Together for a better world for all: including persons with disabilities in development," has been designed to show us the benefits that can be realized from including persons with disabilities in all aspects of life;</p>
+<p>Therefore be it resolved that all members of this House recognize the importance of December 3<sup>rd</sup> as the International Day of Persons with Disabilities and take this opportunity to celebrate the contributions persons with disabilities make in communities across our province.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 126 - Entitled an Act to Amend Chapter 31 of the Acts of 2004. The Police Act. (Hon. Ross Landry)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>Ordered that this bill be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <debateSection>
+          <num title="2697">RESOLUTION NO. 2697</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on December 1, 2011, Nova Scotians lost a great businessman and a true gentleman who possessed a real vision and undeniable spirit with the passing of Mr. Graham Dennis; and</p>
+<p>Whereas Mr. Dennis' strength, spirit, and vision ensured that The ChronicleHerald remained grounded in the roots that his father and grandfather began, an independent, locally-owned newspaper addressing issues important to the province he so loved: Nova Scotia; and</p>
+<p>Whereas his love and pride in Nova Scotia was shared with so many through his support for cancer research, the Dennis Pediatric Fund at the IWK - established for his late son, William - sheltered workshops, group homes, and the Coady Institute, to name just a few;</p>
+<p>Therefore be it resolved that all members of the House extend our deepest sympathies to his wife, Gay, and Sarah, Heather, and the entire Dennis family, as well as the staff of The ChronicleHerald, for the loss of a father, grandfather, boss, and friend, and honour his memory by appreciating and protecting the potential that lies within Nova Scotia.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2698">RESOLUTION NO. 2698</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam Speaker, on behalf of the Leader of the Progressive Conservative Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Graham W. Dennis passed away on December 1<sup>st</sup> after a brief illness; and</p>
+<p>Whereas after the death of his father, Mr. Dennis became publisher of The ChronicleHerald at the age of 26, a post that he held for more than 57 years; and</p>
+<p>Whereas Mr. Dennis was instrumental in chronicling every major Nova Scotia story for over five decades, setting a standard for journalistic excellence, good corporate citizenship, and community involvement;</p>
+<p>Therefore be it resolved that all members of this House of Assembly extend sincere condolences to the family and friends of Graham Dennis and salute Mr. Dennis' many contributions to Nova Scotia.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Education.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2699">RESOLUTION NO. 2699</num>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Jane Warren, a resident of Wolfville, received the Council of Canadians with Disabilities Award at the Nova Scotia League for Equal Opportunities AGM on Tuesday, July 12, 2011; and</p>
+<p>Whereas Jane, living with a brain injury for almost 30 years, has been an outstanding advocate for people with disabilities and for people living in poverty; and</p>
+<p>Whereas Jane Warren provides an excellent example of compassion and caring for others in her community;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate Jane Warren for her advocacy work for people with brain injury and other disabilities, as well those who live in poverty.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2700">RESOLUTION NO. 2700</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Geoff and Jennifer Bishop put Round Hill, Annapolis County, Nova Scotia on the map when they were named Canada's 2011 Outstanding Young Farmers at a ceremony in Brandon, Manitoba on November 18, 2011; and</p>
+<p>Whereas Geoff and Jennifer are the third generation to operate Bishop Farms Ltd. following the footsteps of Geoff's parents Andrew and Pam Bishop, and his grandparents Pat and Bill Bishop who purchased the farm in 1969 on immigrating from England; and</p>
+<p>Whereas this young couple was chosen to receive this prestigious award based on their extensive community involvement, their innovative management practices and their commitments to being good stewards of the land;</p>
+<p>Therefore be it resolved that the members of the House of Assembly join me in congratulating Geoff and Jennifer on being recognized for all their hard work and determinations and wish them and their four children Luke, Emma, Matthew and Ryan, future success as industry leaders.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2701">RESOLUTION NO. 2701</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Nova Scotia Ground Search and Rescue Associations represents 24 teams across Nova Scotia who, like volunteer firefighters, can be called out at anytime, 24 hours a day seven days a week; and</p>
+<p>Whereas Nova Scotia Ground Search and Rescue Teams are 100 per cent volunteer and operate under the authority of Nova Scotia's Emergency Management Office and in turn can be called out for lost persons incidents by the RCMP, municipal police forces across Nova Scotia, and Parks Canada; and</p>
+<p>Whereas despite the excellent service provided by the teams of the provincial association, they are somehow not classified as emergency services providers;</p>
+<p>Therefore be it resolved that the minister responsible for Nova Scotia Emergency Measures Organization recognize the work and time committed by these volunteers and make the necessary changes so that all Ground Search and Rescue organizations across Nova Scotia will be recognized as emergency services providers.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of the Environment.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2702">RESOLUTION NO. 2702</num>
+          <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3"><from>HON. STERLING BELLIVEAU</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Shelburne businessman Nick Stewart was named Entrepreneur of the Year at the Shelburne County Business Development Corporation and Shelburne and Area Chamber of Commerce 2011 Business Excellence Awards on October 20, 2011; and</p>
+<p>Whereas Nick Stewart has grown his business - Nick Stewart Concrete Work - through good customer service, quality workmanship, a willingness to take risks and a desire for continuous learning; and</p>
+<p>Whereas Nick Stewart is respected by his customers and his staff, and can often be seen taking an active role in the community at local agricultural events;</p>
+<p>Therefore be it resolved that this House of Assembly congratulates Shelburne businessman Nick Stewart for being named Entrepreneur of the Year at the Business Excellence Award on October 20, 2011.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2703">RESOLUTION NO. 2703</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Madame la Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que l'Expo-commerce 2011 s'est tenu le 14 octobre &#xE0; l'Universit&#xE9; Sainte-Anne &#xE0; la Pointe-de-l'&#xC9;glise; et</p>
+<p>Attendu que 45 entreprises de la r&#xE9;gion ont particip&#xE9; &#xE0; cette exposition; et</p>
+<p>Attendu que l'Expo-commerce fut un r&#xE9;el succ&#xE8;s avec plus de 1,400 visiteurs;</p>
+<p>Qu'il soit r&#xE9;solu que tous les d&#xE9;put&#xE9;s a cette assembl&#xE9;e l&#xE9;gislative f&#xE9;licitent les organisateurs et les participants &#xE0; cette Expo-commerce.</p>
+<p>Madame la Pr&#xE9;sident, je propose l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bats.</p>
+<p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Expo-commerce 2011 was held the weekend of October 14<sup>th</sup> at Universit&#xE9; Sainte-Anne; and</p>
+<p>Whereas over 45 businesses throughout Clare, Yarmouth, and Argyle took part in the trade show; and</p>
+<p>Whereas over 1,400 people visited the trade show;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate the organizers and businesses and citizens who contributed to the overwhelming success of the trade show.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Thesaurus.com lists "commitment" and "promise" as being synonyms; and</p>
+<p>Whereas members all know that whether we use the word "commitment" or "promise," we, all the public, understand they mean the same thing; and</p>
+<p>Whereas NDP members used the words "promise" and "commitment" interchangeably in resolutions on Thursday;</p>
+<p>Therefore be it resolved that all members of the House of Assembly declare that commitment and promise mean the same thing, and caution members not to prevaricate by treating either word as excluding statements labelled the other.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>Order, please. The word "prevaricate" is unparliamentary and I would ask that the honourable member retract that resolution.</p></speech>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2">
+            <from>MR. EDDIE ORRELL</from>
+            <p>I'll retract the resolution, Madam Speaker.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Thank you.</p>
+<p>The honourable Minister of Natural Resources.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2704">RESOLUTION NO. 2704</num>
+          <speech by="#4fbcc786-c835-4a0e-bd05-40afb30e0683"><from>HON. CHARLIE PARKER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Pictou County Chamber of Commerce held its first Best of Pictou County People's Choice Awards, with 800 nominations in 25 categories; and</p>
+<p>Whereas the contest for Best of Pictou County People's Choice Award voting was done on-line, and over 1,000 votes were received; and</p>
+<p>Whereas this year's winner for Best Garden Centre was won by West River Greenhouses, which is located in Durham and New Glasgow and is owned and operated by Robert and Colleen Parker;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislative Assembly congratulate West River Greenhouses and Robert and Colleen Parker on winning the Best of Pictou County People's Choice Award for Best Garden Centre.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2705">RESOLUTION NO. 2705</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Laura Fitzpatrick is a fourth-year biology and chemistry student, an accomplished musician and varsity athlete, who has received the Presidential Scholarship and the Lieutenant Governor's Medal and has received two NSERC research grants and researched anti-cancer fungi in China; and</p>
+<p>Whereas Laura has extensive experience volunteering at local hospitals and is the founder of the Saint Mary's University Habitat for Humanity Society, organizing builds in New York and Mississippi; and</p>
+<p>Whereas Laura travelled to Northern Ireland in February to facilitate conflict resolution workshops in Belfast, and has co-authored a peace education play;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Laura Fitzpatrick on her extensive achievements, and on being named the 2011 Young Woman of Distinction by the Canadian Progress Club, Halifax Cornwallis, and wish her well in her future endeavours.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p>
+<p>MADAM. SPEAKER: There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2706">RESOLUTION NO. 2706</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Joseph Marshall from Eskasoni was recently invested into the Order of Nova Scotia; and</p>
+<p>Whereas Joseph Marshall, a veteran, leader, role model, and mentor, has dedicated his life to advocating for the rights of the Mi'kmaq people; and</p>
+<p>Whereas Mr. Marshall is the executive director and founding member of the Union of Nova Scotia Indians, a tribal council which was created in 1969 to provide a unified voice for the Mi'kmaq people in Nova Scotia;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Joseph Marshall for his investment into the Order of Nova Scotia and thank him for his many contributions to our province.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2707">RESOLUTION NO. 2707</num>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Madam Speaker, on behalf of the member for Cole Harbour-Eastern Passage, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Eastern Passage resident Betty Ellwanger has been involved with volunteer committee work through the Lions Club over the past 15 years; and</p>
+<p>Whereas in the Spring of 2011, Betty received her 15-year Monarch Certificate of Service from the Eastern Passage-Cow Bay Lions Club at the 39<sup>th</sup> Charter Night; and</p>
+<p>Whereas the extent of Betty's volunteerism includes being an active committee member for such events as the Saturday breakfast, merchandise bingos, carnival, and the New Year's Eve dance;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly commend Betty Ellwanger for being awarded her 15-year Monarch Certificate of Service from the Eastern Passage-Cow Bay Lions Club.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2708">RESOLUTION NO. 2708</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the mission of Yarmouth Life Skills for Disabled Adults is to provide a broad range of programs and services which reflect the diverse needs of clients through on- and off-site activities which promote inclusion, independence, and choice; and</p>
+<p>Whereas Sherry Robertson has gone above and beyond as Executive Director of Yarmouth Life Skills by working tirelessly with and for the clients she serves and by being a constant example of the Yarmouth Life Skills motto of helping people with disabilities live and work with dignity; and</p>
+<p>Whereas Sherry Robertson recently received the Lieutenant Governor's Person with Disabilities Employer Partnership Award, which recognizes Sherry Robertson and Yarmouth Life Skills for Disabled Adults as a role model for business excellence in hiring, accommodating, and serving persons with disabilities;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Sherry Robertson and Yarmouth Life Skills for Disabled Adults on receiving the Lieutenant Governor's Person with Disabilities Employer Partnership Award and thank Sherry Robertson and her organization and staff for making such a positive contribution to our community.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2709">RESOLUTION NO. 2709</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que le 15 juin, 2011, l'Universit&#xE9; Sainte-Anne &#xE0; leurs remise des certificats et des dipl&#xF4;me a d&#xE9;cern&#xE9; un doctorat honorifique &#xE0; Vaughne Madden pour son travail dans les services communautaires; et</p>
+<p>Attendu que Vaughne, qui et pr&#xE9;sentement directrice g&#xE9;n&#xE9;ral a l'office des affaires acadiennes, et gradu&#xE9;e en 1988 avec un dipl&#xF4;me en services sociaux et toute sa carri&#xE8;re elle s'est consacr&#xE9;e au d&#xE9;veloppement et &#xE0; la promotion de la culture et le patrimoine; et</p>
+<p>Attendu que les forces de Vaughne sont dans le partenariat et le recrutement de personnages cl&#xE9;s pour des projets de d&#xE9;veloppement communautaire; qu'elle a contribu&#xE9; &#xE0; la fondation et au succ&#xE8;s de plusieurs organismes communautaires tells que le Congr&#xE8;s Mondial 2004 et le Conseil de d&#xE9;veloppement &#xE9;conomique de la Nouvelle-&#xC9;cosse pour en nommer que deux;</p>
+<p>Par cons&#xE9;quent, qu'il soit r&#xE9;solu que tous le membres de cette Assembl&#xE9;e f&#xE9;licitent Vaughne Madden pour avoir re&#xE7;u ce dipl&#xF4;me honorifique et lui souhaitent un succ&#xE8;s continu dans tous ses projets.</p>
+<p>Madame la Pr&#xE9;sident, je demande l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on June 15, Universit&#xE9; Sainte-Anne at their graduation exercises awarded an honorary degree to Vaughne Madden for her work in community services; and</p>
+<p>Whereas Vaughne, who is presently the Director General at the Office of Acadian Affairs, graduated in 1988 with a degree in social services, and throughout her career has dedicated herself to the development and promotion of the culture and heritage of Acadians; and</p>
+<p>Whereas Vaughne's strengths lie in the partnerships and the recruitment of key figures for community development projects and she has contributed to the birth of several individual agencies, such as the Congres Mondial 2004 and the Economic Development Council of Nova Scotia, just to name two.</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Vaughne Madden on being awarded this honorary degree and wish her continued success in all her future endeavours.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2710">RESOLUTION NO. 2710</num>
+          <speech by="#ce90163b-7a3b-4884-b7d9-b5ca06af4cc3"><from>MR. GARY BURRILL</from><p>Madam Speaker, on behalf of the honourable member for Queens, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Royal Canadian Legion Branch 38 was established in Liverpool, Queens County, in 1931; and</p>
+<p>Whereas the Legion's mission statement is to serve veterans, including serving military and RCMP members and their families, to promote remembrance, and to serve our communities and country; and</p>
+<p>Whereas the Royal Canadian Legion Branch 38 celebrated its 80<sup>th</sup> Anniversary under the Canadian Legion of the British Empire Service League Charter on July 13, 2011;</p>
+<p>Therefore be it resolved that the House of Assembly recognize and congratulate the Royal Canadian Legion Branch 38 on 80 years of continued service to our veterans, serving military and RCMP, and community.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2711">RESOLUTION NO. 2711</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Claudia Jahn is the program director of the Community Action on Homelessness; and</p>
+<p>Whereas Ms. Jahn is a co-founder and steering committee member of the Nova Scotia Housing and Homelessness Network and the chair of the Salvation Army Community Advisory Board; and</p>
+<p>Whereas Ms. Jahn also serves on the Board of the Affordable Housing Association and the North End United Housing Co-op;</p>
+<p>Therefore be it resolved that the members of this House of Assembly commend Ms. Jahn on her commitment to ending homelessness and improving housing, and congratulate her on being named a Woman of Excellence in the Health, Sport and Wellness category by the Canadian Progress Club, Halifax Cornwallis, and wish her well in her future endeavours.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2712">RESOLUTION NO. 2712</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the national women's hockey program continues to call upon the tremendous talents of Baddeck native Jessica Wong; and</p>
+<p>Whereas Hockey Canada has announced that Jessica will be one of 22 players forming Canada's national women's under 22 team for the 2012 MECO Cup in Germany, January 3<sup>rd</sup> to January 8<sup>th</sup>; and</p>
+<p>Whereas Jessica, who won gold with Canada at last year's MLP Cup in Switzerland, continues to prove her excellence in hockey by again being chosen for this year's team;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Jessica Wong on once again being chosen as a member of Canada's hockey team for the MECO Cup and wish her the very best in this year's tournament.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2713">RESOLUTION NO. 2713</num>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. MAT WHYNOTT</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas two of the largest components of running an election campaign are fundraising and office management; and</p>
+<p>Whereas in Hammonds Plains-Upper Sackville, as well as the federal riding of Sackville-Eastern Shore, Mary Shultz committed countless hours assisting her local NDP candidates both in and out of election seasons; and</p>
+<p>Whereas on September 25, 2011, Mary Shultz peacefully passed away surrounded by those who loved her, after battling brain cancer for just four months;</p>
+<p>Therefore be it resolved that this House of Assembly recognize the late Mary Shultz for her countless hours of service to the NDP and send their deepest sympathies to her family.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2714">RESOLUTION NO. 2714</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Madame la Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la resolution suivante:</p>
+<p>Attendu que M. Rodrigue Lefort a &#xE9;t&#xE9; reconnu au 2011 Celebration Communities Conference and Awards &#xE0; Yarmouth le 29 septembre 2011; et</p>
+<p>Attendu que cette rencontre a reconnu les n&#xE9;o-&#xE9;cossais qui ont contribu&#xE9; de facon sp&#xE9;ciale au d&#xE9;veloppement communautaire; et</p>
+<p>Attendu que M. Lefort est r&#xE9;sident du Bas de la Rivi&#xE8;re dans Clare et pr&#xE9;sident du comit&#xE9; de d&#xE9;veloppement de Weymouth qui travaille &#xE0; revitaliser le centre de Weymouth;</p>
+<p>Qu'il soit r&#xE9;solu que les d&#xE9;put&#xE9;s &#xE0; cette assembl&#xE9;e l&#xE9;gislative f&#xE9;licitent M. Rodrigue Lefort et appr&#xE9;cient hautement sa contribution de leadership dans le d&#xE9;veloppement de Weymouth.</p>
+<p>Madame la Pr&#xE9;sident, je propose l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bats.</p>
+<p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the 2011 Celebrating Communities Conference and Awards was held in Yarmouth on September 29<sup>th</sup>; and</p>
+<p>Whereas the Celebrating Communities Awards Night was recently held to honour the achievement of Nova Scotians from across the province for their excellence in the areas of community development, client service, collaboration, innovation in community development, outstanding youth leadership, and outstanding volunteer achievement; and</p>
+<p>Whereas Rodrigue Lefort of New Edinburgh chairs the Weymouth Waterfront Development Committee, which has been working to bring new life to the downtown area through beautification and business attraction efforts;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Rodrigue and extend their appreciation for the leadership he has shown in our community.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2715">RESOLUTION NO. 2715</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Jim Paris, the president of the Sydney and Area Chamber of Commerce, recently announced that he is resigning from his position; and</p>
+<p>Whereas the chamber is supported by an active and focused board of directors that will carry on until a new president is elected; and</p>
+<p>Whereas Jim Paris should be commended on his hard work and his commitment to the Sydney and Area Chamber of Commerce;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Jim Paris as he embarks on a new job opportunity and wish him every success.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2716">RESOLUTION NO. 2716</num>
+          <speech by="#22119b83-0505-4c62-95ff-e8c0e378764c"><from>MR. JIM MORTON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 2444 Kings County Royal Canadian Army Cadet Corps has been helping its members develop citizenship and leadership skills since 1959; and</p>
+<p>Whereas the Lord Strathcona Cup is awarded annually by the Nova Scotia branch of the Army Cadet League of Canada to the cadet corps judged to be the best in the province in training its cadets in leadership, citizenship, and physical fitness, and in promoting interest in Canada's army; and</p>
+<p>Whereas 2444 Kings County Royal Canadian Army Cadet Corps, one of 28 corps in Nova Scotia, is the 2011 recipient of the Lord Strathcona Cup;</p>
+<p>Therefore be it resolved that the Nova Scotia House of Assembly congratulate the members, leaders, sponsors, families and supporters of 2444 Kings County Royal Canadian Army Cadet Corps on earning the Lord Strathcona Cup, and on being recognized as the best army cadet corps in Nova Scotia in 2011.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2717">RESOLUTION NO. 2717</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Educational Program Innovations Charity (EPIC) Society is once again a finalist at the 14<sup>th</sup> Annual Donner Canadian Foundation Awards for Excellence in the delivering of social services in the Service for Children category; and</p>
+<p>Whereas Barry Waldman, a North Sydney resident, founded EPIC, an organization based at the Southside Learning Centre in Sydney for young people indentified with having social and academic risks; and</p>
+<p>Whereas EPIC is among 19 organizations from across Canada nominated as the best managed non-profit social service agencies and in the running for the Donner Canadian Foundation's $60,000 in prize money;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize the stellar work performed by Barry Waldman and EPIC and congratulate everyone at EPIC for the important work they do for our young people.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2718">RESOLUTION NO. 2718</num>
+          <speech by="#aefec392-99d6-4923-8d87-227e50d567e8"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Lunenburg Queens Business Excellence Awards are presented annually to recognize, celebrate and inspire business excellence throughout the region, with participation from seven different chambers of commerce and boards of trade throughout Lunenburg and Queens Counties; and</p>
+<p>Whereas the Large Business Award recognizes the businesses with 16 or more employees, with an established reputation for supporting superior customer service, while engaging in community support and involvement; and</p>
+<p>Whereas Swiss Chalet in Cookville, Nova Scotia, owned by Kelly and Oickle Enterprises, has met these requirements to be recognized for their superior customer service and community involvement;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate Kelly and Oickle Enterprises for the nomination of the Large Business Award by the Lunenburg Queens Business Excellence Awards.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2719">RESOLUTION NO. 2719</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la resolution suivante:</p>
+<p>Attendu que le 22 ao&#xFB;t, 2011, &#xE0; Wedgeport, l'&#xC9;glise Saint-Michel a eu une c&#xE9;r&#xE9;monie pour marquer le 44e anniversaire de la trag&#xE9;die du Silver King; et</p>
+<p>Attendu que pendant la nuit du 22 au 223 ao&#xFB;t 1967, six p&#xEA;cheurs natifs de Wedgeport avaient perdu leurs vies, Roderick Boudreau (capitaine), Edgar Boudreau, Vernon Boudreau, Stanis Bourque, Ray LeBlanc et Camille LeBlanc; et</p>
+<p>Attendu que le Silver King &#xE9;tait un senneur de hareng qui p&#xEA;chait pendant la nuit au pr&#xE8;s de Yarmouth et il &#xE9;tait frapp&#xE9; par un remorqueur qui retournait au port &#xE0; saint John au Nouveau Brunswick;</p>
+<p>Par cons&#xE9;quent, qu'il soit r&#xE9;solu que tous les membres de cette Assembl&#xE9; reconnaissent cette trag&#xE9;die qui &#xE0; marquer les vies des familles laisser en deuils et s'en souviennent les dangers associer avec la vie en mer.</p>
+<p>Madame la Pr&#xE9;sident, je demande l'adoption de cette resolution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on August 22, 2011, St. Michael's Church in Wedgeport held a ceremony to mark the 44<sup>th</sup> Anniversary of the tragedy of the Silver King; and</p>
+<p>Whereas the Silver King was a herring seiner off Yarmouth and was struck by a tug on return to port in Saint John, New Brunswick; and</p>
+<p>Whereas during the night of August 22<sup>nd</sup> to 23<sup>rd</sup>, six fishermen from Wedgeport lost their lives - Roderick Boudreau, the captain, Edgar Boudreau, Vernon Boudreau, Stanis Bourque, Ray LeBlanc and Camille LeBlanc;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in remembering this tragedy that left six families in mourning and remember the dangers associated with making a living on the sea.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2720">RESOLUTION NO. 2720</num>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b"><from>MR. JIM BOUDREAU</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Kaye Williams of Guysborough has been involved as a volunteer with the Guysborough and Area Food Bank since its inception in 1992; and</p>
+<p>Whereas Kaye was nominated by her fellow workers to receive the Georgina Burgess Award, presented to a member agency volunteer who has demonstrated a dedicated, long-term commitment to helping those in need; and</p>
+<p>Whereas Kaye was selected from food bank volunteers from across Nova Scotia and presented with the award on September 15, 2011, by Diane Swinemar, executive director of Feed Nova Scotia;</p>
+<p>Therefore be it resolved that the members of this House of Assembly extend congratulations to Kaye Williams for her exemplary service and wish her every success in the future.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Education.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2721">RESOLUTION NO. 2721</num>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the 1<sup>st</sup> Wolfville Scout Group celebrated 100 years of Scouting with a re-enactment of a 15-kilometre hike from Wolfville to Sunken Lake Scout Camp on August 21, 2011; and</p>
+<p>Whereas the Scouting movement began in Wolfville in 1911 with E. Percy Brown and a patrol of eight boys; and</p>
+<p>Whereas the Scouting movement has provided youth in the Wolfville area with fun activities that emphasize teamwork and life skills;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate the 1<sup>st</sup> Wolfville Scout Group for celebrating their 100<sup>th</sup> Anniversary and wish them continued success with their scouting activities.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2722">RESOLUTION NO. 2722</num>
+          <speech by="#ce90163b-7a3b-4884-b7d9-b5ca06af4cc3"><from>MR. GARY BURRILL</from><p>Madam Speaker, on behalf of the member for Queens, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the ninth annual Fishermen and Scientists Research Society Award for Outstanding Achievement in the Oceans 11 Program was announced at a ceremony held at the Bedford Institute of Oceanography on Oceans Day, June 8, 2011; and</p>
+<p>Whereas the Oceans 11 program is a science program for Grade 11 students, offering the opportunity to learn about a wide range of marine science topics; and</p>
+<p>Whereas Amber Whynot, of Liverpool Regional High School, was one of 65 students from throughout Nova Scotia to receive this award for her interest, participation, contribution, and scholastic achievement in the Oceans 11 program;</p>
+<p>Therefore be it resolved that the House of Assembly recognize and congratulate Amber Whynot, of Liverpool Regional High School, for receiving the Fishermen and Scientists Research Society Award for Outstanding Achievement in the Oceans 11 Program.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2723">RESOLUTION NO. 2723</num>
+          <speech by="#aefec392-99d6-4923-8d87-227e50d567e8"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nova Scotia and lighthouses go hand and hand, and the historic lighthouse at Battery Point in Lunenburg along the Lighthouse Route, which dates back to 1937, has been refurbished thanks to the hard work of the community; and</p>
+<p>Whereas earlier this year an arrangement was made between the Nova Scotia Community College's Lunenburg Campus heritage carpentry course and High Liner Foods which owns the land, and the Department of Fisheries and Oceans to preserve the historic structure under the tutelage of NSCC Instructor Paul MacLellan; and</p>
+<p>Whereas the group has managed to complete work on the Battery Point Lighthouse, restoring it from the ground up with new windows, a fresh coat of paint and a new roof, thanks to the contributions of materials and in-kind services donated by NSCC Lunenburg Campus, BMR Hardware in Lunenburg, Maughan's Construction and Walter Flower;</p>
+<p>Therefore be it resolved that this House of Assembly recognize the community effort and spirit present in Lunenburg County to preserve this historic lighthouse for future generations.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Citadel-Sable Island</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2724">RESOLUTION NO. 2724</num>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>MR. LEONARD PREYRA</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Chives Canadian Bistro emerged through the vision of Chef Craig Flinn, offering delicious and diverse menus based on seasonal produce from local farmers, artisan cheese and meat producers, and sustainable seafood; and</p>
+<p>Whereas Chives Canadian Bistro's reputation for extraordinary casual dining has been recognized through numerous awards as one of the top restaurants in Canada; and</p>
+<p>Whereas Chives Canadian Bistro recently welcomed its 250,000<sup>th</sup> customer, and on Sunday, December 10<sup>th </sup>will celebrate its 10<sup>th</sup> Anniversary;</p>
+<p>Therefore be it resolved that this House of Assembly recognize the two chef owners, Chef Craig Flinn and Darren Lewis, and the staff of Chives Canadian Bistro for their commitment to extraordinary cuisine made from locally grown, sustainable ingredients and extend heartfelt congratulations on the celebration of their 10<sup>th</sup> Anniversary.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Madam Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Madam Speaker, would you please call Bill No. 123.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 123 &#x2013; Corrections Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Justice.</p>
+          </speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Madam Speaker, I move second reading of Bill No. 123.</p>
+<p>Madam Speaker, it is my pleasure to begin debate on Bill No. 123, the Corrections Act. As all members of this House are aware, on October 30<sup>th</sup>, the Nova Scotia Government &amp; General Employees Union, Local 480 Correctional Officers ratified a new contract agreement with the province.</p>
+<p>Madam Speaker, the changes we are proposing to the Corrections Act today are necessary to fulfill a key part of this agreement - moving correctional officers into the civil service. Bringing correctional officers into the civil service is important and has many benefits. It has administrative benefits, allowing government to negotiate one collective agreement. It also means that we will be better able to manage the ongoing challenges of operating a correctional facility; one of those challenges is staffing. When staff want to move on, or are no longer able to work in a correctional facility, they will have more options available to them as members of the civil service. As well, since this contract will also see the conversion of some part-time staff to full-time status, we will have more flexibility to ensure we are appropriately staffed, especially when responding to sick time and training requirements.</p>
+<p>Madam Speaker, we are not here to talk about the details of the new contract agreement. The agreement was ratified by 88 per cent of the membership and is in the process of being implemented. Suffice it to say that this government believes having correctional officers join the civil service is a very good thing. We highly value the work correctional officers do every day in a very challenging environment. We are very pleased they have voted to join the civil service.</p>
+<p>Madam Speaker, the amendments to the Act are really technical to help us move the contract agreement of the Nova Scotia Government Employees Union Local 480 forward. Currently the Corrections Act sets out that correctional officers are employees of the Department of Justice. One, we need to repeal this section of the Act to remove the provision which established correctional officers as Department of Justice employees; and, two, amend the section of the Correctional Services Act which references the Corrections Act. This will ensure that the legislation allows correctional officers to move from the Department of Justice into the civil service under the Civil Service Master Agreement.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff">
+            <from>MR. ALLAN MACMASTER</from>
+            <p>Madam Speaker, I don't really have too many comments to offer on this this morning, only that I do hope that what is happening here today, that it will be favourable for the corrections officers in the sense that I'm hoping that it's not going to cost them more when it comes to the terms of their employment and, with that, I'll take my place.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Justice.</p></speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2">
+            <from>HON. ROSS LANDRY</from>
+            <p>Madam Speaker, I thank my colleague across the floor for his comments. I move second reading of Bill No. 123 and close debate.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 123. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Madam Speaker, would you please call Bill No. 124.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 124 &#x2013; Arts Nova Scotia Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Education.</p>
+          </speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Madam Speaker, I now move that Bill No. 124, an Act to Establish Arts Nova Scotia, be read a second time.</p>
+<p>Madam Speaker, in February the province mapped out its approach to developing the arts and culture sector in Nova Scotia. The five-point plan announced by the Premier was based on extensive consultations with members of the sector in the Fall of 2010. Central to that plan was the creation of Arts Nova Scotia, an independent body to administer funding for individual artists and the cultural organizations that support them.</p>
+<p>Madam Speaker, with this legislation we are fulfilling that commitment by establishing the framework for Arts Nova Scotia. We are also living up to our commitment to give the arts and culture sector a voice in determining the province's priorities for growing our creative economy. A four-member transition committee, chaired by the member for Lunenburg and including three members from the arts and culture community, was asked to develop a terms of reference and criteria for appointing members to Arts Nova Scotia.</p>
+<p>Madam Speaker, their report was released the other day and formed the basis for the legislation being introduced. Once this bill is passed, an interim board for Arts Nova Scotia will be appointed next year, and the process of transitioning the grant programs outlined in the transition committee's report will begin. When it is up and functioning, Arts Nova Scotia will be responsible for $2.4 million in grant funding that goes directly to artists to support their creative pursuits and professional development.</p>
+<p>Madam Speaker, arts and culture promote vibrant communities that benefit from the creativity and innovation of our artists and creators. With the creation of Arts Nova Scotia, the province is placing the decisions related to funding for artists into the hands of those best placed to make those decisions, the artists themselves.</p>
+<p>And with that, Madam Speaker, I take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Digby-Annapolis.</p>
+          </speech>
+          <speech by="#169d581a-9c34-47f3-9660-9ccb38d06bf4"><from>MR. HAROLD THERAULT</from><p>Madam Speaker, I'm pleased to stand and speak a little bit on Bill No. 124. We fully support this bill and we're looking forward to it to go to Law Amendments Committee and, hopefully, be proclaimed as quickly as possible.</p>
+<p>I know it's a good bill, it's good for our culture in Nova Scotia, and it's good for arts in Nova Scotia, period - it's going to be interesting to see what the Third Party is saying, after they cut this bill 10 years ago.</p>
+<p>So, with that, I'll take my seat, Madam Speaker. (Laughter)</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Victoria-The Lakes.</p>
+          </speech>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Thank you, Madam Speaker, and I thank the member for Digby-Annapolis for mentioning us during debate on this bill.</p>
+<p>Madam Speaker, the PC caucus is, indeed, in favour of this bill, but we also think the good part of the bill, and something that we have to watch, is that it is a merit-based grant program.</p>
+<p>The only concern we might have is there's nothing in the bill saying what the salary of the executive director would be, where that money might be coming from. I know the administration does come from the department itself, but the executive director is a separate entity, and whether or not that will affect the grant program, but we look forward to seeing the bill go to Law Amendments Committee for further discussion.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Lunenburg.</p>
+          </speech>
+          <speech by="#aefec392-99d6-4923-8d87-227e50d567e8"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I am very happy to be able to stand today and talk about this bill. The arm's-length arts council has been something that our community has wanted for a very long time, and it has to be noted that in March 2002 the arts council was dissolved. That was a council that took almost two decades to be formed, and with all the members of the arts community of Nova Scotia working very hard to have that happen.</p>
+<p>The Nova Scotia Arts Council at that time existed for only six years before it was dissolved, and at that time it was to the great surprise of the people in the arts community - not only in the province but in the country. At the time there were massive demonstrations right across the province and, in front of Province House, our then Leader of the Opposition, our current Premier, said to the crowd how wrong-headed he felt this whole decision was. He said we are only one election day away from the reinstatement of the arts council and, in fact, that is just what we've done. In fact, that is just what we've done. Our government, in two and a half years, has reinstated the arts council by bringing forward this policy.</p>
+<p>I have to say that as ministerial assistant for Communities, Culture and Heritage, I was honoured to be the chair of this transition committee that drafted the terms of reference for the legislation for this committee. I have three wonderful people who worked with me on this committee.</p>
+<p>We have Leah Hamilton, who is experienced as an art consultant and helped focus development in this area, and who has been absolutely tremendous. Leah is a consultant for Genesis Consulting of Halifax, a firm that specializes in projects in the arts field. Ms. Hamilton's work has including planning and organizational development in the arts and culture, heritage, and tourism fields. She was a member of the former provincial arts council from 1999 to 2002. Her involvement in the arts and culture sector has included serving as treasurer for the Eastern Front Theatre, a past member of the executive for Theatre Nova Scotia, and currently as a member of the Nova Scotia Masterworks Awards Foundation.</p>
+<p>We have Paul Caskey, who is the artistic director of Live Art Dance Productions and has a long history of involvement in Canada's professional dance community. He's been a dancer, choreographer, lighting designer, and artistic director in a career that has spanned the country. Mr. Caskey has created original dance productions and served as co-artistic director for Studio 303.</p>
+<p>Christopher Shore is executive director of Theatre Nova Scotia. His career has spanned radio, stage, film, and television. A successful actor, he has appeared onstage with Neptune Theatre, Tarragon Theatre, the National Arts Centre, and Eastern Front Theatre, and in the films <i>Sea Wolf</i>, <i>October 1970</i>, and <i>Shattered City: The Halifax Explosion</i>. Mr. Shore has written for the stage, radio programs, and children's animated television series. His play, <i>Liar</i>, won a best new play award in 2001 at the Robert Merritt Awards.</p>
+<p>These three people worked tirelessly. We first met at the end of June and then met for seven all-day meetings. I have to say that the level of integrity and the quality of experience that was brought to this committee by these people were stellar. Madam Speaker, hard work went into this to make sure that this would be a report that the arts community could accept and feel that it came from the people themselves and not as a directive from government. We were asked to do a specific task and there was a timeline attached to it. We had hoped to do it this Fall, and there were moments where we thought it was miraculous that we actually got it done to that point and on time.</p>
+<p>Some of the things that were asked of the transition team: we were asked to develop the terms of reference, with that intending the purpose and general functioning of Arts Nova Scotia and the recommended level of authority and areas of responsibility with regard to programs offered by Arts Nova Scotia, and their expectations as to Arts Nova Scotia's operation and accountability. So we sat and talked and workshopped words and came up with what we felt were the appropriate mission statement, vision mandate, and values. We did that by talking to other arts councils across the country. Extensive conversations went on. We did on-line research, looking at what other art councils in the world look like, especially in Scotland and England and places that have similar arts communities.</p>
+<p>The mission statement we developed is: "Arts Nova Scotia exists to advance the arts by investing in creativity, fostering innovation and promoting the value of the arts." Even though that's one sentence, it took about a day to workshop.</p>
+<p>The mandate is: "To encourage creative expression by funding activities in the arts," and of course the main role of the arts council will be to fund individuals and groups. "Funding will be made available through programs that invest in artists and arts organizations; specifically:</p>
+<ul>
+<li>Grants that promote and support artist creation and innovation</li>
+<li>Grants that support presentation and producing activities, including operational support to producing and presenting organizations</li>
+<li>Grants that support professional development of artists and workers in the arts.&#x201D;</li>
+			</ul>
+<p>We feel that helping to support the development of artists is another really, really important thing. This is to mature our young artists who are coming along with the help of the arts council. Grants will be merit-based and art prizes, awards, and artwork acquisitions will all be part of this.</p>
+<p>One of the other parts of our mandate is to invest in the creativity of all artistic disciplines; to employ peer assessment processes - and with this went into great detail figuring out the matrix of the people who would be on the board and how they would actually follow through with their job; to communicate the cultural, social, and economic importance of the arts to the community at large; to advise and work with the Minister of Communities, Culture and Heritage, provincial Culture staff, and advisory bodies in the arts; and to initiate and oversee arts-related research.</p>
+<p>Madam Speaker, once this bill is passed, an interim board for Arts Nova Scotia will be appointed. Our attention that was put to the appointment of that board took considerable time. We created a matrix that looked at all the diversity that we could. We looked at age; we looked at cultural diversity; we looked at the various levels of work, whether it was a mature person who had been involved in their area for a long time, in the various geographical parts of the province. We wanted a board that would represent Nova Scotian artists well. (Interruption) Absolutely, inclusion. When it's up and functioning, Arts Nova Scotia will be responsible for $2.4 million in grant funding that goes directly to artists for their creative pursuits and development.</p>
+<p>Madam Speaker, Arts Nova Scotia will set its own policies and guidelines and ensure that decisions regarding funding to artists and organizations that support their creativity and professional development are based on their artistic merit. Those decisions will be final and not subject to political process interference. The board will make their decisions and that will be that, once the board is appointed.</p>
+<p>Madam Speaker, our goal in government is to ensure that funding to support the arts in Nova Scotia goes into the hands of those who will drive the growth for our economic economy, our creative economy. It is good for Nova Scotia families because it supports innovation and creativity in the communities across our province. The arts and culture promote vibrant communities that benefit the creativity and innovation of artists and creators. With the creation of Arts Nova Scotia, the province is planning the decision relating to funding for artists and putting it into the hands where it should be placed - the artists themselves. I will now take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Truro-Bible Hill.</p>
+          </speech>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Madam Speaker, today is a great day for arts and culture in Nova Scotia. I am really pleased that our NDP Government is introducing legislation in this House of Assembly to enable the establishment of a new provincial arts council named Arts Nova Scotia, and to formalize the structure and mandate of a new advisory council called the Creative Nova Scotia Leadership Council - both important commitments in our government's five-point arts plan, which was announced earlier this year, and something which I've been championing both within and without government ever since I came into office in June 2009.</p>
+<p>In fact, as ministerial assistant to Tourism, Culture and Heritage for my first two years in government, I personally worked very hard to help convince many people that this was, in fact, the right thing to do and the right thing to do at this particular point in our province's history. So suffice it to say I'm extremely pleased by this announcement today as are many, many artists right across this province.</p>
+<p>I believe that it shows our NDP Government is listening, Madam Speaker, and that we recognize the important role that arts and culture play in making Nova Scotia communities vibrant. After all, as I've always said, Nova Scotia is blessed with a natural resource that is clean, green, sustainable, and constantly renewable, and that is the talent and creativity of its people.</p>
+<p>Legislation which we introduced December 1<sup>st</sup> will establish Arts Nova Scotia and formalize the structure and the mandate of the Creative Nova Scotia Leadership Council. Now, I have to say that the previous Progressive Conservative Government was widely criticized by artists from across this province when in 2002, with Rodney MacDonald as Minister of Tourism, Culture and Heritage, the provincial arts council was disbanded despite strong criticism from the arts and culture community.</p>
+<p>I was living in Vancouver at the time, and I heard the furor &#x2026;</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>Order, please. The chatter in the room is getting a little loud. The honourable member for Truro-Bible Hill has the floor.</p>
+          </speech>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. ZANN</from><p>Thank you, Madam Speaker. What a good Speaker you are. It's great to have a woman Speaker in the Chair.</p>
+<p>I have to say that I was living in Vancouver at the time, doing film and television, and I heard the furor from the West Coast. Many of my friends wrote to me; many people were so upset about what was going on in Nova Scotia. Five years later I actually moved home and decided to run for office because I felt that we really need to get more artists involved in government and in making really important decisions that will affect all people right across the province. In fact, one of my friends is a successful artist - Alan Syliboy of Millbrook. He is a fantastic artist, doing very, very well. He was actually on the former arts council and he shared with me the sad story of the day the arts council was disbanded with no prior warning. They were all told to pack up their belongings and go home, after which the doors were locked.</p>
+<p>Since the NDP has formed the government, we have been listening to the voices of the arts and culture sector. We believe that the sector itself is in the best position to make decisions about funding for individual artists, and Arts Nova Scotia will be able to do just that with the legislation that we are putting forward today.</p>
+<p>On February 14<sup>th</sup> we mapped out the government's approach to developing the arts and culture sector in Nova Scotia. The five-point plan that we announced was based on extensive consultations with members of this sector in the Fall of 2010. In May 2011, a transition committee of arts and culture sector members was established to develop the terms of reference and criteria for appointing members to Arts Nova Scotia. They submitted their support earlier this Fall and the report was made public yesterday. So I think it's very fair to say that our government is committed to improving life for all artists right across the province and that we've showed our commitment to improving government's relationships to the arts and culture sector by listening to their concerns and suggestions. We are acting on the priorities that were identified.</p>
+<p>This will definitely help our creative economy grow. The province will continue to move forward with our five-point plan, and this will help shape a positive future for Nova Scotia and for Nova Scotia's numerous talented artists, so that finally they are getting the respect and the government support they deserve.</p>
+<p>I think it's important to note that arts and culture contribute to strong communities by spurring creativity, innovation, jobs, and many, many economic spinoffs. This can't help but make life better for all families. After all, this is exactly what the creative economy is all about. Just as our film and television tax credit changes are showing, our film and TV community is growing. It is doing extremely well. People are so happy to be living here in Nova Scotia that many more people are actually moving here. I had five people contact me just in the last month, Madam Speaker, who are professional artists who are actually moving to Truro because they want to be part of the vibrant community that is growing there.</p></speech>
+          <speech by="" as="##member" status="undefined">
+            <from>AN HON. MEMBER</from>
+            <p>A singer and dancer, right over here.</p>
+          </speech>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. ZANN</from><p>No, actually they're not singer/dancers. They are directors and film-makers, which is very exciting. In fact, in my own constituency of Truro-Bible Hill, my own regional development agency, CoRDA, is already working on a special study on the creative economy and its impact on Colchester County. So I'm very excited to have the opportunity to work with them on this, Madam Speaker, as soon as the House rises for Christmas.</p>
+<p>Arts Nova Scotia will be responsible for $2.4 million in grants that go directly to the artists of Nova Scotia. The transition committee has proposed a model that will minimize operational expenses by having administrative and staff support continue to come from the Department of Communities, Culture and Heritage, from its existing budget envelope. This will ensure that Arts Nova Scotia is able to focus on its decision making, and that grant funding is not impacted by operational costs.</p>
+<p>This will not compromise the independence of their decision-making ability, Madam Speaker. The key point here is that their decision making will be independent; having administrative support come from the department does not affect the independence of this decision making. That's very clearly laid out in the legislation. The board of Arts Nova Scotia will make its own policies and be responsible for final decisions related to the funding that it oversees. This was the recommendation from the transition committee and we've accepted that and make sure that it is reflected in the legislation.</p>
+<p>The report also outlines that programs will be under the control of Arts Nova Scotia - they include grants to individuals; grants to organizations and small groups related to commissioning, production and presentation, and professional development; operating assistance to cultural organizations related to producers, Nova Scotia Art Bank Purchase Program, and the Portia White Prize.</p>
+<p>The transition committee also outlined a set of criteria for the board of Arts Nova Scotia in its report to ensure a broad representation in terms of the sector, gender, geography, and age; they've also recommended a board, between nine and eleven members, and we are accepting that criteria. We'll follow the advice they've provided and seek input from the sector to appoint the initial board, and we expect that to happen, Madam Speaker, in the near future.</p>
+<p>There needs to be more discussion about the Nova Scotia endowment of the arts before we decide what happens to that, but we will be carrying on that dialogue with the board of Arts Nova Scotia and with the Creative Nova Scotia Leadership Council, to ensure that the fund supports the development of the sector in the best possible way.</p>
+<p>I believe this legislation provides the structure for a strong arts funding body and I look forward to seeing the Arts Nova Scotia board build on the foundation established today. Work has also begun on a cultural strategy by undertaking a review of literature related to the creative economy, and a subcommittee of sector members has been formed to advise government on the status of the artist legislation to reflect the importance of arts and culture to Nova Scotians. This is very exciting, Madam Speaker.</p>
+<p>With the introduction of legislation for Arts Nova Scotia, the government has shown that the arts and culture sector is an intrinsic part of the fabric of this province, which is something that I've always said, Madam Speaker. It's not just the icing on the cake, it's actually the meat and potatoes, or the juice that holds it all together. These pieces of legislation help promote the development of the entire sector, and the status of the artist legislation is expected to be introduced around 2012.</p>
+<p>I'm very pleased to have the opportunity to speak to this legislation today, Madam Speaker, and to say thank you personally to our department, to our minister, to my colleague, the member for Lunenburg, and also to our Premier for fulfilling his promise to the artists of Nova Scotia, when he stood on the steps of this Legislature and said "we are only one election day away from the reinstatement of the arts council."</p>
+<p>Madam Speaker, I would like the House and all artists to note that this is a perfect example of our Premier acknowledging his word and following through on an important pledge to an important sector. I am very, very proud to be part of a government which acknowledges the importance of arts and culture in Nova Scotia, and acts upon the desires and wishes of our talented and much-deserving artists.</p>
+<p>In conclusion, I'm also glad that as a lifelong professional artist myself, I could play even a small role in bringing this legislation to fruition, and I thank my constituents of Truro-Bible Hill for making sure that I was in a position to do so.</p>
+<p>This is one of the main reasons why I ran for office, Madam Speaker, because I believe that all governments need more artists helping to solve the problems and issues of the day. We think outside the box, we work collaboratively, we support each other, and we are used to working on a shoestring budget and turning straw into gold. With that, I conclude my remarks.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Argyle.</p>
+          </speech>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam Speaker, I just want to quickly make a couple of comments. I want to thank the government for bringing this bill forward. I want to thank them for the work that they've done, that they did in consulting with the industry to make sure that this is the right move forward. What we did see - being a member of the previous government that seems to be villainized by the member for Digby-Annapolis, I had to say a couple of words about this - what we saw a number of years ago were organizations and a community that weren't working, dollars that were being used up by the bureaucracy, that were being used up and not getting to the artists. That's why at the time, the minister, then the Premier of the day, made the change to create at least something that would find the dollars making their way to the artists. Hey, evolution happens. Things will happen where new systems will be put in place and I hope that this bill, through the new arts council, will work. I hope that the dollars and cents will make their way to the artists who are creating the so important fabric of our communities.</p>
+<p>Madam Speaker, I think it's very important that we have a vibrant and good arts community in Nova Scotia, and I do wish it well, but I can say that our caucus will be watching it closely to make sure that it is doing what it's supposed to be doing and that is making sure that it is creating a thriving arts community in Nova Scotia and not being used up by needless bureaucracy that ultimately will not help artists in Nova Scotia.</p>
+<p>Madam Speaker, I thank you for the opportunity to speak to that but also I want to thank the member for Truro-Bible Hill. She took paper out of her work there, and I thought that was incredible to see that she was using a computer to read her information because I think we use far too much paper in this House of Assembly.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>If I recognize the minister it will be to close the debate.</p>
+          </speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a">
+            <from>HON. RAMONA JENNEX</from>
+            <p>Madam Speaker, through you, I wish to thank all of the speakers today on Bill No. 124 and with that, I do close debate.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 124. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Acting Deputy Government House Leader.</p></speech>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301">
+            <from>MR. MAT WHYNOTT</from>
+            <p>Madam Speaker, would you please call Bill No. 125.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 125 - Creative Nova Scotia Leadership Council Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Education.</p>
+          </speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Madam Speaker, I now move second reading of Bill No. 125, an Act to Establish the Creative Nova Scotia Leadership Council.</p>
+<p>Madam Speaker, the arts and culture play an important role in making life better for Nova Scotia families. Because of the creativity and innovation practised by Nova Scotian artists, our communities are vibrant places to raise a family and build a life. Ensuring that our creative economy continues to grow and benefit, the economic and social well-being of Nova Scotians is very important to this government.</p>
+<p>It is why we released a five-point plan in February to chart a course for a new relationship with the arts and culture sector that will grow the value of our creative economy. With the creation of the Creative Nova Scotia Leadership Council, government is underscoring its commitment to listen to voices of the arts and culture community as we develop priorities for supporting the sector.</p>
+<p>Madam Speaker, under the leadership of its chair, Ron Bourgeois, the 15-member council has already begun to look at research that will help to move forward with its work on the creative economy and a cultural strategy for Nova Scotia.</p>
+<p>Madam Speaker, the Creative Nova Scotia Leadership Council will play an important role as government proceeds with other elements of its five-point plan for the coming year. This includes status of the artist legislation to recognize the importance of arts and culture in Nova Scotia. Nova Scotians see the valuable contributions made by arts and culture to their communities every day. Artistic expression celebrates our diverse culture and contributes to the quality of life enjoyed by Nova Scotia families.</p>
+<p>The province has listened to the voices of the arts and culture sector and is acting on the priorities identified by them to help our creative economy grow. Thank you, Madam Speaker, and with that I take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>Just for the record is the honourable minister moving second reading?</p>
+          </speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a">
+            <from>MS. JENNEX</from>
+            <p>I apologize, I thought I did say move that, but I do move second reading of Bill No. 125.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Digby-Annapolis.</p>
+          </speech>
+          <speech by="#169d581a-9c34-47f3-9660-9ccb38d06bf4">
+            <from>MR. HAROLD THERIAULT</from>
+            <p>Thank you, Madam Speaker, this bill, Bill No. 125, the Creative Nova Scotia Leadership Council Act, we are also in full support of this bill and we look forward to it to go into Law Amendments Committee and back to the House and quickly proclaimed, thank you very much.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Education.</p></speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a">
+            <from>HON. RAMONA JENNEX</from>
+            <p>Thank you very much, Madam Speaker, I now close debate on second reading.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The question is for second reading of Bill No. 125. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Acting Deputy Government House Leader.</p></speech>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. MAT WHYNOTT</from><p>Madam Speaker, that concludes the government's business for the day. We will be calling, on Monday, Committee of the Whole House on Bills, Bill Nos. 55, 102, 106, 109, 115, 116. We will also be calling Public Bills for Third Reading, Bill Nos. 72, 78, 86, 93, 94, 95, 98, 104, 108, 111, and 112. We will also be calling bills in second reading, the Police Act, Bill No. 126. If time permits, we will even be calling Address in Reply to the Speech from the Throne.</p>
+<p>The hours for Monday will be between the hours of 2:00 p.m. and midnight.</p>
+<p>I move that the House do now rise.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House now rise to meet again on Monday at the hour of 2:00 p.m.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>The House rose at 10:29 a.m.</p>
+          </narrative>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="2725">RESOLUTION NO. 2725</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh Award, founded by His Royal Highness, Prince Philip, the Duke of Edinburgh, came to Canada in 1963 and currently runs in 130 countries around the world; and</p>
+<p>Whereas the Duke of Edinburgh Award challenges young people to be active, to participate in new activities, and to pursue current interests in four different areas; and</p>
+<p>Whereas the three awards are Gold, Silver, and Bronze, and each award has four sections that must be fulfilled - Service, Expeditions and Explorations, Skills, and Physical Fitness;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Phoenix 596 Royal Canadian Air Cadet Sara Langille of River John for receiving a Bronze Duke of Edinburgh Award.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2726">RESOLUTION NO. 2726</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Duke of Edinburgh Award, founded by His Royal Highness, Prince Philip, the Duke of Edinburgh, came to Canada in 1963 and currently runs in 130 countries around the world; and</p>
+<p>Whereas the Duke of Edinburgh Award challenges young people to be active, to participate in new activities, and to pursue current interests in four different areas; and</p>
+<p>Whereas the three awards are Gold, Silver, and Bronze and each award has four sections that must be fulfilled - Service, Expeditions and Explorations, Skills, and Physical Fitness;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Phoenix 596 Royal Canadian Air Cadet Austin Miller of Tatamagouche, Colchester North, for receiving a Bronze Duke of Edinburgh Award.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2727">RESOLUTION NO. 2727</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the awards for Most Improved Fitness and Best Overall Bandsman were presented to M/Cpl. Tyler Aucoin of Valley, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate M/Cpl. Tyler Aucoin for receiving these impressive awards and commend the commitment of this cadet.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2728">RESOLUTION NO. 2728</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for Top Biathlete was presented to M/Cpl. Brennan Beal of Onslow Mountain, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate M/Cpl. Brennan Beal for receiving this impressive award and commend the commitment of this cadet.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2729">RESOLUTION NO. 2729</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the awards for Best Gold Star, Top Orienteerer, and Leadership Award were presented to Sgt. Taylor Brown of Onslow, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sgt. Taylor Brown for receiving these impressive awards and commend the commitment of this cadet.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2730">RESOLUTION NO. 2730</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for the Top Shot Standing was presented to Sergeant M/Cpl. Brent Garnham of Glenholme, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sergeant M/Cpl. Brent Garnham for receiving this impressive award and commend him for his commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2731">RESOLUTION NO. 2731</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the awards for the Best First Year Cadet and Top Recruiter were presented to Cdt. Justin Little of Upper Brookside, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Cdt. Justin Little for receiving these impressive awards and commend him for his commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2732">RESOLUTION NO. 2732</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for the Top Shot Kneeling was presented to Sgt. Miranda MacKay of Salmon River, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sgt. Miranda MacKay for receiving this impressive award and commend her for her commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2733">RESOLUTION NO. 2733</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for Best Attendance was presented to L/Cpl. Ryan MacNeil of Valley, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate L/Cpl. Ryan MacNeil for receiving this impressive award and commend him for his commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2734">RESOLUTION NO. 2734</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for Best Second Year Cadet was presented to Cpl. Marco Vogel of Valley, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Cpl. Marco Vogel for receiving this impressive award and commend the commitment of this cadet.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2735">RESOLUTION NO. 2735</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for the Most Improved Shot Scoring and Most Improved Bandsman were presented to Sgt. Ryan Menzies of Upper Brookside, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sgt. Ryan Menzies for receiving these impressive awards and commend him for his commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2736">RESOLUTION NO. 2736</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the CO's Award for Outstanding Leadership was presented to WO Shelby Munro of North River, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate WO Shelby Munro for receiving this impressive award and commend the commitment of this cadet.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2737">RESOLUTION NO. 2737</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for Top Drill Instructor was presented to WO Aaron Pearce of Debert, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate WO Aaron Pearce for receiving this impressive award and commend his commitment to the cadet corps.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2738">RESOLUTION NO. 2738</num>
+          <speech by="13787640-1a96-4b80-8d04-ce79410f4a22"><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the members of the 2928 Royal Canadian Army Cadet Corps held their 37<sup>th</sup> annual cadet review; and</p>
+<p>Whereas the knowledge and precision shown by the corps is testament to their dedication and hard work during the year; and</p>
+<p>Whereas the award for the Top Army Cadet Fitness was presented to Sgt. Thomas Pearson, Jr., of Valley, Colchester North;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sgt. Thomas Pearson, Jr. for receiving this impressive award and commend him for his commitment to the cadet corps.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

@@ -1,0 +1,904 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="aefec392-99d6-4923-8d87-227e50d567e8" href="/ontology/person/ca-ns.pam.birdsall" showAs="HON. PAM BIRDSALL"/>
+        <TLCPerson id="c7f2d366-8ba0-4263-98e0-bdaa9336415f" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="2591a7eb-9f23-4c5f-a211-14ceada27f08" href="/ontology/person/ca-ns.becky.kent" showAs="MS. BECKY KENT"/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="d36a0432-7994-4030-ab00-b21fc858e7d2" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="20520cce-c7eb-4da6-bc5e-8e9f24f3db6b" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="b31db77c-006f-4f6e-ab57-0c449cb2d93a" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="ce90163b-7a3b-4884-b7d9-b5ca06af4cc3" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="d6c0c78d-dcf3-456a-915c-a20ecb33050f" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="4f242ac5-fc82-41a3-8089-419e69284e5e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
+        <TLCPerson id="5da6e0aa-9066-4b5c-8d26-9222b854db7e" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="c479d7de-83a6-47c7-a045-07816407bdb3" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="13283a7f-b97c-4254-a233-d0ccec196703" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="dca0e259-71bc-4398-a229-98d794836a3d" href="/ontology/person/ca-ns.brian.skabar" showAs="MR. BRIAN SKABAR"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 23 November 2012</docTitle>
+      <docNumber>12-55</docNumber>
+      <docDate date="2012-11-23">Friday, November 23, 2012</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="4">4th Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We will begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Kings West.</p>
+        </speech>
+        <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
+<blockquote>"&#x2026; your petitioners call upon the Nova Scotia House of Assembly to use its powers over the Board of Commissioners of Public Utilities, the &#x2026; (UARB) to deny any General Rate Application presented by NSPI requesting a rate increase in 2013, 2014 and 2015."</blockquote>
+<p>Mr. Speaker, I have affixed my signature.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Colchester-Musquodoboit Valley.</p>
+        </speech>
+        <speech by="#ce90163b-7a3b-4884-b7d9-b5ca06af4cc3">
+          <from>MR. GARY BURRILL</from>
+          <p>Mr. Speaker, I would like to present the annual report of the Standing Committee on Veterans Affairs, as the chairman of that committee. In presenting the report, I'd like to express my own appreciation as well to all the members of the committee for the collegial way in which the work of that committee is conducted. I'd also like to express my appreciation to the clerk of the committee, Kim Langille, for the order and organization she brings to the committee's business. Thank you.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
+<p>The honourable Minister of Justice.</p></speech>
+        <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bills:</p>
+<p><b>Bill No. 131 - School Board Members Duties Clarification Act.</b></p>
+<p><b>Bill No. 133 - Inter-city Bus Service Act.</b></p>
+<p>and the committee recommends these bills to the favourable consideration of the House, each without amendment.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
+<p>The honourable Minister of Justice.</p></speech>
+        <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+<p><b>Bill No. 111 - Fur Industry Act.</b></p>
+<p>and the committee recommends this bill to the favourable consideration of the House, with certain amendments.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        <speech by="#aefec392-99d6-4923-8d87-227e50d567e8">
+          <from>MS. PAM BIRDSALL</from>
+          <p>Mr. Speaker, I would like to present the report of the Standing Committee on Economic Development. I'd like to thank all the members of the committee, and I'd also like to thank Jana Hodgson for doing her fine work. Thank you.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The report is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92">
+          <from>HON. JAMIE BAILLIE</from>
+          <p>Mr. Speaker, in light of the situation in Cape Breton Regional &#x2026;</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>It's a bill. You are introducing a bill.</p>
+        </speech>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92">
+          <from>MR. BAILLIE</from>
+          <p>I also, Mr. Speaker, request the unanimous consent of the House to move the bill through all readings today.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The request was for unanimous consent to move the bill through the House today. Would all those in favour &#x2026;</p>
+<p>SOME HON. MEMBERS: No.</p></speech>
+        <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350">
+          <from>MR. ALFIE MACLEOD</from>
+          <p>Mr. Speaker, I rise on a point of order. I just want to say, as someone who has a wife who does have a disability and a mobility challenge, how disappointed I am to hear that we are not going to be able to talk about this bill today. This is a bill about helping people who really need help, people who can't &#x2026;</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>It's not a point of order.</p>
+        </speech>
+        <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350">
+          <from>MR. MACLEOD</from>
+          <p>You haven't heard it yet &#x2026;</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>I'm listening to it right now and it's not a point of order.</p>
+        </speech>
+        <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350">
+          <from>MR. MACLEOD</from>
+          <p>But you are ruling on it before I even finish.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Go ahead.</p>
+        </speech>
+        <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350">
+          <from>MR. MACLEOD</from>
+          <p>So to be clear then, Mr. Speaker, it's not a point of order to talk about persons who have disabilities who need the ability to have transportation in the Province of Nova Scotia, and that the government doesn't want this bill to pass.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>It's not a point of order. Thank you very much.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, for the record, we did not say we did not want this bill to pass. We have not seen the bill, the Third Party hasn't even asked about it, but before it was even read by the Clerk they had asked for unanimous consent. In no way would any Party, whether in government or whatever, agree to pass a bill sight unseen. I think if they were more willing to look at the bill and have it passed and ask about it - anyway, that's the position of government.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Progressive Conservative Party.</p>
+        </speech>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, the purpose in introducing the bill is to address a situation that becomes dire in Cape Breton Regional at midnight tonight. I attempted, in two sentences, to explain that on introduction so that the House would know why I was asking for unanimous consent.</p>
+<p>I am wondering if the House had enough information, when they said no, to make that decision.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Excuse me, I'm going to finish this if that's possible.</p>
+<p><b>Bill No. 148 - Entitled an Act to Amend Chapter 475 of the Revised Statutes of 1989. The Trade Union Act, to Protect Users of Accessible Transit Services. (Hon. Jamie Baillie)</b></p>
+<p><b>Bill No. 149 - Entitled an Act to Amend Chapter 376 of the Revised Statutes of 1989. The Public Service Act, to Establish the Office of Fire and Emergency Services. (Hon. Stephen McNeil)</b></p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Ordered that these bills be read a second time on a future day.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Dartmouth East.</p>
+        </speech>
+        <debateSection>
+          <num title="2249">RESOLUTION NO. 2249</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the White Ribbon Campaign is the world's largest initiative to educate and advocate for an end to violence against women, with over 55 countries participating; and</p>
+<p>Whereas in Canada, the White Ribbon Campaign begins on the International Day for the Eradication of Violence Against Women this weekend, on November 25<sup>th</sup>, and runs until Canada's National Day of Remembrance and Action on Violence Against Women on December 6<sup>th</sup>; and</p>
+<p>Whereas December 6<sup>th</sup> was chosen as the Day of Remembrance in Canada as it coincides with the annual anniversary of the 1989 massacre at Montreal's l'&#xC9;cole Polytechnique;</p>
+<p>Therefore be it resolved that members of the House of Assembly join me by wearing the white ribbon in support of this initiative and take the pledge which states: "I pledge never to commit, condone or remain silent about violence against women and girls."</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2250">RESOLUTION NO. 2250</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Wayne Weatherbee, of Sydney, was recently named Business Person of the Year by the Sydney and Area Chamber of Commerce; and</p>
+<p>Whereas Mr. Weatherbee received the Irving Schwartz Business Person of the Year Award for his leadership and vision in the course of his involvement with the business community; and</p>
+<p>Whereas Wayne Weatherbee has been president and owner of Sydney Memorial Chapel in Sydney for the past 37 years, as well as many other businesses in Sydney and surrounding areas;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Wayne Weatherbee on being named Business Person of the Year and for his many achievements over the years, and thank him for giving his time and energy to many community organizations.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2251">RESOLUTION NO. 2251</num>
+          <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dr. John Gaventa, who recently marked his first anniversary as director of the Coady International Institute in Antigonish, has a long history of work in international development; and</p>
+<p>Whereas prior to arriving in Antigonish, Dr. Gaventa was the chairman of the Board of Oxfam Great Britain from 2006-11; and</p>
+<p>Whereas in June 2012, Dr. John Gaventa was named as an Officer of the Order of the British Empire for his work with Oxfam Great Britain;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Dr. Gaventa on receiving such a high honour and thank him for his great work both with the Coady International Institute and abroad.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2252">RESOLUTION NO. 2252</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Minister of Finance recently attacked the member for Halifax Clayton Park in this House by belittling her qualifications in the field of finance; and</p>
+<p>Whereas the member for Halifax Clayton Park is deeply experienced in the field of finance, holding designation as a Certified Management Accountant and a Master of Business Administration and has long experience in the field of consultation; and</p>
+<p>Whereas highly qualified financial professionals such as the member for Halifax Clayton Park are an important part of our economy and should not be disparaged by the Minister of Finance;</p>
+<p>Therefore be it resolved that the Finance Minister apologize for her remarks in which she diminished the entire financial services profession and rethink her misguided attacks on the contributions of the many Nova Scotians who hold MBAs and CMAs.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2253">RESOLUTION NO. 2253</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Michael Kelly of East Bay recently broke a provincial shooting record; and</p>
+<p>Whereas Michael Kelly, a member of the Metro Rifle and Pistol Club, recorded the highest provincial score ever during the Practical Police Combat Shooting Provincial at the Nova Scotia Rifle Association in Halifax; and</p>
+<p>Whereas Michael Kelly was named the overall winner and top master class competitor with a 1404/1500 score;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Michael Kelly on his shooting competition success and wish him the best in the future.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2254">RESOLUTION NO. 2254</num>
+          <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Madam Speaker, on behalf of the Minister of Community Services, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Bob Steeves, a Glen Haven resident, was awarded a Diamond Jubilee Medal which was presented to him in Ontario by Honourable David Onley, Lieutenant Governor of Ontario; and</p>
+<p>Whereas the Queen's Diamond Jubilee Medal is presented on behalf of Her Majesty Queen Elizabeth II to honour citizens who have made contributions to their community, making it a better place to live; and</p>
+<p>Whereas Bob has spent many years volunteering for the Rotary Club and Scouts before he decided to add Easter Seals to the list, which he does for both Nova Scotia 11 years, and nationally nine years, Bob also works with kids and teens at Camp Tidnish which is owned by Easter Seals;</p>
+<p>Therefore be it resolved that this House of Assembly thank Bob for his volunteer commitments and community service and congratulate him on receiving the Diamond Jubilee Medal.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2255">RESOLUTION NO. 2255</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nova Scotians have been disappointed with the cuts to education, health and social services that have been made by this NDP Government since taking office; and</p>
+<p>Whereas the Minister of Finance has been in a position where she should have allowed her voice to be heard to express concerns over those cuts; and</p>
+<p>Whereas upon taking power, the Minister of Finance appears to have abandoned her principles and forged ahead with allowing cuts to education, health and social programs;</p>
+<p>Therefore be it resolved that the Minister of Finance should revisit the values she held while she was a social worker and begin to uphold those important principles by advocating against these NDP cuts.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable Minister of Education.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2256">RESOLUTION NO. 2256</num>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Wolfville Baptist Church has celebrated their 100<sup>th</sup> Anniversary of their church and nearly 250 years of faith and service from the congregation; and</p>
+<p>Whereas the Wolfville Baptist Church continues to serve their community via the Community Good Food Bank, addictions outreach, Alcoholics Anonymous and Overeaters Anonymous, as well as the less fortunate, through Open Arms and Inn From the Cold; and</p>
+<p>Whereas the Wolfville Baptist Church steadfastly promotes the virtues of inclusiveness, understanding and empathy;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize the contributions made by the Wolfville Baptist Church to not only their local community but to all those seeking a place of worship and those facing hardship.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2257">RESOLUTION NO. 2257</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in a desperate attempt to divert attention away from the NDP's actions in gutting social programs, they have been trying to manufacture a false scandal; and</p>
+<p>Whereas the NDP Government's poor performance and abysmal track record while in office have resulted in cuts to education and health and have put important social programs at risk; and</p>
+<p>Whereas the Minister of Finance once upheld important principles of compassion and social justice but abandoned those values once in Cabinet;</p>
+<p>Therefore be it resolved that the Minister of Finance realize the deep disappointment Nova Scotians have now, now that she has turned her back on the principles of compassion and social justice, now that she is in Cabinet, by standing silently by while education and health experience deep cuts and important social programs are put at risk.</p>
+<p>Madam Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2258">RESOLUTION NO. 2258</num>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Queen Elizabeth II celebrated ascension to the throne 60 years ago with her Diamond Jubilee; and</p>
+<p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was struck to commemorate this once-in-a-lifetime event; and</p>
+<p>Whereas Marsden Anthony of Kennetcook was honoured with a presentation of a Queen Elizabeth II Diamond Jubilee Medal for his dedication and commitment to helping his community;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate Marsden Anthony on his Queen Elizabeth II Diamond Jubilee Medal and acknowledge with gratitude his dedication and commitment to helping his community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2259">RESOLUTION NO. 2259</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in her previous career in social work, the current Minister of Finance upheld worthy principles of social justice and compassion; and</p>
+<p>Whereas after 15 years in her political career, she is now well placed to ensure that these principles are incorporated into the decision-making process in Cabinet, yet decision after decision that this NDP Government has made, including cuts to education, health and social programs, have betrayed those principles; and</p>
+<p>Whereas it is this NDP Government that has refused to launch a public inquiry into the allegations against the Nova Scotia Home for Colored Children, denying Nova Scotians justice;</p>
+<p>Therefore be it resolved that Nova Scotians expect more from this minister and are deeply disappointed that through slashing education, health and social programs, and by denying justice to Nova Scotians through this public inquiry, the Finance Minister has also failed to uphold the principles of social justice and compassion she once held, and urge her to return to these values.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2260">RESOLUTION NO. 2260</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas many Nova Scotians have worked hard to achieve their designation as Certified Management Accountants and in Masters of Business Administration and are making very valuable contributions to the economy of Nova Scotia; and</p>
+<p>Whereas the Minister of Finance, in a misguided attack on the member for Halifax Clayton Park, attacked the entire financial services and business sectors of the province; and</p>
+<p>Whereas highly-qualified financial professionals, both those newly entering the field and those with vast experience, such as the member for Halifax Clayton Park, are an important part of our economy;</p>
+<p>Therefore be it resolved that the Minister of Finance apologize for her remarks, in which she diminished the entire financial services profession, and rethink her blatant attempt at launching an attack on the contributions of many Nova Scotians, including the member for Halifax Clayton Park.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2261">RESOLUTION NO. 2261</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this NDP Government has disappointed Nova Scotians since taking office by cutting education and health and putting social programs at risk; and</p>
+<p>Whereas in a desperate attempt to divert attention from their dismal record while in office, the NDP has been frantically trying to create a false scandal where none exists; and</p>
+<p>Whereas Nova Scotians are disappointed with this NDP Government's frail line of attack from the government and are even more disappointed with how the Finance Minister has abandoned principles she once held dear while in the field of social work;</p>
+<p>Therefore be it resolved that the Finance Minister needs to return to the values of social justice and compassion that she once held in her previous career in social work, stand up to the drastic NDP cuts to education, health, and social services, and remind the Finance Minister that only by doing so can she begin to address the deep disappointment Nova Scotians have with her and her government.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2262">RESOLUTION NO. 2262</num>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b"><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I'll try to bring some civility back here. I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on September 8, 2012, the 50+ Symposium was held in Moser River Community Hall; and</p>
+<p>Whereas Amy Carver (MacDonald), coordinator of the event, had representation from 32 organizations at the symposium, with an additional 35 organizations sending information and prizes to the event, which had upward of 150 people in attendance; and</p>
+<p>Whereas the 50+ Symposium was successful in bringing vital information to the people along the Eastern Shore of Nova Scotia;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Amy Carver on a well-organized and informative event and thank her for her work and dedication to the people of the Eastern Shore.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2263">RESOLUTION NO. 2263</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Cassa Office Plus has been a full-service dealer for its community since 1984, offering office equipment, furniture, IT items, and office supplies, and supports the community by donating to various causes and organizations, including the Firefighters' Museum of Nova Scotia, Th'YARC, and NSCC; and</p>
+<p>Whereas on November 15, 2012, the Yarmouth and Area Chamber of Commerce held its annual business and awards banquet; and</p>
+<p>Whereas Craig LeBlanc of Cassa Office Plus was awarded the Customer Service Award;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Craig LeBlanc and the staff of Cassa Office Plus on receiving the Customer Service Award at the 2012 Yarmouth and Area Chamber of Commerce Business Awards Banquet and thank them for many years of superior customer service and for giving back to their community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2264">RESOLUTION NO. 2264</num>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Frank MacKay, a former Truro resident, is a well-known performer from his days as frontman of the popular band The Lincolns, and many contributions to the Canadian theatre community over the last 40-plus years; and</p>
+<p>Whereas Frank MacKay has recorded and released a new CD, <i>The Red Row</i>, which is a collection of songs written for a play he wrote about his years growing up on the Red Row in Stellarton; and</p>
+<p>Whereas Frank MacKay plans to reproduce his play, which debuted in 1992, now that he has the CD to offer his fans;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature congratulate Frank MacKay on the release of his CD, <i>The Red Row</i>, and thank him for his many contributions to the Nova Scotian and Canadian arts community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2265">RESOLUTION NO. 2265</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mark Jayne, operator of the Red and White store in Dayton, employs 25 people and carries fresh local produce, seafood, and meat products and has developed a loyal customer base for his family business, which has expanded into a popular greenhouse operation; and</p>
+<p>Whereas on November 15, 2012, the Yarmouth and Area Chamber of Commerce held its annual business awards banquet; and</p>
+<p>Whereas Mark Jayne was awarded the Business Marketing Award;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Mark Jayne of Dayton Red and White on receiving the Business Marketing Award at the 2012 Yarmouth and Area Chamber of Commerce business awards banquet and wish him every success for his community business.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cole Harbour-Eastern Passage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2266">RESOLUTION NO. 2266</num>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08"><from>MS. BECKY KENT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the community newspaper of Eastern Passage-Cow Bay, called The Beacon, has been in existence for 36 years; and</p>
+<p>Whereas this non-profit publication would not have existed without the continuous efforts of volunteers past and present: Dot White, Tom Harmes, Judy Bowlby, Neal Bowlby, Ed DeYoung, Elsie Johnston, Val Hawley, Marie Morash, Tony Osmond and Doug Walton; and</p>
+<p>Whereas the assembly of information, editing, bookkeeping, distribution and enhancing community awareness are all a huge part of maintaining this respected and appreciated paper;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate all volunteers for their collective efforts in preserving the success of the Eastern Passage-Cow Bay community newspaper The Beacon, and wish them many more years of success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2267">RESOLUTION NO. 2267</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas for more than 20 years the Association of Fundraising Professionals has been recognizing worthy individuals, groups and businesses who give of themselves through volunteering and fundraising for causes they believe in; and</p>
+<p>Whereas Samantha Miller is a 17-year-old student who has volunteered since the age of 7 at the IWK Health Centre, Alice Housing, and as a youth soccer coach; and</p>
+<p>Whereas Samantha was one of 10 deserving recipients presented with the commemorative plaque recognizing her as the outstanding youth in philanthropy at this year's awards;</p>
+<p>Therefore be it resolved that members of the House of Assembly congratulate Samantha Miller on her achievement and commend her on her commitment to volunteerism and fundraising.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Chebucto on an introduction.</p></speech>
+          <speech by="#c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e"><from>MR. HOWARD EPSTEIN</from><p>Mr. Speaker, thank you very much. I wanted to draw the attention of members of the House to the presence in the gallery opposite of a resident of my constituency, Mr. Andrew Thorne, who was accompanied just a moment ago by his father, Reverend Gary Thorne, formerly of St. George's Church and now of the University of King's College.</p>
+<p>Andrew has taken a long-time interest in politics, is a person who has an avid interest and has come to watch us at work today. I would ask if he would rise and if the members of the House would give him a warm welcome to our proceedings today. (Applause)</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this morning's proceedings.</p>
+<p>The honourable member for Lunenburg West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2268">RESOLUTION NO. 2268</num>
+          <speech by="#13283a7f-b97c-4254-a233-d0ccec196703"><from>MR. GARY RAMEY</from><p>Mr. Speaker, on behalf of the member for Queens, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the South Shore Regional School Board was formed in August 2004 and is responsible for providing education to the 59,000 residents of Lunenburg and Queens Counties in 26 schools and seven adult alternate-school programs; and</p>
+<p>Whereas in October of this year, the South Shore Regional School Board saw 22 people put their names forth in the municipal and school board elections; and</p>
+<p>Whereas the school board, which includes members from the constituency of Queens, aims to engage all students in quality, equitable education with a healthy, safe and respectful environment;</p>
+<p>Therefore be it resolved that this House of Assembly congratulates Jennifer Naugler and Elliott Payzant of the constituency of Queens on their election to the South Shore Regional School Board.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cumberland North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2269">RESOLUTION NO. 2269</num>
+          <speech by="#dca0e259-71bc-4398-a229-98d794836a3d"><from>MR. BRIAN SKABAR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas hard work, dedication and commitment to community service make a community strong;</p>
+<p>Whereas Millard Charman recognizes the benefits of community service and has chosen to lead by example through his work as a 50-year member of the Masonic Lodge, a 32<sup>nd</sup> degree member of the Scottish Rite, a 35-year member of the Shriners, a charter member of the Pugwash Lions Club, a charter member of the Royal Canadian Legion Branch 104, a member and supporter of the St. John's United Church in Wallace, a founding member of the Wallace Home and School Association, a founding member of the Northumberland Links Golf, and a founding member of the St. John's United Church Men's Club; and</p>
+<p>Whereas his dedication has resulted in a substantial donation being made to the Wallace Men's Club to enable the establishment of the Newcombe Boyle Science Park, which encompasses the national historic monument of Simon Newcombe and the new Willard Boyle monument;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in thanking Millard Charman for his years of dedication to his community, as his vitality and drive at the age of 96 are an inspiration to us all.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2270">RESOLUTION NO. 2270</num>
+          <speech by="#aefec392-99d6-4923-8d87-227e50d567e8"><from>HON. PAM BIRDSALL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's ascension to the throne as Queen of Canada and while also serving to honour significant contributions and achievements by Canadians; and</p>
+<p>Whereas the medal recipients are recognized for their service and dedication to our community and our country in their respective fields; and</p>
+<p>Whereas on October 27<sup>th</sup>, 2012 Mr. Gerald (Wayne) Rock of Middle Cornwall was presented with the Diamond Jubilee Medal;</p>
+<p>Therefore be it resolved that this House of Assembly recognize the contributions of Mr. Gerald (Wayne) Rock, of Middle Cornwall, to his community, his country and congratulate him on receiving this recognition.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Finance.</p></speech>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9">
+            <from>HON. MAUREEN MACDONALD</from>
+            <p>Mr. Speaker, I stand on a point of order. I just want to raise with you the mean-girl mentality of some members of the Liberal caucus who seem to think they can use this venue to promote misinformation with respect to the cuts in health. There have been no cuts in health care. This government is spending more than $100 million more on health care than we did when we came to power, so I just want to make sure the record reflects that, Mr. Speaker.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>It's not a point of order, it's a disagreement of facts between members.</p>
+<p>The honourable Official Opposition House Leader.</p></speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I believe this morning it was quite appropriate that the female members of our caucus stood up to defend the member for Halifax Clayton Park, whom the Minister of Finance accused in this House of not having the experience enough to be the Finance Critic for us, or to even one day be the Finance Minister for this province.</p>
+<p>Those comments are on the record by the Minister of Finance and one would hope, again, that she'd be willing to retract the accusations and the insults that she made against the member for Halifax Clayton Park.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>That was not a point of order, it's just a disagreement between facts.</p>
+<p>I'm going to look forward to points of order - from now on I may take the opportunity to ask members to see what rule was broken for their point of order. If they could point out the rule that was broken to me, I'll entertain the points of order.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, would you (Interruptions) The Liberal junior woodchucks are at it, Mr. Speaker.</p>
+<p>Mr. Speaker, could you please call the order of business, Public Bills for Second Reading.</p></speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Would you please call Bill No. 140, the Transgendered Persons Protection Act.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 140 - Transgendered Persons Protection Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Communities, Culture and Heritage.</p>
+          </speech>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>HON. LEONARD PREYRA</from><p>I move that Bill No. 140 be now read a second time, the Transgendered Persons Protection Act. M. Speaker, the bill we are speaking about today is about human dignity and equal rights for everyone. It's interesting, in light of the debate that just preceded this bill, that there are still discussions and debate about who belongs in the Legislature and who doesn't belong in the Legislature and we still haven't embraced the fundamental principles of dignity and opportunity and equal rights.</p>
+<p>In general, I want to say that we all assert for ourselves and assert for others the right to express and develop our own personalities, to live our lives the way we would like to, the way our skills and personalities allow us to, to really express the core of our being. If you look at the long march of history, Mr. Speaker, that's what political and democratic development has been about. The extension of those rights, the expansion of those rights have not just provided equality and equal dignity and opportunity and rights to the persons to whom these rights are being extended, but they make society better, they strengthen society, they bring to society those talents and those assets and those energies that previously have been denied. So it's not just about equality, it's about making ourselves a bigger society, a greater society, and to make us a better society down the road. (Applause)</p>
+<p>These amendments on the surface, really four small words, Mr. Speaker, say a great deal, they say a great deal to the communities that we are here to protect, particularly the most vulnerable and most marginalized community says that gender identity and gender expression, if there was any doubt before, are now a part, an inextricable part, of our Human Rights Code and add to the inalienable rights that all citizens have to express that personality.</p>
+<p>This protection then includes clear and specific words that say gender expression and gender identity are now protected. I know, Mr. Speaker, in the discussions and the consensus building that preceded this bill, people said, well, why do we have to do this? We know they're protected and we're not going to violate those rights. If we say "sex," it's included.</p>
+<p>It reminds me of the debates that went on in the 1920s when they were debating about whether women were persons. Looking back on it now, we would say there was such a ridiculous debate, but there was a debate. It went through the courts. Women were denied jobs and they were denied services. They were denied to be outside the home after certain hours, and people thought that was normal, and yet, at the same time, people said they did have the protections. It took a very important court case to make a simple declaration that women were persons.</p>
+<p>I remember when I was starting my university career and the Charter was subject to debate. People said, well, if you say "man," you say women and you say everyone else; you don't need to add to the definition of "man." Yet here we are today. Very few progressive people will not go to the trouble of acknowledging and including that women too are part of this wonderful world. More recently, the language around sex, well, "sex" includes sexual orientation - well, the Supreme Court had to make an important decision on that to say, well, sexual orientation can be read into it, but it's not in the Act.</p>
+<p>So this inclusion of gender identity and gender expression flows in that vein, that if there was ever any doubt about its inclusion, it's now clear that gender identity and gender expression are protected. I'm delighted that we are a government that is taking that step to make that protection and that provision explicit.</p>
+<p>I want to quote to you, Mr. Speaker, a letter that was written by the Ontario Human Rights Commissioner, Barbara Hall, on this issue, on this point of whether or not it should be included, and she said:</p>
+<p>"The lack of explicit inclusion in the legislation means that trans people's distinct experiences of discrimination remain unacknowledged &#x2026; Amending the Code would provide clarity and greater recognition of the dignity of transgender people, and would leave no doubt, in the eyes of the public or the law, that they are entitled to the same human rights protections as everyone else."</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>Mr. Speaker</from><p>That is what this legislation says, : that we are providing clarity and greater recognition to the dignity of transgender people. We want to leave no doubt in the minds of our Nova Scotian people, wherever they may be, in the eyes of the public, in the eyes of the law, that transgender people are entitled to the same human rights protection as everyone else.</p>
+<p>This is a subject that's very close to my heart. I have a number of friends, colleagues, and some family members who have struggled all their lives to be who they are, to express their personalities, to work, to study, to do various basic things that we take for granted. I'm surprised that here we are, so many years down the road on the road to democracy, that we are still struggling with that, and they still have to fight for the right to be who they are. So we understand the pain and fear that transgender people experience that comes from the violence and the discrimination and the targeting in their everyday lives.</p>
+<p>I want to take a few minutes here, Mr. Speaker, to thank some of the people who helped develop this legislation. As you know, anything we do these days requires a great deal of consensus building and bringing stakeholders into it. So I want to go through the list of people who were involved.</p>
+<p>Before I go too far into this list, I want to acknowledge the presence in the gallery of Laura Barbour. Laura Barbour has been seconded to my department, and we are very, very lucky to have her. One of her first assignments - I believe the first assignment she has had in my department - is to lead the discussions and debate around transgender rights. A great deal of the consensus building and a great deal of the background work on this legislation was shepherded and steered by Laura Barbour, and I want to give her a warm welcome. (Applause) The day the legislation was introduced, Mr. Speaker, I said to Laura, this is a wonderful accomplishment but there is a lot of work to be done and we should move on to the next item on our agenda. I look forward to working with her on other initiatives.</p>
+<p>As you know, Mr. Speaker, this is a Department of Justice bill and the Minister of Justice over the last two years has devoted a lot of his attention to meeting with members of the trans community, talking with them, in particular with Kevin Kindred and Nova Scotia RAP. We spent a great deal of time building this legislation, consulting with a wide variety of people, and I want to give credit to the Minister of Justice for devoting the energy and attention and for engaging his own department and the people in his circle for making this legislation happen.</p>
+<p>Mr. Speaker, David Shannon and his group and Ritchie Wheeler at the Nova Scotia Human Rights Commission. I recall the Minister of Justice saying we are consulting with the Human Rights Commission and we want to make sure that the Human Rights Commission understands and gives its advice. There was a great deal of work that was done by the Department of Justice in working with the Human Rights Commission. In the exchange with the Human Rights Commission we learned a great deal about how complex this issue has been and how difficult it has been in other provinces but the Human Rights Commission has been there all along and has expressed the willingness to do the hard work that it will take to breathe life into this legislation, both in terms of looking at cases that will come forward, but more importantly at this stage, of doing the public education that is required around this bill.</p>
+<p>David Shannon and Ritchie Wheeler at the Human Rights Commission, Kevin Kindred, a number of people at the Nova Scotia Rainbow Action Project, prideHealth - the Department of Health and Wellness, Mr. Speaker, is really quite a remarkable organization; prideHealth was one of the very first groups that came to this issue and said we need to talk a little bit more about it and the Rainbow Community, the Pride community, particularly in my constituency, has been delighted with the Department of Health and Wellness and how much work has been done by that department in promoting and extending support to the community. I want to give some credit to the former Minister of Health and Wellness for her own work in encouraging the initiatives that were taken by prideHealth at the time. (Applause)</p>
+<p>The youth project, Mr. Speaker, a group of young LGBTQI people have used their passion and their energies to develop their community, to promote the issues that they think are important and really they have done it very quietly in the background in a very constructive way and a very patient way, and it has been delightful to see how carefully and actively they have engaged in the process. This bill says to members of the youth project that they need to engage in the political process, that they need to get involved in the political process, and members of the Legislature are listening to what they have to say. DalOUT, another organization in my community, the university community in general has said we want to build a more inclusive society, we want to build a more representative and responsive society and we want to do it first by bringing in the most vulnerable and most marginalized in our community. (Applause)</p>
+<p>The AIDS Coalition of Nova Scotia, Hugo Dann in particular, around the time - Mr. Dann was involved in a lot of things but certainly I first encountered this issue under Hugo's leadership, and he has worked very quietly in the background and helped mobilize and build it. He was present at the creation of this coalition.</p>
+<p>A number of other groups have weighed in: the TransAction Society of Nova Scotia; Halifax Pride, Krista Snow in particular; Trans Family Nova Scotia. Trans Family Nova Scotia, Mr. Speaker, has really been a very heartening group for me to meet. Transgender persons face huge challenges within their families, as you know. The coming out process, making the transition, creates great stress. Trans Family Nova Scotia is a group of people who say we support our children; we support our brothers and sisters; we support our grandchildren. It is heartening to see so many of them out, so many engaging in this legislative process, in the marches on this issue, and signing of petitions to say we stand with our brothers and sisters on this issue.</p>
+<p>Mount Pride, Saint Mary's Q group, Outlaw, the LGBT Chamber of Commerce group, the Halifax Sexual Health Centre, the Valley Youth Project, X Pride - a number of groups. I could go through a long list of individuals and groups who have participated and communicated with us on this project.</p>
+<p>I want to take a few minutes, Mr. Speaker, to give a particular shout out to Denise Holliday. About four years ago Denise Holliday invited me to participate in a radio show that she did, called <i>Over the Rainbow</i>, at CKDU at Dalhousie. I must say I was pretty ignorant about the issues in that I didn't know as much about the issue as I should have known at the time, but Denise took the time to allow me on her radio show, to listen to what her listeners had to say about the issue. She really did, and has over the years, advocated for trans rights and was often a voice in the wilderness when it came to this issue. So in many ways this bill and this legislation belong to Denise Holliday and to people like Denise who have fought the long fight.</p>
+<p>I don't want for a minute to suggest, Mr. Speaker, that this fight is over. The march for transgender rights really belongs in the application of the law and whether or not the experience of transgender people actually changes as a result of this law, and the public education that will follow it.</p>
+<p>Constable Simmonds was in the gallery the other day and I forgot to acknowledge him.</p>
+<p>The Halifax Regional School Board, Selena Henderson; Constable Jo Beaton from the RCMP; Rosie Porter - I'm just going through a list of correspondence that I've had on this file, Mr. Speaker, just to give you a sense of how widespread the consultation has been, how widespread the support has been, and how much we owe to those people who have been involved in this struggle.</p>
+<p>I've mentioned David Shannon and Ritchie Wheeler at the Human Rights Commission; the deputy ministers in Justice and Communities, Culture and Heritage, Judith Ferguson and Laura Lee Langley; Marcel McKeough, the executive director in my department; Natasha Jackson, the new head of the Communities section in my department; Genevieve Harvey, who has done a lot of the legal work; Erin Nauss, Department of Justice; Tracey Barbrick, the Department of Health and Wellness; Kevin Barrett and Lisa Lachance from LGBTI Network; Lara Morris and Sharon Davis-Murdoch from Diversity Round Table; Joan Jessome of the NSGEU; Danny Cavanagh from CUPE Nova Scotia; Lisa Tobin, the sexual health coordinator at the Department of Health and Wellness; Kathleen Richard, the anti-bullying coordinator; Ross MacDonald from Planning and Development of Economic and Rural Development and Tourism; Sylvia Tremblay; Meghan Hallett; and the list goes on and on. I haven't even begun to go through the list of over 1,700 people who signed the petition that was presented in this House last week.</p>
+<p>Again, I want to thank the Nova Scotia Rainbow Action Project and the numbers of people involved in getting that petition together: Daniel MacRury, the Canadian Bar Association president; Tina Tucker, executive director of the Canadian Bar Association, Nova Scotia Branch; Amy Sakalauskas, from the Canadian Bar Association Equity Committee; and Darrel Pink from the Nova Scotia Bar Society.</p>
+<p>At the national level a number of people have been involved as well, but I want to give a particular credit to my friend and colleague in the Ontario Legislature, the member for Parkdale-High Park, Cheri DiNovo. Cheri DiNovo, as you may know, introduced similar legislation in the Ontario Legislature four times with four different governments; she introduced this legislation and three times it was defeated. Last summer I was delighted to see that this legislation passed. Cheri DiNovo took the time to talk to me about what kind of work, what kinds of challenges she faced in the past and why things failed and what issues needed to be addressed.</p>
+<p>I was very lucky to be able to talk to Cheri about what her experience had been because it helped us here. Cheri talked about her friend, Toby Dancer, who committed suicide and how much it moved her and members of her church congregation when it happened. I think we all, in our lives, have someone like Toby Dancer who inspires us and encourages us to pass progressive legislation. With that, Mr. Speaker, I just want to go on - but there are a great number of people, an extraordinary group of people who helped to make this legislation happen.</p>
+<p>I want to say I look around the Legislature and I see men and women, and I see people who are proud of their Irish and Scots heritage - I myself am the first Asian Canadian who has ever been elected to this House - I see African Nova Scotians and I see so many wonderful Catholics and Jews and Protestants, and it seems to me that we owe our presence in this House, we owe a particular debt of obligation to those people who fought for the right for us to be here. (Applause) So this legislation is in many ways a keeping of faith with those people. They fought for our right to be here, and we have a right and an obligation to fight for the rights of others who are now marginalized and vulnerable.</p>
+<p>The amendments we are looking at send a clear message that discrimination against people who are transgender is simply not acceptable within our culture. In the words of Dave Shannon, the director and CEO of the Nova Scotia Human Rights Commission:</p>
+<blockquote>While no person or group of people receive any more protection than any other under this Act, it is important to remember that each member of our society has an equal right to dignity, respect and opportunity. </blockquote>
+<p>In other words, these rights are not special. These rights are extending to transgender people the same rights that everyone else has - the equal right to dignity, respect and opportunity.</p>
+<p>Nova Scotia was one of the first jurisdictions to acknowledge this principle, this idea of creating a more representative and more responsive and more inclusive community. We were one of the first to fight for those rights. Some of us were on the Democracy 250 committee, which spent a great deal of time and energy trying to promote this idea of building a more representative and responsive society. I know, Mr. Speaker, you yourself are very supportive of that cause, and participated actively in that program.</p>
+<p>The Democracy 250 initiative was only in part about celebrating this great contribution that Nova Scotia has made to the march of democracy. The Democracy 250 initiative was just as much about moving forward and what kinds of extensions we were going to make to the democratic rights that our citizens should accept and should be entitled to. So 250 years ago - 253 years ago now - Nova Scotia was a leader in the extension of fundamental rights. Nova Scotia was a leader in recognizing the rights and dignities and opportunities of everyone involved, and this bill provides the leadership that we need today.</p>
+<p>I should say, Mr. Speaker - and I could be wrong - but this is the first amendment to the Human Rights Act across the country that has actually been introduced as a government bill and not as a Private Members' Bill. I am very proud of this government and proud of my colleagues in government for saying that this is going to be a government bill. (Applause)</p>
+<p>In 1969, the Nova Scotia Human Rights Act capped a turbulent decade for the civil rights movement here and around the world and sent a message of hope to everyone who was disadvantaged because of who they were as a person. This bill is a culmination - or not a culmination, but a step along that road of the march of the civil rights movement.</p>
+<p>Mr. Speaker, I'm always reminded of the words of Mahatma Gandhi in his long march for democracy in India where he said that a civilization is judged by how it treats its most vulnerable and marginalized people. As someone who has been involved in the human rights field for a number of decades now, I know that we sometimes forget that the protection of human rights is not about our freedoms of speech and expression, and not about protecting the rights of people who are like us. It's not about protecting the rights of people who think like us or act like us. We are really judged by how much energy and passion we devote to protecting the rights of people who are not like us. (Applause)</p>
+<p>When I say "not like us," Mr. Speaker, I'm talking about the way they express themselves or the ideas they have. It's not necessary that they agree with us for us to defend their rights. This legislation says they have the right to be who they are and we are willing to stand up and defend those rights, even if they are not like us - or express those rights, those personalities differently.</p>
+<p>I believe that the amendments we are proposing today are vital to recognizing the courage of transgender people and their supporters. Their courage in the face of potential abuse and mistreatment is incredible. It teaches all of us a valuable lesson about the strength of the human spirit in the face of great challenges, and reminds all of us who strive for a modern, progressive society why we can never give up on achieving that goal.</p>
+<p>Mr. Speaker, I want to take a few minutes to say something about Kate Shewan. Kate Shewan is a member of the board and treasurer of the Nova Scotia Rainbow Action Project who was in the Legislature earlier this week and who talked at the event, who told us about her experience and why she came out. Let me say a little bit about what she had to say at that event. Kate Shewan said:</p>
+<blockquote>In my particular case, after starting a new job, my application for life insurance and long-term disability coverage provided through my employer was declined, with the insurance companies specifically giving my gender transition as a reason for the refusal to provide coverage. This means, for example, if I was involved in an accident and was no longer able to work, my family would not have the protection and support that would have been in place had I not been transgender.</blockquote>
+<p>It is the simple things like that, Mr. Speaker, that make a big difference in the lives of transgender people. Kevin Kindred, who was also at the event and has been a great activist in promoting Nova Scotia Rainbow Action Project issues and providing leadership to that organization, said:</p>
+<blockquote>As a lawyer and an activist, I'm occasionally called to ask people who feel they have experienced discrimination. This has included stories like a trans man harassed by neighbours in his apartment building, afraid to raise the issue with his landlord because he feared being evicted if they knew the reason for the harassment; a regular customer at a retail store that refused to deal with her after she legally changed her name and insisted that she use her former male name in order to get service; a woman who faced harassment from co-workers who described she was trans and then blamed by supervisors for bringing it on herself.</blockquote>
+<p>These are examples of what the implications are of this legislation and I don't for a minute pretend that this legislation is going to be the answer to that problem. The answer to that problem lies in public education, in consciousness-raising, in modifying our own behaviour and looking in the mirror. I do want to say that it has taken a great deal of courage for Kate Shewan and people like Kate to come forward and to talk about their experiences. I want to thank her and Denise and others who have gone through that long struggle of bringing it to our attention.</p>
+<p>Other transgender people have told stories about being refused service at businesses unless they use their former name and gender, of being harassed in their apartments and workplaces. The Youth Project - young people told us about the bullying in school because they dressed differently or because they happen to be going through a transition, something as simple as getting the proper identification and getting travel documentation. We don't know where this bill will take us. We didn't know what would happen in 1926 when women were declared persons but we do know that this bill will take us on a road to much more progressive democracy that will help us build a better society.</p>
+<p>So these people who I have identified, and many of whom still don't want to be identified by revealing their true selves, know they run the risk of being discriminated against. It's wrong, Mr. Speaker, for a group of Nova Scotians to be discriminated against simply because of who they are. As Nova Scotians we must protect those who are vulnerable and not be afraid to stand up and say what's right. This bill sends a strong and clear message that no one who faces violence and discrimination is alone. We are all here to stand with them and take on the hard and necessary work of creating a better world for this generation and the many generations yet to come.</p>
+<p>Mr. Speaker, the Nova Scotia that I envision is a warm, caring and welcoming society that celebrates its diversity and vibrant culture. The Nova Scotia that I envision is one that will allow people to be who they are, to express their personalities, to take advantage of all the opportunities that might be available to them and that we will celebrate those differences, we will celebrate that diversity and we will include that diversity because we believe it will make us better and make us a better society. This bill will help us tear down those barriers.</p>
+<p>It's important for the transgender community to feel valued and accepted within that culture. Human dignity and human rights must be clearly protected for everyone. Mr. Speaker, I hope that all Nova Scotians share this vision of our province. The amendments will make it clear that Nova Scotia supports the transgender community and discrimination against transgender Nova Scotians is simply not acceptable. The amendments will allow the Nova Scotia Human Rights Commission to help educate all Nova Scotians about transgender rights.</p>
+<p>I do want to quote David Shannon, again on this, leading up to it and I quoted earlier saying:</p>
+<blockquote>While this legislation says no one person or group of people receive any more protection than any other under this Act it is important to remember that each member of our society has an equal right to dignity, respect and opportunity. </blockquote>
+<p>Mr. Shannon goes on to say: Our work at the Human Rights Commission does not stop with this bill. He talks about the importance of consciousness raising and public awareness. He says: We are charged with a duty of not only protecting the human rights of all Nova Scotians, but also with the responsibility of providing human rights education to all of our citizens to forward the principle that every person is free and equal in dignity and rights.</p>
+<p>We accept that, Mr. Speaker, that we all have a responsibility of providing human rights education, of educating ourselves, our citizens, our classmates, our colleagues, to forward the principle that each person is free and equal in dignity and rights.</p>
+<p>There are a number of other individuals who have written to us to make that point and we, on the government side - and I'm sure on the Opposition side - know that well, that we do all have an obligation to do that.</p>
+<p>Mr. Speaker, we all know that fear and discrimination come from a lack of knowledge, so I very much hope that these amendments will be the beginning of an improved public understanding about transgender Nova Scotians. I hope that someday soon, all across our province, transgender Nova Scotians will be able to be themselves and feel welcome in our communities. It's important that they know they are respected, that they are valued, that they are accepted, that they are loved, that they will feel comfortable with their families and their families will feel comfortable with them, making a full contribution to the society that accepts and appreciates them for who they are.</p>
+<p>It's my hope, Mr. Speaker, that these amendments send a strong and clear message that we are all here to stand with transgender Nova Scotians and take on the hard and necessary work of creating a better world for this generation and the many generations yet to come. Thank you. (Applause)</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Richmond.</p>
+          </speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, as the Justice Critic for the Liberal caucus, it's a pleasure to rise and speak on Bill No. 140, the Transgendered Persons Protection Act. First, I want to take the opportunity to commend the Minister of Communities, Culture and Heritage for his very passionate speech that he just provided. I don't think any of us doubt the commitment and support he has shown on this issue and other similar issues.</p>
+<p>I do have to say, Mr. Speaker, it would have been equally refreshing to hear those words coming from the Minister of Justice and Attorney General, who will be the person responsible for upholding these changes, implementing them and proclaiming them. I have to say that in my time here, while I've seen other ministers move legislation on behalf of a minister who was absent, I have to say, in confirming with our office, we did not receive any notice that the Minister of Justice would not be available today or that someone would be acting in his capacity, so I'm left to question why the Minister of Communities, Culture and Heritage would have been moving second reading of a Justice bill when the Minister of Justice, from what we understand, was readily available to do so.</p>
+<p>I'm sure we'll wait to hear such eloquent words from the Minister of Justice as well, as what we just heard from the Minister of Communities, Culture and Heritage.</p>
+<p>Let me say from the start, Mr. Speaker, that I'm very proud to be part of a caucus and part of a Party, both provincially and federally, that have been strong defenders and promoters of rights for all Canadians. The Liberal Party is known for that and I've had the opportunity in my time here in this House to support numerous pieces of legislation which have extended benefits to same-sex couples and a number of other initiatives which have been put in this province that we were proud to support.</p>
+<p>Let me say off the bat as well, in case there's any doubt, that our caucus will certainly be supporting this legislation. I found it interesting that during the discussion the Minister of Communities, Culture and Heritage indicated that prior to these changes, there were some who argued that these amendments were unnecessary because the Human Rights Act already quasi-covered this under the restrictions of any sort of discrimination based on sex. The Minister of Communities, Culture and Heritage said that he heard that for years. I agree with him, I heard that as well. Do you know who I heard it from? I heard it from the Minister of Justice and Attorney General of Nova Scotia who, for the last three and a half years, said these changes were unnecessary.</p>
+<p>I was curious to see whether the Minister of Communities, Culture and Heritage would acknowledge that it was his own minister who, for the last three and a half years, said these changes were not necessary.</p>
+<p>The question is, why did it take so long? Why is it that this government, when given the opportunity when this was presented to them, said no? I haven't heard a response to that yet because it actually took the Rainbow Action group to go and meet with the different caucuses, to meet with the government and to actually put together a petition to pressure this government into doing what was right - 1,700 individuals signed their names to a petition to try to convince this government to do the right thing.</p>
+<p>To their credit - I think we've said before that it's never too late to do the right thing, same thing here - it took three and a half years but finally the government has brought forward this amendment. Allow me to say, Mr. Speaker, I've certainly been critical of the government in the past of having legislation that did not have many clauses in it but this certainly is one that, while it may have only a few words, the importance of the words in question is something that we take very seriously and are pleased to see this move forward.</p>
+<p>Having gender identity and gender expression now included in the Human Rights Act removes any doubt that transgender people will now enjoy the same rights and privileges that we all enjoy and that they will not be subject to discrimination and harassment in areas such as employment, housing, education and more throughout communities in Nova Scotia.</p>
+<p>Mr. Speaker, I as well want to take the opportunity to commend the Nova Scotia Rainbow Action Project and all other organizations that have worked on this important file. Specifically I had the opportunity, as Justice Critic, to meet at the caucus office with Kevin Kindred, a close friend of our family; Rosie Porter; and Kate Shewan, as well. It was interesting because I noticed that the Minister of Communities, Culture and Heritage said that a Private Member's Bill had never been accepted for changes to the Human Rights Act. It was interesting because the question was asked to me (Interruptions) It's the first government bill, okay.</p>
+<p>The question that was put to me during that meeting was, would the Liberal caucus put this in as a Private Member's Bill? Do you know what my response was? I said if we put it in, you are guaranteed it will not get passed by this government because in three and a half years only two Private Member's Bills have been accepted. I had one on mandatory training for police officers on issues of mental illness. What was the second one? It was from the member for Victoria-The Lakes on protection of cemeteries from vandalism. What I told them that day was, I don't want to put in a bill on such an important issue just to have the government say no to you because it came from the Liberal Opposition.</p>
+<p>What I told them was to go and tell the government that the Liberal caucus fully supports this initiative and if the government is saying we don't want to bring it forward because we're concerned that the Opposition is going to hold this up or somehow the Opposition is not going to support it, let there be no doubt that we will be supporting it and that we will encourage them to bring it forward.</p>
+<p>Mr. Speaker, if there is any doubt in what I've just said, just look at the order paper and see the amount of Opposition bills that sit there and although we've gone for the last two weeks on numerous days of sitting for only two-and-a-half or three hours of six-hour days, not once has the government called any of that Opposition business. So if the government thinks that it's not legitimate for me when I told them I won't bring it in because it won't get called, look at the order paper and you need no further proof than that statement.</p>
+<p>Mr. Speaker, let me point out again, when this Minister of Justice brought in legislation on the legal name change, I stood in my place and I said this is going to have negative consequences on certain Nova Scotians - I stood in my place and I pointed out that transgender people who are going for legal name change under the Act brought forward by this government would need to have a criminal record check done.</p>
+<p>Now, Mr. Speaker, I stood in my place and I raised that as an issue. We went to the Law Amendments Committee and we had presentations by Kevin Kindred and by a number of other representatives of the transgender community. The government had an opportunity right there to bring an amendment in to ensure that this community would not get caught by the legislation. We said all along we understood what the Minister of Justice was trying to do, we don't want to have criminals changing their name legally to avoid the law but to suggest that someone who's going for a legal name change after a sex reassignment surgery should have to go through a criminal record check, I don't think any fair-minded Nova Scotian would think that's the case. Yet to this day I've yet to hear the government confirm that they will not be subject to criminal record checks based on the legislation brought forward.</p>
+<p>It would have been an easy amendment, but nothing is easy with this government. So we stood in our place and we defended that community when we saw legislation that could have a negative impact. So today we're moving forward and I'm certainly hoping that this is going to be the start of a discussion.</p>
+<p>While I commended the Minister of Communities, Culture and Heritage for his passionate speech, he knows that when he met with the community, with the Rainbow Action Project, and the Minister of Justice knows and the Minister of Health and Wellness knows, that they had another request from this government. One was amendments to the Human Rights Act and that's in front of the bill today, yet in almost, I would say close to an hour speech by the Minister of Communities, Culture and Heritage, not once did he utter the words of their other request, and I find that unfortunate because if we're going to have equality that he speaks of, then we have to have the responsibility of having a debate on some of the difficult issues facing our province and facing Nova Scotians.</p>
+<p>One of those issues is the funding of sex reassignment surgery for transgender people. It's time for us to have that debate, Mr. Speaker, because this community has been asking for it. I can say that we had it at one of our policy meetings when the young Liberals brought forward the issue, and it wasn't an easy debate but we had that debate, and I commend the young Liberals for bringing that issue forward. I find it quite unfortunate today that when the minister had the opportunity, with the glowing remarks he made, he left that issue out, because one goes with the other.</p>
+<p>We can't say we're doing equality, yet when it comes to the Department of Health and Wellness saying, sorry, your equality stops here. And to not even have the government mention it as an issue or to say we should have a debate on this matter is quite unfortunate because the government is well aware that this is a request that that community has made, and only the government - it can't be through a Private Member's Bill from the Opposition - only the government can make that change and the floor of the House of Assembly is one place where that debate should take place, where we can use actual real numbers and not allow the debate to be about opening up the floodgates and becoming completely unreasonable.</p>
+<p>So, Mr. Speaker, I'm proud to stand in my place and raise that issue, and I would hope that the government, and whether it be the Minister of Justice or the Minister of Health and Wellness, or anyone else on that side, is prepared to at least acknowledge that the request has been made to the government. It's a priority for the Rainbow Action Project; it is a priority for the transgender community; and it's something that Nova Scotia has to address because it's being done in other Canadian provinces and the thought that yesterday we had the Minister of Health and Wellness, or the day before I believe, on Wednesday, talking about the government paying for Nova Scotians who have to have surgeries outside the province - once again, no mention of this issue.</p>
+<p>This government has come a long way, I'll give them that, it took three and a half years to get these amendments done, it took a petition with 1,700 names and various meetings to finally convince them. It took the Minister of Communities, Culture and Heritage to move second reading of this bill rather than the Minister of Justice, but at least we're moving forward. So I'll say again, we fully support these changes but more work needs to be done, and hopefully this government has the courage and the leadership to address the issues that have been brought to them, rather than simply giving accolades on one side and shutting the door and not looking at other requests that have come from this community.</p>
+<p>I want to commend everyone who has played a role in this, I will not repeat the list that the Minister of Communities, Culture and Heritage has given, but the fact is, it's 2012, Nova Scotians are changing, this is a society that is adapting to change. What we need is a government that's willing to keep up with the change that's taking place. Merci.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the Progressive Conservative Party.</p>
+          </speech>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, thank you to both of the previous speakers on this bill. It's only on a few occasions and perhaps too rarely that we get to speak on a matter as fundamental as this in this House of Assembly, a matter as fundamental as equality rights, of human dignity, and the kind of province that we all aspire for Nova Scotia to be.</p>
+<p>Today is one of the times that members of all Parties have an opportunity to speak to the kind of Nova Scotia that we all want to build, the rights of all Nova Scotia citizens and how we go about protecting and ensuring those rights. I've heard the eloquent speeches of both the previous members and I just want to add a few words on behalf of my own Party to such an important topic.</p>
+<p>President Kennedy of the United States, whose murder we remembered in this House just two days ago by a resolution of the member for Timberlea-Prospect, once said that as long as the rights - I'm paraphrasing - of one citizen are denied, the rights of all citizens are diminished. I believe that to be very true. As long as there's one Nova Scotian who does not share in the equality, in equal rights, in the bounty and opportunity, in the freedoms of our province, then none of us is truly free and none of us is truly prosperous.</p>
+<p>To be able to speak on a bill that addresses the fundamental dignity of all human beings and their equality rights under the law is a privilege for me and a privilege that I know we don't get to talk about in this House enough. I see that all three Parties can point to their own history in this area with some pride. I just want to add our own sense of pride as Progressive Conservatives to our contribution to the Nova Scotia Human Rights Act, including the most recent - until today - amendments to the Human Rights Act.</p>
+<p>The last time there was a major revision of the Human Rights Act - which was actually under a Progressive Conservative Government in 1991, the Minister of Justice and Attorney General at the time, if I recall correctly, was the member for Halifax-Bedford Basin, Hon. Joel Matheson, a member of the Progressive Conservative Executive Council - government introduced a major revision including major additions to the Human Rights Act of Nova Scotia that I recall and am very proud of and I believe that all Progressive Conservatives are proud of the extension of human rights to whole new communities of Nova Scotians at that time.</p>
+<p>I will just share with the House that those additions to the Human Rights Act of 1991 included protections for Nova Scotians of Aboriginal origin, protection on the basis of age, family status, irrational fear of contracting a disease - which actually was the extension of protections to Nova Scotians who had HIV/AIDS - marital status, political affiliation, sex, pregnancy and sexual orientation. Those were all added to the Human Rights Act as protected communities in 1991.</p>
+<p>I do know, and am proud to say as today's Leader of the Progressive Conservative Party, that was a landmark piece of legislation at the time - one of the first in Canada to add sexual orientation to the Human Rights Act of our province. I don't know how many Nova Scotians realize that our province led the way in adding sexual orientation to our own Human Rights Act in Canada under the leadership of Premier Cameron and his Cabinet at the time, along with these other protected statuses and communities. Nova Scotia has come a long way, but has at times been a leader in ensuring equality rights for all of its citizens. Mr. Speaker, today the government adds to that list, and so that tradition continues.</p>
+<p>That's why I wanted to get up on behalf of the Progressive Conservative Party and take us through where we've been and where we're going and how all Parties have contributed to the strengthening of human dignity and of human rights for all. I'm sure that all members in this House agree that we want Nova Scotia to be a leader in this area, that we want to know, when we're in this House or even when we go to bed at night, that every single one of our fellow Nova Scotian citizens enjoys the full rights and privileges of this great province, that no one is denied those rights, and to make true what President Kennedy said all those years ago: if even one Nova Scotian goes to bed at night a lesser Nova Scotian than another, then none of our work in this Chamber is truly done.</p>
+<p>Mr. Speaker, I look forward to seeing this bill move on to the Law Amendments Committee, and having Nova Scotians come in and give their views as we go on with the business of moving the bill forward and the business of the House. With those few words, I want to thank you for the time.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cole Harbour-Eastern Passage.</p>
+          </speech>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08">
+            <from>MS. BECKY KENT</from>
+            <p>Mr. Speaker, I am pleased to rise in my place today to offer my 100 per cent support for Bill No. 140. I wrote my notes thinking, well, I want to make sure that I acknowledge the members opposite who speak. I was hedging my bets that there would be positive remarks and positive support for this, and I certainly want to spank (Interruptions) I want to thank my &#x2026;</p>
+          </speech>
+          <speech by="" as="##member" status="undefined">
+            <from>AN HON. MEMBER</from>
+            <p>As long as it's consensual. (Laughter)</p>
+          </speech>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08"><from>MS. KENT</from><p>Forgive me for that. I want to thank my colleague, the honourable Minister of Communities, Culture and Heritage, for his eloquent, very well-received, very knowledgeable, and very experienced remarks on this bill and this issue.</p>
+<p>Before I really get into the heart of what my notes would speak to, I have to say that I recognize that the process in our government is that we have a governing Party and we have an Opposition Party. The Opposition Parties are there to potentially be critical and such, but I want to raise a point with the member opposite who spoke from the Liberal Party, the honourable member for Richmond, who I know was the former Minister of Justice in his past. I guess I would ask &#x2026;</p></speech>
+          <speech by="" as="##member" status="undefined">
+            <from>AN HON. MEMBER</from>
+            <p>Minister of Environment.</p>
+          </speech>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08"><from>MS. KENT</from><p>Minister of Environment. Sorry. Never Justice. He certainly was Critic of the Justice Ministers. I guess I would ask, where was his support over the course of the years that he had other opportunities to move this along? Does he really think that this is an issue, a new phenomenon, the discrimination of our vulnerable sectors - does he really think that this is new and suddenly upon us today, that it didn't require support and advocacy and a fight in previous days? I can tell you, Mr. Speaker, that it isn't. I would suggest shame on that member for diminishing the importance of this bill that's before us now.</p>
+<p>I would say for the record - make no mistake, Mr. Speaker - that it is because there is an NDP Government that this bill is before us here today. (Applause)</p>
+<p>I, too, am going to speak to the importance of the bill. The bill is about advancing equality and respect for our transgender community of Nova Scotia. Transgender Nova Scotians' right to equality and fairness will be made clear through these amendments. It's not only important to uphold dignity and equal rights for everyone, but it is our responsibility to do that. I'm proud to be part of a government that listens and takes action for what is right for the people of Nova Scotia.</p>
+<p>Mr. Speaker, amendments to this bill propose adding terms of gender identity and gender expression to our Human Rights Act. This bill will help advance equality and respect for transgender Nova Scotians and include clear and specific protections. This legislation makes it clear that our government, their government, Nova Scotians' government, does not tolerate discrimination.</p>
+<p>As a government, as a people, as human beings, we must protect those who are vulnerable. That includes not being afraid to stand up and do what is right. Violence and discrimination, targeted at anyone, are wrong. The sad reality is that not all Nova Scotians enjoy the same rights and protections that you and I do. Saying that is not a proud moment for me. Some people in our society - and specifically, today, we are speaking of the transgender community - have faced and continue to face discrimination, threats, insults and violence, and they live with this every day. If they aren't experiencing it at any given time, they live in the fear of it.</p>
+<p>What is saddest to me, and wrong, is that there are people in our communities - friends and loved ones of all of us - who are not able to live their lives to the fullest potential. That's not okay with me, Mr. Speaker. It's simply wrong for a group of Nova Scotians to be discriminated against simply because of who they are. The days of judging people for their differences should be long gone. It's time for celebrating the diverse fabric of our Nova Scotian communities. It's disappointing and disheartening when I think of how narrow-minded and mean-spirited people can be about differences, yet when it is to their advantage, differences are well accepted and applauded and coveted.</p>
+<p>All people are different, Mr. Speaker. Take us for example - elected officials - why did we run for office? Because we felt our perspective, our experiences, our values, our personalities, were different from what they had before, because of who we are. In that context, difference is well-sought and celebrated.</p>
+<p>I campaigned as a confident, proud woman whose experiences have shaped me to be who I am. That's different from you, Mr. Speaker; that's different from the Minister of Transportation and Infrastructure Renewal; that's different from the members opposite, but those differences have been applauded and accepted. All Nova Scotians deserve that same sense of worth and value in their communities, without fear, without diminished rights.</p>
+<p>I get to wake up in the morning and get ready for work and look at myself in the mirror and say, for the most part, you look okay. I feel good about who I am, what I am going to do, knowing that my potential to achieve my goals is at my fingertips, without fear of persecution, without fear of violence or fear of ridicule because of who I am. That right should be for all Nova Scotians and that's what this bill is making another step towards.</p>
+<p>I'm confident, or maybe I'm hopeful, that our transgender friends and citizens wake up the same way as you and I do, happy with who they are, yet they must live in fear of rejection, discrimination and, worst of all, violence when they begin their day, Mr. Speaker, just for being themselves.</p>
+<p>Mr. Speaker, there are just so many things wrong with that. Every Nova Scotian deserves to live their life with dignity, in peace, have joy in their hearts, pursue their goals and dreams, love and be loved, contribute to society, and be protected. This legislation is another step to that end. Don't kid ourselves, we can't kid ourselves here, folks, this bill won't suddenly make the world instantly a better place for all, but it is a step in the right direction. This bill offers us an opportunity to educate about transgender rights and it empowers those who have been most affected by the lack of law. It gives people the strength to stand their ground because they can have confidence in the community that's around them and that their government is right there with them standing up for what is right.</p>
+<p>I think about a young lady in my constituency by the name of Brooklin Craig. She's 13 years old and she goes to Astral Drive Junior High. She found herself, over the course of her 13 years, struggling in her classroom around the celebrations associated to Mother's Day and Father's Day because in her house she has two moms. She took it upon herself to work tirelessly with her community, with her teachers, to bring about a change in her school that implemented a Family Diversity Week from May 7<sup>th</sup> to May 10<sup>th</sup> this year and it's a week-long initiative in their school that talks about the diverse fabric of our families and communities in Nova Scotia, celebrating the diversity, celebrating differences.</p>
+<p>Mr. Speaker, when I think about this bill, I think this bill is showing Brooklin that community advocacy, that fighting for what is right, fighting to educate people, can produce change, effective change, change that will help Nova Scotia be a better place. Again, I want to thank the Minister of Justice for bringing this bill forward. I want to thank the members opposite for supporting this bill. Again, I'm not surprised, I had confidence that they would. I want to thank my friends, Liz and Michelle Malette, for their efforts in our community and for their positive impact on my life and the development of my boys, my children. (Interruption) Always my boys, I love my boys.</p>
+<p>Most importantly though, Mr. Speaker, I want to thank the people of Nova Scotia who have fought the battle for this change - our transgender community - thanks for not giving up, for believing in themselves and believing in humanity. When you're faced with adversity over and over, when you're faced with a pummelling of rejection and a pummelling of negativity that can tear you down, it would be sometimes an easier choice to give up that fight.</p>
+<p>Unfortunately, there are people we have lost when they were made to feel like social outcasts and they could no longer tolerate living in an environment like that. I say shame on our society for allowing that to happen, but we forged on, they have forged on. As a government we forged on and this is a battle we're about to win. The war unfortunately on this, on people's rights, freedoms and protection, living without fear and persecution, those battles will continue to be there, but Bill No. 140 will give us more strength in law to get the job done, to create that world, as a member for the Progressive Conservatives talked about, you know, a better world, and we've all spoken out on dignity and equal rights for everyone.</p>
+<p>Mr. Speaker, this is an historic day for Nova Scotia and I'm proud to support it, I'm proud to be part of a government that has brought it forward now. (Interruption) Yes, I wish it had happened years ago but it didn't. We're here today and I ask that as a consequence of this bill and the passing of it as it moves forward that all Nova Scotians embrace the very essence of it in their communities. You know it's easy to write a law, but to live daily within the confines of that law and the element of it, which is changing the nature of why we would discriminate against anyone - anyone - and under any facet, we need a culture change on that. I hope that this is a bill that gives strength to communities to allow them to, again, fulfill their dreams, to enjoy the wonderful aspects of our Nova Scotia and know that they are protected, valued and loved for who they are. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Dartmouth East.</p>
+          </speech>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I just want to make a few brief comments on this. I'm sure the members on the other side will be happy that my voice is such that I can't talk very long anyway. (Applause) See I knew I would get applause for something. I think that it's important, this bill, and it's important what is being done. We will be judged in the future regardless of what side we are on in this House by how we treat those most in need in our communities, the most marginalized and so forth, and while we deal with a lot of very important day-to-day issues these are the kinds of things that can make a difference in people's lives.</p>
+<p>I do want to briefly address the comments of the member previous to me where she suggested why didn't the member for Richmond deal with this when he was minister and I think the answer is in the fact that he was minister for nine months, this is a government that's been here for three and a half years and is only just dealing with it. I might also add, and in fairness, Mr. Speaker, this is not a criticism, it's just really addressing why this issue is important - I did a quick look on Hansard, the first time that the word transgender was ever mentioned in this House by anybody of any Party was in 2006 and that was in a resolution congratulating the IWK and Capital Health for holding a discussion on it. It wasn't again mentioned as far as that word in this House until this bill was introduced, so nobody from any Party has actually&#x2026;</p></speech>
+          <speech by="" as="##member" status="undefined">
+            <from>AN HON. MEMBER</from>
+            <p>2008.</p>
+          </speech>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. YOUNGER</from><p>The member opposite says that it was also mentioned in 2008, he may very well be right. I did a search of the word, but either way that still points to the fact that yes, in 1999 it probably should have been added at that time, but it isn't something that - you know people have begun to talk about this more and more and I think that is critical and I think that is important. It isn't something that really anybody was bringing to the political forefront and I think we've seen a change over the past 20 years in terms of how this is discussed and the fact that now people feel able to discuss it, and it's a shame. It is a shame that people have felt that they have to be behind closed doors, it is a shame that people still feel that they need to be behind closed doors and they are still subject to, in many cases, harassment and discrimination. I think we recognize that that is a reality in our society and it's a shameful reality in that respect.</p>
+<p>I think today that regardless of the fact of whether the government has previously stated that it wasn't necessary or it was, we're here today with the bill, we're here today even if this is just about recognition that it's important and recognition by people on all sides of the House from all different walks of life, I think this is a signal that we recognize as a collective that this is a real problem, it is a concern to us and it is a concern to people who are members of this community, and something which needs to be addressed. Mr. Speaker, I am pleased to support this bill because I think that this does make a statement on behalf of everybody in this Legislature as it moves forward that everybody in our society has value and that we do not discriminate and we should not discriminate regardless of gender, transgender, sexual orientation, colour, creed, and even political Party.</p>
+<p>Mr. Speaker, I think we'll all be happy to see this move forward through the process, and I would be surprised if we see any objection to including this as part of our statement of beliefs as a province and as a Legislature in terms of saying that we don't discriminate against anybody and we should not discriminate against anybody. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Truro-Bible Hill.</p>
+          </speech>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Mr. Speaker, it gives me great honour, actually, to rise in my place today to speak to Bill No. 140, the Transgendered Persons Protection Act.</p>
+<p>I think this is a very progressive piece of legislation, and I'm proud to be part of a government that would bring this forward. This is a bill about equality, acceptance, and inclusion of all people, which are the core values, I would say, of the New Democratic Party; in fact, we are the only Party that has sexual orientation included in our mandate and I am very proud of that fact. In fact, that is one of the things that helped make me decide to become a New Democrat. So the fact that we actually have this in our preamble to our DNP values is very, very important.</p>
+<p>I believe that this bill proves that this Party actually remained very true to our core values and that we are acting on our feet, as government, passing bills, passing legislation, that speak to our core values and to the members of our Party who have waited and fought so long for bills such as this to come on the floor of this House. In fact, I have to say to my honoured colleague, the member for Richmond that this bill would have come much earlier than three years if the NDP had been in power before three years - perhaps that's something he has overlooked.</p>
+<p>Now, Mr. Speaker, I have to also say that as a former actor myself, I've been lucky and blessed to have many, many friends in the LGBT community. As a young woman starting my acting career just down the street at the Neptune Theatre, at the age of 16, my introduction to the world of theatre was very, very interesting because there were many people who were gay, there were many transgendered people, so at a very early age I actually got to be friends with and to experience first-hand their lives and their problems and their challenges of what it was like to live in this world as a transgendered or gay or bi person. It made me a very open person and very accepting of all types of people.</p>
+<p>It was actually one of my very first friends - he was a very well-known Canadian female impersonator named Craig Russell - who first brought me down to Hollywood. So by the time I was 20 years old I went to Hollywood and it was at the invitation of Craig Russell, who was the star of a movie called <i>Outrageous</i>. He was an incredible performer, he played Judy Garland, he played Mae West, he played Tallulah Bankhead - the only one he wouldn't play, Mr. Speaker, was Marilyn Monroe. He wouldn't play Marilyn Monroe after he met me because he said I was the only one to play Marilyn Monroe and he wouldn't touch her after he met me.</p>
+<p>Anyway, Craig Russell introduced me to Hollywood, he brought me down there, invited me to his apartment. I stayed with him for a number of months and I actually got to see Los Angeles, a view that many people don't get to see. So I didn't get to see all the flashy glitter - I saw that, but I got to see the actual underbelly of the city and the people who make up the grit of that city and the nightclubs and the nightlife and all of the dancers and performers. This was the 1980s - in fact, it was 1980 when I first went to Hollywood, and I feel blessed and honoured to have met so many incredible people who showed me their lives.</p>
+<p>One thing about Craig Russell that's a very interesting fact too is that he oftentimes would say, you try having 16 women trapped inside a man's body. It's hard enough to have one woman trapped inside a man's body, but imagine having 16. Many times I would go to see him in his shows and he would get standing ovations; he would have people throwing roses on the floor of the theatre for him. One night I went backstage and he had just done an amazing performance. I knocked on his dressing room door and he said come in, and I could hear sobbing. I went in, and he was sitting in his dressing room and there were flowers all around and all these incredible well wishes, and he was crying his eyes out. I said, what's wrong? They love you. He said, no, no, they don't love me, they love her. They love her. They don't love me.</p>
+<p>He felt that he could not really be who he truly was and be accepted in society. Even as it was, he felt that he was accepted as an oddity, as a freak show, and that when he actually dressed up as a man, people would make fun of him.</p>
+<p>It was really a turning point in my young life to see somebody so successful and so well loved who deep down had this true self-hatred and a fear and a shame. It was really sad to behold. I will never forget that to this day. I'm just glad that I was able to give my friend the love and the respect and the kindness and the caring that he deserved and to be able to tell him - from a woman to 16 women in a man's body - how much I appreciated him and how much he was loved. (Applause) Thank you.</p>
+<p>I think there's a movie, too, the one James Cameron did, the one with the people all in blue - what's that one called? (Interruptions) Avatar. Where they have a speak - where they say, "I see you." I think that the true need of every human being is for each one of us to say to another, I see you. I see you. I see who you are. It means I see who you are, I respect who you are, I accept who you are, and I love you for being you. I think this is so important in our society today.</p>
+<p>In Truro-Bible Hill we have a church - we have many churches, but we have a United church that I oftentimes go to called St. Andrew's Church. It has become an affirming church. We have an openly gay minister. He married a Black man and they are well accepted and they are very much respected in our community. They turned that church into an affirming church, which means not only are gays, lesbians, bisexual, transgendered, all people accepted, but they are actually affirmed as well and welcomed into that church. I think that is so important.</p>
+<p>It's very interesting because Jay Ettinger, the minister, has been receiving calls from other United churches across Canada saying, what is your secret? Your congregation is growing when so many other churches' congregations are getting smaller. I would have to say that's probably one of the reasons, and that's definitely one of the reasons why I go to that church - to support their efforts in this fight for equality and for affirmation of all.</p>
+<p>Mr. Speaker, I also would like to mention the fact that in Truro-Bible Hill recently we had the municipal elections. It was wonderful to see that for the first time ever we had an openly gay woman, who is married to a female firefighter, and they have two wonderful daughters, and she was running for mayor of Truro. This is in a town where, of course, we had had what they call "the gay-flag flap" awhile back where it was discussed and where the mayor and the town council decided they did not want to raise the gay flag on Gay Pride Day.</p>
+<p>Actually that made international news, Mr. Speaker, and it put Truro in a very difficult light because we actually got the reputation of being not open to gays and transgender people. In fact, the very opposite is true because our gay community is growing and, in fact, in this last election, although the woman, Keltie Jones, did not win the election - many people thought she wouldn't have a chance in Truro - she actually only lost the mayorship by 195 votes - 195 votes, that's all.</p>
+<p>So for the first time ever, an openly gay woman running for the mayor of Truro, I think that sends a very strong message that Truro is indeed very welcoming for gays, lesbians and transgendered and bi people. I'm very proud of that fact.</p>
+<p>Mr. Speaker, another thing I would like to bring up along with this bill is that one of the very first duties I did as a new MLA was as a notary public. I was asked to do a name change for a woman who was born a man. She came to me in great distress because she was in the middle of transitioning and she could not find anybody, until that point, who would support her bid to get a name change, to try to do everything that they could to try to help her in her efforts to be able to express herself outwardly as she felt inwardly. She had had great trouble actually getting this name change and getting someone to do it for her. So I was also at the same time being asked to do a name change for a young woman in the community and I felt, well, what's the difference between doing a name change for a young woman from a woman's name to another woman's name to somebody who had a male name but called herself by a woman's name, dressed as a woman, felt as a woman, and wanted to be named as a woman? Again, it actually took me quite a while to go through all the proper channels to finally get her the help that she needed and I was able to give her her name change, and I'm so proud. It's one of the highlights. (Applause) Thank you, I appreciate that.</p>
+<p>I know that some people may say, well, what's in a name? But to some people it's very, very important, the name that they are called, and if this helps them to identify and to express their true selves, then it's very, very important.</p>
+<p>I would also like to say, Mr. Speaker, that oftentimes when you hear in the news about people who have been really cruel to violent against people who are different from them, people who are either gay or transgendered, people who are actually really bullying these people, really focusing on these people, sometimes it has happened in the army as well. I know there was one case in the United States where there was a young man who just bullied and bullied and bullied another young man who was gay, in the army, and finally killed him. Sometimes what I say, a phrase goes through my mind when I hear about these kinds of things, it's from Shakespeare and it's from the play <i>Hamlet</i>, and in fact, Hamlet says it about Gertrude, his mother, when he thinks that Gertrude, his mother, had a hand in killing his father, and the phrase is, the lady doth protest too much, methinks.</p>
+<p>I use that, Mr. Speaker, when I hear of people picking on others because I think perhaps the reason why they are so fixated on that particular person and that particular issue is because perhaps deep down they also feel somewhat similar and are afraid to express themselves. So methinks the lady doth protest too much sometimes is what is happening deep down under the surface and it's a shame that they feel so much shame about themselves that they can't come out and more openly show who they truly are as some people who are brave and take to the streets and are themselves and get attacked for it. (Interruption) Yes, and ridiculed.</p>
+<p>I have to say I saw a movie recently, Mr. Speaker, that has a very good example of this. It was actually <i>J. Edgar</i>, about J. Edgar Hoover. Anybody who has seen that movie might recall a scene - Leonardo DiCaprio, of course, plays Hoover, and his mother, the wonderful Judi Dench, one of my favourite actresses of all time - she says at one point, you know, my dear, we used to have a young uncle of yours, and we called him Daffy. He said, yes, I remember him. He was a great uncle. She said, yes, well, you know why we called him "Daffy"? Because we caught him one time trying on his sister's skirts and dresses, so we said, oh, he's like a daffodil. We used to make him stand in the corner and wear a hoop skirt, and we called him Daffy from that day on. She said, I would rather have a dead son than a Daffy son.</p>
+<p>Mr. Speaker, I thought that spoke realms about the awful abuse that people are faced with, who are transgendered or trying to be transgendered - people who are trying to be themselves but are not accepted in our society or by their families.</p>
+<p>I look forward to the day when all people are accepted for themselves, where they receive the respect and the kindness and the compassion that I believe this Party embodies, which is that we open our arms to all and we will stand up for the rights of all. For that reason, I am proud to be here to speak to Bill No. 140, and to all of my friends who have had a lot to do with this - Hugo Dann, I really appreciate his work. He worked very closely with the Minister of Justice on this bill. I want to thank the Minister of Justice for introducing this bill, and also the Minister of Communities, Culture and Heritage for his incredible, impassioned speech today in the House. With that, Mr. Speaker, I'll take my seat.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
+          </speech>
+          <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I too wish to rise today in support of Bill No. 140 and to speak a little bit about it. I want to tell the House a story about a man I met earlier this summer. His name is Terry Smith. Terry lives in Ontario now, but he's from Antigonish, Nova Scotia.</p>
+<p>Terry came to see me in July of this year at my office in Antigonish, after Toby's Bill had been passed in Ontario. That's what the law in Ontario is called. It's Toby's Law, and it's given that name because, as my colleague for Halifax Citadel-Sable Island said, the person who killed himself was named Toby. The law came forward after that - in June 2012, actually, so it was in June of this year that Toby's Law came forward.</p>
+<p>Terry Smith came to see me in Antigonish in July - a very courageous man, really, because he told me his life story. He came asking me to come forward and support the legislation that was being talked about being brought forward at that time. Terry said to me, you know, we were classmates. I said I didn't remember him, and when did he graduate? He said, well, he graduated with me in 1970, but his name wasn't Terry Smith at that time. He graduated as a woman. He told me his life story, and he has actually asked me to make sure that if I have an opportunity, to bring it forward and to tell his story to as many people as I could.</p>
+<p>He grew up in Antigonish, born in 1947. Before he went to school, he lived on the family farm at home with his many brothers and sisters. His parents were obviously quite progressive at the time because they allowed him to basically live his life. He felt he was a boy, and until he went to school he acted as a boy and he lived his life as a boy. Of course when he went to school, he was treated as a girl, and he grew up in that environment - really not comfortable, unhappy, really miserable, so much so that when he was at university at St. F.X., he was suicidal. He was quite despondent. Luckily enough, in 1969, a clinic opened in Ontario that he was able to access, and he was able to go forward and do his transgendering and live his adult life from that time on as a male.</p>
+<p>He went to university in Toronto, got his B.Ed. and taught all of his working life in Ontario as a man. He married and he and his wife have been together for 39 years and they have a 23-year-old son. He lived his entire adult life in fear - fear of blackmail, fear of being exposed, fear of coming forward and being found out, basically. To this day, even when he comes home to Antigonish and to his family he tells me that some of his family are very open and have accepted him but yet there are some of his immediate family who cannot accept him and who actually still continue to reject him.</p>
+<p>I just wanted to be able to give that kind of story to the House to bring forward, to put a name and a face on a situation that shows that this bill is an important bill and how we should be supporting it. I'm glad to hear from my colleagues across the House that they too are in favour of bringing this bill forward and hopefully it will pass unanimously.</p>
+<p>We had in the House, when the bill was introduced last week, another family from Antigonish, Peter and Janet MacDonald came and they were in the gallery and they were introduced, actually. They had with them their daughter Cloe who is actually transitioning to a man. He is in that process now, I think he might be 20 years old but going through a situation obviously that's quite stressful and of that sort. But the wonderful thing about it is that he was in this House with his parents supporting him to say that they support this bill.</p>
+<p>I guess I don't want to go on much more about this but I just wanted to indicate this is a very real situation for people and us being able to collectively - the government, all sides of the House - support this I think is a wonderful signal to these families and to these people and I too am looking forward to it going forward to the Law Amendments Committee and to see what other public input there might be for it. With those few words, Mr. Speaker, I'll take my seat. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Justice.</p></speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Thank you, Mr. Speaker, and I'm not going to be long but I have a few things I wish to say. I wish to thank those who spoke here, in particular the Leader of the Progressive Conservative Party for his kind and respectful words. I also want to acknowledge my colleagues for the very insightful, emotional and passionate presentation that they made on a subject and on a piece of legislation that we felt strongly as a caucus, as a Party and a governing Party.</p>
+<p>I also want to acknowledge that I personally - one of my goals in running and getting in the position that I have, is that I made a number of promises and commitments to people within the gay community, and in fact one particular person in my community who had reassignment surgery at their own personal cost and told their story and I made a promise that I would do everything I could to help with the journey of making change in our society to ensure being inclusive, being valued and respected. (Applause)</p>
+<p>I am both honoured and humbled to have the opportunity to be a part of this legislation, to be a part of a government that is so caring and loving and wanting to be inclusive that we are able to move this forward and I thank the House, and I assume from the comments in general that this will pass with a very unanimous position.</p>
+<p>As I move to the closing of debate of the second reading of Bill No. 140, I thank all and I'm very honoured to be a part of the process.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 140. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR THIRD READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call Bill No. 102.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 102 - Education Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Education.</p>
+          </speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Mr. Speaker, I move that Bill No. 102 be read a third time.</p>
+<p>I am pleased to rise to speak to this bill called an Act to Amend Chapter 1 of the Acts of 1995-96, the Education Act. We know that bullying in all of its forms is a heartbreaking and complex problem with no easy answers. Students have told me that experiencing bullying makes them feel vulnerable and alone. The legislative amendments in Bill No. 102, along with those we've previously introduced, provide a strong foundation for developing the province's action plan.</p>
+<p>We are taking a measured, comprehensive approach to dealing with this very complex problem. We are developing a provincial action plan to address this serious issue and promote safe, positive learning environments in our schools. As we move forward, our focus will be on providing supports for youth to make positive choices in any situation and help them understand the impact of their behaviour on others as they navigate this ever- changing world.</p>
+<p>Mr. Speaker, during the Committee on Law Amendments some changes to Bill No. 102 were suggested. We considered these proposals and believe that further examination of these issues should continue in consultation with partners and in the context of the broader response to bullying and cyberbullying and therefore, we will not be adopting any of the proposed changes at this time. However, I would like to comment on some of the suggestions and explain why we are not adopting them in Bill No. 102.</p>
+<p>Several suggestions were offered regarding different definitions for terms related to bullying and cyberbullying. Government has committed to adopting the definitions of bullying and cyberbullying proposed by the task force. The task force definitions were developed based on research, evaluation, and jurisdictional and legislative review. Amendments made to the Education Act last Spring provided authority for these terms in regulation, and that work is underway. Additional definitions are not necessary as we are not adopting the provisions using those terms.</p>
+<p>There was also a suggestion that the definition of "severely disruptive behaviour" be expanded to include acts of violence, threats, abuse, harassment, and assault. It was the position of the presenter at the Committee on Law Amendments that they are much different than the concept of bullying and should be, and could be, subject to criminal procedures. Disruptive and severely disruptive are the broad categories used in the Code of Conduct and the Education Act regulations to define inappropriate student behaviours and a progressive range of appropriate consequences.</p>
+<p>Severely disruptive behaviour is behaviour that significantly disrupts the learning environment of the school, endangers the well-being of others, or damages school property. Bullying and cyberbullying are included within the category of severely disruptive behaviour as is vandalism, racial and/or discriminatory misconduct, sexual harassment and/or assault, sexual misconduct, sexual abuse, physical abuse, and illegal activity.</p>
+<p>All severely disruptive behaviours are reported to the principal regardless of whether they are criminal in nature or not. The range of consequences and actions as described in the code of conduct, to be implemented as a result of these behaviours, vary depending on the behaviour and the circumstances.</p>
+<p>Madam Speaker, Bill No. 102 clarifies the principal's duty to investigate and respond to reports of severely disruptive behaviour. This response will be consistent with a list of possible interventions that are clearly defined in the provincial code of conduct and used in schools across the province, and a principal has discretion in the response to individual behaviours. If a behaviour is criminal in nature or requires reporting to an outside agency, school administrators would contact appropriate authorities.</p>
+<p>This bill also provides clear parameters for the principal's duty to notify parents or guardians. This notification will take place for the parents of all students involved in an incident of severely disruptive behaviour if the principal believes the well-being of a student has been endangered.</p>
+<p>Madam Speaker, it was suggested at the Law Amendments Committee that Bill No. 102 include a provision requiring principals to notify authorities when the severely disruptive behaviour consists of acts such as threats, abuse, violence, assault and harassment. There are existing legislative provisions related to this already. Although there isn't a statutory requirement for school staff to report student behaviour to law enforcement authorities, principals are aware that there may be circumstances in which they should and would alert appropriate authorities.</p>
+<p>Madam Speaker, the requirement for principals to respond to incidents of severely disruptive behaviour, outlined in Bill No. 102, is not meant to be limiting, meaning that this is not the only response required from a principal. The provision we've introduced creates a positive duty on a principal to notify parents but does not limit any other action that could be taken as outlined in the School Code of Conduct Guidelines.</p>
+<p>Madam Speaker, some of the proposed revisions at the Law Amendments Committee referred to the role of school boards in responding to bullying and cyberbullying. The Education Act clearly establishes the requirement for school boards to fully implement all provincial policies and also contains provisions which define accountability for school boards. Therefore, a further definition of the role of school boards is not necessary in Bill No. 102.</p>
+<p>There was also a suggestion made that school boards should notify Internet or cellular telephone service providers to inform them if an account has been used inappropriately. Madam Speaker, this proposal has significant implications and goes well beyond the scope of the Education Act. It would mean that school boards would be required to obtain Internet service provider details from students who may not even be the account holder for their communications device and, as you know, in this ever-changing world, some homes do not have landlines but only communicate through cellphones, could be a parent's phone. This would also place a burden of proof on school boards and force them to become involved with issues usually handled outside a school level. It is simply not appropriate.</p>
+<p>As well, in the Spring, Service Nova Scotia and Municipal Relations made amendments to the Consumer Protection Act to require cellphone providers to provide each customer - at no cost to the customer - educational materials about responsible cellular telephone use, including cyberbullying, when the contract is made. This was part of the recommendations that were brought forward from the task force and I need to say at this point that the cellphone service providers have been nothing but co-operative and proactive with this Consumer Protection Act.</p>
+<p>Madam Speaker, several of the suggestions put forward through the Law Amendments Committee called for cyberbullying to be defined as a criminal offence. There is currently no basis for a crime of cyberbullying. These suggestions would represent a significant change in legislation and practice. Amendments to the Education Act are not an appropriate mechanism for this kind of change and I would like to add that the Minister of Justice is in discussion with his counterparts in all areas of our country and with the federal government. This is a huge issue and being undertaken with the leadership of our Minister of Justice.</p>
+<p>Madam Speaker, further criminalization of youth is not the answer. To make real change we need appropriate supports for both those involved in severely disruptive behaviours and for those who are victims, and also for the folks who see bullying and are witness to it.</p>
+<p>Madam Speaker, Erin Donovan, the parent of a Grade 7 student at Bayview Community School, has told me that empowering students to take charge of the serious issues of bullying and cyberbullying has a much broader impact than leaving it only in the hands of adults. She is pleased to see the province involving students directly in anti-bullying work because she knows that if youth feel they can positively lead change in their school community, this will pave the way to healthier adult communities.</p>
+<p>Madam Speaker, I noticed on the news last night that one of our Nova Scotia schools is working on anti-bullying initiatives within their school. They had a march around the school yesterday and it was in the hands of the children moving that forward, under the leadership and guidance of their teachers. So I commend all schools that are working on anti-bullying initiatives.</p>
+<p>Madam Speaker, this is the impact we are working to achieve. This is what Bill No. 102 and the provincial action plan is all about. This bill clarifies, updates, and defines the roles of all school staff in reporting incidents of severely disruptive behaviour and the role of principals in dealing with it. Bill No. 102 recognizes that all school staff are working together to promote a safe and positive learning environment by consistently reporting and responding to incidents of severely disruptive behaviour, such as bullying and cyberbullying. The provisions in the Act that require reporting of all schools' support staff and response by the principals are subject to proclamation.</p>
+<p>Madam Speaker, the Department of Education is working on a communications and training plan. We're going to be sharing this plan with school boards and unions to ensure those involved are aware of those changes. At this time I'd like to say that Kathleen Richard, our anti-bullying coordinator, has been working on this piece as we speak and things are moving forward in an extremely positive manner.</p>
+<p>The proclamation of Bill No. 102 will happen in the new year, after the appropriate training has been made available. Bill No. 102 ensures that all staff working in schools have a very clear understanding of their responsibilities when dealing with bullying and cyberbullying. This legislation is just one piece of the ongoing work that this province is doing to combat bullying and cyberbullying.</p>
+<p>Madam Speaker, Kids and Learning First, the province's plan to help every child succeed, commits to fight against cyberbullying and bullying, and that is exactly what we are doing. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Colchester North.</p>
+          </speech>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Madam Speaker, I'm pleased to rise today and speak to Bill No. 102. Bill No. 102 is intended to make a difference in the lives of kids in our public schools and it falls miserably short of that intent.</p>
+<p>Madam Speaker, one of the things this government did that they should be commended on is pulling together a task force to look at bullying and cyberbullying in our schools. That task force met for nine months. They collected a number of experts to come around the table and every one of those participants came to that table expecting that their expertise would be considered and could be used to make things better for our young people, whether it is in school or whether it is outside of school.</p>
+<p>They worked for nine months, Madam Speaker; they presented their report to the minister. That report contained 85 recommendations and then the responsibility fell into the hands of the government, or the Department of Education to be specific. The reaction and the response from the government is what is extremely disappointing - it is disappointing. You know if the members of the government don't want to consider recommendations from the Opposition, then so be it, but the recommendations that were presented to the Law Amendments Committee came from some very influential people who had been part of that task force - the chair, Wayne MacKay, a member of the task force who was with law enforcement, and the parent of a young girl who took her life, sadly. Their message in the Spring was, and their message continues to be, that the legislation that is being proposed and presented by this government is weak, lacks teeth, and will make no difference in the safety of the kids in our schools.</p>
+<p>I was surprised to hear the member for Truro-Bible Hill say that people in that community were thrilled with this legislation. Now, I have a pretty good relationship with the teachers and the principals in the schools in Truro-Bible Hill, so I took it upon myself to find out how many of them were thrilled with this legislation. Madam Speaker, I didn't find any. All of those people are saying that this legislation will make no difference in addressing the problem of cyberbullying and bullying in our schools. They are pleading, and have been pleading, with the government to do something concrete.</p>
+<p>When you have an opportunity that this government was presented with, and when you start off with a positive approach where you ask for and you seek the advice of experts - we're not experts in this House, but we need to hear what the experts have to say. We need to be mindful of that. If you're not going to pay any attention to it, then don't ask for it. What happens is that people come to those task forces, they believe they can make a difference, and so they give up their time. In this case it was nine months of their time.</p>
+<p>Again, Bill No. 102 is another piece of legislation that lacks teeth. It will not make a difference. Those who are involved with our kids every day are saying it will not make a difference. At the Law Amendments Committee this time, we had amendments that were put forth by this caucus and we had amendments that were put forth by the Third Party caucus, and they were designed to strengthen the legislation.</p>
+<p>A comment was made this morning about the role of the Opposition. Well, Madam Speaker, the role of the Opposition is to make suggestions, put forth amendments, and work with the government to try to strengthen any piece of legislation that is brought forward. The only role that Opposition Parties have with this government is to do it through the Law Amendments Committee. There is no consultation with the critics from these Opposition Parties. There is no input required, asked, or sought, so we resort to the process that takes place in this House, which is to put forth ideas which we believe will strengthen legislation at the Law Amendments Committee.</p>
+<p>In the Spring, on Bill No. 30, those were turned down. This Fall, on Bill No. 102, those were turned down. The calls from members of the task force to strengthen it were turned down. Somewhere, Madam Speaker, someone believes that they don't need to hear from the experts; they don't need to hear from the Opposition; they don't need to hear from the parents whose kids are caught in a social web and can't get out.</p>
+<p>If there is ever an opportunity that this government had and has squandered, it's on cyberbullying. There is nothing, there was nothing in the Spring, and there is nothing now in this legislation that will make a difference. I am basing my comments, and the comments on behalf of the Liberal caucus, on what we've been told and what we have heard. For that reason, Madam Speaker, we put forth amendments which we believed would strengthen it, and for that reason we cannot support this bill. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Cape Breton North.</p>
+          </speech>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>It's a pleasure to rise today and speak to Bill No. 102 on third reading. Madam Speaker, we thought it was good to see that the government was bringing forth a bill to deal with bullying society in our school system, but when we saw the contents of the bill, it contained four clauses - four amendments to the Education Act - and all it did was a requirement for reporting: reporting from the staff to the principal and the principal to report it to the parents.</p>
+<p>We thought this would be something where finally the government could put some teeth in the legislation to deal with bullying and cyberbullying, but what we have seen is that this bill does not go far enough, fast enough. As I said, it requires the school staff to report bullying and to put together statistics on bullying, but nowhere does it deal with the consequences of bullying.</p>
+<p>We proposed three bills in the Spring to deal with bullying, two of them proposed consequences for bullies and, quite frankly, we thought they were decent bills, so we brought those amendments forward to the Committee on Law Amendments and the Liberals also brought forward some amendments to the Committee on Law Amendments, but none of these amendments were accepted. Even Wayne MacKay said about these bills that he was disappointed in the bill that the government did not take a more forceful or quick action to deal with bullying or cyberbullying.</p>
+<p>People of Nova Scotia, the victims, the families, are waiting for the government to do this. The longer we wait, the more incidents we are seeing, and the more problems that can occur with our children in our school system.</p>
+<p>We gave amendments that would deal with bullying and make it an offence, not necessarily a criminal offence; we had some restorative justice offences in there as well. We introduced these amendments and they were defeated. We wanted to say that our two bills would do something, would put some teeth into their bill. This is the one time that we would love the government to take our bills. We heard them talk about consultation with the partners involved, and back in the Spring we offered to sit down with the government and hammer out something that we could put into place that would deal with this bullying and cyberbullying situation.</p>
+<p>That was rejected as well. Quite frankly I'm disappointed to hear that they are hearing thrilling comments through the member for Truro-Bible Hill. I'm not hearing those comments. Every day I walk through my constituency or I go out in society in my constituency, I'm hearing they are glad that we are trying to do something to put cyberbullying and bullying into law so that the consequences are done and then people can get on with the healing.</p>
+<p>Our amendments would have provided swift and forceful action against bullying and cyberbullying, our students deserve this, our families deserve this and so does our society. With that I'll take my place in saying that we are disappointed that this has not been addressed and that some of the amendments weren't accepted, and I'll just say we're disappointed in this bill coming forward. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Education.</p></speech>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a">
+            <from>HON. RAMONA JENNEX</from>
+            <p>Madam Speaker, with that I close debate on third reading of Bill No. 102. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for third reading of Bill No. 102. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Madam Speaker, would you please call Bill No. 107.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 107 - Debt Collection and Management Reform (2012) Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
+          </speech>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f">
+            <from>HON. JOHN MACDONELL</from>
+            <p>Madam Speaker, I move third reading of Bill No. 107.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for third reading of Bill No. 107. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Madam Speaker, would you please call Bill No. 119.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 119 - Cosmetology Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Labour and Advanced Education.</p>
+          </speech>
+          <speech by="#5da6e0aa-9066-4b5c-8d26-9222b854db7e">
+            <from>HON. MARILYN MORE</from>
+            <p>I move third reading of Bill No. 119, the Cosmetology Act.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Richmond.</p>
+          </speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Madam Speaker, very briefly, on behalf of our caucus, we want to commend the minister for bringing forward this legislation and, certainly, everyone who has been involved in bringing this together. In my time in this House we've seen many professional organizations come forward and ask us to bring in legislation to help govern their association, and the cosmetologists are no different.</p>
+<p>Again, I thank them for involving us in the discussions and certainly hope that this legislation is truly going to be able to assist them in their governance and professionalization of their industry. Merci.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for third reading of Bill No. 119. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Madam Speaker, would you please call Bill No. 127.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 127 - Art Gallery of Nova Scotia Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Minister of Communities, Culture and Heritage.</p>
+          </speech>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>HON. LEONARD PREYRA</from><p>Madam Speaker, it is a pleasure to move third reading of Bill No. 127, the Art Gallery of Nova Scotia Act.</p>
+<p>I have read what the members opposite have had to say and certainly on behalf of the gallery, I want to thank them for the kind words and very helpful suggestions. It is indeed a vote of confidence in the art gallery itself and members of the board, and I want to thank them.</p>
+<p>With that, I move third reading of Bill No. 127.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for third reading of Bill No. 127. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today and for the week. I move that the House do now rise, to meet from the hours of 7:00 p.m. until 10:00 p.m. on Monday. Following the daily routine, we will be doing Public Bills for Second Reading, Bill Nos. 144 and 147 - I've got the cheeks of a woodchuck, Madam Speaker; Committee of the Whole House on Bills, Bill Nos. 111, 131, 133; and, if time permits, Address in Reply to the Speech from the Throne.</p>
+<p>Madam Speaker, I move that the House do now rise.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise, to meet again Monday, November 26<sup>th</sup>, between the hours of 7:00 p.m. and 10:00 p.m.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>The House rose at 11:49 a.m.</p>
+          </narrative>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="2271">RESOLUTION NO. 2271</num>
+          <speech by="72906878-3b4e-496f-adc4-15b4975f3aa7"><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Queens County Fair draws 5,000 people annually to their Fall festivities in Caledonia, Queens County; and</p>
+<p>Whereas in September 2012, 46 pair of oxen were entered at the exhibition, with organizers having to turn away 14 other pair because there was no room; and</p>
+<p>Whereas despite the popularity of the fair, the exhibition is facing infrastructure difficulties such as rotting windows and less than suitable washroom facilities for fair patrons;</p>
+<p>Therefore be it resolved that all members of this House of Assembly encourage the Service Nova Scotia and Municipal Relations Minister to allow funding in the new budget year under the accessibility grant program for new and updated washroom facilities at the Queens County Fair.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2272">RESOLUTION NO. 2272</num>
+          <speech by="72906878-3b4e-496f-adc4-15b4975f3aa7"><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the grandchildren driving the car of their grandmother, 93-year-old Ruth Daniels of Windsor Forks, received quite a shock recently when the passenger air bag let go in the front seat while they were driving; and</p>
+<p>Whereas Mrs. Daniels reported the approximately $700 in damage to General Motors but was politely told they could not assist her and, to make matters worse, her own insurance company told her she was not covered; and</p>
+<p>Whereas Mrs. Daniels, who has been driving for more than 70 years, had her son Phillip contact Global Television News so she could express her concerns, and within two days of the report airing, General Motors was on the phone offering a cheque for repairs plus a car to drive while repairs were being made;</p>
+<p>Therefore be it resolved that members of this House of Assembly acknowledge the spirit of one Ruth Daniels and her son Phillip in wanting to ensure the mishap faced by Ruth was explained properly, in hopes that General Motors would also realize they had questions to answer from a loyal customer.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

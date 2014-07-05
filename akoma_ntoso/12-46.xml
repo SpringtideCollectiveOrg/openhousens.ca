@@ -1,0 +1,878 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="Mr. Leo Glavine"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="Hon Jamie Baillie"/>
+        <TLCPerson id="d6c0c78d-dcf3-456a-915c-a20ecb33050f" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="c7f2d366-8ba0-4263-98e0-bdaa9336415f" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="fb58b45c-b6ac-4b76-9d1f-045155b8493f" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
+        <TLCPerson id="ce90163b-7a3b-4884-b7d9-b5ca06af4cc3" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. WHYNOTT"/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
+        <TLCPerson id="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="22119b83-0505-4c62-95ff-e8c0e378764c" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
+        <TLCPerson id="d36a0432-7994-4030-ab00-b21fc858e7d2" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="8dbda583-1553-4164-a616-3008fb0fdac4" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="4f242ac5-fc82-41a3-8089-419e69284e5e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
+        <TLCPerson id="b723d7ff-ed62-4b67-ae5f-83b903707923" href="/ontology/person/ca-ns.vicki.conrad" showAs="Vicki Conrad"/>
+        <TLCPerson id="dca0e259-71bc-4398-a229-98d794836a3d" href="/ontology/person/ca-ns.brian.skabar" showAs="MR. BRIAN SKABAR"/>
+        <TLCPerson id="c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="b67194ee-eead-4e8d-9cdb-2d1935c5be52" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="2591a7eb-9f23-4c5f-a211-14ceada27f08" href="/ontology/person/ca-ns.becky.kent" showAs="MS. BECKY KENT"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 9 November 2012</docTitle>
+      <docNumber>12-46</docNumber>
+      <docDate date="2012-11-09">Friday, November 9, 2012</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="4">4th Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Kings West.</p>
+        </speech>
+        <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition, the operative clause:</p>
+<blockquote>"&#x2026; your petitioners call upon the Nova Scotia House of Assembly to use its powers over the Board of Commissioners of Public Utilities, the &#x2026; (UARB) to deny any General Rate Application presented by NSPI requesting a rate increase in 2013, 2014 and 2015."</blockquote>
+<p>I have affixed my signature to the petition.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Agriculture.</p>
+        </speech>
+        <debateSection>
+          <num title="1908">RESOLUTION NO. 1908</num>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the 4-H program is the largest youth organization in the world that encourages leadership development, care and responsibility for our resources, and builds positive life skills to secure the future of rural communities; and</p>
+<p>Whereas for the last 90 years the Nova Scotia 4-H program has helped thousands of our provincial youth develop positive life skills and reach their full potential through learning by doing; and</p>
+<p>Whereas during the month of November, 4-H members, volunteer leaders, and supporters across Canada celebrate the many opportunities for skill development and personal growth that the 4-H program offers young people;</p>
+<p>Therefore be it resolved that the members of this House congratulate all Nova Scotia 4-H members and leaders on their accomplishments during National 4-H Month.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1909">RESOLUTION NO. 1909</num>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas One Book Nova Scotia is a province-wide reading campaign for adults, launched this year, with a goal to get everyone reading the same book and sharing the same story; and</p>
+<p>Whereas this year the book chosen was <i>Twenty-Six</i>, by Leo McKay, Jr., about the humanity and community spirit of a small town dealing with the aftermath of a mine disaster; and</p>
+<p>Whereas for the past six weeks libraries across the province have been hosting author and book club readings, promoting a shared reading experience, and creating opportunities for social interaction and community development;</p>
+<p>Therefore be it resolved that members of the Nova Scotia Legislature join me in saluting the One Book Nova Scotia initiative that encourages a love of reading, community building, and lifelong learning.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 126 - Entitled an Act to Establish a Code of Ethics for Members of the House of Assembly. (Hon. Stephen McNeil)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that this bill be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <debateSection>
+          <num title="1910">RESOLUTION NO. 1910</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this Sunday Nova Scotians across our province will pause and gather at the 11<sup>th</sup> hour to honour and remember our veterans and all men and women who served our country during war, armed conflict, and peace; and</p>
+<p>Whereas in the Great War, World War II, the Korean War, Canadian peacekeeping efforts, and the war in Afghanistan, Canada has suffered the loss of over 118,000 of our finest men and women, who served our country valiantly and paid the ultimate sacrifice; and</p>
+<p>Whereas during times when we take for granted our Canadian values and institutions, we must pause to remember those who serve our country in different lands, as they did and continue to do, who believe their actions in the present will make a significant difference for the future;</p>
+<p>Therefore be it resolved that all members of the House pause and pay tribute to those brave men and women who have served and continue to serve our country, and acknowledge our responsibility as legislators to work for the peace that they fought for and continue to fight to achieve.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1911">RESOLUTION NO. 1911</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas each year on November 11<sup>th</sup> we take time to commemorate the sacrifices and courage of the men and women who have fought for our freedoms; and</p>
+<p>Whereas Remembrance Day serves as a memorial for those lives lost and also to show our enduring gratitude to those who continue to serve our great country; and</p>
+<p>Whereas it is important that we let our veterans and members of the Canadian Armed Forces know that we will never forget all they have done for future generations;</p>
+<p>Therefore be it resolved that all members of this House be inspired by the dedication and bravery of the men and women who have served in our Armed Forces, and promise to pass on those lessons learned to future generations so all Nova Scotians will know what they have done for all of us.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1912">RESOLUTION NO. 1912</num>
+          <speech by="#ce90163b-7a3b-4884-b7d9-b5ca06af4cc3"><from>MR. GARY BURRILL</from><p>Mr. Speaker, the resolution which follows contains a request for a moment of silence at its conclusion. I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas thousands of Nova Scotia men and women fought bravely overseas in order that democracy might not be overtaken; and</p>
+<p>Whereas members of the Canadian Armed Forces continue to serve across the world in ways that are closely identified internationally with our country's proud peacekeeping tradition; and</p>
+<p>Whereas every November 11<sup>th</sup> the people of Nova Scotia mark Remembrance Day at cenotaph memorial observances in communities across our province;</p>
+<p>Therefore be it resolved that the members of this Legislature, in concert with this profound tradition of our people, observe now a moment of silence in honour of veterans and in memory of the fallen.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>A moment of silence was observed.</p>
+          </narrative>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the Official Opposition.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <num title="1913">RESOLUTION NO. 1913</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on one ugly, horrific night 74 years ago today, 267 synagogues were destroyed, over 7,500 stores were ransacked, 35,000 Jewish men were sent to concentration camps, and 91 were killed on the spot; and</p>
+<p>Whereas Kristallnacht, or the Night of Broken Glass, quickly showed the world that the Nazi regime of anti-Semitism was not just rhetoric but a calculated campaign of terror; and</p>
+<p>Where last evening the Holocaust Education Week Committee of the Atlantic Jewish Council held a Dignity Day ceremony to respect and celebrate diversity through the collective commemoration of Kristallnacht;</p>
+<p>Therefore be it resolved that all members of this House of Assembly be ever mindful of the history of Kristallnacht and the need to be vigilant in our promotion of tolerance and the protection of human rights for minorities.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1914">RESOLUTION NO. 1914</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas tonight marks 74 years since the horrific events of what has become known as Kristallnacht or "the night of broken glass"; and</p>
+<p>Whereas coordinated attacks were carried out against Jews across Nazi Germany and parts of Austria, where more than 90 Jews were killed and a further 30,000 were arrested and sent to concentration camps; and</p>
+<p>Whereas this day is a chilling example of where hatred and intolerance can lead when left unchecked;</p>
+<p>Therefore be it resolved that all members of this House reflect on the tragic events of Kristallnacht and remember that we must do everything we can to protect our freedoms and eradicate prejudice and intolerance wherever it exists.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1915">RESOLUTION NO. 1915</num>
+          <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Park Bench Players are a group of amateur actors whose show, <i>With a Little Help from My Friends</i>, portrays their experience living with mental illness; and</p>
+<p>Whereas since first performing the show in November 2011, the troupe has put on their show for audiences across the province to much acclaim; and</p>
+<p>Whereas in September, having fundraised more than $10,000 so that the entire cast could attend, the Park Bench Players received the 2012 Psychosocial Rehabilitation Canada Recovery Award for Excellence in Vancouver;</p>
+<p>Therefore be it resolved that the members of the House congratulate the Park Bench Players on their Psychosocial Rehabilitation Canada Recovery Award for Excellence and wish them all the best as they continue to share their stories with audiences.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1916">RESOLUTION NO. 1916</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Andre Brison opened a new business, Velo Max Cycling, in Cheticamp; and</p>
+<p>Whereas Velo Max Cycling is a small business that offers bicycle sales, repairs and sporting gear as well as bike tours around the Cabot Trail; and</p>
+<p>Whereas the Town of Cheticamp is proud of the new and unique business in their community as it encourages healthy living and an active lifestyle;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Andre on the opening of Velo Max Cycling and wish him success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cole Harbour-Eastern Passage</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1917">RESOLUTION NO. 1917</num>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08"><from>MS. BECKY KENT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 22 volunteer professional arborists from the Atlantic Chapter of the International Society of Arboriculture donated over $10,500 worth of in-kind labour to clean up McNabs Island this past June; and</p>
+<p>Whereas the Friends of McNabs Island Society publicly thanked all the volunteers, both private and commercial arborists, led by Stan Kochanoff of Falmouth, as well as members of the Friends of McNabs; and</p>
+<p>Whereas Eastern Passage small businesses A&amp;M Sea Charter and Taylor Made Tours, as well as Clean Nova Scotia, Schooner Industrial, Murphy's Cable Wharf, Nova Scotia Department of Natural Resources also helped to make the cleanup a great success;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate the McNabs Island Invaders for this spectacular job of pruning trees, tackling residual cleanup still left over from Hurricane Juan, and removing 450 bags of garbage and recycling from the island shoreline, and thank them all for their ongoing stewardship of our Halifax Harbour island jewel.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1918">RESOLUTION NO. 1918</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Jamey Jewells from Donkin finished in sixth place in women's wheelchair basketball at the 2012 Paralympic Games in London; and</p>
+<p>Whereas Jamey is the daughter of Edward and Norita Jewells and is an inspiration to all, who has overcome many obstacles in her young life; and</p>
+<p>Whereas Jamey Jewells received a hero's welcome from her community when she returned home from the 2012 Paralympic Games;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Jamey Jewells on her Olympic performance, and wish her well in whatever it is she intends to do in her future career.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Pictou East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1919">RESOLUTION NO. 1919</num>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f"><from>MR. CLARRIE MACKINNON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Sandy MacIntosh of Westville has operated businesses in the town since 1974, employing residents and providing vehicle service to thousands of people; and</p>
+<p>Whereas in 1975, Sandy MacIntosh began volunteering with the Westville Fire Department and retired as chief after 30 years; and</p>
+<p>Whereas throughout his life Sandy has been active in the community through his volunteerism on many events, clubs, and committees, and is a past president of the Westville Rotary Club;</p>
+<p>Therefore be it resolved that all members of the Nova Scotia House of Assembly recognize and congratulate Sandy MacIntosh for his many contributions to his community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1920">RESOLUTION NO. 1920</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this summer a new skateboard park was opened in North Sydney and named the Lawrence Mansfield Memorial Skate Park as a tribute to Lawrence Mansfield, who recently passed away after a courageous battle with cancer; and</p>
+<p>Whereas the park was a vision Lawrence had for many years, and he put together a small but energetic group that raised over $125,000 to make it a reality; and</p>
+<p>Whereas New Line Skateparks was contracted to build the new park, based on designs from local skateboard enthusiasts;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank all those who worked so hard to make Lawrence Mansfield's dream a reality.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Timberlea-Prospect.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1921">RESOLUTION NO. 1921</num>
+          <speech by="#8dbda583-1553-4164-a616-3008fb0fdac4"><from>HON. WILLIAM ESTABROOKS</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers throughout Nova Scotia provide valuable service for our communities; and</p>
+<p>Whereas Timberlea volunteer Ken Hubley daily demonstrates leadership to make our community a better place to live and raise our families; and</p>
+<p>Whereas Mr. Hubley is a non-stop, positive influence for residents of all ages;</p>
+<p>Therefore be it resolved that the members of the Nova Scotia Legislature congratulate and thank Ken Hubley for his example of volunteerism in the Timberlea community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1922">RESOLUTION NO. 1922</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas after providing strong and steady leadership to Dalhousie University since 1995, Tom Traves is stepping down as president of the Maritime's largest university; and</p>
+<p>Whereas accomplished academic, internationally sought financial advisor and business consultant Richard Florizone will take over the reins of Dalhousie University next year; and</p>
+<p>Whereas Dr. Florizone brings a wealth of experience to the role, having served as Vice-President of Finance and Resources at the University of Saskatchewan and is a senior advisor to the International Finance Corporation in Washington, D.C.;</p>
+<p>Therefore be it resolved that all members of this Legislature thank Tom Traves for his leadership at Dalhousie University, and wish incoming President Richard Florizone well as he takes on this new challenge.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cumberland North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1923">RESOLUTION NO. 1923</num>
+          <speech by="#dca0e259-71bc-4398-a229-98d794836a3d"><from>MR. BRIAN SKABAR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas dance encourages participation and is an enjoyable pursuit, while at the same time enriches the lives of those who take part; and</p>
+<p>Whereas the Atlantic Dance Academy in Amherst, Nova Scotia, provides Cumberland County residents with the opportunity to pursue their passion and enjoyment of dance by participating and presenting performances for the public; and</p>
+<p>Whereas the Atlantic Dance Academy cultivates a passion for dancing in various categories, including intensive ballet, character dance, modern and hip hop and several of their dancers have been accepted by the Royal Winnipeg Ballet School as well as the National Ballet of Canada;</p>
+<p>Therefore be it resolved that this House of Assembly join me in encouraging and congratulating the Atlantic Dance Academy in Amherst for its contribution to the cultural education and enjoyment of Cumberland County residents.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1924">RESOLUTION NO. 1924</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on October 6<sup>th</sup>, numerous pins, medals and awards were presented to members of the Royal Canadian Legion Branch 53 in Baddeck; and</p>
+<p>Whereas 140 service pins ranging from 5 years to 65 years were presented along with 18 medals and bars for service in the Legion's various offices; and</p>
+<p>Whereas special presentations were made to Roderick MacRae for 60 years of membership, and D.J. MacDonald for 65 years of membership to the Royal Canadian Legion;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize the contributions of Branch 53 of the Royal Canadian Legion and thank both Roddie and DJ for their many years of service.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1925">RESOLUTION NO. 1925</num>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas eight Nova Scotians, including Middle Sackville's Savannah Newton, will travel to Dawson's Creek, B.C. this November for the National Women's under-18 hockey championship tournament; and</p>
+<p>Whereas the Newbridge Academy Senator has been playing hockey for over nine years and was a member of the Nova Scotia Canada Games women's hockey team last year; and</p>
+<p>Whereas the tournament brings together teams from the top female hockey players born in 1992 or later from across the country;</p>
+<p>Therefore be it resolved that all members of this House wish Middle Sackville defence player Savannah Newton the best of luck at the national women's under-18 hockey championship this month in Dawson Creek, B.C.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1926">RESOLUTION NO. 1926</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Monsieur le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que Nolan d'Eon vit &#xE0; Sainte Anne-du-Ruisseau et est propri&#xE9;taire et l'op&#xE9;rateur d'Eel Lake Oyster Farm dans le village et le lac du m&#xEA;me nom; et</p>
+<p>Attendu que Nolan d'Eon a commenc&#xE9; son entreprise en 1996 lorsqu'il abandonna la p&#xEA;che au homard pour consacrer son temps et son &#xE9;nergie &#xE0; cultiver les hu&#xEE;tres et &#xE0; apprendre de l'industrie du d&#xE9;but jusqu'au produit fini; et</p>
+<p>Attendu que Nolan d'Eon embauche trois personnes &#xE0; temps plein, alors qu'il continue d'aller &#xE0; la p&#xEA;che aux harengs et travaille &#xE0; temps partiel avec son &#xE9;pouse et leur trois enfants pour promouvoir ses produits sur les march&#xE9;s locaux et partout au Canada;</p>
+<p>Par cons&#xE9;quent, qu'il soit r&#xE9;solu que tous les membres de cette Assembl&#xE9;e f&#xE9;licitent Nolan d'Eon pour avoir d&#xE9;velopp&#xE9; sa vision, et &#xE0; consacrer son temps et son exp&#xE9;rience pour le d&#xE9;veloppement des hu&#xEE;tres et lui souhaitent un succ&#xE8;s continu.</p>
+<p>Monsieur le Pr&#xE9;sident, je demande l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nolan d'Eon lives in Sainte Anne-du-Ruisseau and is owner and operator of Eel Lake Oyster Farm in the village and lake of the same name; and</p>
+<p>Whereas Nolan d'Eon started his farm in 1996 and gave up lobster fishing to devote his time and energy to cultivating the oysters and learning the industry from the start to the finished product; and</p>
+<p>Whereas Nolan d'Eon employs three people full time while he continues to go herring fishing and works part time along with his wife and three children to promote his products to local markets here and across Canada;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Nolan d'Eon for developing his vision and dedicating his time and experience to the development of the oyster industry and wish him continued success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1927">RESOLUTION NO. 1927</num>
+          <speech by="#22119b83-0505-4c62-95ff-e8c0e378764c"><from>MR. JIM MORTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in September 2012, over 1,500 active seniors engaged in the 55+ Canada Games in Cape Breton, among them male and female members of the Glooscap Curling Club; and</p>
+<p>Whereas the women's team, led by Alena Turnbull, with Florence Douglas, mate, Lana Isenor, second, and Gillian Wallace, lead, played teams from Manitoba and Saskatchewan, winning all four games played; and</p>
+<p>Whereas in the final game for the gold medal the Turnbull team defeated Saskatchewan 7-6 to win the gold medal;</p>
+<p>Therefore be it resolved that all members of this House congratulate the Glooscap Curling Club and members of the Turnbull team for their outstanding performance in demonstrating the excellence of Nova Scotian curling to the rest of the country.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1928">RESOLUTION NO. 1928</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Brenda Reichel, of Inverness, a jeweller and creator of "Tears of Glass"<i>,</i> continued her success at the Toronto International Film Festival this year; and</p>
+<p>Whereas Reichel received word that her work has been recognized and admired by the Film Festival gifting suites organizer, and would be featured as gift packages for the stars on the red carpet; and</p>
+<p>Whereas Brenda collects beautiful, unique pieces of sea glass that wash to the shores of local beaches and creates unique pieces of jewellery, that often have a fascinating history, out of her home studio;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Brenda Reichel on the success of her Tears of Glass jewellery line.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1929">RESOLUTION NO. 1929</num>
+          <speech by="#22119b83-0505-4c62-95ff-e8c0e378764c"><from>MR. JIM MORTON</from><p>Mr. Speaker, on behalf of the member for Lunenburg, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas "Be the Peace, Make the Change" is a 3-year action plan, coordinated by</p>
+<p>Second Story Women's Centre, to create a community response to violence against women and girls in Lunenburg County and surrounding communities; and</p>
+<p>Whereas "Be the Peace" hosted a luncheon on October 28<sup>th</sup> called Gather The Men, to engage men, age 15 and older, in Lunenburg County who care about the safety of girls and women and want to play a role in creating a more peaceful and secure community; and</p>
+<p>Whereas David Hatfield, who specializes in workshops on masculine roles and stereotypes, facilitated the event to ensure men are engaged in the discussion of how to stop violence against girls and women;</p>
+<p>Therefore be it resolved that this House of Assembly acknowledge the important work being done by Second Story Women's Centre to reduce violence against women and girls, and commend them for engaging men and boys to be part of the solution.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call Bill No. 112.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 112 &#x2013; Municipal Government Act and Halifax Regional Municipality Charter.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
+          </speech>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Thank you, Mr. Speaker. I move that Bill No. 112 be now read for a second time.</p>
+<p>While the proposed changes are housekeeping items, they are important nonetheless. Mr. Speaker, the Municipal Government Act is the legislative framework for Nova Scotia municipalities. Unless an authority is explicitly granted or implied in the legislation, municipalities are not authorized to take action - this means that situations periodically arise when logical courses of action are not available due to legislative constraints.</p>
+<p>Mr. Speaker, these constraints may be unintended or as a result of new situations that arise in a dynamic government context. In this case, it has come to our attention that the Municipal Government Act does not explicitly state whether municipalities are able to give grants to villages.</p>
+<p>Municipalities are entitled, under the Act, to provide grants to a range of organizations that provide benefits to the citizens of a municipality. Nova Scotia's 22 villages provide important services to their citizens. They deserve to have clarity on whether they can receive municipal grants. Mr. Speaker, the Association of Nova Scotia Villages requested that government provide clarity on this issue, as they receive support from the Union of Nova Scotia Municipalities. In fact, the UNSM passed a resolution at its September 2012 conference requesting government amend the Municipal Government Act to provide this clarity. Leaving the Municipal Government Act silent on this issue is not an option. We recognize the importance of having absolute clarity in the Act and have taken swift action to make it clear that municipalities can provide essential funding to villages.</p>
+<p>This government supports this amendment and acknowledges the UNSM and the Association of Nova Scotia Villages for identifying the situation and bringing it forward to government. We are also clarifying that villages must invest excess funds in a chartered bank or similar institution. Most villages that have reserved funds are already doing this, for example after tax collection. This amendment is about common sense and ensures the Act is specific about how public funds are to be safeguarded. Mr. Speaker, we have spoken to the Association of Nova Scotia Villages about this change and they are supportive.</p>
+<p>Other housekeeping items include coordinating the filing of all municipal auditor's reports by September 30<sup>th</sup> and this change not only gives municipalities more time to prepare these reports, but it ensures consistency in reporting timelines. Finally, the amendments update the legislation to give the Associate Deputy Minister of Service Nova Scotia and Municipal Relations the same authority of the deputy minister. Having an associate deputy minister focus on municipal issues will build even stronger relationships with the municipalities to provide a dedicated perspective at the deputy minister level is important. As a matter of consequence, these latter two housekeeping amendments also require amendments to the Halifax Regional Municipality Charter.</p>
+<p>Mr. Speaker, I appreciate and value the work municipal staff do in their communities and the public service they give to the people of this province. While I have never served at the municipal level, I recognize that the work they do is true public service at the grassroots level. With those comments I look forward to interventions by members opposite, thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Richmond.</p>
+          </speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+            <from>HON. MICHEL SAMSON</from>
+            <p>On behalf of the Official Opposition in caucus, we're certainly supportive of these housekeeping changes being made to Bill 112, the Municipal Government Act and Halifax Regional Municipality Regional Charter. We do look forward to this bill going to the Law Amendments Committee to hear any presentations that may come up or any other concerns that may be raised by the municipalities throughout Nova Scotia. With that I am pleased to see this bill more forward and look forward to the Law Amendments Committee. Merci.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff">
+            <from>MR. ALLAN MACMASTER</from>
+            <p>We understand that this legislation was requested by the Association of Nova Scotia Villages and it is supported by the UNSM. If they are happy with it, we are happy with it. Thank you Mr. Speaker.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Chebucto.</p>
+          </speech>
+          <speech by="#c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e"><from>MR. HOWARD EPSTEIN</from><p>I wanted to associate myself with the remarks of the honourable Minister of Service Nova Scotia and Municipal Relations. It's certainly the case that this legislation, which albeit is clearly of a housekeeping nature, is a useful bill to come forward. It was, as members have noted, drafted at the request of the Association of Nova Scotia Villages and has been endorsed by the official organization that represents municipalities in our province. This is a helpful step forward because, of course, it makes it clear that there's no legal impediment to certain financial transactions that the villages might be involved in.</p>
+<p>What I did want to do, however, was not just to endorse the bill, but to explain briefly something that the minister noted in passing at the beginning of his speech, which was that it was necessary to be explicit in both the Municipal Government Act and the Halifax Regional Municipality Charter about the powers that are to be exercised by municipal governments.</p>
+<p>It's useful to understand something of the legal background to that state of affairs. If I may, I would like to add that there's a small gloss that is necessary to add to that statement by the minister, which is to say that it is not necessary in all circumstances to be completely, 100 per cent specific about the powers that municipal governments are to exercise. There is a long tradition in our province especially, but certainly in other provinces, of the provincial governments approaching the lowest level of government, the municipal government, as if they needed to have their powers specified and to take the attitude to that if powers are not specified, then they don't have them.</p>
+<p>There's good reason for that. Many of us are familiar with the term "municipal corporation". The legal theory behind that is that municipalities were often regarded as being something like commercial corporations. In that case, commercial corporations were always seen as entities that did not and were not capable of exercising powers unless the Statutes that created them or their articles of incorporation actually listed them in a great deal of detail.</p>
+<p>This term and this attitude was taken over a good 150, 175 years ago by the courts and by statute drafters with respect to municipalities. It came to be known as Dillon's Rule. Dillon's Rule was that municipalities, as corporations, only have those powers that are specifically assigned to them or that can, through necessity, be read into the Statute by necessary implication. This attitude prevailed not only in the United States, where it originated, but in Canada. A series of cases at courts of appeal around the country and at the Supreme Court of Canada confirmed that Dillon's Rule was the appropriate way to approach municipalities and municipal corporations.</p>
+<p>However, in the mid-1990s the attitude of the Supreme Court of Canada began to change, and finally this manifested itself in a landmark decision in 2001. The case is known as Spraytech. This was a case that arose in the Province of Quebec. In that case, the Supreme Court of Canada was faced with interpreting a clause in the Cities and Towns Act of Quebec which granted powers - it was the framework legislation - to the municipalities, and included in the list of powers was what is often called an omnibus grant of power. It was framed in terms of municipalities being able to exercise decision-making, bylaw-making powers for the general health, welfare, and well-being of people in their geographic areas.</p>
+<p>Under that, the Town of Hudson, a small place - a suburb in some ways, or on the outskirts of Montreal - had passed a pesticide control bylaw. The argument that was being made by those who didn't agree with the pesticide control bylaw was that there was no statutory authority for the municipality to pass the bylaw that it had passed. They looked in the list of powers that were given to the municipality, and they said, where is it, where is the specific grant of power to deal with pesticides? Furthermore, they said, the federal and provincial governments also regulate pesticides, so why is the municipality doing this? The municipality's answer was that this general omnibus clause was a justification for their bylaw-making power.</p>
+<p>After a number of years at different levels of courts, the Supreme Court of Canada in 2001 said that the omnibus grant of power was a clause that actually meant something, that it was actually intended by the Legislature to mean something, and that unless there was somewhere else in the Statute a specific listed power that dealt with the particular topic, it was therefore open to the municipalities to read their general grant of power as extending to topics that might not otherwise be listed if they were legitimately seen as having to do with the health and general welfare of people in the municipality.</p>
+<p>Of course those are broad powers and what the Supreme Court of Canada was doing was recognizing that municipalities were a real level of government exercising real powers, that they're democratic, that they're responsive to their electors, that they're close to their electors. The term the Supreme Court of Canada used was the principle of subsidiarity. The court explained that subsidiarity meant that it wasn't a bad thing that powers were exercised by the level of government closest to the people and closest to the particular topic that is being regulated.</p>
+<p>That was a landmark decision. What was occurring in other provinces at the same time, in the late 1990s and throughout the early part of this century, is that a number of the provinces abandoned - in their equivalence to our Municipal Government Act - the laundry list approach to powers. This started with Alberta, it spread to Manitoba and Saskatchewan, B.C., and now to Ontario to a certain extent.</p>
+<p>What they've done is they have granted their municipalities what are called spheres of jurisdiction. Instead of listing in a great deal of detail the powers that the provinces expect municipalities to exercise, they now give general spheres of jurisdiction in very broad terms; economic development for example, or transportation, or dealing with sustainability and the environment. These are examples of broad spheres of jurisdiction and this new style of legislative drafting has been interpreted now by the Supreme Court of Canada and by courts of appeal on several different occasions.</p>
+<p>I think the United Taxi Drivers' Fellowship of Southern Alberta v. City of Calgary is one example of a case that made its way to the Supreme Court of Canada in 2004 that exemplifies the point I'm making. What the Supreme Court of Canada did was it acted and decided consistently with what it had done in the Spraytech decision in 2001 and said this new style of drafting, in which spheres of jurisdiction rather than the traditional prescriptive or laundry list of powers, is indeed a valid way in which municipalities can exercise those powers that the Legislature intended to give it.</p>
+<p>In Nova Scotia we have not chosen to move to the spheres of power style of drafting in our Municipal Government Act or in the HRM Charter. I well remember in 1998 when the original of our Municipal Government Act went through this House how surprised many members were to find that they were dealing with a Statute that had in excess of 500 sections in it. The reason there were 500 sections in this Statute was that the style of approach to granting municipal powers that prevails in Nova Scotia is to continue to list the powers in detail. The attitude that this Legislature has taken has been that it's desirable to list these powers in some detail. That's why it is we now have another bill in front of us amending the Municipal Government Act to add a specific power, to make it clear that a municipality - in this case, villages - can act in a particular way.</p>
+<p>The minister was quite right when he said it was necessary to specify powers in detail. The gloss I wanted to add to what he said, however, is to note that even though it has been our drafting tradition in Nova Scotia to list municipal powers in detail, amongst those powers are a number that are themselves inherently general powers. We actually do, as well, have in Nova Scotia a clause that's similar to that general omnibus grant of powers that the Supreme Court of Canada interpreted in the Quebec context in 2001, the clause that allows powers to be exercised for the general welfare and health and well-being of people resident in the municipalities. That clause, we now know, has real meaning, and we also can identify other powers that are granted to municipalities - the power to deal with nuisances, for example, as being obvious examples of where a specific term might be used, but that term is of a general nature.</p>
+<p>Therefore, it's reasonable to expect that our courts, when faced with some questions over the extent of municipal jurisdiction, are very likely to follow what the Supreme Court of Canada did in the Spraytech decision in 2001 and read those powers as implying something beyond anything very narrow. They're not going to take a particularly restrictive view of those sections. We know this already in Nova Scotia from a variety of preliminary cases in which they have looked at that.</p>
+<p>I'm not suggesting that we need to revise our Statutes so as to move in the direction of Alberta and now Ontario and simply move to generalized spheres of jurisdiction. It's not a bad thing to continue to think about individual grants of power and whether they're appropriate.</p>
+<p>At the same time, I did think it important to note that there is a legal tradition now manifest in court decisions that suggests that municipalities in our province may sometimes be a little too timid in their approach to the powers that they actually have been granted by this Legislature. I know that in dealing with some municipal councillors and in dealing with some of the lawyers who advise the municipal councils, they sometimes adhere what I would regard as a little too closely to a question of strict interpretation and a desire to see a power enumerated in highly specific terms in the Statute.</p>
+<p>That said, of course I endorse the bill that we have now in front of us. It makes sense. It manifests a desire on the part of this government to see municipalities - in this case, villages - operate in a completely rational way that also respects their legitimate area of jurisdiction. So I thank you, Mr. Speaker, for the opportunity to say a few words about this bill. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Atlantic.</p>
+          </speech>
+          <speech by="#fb58b45c-b6ac-4b76-9d1f-045155b8493f"><from>MS. MICHELE RAYMOND</from><p>Thank you, Mr. Speaker, and I too would like to associate myself with the remarks made on all sides of this House about the desirability of making these relatively small changes to the Municipal Government Act and the Halifax Regional Municipality Charter. However, I would like to make some additional comments which dovetail, in fact, very neatly with those of my colleague, the member for Halifax Chebucto, when he speaks about the distinction between a Municipal Government Act which has a broad and inclusive set of powers bestowed on that most intimate level of government, which is the municipality - that approach has been followed more recently - and the laundry list approach, which continues to be followed in Nova Scotia.</p>
+<p>I would like to say that another portion of this bill, which hasn't been particularly focused on, does nothing more than move the date of reporting of the municipal auditor's reports. This brings to the forefront the focus on the fact that there is a municipal auditor. The auditing function is particularly important in an area in which broad exercises of power have been delegated to officials, particularly elected officials.</p>
+<p>When the municipal auditors' Act was drawn up, it talks about auditing both apparent and implied control in the municipal council. It's very important, I think, that we begin to focus on both apparent and implied control in the municipal council. There are a number of ways in which the powers of council have been delegated very specifically to bureaucrats and others who may not necessarily have licence regulation oath of office, and therefore, don't have any other level of responsibility than that to their elected council, but who do have an absolutely final jurisdiction to exclude, if they so desire, the opinions of the public, the opinions of professional engineers, lawyers, surveyors, and provincial departments of government.</p>
+<p>Because we have a single intake process for the subdivision development approval and a view in which zoning is simply the broad and lowest test which must be met in making huge, and sometimes sweeping, changes to very large tracts - in the case of the Halifax Regional Municipality it is a very large area of the province - it is very important that it be recognized that in fact there needs to be significant transparency for the citizens of the municipality.</p>
+<p>I bring this to attention particularly because recent decisions of the Utility and Review Board have changed very significantly the balance of elected power in the Province of Nova Scotia, so that in some portions of Nova Scotia such as the Halifax Regional Municipality, which is geographically larger than Prince Edward Island and includes almost half of the population of the province, the most intimate level of representation is something like 23,000 people, as distinct from what an average of some 16,000 people represented by provincial members of the Legislature.</p>
+<p>So, if in fact citizens are to look for the kind of caretaking, perhaps, and the kind of - I tend to say intimate representation, which might be expected from the smallest unit of government, they should be very, very careful and be very aware that they do not have that to look at in this significant portion of the province. For this reason I would like to see a very significant focus not only on the audit function but also on what the Auditor General of the province referred to, in posting the expenses of members of the Legislature on-line a couple of years ago, as the opportunity for the public themselves to be their own auditors.</p>
+<p>With this in mind, I hope that we will be seeing not only the fact that there is a municipal auditor but that there will be considerably greater transparency in the publication of statistics, and annual statistics broken down by the most immediate elected level of representation, whether it be a district or in the case of several municipalities around the province if councillors are elected at large, then simply in the municipality the opportunity for citizens to judge exactly how public resources are being used, but also how stable a regime they are able to count on.</p>
+<p>I hope that a time will come - I've had great difficulty in finding this, in fact it's not available - I hope that a time will come when people moving to different parts of Nova Scotia will be able to look at the place where they are going to live and say this is a place which I can expect to be as I expected, as I find it, or this is a place which I expect to change rapidly based on previous patterns, whether this be the frequency of rezoning, planned amendments, variances and so on.</p>
+<p>As I'm sure you are very aware, these are things which cause great distress in many somewhat more settled communities - in newer communities they are a matter of less distress, and people are very, very well aware and choose to be aware of this, and as we have portions of this municipality, as well, which are expected to change and to change rapidly, and stability is not necessarily of value. These are things which, particularly in the very, very large geographic area, encompassing almost half of the population of the province, people have reason to be able to make nuanced choices in settling within that municipality.</p>
+<p>I'm glad to see that this comes forward, and I see it as a step on the way to, certainly, the harmonization of auditing deadlines, but I hope that these reports will be prepared thoughtfully. I hope that the public accountability inherent is going to be extended further, and I think that this is one of the single greatest things that we can do for the province - to ensure that any level of government which has large and broad powers is equally transparent and accountable for that, because only in that way are we going to have a population which can, in fact, rely upon its government. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>I want to thank all the members who contributed. I thank my colleagues from this side, the member for Halifax Chebucto and the member for Halifax Atlantic, I appreciate their points, and I'm always keen for further education. This piece of legislation is one that has received what we thought appropriate support from the Villages Association as well as from the UNSM. It seems, in our role, only appropriate to clarify the roles in this regard and to benefit villages by allowing the municipal units, where they exist, to help them if they feel the need.</p>
+<p>So with those comments, Mr. Speaker, I move second reading of Bill No. 112.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 112. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Mr. Speaker, would you please call Bill No. 114.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 114 &#x2013; Interjurisdictional Support Orders Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Justice.</p>
+          </speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, I move that Bill No. 114 now be read a second time.</p>
+<p>Mr. Speaker, it is my pleasure today to speak about the amendments to the Interjurisdictional Support Orders Act. The changes I'm introducing to the Interjurisdictional Support Orders Act today are housekeeping amendments. It will fix three small errors and clarify the Act.</p>
+<p>Mr. Speaker, since 2007 families have relied on the Interjurisdictional Support Orders Act to ensure that they can get financial support from a spouse who lives outside of Nova Scotia. Last Spring we made a series of changes to this Act. Those changes improved the speed and effectiveness of the interjurisdictional support orders.</p>
+<p>Now, Mr. Speaker, drafting legislation is a complicated process. Sometimes people make small mistakes. That was the case here and that is why I'm introducing these amendments today, to correct two small typographical errors and a third small mistake in the Act. Nova Scotians don't expect us to be perfect. They know people make mistakes at times. They do expect us, though, to move quickly to fix them and that's what I'm doing here today.</p>
+<p>Mr. Speaker, I want to use this opportunity to talk about how important it is that families are able to rely on this Act to get the support they need. As a father and a grandfather, I always think about situations where there are children. We hope that parents who move out of the province will ensure that their children are provided for and we hope that when relationships fail, people will voluntarily honour their financial obligations to their former partner but, unfortunately, that's not always the case. Sometimes people are unwilling to live up to their responsibilities. They move away and they think they have left their children or their former partners behind. That may leave a single mother in New Glasgow struggling to pay rent. It may mean that a 6-year-old boy in New Minas goes to school hungry because his parent-support cheque did not come this month.</p>
+<p>Clearly, Mr. Speaker, Nova Scotians want a law that allows spouses who are left behind with groceries to buy, bills to pay, and kids to support, to collect the support they are due. That's why we have the Interjurisdictional Support Orders Act. It ensures that Nova Scotians can have a support order enforced in other provinces and other countries. These amendments will not change how the Act works but they will ensure that the Act continues to support the Nova Scotia families seeking the financial support they need and deserve.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Richmond.</p>
+          </speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, it's a pleasure to rise to say a few words on Bill No. 114, the Interjurisdictional Support Orders Act. As the minister indicated, these are minor changes being made to the Act.</p>
+<p>Mr. Speaker, I would be remiss if I didn't say I found it ironic that Bill No. 112, which is minor amendments to the Municipal Government Act and Halifax Regional Municipality Charter Act, drew the attention of the members for Halifax Chebucto and Halifax Atlantic, but when it came to Bill No. 97, which deals with electricity rates in this province that affect all of their constituents, it drew absolutely no attention from those members or any other member of the government, other than the minister who brought forward the legislation. So obviously the priorities of the government, once again, appear to be in good order.</p>
+<p>With that, Mr. Speaker, I just want to point out, as well, that there is a great deal of concern that exists in Nova Scotia, due to the recent changes announced by this government with the Maintenance Enforcement Program. People are extremely on edge at the news that many of the employees will not be transferring over to the new location in Cape Breton and that as a result of that there could be a significant loss in expertise by the current workers. I am sure the minister is well aware that most of them are handling hundreds of case files - not 100 or 200, but hundreds of case files each. The concern is the amount of time it could take to train new employees and whether that will have an impact on both existing clients of the Maintenance Enforcement Program and future clients who enter that program. So I'm certainly hopeful that the minister is cognizant of that.</p>
+<p>As MLAs, I doubt there is anyone in this House who has not had to deal with a constituent who has raised concerns about the Maintenance Enforcement Program and I do want to say, from my own office, I have had nothing but excellent service from the Maintenance Enforcement Program. It does concern me that those who have worked so closely with our office are not going to be continuing in that role because they were great at getting back, not only to our office, but getting back to the constituents who raised concerns.</p>
+<p>I have to say, considering their caseload, the amount of work they did and the quality of their work was second to none and they certainly have helped many families during what is a very difficult time. I certainly do hope that the minister and this government is going to undertake every effort to make sure that if employees need to be replaced in Maintenance Enforcement Program that that is done in a timely fashion and that they are brought up to speed as quickly as possible, so that there isn't any negative repercussions for both, as I mentioned, existing clients and clients who are sure to come in the future.</p>
+<p>Mr. Speaker, I look forward to this bill moving on to Law Amendments Committee and any concerns that may be raised with the legislation at that point and time. Merci.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Thank you. The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Thank you, Mr. Speaker. I liked hearing the word "responsibility" today because I think this is what this is about and I think it is good that we are starting to look at enforcing court orders in other provinces and that other provinces, of course, will be able to enforce court orders here in Nova Scotia.</p>
+<p>I will say that the people who may be shirking their responsibility may also, maybe even later years in life, appreciate the fact that they were forced to take responsibility because it is simply about looking after spouses and children, to pay for the essentials in life like housing, food and clothing. Mr. Speaker, it is sad that some people would shirk their responsibility but this legislation, if it does help them to take responsibility, is a good thing. So we look forward to hearing comments in Law Amendments Committee, as it passes through to that stage. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I am to recognize the minister, it will be to close debate.</p>
+<p>The honourable Minister of Justice.</p></speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2">
+            <from>HON. ROSS LANDRY</from>
+            <p>Thank you, Mr. Speaker, and I thank the member for his comments. I now move Bill No. 114 for second reading.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The question is for second reading of Bill No. 114. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+          <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+            <from>MR. CLARRIE MACKINNON</from>
+            <p>Mr. Speaker, would you please call Bill No. 115.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 115 - Interprovincial Investigative Authority Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Justice.</p>
+          </speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, I move second reading of Bill No. 115.</p>
+<p>Mr. Speaker, it is my pleasure today to speak about this bill. The changes being proposed will ultimately help provincial enforcement officers investigate people and companies based in other provinces who break the law in Nova Scotia. Nova Scotia will be the first province to add a provision for out-of-province search warrants to our legislation. That means our enforcement officers will eventually be able to gather evidence that exists in other jurisdictions, and be able to more successfully investigate and prosecute cases, and that's a good thing.</p>
+<p>This government wants to ensure that people and companies who do business in Nova Scotia are held accountable for their actions. Right now, provincial Statutes are only enforceable within the physical boundaries of our province. That poses a problem in many regulatory environments when an enforcement officer needs to obtain a search warrant to gather evidence. If the evidence is not located in Nova Scotia, enforcement officers have no authority to access it. A Nova Scotia enforcement officer cannot obtain a search warrant that will be executed outside of Nova Scotia.</p>
+<p>These changes will have a significant impact on investigations that involve workplace compliance under the Occupational Health and Safety Act. Here's a more practical example: let's say an occupational health and safety officer is investigating a company that operates in Nova Scotia but is based in Ontario. The officer wants to lay a charge for an infraction and then realizes she needs evidence contained in the company's Mississauga warehouse. Right now, unless the company gives the officer permission to access that paperwork, she's out of luck. That means she cannot enforce our laws.</p>
+<p>This just isn't right in today's day and age. While we want to continue to encourage the free movement of people, companies, and goods and services across borders, especially with our Maritime neighbours, we also have to think of new and innovative ways to address the crime that comes with more borderless societies.</p>
+<p>Mr. Speaker, it's important to note that today's changes, adding a provision to our legislation for out-of-province search warrants, are just the first step. The next step is to enter into reciprocal agreements with our provincial partners to ensure that Nova Scotia's search warrants can be carried out in other provinces. We are anticipating this will be well received in other jurisdictions.</p>
+<p>I mentioned earlier that Nova Scotia will be the first province to take this step, and that's true, but it's also true that most other provinces agree that this is an issue that needs to be addressed. In particular, the Uniform Law Conference and its members, provinces and territories, are supportive of the change in this area. This organization works to harmonize the laws of provinces and territories of Canada. Our legal community also agrees. At the bill briefing, the Public Prosecution Service indicated that this was a very positive first step.</p>
+<p>In closing, Mr. Speaker, the Interprovincial Investigative Authority Act will make Nova Scotia a leader in this area and offer other provinces and territories a model to follow in their jurisdictions.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Richmond.</p>
+          </speech>
+          <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, it's a pleasure to say a few words on Bill No. 115, the Summary Proceedings Act Respecting, Interprovincial Investigative Authority, a bill regarding cross-jurisdictional search warrants.</p>
+<p>Mr. Speaker, as the minister indicated, for this to be effective, it's going to require reciprocal agreements to exist in other jurisdictions. I have to say it's rare to hear a minister in Nova Scotia say that we are the first in Canada to bring forward legislation. Our province hasn't really been known to be leaders in many areas. Unfortunately, when it comes to legislation, we're usually catching up with other jurisdictions. It's refreshing to hear that on this one we are actually the first.</p>
+<p>One of the questions - and maybe the minister can acknowledge that he gave the example of an officer in Nova Scotia trying to obtain information from a company based in Ontario - I guess the question will be that since we are prepared to pass this legislation, will that allow investigators in Ontario to have access to Nova Scotia companies even though we don't currently have access to that information in Ontario, or will that only be in effect once reciprocal agreements have been put in place?</p>
+<p>I think it's only fair that one would suspect that if they can investigate us then we can investigate them. Maybe the minister will be able to clarify that in his remarks. Obviously this is a bill that, before we see the true effects of it, is going to require action by all other Canadian jurisdictions to be truly as effective as we would hope.</p>
+<p>With that, I look forward to this bill moving forward to the Committee on Law Amendments and any questions or concerns that may be raised by Nova Scotians at that stage. Merci.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, this is a good potential tool for enforcing provincial laws but we must recognize that other provinces have to buy in. This bill does leave much open to regulations, placing the power in the hands of the Cabinet versus this Legislature where we're standing today.</p>
+<p>This government is working, as their chosen priority, on doing something nobody else has done yet. They will have to wait for others to do it before it can be done here as well. At least one other province, with this legislation and an agreement with Nova Scotia, will be needed before a warrant can be issued. As it turns out, this is a dose of this government's own medicine and that is that they will have to wait.</p>
+<p>I can think of a couple of priorities that we feel they should be focused on right now, for other people who are waiting. One is to eliminate the wait-list for victims of bullying and pass our legislation that will provide for consequences for bullies and a means for judges to remove the phones and computers that are used by cyberbullies.</p>
+<p>Another example of something we have put forward is if someone is charged with serious offences and is a danger to commit crimes or flee - we had the gentleman who escaped from the sheriff's van within the past year. We know what happened there; we know the costs that it took law enforcement, the time it took and the use of resources it took, the cost of that to chase that man down and find him. It turns out that he really gave himself up only because he couldn't get the chains off, I believe, off his ankles. He actually wasn't found; he gave himself up. What could he have done had he stayed on the loose? I raise that question here.</p>
+<p>If somebody is charged with a serious offence and is a danger to commit crimes, and if they have to be released on bail, why not monitor the movements electronically? We think of the last couple of questions I've asked in this House during Question Period, we asked about GPS electronic bracelet monitoring of people who are released from the Nova Scotia forensic hospital. Some people say you shouldn't consider that. These people are mentally ill - yes, they are mentally ill - and they need treatment and yes, they are in a hospital, but if they are out on the street at 2:00 a.m., one wonders if that's really the best place for them to be, both for themselves and for the people around them.</p>
+<p>Having that person carry a cellphone with them is really not going to do much good. But if they are being monitored by means of an ankle bracelet, and we know where they are, maybe then they can be taken out of the situation they are in before they do something where they might hurt themselves or somebody else. To me that is something that is practical. It is common sense, and a responsible government would look at that.</p>
+<p>We are waiting for the government to move on those priorities. These wait-lists are all because we're waiting on the government. They are urgent problems requiring attention but instead we're looking at this bill here today and we're debating something that really won't help anybody now, at least until other provinces buy in with similar legislation.</p>
+<p>With those comments, I will take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Minister of Justice.</p></speech>
+          <speech by="#d36a0432-7994-4030-ab00-b21fc858e7d2"><from>HON. ROSS LANDRY</from><p>Thank you, Mr. Speaker. I thank the members for their comments. I normally don't really try to make a comeback in these situations with the comments of the Opposition but I will acknowledge the comments of my colleague from the Progressive Conservative Party, that taking this to improve business and the quality of service between provinces is a good foundation.</p>
+<p>I will make specific knowledge that it's ironic that the member brings in other matters, such as mental illness, to reinforce the position of the Progressive Conservative Party that they believe they want to lock up people with mental illness, rather than treating it as a disease. That takes me aback a bit each time that they talk about that.</p>
+<p>Mr. Speaker, I move Bill No. 115 for second reading.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 115. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT MOTIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+          <from>MR. CLARRIE MACKINNON</from>
+          <p>Mr. Speaker, I move that the adjourned debate on the Address in Reply to the Speech from the Throne be now resumed.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Hammonds Plains-Upper Sackville.</p>
+        </speech>
+        <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. MAT WHYNOTT</from><p>Thank you very much, Mr. Speaker. I'm glad to rise. I know the Opposition likes to chirp on over there but I think one of the things (Interruptions)</p>
+<p>Mr. Speaker, do you know what? It's interesting, we all have our opportunity to stand in the House and talk about issues that matter to the people we represent and that's exactly what I'm doing here, yet these folks over there are just chirping at me, so I don't understand. They complain about things and we have the opportunity to come and debate those things that they talk about all the time. That's exactly what I'm doing today, so thank you for the opportunity to stand and represent my constituents.</p>
+<p>Mr. Speaker, I think that the last time I had the opportunity to stand and talk about some issues, since then we've had a municipal election in Nova Scotia and I want to acknowledge the fact that there's a gentleman by the name of Peter Lund who served the constituents of Hammonds Plains-St. Margarets for four years, he did it very well. He did not get re-elected but I want to acknowledge his service that he provided to his constituents of Hammonds Plains-St. Margarets and the work that he has done over the past number of years.</p>
+<p>Now, Mr. Speaker, the other interesting part is that there is a new councillor who was elected in the riding of Hammonds Plains-St. Margarets and his name is Matt Whitman. Now as you know, I can't necessarily say my name in the Chamber but as you can tell, Matt Whitman and my name sound quite alike. I was at a meeting last night of constituents at a residents' association meeting and mentioned that he was elected and to make sure that people understand there are two Mat[t]s now who represent the community of Hammonds Plains, which I think is a good thing. I wanted to recognize those two gentlemen; he's coming in to do good work on behalf of his constituents and I look forward to working with him. As well, there's also Brad Johns, who was re-elected as a councillor for Upper/Middle Sackville-Beaver Bank. He has served his constituents for a number of years so far and I want to recognize him on being re-elected as well.</p>
+<p>Now, because of the redistribution that took place in HRM, there is a third councillor that's in my constituency, and his name is Steve Craig, and I also want to give him kudos for being elected in the Lower Sackville district in the Halifax Regional Municipality.</p>
+<p>Mr. Speaker, I have quite a large geographical area as far as a suburban constituency in the Halifax Regional Municipality. I represent approximately 20,000 voters. If you add in the children and the people who don't necessarily make it on the voters list, you are almost up to 30,000 people. We have nine schools and several community centres. The people who do the work of the community, who organize the fundraising events, who do the work on behalf of those residents of my area, have been doing great work over the past number of years, and I can congratulate them and look forward to working with them over the next several months. Who knows when the next election will be; we do know that the next election is closer than the last one and I do look forward to continuing to work with the people I represent and moving forward with that for sure.</p>
+<p>Mr. Speaker, one of things that we saw in the area that I represent is enhancements to an infamous road that I think many members of this House will know and it is called the Hammonds Plains Road. The Hammonds Plains Road is the responsibility of the municipality but over the past number of years it has not necessarily been cared for the way it should be. One of the things that we have seen from the now former councillor of HRM, Peter Lund, was that he put that, along with the Greater Hammonds Plains Communities Association, on the radar for HRM.</p>
+<p>When I first got elected in 2009, one of the things about HRM and being in the suburbs is that you have these resident associations in regard to the subdivisions. They work on behalf of their residents to bring new things to the area such as playgrounds, walking trails; they do fundraising events, kind of create more of a social atmosphere for the subdivisions in which they live. When I first got elected the subdivisions didn't necessarily have a common goal to work towards, but when I did get elected, I found that they often talked about Hammonds Plains Road as a big issue for them, but nobody was talking with each other. One of the things that I realized was that people need to work together. I know some members will say, when in doubt form a committee, and this is exactly what the folks along the Hammonds Plains Road did.</p>
+<p>In fact, it became an issue, Mr. Speaker, as I'm sure you remember along the road, back in the summer of 2011. I believe in June 2011 they had what they called Rally for Lanes, and several hundred people came out to talk about the importance of the Hammonds Plains Road, beefing it up, bringing up the standards, and I give absolute kudos to the people who worked on that. I know Grant Jarvis and Deb Bodnarchuk were two of the folks who spearheaded it, as well as Christina Parker; those are three who are really brought the issue of the Hammonds Plains Road to the forefront. Now what we're seeing is an investment from HRM to do that.</p>
+<p>Between Kearney Lake Road and Kingswood Drive, we currently have an investment of about $2 million from HRM to beef the road up, to bring it up to standards, to ensure that we actually see improvements along that road. I think that the work the community association has done has just been phenomenal, and my understanding is that there has been a commitment from HRM to beef that road up and put it in the capital plan over the next number of years, so that after about five years we will see improvements along that road that will make it safer, reduce traffic congestion and that sort of thing. So I do want to mention that.</p>
+<p>I also want to mention something that people in the Hammonds Plains community mention to me on a regular basis. You know, there has been this highway that has been on the books for several years known as Highway No. 113. It's a 9.9-kilometre road that stretches between the constituency of Timberlea-Prospect in Hubley and then reaches over to the new Larry Uteck interchange. That road went through the environmental assessment and process that the province has created over the past number of years, and now my understanding is that the road and the land that the road is supposed to be built on have now all been purchased and it's just a matter of time of when that road is going to be constructed.</p>
+<p>It is expensive to build highways in Nova Scotia. That road is estimated to cost about $75 million to be built, for a 10-kilometre road. I think one of the things that we need to do is beef up the road along the Hammonds Plains Road so that people will be safe and able to commute as best they can. I don't necessarily think that building a 100-Series Highway between Hubley and Larry Uteck is the best thing that we could do. Now, that being said, if the federal government came down with a new infrastructure fund and that was something that the province and the feds could come together and maybe potentially do a partnership and build that highway, then maybe that's something we should look at. But right now, as we know, it's not in the five-year road plan that our government has put in place. It's not something that we necessarily believe should go forward, but like I said, if that goes forward, if the feds come forward with an infrastructure plan, then that's something that we should absolutely consider.</p>
+<p>This past summer we saw a fabulous event in the area that I represent. As you know, the government spent some money on this, and this is the Telus Skins game. I know that the member for Timberlea-Prospect was excited about something else, but he actually jogged my memory about another event. So I'll come back to that one, but I will talk about the Telus Skins game. This was a great event for Nova Scotia. It profiled Nova Scotia. It profiled our province as a place to come to visit, to live, to do business.</p>
+<p>I had the pleasure of meeting some of the golfers who were there. I know that the Minister of Environment played in the pro-am. I know that the Minister of Health and Wellness played in the pro-am. I believe that was it, but there were several other groups and organization that were able to play with the pros, and it was a great opportunity to watch.</p>
+<p>I'll tell you, Madam Speaker, I would not necessarily consider myself a good golfer. I like to get out and hit the balls, but I can tell you that it's interesting to watch those folks who play pro golf. They're a gift to the game. They make it look so easy, and it was a great event. You had the opportunity to walk around the golf course to speak to the residents of Glen Arbour and the surrounding areas, to welcome them if they were visiting from out of town, to welcome them to our community, welcome them to Nova Scotia, and it really was just a fabulous event.</p>
+<p>For the organizers and the people working with Telus to bring that here, it really was a great event, and if you were able to watch the replay of it that was on TSN at the end of August, you would notice that Nova Scotia had commercials and backdrops. Really, it was a $250,000 investment from the Department of Economic and Rural Development and Tourism to bring them here and to create an economic development opportunity. I believe there were - if my memory serves me correctly - over 9,000 visitors to the Glen Arbour area in Hammonds Plains, and it was just a great thing to see and to meet the various people.</p>
+<p>In fact, I had the opportunity of meeting Tom Cochrane, Madam Speaker, he played at the event that evening, as well as Kevin Costner and I remember getting a picture with Kevin Costner myself. It was a great event to be able to bring those types of people to our community. In fact, I believe Kevin Costner even went to the IWK to talk to the kids, to be a role model for those kids. I think that was a good thing.</p>
+<p>I know, as I said, Madam Speaker, the member for Timberlea-Prospect kind of sighed a little bit about the fact that I was going to bring up another event that took place in my constituency in Upper Sackville this end of August, it was Weir Rockin', Madam Speaker. Now Weir Rockin' is an event that has been happening in the area that I represent for a couple of years. Again, it was a sold-out crowd. I haven't done my resolution yet but I hope to do that very soon about how great the event was, bringing 4,000 people from across the Sackville area, bringing everyone home to listen and get together with friends and family to listen to some great music.</p>
+<p>Madam Speaker, mind you, every year when they announce that the concert is taking place, every Spring when they announce the concert for August and they announce the musicians, I look over, oftentimes to my friend, the Minister of Health and Wellness, the MLA next door to me, I lean into his ear and I say, who? - mostly because those folks who come to these concerts aren't necessarily in my generation of music. I think that's okay and I buy their music on iTunes and am then able to listen to them, so that I at least recognize the songs they sing. Anyway, it certainly is a good event, always great to see everyone come home for Weir Rockin'.</p>
+<p>Madam Speaker, I want to talk about an issue that is very important to the people I represent, that is in regard to an issue that took place probably in the late 1990s, that is in regard to an issue of P3 schools. Now I know that the Opposition is listening intently to this and I think that the P3 schools is a very important issue. I talked about this actually last night at the residents' association for White Hills Run in Upper Hammonds Plains. This is a decision made that was short-sighted, a decision that would say well, you know, we'll just pay someone - it's like leasing a car, you pay some payments and at the end of the lease, you can either buy it outright for less than what it would cost you at the front end or we'll give you a new one.</p>
+<p>Well, Madam Speaker, I can tell you right now that because of the decisions of the Liberal Party, of the Liberal Government of the day to bring in P3 schools, this province is worse off. I'll tell you why this province is worse off, it's because to date, we are already paying an extra $50 million more than we should have, plus then we have to make the decision of whether or not we should buy the schools outright.</p>
+<p>Now I see the Opposition over there, they might be nodding, they might be turning their heads but you know, Madam Speaker, I think it's such an important thing that Nova Scotians have to understand, that is that this government, when we have to make that decision a couple of years down the road, very soon, we have to make that decision on whether or not we're going to purchase those schools. Where are we going to get the money? I would love for a member from the Liberal Party to stand in their place today to tell us how - how would you suggest that we pay for that?</p>
+<p>Going to that model - I don't hear a thing; I don't hear a thing about the decision that they're talking about. They're very quiet - they do not want to hear the truth because they can't handle the truth.</p>
+<p>So when we talk about that deal - I'm not the Minister of Finance, but from what I understand we will have to make that decision very soon. I know that our government and our Cabinet will look at that to be reasonable, but also to look at that to make the right choice for Nova Scotians. It's all about the kids, and putting the kids first is such an important piece to when we actually go and make that decision. That decision, back in the late 1990s, was a bad one for the people of Nova Scotia and we will begin to see that, 20 years after getting into that lease we will have to make the decision on to buy it out.</p>
+<p>I've heard that deal, we may have to pay anywhere from $140 to $160 million to buy that out.</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>How much?</p>
+        </speech>
+        <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. WHYNOTT</from><p>It's $140 to $160 million because the Liberal Party delayed that decision for over 20 years to build schools. Mind you, the people I represent deserved the two schools that are P3 schools in the constituency. You know what? It was the wrong decision to get into the P3 contract. In fact, the Auditor General said that himself, and I can tell you that when we get there we will remind Nova Scotians of that decision to enter into a contract for P3 schools - and I can tell you, under this government, we will not do that again, Madam Speaker.</p>
+<p>I want to turn to what the rhetoric the Liberal Party has been talking about in this House and outside this House. I know the Leader of the Official Opposition stands in his place in this Chamber to say one thing, but when he goes to other communities he says something else from what he says in this place. I don't think that's right. Some would call it a flip-flop, but I like to think that maybe the Leader of the Official Opposition may not necessarily have his priorities straight, or maybe he doesn't necessarily know what he's talking about - or maybe has the inexperience to become anything but the Leader of the Official Opposition.</p>
+<p>I know he's listening intently to what I'm talking about, but I can tell you that whenever the next election comes I will be talking, I will be going door-to-door like I do currently, and I will be talking to the people I represent, and will want to represent after the next election, that the Liberal Party and the Progressive Conservative Party are old-style politics, Madam Speaker. They're old politics that have been tried, tested, and not successful. They have failed this province for the last 20 years.</p>
+<p>I want to pick up on that, Madam Speaker. I can tell you that the Liberal Party is a Party that does not support rural Nova Scotia. They are a Party that divides communities; they are a Party that takes advantage of political opportunities; they do not understand what it takes to govern a province the size of Nova Scotia, of less than a billion people. They have no vision. The Leader of the Official Opposition stands in his place and chirps on, asks the Premier - one question I find interesting, that one question they talk about this so-called, that they call it, this corporate handout, they are asking this. But then they say well, how can you not give money to this organization over here? You know, Madam Speaker, it is because we take the priorities that Nova Scotians elected us to do, we bring them to the floor of the Legislature, we bring them to our caucus table, and we bring them to the Cabinet Table. Nova Scotians elected us to ensure that we make the right decisions for people, Madam Speaker.</p>
+<p>The Opposition, time and time again, will stand in their place and try to somehow create this notion that we don't care. That is absolutely false. When I look around the people on this side of the House, who are grandparents, who are parents, who have worked their entire life to build Nova Scotia to where it is today, do you think that they are just going to sit there and throw everything out of the window for everything that they have done? No, they are not going to do that. We are not just going to throw out the hard work that we have done.</p>
+<p>When I look around our table at the experience of people: lawyers, a paramedic, teachers, social workers, a United Church minister; when I look around our table, Madam Speaker - someone who has been in the civil service for many years, someone who has a small business, social workers, people who have been self-employed, fishermen who have worked their entire life on the ocean - they have built this province. We just cannot let the Opposition, people who are inexperienced like the Liberal Party and the Progressive Conservative Party, run our province. They gave money to their friends when they felt that it was a good thing to do. What we do is we look at the opportunities, the future, that we know starts here in Nova Scotia.</p>
+<p>For the last 20 years we have had the worst economic development of any province in the country and we are turning that around. The Opposition, the Liberal Party, the people in the Liberal Party, will stand in their place and say they do not want to support the things that we have done. I'll give you some examples; Muskrat Falls. I remember in Opposition, very clearly, that the Leader of the Liberal Party went to Newfoundland and Labrador with big fanfare. I don't know if any members on this side of the House remember that or not.</p>
+<p>He, with big fanfare, (Interruption) - he was the first one, he was the first Leader from Nova Scotia to go and meet with Danny Williams, the former Premier of Newfoundland and Labrador. He was the first one. He went there and he said this is a good thing for Nova Scotia and we need to sign up. Let's do it, let's work together. Again, when he got here, we signed up for the deal that will bring energy security for Nova Scotians, green energy for Nova Scotians, something that those two Parties over there never signed up for. They said let's bring in coal, let's bring in more coal.</p>
+<p>Did you know that coal, Madam Speaker, has gone up by 75 per cent in the last six years, and the reason why power rates have gone up over the last six years is because the Opposition, when they were in government, just continued and continued to pour the money into those power plants.</p>
+<p>What we're trying to do, Madam Speaker, is to get off fossil fuels, get out of the shackles of fossil fuels, something that I believe the people of Nova Scotia elected us to do. (Interruption)</p>
+<p>There's no chirping happening today, Madam Speaker, because they're listening intently. They're listening intently to ensure that the message that I'm saying, that I believe is a vision forward for Nova Scotia - getting off fossil fuels is something that Nova Scotians truly believe in. I have never been so proud. I remember the day when I was driving across the border between Nova Scotia and New Brunswick, when you saw the windmills on the Nova Scotia side. It was amazing. I remember my wife and I actually stopped and we took a picture of the windmills. They're gorgeous. When you come back into Nova Scotia, when you come from New Brunswick, when you come from Alberta back home, you look and you see progress. Windmills, I believe, are progress - windmills, solar panels, tidal energy.</p></speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>Hydro.</p>
+        </speech>
+        <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301">
+          <from>MR. WHYNOTT</from>
+          <p>Hydro.</p>
+        </speech>
+        <speech by="" as="##member" status="undefined">
+          <from>AN HON. MEMBER</from>
+          <p>All good.</p>
+        </speech>
+        <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. WHYNOTT</from><p>Those are the good things that I think we need to focus on, Madam Speaker, that are going to move Nova Scotia forward. You know, the Muskrat Falls deal is such an important thing for the people of Nova Scotia. What that does is it creates an energy hub, an energy loop, to allow us to get 20 per cent of the energy from Muskrat Falls to be used in Nova Scotia. Currently we don't have that opportunity. We don't have that opportunity to link into green energy. Yes, mind you, we're on track. We are seeing more green energy popping up across the province, but Muskrat Falls is an historic event for Nova Scotia. If all plans go the way they should, by 2017-18 we will be seeing green energy coming from the Province of Newfoundland and Labrador. It is a great thing for our province to be getting off coal.</p>
+<p>Madam Speaker, I also want to talk about the historical economic development deal that we have before us in Nova Scotia, and that is with the Ships Start Here contract - a $25 billion contract from the federal government that Irving, the best shipbuilding company in the country - probably in the world, but in the country - will be building Canada's next generation of naval vessels right in our home province, right in our home Province of Nova Scotia.</p>
+<p>This will bring 11,500 indirect jobs for Nova Scotia. What that means is that for 30 years my daughter's generation will not have to leave Nova Scotia. They will not have to leave Nova Scotia. If we build a province of apprenticeship training, if we build a province of ensuring that we have the proper skills needed to train our young people, they do not have to go to Alberta anymore, because they have an opportunity. My understanding from the anniversary of the Ships Start Here announcement is that there were over 20,000 applications to the Irving shipyard. Can you imagine - 20,000 applications? I can't just imagine coming into - if I worked in an office, seeing all of those applications coming in. That means that not only will people be able to have a generation of work, that means that we'll be able to bring people home from Alberta and that they will be able to finish their life at home.</p>
+<p>One of the things I always talk about when I talk to people who have moved out West, they will say, do you know what the one thing I missed about Nova Scotia and about living on the East Coast? (Interruption) Okay, well maybe there are a few things, but one of the things they say is, I miss the smell of the ocean. I miss the ocean. Do you know what, Madam Speaker? They are going to be able to come home now. They are going to be able to come home and they are going to be able to smell the ocean every day they wake up. They are going to be able to eat the lobster that is fished here in Nova Scotia, and eat it in Nova Scotia. They are going to be able to have their favorite alcoholic beverage that they love to drink that is made in Nova Scotia. Those are things that I think we should focus on, moving forward as a province - people will be able to come home.</p>
+<p>What that means is good economic development between the Muskrat Falls deal, with the Irving Shipbuilding deal, with the construction of the new convention centre. This week the government partnered with two wonderful companies bringing 1,000 jobs to Nova Scotia. What that means, Madam Speaker, is that the tax dollars that are made, the tax dollars that the province will receive from the people who move home, will be able to go into things that are so important to Nova Scotians such as health care, education, roads and social services, the things that bring people together, the things that people deserve to have. In the past what we saw was two Parties that would cut and gut the heck out of services that people deserved the most, health care and education. They fired nurses. They closed hospitals. They told our doctors to go away because we need to balance the books.</p>
+<p>Well, Madam Speaker, we did it differently. We respected the collective bargaining process. Why would they not respect the collective bargaining process? It is because they have the inexperience of how to govern. Every time the Progressive Conservative Party and the Liberal Party are in government, we have more debt. Why do we have approximately $13 billion of debt on our books today? It's because of the Liberal Party and the Progressive Conservative Party. They forget to mention that.</p>
+<p>Do you know how much we pay on debt? Do you know how much we pay for our credit cards - essentially it's our credit cards - for this province? Almost $900 million, and that is because of the decisions of those two Parties. Can you imagine if we had an extra $900 million to use on the services and programs that people deserve and need? I can't imagine.</p>
+<p>The NDP, Madam Speaker, if you look across the country, any time the New Democratic Party has governed a province, we have a plan to move forward with that province. We have a historic record of saying that we are the Party that has the most amount of balanced budgets. We are the Party that has the most amount of balanced budgets, that is something. Tommy Douglas, who is the founder of our Party, was the founder of Medicare, and said before we can do anything - of course I am paraphrasing here - but before we do anything, we have to have our fiscal house in order. That is something that I think is crucial so that we can ensure the services that people want and deserve are coming forward.</p>
+<p>Again - the Liberal Party is listening intently, but we want to ensure that Nova Scotians understand that the Liberal Party is not up to the job. They are not up to the job because they have the inexperience of governing this province. They play politics in every situation. I don't think the people of Nova Scotia - they have the inexperience.</p>
+<p>The other day I was sitting in this Chamber. The Premier was at an announcement with PROJEX. PROJEX is a company that's coming to Nova Scotia to ensure jobs for our young people - 500 jobs. The Liberal Party had the audacity to treat them so rudely and embarrassingly - the CEO of that company was sitting in the gallery. I can't believe they had the audacity to laugh at the fact that this company is bringing Nova Scotians home. They laughed. In fact, they laughed at a service, a tool, that we use to bring companies to Nova Scotia. We used a tool that they brought in, and now all of a sudden they're against it? That is exactly what the Liberal Party is all about.</p>
+<p>When we talk about how we would pay - how they would pay - for the things that they discuss, I find it interesting that when they talk about, for instance, they say we shouldn't have increased the HST, that they would decrease it immediately. Okay. So that's $300 million that they have to find in the things that matter to people the most. That's one.</p>
+<p>Two, they said they would roll back the removal of the HST off electricity. That's approximately another $100 million they would have to find in the budget. They also said they wouldn't have backfilled the post-secondary education that we had to, to ensure that tuition rates did not go up by 30 per cent because of the federal Conservatives who cut the transfers to the provinces. In my head, I see that as almost $500 million. Plus then they said they wouldn't bring, or at least put a leash on, the amount of money spent on health care. They would continue at the rate of 7 per cent or 8 per cent increases every year.</p>
+<p>What would they cut? I wish a member from the Opposition would stand in their place and tell us. I wish they would tell us, because I don't think they can. They promise everything under the sun to every person, but you know what? They can't deliver. They can't deliver. You know why they can't deliver? We tried that experiment. We tried that experiment, and it didn't work for the people of this province.</p>
+<p>For me to be chastised, to stand up in my place to represent the people that I represent and talk about the issues that matter to them, and they whine and complain at me that I'm standing up and talking about the issues that matter? It's absolutely shameful that they're doing that.</p>
+<p>Madam Speaker, I thank you for the opportunity to stand in my place to represent my people of Hammonds Plains-Upper Sackville. I look forward to ensuring that the people of this province know that a good future for them is in the hands of this province and, in particular, the people in the gallery, to ensure that the province is set forward for a future that starts here. Thank you very much. (Interruption) I'm sorry, Madam Speaker, I wish to say that I adjourn debate on the Address in Reply to the Speech from the Throne.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is to adjourn debate. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove on an introduction.</p></speech>
+        <speech by="#a48067d1-5e84-46e6-907e-76a541767728">
+          <from>MS. KELLY REGAN</from>
+          <p>Madam Speaker, on behalf of my colleague for Dartmouth East, I would like to make an introduction. I direct your attention to the east gallery where we have some guests here from &#xC9;cole de Carrefour: Matthew Boudreau, Katie St. Martin and I think 14 others as well. I would ask you to give them the warm welcome of the House. (Applause)</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>We welcome our guests to the day's proceedings and hope that you enjoy the few moments that are left.</p>
+<p>The honourable Deputy Government House Leader.</p></speech>
+        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f"><from>MR. CLARRIE MACKINNON</from><p>Madam Speaker, it's unfortunate that we have finished the discussion on our bills today and we do have some guests in the gallery, which I, too, would like to welcome.</p>
+<p>Madam Speaker, that concludes the government's business for today. I ask that the House do rise, to meet again on Tuesday, November 13<sup>th</sup>, with the House hours from 2:00 p.m. to 6:00 p.m. After the daily routine, which would include Oral Question Period, we would be calling the order of business, Public Bills for Second Reading: Bill No. 119, the Cosmetology Act; and Bill No. 125, the War Amps Key Tag Act. We will also plan to go with the Address in Reply to the Speech from the Throne. Thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>We stand adjourned.</p></speech>
+        <narrative>
+          <p>The House rose at 11:08 a.m.</p>
+        </narrative>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="1930">RESOLUTION NO. 1930</num>
+          <speech by="b723d7ff-ed62-4b67-ae5f-83b903707923"><from>Vicki Conrad</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas White Point Beach Resort's main lodge was consumed by fire in November, 2011; and</p>
+<p>Whereas the dedication of those involved in its rebuilding, from the construction workers to its 150 returning staff, illustrated an intense drive to turn tragedy into triumph; and</p>
+<p>Whereas one year later reconstruction is complete and White Point Resort resumed welcoming guests on November 8, 2012 to coincide with Nova Scotia Music Week being hosted in Liverpool;</p>
+<p>Therefore be it resolved that the House of Assembly recognizes and congratulates White Point Beach Resort, and all involved in rebuilding, on the success and triumphant return to its community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1931">RESOLUTION NO. 1931</num>
+          <speech by="250f8b2e-9af9-4ca7-9778-41b96426667e"><from>Keith Bain</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in 1980 Conn Smythe, the legendary one-time owner of the Toronto Maple Leafs, stayed at the Inverary Inn in Baddeck, and while there was visited by inn owners, Isobel and Daniel MacAulay; and</p>
+<p>Whereas during one of their visits, the MacAulays spoke about building a chapel on the grounds so visitors would have a place to enjoy a moment of prayer or mediation; and</p>
+<p>Whereas Conn Smythe passed away on November 18 of that same year and months after his death, the MacAulay family received a call from the Smythe's family offering a monetary gift to construct a small chapel on the resort property, that is opened to visitors and continues to be a private retreat for prayer, solitude and small weddings;</p>
+<p>Therefore be it resolved that all members of the House of Assembly recognize The Little Chapel, made possible by the late Conn Smythe, and thank the MacAulay family for building and maintaining this lovely Cape Breton landmark.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1932">RESOLUTION NO. 1932</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
+<p>Whereas the Royal Canadian Legion Branch 17 in Springhill, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
+<p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
+<p>Therefore be it resolved that all members of this House salute the members of the Royal Canadian Legion Branch 17 in Springhill for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1933">RESOLUTION NO. 1933</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
+<p>Whereas the Royal Canadian Legion Branch 45 in Parrsboro, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
+<p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
+<p>Therefore be it resolved that all members of this House salute the members of the Royal Canadian Legion Branch 45 in Parrsboro for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1934">RESOLUTION NO. 1934</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
+<p>Whereas the Oxford Royal Canadian Legion, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
+<p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
+<p>Therefore be it resolved that all members of this House salute the members of the Oxford Royal Canadian Legion for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1935">RESOLUTION NO. 1935</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
+<p>Whereas the Royal Canadian Legion Branch 14 in River Hebert, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
+<p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
+<p>Therefore be it resolved that all members of this House salute the members of the Royal Canadian Legion Branch 14 in River Hebert for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1936">RESOLUTION NO. 1936</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
+<p>Whereas the Royal Canadian Legion Branch 004 in Joggins, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
+<p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
+<p>Therefore be it resolved that all members of this House salute the members of the Royal Canadian Legion Branch 004 in Joggins for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1937">RESOLUTION NO. 1937</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Don Clarke on November 13<sup>th</sup> at his official swearing-in, and wish him every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1938">RESOLUTION NO. 1938</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to John Prall on November 13<sup>th</sup> at his official swearing-in, and wish him every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1939">RESOLUTION NO. 1939</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Anna Ashford-Morton on November 13<sup>th</sup> at her official swearing-in, and wish her every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1940">RESOLUTION NO. 1940</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Jane Bustin on November 13<sup>th</sup> at her official swearing-in, and wish her every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1941">RESOLUTION NO. 1941</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Rod Reeves on November 13<sup>th</sup> at his official swearing-in, and wish him every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1942">RESOLUTION NO. 1942</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Preston Illsley on November 13<sup>th</sup> at his official swearing-in, and wish him every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1943">RESOLUTION NO. 1943</num>
+          <speech by="15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>Mr. Leo Glavine</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the citizens of Berwick decided on their mayor and councillors for the next four years in the municipal election on October 20<sup>th</sup> - Don Clarke will become mayor, and John Prall and Anna Ashford-Morton were returned as councillors; and</p>
+<p>Whereas the council will see four first-time representatives in Jane Bustin, Rod Reeves, Preston Illsley, and Matthew Redden; and</p>
+<p>Whereas the Town of Berwick is one of the few small towns in Nova Scotia continuing to grow its population and be a leader in many municipal initiatives;</p>
+<p>Therefore be it resolved that this House of Assembly extend congratulations to Matthew Redden on November 13<sup>th</sup> at his official swearing-in, and wish him every success in public office.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1944">RESOLUTION NO. 1944</num>
+          <speech by="72906878-3b4e-496f-adc4-15b4975f3aa7"><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Nova Scotia Mink Breeders Association will be hosting a field day and trade show on Thursday, November 15<sup>th</sup> at Cornwallis Park in Annapolis County; and</p>
+<p>Whereas breeders from across Nova Scotia will be provided with market updates while also viewing the latest equipment available to mink breeders for their farms; and</p>
+<p>Whereas a banquet to close the day's activities Thursday evening, a spokesperson from North America Fur Auctions will address breeders on a topic entitled "crisis communications";</p>
+<p>Therefore be it resolved that all members of this House of Assembly wish every success to President Dan Mullen of the Nova Scotia Mink Breeders Association and all Nova Scotia mink breeders at their annual field day and trade show taking place next week in the Annapolis Valley.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1945">RESOLUTION NO. 1945</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 7,800 Nova Scotians have lost their full-time job in the past three years; and</p>
+<p>Whereas more than $600 million in corporate welfare from the NDP is a sign of a weak economy, not a growing one; and</p>
+<p>Whereas by resorting to the use of taxpayers' money to pick corporate winners and losers, the NDP have turned their backs on today's families;</p>
+<p>Therefore be it resolved that giving all Nova Scotia families a break with lower taxes, affordable power rates, and better schools is a better way forward than more NDP corporate giveaways.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="1946">RESOLUTION NO. 1946</num>
+          <speech by="4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas hard-working Nova Scotians are tired of the madness of corporate giveaways while they struggle to make ends meet amid higher taxes, high power rates, and thousands of job losses; and</p>
+<p>Whereas instead of driving up rates with a bite-the-bullet power plan, hard-working Nova Scotians expect government to be a leader in building greener energy at a rate that they can afford; and</p>
+<p>Whereas Nova Scotians who work hard and play by the rules want an end to the string of deficit budgets that will saddle their children with an ever-greater burden than we have now;</p>
+<p>Therefore be it resolved that all members of the Legislature urge the government to stop buying jobs through corporate giveaways and begin the hard work of building our economy from the ground up by lowering taxes, making power affordable, and creating good, lasting jobs.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

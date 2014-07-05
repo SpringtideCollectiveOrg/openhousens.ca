@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="b1bb12cd-3928-4525-bab1-d76d28109b5b" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="b723d7ff-ed62-4b67-ae5f-83b903707923" href="/ontology/person/ca-ns.vicki.conrad" showAs="MS. VICKI CONRAD"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="aef785d7-7697-4453-8f9c-eef26e4928c3" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="a5e0e841-506b-4c0b-a88e-c09691bd745b" href="/ontology/person/ca-ns.manning.macdonald" showAs="HON. MANNING MACDONALD"/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="b67194ee-eead-4e8d-9cdb-2d1935c5be52" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="Hon. Christopher d'Entremont"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="20520cce-c7eb-4da6-bc5e-8e9f24f3db6b" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="c479d7de-83a6-47c7-a045-07816407bdb3" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="4f242ac5-fc82-41a3-8089-419e69284e5e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
+        <TLCPerson id="32a29c39-915c-40e7-b749-7c09299ed1f7" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="aefec392-99d6-4923-8d87-227e50d567e8" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
+        <TLCPerson id="2591a7eb-9f23-4c5f-a211-14ceada27f08" href="/ontology/person/ca-ns.becky.kent" showAs="MS. BECKY KENT"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="d6c0c78d-dcf3-456a-915c-a20ecb33050f" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="22119b83-0505-4c62-95ff-e8c0e378764c" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 26 November 2012</docTitle>
+      <docNumber>12-56</docNumber>
+      <docDate date="2012-11-26">Monday, November 26, 2012</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="4">4th Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We'll begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
+        </speech>
+        <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Mr. Speaker, this is a petition of over 1,100 residents of the Town and County of Antigonish. I'll just read the introduction and then the operative clause:</p>
+<blockquote>"We, the undersigned residents of Antigonish County, protest the final report of the Nova Scotia Electoral Boundaries Commission which recommends that all electors from the Tracadie River to the Strait of Canso be removed from the Antigonish riding and joined with Guysborough under the new riding to be named East Nova. We are not in favour of this decision."</blockquote>
+<p>And we "&#x2026; request that Bill 94 not be passed by the Nova Scotia Legislature."</p>
+<p>Mr. Speaker, I have attached my name to that petition.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The petition is tabled.</p>
+<p>The honourable member for Kings West.</p></speech>
+        <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
+<blockquote>"Therefore, your petitioners call upon the Nova Scotia House of Assembly to use its powers over the Board of Commissioners of Public Utilities, the Nova Scotia Utility and Review Board (UARB) to deny any General Rate Application presented by NSPI requesting a rate increase in 2013, 2014 and 2105."</blockquote>
+<p>Mr. Speaker, I have affixed my signature.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Environment.</p>
+        </speech>
+        <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3">
+          <from>HON. STERLING BELLIVEAU</from>
+          <p>Mr. Speaker, on behalf of the Minister of Agriculture, I beg leave to table the annual report for the year 2011-12, the Nova Scotia Crop and Livestock Insurance Commission.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The report is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Communities, Culture and Heritage.</p>
+        </speech>
+        <debateSection>
+          <num title="2274">RESOLUTION NO. 2274</num>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, on behalf of the honourable Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas it has been 30 years since the emergency of the first known cases of AIDS in North America, an estimated 65,000 Canadians are living with HIV, and thousands of new HIV infections occur each year, having a significant impact on the lives of those who are infected, their families, and our communities; and</p>
+<p>Whereas marginalization and the stigma attached to HIV continue to create serious barriers for HIV/AIDS prevention, care, treatment, and support; and</p>
+<p>Whereas reducing HIV infections and helping Nova Scotians who are living with AIDS and HIV have the best possible quality of life remains a priority of the government and its many community partners through Nova Scotia's Strategy on HIV/AIDS;</p>
+<p>Therefore be it resolved that all members of this House recognize November 24<sup>th</sup> to December 1<sup>st</sup> as HIV/AIDS Awareness Week, and December 1, 2012, as World AIDS Day in the Province of Nova Scotia;</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 150 - Entitled an Act to Amend Chapter 401 of the Revised Statutes of 1989. The Residential Tenancies Act. (Hon. John MacDonell)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that this bill be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Kings West.</p>
+        </speech>
+        <debateSection>
+          <num title="2275">RESOLUTION NO. 2275</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this NDP Government has been neglecting the serious issues facing the economy of rural Nova Scotia and, in many cases, making things worse; and</p>
+<p>Whereas the Yarmouth ferry is a vital economic engine for not only southwest Nova Scotia but for the entire province; and</p>
+<p>Whereas it was the NDP Government who cut the Yarmouth ferry - the negative impact of this reckless decision being felt across the province;</p>
+<p>Therefore be it resolved that the Yarmouth ferry was a vital economic engine of the Province of Nova Scotia, and that the NDP's reckless decision to cut the service and then to delay all movement on its restoration is emblematic of this NDP Government's mishandling and neglect of the economy of rural Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2276">RESOLUTION NO. 2276</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas yesterday was the United Nations' International Day for the Elimination of Violence Against Women; and</p>
+<p>Whereas this day was designated by the UN to honour three lives lost more than 50 years ago in the Dominican Republic when three sisters were assassinated for exercising their right to peaceful assembly; and</p>
+<p>Whereas this year's message called on people across the planet to challenge the culture of discrimination that allows violence like this to continue;</p>
+<p>Therefore be it resolved that all members of this House recognize November 25<sup>th</sup> as the International Day for the Elimination of Violence Against Women and show our admiration for the organizations across this province who fight to give every woman a voice.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2277">RESOLUTION NO. 2277</num>
+          <speech by="#4f242ac5-fc82-41a3-8089-419e69284e5e"><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas each year the St. Martha's Regional Hospital Foundation's Hospital Help Day raises tens of thousands of dollars toward the purchase of new equipment for the hospital; and</p>
+<p>Whereas on October 25<sup>th</sup> more than 75 volunteers turned out to answer phones and accept pledges for the 2012 XFM Hospital Help Day; and</p>
+<p>Whereas the 2012 Hospital Help Day, which marked the 19<sup>th</sup> year for the event, raised more than $63,000, which will go toward the purchase of a blood culture analyzer for St. Martha's Regional Hospital;</p>
+<p>Therefore be it resolved that the members of the House of Assembly congratulate the St. Martha's Regional Hospital Foundation and thank all of the volunteers and community members who donated time, prizes, and money to make the event a success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Preston.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2278">RESOLUTION NO. 2278</num>
+          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mrs. Nola Thomas was recognized by her family, friends, and community at a large gathering in East Preston on October 13, 2012; and</p>
+<p>Whereas Mrs. Thomas worked at the East Preston Day Care Centre from 1971 to 2012, providing quality care to children from many communities; and</p>
+<p>Whereas Mrs. Thomas is looking forward to a well-deserved retirement, but intends to keep in close contact with those she cared for and who still look to her for advice and guidance;</p>
+<p>Therefore be it resolved that the members of this House of Assembly join me in congratulating Mrs. Nola Thomas on her hard work and dedication to the children and families of the East Preston Day Care Centre for the past 41 years.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2279">RESOLUTION NO. 2279</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que le mardi 16 octobre 2012, le Mus&#xE9;e des Acadiens des Pubnico a tenu un lancement de livre pour Laurent d'Entremont de Pubnico-Ouest pour promouvoir son quatri&#xE8;me livre <i>Footsteps</i><i> in the Night</i>; et</p>
+<p>Attendu que Laurent d'Entremont, qui est &#xE9;galement un contributeur au Yarmouth Vanguard, a &#xE9;t&#xE9; un narrateur depuis de nombreuses ann&#xE9;es en utilisant le com&#xE9;die en racontant des histoires bas&#xE9;es sur la p&#xEA;che, l'agriculture, la guerre, No&#xEB;l et la vie en g&#xE9;n&#xE9;ral des ann&#xE9;es dix-neuf cent jusqu'&#xE0; pr&#xE9;sent; et</p>
+<p>Attendu que Laurent d'Entremont, tout au long de sa vie, a &#xE9;t&#xE9; un charpentier, un p&#xEA;cheur d'homard, un m&#xE9;canicien, un agriculteur et un directeur d'une caisse populaire locale et continue d'&#xEA;tre tr&#xE8;s actif dans la communaut&#xE9;;</p>
+<p>Par cons&#xE9;quent, qu'il soit r&#xE9;solu que tous les membres de cette Assembl&#xE9;e f&#xE9;licitent Laurent d'Entremont sur le lancement de son nouveau livre, lui remercient d'avoir partag&#xE9; ses histoires et lui souhaitent une bonne sant&#xE9; et le succ&#xE8;s continu.</p>
+<p>M. le Pr&#xE9;sident, je demande l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>In English, Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on Tuesday October 16<sup>th</sup>, the Mus&#xE9;e des Acadiens des Pubnico held a book launch for Laurent d'Entremont of West Pubnico to promote his fourth book, <i>Footsteps in the Night</i>; and</p>
+<p>Whereas Laurent d'Entremont, who is also a contributor to the Yarmouth Vanguard, has been a storyteller for many years, using comedy to relate stories based on fishing, farming, the war, Christmas and life in general from the 1900s to the present; and</p>
+<p>Whereas throughout his life Laurent d'Entremont has been a carpenter, lobster fisherman, mechanic, farmer, and the manager of the local credit union, and continues to be very active in the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Laurent d'Entremont on the launch of his new book, thank him for sharing his stories and wish him continued good health and success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
+          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301">
+            <from>MR. MAT WHYNOTT</from>
+            <p>Mr. Speaker, I'd like to draw the attention of the House to the east gallery where we have three Nova Scotians who have done a superb of promoting the work of Prostate Cancer Canada; in particular two people, Elwood Marsman and Earl Lucas. They are cofounders of the African Nova Scotia Prostate Cancer Support Group. They have been instrumental in bringing forward the issue of prostate cancer within the African Nova Scotian community. At their first meeting back a few weeks ago, they had 52 members of the African Nova Scotian community there to allow them to talk about the issue of prostate cancer. I'd ask the two to rise and that the House give them a warm welcome. (Applause)</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope that they enjoy this evening's proceedings.</p>
+<p>The honourable Minister of Economic and Rural Development and Tourism.</p></speech>
+          <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b">
+            <from>HON. PERCY PARIS</from>
+            <p>May I be permitted, before I read my resolution, to make an introduction, Mr. Speaker?</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Most certainly.</p>
+          </speech>
+          <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b">
+            <from>MR. PARIS</from>
+            <p>Mr. Speaker, I'd like to draw the attention of the House to the gallery opposite. We are very fortunate this evening to have with us champions. I'd like to bring the House's attention and I'd ask them to stand up. We are gifted this evening by welcoming Cheema, the canoe club, the paddling club, from Waverley who are national champions and do this province proud year after year. (Applause)</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <num title="2280">RESOLUTION NO. 2280</num>
+          <speech by="#b1bb12cd-3928-4525-bab1-d76d28109b5b"><from>HON. PERCY PARIS</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the National Sprint CanoeKayak Championships were held on Lake Banook in Dartmouth from August 22-24, 2012; and</p>
+<p>Whereas Cheema Aquatic Club of Waverley, home to 100 full-time paddlers, many from the communities of Waverley, Fall River and Beaver Bank, was named National Champion, winning the coveted burgee title for earning the most racing spots of any other club in the country; and</p>
+<p>Whereas this talented group of athletes proved they came to win, with 24 gold medals and more than 55 top three finishers during the championship, with crews dominating in both the men's and women's age divisions, to capture their fifth national title in their 43-year history;</p>
+<p>Therefore be it resolved that all members of this House join me in congratulating the staff, the volunteers, families, and athletes of Cheema on this outstanding achievement and wish them continued success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2281">RESOLUTION NO. 2281</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Carla Allen from Crowes Mills, Colchester North has worked as a reporter for the Yarmouth Vanguard for 10 years and has covered the Yarmouth Shark Scramble each year; and</p>
+<p>Whereas the Bedford Institute of Oceanography and its Canadian Shark Research Lab use the three-day scramble to collect useful information about sharks; and</p>
+<p>Whereas Allan has written a book about sharks, from her coverage of the Yarmouth Shark Scramble to the history of shark attacks on people and the fad of finning, which she opposes;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Carla Allen for her successful publishing endeavour and wish her success with her interesting and informative book on sharks.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2282">RESOLUTION NO. 2282</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Joy Gift &amp; Jewellery Store of Sydney recently won the Light Star award; and</p>
+<p>Whereas the Joy Gift &amp; Jewellery Store won this award at the Efficiency Nova Scotia's first Bright Business Conference held in Halifax recently; and</p>
+<p>Whereas the Joy Gift &amp; Jewellery Store had achieved an annual power bill reduction of 35 to 40 per cent and improved the quality of the store's interior lighting and display cases;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Glen Tutty and all the staff from the Joy Gift Jewellery Store on this great achievement.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2283">RESOLUTION NO. 2283</num>
+          <speech by="#d6c0c78d-dcf3-456a-915c-a20ecb33050f"><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Queen Elizabeth II celebrated her ascension to the Throne 60 years ago with her Diamond Jubilee; and</p>
+<p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was struck to commemorate this once-in-a-lifetime achievement; and</p>
+<p>Whereas John Patterson of Mount Uniacke was honoured with the presentation of a Queen Elizabeth II Diamond Jubilee Medal for his dedication and commitment to helping his community;</p>
+<p>Therefore be it resolved that this House of Assembly congratulates John Patterson on his Queen Elizabeth II Diamond Jubilee Medal and acknowledges with gratitude his dedication and commitment to helping his community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2284">RESOLUTION NO. 2284</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Alleen and David Parsons have been stalwart supporters of the Bedford Players for the past 30 years, consistently contributing to all productions and providing mentorship and guidance to new members - in fact, they are the only volunteers who have been involved with the Bedford Players since the group was formed back in 1982; and</p>
+<p>Whereas the Parsons have taken on every imaginable behind-the-scenes job in support of the theatre, including production, set construction, lighting, hall and lobby setup, hair and makeup for cast members, painting, signage, membership coordination, and telephone committee; and</p>
+<p>Whereas Alleen is a member of the theatre's executive council, serves as the official liaison between the theatre and church community, and coordinates attendance with community groups like the Bedford Newcomers and Bedford Seniors and with recipients of the theatre's fundraising activity, like the Beacon House Food Bank and Bedford-Sackville Literacy Network;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Alleen and David Parsons, who have been nominated for the Bedford Volunteer of the Year Award by the Bedford Players.</p>
+<p>Mr. Speaker, I ask for waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2285">RESOLUTION NO. 2285</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Monsieur le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+<p>Attendu que Charles LeBlanc, un r&#xE9;sident de Wedgeport, a r&#xE9;cemment pris sa retraite en tant que conseiller de la municipalit&#xE9; du district d'Argyle apr&#xE8;s 27 ann&#xE9;es comme conseiller; et</p>
+<p>Attendu que Charles LeBlanc a repr&#xE9;sent&#xE9; son district de Wedgeport et de Wedgeport-le-Bas depuis son &#xE9;lection en 1985 et a &#xE9;t&#xE9; r&#xE9;&#xE9;lu huit fois, et une fois par acclamation; et</p>
+<p>Attendu que Charles LeBlanc est heureux d'avoir assist&#xE9; dans la r&#xE9;alisation d'importants projets dans la municipalit&#xE9; sp&#xE9;cifiquement la piste et pelouse r&#xE9;cemment construite &#xE0; l'&#xC9;cole secondaire de Par-en-Bas &#xE0; Tusket, l'installation de trottoirs dans Wedgeport, pour en nommer que quelques-uns;</p>
+<p>Par cons&#xE9;quent, qu'il soit r&#xE9;solu que tous les membres de cette Assembl&#xE9;e f&#xE9;licitent Charles LeBlanc sur sa retraite bien m&#xE9;rit&#xE9;e et le remercier pour ses nombreuses ann&#xE9;es de d&#xE9;vouement et de service &#xE0; sa communaut&#xE9; et lui souhaitent une bonne sant&#xE9; continue.</p>
+<p>Monsieur le Pr&#xE9;sident, je demande l'adoption de cette r&#xE9;solution sans pr&#xE9;avis et sans d&#xE9;bat.</p>
+<p>In English, Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Charles LeBlanc, a resident of Wedgeport, has recently retired as a councillor for the Municipality of the District of Argyle after 27 years of service; and</p>
+<p>Whereas Charles LeBlanc has represented his district of Wedgeport and Lower Wedgeport since 1985 and was re-elected eight times, one of which was by acclamation; and</p>
+<p>Whereas Charles LeBlanc was instrumental in bringing about important projects to the municipality;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Charles LeBlanc on his well-earned retirement and thank him for his many years of devotion and service to his community and wish him continued good health.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2286">RESOLUTION NO. 2286</num>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b"><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Christopher Sinclair of Stillwater, Nova Scotia, was selected to join the Canadian Youth Fly Fishing team; and</p>
+<p>Whereas in early October, the Canadian Youth Fly Fishing national competition was held in Mont Tremblant, Quebec; and</p>
+<p>Whereas Christopher Sinclair successfully placed 4<sup>th</sup> on his team and his team placed 5<sup>th</sup> overall in the competition, with the chance to qualify for the world competition in Ireland;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Christopher Sinclair on his accomplishments with the Canadian Youth Fly Fishing team and wish him and his teammates continued success in future competitions.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2287">RESOLUTION NO. 2287</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas November is Community Safety and Crime Prevention Month in Canada; and</p>
+<p>Whereas Superintendent Don Spicer was appointed as the Halifax Regional Municipality's first public safety officer in March 2009; and</p>
+<p>Whereas Superintendent Spicer assisted in launching several leading-edge initiatives like the Pixels for Pistols gun amnesty program and the Don't Be That Guy campaign to change attitudes toward violence against women;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Superintendent Don Spicer on his retirement after 35 years as a police officer and wish him well in his new role as executive director of Shelter Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2288">RESOLUTION NO. 2288</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on June 9, 2012, at the 50+ Expo, Merion Mills was presented with a Remarkable Seniors Award from the Nova Scotia Department of Seniors, for a contribution to her community through volunteer work and through retirement from nursing at the VG Hospital; and</p>
+<p>Whereas Merion has held executive positions on the Indo-Canadian Association for the past 26 years and has volunteered with the Indo-Canadian Seniors Group of Nova Scotia, the Vedanta Society of Nova Scotia, and the Maritime Sikh Society; and</p>
+<p>Whereas Merion's positive approach, energy and leadership are evident in her volunteering and she has excelled at keeping the community informed about news and events, which has dramatically heightened community involvement;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate Merion Mills on receiving the Remarkable Seniors Award for being an outstanding volunteer and an inspiration to others.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed.</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cole Harbour-Eastern Passage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2289">RESOLUTION NO. 2289</num>
+          <speech by="#2591a7eb-9f23-4c5f-a211-14ceada27f08"><from>MS. BECKY KENT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Kay Collacutt of Cole Harbour has been an integral member of the 12 Wing Shearwater team for more than 60 years in a variety of capacities; and</p>
+<p>Whereas Kay's volunteer work with the Shearwater Aviation Museum is widely recognized among her peers and family as a top priority, which inspired her to dedicate much of her life to Shearwater; and</p>
+<p>Whereas Kay's continuous fundraising efforts include dinner auctions, 50/50 ticket selling, along with being a foundation secretary and editor for the Foundation Newsletter, which many believe have been instrumental in the survival of the museum;</p>
+<p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Kay Collacutt for her long-term dedication to 12 Wing Shearwater and the Shearwater Aviation Museum, and wish her many more years of success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2290">RESOLUTION NO. 2290</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Canadian Under-21 Women's Fastpitch Championship was held at the Leo Blair Memorial Fields in North River, Colchester North, and was hosted by the North River Gators; and</p>
+<p>Whereas this championship competition featured top-notch teams from every province in Canada; and</p>
+<p>Whereas the North River Gators felt honoured to host these championship games and to compete with so many phenomenal players from across the country;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate the coaches and players of the North River Gators for serving as such excellent ambassadors for our province through their hospitality and sportsmanship.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2291">RESOLUTION NO. 2291</num>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Nova Scotia Talent Trust was established in 1944 to assist the career of Truro-born Portia White, one of the great contralto voices in the history of Canadian classical music, and has given out more than $1.8 million in scholarships to over 1,900 recipients; and</p>
+<p>Whereas this year an independent volunteer scholarship selection committee looked at 129 applicants, the highest number the trust has ever seen, to decide who would receive scholarships; and</p>
+<p>Whereas three artists from Truro - ballerina Sarah Fougere, jazz pianist Andrew Boudreau, and young actor Wayne Burns - were chosen to receive scholarships;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature congratulate Sarah Fougere, Andrew Boudreau, and Wayne Burns on being chosen to receive Nova Scotia Trust scholarships, and wish all three of them well as they pursue their careers in the arts.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Preston.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2292">RESOLUTION NO. 2292</num>
+          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas after three years of this NDP government's economic mismanagement, Nova Scotia has had the worst economic growth and the second lowest wages in Canada; and</p>
+<p>Whereas after three years of massive record-breaking deals that saw big cheques going to big business, we see that Dexter economics has done nothing to move up wages in Nova Scotia; and</p>
+<p>Whereas this NDP Government agreed to hand over $590 million to six corporations, only to watch them lay off 1,310 Nova Scotians, $245 million of that went to Bowater and Port Hawkesbury Paper - companies that slashed wages, rolled back benefits, and left pensioners in the cold;</p>
+<p>Therefore be it resolved that the member for Hammonds Plains-Upper Sackville question the Premier and his NDP Cabinet to find out why his government is choosing to hand over millions to companies to bust unions, drive down wages, and slash benefits.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Queens.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2293">RESOLUTION NO. 2293</num>
+          <speech by="#b723d7ff-ed62-4b67-ae5f-83b903707923"><from>MS. VICKI CONRAD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas participation in a winter sport such as hockey is a wonderful way to stay active, in addition to bringing communities together as spectators for games and tournaments; and</p>
+<p>Whereas the Sobeys South Shore Wild Junior C hockey team will host the Maritime Hockey North Junior C Championship in March 2014 at Queens Place Emera Centre in Liverpool, bringing teams from all over the Maritimes and Nunavut to Queens County; and</p>
+<p>Whereas this tournament will highlight exciting hockey, in addition to showcasing all Queens County has to offer to players, spectators, and supporters;</p>
+<p>Therefore be it resolved that the House of Assembly recognize and congratulate the Sobeys South Shore Wild Junior C hockey team for being chosen to host the 2014 Maritime Hockey North Junior C Championship.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2294">RESOLUTION NO. 2294</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Kathryn Willett is a Community Response Constable in Dartmouth with the Halifax Regional Police; and</p>
+<p>Whereas the "Me to We" program works in partnership with the children's rights organization Free The Children, and assists participants to fundraise and then travel to remote areas of the world to help local communities; and</p>
+<p>Whereas in March 2013 Kathryn Willett and her 12-year-old daughter, Ysabella, will travel to Kenya to dig wells, build schools, and plant trees to help people of the Maasai Mara region;</p>
+<p>Therefore be it resolved that members of the House of Assembly commend Constable Willett and Ysabella on their commitment to help others, and wish them well in their work to assist people in Kenya.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2295">RESOLUTION NO. 2295</num>
+          <speech by="#22119b83-0505-4c62-95ff-e8c0e378764c"><from>MR. JIM MORTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Steve Wohlmuth has been a high school global geography teacher and a well-known track and field coach at Central Kings Rural High School for the past 20 years; and</p>
+<p>Whereas Steve was one of the 10 finalists, and the only teacher from Kings County, selected for recognition by the Nova Scotia Teachers Union as part of its recent Teachers Who Make a Difference initiative; and</p>
+<p>Whereas Steve Wohlmuth was nominated by his current and former students for making a big difference not only in their lives but in their school and in the surrounding community;</p>
+<p>Therefore be it resolved that the members of this House recognize Steve Wohlmuth for being selected as among those teachers who make a difference, and for his dedication to education and to making life better for students and families.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Clayton Park.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2296">RESOLUTION NO. 2296</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas veteran HRM Councillor Russell Walker was first elected to municipal office in 1994, and was re-elected most recently on October 20, 2012, to represent the new District 10 - Birch Cove-Rockingham-Fairview; and</p>
+<p>Whereas shortly after the municipal election Councillor Walker was elected to serve as President of the Union of Nova Scotia Municipalities for 2012-13, a post that he held with distinction six years ago; and</p>
+<p>Whereas Councillor Walker's experience in this role will help advance the priorities and interests of the 54 Nova Scotia municipalities that make up the UNSM;</p>
+<p>Therefore be it resolved that the members of this Legislature congratulate Councillor Russell Walker on both his re-election to HRM Council and his election as president of the Union of Nova Scotia Municipalities, and wish him continued success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2297">RESOLUTION NO. 2297</num>
+          <speech by="#aefec392-99d6-4923-8d87-227e50d567e8"><from>MS. PAM BIRDSALL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Royal Society of Canada was established in 1882 as the senior Canadian collegium of distinguished scholars, artists, and scientists with the primary objective to promote learning and research in the arts, the humanities, and the natural and social sciences; and</p>
+<p>Whereas John Cullen of Barss Corner, Nova Scotia, whose decades of research in marine science has changed our understanding of how ozone depletion affects marine life, has made extensive contributions to the academic and research spheres; and</p>
+<p>Whereas Dalhousie University's John Cullen is one of two fellows named to the Royal Society this year, joining 2,013 other scientists who have shown a dedication to the creation of knowledge;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate John Cullen of Barss Corner for being named a Fellow of the Royal Society of Canada, and recognize his important contributions in the field of marine science.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2298">RESOLUTION NO. 2298</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 2012 marks the 50<sup>th</sup> Anniversary for J &amp; R Comeau Greenhouses located in Saulnierville Station; and</p>
+<p>Whereas throughout the years Jules and R&#xE9;mi Comeau, along with their staff, have provided outstanding service to their customers; and</p>
+<p>Whereas J &amp; R Comeau Greenhouses have made a significant contribution to the economy of Clare;</p>
+<p>Therefore be it resolved that members of the House of Assembly join me in congratulating Jules and R&#xE9;mi Comeau and their staff for the exemplary service they provide to their customers, and wish them continued success in future endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton South.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2299">RESOLUTION NO. 2299</num>
+          <speech by="#a5e0e841-506b-4c0b-a88e-c09691bd745b"><from>HON. MANNING MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas after three years of telling Nova Scotians that things are getting better in the province; and</p>
+<p>Whereas on one hand, the NDP is telling Nova Scotians they are creating jobs in rural Nova Scotia, while on the other hand are about to strike a committee to tell them how to fix the problems of job losses in rural Nova Scotia; and</p>
+<p>Whereas the NDP Government seems to be getting itself confused by their own public relations spin doctors over the decline of rural jobs;</p>
+<p>Therefore be it resolved that the NDP focus less on trying to get their public relations message polished and focus more on the fundamentals of economic growth in rural Nova Scotia, which the NDP have been neglecting since taking office three years ago.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The notice is tabled.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2300">RESOLUTION NO. 2300</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Councillor Charles LeBlanc has served the people of Wedgeport for the last 27 years; and</p>
+<p>Whereas Councillor Charles LeBlanc has won eight consecutive municipal elections in his political career and only once by acclamation; and</p>
+<p>Whereas Charles LeBlanc was first elected as municipal councillor in 1985 on the Argyle Municipal Council;</p>
+<p>Therefore be it resolved that members of the Nova Scotia Legislature recognize the important contribution of Councillor Charles LeBlanc to the public life of the province and wish him all the best on his retirement from municipal politics.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>ORDERS OF THE DAY</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call Bill No. 144.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 144 - Insured Health Services Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Minister of Health and Wellness.</p>
+          </speech>
+          <speech by="#32a29c39-915c-40e7-b749-7c09299ed1f7"><from>HON. DAVID WILSON</from><p>Thank you, Mr. Speaker. I move that Bill No. 144 be now read for a second time, and it's a please to stand tonight and move this bill for second reading. I know the protocol is not to introduce people in the House, but we do have people who are here who are witnessing second reading of this piece of legislation.</p>
+<p>I know the Nova Scotia Citizens Health Care Network was one of many groups over the last number of months that has given their opinion on this piece of legislation and I know Cliff White, Adrienne Silnicki, Bill Swan, Ann Johnson, and Paul Currie, who are with us tonight, recognize the importance of moving forward with this piece of legislation, Mr. Speaker.</p>
+<p>I'm pleased to speak this evening on an important piece of legislation that was introduced on November 22<sup>nd</sup>, the Insured Health Services Act, that will replace the current Health Services and Insurance Act. As many of you know, the Health Services and Insurance Act is the provincial legislation that implements Medicare here in our province. The new Act will strengthen government's commitment to a single-tier, publicly funded health care system here in Nova Scotia. I am very proud to be part of a government that recognized the need to ensure that this piece of legislation that oversees a Medicare system here in Nova Scotia is up to date.</p>
+<p>I believe that the piece of legislation we are replacing or updating was introduced in 1972 or 1973, and a lot has changed since then when it comes to health care delivery here in Nova Scotia. In addition, the new bill will keep pace with recent improvements to health care and will help position Nova Scotia well for further changes as our health care delivery in our province grows and evolves. That's exactly what we've seen, I think, over the last three years since we have had the honour and privilege to be government here in Nova Scotia - we see an evolution of the health care system that often didn't meet the needs for our residents here in Nova Scotia.</p>
+<p>Mr. Speaker, I won't stand here today and say that we have the best system possible and are meeting every single need of Nova Scotians - I know that's something that I couldn't say - but I can say with a lot of confidence that the changes we have made over the last three years have significantly improved access to primary care health care here in Nova Scotia, and has, without question, really improved the ability of Nova Scotians, especially in rural communities, to obtain the services they need, and we're very proud of that.</p>
+<p>As well, the new bill will reaffirm the government's commitment to the criteria of the Canada Health Act and provide greater transparency and accountability across the health care system. Indeed, much has changed in the health care system since the Health Services and Insurance Act was established in 1973. Can you just imagine the piece of legislation that we brought into Nova Scotia that oversees our Medicare system hasn't been updated since 1973? I think it's well past the point that we needed to update this piece of legislation. I know for some members in the House - I don't think the member for Hammonds Plains-Upper Sackville was even born in 1973, and I know that for myself I was three years old in 1973. So, no question, we recognize (Interruptions) - I might have had the same amount of hair back then when I was three - we recognize that we needed to update this crucial piece of legislation.</p>
+<p>Mr. Speaker, in creating this new bill, the Department of Health and Wellness sought input from health care partners and other stakeholders, as well as from individual Nova Scotians - and I just mentioned the network earlier. That was the most important element to bringing forward this piece of legislation - to allow Nova Scotians to have input on where they would like to see this legislation go, where they would like to see the government's commitment to a single-tiered, publicly-funded health care system.</p>
+<p>We had input from many Nova Scotians and I have to say almost all of it was very positive. We worked with organizations like Doctors Nova Scotia, the organization that oversees physicians here in Nova Scotia and the interests of physicians in Nova Scotia. No question, they had some concerns with the new legislation but they had input. I'm very confident with the interactions that Doctors Nova Scotia had with myself, personal - having met with them on several occasions on this piece of legislation - and also my staff within the Department of Health and Wellness who worked extremely hard with them to try to look at where they felt there were some issues within this legislation and where we thought we could work with them to ensure that the piece of legislation we brought forward truly reflected what was happening here in the province when it came to health care delivery.</p>
+<p>Doctors Nova Scotia was just one organization. We had many, many partners, all of them I think having the best interests of Nova Scotians at heart when they brought forward recommendations, when they brought forward potential changes. I look forward to these organizations coming forward, if they still have concerns and issues to the process, like at the Committee on Law Amendments.</p>
+<p>I'm very confident on the final draft that I introduced last week. It really, truly reflects our current situation on delivery here in Nova Scotia but also solidifies, I think, our government's commitment to the single-tier, publicly-funded health care system here in Nova Scotia.</p>
+<p>Last June, both the draft legislation and the discussion paper were released for public input. Overall, the response to the proposed legislation was very positive. I will now briefly outline a few of the changes that will be included in the proposed new bill. The new bill will strengthen government's commitment to a single-tiered, publicly-funded health care system. Adding a preamble to the legislation clearly reaffirms government's commitment to the principles of the Canada Health Act and government's belief that a single-tiered, publicly-funded health care system is the best approach to deliver and administer sustainable health care here in Nova Scotia.</p>
+<p>The new bill will support the Minister of Health and Wellness in accessing experts when needed. Allocating health care resources fairly and equally is a challenge for governments everywhere across our country. Funding decisions must be based on relevant evidence. The new legislation includes explicit statutory authority that will further support the ability of the Minister of Health and Wellness to gather advice from experts when necessary when making funding decisions.</p>
+<p>The new bill will provide added support for alternative funding arrangements for health care providers. When the Health Services and Insurance Act was introduced in 1973, the sole method for physicians' compensation was the fee-for-service model. Under this model, physicians are paid for each insured service they provide. This model was considered best practice at the time in 1973. It has become clear that the fee-for-service model may not be the ideal payment method for physicians working in certain practice settings where patient volume is not the focus; for example, emergency departments, rural areas, teaching hospitals, and universities.</p>
+<p>We recognize the situation in the current environment that physicians work in, and needing to support them. We recognize that a collaborative approach to service delivery here in Nova Scotia was extremely important and recognizing that physicians need to get paid, like any Nova Scotian would expect, that they can make a living, make a wage providing services in our health care system. So currently Nova Scotia provides alternative funding plans that recognize and compensate for a range of services physicians provide in addition to direct patient care.</p>
+<p>We see the change over the last number of years - in Collaborative Emergency Centres, for example, Mr. Speaker. I was glad just last week to announce a new pilot project that is going to take part here in Nova Scotia around RelayHealth, which allows physicians and their patients to exchange information via the Internet. So on those routine tests that you might obtain, or have requested from a physician, they can provide you the results of those tests via e-mail so that you as a patient can have access to your medical records. This is a new pilot project that will start in the new year, which we're hoping about 3,000 Nova Scotians will take part in. We have 30 physicians who have signed up for it where those patients will be able to get access to their medical records whenever they want to, if it's from their home, through the Internet on their computer, or even through their smartphone.</p>
+<p>I think it shows the ability to adapt to the technology changes that we have seen over the last number of years - significant changes, I might add, Mr. Speaker - that I think can improve health care delivery here in Nova Scotia. I believe that in this pilot project, which will continue until March 2014 - we'll do a complete assessment of this new project. I believe there will be positive results from this. I believe that allowing doctors a different way to communicate with their patients on those less-urgent issues, like a routine test, can free up that physician to see another patient who might have complex issues when it comes their health care concerns. So I believe we need to continue to look at future changes in technology and the ability for health care providers to interact with their patients.</p>
+<p>I look forward to that pilot project starting, and I look forward to the results of that in just over a year. Funding mechanisms for physicians and other providers will continue to evolve, as I just mentioned. Updates to legislation will ensure that such future funding models are supported and you're able to react to those.</p>
+<p>The new bill further supports collaborative models of care. The Insured Health Services Act supports collaborative care and other delivery models that have the potential to improve access to services, to provide better outcomes for patients, and to improve the efficiency of the system overall. We are recognizing that, and I mentioned Collaborative Emergency Centres. Our first Collaborative Emergency Centre here in Nova Scotia was opened in Parrsboro. I had the opportunity to visit that location recently with the Minister of Rural and Remote Health from Saskatchewan, Minister Weekes, who was quite impressed with the ability for those residents in a rural community to gain access to primary care. We know, and I know, that we'll continue to see changes in the demand for emergency care - for example, in our emergency room - go down significantly because people have better access to primary health care.</p>
+<p>No question, in all the literature I've read over the years as a paramedic, as an MLA, and now as Minister of Health and Wellness, I know for a fact that when people have better access to primary health care, there's less of a demand on the emergency side of things. No question, we need to ensure that people have access to emergency care, because of our high level of chronic illnesses here in Nova Scotia, but also because of emergencies. You never know when there will be a car accident. You'll never know when there will be someone having a heart attack or having a stroke. So we need to ensure those services are there.</p>
+<p>By improving access to primary health care, we can have an impact on the emergency care services that we have seen in this province, and over the last 20 years or so it has been a challenge. It has been a challenge for previous governments to try to tackle the issue of providing emergency care, especially in rural communities. I know that the changes we made within the model of care when it comes to Collaborative Emergency Centres, Mr. Speaker, has had a positive impact on the residents of Nova Scotia, especially in rural communities.</p>
+<p>The new bill introduces a new patient appeal board. The new Insured Health Services Act sets the stage to establish an independent patient appeal board and I think that's the most important thing, an independent patient appeal board. This board would hear and make decisions on appeals in relation to the application of Department of Health and Wellness policy in the following areas: applications to become or continue to be an insured person here in our province; issues around payment for insured services delivered within Nova Scotia; and payments for the cost of out-of-province or out-of-country treatment of insured health services.</p>
+<p>The board would be at arm's length and would be made up of health professionals and other qualified personnel not connected with government. The board would be required to provide a patient with a written reason for its decisions, increasing, I believe, the transparency of the decision-making process. Often Nova Scotians who might question their ability to seek a service here in the province would have to make those pleas to whoever is in government, whoever the Minister of Health is at the time. I feel that just isn't the proper way and I think that we feel, as a government, that's not the proper way to do this.</p>
+<p>We need an independent board to review these cases, just so that they can see or the patient can see that someone within, who has some clinical background or some education within the health care system, can look at this, I think, in the proper way and with a clean set of eyes, not linked to government.</p>
+<p>The new bill includes provisions that update the authority of the Department of Health and Wellness to audit providers. It is important to note, Mr. Speaker, that the Department of Health and Wellness has always had the authority to audit health care providers funded under the old Act, the Health Services and Insurance Act. Such providers include physicians, dentists, ophthalmologists. The new Insured Health Services Bill updates this authority and formalizes many of the processes which are already in place.</p>
+<p>The legislation also includes provisions to establish procedures in regulations for providers to appeal audit decisions, another way, I think, we can ensure that not only the individual but the providers of health care services can have an avenue to appeal any decisions, Mr. Speaker, of government.</p>
+<p>It is our intention, Mr. Speaker, to work with providers' associations, including Doctors Nova Scotia, the Nova Scotia Dental Association and the Nova Scotia Association for Optometrists in developing regulations regarding audits and the appeal, to ensure that these regulations are effective in protecting the interests of Nova Scotians and are fair to providers here in Nova Scotia.</p>
+<p>The new bill will strengthen the province's role in health human resource planning. As you know, Mr. Speaker, government is looking at the best ways to improve access to doctors, nurses, paramedics and other health care professionals, especially in smaller and rural communities. The new Act includes references to the minister's ability to make decisions related to the health human resource planning and will permit additional approaches in this regard to be developed under regulation and policy. No question, one of the things that we worked on since becoming government was a physicians' resource plan. We needed to know and we needed a picture of who we had here in Nova Scotia when it came to physicians or health providers.</p>
+<p>If you look strictly at the stats, Mr. Speaker, we are the highest percentage in the country of doctors versus patient ratio. That's something we should be proud of but often in the province it is imbalanced in our rural communities. Some of them like Digby, for example, which I know has been struggling for many years to gain access to primary care providers, those numbers don't mean a thing for them.</p>
+<p>So with the Physician Resource Plan that we have and the review we did, now we know, we have a better picture of the specialists we have here in the province, where they are practising and where we need to emphasize more time on recruitment and retention of physicians especially. No question, I think having this Physician Resource Plan will help us ensure that we can try to meet the needs of Nova Scotians, especially in those harder to fill communities for human resources, like Digby, especially when it comes to physicians. I know there are many small communities around the province that are struggling at this, but there is, I think, some light at the end of the tunnel.</p>
+<p>Recently I was asked by second-year medical students to have someone come to Dalhousie to explain and go through and review the Physician Resource Plan so that they could be more educated on potential areas that they could practice or direct their training in. I think this is something that needs to happen and then they'll have an opportunity to recognize where resources will be placed in the future when it comes to recruitment or retention of physicians throughout the system, no matter if it's a general practitioner or a specialist.</p>
+<p>The new bill strengthens government's commitment to equitable access to insured health services. All Nova Scotians are entitled to equal access to insured health services. The new bill supports this intrinsic right in a number of ways, Mr. Speaker. The new bill does not allow for reimbursement for services provided outside the MSI system or plan, and the updated bill specifies that patients are not entitled to seek reimbursements for insured services if they choose to obtain those services from a provider not participating in the MSI plan. This approach will keep taxpayers from subsidizing a private system and prevent some individuals from receiving preferential access to ensured services at the expense of the public system.</p>
+<p>No question, we recognize that some people here in the province would like to see more choices, but we also recognize the importance of ensuring that we have a strong publicly funded health care system here in Nova Scotia, and I think by these changes we can ensure that. I often talk about some of the cases of some of my colleagues' interactions when they go out into other jurisdictions, and I talk about some of my paramedic colleagues who often - many of them have gone down into the States for example, down to Pittsburgh, down in Hartford, to upgrade their training. When they come back to Nova Scotia, when they come back to Canada, one of the first things they recognize is the difference within the health care system between ours and theirs in the U.S.</p>
+<p>As a paramedic here in Nova Scotia, I never had to check someone's wallet to see if they had money to pay for a health care service.(Applause) I never had to check someone's wallet for a specific health care card so that determines what hospital they go to. Often in the U.S. that's exactly what my colleagues, fellow paramedics, have to do. They have to find out - not only take care of an emergency call of the patient but they have to find out if they are insured, they have to find out if they have the means to pay for the service, and then they shop around to find a hospital that would accept that patient. Early on in my career as a paramedic I recognized the importance to ensure that we can strengthen and continue to have the service we have here in Canada, in Nova Scotia. I am proud to be part of a government that is doing that, that is strengthening the single-tier, publicly funded health care system.</p>
+<p>The new bill strengthens prohibition on direct billing and does not allow for extra billing, or user fees, for medically necessary health care services. Direct billing for insured health services can create financial barriers to care, because patients must pay for their service up front and seek reimbursement from the public health insurance plan. The new legislation will clarify and strengthen the condition that providers participate in the MSI plan, may not charge an insured person directly for an insured service that is funded through MSI. The legislation will also clarify that costs for things like consultations, procedures, materials and office space that are included in the fee for insured services paid for under the Health Insurance Program may not be charged as an extra fee to the patient. Providers who have opted out of the MSI plan may not charge patients an amount that is more than the amount paid for under the Health Insurance Program.</p>
+<p>I have to be very clear on this point, Mr. Speaker - not one health care provider currently is opted out of the MSI system here in Nova Scotia and there hasn't been for a number of years. No question, I believe five or six years ago there was one provider who decided to opt out. I was told that by the end of that day, they had opted back in because they recognized that they had to give an invoice to their patient.</p>
+<p>I think Nova Scotians appreciate the fact that we're protecting the MSI system here in Nova Scotia. Providers can still opt out, if they choose, even though there's not one provider in our province today who has opted out of the MSI system, so they can still choose to do that. What we're doing is putting parameters in so that if they choose to opt out, they can't charge those patients any more for the service they seek under the opted-out services that we would pay under the MSI system.</p>
+<p>The new bill specifically prohibits queue-jumping. Queue-jumping occurs when someone is granted preferential access to treatment in exchange for payment or a benefit, Mr. Speaker. Access to health care must be based on medical need and not on the patient's ability to pay. I've mentioned on a number of occasions examples of how I believe - and I think we believe here in government, and I think that most if not all Nova Scotians believe - that that's not the system we want here in Nova Scotia, that's not the system we want here in Canada.</p>
+<p>The new bill specifically prohibits queue-jumping and makes it clear that it is a violation of the bill to provide preferential access to health care services in exchange for a payment or other benefit. As I mentioned above, much has changed in the health care system since the Health Insurance Act was established in 1973. The time has come to modernize Nova Scotia's legislation to better reflect how the system currently operates. As a province, it's our responsibility to prepare for further advancements in health care delivery models, as well as increasing demand on the health care system.</p>
+<p>We recognize that we need to continue to change, Mr. Speaker, when it comes to health care delivery in this province. We cannot continue to do things the same old way because I believe with the changes we're introducing here in our province, that Nova Scotians are better served under the health care system that we currently have. I know that in the future, no matter who is in government, they are going to have to continue to change, to ensure that they meet the health care needs of Nova Scotians in our province.</p>
+<p>Ultimately, Mr. Speaker, the new bill being introduced today, or was introduced last week, will create a stronger and more sustainable, single-tiered health care system here in Nova Scotia. I'm very proud of the support I've received from my colleagues, from the former Minister of Health and Wellness, and from Nova Scotians as we move forward to providing this piece of legislation here today and I'm glad to be part of a government that recognizes that health care and health care delivery, here in Nova Scotia, is extremely important. It is something that we need to protect so that all Nova Scotians in the future can gain access to health care services here in our province.</p>
+<p>With those few words, I look forward to the Opposition's comments on this. I look forward to this moving through the process and I welcome debate on this but I also welcome and look forward to support as this piece of legislation moves through the Legislature. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings West.</p>
+          </speech>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm pleased to rise to speak to Bill No. 144, the Insured Health Services Act. I would like to begin my remarks by commending the minister for his efforts in bringing this piece of legislation forward. Despite the fact that this particular piece of legislation recognizes and modernizes what has been occurring in our health care system for some time, it is still important to ensure that our legal framework matches reality - so therein lies the challenge.</p>
+<p>While it's important to have a legal framework that matches what is occurring right now in our health care system, many would argue that it's probably more important to bring forward initiatives that would make our health care system more responsive. When people are languishing and waiting for diagnostic tests, and when these same people then wait in extraordinarily long queues for surgery, one has to wonder what difference this bill will make at the end of the day when it comes to addressing these very important issues around health care. I will outline a number of those that are very easy for all of us here in the Legislature to relate to.</p>
+<p>This legislation recognizes alternate funding plans - coincidentally, a funding method developed by the former Liberal Government - and ensures that legislation reflects the current realities of how medicine is delivered in this province. I would be remiss, however, if I didn't state for the record that this bill does not change what services are included and funded under MSI or the hospital insurance plan or ancillary services. It simply modernizes and updates what has been in practice now today. What is funded after the passage of this piece of legislation will not change.</p>
+<p>A review of what is and what isn't funded would have been a useful exercise and a complementary piece which would have made patients a focus during the consultation process. There are many of us in this Chamber who have had those unique cases, sometimes very one-off, very rare and so on cases that may need that kind of consideration. A review of what is and what isn't funded would have been extremely useful to us all. This bill, being a new Act, grants the minister regulation-making powers to establish a Hospital Services Insurance Plan and an MSI plan. We won't know until government produces the regulations whether everything covered will remain covered, whether there will be items for which there is coverage that no longer will be covered, or even whether there will be new items added to the list.</p>
+<p>Without knowing these details, and my honourable colleague the member for Argyle pointed this out last week to the media - we as legislators are unaware of the true impact of Bill No. 144, the Insured Health Services Act. Over the summer months, government engaged in a consultation process of modernizing this piece of legislation. I understand 50 responses were received through the consultation program, with 30 per cent of these responses being from the general public. We hope many of these groups and individuals come forward during the Law Amendments Committee process to ensure that the responses and recommendations are reflected in what we debate here today.</p>
+<p>One of the few new additions to the Health Services and Insurance Act is a preamble incorporating the principles of the Canada Health Act. For many people, the Canada Health Act really defines what it is to be Canadian. It embodies all that's good about our country. It represents a compassionate commitment to health care services for all. It's worth mentioning, Mr. Speaker, that it was again a federal Liberal Government, under the leadership of Pierre Elliott Trudeau, that introduced the Canada Health Act to our country.</p>
+<p>Another new piece of this legislation is a new patient appeal mechanism. This independent arm's-length appeal board consisting of health care professionals will review appeals, and without question, this is positive. However, we are not sure whether this patient appeal mechanism replaces the current appeal mechanism at MSI itself, as MSI also hears appeals on eligibility, or whether this is an additional appeal mechanism.</p>
+<p>The ability for the minister to perform provider audits was certainly available in the previous Health Services and Insurance Act, and while language is updated, the ability for the minister to perform audits has been enshrined in legislation since 1973. There are many more features of this legislation, many of which the minister has mentioned here this evening so before I risk the wrath of the Speaker around and not speaking to the principle of the bill, I would like to add the following thoughts.</p>
+<p>Let us all keep in perspective the fact of the matter is that the bill addresses issues that aren't a problem. These are not my words, these are the words of the minister, Mr. Speaker, and I will table this newspaper article in the Cape Breton Post which indicates these are the minister's words.</p>
+<p>What this bill did not provide for Nova Scotians is a review of what is funded under the MSI program or the Hospital Insurance Program or ancillary services to see whether, in the best interests of patients, there needs to be an update. Let's face it, this bill benefits government and while that is not necessarily a bad thing, we have to ask, where in this piece of legislation do patients benefit? Where in this bill is there some indication those languishing on wait lists for long periods of time will see relief? Let us hope that maybe the Minister of Health and Wellness will give us some indication that the first advice he gathers from experts vis-&#xE0;-vis funding decisions will be funding decisions which focus solely on more timely access to care. While this bill is positive, there was much more government could have looked at through the eyes of the patient.</p>
+<p>I thought at this point I would talk about some of those very real issues that we as MLAs hear in our offices that really this bill does absolutely nothing to address. We talk, first and foremost, primarily about wait times. Last week, I got home on a Friday afternoon, one of the people lined up to see me came in, he's a worker, he has spent about 25 years working on the concrete floors of a plant in the Valley and he needs orthopaedic surgery and he was told just this week that it will most likely be 12 or 13 months for his surgery to occur. I don't think Bill No. 144 is about to help him.</p>
+<p>We all know that some progress has been made around ER closures with the Collaborative Emergency Centres. However, ERs to be addressed from closing was a primary objective of the NDP Government prior to the 2009 election. The situation is really so bad this year the government has failed to table its report on the number of days that ERs across Nova Scotia have been closed. Just to give one example, the Middleton ER just since announcing that there would be a locum list to be able to provide relief when doctors were not available, just in the last couple of months, we have had 13 closures of a very busy ER all generally operating at about 100 per cent capacity during a 12-hour shift. This is not the reality that Bill No. 144 will be addressing.</p>
+<p>We've lost the flexibility, the very local blood collection services. We've had a major loss in rural areas of blood collection services, again, another very important and critical tool that the patient requires easier and timely access to.</p>
+<p>When it comes to our emergency room, I refer to the one I'm most familiar with, which is the Valley Regional Hospital in Kentville. These are three cases that I've had in the past 10 days. A senior, about 90 years of age, who went to the ER in Kentville, waited up to six hours to be seen. Is it because we need to look after the young person first? I think we have to call into question the triaging and so on when a senior, at 90 years of age, waits for six hours.</p>
+<p>When another constituent spoke to me just this past weekend, he had the experience of waiting five hours but during the time he spoke to a young lady sitting next to him. At one point she was in tears and he asked her what the problem was. She said, well, I live on Highway No.10. I was going to Bridgewater and decided that I better go to Middleton, only to get to Middleton and find out that the emergency room was closed. She was now at the regional hospital in Kentville. She had been there for about six hours and she said to him, I think I've had a miscarriage and she hasn't been attended to, after six hours sitting in the emergency room. Bill No. 144 is not going to help that kind of situation.</p>
+<p>Just this morning in my office I had a family - mother, father and a 20-year-old son - who went to Valley Regional because of mental health issues only to be in the emergency room for seven hours, finally seen by a doctor who said all of the professional help went home about an hour ago. We'll get a referral for Monday morning - and this is a paranoid schizophrenic patient. Bill No. 144 is not going to help some of these dire situations that we are facing.</p>
+<p>The minister tonight is absolutely right - access to primary care is absolutely critical to have in place and to see that the 50 to 60,000 Nova Scotians without a primary health care provider will receive one. Recently, I heard from the past-president of the Canadian Medical Association that if we have a senior with a chronic or multiple chronic conditions, if you have a primary health care physician, a family doctor, it is about $5,000 to $6,000 a year to look after your medical needs. Without one it's about $18,000 a year because you end up going to the emergency room multiple times, possibly an ambulance service, stays in hospital, VON, et cetera.</p>
+<p>We have a long way to go in our province to see every Nova Scotian with a primary health care clinician. We know that nurse practitioners do a very fine job in looking after the heath needs in areas that are very remote such as out on Digby Neck, as a great example. We are talking about a primary health care provider and, of course, the goal is to get a doctor for every Nova Scotian.</p>
+<p>One of the areas that has come to my attention, and a couple of colleagues in the last month or so, is the dire need for bariatric surgery in this province. I know it's at least a 10-year wait at the current time, and we now know, especially those with type 2 diabetes, can have their condition, the diabetic condition, actually reversed or substantially reduced, if bariatric surgery is provided to those patients. Again, Bill No. 144 isn't going to help those people in the queue waiting for a 10-year period.</p>
+<p>One of the areas that I think we saw in this Legislature - a very upsetting time when questions were being asked to the minister as cutbacks to youth mental health were occurring at the IWK. While we substantially reduced the wait list, as we put more into assessments, from a recent conversation we know that there are still well over 300 people who are in need of getting mental health services in the province.</p>
+<p>There are a couple of other last areas I would like to refer to. We have over 300 seniors waiting in our hospitals in the province to go into some form of continuing care, long-term care, and Bill No. 144 is probably not going to help us too much along that path. There are many other areas that we could talk about: the recruitment of doctors, the infrastructure needs, the prescription drug issue, the need for more and more treatment programs, and on we could go.</p>
+<p>The minister is talking about a pilot project to deal with electronic medical information and quick access to it. Within Capital Health we still have an electronic medical record system that doesn't have the level of compatibility that we should have - inside just one of our health districts.</p>
+<p>It's important to point these out. While modernizing legislation is important - and make no mistake, we are supportive of this bill - ensuring that legislation is reflective of today and addresses the challenges Nova Scotia faces today is, in our view, more important. I look forward to following this bill through the Law Amendments Committee process. With those words, I take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle.</p>
+          </speech>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Merci beaucoup, M. le Pr&#xE9;sident. Il me fait grand plaisir de prendre quelques minutes pour discuter le projet cent quarante-quatre.</p>
+<p>It is my pleasure to stand today and spend a few moments speaking to Bill No. 144.</p>
+<p>First of all, I would like to extend my thanks and gratitude to all health care workers in this province, because without them we wouldn't have the system that we have. The hard-working men and women who every day serve the general public and serve their health care needs are what make our system - and not just the system here in Canada, but the system here specifically in Nova Scotia - one of the best.</p>
+<p>I want to thank the minister for bringing this bill forward, because I think it's a valuable part of the process of modernizing the Acts of this House of Assembly. I know full well that since 1973, many things have changed in our system to try to be more responsive, to be more adaptive to the growing needs of Nova Scotians and Canadians and their requirements in the health care system. I do want to again thank the minister - maybe the previous minister, knowing how long this bill probably took to prepare and get it to the point that it was introduced in this House of Assembly.</p>
+<p>I think this bill is one that we can support; one that there are a number of provisions in it that strengthen the public health care system. We've said all along that we support the Canada Health Act, what it presents and how it shapes the Canadian health care system. We have always said that the issue of queue jumping and all these single-payer or single-tier systems - all of those things are important to what the Canadian health care system is. Having a bill that is before us today that copies and enshrines the Canada Health Act in its wording, in its structure, and in its shaping of our system, then of course we can support that bill.</p>
+<p>There are a lot of things in here, like I said, that do mirror the Canada Health Act. Many of the things that of course the minister presented to us when he introduced this bill last week are things that are already enacted in law federally. Now, knowing full well that each health care system in Canada is unique, each province of course may do things just a little bit different, but all try to espouse the overall feelings and actions of the Canada Health Act.</p>
+<p>Mr. Speaker, I think it's very important to see the moving forward of these issues, looking specifically at the appeals board, trying to find an arm's-length mechanism in which to review how payments are made, what services are covered, those kinds of things, I think is a valuable issue. One also that is important - when a patient has a problem that there's a mechanism for them to go and appeal to, more than just coming to a politician's office, coming to an MLA's office, going to the minister, I think it's good to have a second set of eyes that can look at these issues and make our system a little better by strengthening it with their decisions that are of course based on the patient, that are of course based on good science, that are based on compassion.</p>
+<p>Mr. Speaker, looking at the addition of different wordings and issues, like the collaborative care centres, like a lot of the things that we're seeing in here, I think are good additions to the bill; looking at the limits on billing and also the question of what kind of billing is going to work into the future. Now we can have debates here all day long talking about fee for service, as the minister did, versus straight pay, or blended models as the Liberals took credit for, but I know full well that all governments have struggled with the right way to pay our clinicians in this province, and trying to find the best mechanism in which to do it. Addressing that in the bill, I think, is an important piece.</p>
+<p>Mr. Speaker, also, it's going to be interesting to see what we can do or what we're going to hear in the next part of the process as we hear from different organizations that were of course involved, I think, in the drafting, in the White Paper, or with the consultations that happened, to see if their needs are echoed in this piece of legislation.</p>
+<p>Mr. Speaker, there are a number of things, and I know the member for Kings West did speak to a number of things that the bill doesn't do and that we hear as MLAs on a regular basis, and really they sit under two headings, which is "patient access" and, of course, "wait times." Sometimes they're the same and sometimes they're not, and this bill doesn't address almost any of those. How often do we get visits from constituents who are having trouble accessing a primary care physician or any kind of primary care, finding the best way to go to see somebody to talk about something that's very important to them, an ailment that has been bothering them regardless of what it is?</p>
+<p>All of these issues are important and should be seen on a regular basis, but knowing that in my area, and in Yarmouth of course, in Argyle, we're okay with the number of physicians, but we're only one away from a bit of a catastrophe when one doctor resigns, retires and leaves, you know, 3,000 to 4,000 patients looking for service somewhere else. But this bill doesn't necessarily look at those issues. It looks at how they're paid, but doesn't necessarily look at how we're going to fill the voids in our communities.</p>
+<p>It also doesn't look at the issue of wait times and as much as wait times shouldn't be the way that we judge our health care system, the unfortunate part is that it is the way it is judged. I don't think it's fair but this is how people look at it. It is the wait time that it took for them to see a primary care physician, it's the time it took to see a specialist, it's the time it took to get the testing done, it's the time it took to finally book the surgery, it's the time it actually took to get the surgery. All of these things contribute to concerns with our health care system. Mr. Speaker, this bill doesn't do that.</p>
+<p>Mr. Speaker, a question I have for the minister - and I hope that he answers - it is the issue that as much as we all talk about the single-payer system, we do have some two-tier systems in the province and that revolves around WCB. I want the minister to answer how that's going to be addressed by this legislation and by this government. What is happening or what has happened is that WCB will contract out a number of surgeries, whether it's in Kentville on a Saturday, they do a blitz; whether it's in Pictou and in some cases I've heard of contracting out to Moncton, to go and get certain surgeries done for the clientele of the WCB. This is something that is happening here.</p>
+<p>Does this prohibit that? Does that add those people to the system? I'm kind of thinking that this will prohibit that. I want the minister to be able to tell me whether that's good or bad because I really don't know if that's a good or bad thing. But that also means that there are going to be a number of people who are not going to be getting the surgeries that they need and adding to the number two issue, which is wait times.</p>
+<p>Mr. Speaker, the other issue that this bill doesn't touch, and I'll quickly say it, is the issue of long-term care in our system, the usage of acute care beds for long-term care placement, where we have so many people, our elderly - and maybe in some cases not so elderly - who are sitting in our hospitals waiting for placement in a long-term care facility. That is putting pressure on our system where many of our hospitals are working at 100 per cent, at 102 per cent, I've heard 104 per cent and probably higher in some cases where - I know when I talk to people in Yarmouth County I hear of people basically in the broom closets, in the lounges, trying to find places for beds so that hospital and those people can receive the services they need.</p>
+<p>Mr. Speaker, I want to see more action by this government to address some of these other issues that are not held within this bill. There are good issues here, it's a repeat of what the Canada Health Act already gives us, it's an update of the Health Services and Insurance Act, it's a proclamation in the support of modern-day Medicare which we all, as Canadians, can support.</p>
+<p>Mr. Speaker, through the next system (Interruption) Okay, I heard Tommy Douglas, I was waiting for someone to throw that across. We know Allan J. MacEachen, we also know that in 1967 who was government at the time when Medicare was brought in in Nova Scotia? It was a Progressive Conservative Government. So we all have had our hands in Medicare one way or another and we have all had our hands in trying to make it better because it is a Canadian health care system and it is one that I will continue to support in the bill.</p>
+<p>With that, I want to thank you very much. I look forward to hearing more comments and I look forward, of course, to the second part of this process which, of course, is the Law Amendments Committee. Thank you very much, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Deputy Premier, who is filling in for the Minister of Health and Wellness.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>I can't get a full-time job of my own, Mr. Speaker. Typical of this government, eh Michel, it's all part-time work? (Interruption) You guys thought it. You're halfway there, right?</p>
+<p>Mr. Speaker, with that bit of levity, I'd like to thank the members for their input on the bill and thank them on behalf of the Minister of Health and Wellness. I'm sure he will read Hansard and take what they had to say with the intent it was meant and the way it was meant. I move second reading of Bill No. 144.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 144. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, would you please call Bill No. 147.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 147 - Regulated Health Professions Network Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Deputy Premier.</p>
+          </speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, on behalf of the Minister of Health and Wellness, I move second reading of Bill No. 147.</p>
+<p>I'm pleased to rise in my place this evening in this House to talk about the Regulated Health Professions Network Act. This is a bill that will make it easier for health professionals in the province to work together to provide safe, high quality care for all Nova Scotians.</p>
+<p>As you know, Mr. Speaker, more than ever, health professionals are working collaboratively as teams to deliver health care from one end of this province to the other. We are seeing this in family practices, health care centres, hospitals, Collaborative Emergency Centres right across the province. Patients are benefiting from this as health officials share their experience, their knowledge and specialized skills.</p>
+<p>The Regulated Health Professions Network Act better reflects support, and fosters this collaborative model of care; this means better care for Nova Scotians. There is a strong history of collaboration among the regulated professional trades and professions in this province. In fact, there is an informal group called the Nova Scotia Regulated Health Professions Network that has been collaborating for the purpose of information sharing and promotion for best practices for many years.</p>
+<p>This bill will formalize and strengthen the work of this group while enhancing voluntary opportunities for collaboration. The network believes that the public is best served when health professionals collaborate to provide care, and has been a driving force behind this important piece of legislation. There are 20 self-regulated professions in Nova Scotia, each covered by a separate Act. The new bill will remove some of the legislative barriers that have limited the amount of co-operation and collaboration that can occur among these health professions.</p>
+<p>Under the new law, for example, health professions will be able to agree to modify and interpret scopes of practice without legislative amendments. This will allow the system to be more responsive to changes in the way care is being delivered. Nova Scotians value and appreciate the care they receive from their health care professionals. We know the issues do sometimes occur, the bill will enhance the complaints process for Nova Scotians who have concerns about their care by enabling joint investigations by the regulatory bodies.</p>
+<p>It will also support quality improvements through better sharing of information, best practices and resources such as policy standards and training materials. As Dr. Peter Vaughan, CEO of South Shore Health and chairman of the province's Quality and Patient Safety Advisory Committee said in support of this legislation that collaborative care is better care. This legislation, he said, "&#x2026; stands to significantly enhance the quality and patient safety agenda &#x2026;" in this province.</p>
+<p>We agree, and our province is leading the way. Interprovincial, team-based collaboration has been a key aspect of health care transformation in Nova Scotia. It is an important part of our Better Health Care Sooner, as reflected in our Collaborative Emergency Centres and our approach to primary care.</p>
+<p>The Regulated Health Professions Network Act will support and foster ongoing collaboration among health care professionals, resulting in better care for Nova Scotians. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings West.</p>
+          </speech>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm pleased to rise on Bill No. 147, the Regulated Health Professions Network Act. From the outset I would like to commend all of the regulated health professions who have come together for one common goal, to improve the lives and well-being of Nova Scotians. It is important to acknowledge their leadership, their informal discussions, and their concerns for the health and well-being of Nova Scotians. It has led all of us collectively as legislators to this place today.</p>
+<p>This bill legislates a process that has been taking place informally within the department since 2007. Many would argue that when you legislate a process that has been working, you sometimes can impede progress. I don't believe this will be the case as the drive and leadership that will result from this piece of legislation will come from the regulated professionals themselves.</p>
+<p>It cannot find fault with the common-sense direction of this bill. More collaboration will ultimately result in better care for the patient. I would, however, be remiss if I did not mention a significant gap in this piece of legislation, a gap I hope the minister will consider and address sooner rather than later. While we acknowledge there are 20 regulated health professions in Nova Scotia, all of whom will form part of this network, notably missing are the paramedics.</p>
+<p>If there is ever a profession that embodies collaboration, as evidenced by our health care system today, it is the profession of paramedicine. Sadly, we don't use the College of Paramedics listed as part of this regulated health professional, which formed the nucleus of this bill, primarily because after seven years after the passage of Bill No. 158, the Paramedics Act, it is still not proclaimed. We have a world-class system. The minister was part of this world-class system and yet the NDP Government has yet to see fit to proclaim this legislation. The former Progressive Conservative Government also had a chance.</p>
+<p>While this network addresses such issues as scope of practice, the paramedics will not be at this table and this is a huge disservice to the people of Nova Scotia and a huge disservice to the practice of paramedicine in our province. Quite frankly, it is nothing short of disrespectful that after unanimous support was given to see the passage of a bill in the House seven years ago, we are unable to see paramedics take their rightful place as playing a valuable role in ensuring and enhancing the delivery of collaborative care in this province and not listed in this piece of legislation today.</p>
+<p>I have brought this to the attention of the minister earlier this session during Question Period because I feel very strongly about this issue. I have a number of former students who are paramedics and they give me some great feedback on what is happening in the Annapolis Valley area when there are gaps around ER closures, around lack of coverage, sometimes in some communities 40 per cent of the time, with an ambulance quite a long distance away.</p>
+<p>This is a gap and one that this government needs to make a priority. After all, Nova Scotians have benefited from the expanded role of paramedics in new health care settings and this is the right thing to do. The right thing to do now is to ensure paramedics have the legislative authority not only as a profession, but also so they too can play a role in the important work that Bill No. 147 outlines today. This is a truly an opportunity missed.</p>
+<p>Mr. Speaker, we support this bill but acknowledge that the inaction of the government and the previous government has resulted in a valuable player not being able to take their rightful place as a player, not only in this piece of legislation, but also as a regulated health profession in this province. With these few comments, I take my place.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle.</p>
+          </speech>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I won't take too long on this one either. When it comes to collaboration, I think it's one that should happen - I guess you would say organically, one that should happen without any impediments, without any systems that are stopping it from happening. If one health professional or one professional group wants to work or do something that is in the best interest of patients and there's something standing in the way, then let's try to find a way to break down those barriers.</p>
+<p>Mr. Speaker, we're taking 20 self-regulated health professions in Nova Scotia, all covered by different Acts of this House, and combining them into one to take away those walls, those impediments for collaboration. Of course we can support that - one that is so important for patient-centred care.</p>
+<p>Again, everything should be based on the patient, and as much as the last two bills that we've discussed in this House, this one and the last one, seem very fancy in their names and seem very long in their text, both do the same thing: help with access, help with patient care.</p>
+<p>There's not much more you can say about that. Looking at the support that has come from different organizations, whether it's Donna Denney at the College of Registered Nurses or whether it's Dr. Peter Vaughan, the CEO of South Shore Health - both very important people and very thoughtful people in our health care system. I can say that if they support it, then of course I will as well.</p>
+<p>So again, Mr. Speaker, this is one of those things where there might be a few pitfalls there, ones that maybe I don't see at this point, ones that we will listen attentively at the Law Amendments Committee to see if there are. So with that, I want to thank the minister for bringing it forward and look forward to the passage of this bill to the next step.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
+<p>The honourable Deputy Premier.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, I want to thank the two critics for their input. This is a good bill. We look forward to it going forward to the Law Amendments Committee. So I move that Bill No. 147 be read for a second time.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 147. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Bills.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>8:58 p.m. The House resolved itself into a CWH on Bills with Deputy Speaker Ms. Becky Kent in the Chair.</p>
+          </narrative>
+          <narrative>
+            <p>9:08 p.m. CWH on Bills rose and the House reconvened. Mr. Speaker, Hon. Gordon Gosse, resumed the Chair.</p>
+          </narrative>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The Chairman of the Committee of the Whole House on Bills reports:</p>
+          </speech>
+          <speech by="" as="#clerk" status="undefined"><from>THE CLERK</from><p>That the Committee of the Whole House on Bills has met and considered the following bills:</p>
+<p><b>Bill No. 131 - School Board Members Duties Clarification Act.</b></p>
+<p><b>Bill No. 133 - Inter-city Bus Service Act.</b></p>
+<p>and the chairman has been instructed to recommend these bills to the favourable consideration of the House, each without amendment.</p>
+<p>Further, Mr. Speaker, that the committee has met and considered the following bill:</p>
+<p><b>Bill No. 111 - Fur Industry Act.</b></p>
+<p>which was reported with certain amendments by the Committee on Law Amendments to the Committee of the Whole, without further amendments, and the chairman has been instructed to recommend this bill to the favourable consideration of the House.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that these bills be read a third time on a future day.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, that concludes the government's business for tonight. I move that the House do now rise to meet again tomorrow at the hour of 12:00 noon. The House will sit until 6:00 p.m. or until the conclusion of business. The order of business on the morrow will be the daily routine; Public Bills for Second Reading, Bill No. 150; Private and Local Bills, Bill No. 146; and Public Bills for Third Reading, Bill Nos. 111, 131, and 133.</p>
+<p>I move the House do now rise.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to adjourn.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>The House rose at 9:09 p.m.</p>
+          </narrative>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="2301">RESOLUTION NO. 2301</num>
+          <speech by="72906878-3b4e-496f-adc4-15b4975f3aa7"><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Valley Triple A Wildcats who play in the Nova Scotia Eastlink AAA Midget Hockey League, under the capable direction of Health Coach Nick Greenough, are off to their best start in club history at 19-2-1-1 for 40 points; and</p>
+<p>Whereas one of the sharpshooters on the Wildcats is young Michael Dill, sometimes referred to as Robert Gordon Orr because of the undying loyalty of his entire family to the Boston Bruins; and</p>
+<p>Whereas the Wildcats are ranked as the number-one offensive team in the league, and number three defensively, while young Michael is eighth in team scoring with his right-hand shot, having scored eight goals and collecting two assists for 10 points;</p>
+<p>Therefore be it resolved that members of this House of Assembly recognize the hard-working efforts of Michael Dill of Windsor, and wish him and his team members every success during the 2012-2013 season as they work toward earning a berth in the Telus Cup National Midget Hockey Championship Tournament.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2302">RESOLUTION NO. 2302</num>
+          <speech by="b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas since 1947 an active auxiliary supporting health care has existed in Pugwash; and</p>
+<p>Whereas at the present time the auxiliary is concerned about the X-ray department being clogged up because the Mobile Breast Screening Unit will not be making the regular stops, as it has in the past; and</p>
+<p>Whereas the auxiliary would also like to know what will become of the old hospital building, as well as the exact number of palliative care beds that will be available once a new hospital is finally constructed;</p>
+<p>Therefore be it resolved that all members of this House of Assembly compliment President Margaret Jamison, Vice-President Beryl MacLean, and the Board of Directors of the North Cumberland Memorial Hospital Auxiliary, for their commitment to the health care concerns of northern Cumberland County.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

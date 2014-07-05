@@ -1,0 +1,1110 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="5dac0dde-7ef3-4f75-a137-834785ff1ae4" href="/ontology/person/ca-ns.tim.houston" showAs="MR. TIM HOUSTON"/>
+        <TLCPerson id="c479d7de-83a6-47c7-a045-07816407bdb3" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="16a35513-2bff-496f-85bc-9a815574e9ba" href="/ontology/person/ca-ns.bill.horne" showAs="MR. BILL HORNE"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="bf8b9586-8d64-4f8f-b12a-88dfc38ac185" href="/ontology/person/ca-ns.lloyd.hines" showAs="MR. LLOYD HINES"/>
+        <TLCPerson id="0b7af00d-43e4-452a-84f1-4e982155e7de" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
+        <TLCPerson id="578ba1c9-5f6c-4b7b-a5cd-b915e1801c37" href="/ontology/person/ca-ns.lena.m.diab" showAs="MS. DIAB"/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="Hon. Andrew Younger"/>
+        <TLCPerson id="16c306ab-30c7-40a9-8c13-d2d2aafda27d" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="0206420c-7710-4c22-9cee-dc3d70a99352" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
+        <TLCPerson id="4431cd01-3fbe-49b0-a199-2a13da7a03f9" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
+        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="34c1e608-d873-4164-95f2-86ccabbc60e9" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="32a29c39-915c-40e7-b749-7c09299ed1f7" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
+        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="980981f9-4823-4d4b-8134-a47d4ecf5405" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="0c003e1d-f0de-4ef6-85c6-604c99fbd41f" href="/ontology/person/ca-ns.gordon.l.wilson" showAs="Mr. Gordon Wilson"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="0debd0ca-ae50-40c1-956e-fe71a4b0b4ef" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
+        <TLCPerson id="bc54523e-7553-4c28-b315-79d18165339b" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
+        <TLCPerson id="2c4ef79f-acb1-4c92-8ff4-e6bfac04ddc0" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
+        <TLCPerson id="f0865fe1-8b9c-48db-8976-5544b7ccac27" href="/ontology/person/ca-ns.joyce.treen" showAs="MS. JOYCE TREEN"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="ac013fcf-fe88-4578-8a8e-9f7973ddac75" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
+        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="aef785d7-7697-4453-8f9c-eef26e4928c3" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="af446054-6fe0-422a-94d6-7cdff4623b7e" href="/ontology/person/ca-ns.joanne.bernard" showAs="HON. JOANNE BERNARD"/>
+        <TLCPerson id="81ace0ab-54e7-4b6d-8d48-6d416fbcd939" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDIE GOSSE"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 7 April 2014</docTitle>
+      <docNumber>14-22</docNumber>
+      <docDate date="2014-04-07">Monday, April 7, 2014</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="62">62nd General Assembly</legislature>
+      <session value="1">1st Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We will begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Community Services.</p>
+        </speech>
+        <speech by="#af446054-6fe0-422a-94d6-7cdff4623b7e"><from>HON. JOANNE BERNARD</from><p>Thank you, Mr. Speaker. One year ago today Nova Scotians, and indeed the world, learned of the tragic passing of young Rehtaeh Parsons. In the days, weeks, and months following her death, the outpouring of emotion, including anger, sadness, despair, and confusion spilled out in neighbourhoods, schools, hospitals, courtrooms, and the media. It was clear that this vibrant, passionate young woman had touched the hearts and souls of people around the world. Her story and spirit live on today in better laws to protect victims, more services for vulnerable people to reach out to, and improved education on what it means to consent and have healthy relationships.</p>
+<p>Our thoughts today are with Rehtaeh's friends and family, in particular her parents, who have shown such dignity and strength in the past year. They both continue to focus their energy to help more young people get the help and support they need. Their actions give us all hope that through tragedy there can be born a new hope for a better tomorrow, a tomorrow where young people are better protected from cowardly, faceless attacks online, a tomorrow where young people know where they can go to get the help they need, a tomorrow where young people know what a healthy, safe, and caring relationship feels like. Together as a society we can do better, we must do better, and we will do better to be kind and respectful to one another.</p>
+<p>Rehtaeh's passing shone a light on real issues, real problems, and real gaps that some find uncomfortable to talk about. I commend the previous government for not shying away and showing a determination to do what government can to support a change in culture but the kind of change that's needed. The kind of change Rehtaeh's memory deserves cannot come from government alone. It must come from all of us playing our part to build a more caring, a more compassionate, a more respectful society. We must share the responsibility of not being afraid to leave the sidelines and break the bystander syndrome when we see someone suffering or in need of help. Mr. Speaker, we all share a moral responsibility to do so.</p>
+<p>Mr. Speaker, Rehtaeh's story reminds us that we must always act, speak and listen to others with compassion, respect, and empathy. We must also believe those who tell us that they have been sexually assaulted or raped. We cannot be bystanders. We must work to pick up our heads from our smart phones or computers or televisions long enough to see if someone in our life needs help. We cannot be afraid to tell someone they are not alone, because they are not. There needs to be help for everyone who needs it, and we as a society must believe victims.</p>
+<p>Anyone who is struggling, who feels bullied or alone needs to know there is help, no matter how lonely they feel, how lost they might be, or what circumstances they may find themselves in - there is someone who cares and is there to listen. Whether they call 811, 211, the province's mental health crisis line, the Kids Help Phone, or go to the hospital, there are services and people ready to help.</p>
+<p>Today, Mr. Speaker, I ask each of us in this House, as well as all Nova Scotians, to reaffirm our commitment to do everything we can to help victims of violence, sexual assault, and bullying reach out to get the help they need.</p>
+<p>One year later Nova Scotians have not forgotten Rehtaeh and the other young people like her who have faced, and may still be facing, similar difficult situations. There are still feelings of sadness and confusion but there is also real progress that has been made. There is a sense that her death will not be in vain, that those who love her will keep her memory alive, and those who might never know her will get the support they need because of her story.</p>
+<p>Today, on behalf of all of us, I wish Rehtaeh's parents and family peace. They remain in our thoughts and prayers.</p>
+<p>Mr. Speaker, I was honoured to attend Rehtaeh's funeral last year. During the service forget-me-nots were distributed as a symbol that we must not forget Rehtaeh or what happened to her, a simple yet beautiful flower that sent a powerful message. I planted those flowers on my balcony where they bloomed all last summer, a powerful reminder of a girl in a chapter in our province's history that none of us should ever forget.</p>
+<p>Mr. Speaker, I would now like to request a moment of silence to remember Rehtaeh.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>We will now have a moment of silence to remember Rehtaeh Parsons.</p>
+        </speech>
+        <narrative>
+          <p>A moment of silence was observed.</p>
+        </narrative>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Thank you.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I rise in response to the minister's statement today on this important anniversary. It is truly hard to believe for all Nova Scotians that a year has passed since the loss of Rehtaeh Parsons, a loss that we all felt together as a province.</p>
+<p>I am thinking of course first and foremost of Rehtaeh's family and friends, but in particular Glen Canning and Leah whom I had the privilege and honour of getting to know a little bit. One of the honours of this job that we all have in this House is that from time to time we get to meet everyday Nova Scotians who go through the ups and downs of everyday life, including facing tragedy bravely when it comes their way - and that is definitely the case with Glen and Leah and Rehtaeh's extended family. I know we're all thinking of them today.</p>
+<p>As any Nova Scotian who has lost a family member knows, as we all do at some time in our lives, the first anniversary is a big moment because you've gone through the first Christmas, the first birthday, the first Easter, and the first family vacation since that person's passing, and I can just imagine what the last year has been like for the Parsons family and all they've been through. It's important that we tell the family of Rehtaeh Parsons today that we are all here, that we are all listening, that we are all learning, and we are all doing everything we can to prevent other families from going through what happened to Rehtaeh Parsons and to her family.</p>
+<p>One of the first things that did happen, and I know in my own family and I'm sure it is true in many others, it prompted some pretty pointed and important discussions around the family dinner table with our children. I have sat down with Glen Canning, not as a politician and a Nova Scotian but in a way as two fathers, as I have two teenage daughters myself and I know that when Rehtaeh's death was in the news we had in our house, as I am hopeful happened in thousands of households, a pretty serious discussion about cellphone use, about social media, about bullying, and about cyberbullying.</p>
+<p>Rehtaeh's already given us that one gift in my family, as I hope and know she has in thousands of others, that the awareness of the dangers today that our children face - boys and girls, young and old - are not the same as we faced ourselves, and as parents we need to get a hold of what those dangers are and do what we can as parents to protect our own children, as Glen and Leah did everything they could.</p>
+<p>But parents don't have all the tools and can't do it all on their own. They rely on those of us who sit in this place in positions of authority to make sure we do all that we can as a society to protect those that are victims in the way that Rehtaeh Parsons was victimized and too many others are as well. Mr. Speaker, when one Nova Scotian is in danger, none of us are safe. When one young Nova Scotian faces online, in the real world cyberbullying, bullying, sexual violence, when one Nova Scotian faces that, we're all in it together - none of us are safe, none of our children are safe.</p>
+<p>So on this first anniversary, Mr. Speaker, it is so important that we all come together in one voice and send a loud and clear message, as we are doing today together, government and Opposition, to every young girl that faces sexual violence, that faces cyberbullying, and bullying - boy, girl, young, old, any Nova Scotian - that every young person who finds themselves victimized, they have to know there is always a place to go, there is always a place a turn. You are never alone with your troubles.</p>
+<p>That's what happens too often in these situations, Mr. Speaker, is that a young person - likely a teenager - vulnerable already, doesn't know where to turn, and our job is to make sure there is always a place for them to go. To your parents, or a guardian, or a family member, or a teacher, or a principal, or your school bus driver, or any number of government agencies, police, mental health units, cyberbullying units, any number of places to call to get help.</p>
+<p>Let the word go out today, from this place on this anniversary, that we are all dedicated to making sure that every single young Nova Scotian knows they are never alone when they are victimized in the way Rehtaeh Parsons was victimized. That can be the greatest gift of all that Rehtaeh can leave to the next generation of Nova Scotians that face what she faced.</p>
+<p>A year ago Rehtaeh's death brought a lot of worldwide attention on our little province here in Nova Scotia. I know it wasn't the kind of attention that we want but it came our way and so the great challenge now is to go from that day to a day where worldwide attention comes to Nova Scotia because we are leaders in the prevention of bullying and cyberbullying and sexual violence, that's the kind of attention that we want. Mr. Speaker, I just want you to know, sir, on the Opposition side we will work with any government, Liberal, NDP, or otherwise, to make that statement true. Thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Sydney-Whitney Pier.</p>
+        </speech>
+        <speech by="#81ace0ab-54e7-4b6d-8d48-6d416fbcd939"><from>MR. GORDIE GOSSE</from><p>Thank you to the minister for providing a copy of her statement beforehand. I, too, am honoured to respond to the ministerial statement by the Minister of Community Services regarding Rehtaeh Parsons. On behalf of the NDP caucus our thoughts today are with family and friends of Rehtaeh Parsons and with all Nova Scotians who are affected by her tragic death. I know there were many; it seems that almost everyone in some way can relate to Rehtaeh's story either directly or indirectly.</p>
+<p>In the days and weeks following Rehtaeh's death I spoke with people who were concerned about the ability of young people to access help when they find themselves in a crisis. People told me they were concerned about how technology was being used to violate the rights of young people, including the use of recording devices and the Internet. People were frustrated; there seemed to be little recourse for people who violated the rights of others in these ways. They were concerned about the sense of helplessness these victims were enduring, and I shared their frustration wholeheartedly, Mr. Speaker.</p>
+<p>In the days following Rehtaeh's death, government vowed to take action. An action team on sexual violence and bullying was assembled to lead an immediate response to the events that led to Rehtaeh Parsons death and to recommend longer-term actions to deal with the broader issues including sexual violence, youth mental health, bullying, cyberbullying, substance abuse, as well as addressing societal norms and relationships. The province announced a total of $1.1 million to improve services province-wide to help ensure victims of sexual assault and their families can get help no matter where they live. A campaign was launched to raise awareness on the need to get consent before sexual activities and where to turn for help when experiencing a crisis. The Department of Justice got to work developing Canada's first-ever CyberSCAN unit to investigate incidents of cyberbullying and to help ensure bullies pay the consequences.</p>
+<p>Like the minister, I too agree that the kind of change Rehtaeh's memory deserves cannot come from government alone. We all have a part to play in building more respectful, caring, and compassionate communities. Like victims, we also have to have the courage to speak out when we see that someone is hurting.</p>
+<p>Not long from now I hope we'll be able to look back as Nova Scotians and see how far we've come in protecting against sexual violence and supporting victims and their pursuit for justice. We will have Rehtaeh Parsons to thank for that, along with her family and friends who are helping to lead this fight. Thank you, Mr. Speaker.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Government House Leader.</p>
+        </speech>
+        <speech by="#34c1e608-d873-4164-95f2-86ccabbc60e9">
+          <from>MR. TERRY FARRELL</from>
+          <p>Mr. Speaker, I request that the House revert to the order of business, Tabling Reports, Regulations and Other Papers.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Finance and Treasury Board.</p>
+        </speech>
+        <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2">
+          <from>HON. DIANA WHALEN</from>
+          <p>Mr. Speaker, I'm pleased to table a certified copy of an Order in Council dated April 3, 2014, pursuant to Section 27 of the Finance Act, respecting additional appropriations for the fiscal year 2013-14.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The document is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Community Services.</p>
+        </speech>
+        <debateSection>
+          <num title="846">RESOLUTION NO. 846</num>
+          <speech by="#af446054-6fe0-422a-94d6-7cdff4623b7e"><from>HON. JOANNE BERNARD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in August 1914, Prime Minister of the day, Sir Robert Borden, hit the first ball to open the Brightwood Golf and Country Club in Dartmouth; and</p>
+<p>Whereas famous people who have played the fairways of Brightwood include Gordie Howe, Henri Richard, and Lori Kane, to name but a few; and</p>
+<p>Whereas Brightwood is a hub of the Dartmouth community, hosting dances and wedding receptions and serving as a prime winter sledding location during its century-long service;</p>
+<p>Therefore be it resolved that members of this House of Assembly join me in congratulating all those who hold Brightwood Golf and Country Club dear on their 100<sup>th</sup> Anniversary, and wish them all the best on their next 100 years.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="847">RESOLUTION NO. 847</num>
+          <speech by="#4431cd01-3fbe-49b0-a199-2a13da7a03f9"><from>HON. TONY INCE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Hannah Rudderham is a shining example of community spirit at the age of 13; and</p>
+<p>Whereas for the past four years, once a month Hannah has come up with a fundraiser for a non-profit organization and has given the monies raised to an organization; and</p>
+<p>Whereas in March, Hannah's fundraiser was in support of the Cape Breton Regional Library, for which she spent a day at the mall reading to young children and selling used books, and she presented her collection of $348 to the library on March 21, 2014;</p>
+<p>Therefore be it resolved that the House of Assembly join me in congratulating Hannah Rudderham, who has raised more than $8,500 for various charities, and applaud her commitment to community development and civic responsibility at such a young age - it is young people like Hannah who are our future, and need to be recognized and encouraged to continue to do work for Nova Scotians.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Justice.</p></speech>
+          <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37">
+            <from>HON. LENA DIAB</from>
+            <p>Mr. Speaker, I beg leave to make a brief introduction before I table a bill.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Permission granted.</p>
+          </speech>
+          <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37">
+            <from>MS. DIAB</from>
+            <p>I would direct everyone's attention to the east gallery, where I'm honoured to have members of the Grandparents Rights for Nova Scotia Association present with us this afternoon on such a beautiful and lovely day, where we see the sun. With us today is the president of the association, Ms. Pauline Glenn; Fay Roode; Madeline and John Stone; Carl and Carolina Leone; and Burton and Linda Roberts. (Applause)</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 40 - Entitled an Act to Amend Chapter 160 of the Revised Statutes of 1989. The Maintenance and Custody Act. (Hon. Lena Diab)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 41 - Entitled an Act Respecting Electricity Efficiency and Conservation. (Hon. Andrew Younger)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that these bills be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <debateSection>
+          <num title="848">RESOLUTION NO. 848</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Stephen Likely, a Springhill High School graduate and University of New Brunswick student, along with his team, appeared on the CBC television show <i>Dragons' Den</i> on March 26<sup>th</sup>, to pitch a cleaning product developed by one of their professors that they say is better than all the rest; and</p>
+<p>Whereas last April this fourth-year chemical engineering student, along with Garrett Nelson and Greg Bailey, earned the CBC Viewers' Choice Award at the New Brunswick Innovation Foundation Breakthru Competition and earned the trio the opportunity to present their business plan for an environmentally friendly industrial hand cleaner that is non-toxic on the show; and</p>
+<p>Whereas Dragon Jim Treliving, who has a major connection with Mr. Lube, the largest chain of quick oil change centres in Canada, was willing to front the team the $200,000 they were seeking for 22 per cent of the company;</p>
+<p>Therefore be it resolved that all members of this House congratulate Stephen Likely and his team for earning a business deal on the <i>Dragons' Den</i> and wish them continued success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the New Democratic Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="849">RESOLUTION NO. 849</num>
+          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas today, April 7, 2014, marks the week of official mourning and the 20<sup>th</sup> Anniversary of the Rwandan genocide, where over 800,000 people were massacred; and</p>
+<p>Whereas during the 100 days of violence, 13 brave Canadians were part of the United Nations Assistance Mission for Rwanda; and</p>
+<p>Whereas Canadians are taking this time to remember and honour the memory of those innocent victims who lost their lives during this traumatic time in Rwanda;</p>
+<p>Therefore be it resolved that the members of the Nova Scotia House of Assembly reflect on the hundreds of thousands of innocents who lost their lives and remember those who still carry unspeakable memories, and to be reminded that silence is no option in the face of tyranny.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Energy.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="850">RESOLUTION NO. 850</num>
+          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>HON. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Stacy Chesnutt, a resident of Dartmouth East and founder and race director of Sole Sisters, and founder and head coach of Girls Gone Gazelle, will be, for the third year, presenting the sold-out annual Sole Sisters Women's Race in Dartmouth on June 7, 2014; and</p>
+<p>Whereas Sole Sisters encourages women from all walks of life to engage in physical activity, have fun, and participate in this non-timed, 5-kilometre run and walk; and</p>
+<p>Whereas donations received from Sole Sisters Women's Race in Dartmouth support the free not-for-profit run club for young girls called Girls Gone Gazelle;</p>
+<p>Therefore be it resolved that members of this House of Assembly join me to thank Stacy Chesnutt and Sole Sisters for their community involvement, and wish them many more smooth miles ahead.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>Just before we go on to the next notice of motion, I want to remind all the ministers on the government side that Government Notices of Motion are intended for business to do with your portfolio, and if it has anything to do with your constituency business that falls under regular Notices of Motion. I just want to have that duly noted.</p>
+<p>The honourable member for Pictou West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="851">RESOLUTION NO. 851</num>
+          <speech by="#2c4ef79f-acb1-4c92-8ff4-e6bfac04ddc0"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Miss Lola Timmons, five years old, of Union Centre, Pictou County, takes great pride in fundraising to help other children and animals; and</p>
+<p>Whereas Lola has generously raised money for Big Brothers Big Sisters Bowl for Kids Sake the past two years, knowing that mentors help kids learn; and</p>
+<p>Whereas Lola loves animals, especially sharks, asking for donations to the SPCA instead of birthday presents;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Miss Lola Timmons for her generous, kind spirit, and wish her the best as she continues her efforts to help children and animals.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Queens-Shelburne.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="852">RESOLUTION NO. 852</num>
+          <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Liberal Government lost their voice last week in the Law Amendments Committee, especially the Liberal backbenchers; and</p>
+<p>Whereas the Liberal backbenchers sat over 18 hours in the Law Amendments Committee listening to the public and never asked a single question; and</p>
+<p>Whereas after reviewing the Liberal campaign literature, it does not say anywhere that the Liberals would remain silent on important issues;</p>
+<p>Therefore be it resolved that this House of Assembly condemn the Liberal Government, especially the backbenchers, for their silence because in this case, silence is not always golden.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Hants East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="853">RESOLUTION NO. 853</num>
+          <speech by="#0b7af00d-43e4-452a-84f1-4e982155e7de"><from>MS. MARGARET MILLER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nova Scotia is grounded in small business in every corner of the province; and</p>
+<p>Whereas Frieze and Roy General Store in Maitland is Canada's oldest continually running general store; and</p>
+<p>Whereas Troy Robertson and Glen Ferguson have undertaken the rejuvenation of the Frieze and Roy General Store to return to its landmark position in the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Troy Robertson and Glen Ferguson for their investment in rural Nova Scotia and commitment to rejuvenating a Nova Scotia treasure.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="854">RESOLUTION NO. 854</num>
+          <speech by="#bc54523e-7553-4c28-b315-79d18165339b"><from>MR. JOHN LOHR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the cornerstone of Nova Scotia's communities, who generously give their time and talent while expecting nothing in return; and</p>
+<p>Whereas on April 7<sup>th</sup> more than 70 volunteers were recognized for the valuable contributions they make to their communities and our province at the 40<sup>th</sup> Annual Provincial Volunteer Awards ceremony; and</p>
+<p>Whereas Shirley Reid has held numerous positions within the New Minas Lions Club, volunteers at local nursing homes, does palliative care and volunteers to help seniors by sewing for them, taking them shopping or driving them to their appointments;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Shirley Reid of Centreville for receiving recognition as the Volunteer of the Year for 2014 for the Village of New Minas and thank her for making Nova Scotia stronger.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Chester-St. Margaret's.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="855">RESOLUTION NO. 855</num>
+          <speech by="#980981f9-4823-4d4b-8134-a47d4ecf5405"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Acadian Maple Products, located in Upper Tantallon, Nova Scotia, is a business owned by the Allaway family and has been involved with the Nova Scotia maple industry for 30 years; and</p>
+<p>Whereas Acadian Maple is the largest purchaser and processor of Nova Scotia produced maple syrup, exporting to markets world-wide, while constantly developing new products; and</p>
+<p>Whereas Acadian Maple is an agri-tourism centre, as well as a retail shop with a full range of maple, blueberry and cranberry products and sees in excess of 30,000 visitors a year;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature congratulate the Allaway family and the staff of Acadian Maple Products for its 30 years of success and dedication.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth South.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="856">RESOLUTION NO. 856</num>
+          <speech by="#16c306ab-30c7-40a9-8c13-d2d2aafda27d"><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Craig Gallery at Alderney Landing in Dartmouth exhibits work by local painters, sculptors and interactive multi-media artists; and</p>
+<p>Whereas graduating NSCAD students are selected for the studio residency at the Craig Gallery based on their dedication to community arts engagement and their artistic merit; and</p>
+<p>Whereas current NSCAD studio residents opened Redux at the Craig Gallery in February, to exhibit their work cultivated through the residency;</p>
+<p>Therefore be it resolved that members of this House of Assembly recognize the work of the Craig Gallery and congratulate the NSCAD studio residents on their exhibit opening, wishing them continued success in their future artistic endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Pictou East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="857">RESOLUTION NO. 857</num>
+          <speech by="#5dac0dde-7ef3-4f75-a137-834785ff1ae4"><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Town of Westville has chosen Babs and Carol MacNeil as their 2014 Representative Volunteers; and</p>
+<p>Whereas all residents of Westville are proud of all the MacNeils have done and are grateful for their untiring contributions to the Town of Westville and the surrounding area; and</p>
+<p>Whereas there is no way to measure the time or effort that this couple has generously contributed for over half a century;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Babs and Carol MacNeil for their tireless work as volunteers over such a long period of time and congratulate them for jobs well done.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River, and may I say welcome back.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="858">RESOLUTION NO. 858</num>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Thank you, Mr. Speaker, and I am feeling much better, thank you.</p>
+<p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 72-year-old Bible Hill resident Wayne McCormick has been volunteering in his community for as long as he can remember; and</p>
+<p>Whereas some of the groups for which Wayne has volunteered include the Kinsmen Club of Bible Hill, the Truro Bearcats, the United Way of Colchester, the chamber of commerce and Boy Scouts, just to name a few; and</p>
+<p>Whereas for his efforts and his assistance to numerous other organizations over the years, Wayne will be receiving a Provincial Volunteer Award in Halifax this month;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature congratulate Wayne McCormick for his outstanding lifetime of volunteer work and wish him great success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Atlantic</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="859">RESOLUTION NO. 859</num>
+          <speech by="#ac013fcf-fe88-4578-8a8e-9f7973ddac75"><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Thomas David Traves served as Dalhousie University's 10<sup>th</sup> president from 1995 to 2013; and</p>
+<p>Whereas Tom Traves' career has been devoted to post-secondary education, serving as a professor and an administrator at several universities; and</p>
+<p>Whereas in recognition of his contributions to post-secondary education, he was appointed to the Order of Canada in December 2013;</p>
+<p>Therefore be it resolved that the members of the House of Assembly congratulate Tom Traves on his appointment to one of the country's highest civilian honours, the Order of Canada, and wish him all the best in his retirement.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="860">RESOLUTION NO. 860</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas CAA Atlantic's annual vote of the worst roads in the region runs from March 25<sup>th</sup> to April 25<sup>th</sup>; and</p>
+<p>Whereas five of the top 10 worst roads in the region were from Nova Scotia as of midday last Wednesday: and</p>
+<p>Whereas the Marble Mountain Road in River Denys sat at number five;</p>
+<p>Therefore be it resolved that the Minister of Transportation and Infrastructure Renewal institute a multi-year plan to repave it.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Timberlea-Prospect</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="861">RESOLUTION NO. 861</num>
+          <speech by="#2c4ef79f-acb1-4c92-8ff4-e6bfac04ddc0"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Big Brothers Big Sisters has been making a difference in the lives of Canadian children and youth for 100 years; and</p>
+<p>Whereas Big Brothers Big Sisters currently serves over 1,300 children and youth in Nova Scotia; and</p>
+<p>Whereas children and youth involved with the organization show increased self-esteem and perform better at school, and mature into confident, caring adults;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Big Brothers Big Sisters, the mentors, and the directors who work diligently to improve the lives of children and youth, thereby benefiting our communities.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="862">RESOLUTION NO. 862</num>
+          <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Liberal Government's introduction of broad and vague essential services legislation last week amounted to an unprovoked attack on working people and those who support the labour movement in Nova Scotia; and</p>
+<p>Whereas the Premier may not be aware of this but his legislation impacts not only tens of thousands of home care workers, nurses, ambulance dispatchers, paramedics, and anyone else who works with our growing population of seniors, but doctors as well; and</p>
+<p>Whereas this is another sad example of the Liberals saying one thing to get elected and doing another thing once they are;</p>
+<p>Therefore be it resolved that all members of this House of Assembly ask the Liberals to actually listen to Nova Scotians and admit their legislation is fundamentally flawed.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="863">RESOLUTION NO. 863</num>
+          <speech by="#0206420c-7710-4c22-9cee-dc3d70a99352"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas for more than 50 years, Bob Sayer has been coaching soccer in Lunenburg County; and</p>
+<p>Whereas the Mahone Bay resident founded the Lunenburg District Youth Soccer Association and was the first Atlantic Canadian to be elected Vice-President of the Canadian Soccer Association;</p>
+<p>Whereas the 1992 inductee of the Nova Scotia Sport Hall of Fame has enjoyed the ups and downs of the South Shore United Football Club, including guiding 10 teams to national tournaments;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Bob on his hard work and dedication in teaching countless youth in Lunenburg County the game of soccer, and wish him well in his retirement from coaching.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="864">RESOLUTION NO. 864</num>
+          <speech by="#bc54523e-7553-4c28-b315-79d18165339b"><from>MR. JOHN LOHR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the cornerstone of Nova Scotia's communities, who give generously of their time and talents while expecting nothing in return; and</p>
+<p>Whereas on April 7<sup>th</sup> more than 70 volunteers were recognized for the valuable contributions they made to their communities and our province at the 40<sup>th</sup> Annual Provincial Volunteer Awards ceremony; and</p>
+<p>Whereas Ada MacDuff of Centreville, a long-time member of the Centreville Good Neighbour Club and coordinator of its Big Breakfast for many years, and co-founder of the Pins and Needles hand-crafts group, donates her time to work with Comfort Quilts for donations to charities, the Baptist Church Annual Quilt Show, the week of Vacation Bible School, and the two annual community dinners;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Ada MacDuff of Centreville, for being recognized as the Provincial Volunteer of the Year for 2014 for the Municipality of Kings, and thank her for making Nova Scotia stronger.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cole Harbour-Eastern Passage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="865">RESOLUTION NO. 865</num>
+          <speech by="#f0865fe1-8b9c-48db-8976-5544b7ccac27"><from>MS. JOYCE TREEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Louise Henman-Poirier has been an avid volunteer in our communities of Eastern Passage and Cow Bay for the past 33 years; and</p>
+<p>Whereas she is a highly-respected principal at Seaside Elementary School in Eastern Passage and within our community for her hard work and dedication on numerous committees; and</p>
+<p>Whereas she has been nominated for the Order of Nova Scotia for 2014;</p>
+<p>Therefore be it resolved that the members of this House of Assembly join me in thanking Louise for her outstanding support and commitment within Eastern Passage and Cow Bay, and wish her continued success in all her future endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Pictou East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="866">RESOLUTION NO. 866</num>
+          <speech by="#5dac0dde-7ef3-4f75-a137-834785ff1ae4"><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Lorraine Blakeney of Pictou East will be the 2014 Provincial Volunteer representative for the Municipality of the County of Pictou; and</p>
+<p>Whereas Lorraine's list of volunteer activities and the number of years she has been volunteering set her apart from the ordinary; and</p>
+<p>Whereas Lorraine has given tirelessly of her time and talents for the betterment of others;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Lorraine Blakeney for her selfless dedication to helping others, and congratulate her on being chosen for this award.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="867">RESOLUTION NO. 867</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Anne LeBlanc began working at the Coady Tomkins Memorial Library 24 years ago; and</p>
+<p>Whereas she has brightened the lives of those visiting the library; and</p>
+<p>Whereas on March 29<sup>th</sup>, her last day of work, the people of the Margarees came out to thank Anne for her service;</p>
+<p>Therefore be it resolved that all members of this House of Assembly acknowledge Anne LeBlanc for her dedication to the Coady Tomkins Memorial Library and the people it serves.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare-Digby.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="868">RESOLUTION NO. 868</num>
+          <speech by="#0c003e1d-f0de-4ef6-85c6-604c99fbd41f"><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas students from across the province received, on February 26, 2014 at Government House, a Respectful Citizen Award; and</p>
+<p>Whereas this award recognizes students who demonstrated leadership and a commitment to creating safe and inclusive spaces, where bullying behaviour is not accepted, and respectful and responsible relationships are promoted; and</p>
+<p>Whereas Mikya Francis from Digby was selected for the Lieutenant Governor's Respectful Citizen Award;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Mikya Francis for winning the Lieutenant Governor's Respectful Citizen Award for outstanding contributions to her school and community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="869">RESOLUTION NO. 869</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Miss Allison Boyd was crowned Princess Windsor 82<sup>nd</sup> on Saturday afternoon at the Hants County War Memorial Community Centre before a near sold-out audience; and</p>
+<p>Whereas Allison will now accept the role's responsibilities involved in being a true ambassador for her town over the next year; and</p>
+<p>Whereas as the result of her victory, Allison will also represent Windsor in the 82<sup>nd</sup> Queen Annapolisa Pageant at University Hall in Wolfville on Friday, May 30<sup>th</sup>;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Allison Boyd on winning Princess Windsor on Saturday afternoon and wish her every success during the Apple Blossom Festival.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cumberland North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="870">RESOLUTION NO. 870</num>
+          <speech by="#34c1e608-d873-4164-95f2-86ccabbc60e9"><from>MR. TERRY FARRELL</from><p>Mr. Speaker, on behalf of the member for Timberlea-Prospect, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in May 2013, Evan Turner suffered severe brain damage in an awful traffic accident where he was knocked from his bicycle in Timberlea; and</p>
+<p>Whereas Evan has spent the best part of a year recovering from his injuries that have left him no longer able to eat, walk, or talk; and</p>
+<p>Whereas Evan has worked hard with the support of his family and his community to get well enough to come home from the hospital;</p>
+<p>Therefore be it resolved that all members of this Nova Scotia House of Assembly send Evan and his family their best wishes for a full recovery.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="871">RESOLUTION NO. 871</num>
+          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the word "oyez, oyez" means "hear ye, hear ye" which is a call for silence and attention and is the traditional cry from a town crier; and</p>
+<p>Whereas Lloyd Smith from West Brooklyn, Kings County, is exceptionally well known in the Windsor-West Hants area for his many years as the local town crier, with his service dating back to 1978; and</p>
+<p>Whereas Lloyd has now become the longest serving town crier in North America;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Lloyd Smith on his many years of community support as town crier and wish him many more successful years in a profession which he represents in such an outstanding way.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Municipal Affairs.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="872">RESOLUTION NO. 872</num>
+          <speech by="#0debd0ca-ae50-40c1-956e-fe71a4b0b4ef"><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Sydney Nickerson of Bridgewater has dedicated many hours to the local Special Olympics athletes to ensure a quality program is maintained; and</p>
+<p>Whereas Sydney attends Dalhousie University and since 2011 has travelled to Bridgewater to coach soccer, snowshoeing, and track and field programs on the weekends that includes athletes from Lunenburg, Queens, and Shelburne Counties; and</p>
+<p>Whereas Sydney is a role model for our community and has positively impacted the lives of many of our Special Olympics athletes through her volunteer work;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank Sydney Nickerson for the time and dedication she has given to the Special Olympics program, and wish her luck and success for the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Guysborough-Eastern Shore-Tracadie.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="873">RESOLUTION NO. 873</num>
+          <speech by="#bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Miss Ann Wallace of Monastery has been active in her community for nearly 70 years, starting as a schoolteacher, then becoming vice-principal of Tracadie Consolidated School - her students remember her as extraordinaire; and</p>
+<p>Whereas she has been an active member for over 60 years in her church, additionally is a noted published author of several books, most recently published is the 150<sup>th</sup> Anniversary for St. Patrick's Church - Merland 1862-2012; and</p>
+<p>Whereas she is truly an outstanding citizen and neighbour who has and continues to help countless people, and she consistently goes above and beyond the call of duty;</p>
+<p>Therefore be it resolved that all members of the House of Assembly recognize Miss Ann Wallace for her dedication to her community and former students - she serves as an example to us all.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Waverley-Fall River-Beaver Bank.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="874">RESOLUTION NO. 874</num>
+          <speech by="#16a35513-2bff-496f-85bc-9a815574e9ba"><from>MR. BILL HORNE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Amy MacLeod, principal at Ash Lee Jefferson Elementary School in Fall River, is one of 40 principals across Canada being recognized for her leadership skills which are based on letting other people's voices being heard, working collaboratively, and building relationships; and</p>
+<p>Whereas The Learning Partnership, a charity that supports public education, selected the winners based on letters of support, geographic representation across Canada, and the nominees' ability to build partnerships with parents and improve student achievement; and</p>
+<p>Whereas the winners will receive leadership training at the University of Toronto's Rotman School of Management and a $20,000 award from Samsung in technology to their school;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Amy MacLeod for being selected one of Canada's Outstanding Principals.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Agriculture.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="875">RESOLUTION NO. 875</num>
+          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Cyndi Cain grew up in Toronto, but spent summers with her grandparents and extended family in Nova Scotia, and while growing up in the church, singing gospel at the age of three years old, and later attending Sheridan College and studying music theatre; and</p>
+<p>Whereas she has vast experience working as an entertainer, singing and performing in music theatre for Club Med vacation resorts, performing onstage with Michael Buble and Naturally 7, also Symphony Nova Scotia, and for Her Majesty the Queen, as well as recording several CDs; and</p>
+<p>Whereas Cyndi Cain has collected an East Coast Music Award nomination, and in 2011 was awarded the Galaxie Rising Star Award at the Halifax Jazz Festival, and in 2014 she received the African Nova Scotia Music Award as Artist of the Year;</p>
+<p>Therefore be it resolved that this House congratulate Cyndi Cain for her many accomplishments and in promoting soul and gospel music throughout her many travels.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Labour and Advanced Education.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="876">RESOLUTION NO. 876</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in 2010 volunteer Joan Embree started a sewing group in her Dartmouth home to make clothing for orphaned children in Africa; and</p>
+<p>Whereas the sewing circle, called "Little Dresses for Africa", then moved to a donated room at Atlantic Fabrics in Dartmouth, whose newsletter now advertises the monthly sessions where volunteers can come and make girls' dresses and boys' shorts from donated material; and</p>
+<p>Whereas the women of Little Dresses for Africa have made more than 1,600 clothing items, which have been shipped to children in Africa, Haiti, and Jamaica with the help of local and overseas missionaries and volunteers;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate those compassionate women for providing much-needed clothing for hundreds of orphaned children overseas.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Education and Early Childhood Development.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="877">RESOLUTION NO. 877</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mike Belliveau began his career in the grocery store business when he was 10 years old and secured a job sweeping floors and stocking shelves; and</p>
+<p>Whereas in March 2014, Belliveau completed 51 years in the grocery business with 25 of those years as owner of Foodland in Tatamagouche, Colchester North; and</p>
+<p>Whereas highlights of Belliveau's career include winning national awards for his business, travelling to conventions all around the world, and raising and donating hundreds of thousands of dollars to give back to the community through countless fundraisers, including his sponsorship of the student of the month program at North Colchester High School for the past 23 years;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Mike Belliveau on his retirement on March 29, 2014, thank him for his many years of public service and his support and his commitment to his community, and wish him well as he enjoys his first vacation in 25 years.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Justice.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="878">RESOLUTION NO. 878</num>
+          <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37"><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on Sunday, January 26, 2014, I had the pleasure of attending the Indo-Canadian Association of Nova Scotia's celebration of India's Republic Day, a celebration that marks the anniversary of the ratification of India's constitution on January 26, 1950; and</p>
+<p>Whereas Republic Day is a national holiday in India, marked by a speech by the president, which is followed by a grand parade in New Delhi, and all across the country smaller festivities are held to celebrate democracy and to commemorate India's accomplishments; and</p>
+<p>Whereas the Indo-Canadian Association here in Halifax organized a wonderful showcase of traditional dances and songs performed by talented young children and youth of the Indian community, and also served some delicious sweets and savouries after the showcase to all who attended;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate the Indo-Canadian Society of Nova Scotia for striving to preserve their cultural traditions here in Nova Scotia, but more importantly, for sharing those traditions with us and contributing to the enrichment of our community and our province.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hants East.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="879">RESOLUTION NO. 879</num>
+          <speech by="#0b7af00d-43e4-452a-84f1-4e982155e7de"><from>MS. MARGARET MILLER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Melanie Medicraft of Lantz is training for a half marathon in Washington, D.C., for the benefit of the Leukemia and Lymphoma Society of Canada; and</p>
+<p>Whereas Ms. Medicraft is committed to raising $3,500 for the Leukemia and Lymphoma Society of Canada; and</p>
+<p>Whereas Ms. Medicraft is engaging her community in fundraising efforts by coordinating the Power of Purple Virtual 5K;</p>
+<p>Therefore be it resolved that all members of this House of Assembly wish Ms. Melanie Medicraft the best in running her first half marathon and thank her for supporting cancer research in Canada.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth South.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="880">RESOLUTION NO. 880</num>
+          <speech by="#16c306ab-30c7-40a9-8c13-d2d2aafda27d"><from>MR. ALLAN ROWE</from><p>Mr. Speaker, on behalf of the member for Eastern Shore, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Rhonda Frank of Head of Chezzetcook recently opened a new business called Artsy Fartsy; and</p>
+<p>Whereas Rhonda has been teaching art classes at the local community centre and has now opened a beautiful new art studio in her own home, she has achieved a personal goal of becoming self-employed; and</p>
+<p>Whereas students as young as three years of age will be creating unique art work and reaching their creative potential under the guidance of Rhonda, which will help set them on a path of lifelong creativeness;</p>
+<p>Therefore be it resolved the members of this House of Assembly join me in congratulating Rhonda on opening Artsy Fartsy, as well as thank her for helping to foster creativity through art on the Eastern Shore.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Lunenburg.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="881">RESOLUTION NO. 881</num>
+          <speech by="#0206420c-7710-4c22-9cee-dc3d70a99352"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Nova Scotia Scotties Tournament of Hearts has long been the provincial women's curling championships; and</p>
+<p>Whereas Blisse Joyce, originally of Lunenburg, has been a lifelong curler; and</p>
+<p>Whereas as a member of the Heather Smith rink of the Mayflower Curling Club, Blisse and her teammates finished the tournament a perfect 8-0 en route to winning the provincial crown and the right to represent the province at the Canadian Scotties Tournament of Hearts in February;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Blisse on her hard work and tremendous achievements in representing her hometown and province at the local, provincial, and national level.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Guysborough-Eastern Shore-Tracadie.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="882">RESOLUTION NO. 882</num>
+          <speech by="#bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas each year communities across Canada celebrate National Volunteer Week to thank and honour people who donate their time to help others by supporting the causes in which they believe; and</p>
+<p>Whereas on April 7, 2014, Mr. Dalton Welsh of Mulgrave will be honoured at the 40<sup>th</sup> Annual Provincial Volunteer Awards ceremony; and</p>
+<p>Whereas through sharing of his time and talents he has not only made tremendous contribution to his community, but to the Province of Nova Scotia;</p>
+<p>Therefore be it resolved that all members of the House of Assembly recognize and thank Mr. Dalton Welsh for his dedication to his community and the Province of Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cole Harbour-Eastern Passage.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="883">RESOLUTION NO. 883</num>
+          <speech by="#f0865fe1-8b9c-48db-8976-5544b7ccac27"><from>MS. JOYCE TREEN</from><p>Mr. Speaker, on behalf of the member for Eastern Shore, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas engaging the youth of Nova Scotia is key to creating a strong community both locally and globally, and one example of youth engagement is the Musquodoboit Harbour Leo Club, which was founded in the Fall of 2013; and</p>
+<p>Whereas the Musquodoboit Harbour Leo Club has raised over $1,700 through their various fundraising efforts for their community projects; and</p>
+<p>Whereas the first community donation made by the Musquodoboit Harbour Leo Club was to provide residents of the Birches Nursing Home of Musquodoboit Harbour with Christmas gift baskets and poinsettias;</p>
+<p>Therefore be resolved that the members of this House of Assembly join me in thanking the Musquodoboit Harbour Leo Club for their tremendous efforts in making the community of Musquodoboit a better place to live and wish them success in their future efforts.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Waverley-Fall River-Beaver Bank.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="884">RESOLUTION NO. 884</num>
+          <speech by="#16a35513-2bff-496f-85bc-9a815574e9ba"><from>MR. BILL HORNE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dr. Cindy Forbes, family physician at the Fall River Family Practice, is, for the first time ever, one of three Nova Scotian women in the running to become president-elect of the Canadian Medical Association; and</p>
+<p>Whereas doctors across the province will cast their vote between Dr. Cindy Forbes, Dr. Maria Alexiadis, and Dr. Cathy Felderhof, to decide who will go on to be the seventh woman to hold the title since the association began in 1867; and</p>
+<p>Whereas Dr. Forbes focuses are in improved patient outcomes, work life balance, promoting active living, and developing national human resource strategy;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Dr. Cindy Forbes on her nomination and thank her for advancing the needs of her patients, as well as the medical profession of Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Municipal Affairs.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="885">RESOLUTION NO. 885</num>
+          <speech by="#0debd0ca-ae50-40c1-956e-fe71a4b0b4ef"><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Wayne Hiltz of Bridgewater has been volunteering in the community for many years; and</p>
+<p>Whereas Wayne brings his gift of music to such events as the Annual Festival of Lights; and</p>
+<p>Whereas Wayne is able to bring a smile to the faces of residents of Hillside Pines, when his music is played;</p>
+<p>Therefore be it resolved that all members of the House of Assembly thank Wayne Hiltz for his continued volunteerism and acknowledge the time and effort Wayne has contributed to his community over many years.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cumberland North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="886">RESOLUTION NO. 886</num>
+          <speech by="#34c1e608-d873-4164-95f2-86ccabbc60e9"><from>MR. TERRY FARRELL</from><p>Mr. Speaker, on behalf of the honourable member for Timberlea-Prospect, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Cassie and Maggie MacDonald encompass everything you could ask for in a musical act, their talent is only surpassed by the joy with which they so generously share it; and</p>
+<p>Whereas while still staying true to their Celtic roots, Cassie and Maggie have explored and tested the boundaries of traditional music, bringing a breath of fresh air to the genre with their original compositions and arrangements; and</p>
+<p>Whereas sisters, cohorts and collaborators, Cassie and Maggie MacDonald have been enchanting audiences far and wide with their infectious energy, driving rhythms and lilting melodies;</p>
+<p>Therefore be it resolved that this House of Assembly congratulate the tremendously gifted Cassie and Maggie MacDonald and wish them the very best as they continue their budding musical careers.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare-Digby.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="887">RESOLUTION NO. 887</num>
+          <speech by="#0c003e1d-f0de-4ef6-85c6-604c99fbd41f"><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Digby and Area Seniors' Safety Program has been reaching out to seniors in the local communities for 10 years; and</p>
+<p>Whereas the program has helped many seniors in need and taught personal safety, home security, and safe independent living; and</p>
+<p>Whereas the Seniors' Safety Program has played a real role in keeping seniors safe and healthy;</p>
+<p>Therefore be it resolved that all members of the House of Assembly join me in congratulating the Town and Municipality of Digby and the Digby and Area Health Services Charitable Foundation for their dedication and passion to seniors and families of our area.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Natural Resources.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="888">RESOLUTION NO. 888</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Duane MacLeod of Yarmouth was recently inducted into the Sigma Theta Tau International Society of Nursing; and</p>
+<p>Whereas the Sigma Theta Tau International Society of Nursing is the second-largest nursing organization in the world, dedicated to supporting the learning, knowledge, and professional development of nurses and committed to improving health worldwide by increasing the scientific base of nursing research; and</p>
+<p>Whereas induction into this organization is a major honour for Duane MacLeod;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Duane MacLeod on his induction into the Sigma Theta Tau International Society of Nursing and wish him well as he pursues his chosen profession.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Labour and Advanced Education.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="889">RESOLUTION NO. 889</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mark Bishoff, CEO of the Bedford environmental solutions company Lorax Systems Incorporated, has created a device which stops oil leaks from fuel lines; and</p>
+<p>Whereas this device, called LineGuardian, is the world's first automatic non-electrical solution to residential fuel line leaks; and</p>
+<p>Whereas in the case of theft or damage to a fuel line, LineGuardian immediately stops the flow of liquid from the oil tank, thereby preventing untold environmental contamination;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Mark Bishoff on LineGuardian, which will be marketed internationally once it attains regulatory approval.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Education and Early Childhood Development.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="890">RESOLUTION NO. 890</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Steve Henderson from East Mountain, Colchester North, built his first stock car in 1974, but did not race one until the following year, at the age of 16; and</p>
+<p>Whereas Henderson was badly hurt at a crash at Scotia Speedworld in 1990 and decided to hang up the helmet in 1997; and</p>
+<p>Whereas in 1999 he became a car owner on the regional pro stock tour, has had numerous wins, and also became owner and operator of R&amp;D Performancenter, which provides parts requirements on and off the track;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Steve Henderson for being inducted into the Maritime Motorsports Hall of Fame in Petitcodiac, New Brunswick, where a plaque will be unveiled to commemorate his contributions and induction.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Finance and Treasury Board.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="891">RESOLUTION NO. 891</num>
+          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>HON. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on February 22, 2014, The Chronicle Herald hosted their Nova Scotia Spelling Bee; and</p>
+<p>Whereas the competition is an impressive showcase of outstanding ability in spelling, with only 43 incredibly intelligent finalists from across the province; and</p>
+<p>Whereas Nashita Jalal, an extremely bright student at Park West School, proudly represented her school and the community of Clayton Park West at this prestigious event;</p>
+<p>Therefore be it resolved that the members of this House of Assembly applaud Nashita for being distinguished as a finalist for this competition and wish her the very best of luck with her future studies.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Natural Resources.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="892">RESOLUTION NO. 892</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Gary Kent of Yarmouth has contributed hugely to Nova Scotia gastronomy with the development of East Coast Ketchup, a new condiment that is unique because it is pink; and</p>
+<p>Whereas Gary Kent, a master chef with 25 years of experience, has developed this pink ketchup with an egg and oil emulsion, which is low in both calories and sugar; and</p>
+<p>Whereas East Coast Ketchup, with the Cape Forchu Lighthouse on the label, is already for sale in 27 locations across Nova Scotia, and this condiment is a tremendous asset to Nova Scotia's reputation for gastronomical achievements;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Gary Kent on his creative accomplishment and wish him continued success in his profession.</p>
+<p>Mr. Speaker I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth South.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="893">RESOLUTION NO. 893</num>
+          <speech by="#16c306ab-30c7-40a9-8c13-d2d2aafda27d"><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Gary Johnson of Dartmouth has volunteered as a coach with the City of Lakes Boxing Club for over 30 years; and</p>
+<p>Whereas under Gary's mentorship and training two Olympians and several provincial champions and national level boxers began their careers at the City of Lakes Boxing Club, which is now located in the North Woodside Community Centre; and</p>
+<p>Whereas Gary was recently presented with a Community Leadership Recognition Award by the Dartmouth Community Health Board for his volunteerism and commitment to empowering youth through sport;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Gary Johnson on this well-deserved award and sincerely thank Gary for his many decades of outstanding contributions to his community through volunteerism and youth engagement.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT MOTIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, I move that you do now leave the Chair and that the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I wish to speak on the debate going into Supply. I just want to make sure that is on at this time.</p>
+<p>I rise today to speak on the address going into Supply where we will examine the budget and the estimates, particularly today, to speak to those youngest Nova Scotians, our most mobile Nova Scotians, those who are graduates of our universities and our community colleges, those who are making life decisions about where to live and work, whether it is going to be here in Nova Scotia or whether it is going to be down the road, whether it's out West or Ontario or somewhere else.</p>
+<p>We all know that Nova Scotia needs our young people to choose here, more than ever before. We also know that the opportunities available to young Nova Scotians in other parts of Canada and around the world, the draw that they feel to go somewhere else has never been stronger than before, both because there are more jobs in other places, because there's more opportunity in other places, but also because the cost of living, including our taxes, is better in other places. If there were not already too much of a push that we don't want, young Nova Scotians are graduating with ever more debt and an ever more urgent need to pay off that debt with their earning, their after-tax earnings.</p>
+<p>For all those reasons, we have watched record numbers of our young Nova Scotians graduate from our schools and colleges and universities and move away. In the face of all that, who gets the biggest kick in the pants by this first Liberal budget? It is our youngest, most mobile, most needed Nova Scotians. They are the ones who got targeted. It is the oddest response; it is the most bizarre response to the problems our province faces that we have ever seen. In the face of the Ivany report, called Now or Never, which points out the incredible demographic challenge we face, particularly among young working-age Nova Scotians, it is inconceivable that the Liberal Government would target them, Mr. Speaker, for extra hardship.</p>
+<p>Mr. Speaker, I mean that in several ways. First of all, we know that young Nova Scotians who use the graduate retention tax rebate program just got the largest tax increase in Nova Scotia's history. In many cases, by the elimination of that $2,500 tax rebate they are facing an increase in their Nova Scotia provincial taxes, in the income taxes, of 50, 60, 70, or 80 per cent. They certainly will keep that in mind when they are deciding where they are going to live, where they are going to seek a job, where they are going to earn income and, when they do earn that income, use it to keep some more dollars in their pockets and pay off their student debts.</p>
+<p>It was quite a sleight of hand, Mr. Speaker, for the government - a few days before the budget - to pretend to be on the side of our students by eliminating the interest on student loans, an act that will save students $800 over their lifetime of paying back that student loan. While that may seem like a good thing, when you contrast that with the $50 million tax hike the government threw onto the backs of our most mobile, educated, needed Nova Scotians a few days later, it's pretty clear that the government only gave with one hand and took with the other, but actually gave a few pennies and then took $50 million out of the pockets of young, mobile, graduate Nova Scotians, that group that Ray Ivany and others say we need so much. It's really shameful that that is one of the centrepieces of this budget.</p>
+<p>The government has a tax review underway. Every time someone stands up and says we need tax relief, the government puts them off, saying that's all being reviewed. These young Nova Scotians who receive that rebate, they weren't told to wait for the tax review, they had their massive tax increase up front. Mr. Speaker, it's inconceivable that the government would target our young graduates in that way, by eliminating that program, a program that actually at one point enjoyed the support, I believe, of all Parties in this House.</p>
+<p>It was a Progressive Conservative Government some years ago that put it in place in an attempt to give young Nova Scotian graduates an incentive to stay and work in our province after they are done their school, and then supported and expanded by an NDP Government that came later. For the same reason, Mr. Speaker, that we need more Nova Scotians, we need more working-age Nova Scotians, we need more young Nova Scotians, so how perverse is it that a new Liberal Government would come in and put the largest tax increase in our province's history on the backs of those very people, those young people whom we need the most?</p>
+<p>Mr. Speaker, if that was not enough, young Nova Scotians got another kick in the pants in this budget tabled last week, and that is when they saw the sea of red ink that is going to continue to flow over the books of Nova Scotia for years to come, the big deficit that was tabled with the budget this year, the projections of deficits after deficits after deficits for the next years into the future, the further driving up of our provincial debt to new record levels during the first term, hopefully the only term, of the Liberal Government - $1.1 billion more in debt, by their own admission, in this first budget.</p>
+<p>Nova Scotians know we are already one of the most indebted provinces in all of Canada and now they have a government that actually plans, on purpose, to make the problem worse.</p>
+<p>Now, Mr. Speaker, the reason we are all so offended by that massive pileup of debt is that we know who will someday be called upon to pay it off, and that is the youngest Nova Scotians who are doing everything right. They are going to school. They are getting a good education. They are taking out student loans to pay for it. They are aiming to fill the jobs of tomorrow, whether they are in our trades, whether they are in emerging industries, or whether they are in our traditional industries, and they want to stay here.</p>
+<p>Mr. Speaker, like many MLAs I like to spend as much time in our schools as possible, and when you ask classes of students how many of them plan to move away when they graduate, almost every hand goes up and that is a shame. Then when you ask how many would like to stay here at home if there was a job, almost every hand goes up as well. Very few go away because they want to, almost all would stay if they had a job and the ability to earn an income and keep enough of it, their fair share after they've paid their taxes, to then pay off those student debts, to then use their own money to put down roots in this province, to buy a car, to buy a home, to invest in our local communities and in our local economy.</p>
+<p>That's why the graduate tax rebate program is there, to give that new generation of Nova Scotians a chance to do all those things because we know every time they sink another root down in our province, be it a home, or a car, or a job, we get another chance to keep them here, living and thriving. But now on top of the removal of that rebate, they know that their credit card is being run up another billion dollars by a new Liberal Government, two kicks in the pants, it is inconceivable. In the face of Ivany, it is inconceivable that a government would do that.</p>
+<p>How are they driving up the credit card? Not by investing in tax relief for Nova Scotians that creates jobs, not by bringing forward a brilliant new job strategy that might pay off down the road, just by driving the expenses of government, Mr. Speaker, 5.5 per cent. At a time in our economy where every other family has been asked or told to cut back and live within their means, this government blows the doors off of spending in their very first year and that is not right. That's why it is a "do as I say, not as I do" Liberal Government budget.</p>
+<p>By the way, Mr. Speaker, there are those who say we should put some constraints on freewheeling Liberal Government spending, like capping it at no more than the rate of growth of inflation in our population, and the wisdom of that formula looks pretty obvious today. There are no more Nova Scotians this year than there were last year; in fact, there are fewer. The inflation rate is 0.9 per cent in the past year. The government is going to spend 5.5 per cent more, almost six times the rate of inflation, on the same or fewer number of people to rack up the credit card to a new record.</p>
+<p>Now I'm sure, Mr. Speaker, that those who advocate for some restraint on spending are going to make this point on their own. It is, for example, one of the main arguments made by the Canadian Federation of Independent Business, a group that has come into our office, and I'm sure into the Liberal Office in times past, to say the time has come to put a limit on all this spending on behalf of the next generations of Nova Scotians. We have agreed with them, and the Liberals certainly led them to believe they agreed with them, but now they have a chance to prove it and they blow the doors off and it is not right. In the face of Ivany, when they have a chance to do something differently, they spend more than ever before. They spend so much they make the NDP look good, and that's hard to do on the spending side.</p>
+<p>We will be following this up as we go department by department and see what all that spending is about. We've already seen some trends, Mr. Speaker. It's amazing to me that in the top-line administration, department after department, you see some of the biggest percentage increases. "Do as I say, not as I do" is the message from the Liberal Government.</p>
+<p>They want to invest more in programs and education, and we support a lot of that. Smaller class sizes and Reading Recovery and things that help our students succeed - we support those things. But then the administration budget for the Department of Education and Early Childhood Development goes up by 20 per cent at the same time, and that is the wrong message to send to young Nova Scotians.</p>
+<p>Both the PCs and the Liberals campaigned on reducing administration in health care, starting with the health authorities and bringing them down to a smaller number. We're prepared to urge the government along in doing that, but then we see the spending at the administrative level at the Department of Health and Wellness headquarters in Halifax going up by over 10 per cent. That's more administration in health care, not less. That's not leading by example. How does the Minister of Health and Wellness have the authority to go to the health authorities and say, you have to be leaner in administration, when he's padding the top of the Health and Wellness budget at the administrative level? That is not right. That is "do as I say, not as I do" from the Minister of Education and from the Minister of Health and Wellness.</p>
+<p>Then, of course, we can go to the very top and look at the departments that are the responsibility of the Premier of Nova Scotia and see that the parade of spending goes on there as well. When department after department - the Premier's office, the Executive Council Office, Priorities and Planning - all the ones that are supposed to direct restraint on the rest of government - follow along on this parade of spending, that is not right. That is, again, an example of "do as I say, not as I do."</p>
+<p>The average Nova Scotian family is struggling to get by on some of the lowest wages in Canada, and at the same time paying the highest taxes and the highest power rates, the highest HST, the highest income tax, and sometimes the highest corporate tax and property tax, and they are being told to cut back while their government spends more at the top. That's not right.</p>
+<p>Finally, we'll come to the deficit itself, and the glaringly obvious message of the budget that if they had just held the line on spending - no cuts, just don't spend more - we would have had a surplus for Nova Scotians today and $100 million left over after that. That's how much this splurge of spending is costing us. If they had just held the line - no cuts, just don't spend more - we'd have a surplus and $100 million that could be used for meaningful tax relief or meaningful debt relief for Nova Scotians.</p>
+<p>But no, the government turned its back on that and went on with the same old way of spending. That's what's wrong with this first Liberal budget. Thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p>
+        </speech>
+        <speech by="#c479d7de-83a6-47c7-a045-07816407bdb3"><from>MS. LENORE ZANN</from><p>Mr. Speaker, it's a pleasure to rise here in my place today to speak. I'd also like to speak about the youth of our province, so I guess we're on the same topic today, but in various capacities. I'd also like to first remind the members of this House, as well as all Nova Scotians, that it was our previous NDP Government who began the whole retention - the rebate program for the graduates, which is successful and has been successful. Unfortunately, I've been getting a lot of emails from young people who are taking courses now, who are very upset that they won't be able to get what they were promised by this government.</p>
+<p>I wanted to say thank you to the Leader of the Official Opposition for his kind words about the program, which our NDP Government started, and I want to say I'm really sad to see that the Liberal Government has decided to cut $45 million from the budget on the backs of our post-graduate students.</p>
+<p>Today, April 7, 2014, is an historic day in our province. As has been mentioned earlier in the House, it is the unfortunate anniversary of the death of a young woman, Rehtaeh Parsons, who chose to end her life because of bullying that she was receiving from many people - faceless, nameless people, as well as people that she knew. Like many others in this House and across the province, my thoughts today are with the family of Rehtaeh Parsons and with her friends and with all Nova Scotians who have been affected by her tragic death.</p>
+<p>I've said in this House on many occasions now, in the four and a half years that I've been in government, what a sad state of affairs our society is in when we have to rise to our feet and address these kinds of sad, sad and very unnecessary issues where young people are either murdered by others or who are forced to take their own life because of the actions of others.</p>
+<p>Following Rehtaeh's death I personally heard from a number of people, many people who were concerned about the ability of young people to access help when they find themselves in a crisis. I remember reading at the time that Rehtaeh, while alive, said repeatedly that she felt so alone. She said she felt so alone because nobody seemed to believe her when she told them that she had been raped, that she had been attacked, that she had been abused. She went to the police and they didn't do anything; they said we don't have any proof. She felt completely cut off, as if what had happened to her didn't matter, hadn't happened and, in fact, she probably started to feel like she was going a little crazy because if she was the only person who believed it had happened, then where is everybody else in the world on this issue and why are they not believing her?</p>
+<p>Personally, as a woman herself who has been attacked over the years, one or twice in my young years, I know that feeling and I know the hopelessness and the powerlessness that you can feel. I know that many women in Nova Scotia have actually experienced the same thing and many of us have not ever stepped forward to try to get the help we needed or, in fact, to inform authorities about the fact that anything had happened; in fact, many of us just tried to sweep it under the carpet. We thought, I'm strong, I will carry on, it's just my body, it's not me that this has happened to; in fact, my mind is fine, I can just pretend it never happened and I'll just go on about my life as if it was just a dream.</p>
+<p>But guess what, Mr. Speaker? Eventually there comes a time when you try to sweep enough things under that carpet, eventually there comes a point where you have to lift up the corner of the carpet and you see a bunch of ugly eyes staring back at you. That is the time when all of a sudden you realize it has been following you all along and that you never did anything to try to help yourself to deal with the feelings, the emotions, the aftershock, the trauma that goes along with it. In fact, in Nova Scotia today not enough women step forward and speak out, and we need to change that.</p>
+<p>I would also like to say that it's not just young women, it is men too. There are many men who are attacked in our society. There's a young woman in Truro, actually, Ms. Margaret Mauger, who has the Sexual Assault Centre. We've talked numerous times about how many men come through her doors searching for help - not enough men because again, in our society it's probably frowned upon for men to admit that they are vulnerable, that perhaps they are vulnerable to attack, as well, because they are supposed to be manly and fight it off.</p>
+<p>Not everybody can fight it off, Mr. Speaker. In fact, some people have even said to me over the last several months, you know young people, young teenagers, how could they hurt a woman like you, somebody powerful, somebody who has a job, who has money, who exudes power and authority? Well, I can tell you that it doesn't matter the age; in fact, in my case it was a teenager who attacked me years ago, a teenager much younger than myself. Although I tried my best to fight it off, I was unsuccessful. I have had to fight with that within myself to this very day because I never really dealt with it until now.</p>
+<p>I've dealt with many things in my life, Mr. Speaker; I've dealt with alcoholism - I'm going to be 18 years sober this coming April and I'm very proud of that fact. (Applause) Thank you. Some people might say, well, you were drinking at the time so you deserved what came to you, or you were in the wrong place at the wrong time, you should have been home and been like a good little girl so it was your fault. Or, you were wearing the wrong clothes, look, you were showing cleavage or you had a short skirt on, you deserved it.</p>
+<p>Well, I'm sorry, but these kinds of arguments are of the past. They are old-fashioned. They are the old boys club and they do not wash anymore in my heart or in our society. I would believe that every single member sitting here in this House today would agree with me on this. Enough is enough. Young women, young men and even older women and older men deserve to be safe in our society. They deserve to be able to go out for a walk on a summer's evening and not be afraid that they will be attacked, sexually or otherwise. I would like to be somebody who would help to lead us all in a project where we try and do every single thing we possibly can to bring public attention to this blight on our society, and to try and get every single person to agree that we must do a part in changing it.</p>
+<p>We have to change it with the way we treat others. We have to treat others with respect. We also have to treat our families with respect, even just ordering people around, barking at people, saying no or being angry with people, losing your temper; losing your temper at an airport, losing your temper at somebody who's not working fast enough for you. These are all types of abuse. There is verbal abuse, there's emotional abuse, there is psychological abuse - there are many abuses going on right now in homes in Nova Scotia. There are many men as well as women who are dealing with this issue.</p>
+<p>Last year I produced a play in Truro for International Women's Day and it was called "Invisible Prisons". It was by Joy Laking, a wonderful visual artist and it was her first play and it was about domestic violence. The reason why I really wanted to produce the play was because 14 characters were women, all true women who had true stories to tell of things that had happened to them here in Nova Scotia. There were two men in the play and they were not protagonists - they were victims too.</p>
+<p>My message today is that we need to work together, and I believe we started well. Our government last year, our NDP Government, introduced the Cyber-safety Act and we introduced the CyberSCAN Investigation Unit which I have to say is a fantastic unit. Some people in the press or the media or different lawyers have said that it's against freedom of speech - actually, it's not. There is this hole in the system which Rehtaeh Parsons fell through, where she went to the police but the police didn't have any proof yet that something had happened. If the CyberSCAN unit had been in place, she could have gone to them and said, I am being cyberbullied, I am being constantly harassed on a day-to-day basis and they are sending a picture of me around from friend to friend to friend and although you can't really tell it's me, they're telling people it's me and I know it's me, I was unconscious at the time of this attack and I did not give my approval for this sexual encounter.</p>
+<p>Today a person like that would be able to call the 1-855 CyberSCAN unit number and they would call them back, they would sit down with them, they would go over the details of the attack, and they would ask them for any kind of proof that they had. Then they would go after the people and try to prove and try and see who was actually telling the truth and who was not. It works.</p>
+<p>There have been now over 100 cases that have been reported and interestingly enough it's not just teenagers. This particular Act is for people of all ages and as I've already said, it's not just teenagers who are being attacked and sexually assaulted - it's adults as well. It does not matter the age, it does not matter your race, it does not matter your job - you could be in a parking lot, the nurses who go off in parking lots leaving hospitals at night, they are oftentimes threatened by people lurking in parking lots; it's very dangerous. The same in parking garages that are supposedly closed - you never know and once you've been attacked, I can tell you, it stays with you and you always look twice. You look behind you, you look in front of you, you look in the backseat, if you're in the shower or - in fact it happened to me.</p>
+<p>I feel scared taking a shower now. I have to have my eyes open all the time so that I can see, make sure nobody is coming into my apartment. It changes you for life and that's why this government, our governments together, need to work towards zero tolerance in our society for any kind of sexual assault, for violence against women and girls, and in fact violence in general.</p>
+<p>In closing I would like to say to Rehtaeh's family that I know they have been through an awful lot and they are very brave and they have been very courageous and I really appreciate their pushing us to do something and in fact never giving up, even after losing their dear loved one. The same goes for any of the young women who have families here in Nova Scotia, who have gone missing, who have been found murdered, and to the Aboriginal women and girls, the missing Aboriginal women and girls right across this country, many of whom have just remained numbers, and that needs to change.</p>
+<p>I'm glad all three of our Leaders have gone to Ottawa and made a statement that we do not appreciate this silence on behalf of the federal government and that in fact Canadian society is ready to do something about it. On that note, Mr. Speaker, I'd like to take my leave and say, let's get the job done, thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The motion is carried.</p>
+        </speech>
+        <narrative>
+          <p>5:54 p.m. The House resolved itself into a CWH on Supply with Deputy Speaker Ms. Margaret Miller in the Chair.</p>
+        </narrative>
+        <narrative>
+          <p>9:56 p.m. CWH on Supply rose and the House reconvened with Deputy Speaker Ms. Margaret Miller in the Chair.</p>
+        </narrative>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The Chairman of the Committee of the Whole House on Supply reports:</p>
+        </speech>
+        <speech by="" as="#clerk" status="undefined">
+          <from>THE CLERK</from>
+          <p>That the committee has met, has made progress, and begs leave to sit again.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be"><from>HON. MICHEL SAMSON</from><p>Thank you very much, Madam Speaker. That concludes the government's business for this evening.</p>
+<p>We will meet tomorrow on Tuesday, April 8<sup>th</sup>, from the hours of 2:00 p.m. to 10:00 p.m. Following the daily routine and Question Period, we will move to Committee of the Whole House on Supply to continue the debate on the estimates, and should time permit, after debate on the estimates we'll be looking to do second reading of Bill No. 35, along with Bill Nos. 41 and 42, which were introduced today.</p>
+<p>With that, Madam Speaker, I move that the House do now rise, to meet between the hours of 2:00 p.m. and 10:00 p.m. tomorrow.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MADAM SPEAKER</from>
+          <p>The motion is that the House do now rise to meet again tomorrow between the hours of 2:00 p.m. and 10:00 p.m.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>We stand adjourned.</p></speech>
+        <narrative>
+          <p>The House rose at 9:58 p.m.</p>
+        </narrative>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <debateSection>
+          <num title="894">RESOLUTION NO. 894</num>
+          <speech by="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>Hon. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dr. Erin Kempt-Sutherland, a member of the Main Street Business Improvement Association and owner of Choice Chiropractic and Integrated Health Centre Inc., has expanded her practice to include physiotherapy services; and</p>
+<p>Whereas Choice Chiropractic is one of the first clinics in Atlantic Canada to feature advanced wireless muscle-stimulation technology; and</p>
+<p>Whereas this newly-expanded clinic features a physiotherapist, three treatment rooms and a large exercise area, which will also be used for yoga and Pilates instruction for individuals and small groups;</p>
+<p>Therefore be it resolved that members of this House of Assembly join me in congratulating Dr. Erin Kempt-Sutherland for her business acumen and commitment to the community, and wish her continued success in the future.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="895">RESOLUTION NO. 895</num>
+          <speech by="32a29c39-915c-40e7-b749-7c09299ed1f7"><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Sackville High School hosted their first For the Kids dance marathon on Thursday, April 3, 2014; and</p>
+<p>Whereas students from various schools throughout the Halifax Regional Municipality were invited to participate in this six-hour fundraising event, making this the first dance marathon to take place in the Maritimes; and</p>
+<p>Whereas more than 800 students attended the dance and raised more than $21,000 for the IWK Health Centre;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature acknowledge the efforts of Sackville High School in planning the first maritime For the Kids dance marathon and raising more than $21,000 for the IWK Health Centre.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="896">RESOLUTION NO. 896</num>
+          <speech by="0c003e1d-f0de-4ef6-85c6-604c99fbd41f"><from>Mr. Gordon Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the backbone of every community in Nova Scotia and the people of Clare are proud of the many dedicated individuals who give of themselves each day to make our municipality a better place to live; and</p>
+<p>Whereas this year the Clare community has selected Maurice Deveau, one of its outstanding citizens, as Volunteer Representative of the Year and this individual has given much in the way of time and energy to his community; and</p>
+<p>Whereas through this individual's genuine warmth and caring toward others, he has become a valuable asset to the organization that he has been involved in;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Maurice Deveau for being named Clare's Volunteer Representative of the Year for his outstanding contribution to his community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="897">RESOLUTION NO. 897</num>
+          <speech by="0c003e1d-f0de-4ef6-85c6-604c99fbd41f"><from>Mr. Gordon Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the backbone of every community in Nova Scotia and the people of the Municipality of the District of Digby are proud of the many dedicated individuals who give of themselves each day to make our municipality a better place to live; and</p>
+<p>Whereas this year the Municipality of the District of Digby has selected Dorothy Tidd, one of its outstanding citizens, as Volunteer Representative of the Year, and this individual has given much in the way of time and energy to various organizations; and</p>
+<p>Whereas through this individual's genuine warmth and caring toward others, she has become a valuable asset to the organizations that she has been involved in;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Dorothy Tidd for being named Volunteer Representative of the Year for her outstanding contribution to her community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="898">RESOLUTION NO. 898</num>
+          <speech by="0c003e1d-f0de-4ef6-85c6-604c99fbd41f"><from>Mr. Gordon Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas volunteers are the backbone of every community in Nova Scotia and the people of the Municipality of the District of Digby are proud of the many dedicated individuals who give of themselves each day to make our municipality a better place to live; and</p>
+<p>Whereas this year the Municipality of the District of Digby has selected Mary Tibbetts, one of its outstanding citizens, as Volunteer Representative of the Year, and this individual has given much in the way of time and energy to various organizations; and</p>
+<p>Whereas through this individual's genuine warmth and caring toward others she has become a valuable asset to the organizations that she has been involved in;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Mary Tibbetts for being named Volunteer Representative of the Year for her outstanding contribution to her community.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="899">RESOLUTION NO. 899</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Josh Andrews, of Lesterdale, completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level, a plan was developed for each individual, and they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return to work plan; and</p>
+<p>Whereas through hard work and commitment he was able to improve his employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Josh on successfully completing the NOW Program, and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="900">RESOLUTION NO. 900</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Blair Borden, of Sunnyville, completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level, a plan was developed for each individual, and they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return to work plan; and</p>
+<p>Whereas through hard work and commitment he was able to improve his employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Blair on successfully completing the NOW Program, and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="901">RESOLUTION NO. 901</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Matthew Clyke, of Sunnyville, completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level, a plan was developed for each individual, and they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return to work plan; and</p>
+<p>Whereas through hard work and commitment he was able to improve his employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Matthew on successfully completing the NOW Program, and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="902">RESOLUTION NO. 902</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Rob Haywood, of Manasette Lake, completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level, a plan was developed for each individual, and they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return to work plan; and</p>
+<p>Whereas through hard work and commitment he was able to improve his employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Rob on successfully completing the NOW Program, and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="903">RESOLUTION NO. 903</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Ashley Peters, of St. Francis Harbour, completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level, a plan was developed for each individual, and they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return to work plan; and</p>
+<p>Whereas through hard work and commitment she was able to improve her employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Ashley on successfully completing the NOW Program, and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="904">RESOLUTION NO. 904</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dave Anderson of Half Island Cove completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level and a plan was developed for each individual, they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return-to-work plan; and</p>
+<p>Whereas through hard work and commitment he was able to improve his employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Dave on successfully completing the NOW Program and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="905">RESOLUTION NO. 905</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Janet Grady of Guysborough completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level and a plan was developed for each individual, they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return-to-work plan; and</p>
+<p>Whereas through hard work and commitment she was able to improve her employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Janet on successfully completing the NOW Program and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="906">RESOLUTION NO. 906</num>
+          <speech by="bf8b9586-8d64-4f8f-b12a-88dfc38ac185"><from>Mr. Lloyd Hines</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Lillian Clyke of Sunnyville completed the New Opportunities to Work Program at Guysborough Adult Learning Association; and</p>
+<p>Whereas all participants completed in-depth assessments on their current skill level and a plan was developed for each individual, they were able to work at their own pace and covered material that contributed to advancement of their individual learning and return-to-work plan; and</p>
+<p>Whereas through hard work and commitment she was able to improve her employability skills while gaining work experience through volunteer placements throughout the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate Lillian on successfully completing the NOW Program and express our support for the importance of adult learning and the difference it can make in people's lives.</p></speech>
+        </debateSection>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

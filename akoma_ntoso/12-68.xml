@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="799b989e-2c9d-4331-b5f3-5f78d3447b57" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 29 March 2012</docTitle>
+      <docNumber>12-68</docNumber>
+      <docDate date="2012-03-29">Thursday, March 29, 2012</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="3">3rd Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Let Her Honour be admitted.</p>
+      </speech>
+      <narrative>
+        <p>The Speaker and the Clerks left the Chamber.</p>
+      </narrative>
+      <narrative><p>The Lieutenant Governor, the Honourable Mayann E. Francis, preceded by her Private Secretary, and by Mr. Ken Greenham, Sergeant-at-Arms, bearing the Mace, entered the House of Assembly Chamber. The Lieutenant Governor then took her seat on the Throne.</p>
+<p>The Sergeant-at-Arms then departed and re-entered the Chamber followed by the Speaker, Hon. Gordon Gosse; the Chief Clerk of the House, Neil Ferguson; and the Assistant Clerk, Annette Boucher.</p>
+<p>The Speaker, preceded by the Sergeant-at-Arms on his right and the Clerks on either side, took up his position at the foot of the Table of the House.</p></narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined"><from>SERGEANT-AT-ARMS</from><p>Her Honour, the Lieutenant Governor.</p>
+<p>It is the wish of Her Honour that the ladies and gentlemen be seated.</p></speech>
+      <speech by="" as="#lieutenant governor" status="undefined"><from>THE LIEUTENANT GOVERNOR</from><p>Mr. Speaker and members of the House of Assembly, in closing this, the Third Session of the Sixty-first General Assembly convened in the province, I thank you for the attention, consideration and care you have given to the legislation and measures that have come before you.</p>
+<p>Some of the important pieces of legislation passed over the course of the last Session included:</p>
+<p>New, fair drug prices for Nova Scotians covered by Pharmacare;</p>
+<p>Approved that the province reach 40 per cent renewable electricity by 2020;</p>
+<p>Enacted a new Public Procurement Act to ensure all public-sector entities work together to get taxpayers the best value for goods and services;</p>
+<p>Approved the Bowater-Mersey Pulp and Paper Investment Act, which protected 2,000 good jobs and allowed for the purchase of Crown land and supported the pulp and paper industry in Nova Scotia; and</p>
+<p>Nova Scotia Jobs Fund Act, which will allow the province to better meet today's economic development needs and increase accountability.</p>
+<p>Other key pieces of legislation included:</p>
+<p>The Environment Act;</p>
+<p>New Elections Act; and</p>
+<p>Changes to the Education Act to make school boards more accountable to Nova Scotians.</p>
+<p>In total, 76 bills received the approval of the House, including a number of Private and Local Bills.</p>
+<p>I thank you for the ample provision you have made for the Public Service and I assure you that care and prudence will be exercised to ensure that the amounts voted are expended in the best interests of Nova Scotia.</p>
+<p>I now bid you farewell.</p></speech>
+      <speech by="#799b989e-2c9d-4331-b5f3-5f78d3447b57">
+        <from>HON. DARRELL DEXTER</from>
+        <p>Mr. Speaker and members of the House of Assembly, it is the will and pleasure of Her Honour, the Lieutenant Governor, that this, the Third Session of the Sixty-first General Assembly be prorogued and this session is accordingly prorogued and that the Fourth Session of the said General Assembly meet at two o'clock in the afternoon of this day for the dispatch of business.</p>
+      </speech>
+      <narrative>
+        <p>The House rose at 11:10 a.m.</p>
+      </narrative>
+    </debateBody>
+  </debate>
+</akomaNtoso>

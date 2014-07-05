@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. BAIN"/>
+        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="fe20fa65-2371-4fef-a6ec-d2a63b72dfa5" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
+        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. MACLEOD"/>
+        <TLCPerson id="aef785d7-7697-4453-8f9c-eef26e4928c3" href="/ontology/person/ca-ns.keith.colwell" showAs="MR. COLWELL"/>
+        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="b67194ee-eead-4e8d-9cdb-2d1935c5be52" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="6918f31d-8900-4400-a42c-b0374b14b8ff" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="20520cce-c7eb-4da6-bc5e-8e9f24f3db6b" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="13787640-1a96-4b80-8d04-ce79410f4a22" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="15a1cda3-8762-45c9-b3f6-609ff9fc7048" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="5e4eedce-ee17-4542-8b27-a1e87f85ec80" href="/ontology/person/ca-ns.graham.steele" showAs="MR. STEELE"/>
+        <TLCPerson id="2c8e1a56-2f9d-4156-a91f-77802701e3d3" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="5da6e0aa-9066-4b5c-8d26-9222b854db7e" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="799b989e-2c9d-4331-b5f3-5f78d3447b57" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="05943c17-4381-46aa-8d21-dbc5ad93a99a" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
+        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="b31db77c-006f-4f6e-ab57-0c449cb2d93a" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="3b49aa8d-3e78-4679-b8f7-f3161f11d3a3" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 21 November 2011</docTitle>
+      <docNumber>11-49</docNumber>
+      <docDate date="2011-11-21">Monday, November 21, 2011</docDate>
+      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <legislature value="61">61st General Assembly</legislature>
+      <session value="3">3rd Session</session>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We will begin the daily routine.</p>
+      </speech>
+      <debateSection>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Progressive Conservative Party.</p>
+        </speech>
+        <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I beg leave to introduce a petition from the residents of Springhill. The operative clause reads:</p>
+<blockquote>&#x201C;Petition to Increase the Number of Medical Staff at All Saints Springhill Hospital which will allow for 24 hour Emergency Service to be continued.&#x201D;</blockquote>
+<p>Mr. Speaker, it contains over 1,000 signatures, and I have affixed my own signature thereto.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
+      </debateSection>
+      <debateSection>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Deputy Premier.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, on behalf of the honourable Minister of Justice, I beg leave to table the 2010-11 annual report of the Public Trustee Program of Nova Scotia.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The report is tabled.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>STATEMENTS BY MINISTERS</heading>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Education.</p>
+        </speech>
+        <debateSection>
+          <num title="2371">RESOLUTION NO. 2371</num>
+          <speech by="#b31db77c-006f-4f6e-ab57-0c449cb2d93a"><from>HON. RAMONA JENNEX</from><p>Mr. Speaker, on behalf of the honourable Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas aging well for older adults means adopting positive health practices like being well, staying physically active, and staying socially connected and mentally engaged - which in turn limits injuries and promotes cognitive health; and</p>
+<p>Whereas aging well is of particular importance to the 700 Nova Scotians who turn 65 every month and have the desire to live their lives to the fullest and stay active and healthy in the communities they love; and</p>
+<p>Whereas through the collective support of the 12 regional aging well together coalitions - collectively called Community Links - seniors are working with seniors to encourage one another to be active;</p>
+<p>Therefore be it resolved that all members of this House join me in celebrating November 20<sup>th</sup> to November 26<sup>th</sup> as Aging Well Together Week in Nova Scotia, and commend the hard work of Community Links in their efforts to encourage Nova Scotians to be active and stay active at any age.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <debateSection>
+          <heading>Bill No. 106 - Entitled an Act to Amend Chapter 254 of the Revised Statutes of 1989. The Libraries Act. (Hon. David Wilson)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 107 - Entitled an Act to Develop a Multi-Year Funding Framework. (Ms. Kelly Regan)</heading>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 108 - Entitled an Act to Abolish the Rules of Law against Perpetuities and to Amend Chapter 385 of the Revised Statutes of 1989. The Real Property Act, and Chapter 486 of the Revised Statutes of 1989. The Variation of Trusts Act. (Hon. Ross Landry)</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Ordered that these bills be read a second time on a future day.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Kings West.</p>
+        </speech>
+        <debateSection>
+          <num title="2372">RESOLUTION NO. 2372</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on Friday, November 18, 2011, the government announced details of its pediatric insulin pump program, set to start in January 2012; and</p>
+<p>Whereas New Brunswick is the fifth province to implement a publicly-funded insulin pump program, with Manitoba set to announce details soon; and</p>
+<p>Whereas with Friday's announcement and with Manitoba's upcoming commitment, 61 per cent of Canadians live in a province where access to this lifesaving device is available to all and not just to those who are able to afford the costs or possess private health insurance;</p>
+<p>Therefore be it resolved that all members of the House congratulate the Governments of British Columbia, Saskatchewan, Ontario, Newfoundland and Labrador, New Brunswick, and Manitoba for their wisdom in investing in a publicly-funded insulin pump program and encourage this NDP Government to implement a program for the benefit of Nova Scotian diabetics.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2373">RESOLUTION NO. 2373</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas each year one-third of seniors in Nova Scotia will fall, leading to unnecessary, and sometimes devastating, injury; and</p>
+<p>Whereas today marks the first day of Fall Prevention Week, a week devoted to raising awareness and educating Nova Scotians on ways to help avoid the incidence of these accidents; and</p>
+<p>Whereas winter is fast approaching and all Nova Scotians must take the necessary precautions to ensure their safety in the coming months, and year-round;</p>
+<p>Therefore be it resolved that all members of this House recognize the importance of Fall Prevention Week, and extend a reminder to Nova Scotians to make sure they take the proper measures to ensure safety in their homes and on the go.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Premier.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2374">RESOLUTION NO. 2374</num>
+          <speech by="#799b989e-2c9d-4331-b5f3-5f78d3447b57"><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this June, Sport Nova Scotia hosted the 15<sup>th</sup> annual Ricoh Sport Awards in Halifax to recognize the achievements of more than 180 athletes, coaches, officials, sponsors, and volunteers from across the province; and</p>
+<p>Whereas the Ricoh Sport Makes A Difference Award honours any individual, group, organization, committee, or similar body that creates, establishes or initiates an innovative program, competition or event, or demonstrates an outstanding example of fair play; and</p>
+<p>Whereas this year the Sport Makes a Difference Award went to Paul Mason, Michael Rumsby, and the Cole Harbour Bantam AA boys hockey team;</p>
+<p>Therefore be it resolved that the members of this House congratulate all the recipients of this year's Ricoh Sport Awards and wish them the best of luck in their future athletic endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2375">RESOLUTION NO. 2375</num>
+          <speech by="#fe20fa65-2371-4fef-a6ec-d2a63b72dfa5"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas we depend on our local broadcasters to tell us what is happening in our communities; and</p>
+<p>Whereas we depend on the people who bring us our news to be fair, informed, and to give a true reflection of the issues and things that matter to us; and</p>
+<p>Whereas CTV newsman Steve Murphy has spent more than three decades doing just that, as a journalist, talk show host, and anchor;</p>
+<p>Therefore be it resolved that members of the Legislature extend their congratulations to Steve Murphy on the occasion of 25 years as host of CTV Atlantic, first on Live at 5 and currently as host of the evening news, and thank him for his service, his dedication, and continued professionalism in our Maritime neighbourhoods.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Leader of the Progressive Conservative Party.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2376">RESOLUTION NO. 2376</num>
+          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Elizabeth Jones of Oxford is a first-year Bachelor of Science Nursing Program student at St. Francis Xavier University who has received financial support for health-care-related studies through Cumberland Health Care Careers Bursary Program; and</p>
+<p>Whereas the bursaries are awarded based on the applications received and a careful review of the organization's future human resource needs; and</p>
+<p>Whereas the bursary program, which is only open to Cumberland County students, requires all recipients to sign an agreement for a "return for service" equal to the number of years for which they received the bursary;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Elizabeth Jones on receiving the Cumberland Health Care Careers bursary, and wish her continued success in her future nursing career.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Citadel-Sable Island.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2377">RESOLUTION NO. 2377</num>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas John Neville was born in England on May 2, 1925, and after serving with the Royal Navy, had a much-lauded acting career in Britain before moving to Canada in 1972; and</p>
+<p>Whereas John Neville continued to build his exemplary reputation as an actor and artistic director at the Citadel Theatre in Edmonton, the Neptune Theatre in Halifax, and the Stratford Festival in Stratford, Ontario, earning the Order of the British Empire in 1965 and the Order of Canada in 2006; and</p>
+<p>Whereas on Saturday, November 19<sup>th</sup>, John Neville passed away at Wellesley Central Place in Toronto;</p>
+<p>Therefore be it resolved that all members of the House of Assembly recognize the extraordinary life lived by John Neville, including his stewardship of our own Neptune Theatre, and send condolences to his wife of 62 years, their six children and six grandchildren, other family and friends at this difficult time.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2378">RESOLUTION NO. 2378</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas many of our communities throughout Nova Scotia are blessed with a wealth of dedicated volunteers who enrich our communities; and</p>
+<p>Whereas fire department ladies auxiliaries play such a fundamental role in the operation of volunteer fire departments across Nova Scotia; and</p>
+<p>Whereas the Little Brook Fire Department Ladies Auxiliary will be recognized on November 26, 2011 at the department's annual banquet for their dedication and tireless commitment to the fire department and to their community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate the Little Brook Fire Department Ladies Auxiliary as they celebrate their 30<sup>th</sup> Anniversary.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2379">RESOLUTION NO. 2379</num>
+          <speech by="#6918f31d-8900-4400-a42c-b0374b14b8ff"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Boston Bruins entered the 2011 Stanley Cup playoffs with a hard-working team and Vezina Trophy-winning goaltending; and</p>
+<p>Whereas Nathan Horton played an impassioned playoff season, scoring 17 points in 21 games and created a turning point in the final series when his team rallied around him when he was injured; and</p>
+<p>Whereas Nathan's grandparents have roots in Nova Scotia - in Inverness with the Damas family, and in Port Hood with the Watts family;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize Mr. Horton's success and congratulate the 2010-11 Boston Bruins team for winning the Stanley Cup.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Chebucto.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2380">RESOLUTION NO. 2380</num>
+          <speech by="#c64a6bcf-fabd-4b08-bd04-ecd0fc310c2e"><from>MR. HOWARD EPSTEIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Occupy Nova Scotia encampment linked Halifax with hundreds of cities internationally where similar protests and solidarity with the Occupy Wall Street movement in New York are expressing concerns with the alarming escalation of economic inequality; and</p>
+<p>Whereas the Occupy Nova Scotia protestors demonstrated great respect for the core values of our community by voluntarily vacating the Grand Parade in order to facilitate observances in connection with Remembrance Day; and</p>
+<p>Whereas we are blessed in Canada to have a constitution that includes a Charter of Rights and Freedoms that includes protection of the freedoms of association, assembly and expression;</p>
+<p>Therefore be it resolved that this House note with regret that HRM and the Occupy Nova Scotia supporters did not resolve their differences through ongoing discussions and negotiations.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2381">RESOLUTION NO. 2381</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 18-year-old Francis Castein of Manganese Mines, Colchester North, entered a 10-year military contract with the Canadian Forces on July 14<sup>th</sup>; and</p>
+<p>Whereas the contract consists of a $40,000 scholarship for five years at the Royal Military College followed of five years of employment as a military logistics officer; and</p>
+<p>Whereas other goals Castein has achieved include the Colonel Robert Perron Award for being the most physically fit cadet in Canada, making the top 12 top teens in Canada, participating in cadet and biathlon provincials, cadet nationals and a biathlon national event, representing Nova Scotia in the 2011 Canada Winter Games and winning the Duke of Edinburgh Young Canadians Challenge Gold for her commitment to community services;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate this remarkable young woman for her numerous achievements and wish her well in her chosen career.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2382">RESOLUTION NO. 2382</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas entrepreneurship begins at an early age at Middle River Consolidated School; and</p>
+<p>Whereas Grades 3 - 6 classes at the school use their existing school garden to grow, develop and market products that they made themselves; and</p>
+<p>Whereas some of the products made during this project include herb jelly, herb vinegar, pickled carrots and chow;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize these future entrepreneurs at Middle River Consolidated School, applaud the teachers who have encouraged and supported the students, and wish them every success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Citadel-Sable Island.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2383">RESOLUTION NO. 2383</num>
+          <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Downtown Halifax Business Commission's Holiday Parade of Lights is a much anticipated holiday tradition for people of all ages across the Halifax Regional Municipality; and</p>
+<p>Whereas on November 19, 2011, more than 100,000 spectators lined the streets of downtown Halifax for the 16<sup>th</sup> annual Holiday Parade of Lights with parade marshals from Chisholm Youth Services; and</p>
+<p>Whereas the Holiday Parade of Lights encourages parade goers to bring new, unwrapped toys for children in need and non-perishable food items or cash donations for Feed Nova Scotia;</p>
+<p>Therefore be it resolved that this House of Assembly recognized the Downtown Halifax Business Commission and all of the sponsors, volunteers, parade participants and supporters who are helping those in need while making the Holiday Parade of Lights one of the most popular seasonal events in the Halifax Regional Municipality.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2384">RESOLUTION NO. 2384</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mr. Wadih Fares arrived in Nova Scotia from Lebanon as a teenager from war-torn Lebanon, and proceeded to learn English and earn two engineering degrees; and</p>
+<p>Whereas Wadih went on to open his own firm, WM Fares Group, where his word is his bond, as it is in all his dealings as Honorary Consul to Lebanon; and</p>
+<p>Whereas Wadih was named the top CEO in Atlantic Canada by Atlantic Business Magazine in May 2011;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Wadih Fares on his latest award and wish him every success in his current and future endeavours.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2385">RESOLUTION NO. 2385</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on November 13<sup>th</sup>, after six decades, Wedgeport resident Gerard LeBlanc recorded a CD of music; and</p>
+<p>Whereas the CD entitled, <i>Mom and Dad Christmas Memories,</i> was inspired by Gerard's parents from the 1950s and 1960s when they owned a dance hall where this type of music was played; and</p>
+<p>Whereas Gerard LeBlanc has been singing in a 50s and 60s rock band for many years;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Gerard LeBlanc on the release of his CD and wish him success in this and future ventures.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b">
+            <from>MR. JIM BOUDREAU</from>
+            <p>Mr. Speaker, I beg leave to make an introduction.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Certainly.</p>
+          </speech>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b">
+            <from>MR. BOUDREAU</from>
+            <p>Today we have Laura Emery who is the chief librarian for Eastern Counties Regional Library which proudly serves the Counties of Guysborough, Inverness and Richmond. The library itself has seven branches, nine community link sites, home delivery and books by mail. The Eastern Counties Regional Library will be launching a new Web site on November 26<sup>th</sup> and they have an innovative project underway called the Path to Success which is introducing essential research skills and new technologies to youth. I would ask Laura, who is in the east gallery, to rise and receive the warm welcome of the House. (Applause)</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope you enjoy today's proceedings.</p>
+<p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2386">RESOLUTION NO. 2386</num>
+          <speech by="#20520cce-c7eb-4da6-bc5e-8e9f24f3db6b"><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas EnCana Corporation, the owner and operator of Nova Scotia's offshore Deep Panuke natural gas project, has provided sponsorship to Eastern Counties Regional Library for the past 10 years by making an initial donation to the library's annual Share A Book fundraising campaign and then matching public donations up to a maximum of $10,000 per year; and</p>
+<p>Whereas this will be the tenth and final year for sponsorship by EnCana and the community has appreciated and supported this campaign in great part through the matching program; and</p>
+<p>Whereas the fundraising campaigns have resulted in a significant increase in materials being purchased for the library that would not have been purchased otherwise;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate EnCana Corporation and their staff for their much appreciated dedication to furthering the interest in education, reading and literacy in the Counties of Guysborough, Inverness and Richmond.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2387">RESOLUTION NO. 2387</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on September 17, 2011, the YMCA of Yarmouth held its grand reopening, an event which included an open house where members of the public had the opportunity to tour the facility and see the recent renovations; and</p>
+<p>Whereas the YMCA's motto is "we build strong kids, strong families, strong communities"; and</p>
+<p>Whereas for many years now, the YMCA of Yarmouth has been doing just that in building strong kids, families and a strong Yarmouth through its many fitness and exercise, swim, community, and summer camp programs for children, teens, adults and seniors;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate the YMCA of Yarmouth on its grand reopening, recognize this facility for enriching the lives of the people throughout Yarmouth County and encourage everyone to experience one or more of the many programs offered by the YMCA of Yarmouth.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2388">RESOLUTION NO. 2388</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas members of the O'Neil Clan from Bateston, Cape Breton, recently hosted the fourth annual Ronnie O'Neil Memorial Ball Tournament; and</p>
+<p>Whereas the money raised at the tournament is donated to the Cancer Patient Care Fund in memory of their brother, uncle and friend Ronnie O'Neil; and</p>
+<p>Whereas the O'Neil Clan raised $5,000 this year, bringing the amount raised in four years to the grand total of $10,000;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate and acknowledge the O'Neil Clan on this gesture of remembrance for their lost brother, uncle and friend Ronnie O'Neil and thank them for raising funds for such an important cause.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Glace Bay.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2389">RESOLUTION NO. 2389</num>
+          <speech by="#2c8e1a56-2f9d-4156-a91f-77802701e3d3"><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas this NDP Government has raised taxes, hiked user fees, and stood by silently as power rates skyrocketed, gas prices increased by over 25 cents per litre, and the price of a healthy basket of food for a family of four rose by close to $100 per month; and</p>
+<p>Whereas since the NDP took power in 2009, there are 12,500 more Nova Scotians without jobs and 14,800 more Nova Scotians have given up entirely and exited the workforce; and</p>
+<p>Whereas under the NDP, rural Nova Scotia has been hit particularly hard in the past year, with 2,100 jobs lost in Cape Breton, 1,400 jobs lost in the North Shore region, 600 jobs lost in the Valley, and 2,500 jobs lost in the southern region of Nova Scotia;</p>
+<p>Therefore be it resolved that all members of the House of Assembly condemn the NDP for raising taxes and fees and standing by silently while power, gas, and food prices have risen by unacceptable rates and for their inaction on the 12,500 jobs which have been lost under their watch.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2390">RESOLUTION NO. 2390</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Johnny Miles Festival packed 28 events into a five-day festival built around hometown hero Johnny Miles; and</p>
+<p>Whereas in 1926, at the age of 20, Johnny Miles won the Boston Marathon, breaking the record for the prestigious race and finishing a full four minutes ahead of the runner-up, all in a pair of 95-cent sneakers; and</p>
+<p>Whereas the Johnny Miles Festival Society presented a jam-packed, five-day event based on the theme of fitness, culture, and music;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate the festival organizers and volunteers on an extremely successful festival and wish them continued success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2391">RESOLUTION NO. 2391</num>
+          <speech by="#15a1cda3-8762-45c9-b3f6-609ff9fc7048"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Dunachton Gale, a three-time winner as Atlantic Canada Horse of the Year, has a special place in the hearts of owner Dave Fillmore of West Berwick and Phil Pinkney, the legendary Nova Scotia trainer and driver; and</p>
+<p>Whereas Dunachton Gale won 14 of his 16 starts as a three-year-old and was second in the other two races, was named Atlantic Canada Horse of the Year in 2006 and again in 2007, and was inducted into the Berwick Hall of Fame at their annual ceremony in 2011; and</p>
+<p>Whereas Dunachton Gale was retired to stud in 2005 and now resides at Pictonian Farms in Pictou County, where his offspring will hopefully follow in his hoof-steps;</p>
+<p>Therefore be it resolved that the House of Assembly recognize the outstanding accomplishments of Dunachton Gale, his trainer Phil Pinkney, and owners the Fillmore family of Berwick, and thank Carol Boylan-Hartling for reading the citation.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2392">RESOLUTION NO. 2392</num>
+          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas MacKenzie's Country Store, located across from the Little Narrows Ferry, is now in its sixth successful year of business; and</p>
+<p>Whereas MacKenzie's is a true country store with a varied inventory that includes hardware items, groceries, lottery tickets, ice cream, and fresh, hot coffee; and</p>
+<p>Whereas MacKenzie's Country Store is owned and operated by Louise MacKenzie, who also has some great help from Brian, Barbara, and Liz;</p>
+<p>Therefore be it resolved that all members of this House of Assembly wish Louise MacKenzie and the staff of MacKenzie's Country Store continued success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Yarmouth.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2393">RESOLUTION NO. 2393</num>
+          <speech by="#8834559e-ddf7-4ac7-9b30-8ada0eb9a7ca"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Jeff Muise's cycling career has included many impressive highlights, including the 2002 junior provincial road racing title, a third-place finish in the Nova Scotia Provincial Individual Time Trial Championships, winning the Bicycle Nova Scotia Point Series Championship, and several other podium finishes in Atlantic Canada; and</p>
+<p>Whereas on November 19, 2011, the 35<sup>th</sup> Annual Yarmouth County Athletic Awards banquet was held at the Yarmouth Lions Club; and</p>
+<p>Whereas Jeff Muise was named 2011 Yarmouth County Athlete of the Year;</p>
+<p>Therefore be it resolved that the members of this House of Assembly congratulate Jeff Muise on being named the 2011 Yarmouth County Athlete of the Year at the 35<sup>th</sup> Annual Yarmouth County Athletic Awards banquet, wish him much future success in the sport of cycling, and thank him for his contribution to sport in Yarmouth.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton West.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2394">RESOLUTION NO. 2394</num>
+          <speech by="#e23caf06-dcf3-42a5-8a00-f4435df40350"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Morgan Shepard, son of Glenn and Eleanor Shepard of Louisbourg, was recently named Male Athlete of the Year at the George D. Lewis School; and</p>
+<p>Whereas Morgan participated in baseball, basketball, hockey, and track and field; and</p>
+<p>Whereas this is a great honour for Morgan to have received this award as he starts his high school career;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Morgan on receiving this award and wish him every success as he continues on in high school.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Clare.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2395">RESOLUTION NO. 2395</num>
+          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Barb Everett, a resident of Tideview Terrace in Digby, has been a devoted fan for many years of country music superstar Reba McEntire and never had the opportunity to see her perform live; and</p>
+<p>Whereas recreation student Julienne LeBlanc decided to contact concert promoters, the Cressman Sakamoto Agency in British Columbia, for complimentary tickets for Barb after Reba's Halifax concert was sold out and received three tickets, though the next challenge faced was to find a way for Barb to get to Halifax to attend the concert; and</p>
+<p>Whereas after contacting manager Claredon Robicheau of Le Transport de Clare for assistance, the use of one wheelchair-accessible van and a volunteer driver were offered to help take Barb to see her country music idol in Halifax;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in thanking Julienne LeBlanc, promoter Cressman Sakamoto Agency, and Le Transport de Clare in helping make Barb Everett's dream come true.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cape Breton North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2396">RESOLUTION NO. 2396</num>
+          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Carol Bradbury, a North Sydney native now living in Alberta, took part in the 2011 Canadian Death Race in Grande Cashe, Alberta; and</p>
+<p>Whereas the 125-kilometre course began and finished on a 4,200-foot plateau, passed over three mountain summits, and included a 17,000-foot elevation change and a major river crossing at Hell's Gate Canyon; and</p>
+<p>Whereas the 36-year-old mother of two finished 85<sup>th</sup> place out of 360 competitors in just over 22 hours and finished seventh in the 30 to 39 age group;</p>
+<p>Therefore be it resolved that all members of the House of Assembly congratulate Carol for her determination and endurance and for her impressive finish in the 2011 Canadian Death Race.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester North.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2397">RESOLUTION NO. 2397</num>
+          <speech by="#13787640-1a96-4b80-8d04-ce79410f4a22"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Hannah Martin, a student at North Colchester High School in Tatamagouche, Colchester North, took third place overall in the regional competition of the Canada-Wide Science Fair; and</p>
+<p>Whereas Hannah's study on the relative health of local youth won her a cash prize, a school plaque, and qualification as a member of the team representing Nova Scotia at the Canada-Wide Science Fair in Toronto; and</p>
+<p>Whereas Hannah won a bronze medal of excellence in the junior category, a cash prize, and an entrance scholarship to the University of Western Ontario;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Hannah for winning this prestigious award and for representing and bringing acclaim to Nova Scotia.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2398">RESOLUTION NO. 2398</num>
+          <speech by="#b67194ee-eead-4e8d-9cdb-2d1935c5be52"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas birthdays are an occasion for family and friends to gather together to celebrate the life of an individual; and</p>
+<p>Whereas on July 23, 2011, Mrs. Blanche Doucet celebrated her 90<sup>th</sup> birthday; and</p>
+<p>Whereas to have reached 90 years of age and continue to be active and share a lifetime of memories with your loved ones is a wonderful reason to celebrate;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Blanche Doucet on reaching this milestone of her life and wish her many more happy birthdays and continued good health.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Bedford-Birch Cove.</p></speech>
+        </debateSection>
+        <debateSection>
+          <num title="2399">RESOLUTION NO. 2399</num>
+          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas in 2011, Halifax's Maskwa Aquatic Club had an outstanding year, growing their paddling program to more than 260 paddlers and with the addition of nearly 50 more athletes, sent its largest contingent ever to an out-of-province Nationals competition; and</p>
+<p>Whereas at the Nationals, Maskwa broke into the prestigious top 10 ranked clubs in the country, and the midget men came second in overall points and the junior women came third overall; and</p>
+<p>Whereas the many volunteers who support the club's activities from fundraising to coaching have made it possible to provide the opportunities enjoyed by all Maskwa participants;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate all of the athletes and volunteers with Maskwa for the dedication that has propelled the club to triumph at home and abroad.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+        </debateSection>
+      </debateSection>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call Bill No. 102.</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
