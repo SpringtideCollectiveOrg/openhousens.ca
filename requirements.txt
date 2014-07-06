@@ -9,7 +9,7 @@ static==1.0.2
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 # -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
--e git+git://github.com/jpmckinney/sayit.git@lxml#egg=django-sayit
+-e git+git://github.com/jpmckinney/sayit.git@hotfix#egg=django-sayit
 
 # Akoma Ntoso importer
 python-dateutil==2.2
