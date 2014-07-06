@@ -149,13 +149,13 @@
         <from>MR. SPEAKER</from>
         <p>The motion is defeated.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -169,11 +169,11 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -237,7 +237,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -251,7 +251,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -607,11 +607,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 1:10 p.m. and end at 2:10 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -944,7 +944,7 @@
             <p>Order, please.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1077,9 +1077,9 @@
 <p>The Adjournment motion was submitted by the honourable member for Victoria-The Lakes:</p>
 <p>"Therefore be it resolved that all members of this House of Assembly condemn the NDP for telling Nova Scotians the budget was balanced despite extensive evidence to the contrary."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1279,7 +1279,7 @@
           <p>The House adjourned at 8:46 p.m.</p>
         </narrative>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="759">RESOLUTION NO. 759</num>
@@ -1409,7 +1409,7 @@
 <p>Whereas Lynda is truly interested in the well-being of her community as she is a Heart and Stroke Walkabout leader, a certified Senior Fitness Instructor, and a promoter of fitness for all ages;</p>
 <p>Therefore be it resolved that all members of the Nova Scotia Assembly congratulate Lynda Kanne on receiving the Provincial Volunteer Award on April 15, 2013.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

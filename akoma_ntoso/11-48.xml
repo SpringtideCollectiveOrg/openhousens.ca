@@ -41,19 +41,19 @@
         <from>MADAM SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -130,7 +130,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -144,7 +144,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -375,8 +375,8 @@
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -399,8 +399,8 @@
           <from>MADAM SPEAKER</from>
           <p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -535,7 +535,7 @@
             <p>Thank you, Mr. Minister. The statement is retracted.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
@@ -817,9 +817,9 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

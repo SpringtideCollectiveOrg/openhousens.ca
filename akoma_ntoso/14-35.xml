@@ -49,13 +49,13 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll now proceed with the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -67,8 +67,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -105,8 +105,8 @@
 <p>I know we're all particularly concerned about young workers who tragically seem sometimes to be at higher risk in our workplaces, and that's why our government, a few years ago, established the Grade 9 curriculum program to connect with the next generation of workers. By expanding the Workplace Health and Safety modules from its pilot project to all schools across the province, all Grade 9 students now have an opportunity to learn how to respect their work environment and the tools to help prevent workplace accidents.</p>
 <p>Nova Scotians must understand that they have both a right and a duty to raise safety concerns with their employers and, conversely, employers have a responsibility to provide safe working environments. Employers who fail to do this must be held to account - that is why the NDP introduced legislation, regulations, that provide for administrative penalties when violations are found at work sites. Also, about a year ago the NDP and the Workers' Compensation Board launched a new five-year workplace safety strategy that aims to make Nova Scotia the safest province in the country for our workforce.</p>
 <p>Mr. Speaker, I said this morning at the Day of Mourning ceremony here at Province House that as MLAs we are privileged to experience great joy in our work when we attend celebrations in our community where people are having a 100<sup>th</sup> Birthday, or where young people are graduating from a program that they have had great success in, or a new community project that has been worked on for decades comes into reality, but a day like today is a day of sorrow for MLAs in our House. We all know families, we all know communities that have felt the tragedy, the sorrow, the human cost of having someone from our province lose their life on the job. Collectively I know we are determined to turn these statistics around so that sorrow will be absent in our lives and in the lives of our communities. Thank you.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -147,11 +147,11 @@
             <p>A moment of silence was observed.</p>
           </narrative>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -564,7 +564,7 @@
             <p>Order, please. We'll now resume with Orders of the Day.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>

@@ -44,7 +44,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -59,11 +59,11 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -77,11 +77,11 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -161,7 +161,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -184,7 +184,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -602,7 +602,7 @@
             <p>We welcome all our guests to tonight's proceedings and hope they enjoy the evening.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -914,7 +914,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2213">RESOLUTION NO. 2213</num>
@@ -980,7 +980,7 @@
 <p>Whereas Dale Roache is a dedicated Special Olympian who demonstrates good sportsmanship and always tries his best;</p>
 <p>Therefore be it resolved that this House of Assembly congratulates Dale Roache for winning a gold medal in bocce at the 2011 Nova Scotia Summer Games.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

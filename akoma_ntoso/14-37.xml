@@ -61,7 +61,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will now begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -74,8 +74,8 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -96,14 +96,14 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -182,11 +182,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -634,11 +634,11 @@
 <p>The motion is carried.</p>
 <p>Barring any more notices of motion, we'll now move on to orders of the day.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS TO MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 2:52 p.m., we'll conclude at 4:22 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1244,7 +1244,7 @@
             <p>Mr. Speaker, I too would like to make an introduction. I draw your attention to the east gallery. Mr. Bob Taylor, who is the mayor of the Municipality of Colchester, a long-serving public official and committed to the well-being of rural Nova Scotia and the community at large, so I want to take this opportunity to thank him for his service and ask the members of the House to recognize Mr. Taylor. (Applause)</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">

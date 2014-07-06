@@ -61,25 +61,25 @@
         <from>MADAM SPEAKER</from>
         <p>Order, please. We'll now commence with the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -399,11 +399,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Question Period will begin at 2:34 p.m. and end at 4:04 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -993,7 +993,7 @@
             <p>Thank you. The time allotted for the Oral Question Period has expired. Thank goodness.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1303,7 +1303,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1296">RESOLUTION NO. 1296</num>
@@ -1625,7 +1625,7 @@
 <p>Whereas Jill and Kelly helped lead three teams to become national champions for their age groups in 2011-2012 and followed this by coaching four separate teams to become NS provincial champions and recently helped athletes fundraise for a trip to the United National Championship in Florida;</p>
 <p>Therefore be it resolved that the members of this House congratulate Jill Whittleton and Kelly Whittleton for their outstanding contributions to Halifax Cheer Elite and the sport of cheerleading in Nova Scotia and wish them continuing success in all their future endeavours.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

@@ -38,7 +38,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -52,17 +52,17 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -140,7 +140,7 @@
             <p>We welcome all our guests to the Legislature and hope you enjoy this morning's proceedings.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -160,7 +160,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -274,7 +274,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
@@ -493,9 +493,9 @@
           <p>The House rose at 11:14 a.m.</p>
         </narrative>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

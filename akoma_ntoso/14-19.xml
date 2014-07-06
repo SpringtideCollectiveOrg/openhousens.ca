@@ -45,10 +45,10 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. Before we start the daily routine, there is no late debate tonight.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -61,16 +61,16 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -81,7 +81,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -217,11 +217,11 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 2:20 p.m. We will conclude at 3:50 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -839,10 +839,10 @@
             <p>The House rose at 11:30 p.m.</p>
           </narrative>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

@@ -64,10 +64,10 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -79,8 +79,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -94,8 +94,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -126,8 +126,8 @@
           <from>MR. SPEAKER</from>
           <p>Thank you.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -247,7 +247,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -274,7 +274,7 @@
           <p>Ordered that these bills be read a second time on a future day.</p>
         </speech>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -969,11 +969,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 3:28 p.m. and we will finish at 4:58 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1558,7 +1558,7 @@
             <p>Order, please. That is not a point of order. It's a speech. It's not a point of order. Thank you. Table it.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1714,7 +1714,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2163">RESOLUTION NO. 2163</num>
@@ -1796,7 +1796,7 @@
 <p>Whereas the Forest Ridge Smartie Pants were among the 27 teams from Grades 4 to 6 who advanced to the regional Science Olympics by topping district competition;</p>
 <p>Therefore be it resolved that this House of Assembly congratulates Forest Ridge Academy student Sydney Smith for winning a gold medal at the Tri-County Regional School Board's regional Science Olympics on June 9, 2011.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

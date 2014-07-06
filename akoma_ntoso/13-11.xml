@@ -57,7 +57,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll now begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
 <p>The honourable Government House Leader.</p></speech>
@@ -80,14 +80,14 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -111,8 +111,8 @@
             <p>Order, please. We will now continue on with our afternoon.</p>
           </speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -131,7 +131,7 @@
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
-      </debateSection>
+      </ministerialStatements>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -151,7 +151,7 @@
 <p>Mr. Speaker, with that I want to offer again to the minister my personal support in any way that I can work with you to make sure that we have meaningful action on this file and to the Premier, I want to again offer my support in any way we can as a Party to make sure that we have meaningful results for young Nova Scotians.</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -181,8 +181,8 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -192,11 +192,11 @@
           <from>HON. STERLING BELLIVEAU</from>
           <p>Mr. Speaker, before I read my resolution, may I be permitted an introduction?</p>
         </speech>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="#3b49aa8d-3e78-4679-b8f7-f3161f11d3a3">
           <from>MR. BELLIVEAU</from>
@@ -264,15 +264,15 @@
             <p>Ordered that these bills be read a second time on a future day.</p>
           </speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2">
           <from>HON. DIANA WHALEN</from>
           <p>Mr. Speaker, the question I thought was going to the Minister of Health and Wellness on the timeline for his changes to the DHAs. I can say that we will not have that ready to provide for you when the update is done. I'm legislated to provide an update before the end of this calendar year, so that is underway. A lot of planning is already underway for that. On the day that I give the fiscal update, that's what we'll be focusing on singularly. Thank you.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -813,7 +813,7 @@
             <p>Order, please. The time allotted for the Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="#2c8e1a56-2f9d-4156-a91f-77802701e3d3"><from>MR. MACLELLAN</from><p>Mr. Speaker, that is one of the elements in the equation, the upcoming fishing season. I think that if this timeline shifts into that season - I mean we're not that far from May - so if that were the case, we could maybe delay it until after that point.</p>
@@ -893,7 +893,7 @@
 <p>It is curious that this member is asking that question because previously, as a Minister of Environment, he was the lead on protecting land. One of the fibre challenges that we have in the Province of Nova Scotia, the Crown only owns about 30 per cent of the land in this province and upwards of 30 per cent of that land is now protected. I'd ask the member opposite, what is his preference - that we unprotect land to open up the fibre supply?</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="282">RESOLUTION NO. 282</num>
@@ -1021,7 +1021,7 @@
             <p>Order, please. The time allotted for the Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">

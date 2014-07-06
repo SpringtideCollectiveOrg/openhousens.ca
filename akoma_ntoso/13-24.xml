@@ -67,16 +67,16 @@
 <p>Before we get into the daily routine, I will read the subject matter for late debate:</p>
 <p>Therefore be it resolved that all members of the House of Assembly stand against the drastic and misguided changes to employment insurance being pushed by the Harper Conservative Government, which threaten to negatively impact workers and communities across Nova Scotia.</p>
 <p>This was submitted by the honourable member for Halifax Clayton Park.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -140,8 +140,8 @@
 <p>One concern that I do recall was with the changes that will be implemented with this legislation: when a contract ends, there's automatic cut-off, I believe. That was a concern raised because there might be some people who, for whatever reason, don't decide to renew their contract, but do intend to. They might find that they are actually cut off. So I know we have to balance that with people who may not renew nor intend to renew, but who are renewed automatically, as it stands now. That is one concern I just want to raise.</p>
 <p>Posting minimum monthly costs, requiring that there be no major changes to fees, or cancelling any time - those are good things. I do know that a lot of the reasons why we have these long-term contracts are because phone companies are using an incentive for people to buy a new phone, by which they don't have to pay anything for the phone and thus they sign into the long-term contract. I know there may be ways that companies have used that to keep out competition, but it is a feature that I know consumers do appreciate, and I've used it myself.</p>
 <p>Finally, I want to mention something about cyberbullying. It is good to see that we're promoting the information and encouraging companies like EastLink, as the minister mentioned, who are in agreement with this, to ensure that people are using cellphones and smartphones responsibly. I think that is a good thing, and it is good to see that we have a piece of legislation. Of course, we introduced a piece of legislation on cyberbullying, to give law enforcement the tools they need, whether it is to confiscate cellphones from people who are using them for inappropriate purposes - so we see that legislation coming forth, and we hope that our encouragement has had something to do with that. With that, Mr. Speaker, I will conclude my remarks.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -220,7 +220,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -237,7 +237,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -489,8 +489,8 @@
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -512,8 +512,8 @@
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <debateSection>
           <num title="1056">RESOLUTION NO. 1056</num>
@@ -954,11 +954,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 1:40 p.m. and end at 2:40 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1293,7 +1293,7 @@
             <p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1671,9 +1671,9 @@
 <p>"Therefore be it resolved that all members of the House of Assembly stand against the drastic and misguided changes to Employment Insurance being pushed by the Harper Conservative Government which threaten to negatively impact workers and communities across Nova Scotia."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1738,7 +1738,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1084">RESOLUTION NO. 1084</num>
@@ -1780,7 +1780,7 @@
 <p>Whereas his album, <i>Where's Our Revolution,</i> won the 2010 Juno Award for contemporary Christian/Gospel Album of the Year, and <i>"</i>Ocean", one of the releases from <i>Til the Sunrise</i>, was named Best Inspiration Song of the Year at the 2012 Convent Awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Matt Brouwer for the many successes in his musical career and extend our best wishes for his future endeavours.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

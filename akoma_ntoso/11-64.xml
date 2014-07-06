@@ -52,10 +52,10 @@
         <from>MADAM SPEAKER</from>
         <p>Order, please. We'll now commence with the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -77,8 +77,8 @@
           <from>MADAM SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -110,8 +110,8 @@
           <from>MADAM SPEAKER</from>
           <p>The amendment is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -127,8 +127,8 @@
           <from>MADAM SPEAKER</from>
           <p>We welcome all visitors to the gallery and hope you enjoy today's proceedings.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -148,7 +148,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -159,7 +159,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -518,7 +518,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -952,7 +952,7 @@
 <p>It is agreed.</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -1015,8 +1015,8 @@
         <narrative>
           <p>The House rose at 7:33 p.m.</p>
         </narrative>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
         <debateSection>
           <heading>Given on December 9, 2011</heading>
@@ -1052,8 +1052,8 @@
             <p>(1) Does the Minister of Justice support a regional policing study, which will ensure a high standard of policing services throughout Pictou County or is it his intention to dissolve the municipal police forces and accept RCMP policing?</p>
           </question>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2977">RESOLUTION NO. 2977</num>
@@ -1287,7 +1287,7 @@
 <p>Whereas Jessica and fellow students raised $650 to build a well in Garlapadu Village in India;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Jessica Cruickshanks, a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville, for her participation in raising $650 to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

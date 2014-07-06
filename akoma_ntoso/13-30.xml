@@ -73,10 +73,10 @@
       </speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Tomorrow - very complicated but it will be done tomorrow, I promise you that. I had a meeting with my staff this morning over it.</p>
 <p>We will begin the daily routine.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -95,8 +95,8 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -124,8 +124,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -234,8 +234,8 @@
           <from>MR. SPEAKER</from>
           <p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -343,11 +343,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -894,11 +894,11 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time now is 3:39 p.m., we will finish at 5:09 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1326,7 +1326,7 @@
             <p>That is not a point of order. It's a difference of facts. I thank the honourable minister for tabling that.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1502,9 +1502,9 @@
 <p>"Therefore be it resolved that the Leader of the Official Opposition explain to Nova Scotians why the Liberal Party has misled Nova Scotians by making statements like those from the member from Dartmouth East that the New Brunswick energy market is 'working just fine' when the recent New Brunswick decision has blown yet another hole through the Liberal energy plan, so soon after their last misguided attempt to woo Hydro Quebec."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1576,7 +1576,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1317">RESOLUTION NO. 1317</num>
@@ -1666,7 +1666,7 @@
 <p>Whereas the team roster included Edison Clements, Art Shibinette, Steve Slade, Hughie Snow, Dwight Smith, Clarie Warner, Henry Boutilier Jr., Ken Jamieson, Joe Batten, Ken Graham, Ralph Hoffman, Martin Warner, Jim Hoffman, Jackie Ferguson, Charles Slade, Butch Hoffman, Greg Hines, Bruce Clark, Jim Jobe, Omar Sheppard, James Edwards, Glenn Slade, and Blaine MacAulay;</p>
 <p>Therefore be it resolved that the members of this House join me in congratulating the team members on their selection as members of the Cape Breton Sport Hall of Fame, and we thank them for their efforts in supporting local sport and recreation after their playing days.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

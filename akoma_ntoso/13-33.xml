@@ -36,21 +36,21 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -82,7 +82,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -171,7 +171,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
@@ -507,7 +507,7 @@
 <p>The motion is carried.</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -554,7 +554,7 @@
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
         </speech>
-      </debateSection>
+      </papers>
       <debateSection>
         <heading>PUBLIC BILLS FOR THIRD READING</heading>
         <speech by="" as="#speaker" status="undefined">

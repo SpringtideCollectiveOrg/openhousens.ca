@@ -71,7 +71,7 @@
 <p>I'll start from the left-hand side: Joey Wagner, the rescuer of Mojo the dog; Rhonda Boudreau, who helped out with the petition, and her two sons, Josh and Connor; and a few friends who have come along for the ride as well. Again, I apologize for not getting their names written down. I will ask them to rise and receive the warm welcome of the House. (Applause)</p></speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope that they enjoy this afternoon's proceedings.</p>
 <p>We will begin the daily routine.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -85,14 +85,14 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -131,8 +131,8 @@
 <p>I want to share with the House just for a moment that in Massachusetts there is a town called Mansfield and in the town square is the famous Mansfield pole, a 90-foot-high flagpole donated to the people of the Town of Mansfield by the Province of Nova Scotia over 100 years ago. A few years ago that pole was hit by lightning and it was destroyed. So the people of Nova Scotia, through their government, got together and sent them another one, and 90-foot lengths are very hard to find, as I know anyone who works in forestry can attest.</p>
 <p>Mr. Speaker, this is what communities do, this is what states and provinces do, this is what nations do, in times like this. So I am very proud as a Nova Scotian that we can stand together with the people of the Commonwealth of Massachusetts, with the City of Boston, at this very difficult time.</p>
 <p>One last lesson, Mr. Speaker, in times of evil we see countless examples of how there are far more good people in the world than there are those who do evil. I heard a Nova Scotian on the radio today, who was in Boston yesterday, recounting the volunteer efforts, and the efforts of everyday citizens, to comfort those who were affected. And that Nova Scotian on the radio concluded that what they learned is there are always far more good people in the world than there are those who will do evil acts. So as we send our condolences and our best wishes and our support to the people of Boston, let us also resolve together with them as neighbours that good will always triumph over evil, and that those who commit such heinous acts will pay the price and together we will stand to make that true. Thank you.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -196,7 +196,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -222,7 +222,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -563,11 +563,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 1:00 p.m.; we will finish at 2:00 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -888,7 +888,7 @@
             <p>Order, please. The time allotted for the Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1037,9 +1037,9 @@
 <p>The Adjournment motion was submitted by the honourable member for Cape Breton North:</p>
 <p>"Therefore be it resolved that all members of this House of Assembly condemn the NDP for telling Nova Scotians the budget was balanced despite extensive evidence to the contrary."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1190,7 +1190,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="359">RESOLUTION NO. 359</num>
@@ -1328,7 +1328,7 @@
 <p>Whereas Lewis Brown, of the Town of Parrsboro, was recognized at the 39<sup>th</sup> Annual Provincial Volunteer Awards ceremony for the many contributions he has made to his community and province;</p>
 <p>Therefore be it resolved that all members of this House of Assembly thank Lewis Brown for all the work he does for others and congratulate him for receiving a Provincial Volunteer Award.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

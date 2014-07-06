@@ -55,7 +55,7 @@
         <from>MR. SPEAKER</from>
         <p>We welcome all our guests to the gallery and hope that they enjoy this morning's proceedings.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -68,27 +68,27 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>As Speaker, pursuant to Section 11(1)(f) of the House of Assembly Management Commission Act, I am tabling the annual report of the House of Assembly Management Commission.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -122,11 +122,11 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 9:11 a.m. on the Speaker's clock.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -541,7 +541,7 @@
             <p>The honourable member for Dartmouth East.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
     </debateBody>
   </debate>
 </akomaNtoso>

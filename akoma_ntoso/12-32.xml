@@ -56,13 +56,13 @@
       </speech>
       <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>I will take that under advisement and report back on a later day. Thank you.</p>
 <p>We will now commence with the daily routine.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -76,11 +76,11 @@
           <from>MADAM SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -99,11 +99,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -509,11 +509,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The time is now 12:41 p.m. and we will proceed to 1:41 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -906,7 +906,7 @@
             <p>Thank you.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -964,9 +964,9 @@
 <p>We will now move to late debate under Rule 5(5). The late debate topic as presented by the honourable member for Inverness reads:</p>
 <p>"Therefore be it resolved that all members of this House of Assembly urge the NDP government to take concrete action to prevent cancelled surgeries, tests and procedures caused by strike or the threat of labour disruption in the health care field."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1082,7 +1082,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
         <debateSection>
           <heading>Given on May 15, 2012</heading>
@@ -1146,8 +1146,8 @@
             <p>(1) Under Societies Act legislation, in the absence of a proper resignation letter, why is the Registry of Joint Stocks unable to revoke the registration of the Fisheries Safety Association of Nova Scotia for non-compliance with their by-laws?</p>
           </question>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1256">RESOLUTION NO. 1256</num>
@@ -1293,7 +1293,7 @@
 <p>Whereas Inspiring Lives Award winner Lyne Brun broke the barrier of her illness and, in doing so, promotes the importance of awareness and management of good mental health in her workplace and in the community;</p>
 <p>Therefore be it resolved that all members of the House congratulate Inspiring Lives Award winner Lyne Brun and extend our appreciation to her for her efforts in inspiring others, and in the process giving those facing mental health issues hope for their future.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

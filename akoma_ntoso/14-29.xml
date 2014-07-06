@@ -59,21 +59,21 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will now begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -83,7 +83,7 @@
 <p>Therefore be it resolved that all members of the House of Assembly celebrate the return of the ferry service between Yarmouth and the United States and acknowledge the economic benefit the ferry brings to our province.</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -365,11 +365,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS TO MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 2:31 p.m.; we will conclude Question Period at 4:01 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -941,7 +941,7 @@
             <p>Order, please. The time allotted for Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1154,9 +1154,9 @@
 <p>"Therefore be it resolved that all members of the House of Assembly celebrate the return of the ferry service between Yarmouth and the United States and acknowledge the economic benefit the ferry brings to our province."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1259,7 +1259,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1206">RESOLUTION NO. 1206</num>
@@ -1357,7 +1357,7 @@
 <p>Whereas Shelley Balish-Bailey, a local artist, successfully completed this course in March 2014;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Shelley Balish-Bailey for the successful completion of this course and wish her continued success.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

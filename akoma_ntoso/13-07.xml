@@ -80,7 +80,7 @@
 <p>The Speaker will not be drawn into debate in the House. What the member for Richmond asked was not a proper point of order or privilege. Members need to remember to follow proper procedure when raising things in the House. I've issued my ruling with respect to the previous point of order and have no intention of being dragged into a debate over the budget of the Office of the Auditor General.</p>
 <p>Having taken this matter under advisement yesterday so I could carefully review Hansard as to what was raised by the member at that time, I rule there is no point of order or no point of privilege raised by the honourable member.</p>
 <p>We will begin the daily routine.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -92,8 +92,8 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -102,29 +102,29 @@
         <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
 <p><b>Bill No. 1 - Electricity Reform (2013) Act.</b></p>
 <p>and the committee recommends this bill to the favourable consideration of the House, without amendments.</p></speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -169,7 +169,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
@@ -219,7 +219,7 @@
 <p>Therefore be it resolved that all members of this House of Assembly commend Katie Bunker and Ms. Bev Holland for forming and heading a new chapter, the Best Buddies of Lockview High School, and express our support for youth-led volunteer initiatives.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -227,7 +227,7 @@
           <p>Before we do Notices of Motion this morning, I'd like to have a little personal note here this morning. Our Page Scott Nordlund will be leaving us tomorrow, as he is going over to Europe to play professional football. Scott will be joining the Elmshorn Fighting Pirates in Germany for a six-month contract, with calls from the Blue Bombers, the Rough Riders, and the Lions. We wish you all the best, Scott, in your future endeavours. (Applause)</p>
         </speech>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -442,7 +442,7 @@
 <p>The motion is carried.</p>
 <p>The honourable member for Queens-Shelburne.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
@@ -869,7 +869,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="148">RESOLUTION NO. 148</num>
@@ -1134,11 +1134,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Before I recognize the honourable Leader of the Official Opposition, I want to remind all members that the use of electronic communication devices is strictly prohibited during Question Period.</p>
 <p>The time is now 3:01 p.m. We will finish at 4:01 p.m.</p>
@@ -1472,7 +1472,7 @@
             <p>Order, please. The time allotted for Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1890,9 +1890,9 @@
 <p>The adjournment motion was submitted by the honourable member for Hants West:</p>
 <p>"Therefore be it resolved that all members of this House recognize that Lyme Disease is a growing issue in Nova Scotia and ask that the government take action."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1979,7 +1979,7 @@
           <p>The House rose at 6:35 p.m.</p>
         </narrative>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="176">RESOLUTION NO. 176</num>
@@ -2229,7 +2229,7 @@
 <p>Whereas through sound coaching, hard work, dedication, and team spirit throughout the season, this team was able to proudly secure the coveted title once again;</p>
 <p>Therefore be it resolved that the members of the House of Assembly join me in congratulating team member Taylor Hung on a successful soccer season and wish him continued success in the future.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

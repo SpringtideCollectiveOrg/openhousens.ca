@@ -227,7 +227,7 @@
         <from>MR. SPEAKER</from>
         <p>We welcome all guests to our gallery and hope that they enjoy today's proceedings.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -241,11 +241,11 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -259,8 +259,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -300,20 +300,20 @@
 <p>We can all be proud of the IWK. It's a great facility. It is one that we all believe has the best interests of our children at heart. It's strange that the IWK has developed and is implementing a new strategic plan outside of the mental health and addiction strategy that the minister continues to promise.</p>
 <p>I can't help but think about the supports and community that can help kids at risk for mental illness, addictions, and many other things. Programs like SHYFT in Yarmouth. As members know, supportive housing, the youth focus team of SHYFT has been providing overnight shelter and outreach programs for youth at risk since January 2011 - and we all know funding to this program was denied by government last week. The effects of that on many SHYFT clients, they may have no other option than to sleep on the streets, and that just doesn't fit with the Health and Wellness Minister's promise today of important changes that will herald a shift towards more community based services and a focus on youth. It flies in the face of what she just had to say today.</p>
 <p>As the Minister of Health and Wellness prepares her new strategy, I would urge her to speak to her colleagues in the Departments of Community Services, Justice, and others. By working together, they have the best chance of making real and positive impacts on the lives of our young people. Thank you.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 3:27 p.m. and will end at 4:27 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -726,7 +726,7 @@
             <p>Order, please. That also was not a point of order.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -955,9 +955,9 @@
 <p>"Therefore be it resolved that the Minister of Health and Wellness explain how taking treatment money from children and youth mental health programs at the IWK in order to pay for more timely assessments provides better mental health care for the patient."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1022,9 +1022,9 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

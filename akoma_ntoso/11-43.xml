@@ -41,19 +41,19 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -109,7 +109,7 @@
           <speech by="#05943c17-4381-46aa-8d21-dbc5ad93a99a"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, it's a real pleasure and a privilege today to bring the attention of the members of the House to the east gallery where we have a distinguished visitor from the House of Commons in Ottawa, Ms. Peggy Nash, the Member of Parliament from Ontario. I would like her to rise and receive the warm welcome of the House. (Applause)</p>
 <p>Sitting beside her, Mr. Speaker, is Kristen Roe, who is well-known in the province for the wonderful work that she has done in fundraising, and has swam the world and raised money for great causes. I welcome Kristen as well. (Applause)</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -139,7 +139,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -174,11 +174,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time now is 12:18 p.m. and Oral Question Period will begin. We will go to 1:18 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -535,8 +535,8 @@
             <p>The House rose at 1:18 p.m.</p>
           </narrative>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2178">RESOLUTION NO. 2178</num>
@@ -562,7 +562,7 @@
 <p>Whereas on Tuesday, November 8, 2011 William (Bill) Karsten was elected Deputy Mayor of the Halifax Regional Municipality;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate William (Bill) Karsten on his election and wish him every success over the year term as Deputy Mayor.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

@@ -63,7 +63,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -83,8 +83,8 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -104,8 +104,8 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>It is my pleasure today that I table the Report of the Auditor General to the Nova Scotia House of Assembly, dated November 2012.</p>
 <p>The report is tabled.</p>
@@ -116,8 +116,8 @@
           <from>MR. SPEAKER</from>
           <p>We welcome all our guests to the gallery and hope that they enjoy this afternoon's proceedings.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -198,8 +198,8 @@
           <from>MR. SPEAKER</from>
           <p>Thank you. Earlier in the proceedings I wanted to advise the members that I noticed a petition that was tabled today that was the same as the one tabled on Monday. I had the Clerks check it, and it was discovered that a large part of the earlier petition was a photocopy of the one tabled today. I have instructed the Chief Clerk to return the portion that is photocopied to the member. Photocopies of petitions are not able to be tabled in the House.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -293,7 +293,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -318,7 +318,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -770,11 +770,11 @@
 <p>The motion is carried.</p>
 <p>Before I go to question period today, I've noticed that both questions and answers have been getting longer and longer, and we are not getting as many questions in the period as we should. There has been quite a bunch of disorder, which also lengthens the time used for questions. I'm asking that all members keep both the questions and answers short and to the point.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 3:21 p.m. and end at 4:51 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1222,7 +1222,7 @@
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, order. The time allotted for the Oral Question Period has expired.</p>
 <p>Before we get down to the Opposition Members' Business today, I noticed that earlier the member for Pictou East had put an attachment or tabled something with a resolution. You're not allowed to table attachments or anything with that. I'm therefore directing the document which the honourable member sought to have accompanying the notice of motion be struck from the record of the House. It does not form a part of the record of the proceedings of this House. Thank you.</p></speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
       </debateSection>
@@ -1458,7 +1458,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2186">RESOLUTION NO. 2186</num>
@@ -1492,7 +1492,7 @@
 <p>Whereas too often these accidents are sudden and avoidable, and while we remember the lives lost, we must do everything we can to encourage safety on the road;</p>
 <p>Therefore be it resolved that all members of this House of Assembly recognize today as the National Day of Remembrance for Road Crash Victims and urge all Nova Scotians to exercise safety and responsibility while driving.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

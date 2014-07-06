@@ -87,7 +87,7 @@
         <from>MR. SPEAKER</from>
         <p>We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -109,17 +109,17 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -204,7 +204,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -218,7 +218,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -344,11 +344,11 @@
             <p>Mr. Speaker, it may not be a surprise to the members of the House in that the Premier is making his way back from Dartmouth. (Interruptions) You know what? If they want to ask questions, fill their boots. That's all I'm going to say. If they want to wait until he gets here, fine. If not, we'll go at her.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 12:46 p.m. and end at 1:46 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -643,7 +643,7 @@
           <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>MR. CORBETT</from><p>In the east gallery is a friend of many in this House that they would know and some other very fine people who I would like to introduce. The first person I'd like to introduce is the president of Music Nova Scotia, Brian Doherty; a good friend of mine from Milwaukee, the founder of Milwaukee Irish Fest, Ed Ward; Patrick Boyle, the director of Milwaukee Irish Fest; and Nan Krushinski, who is director of the Pittsburgh Irish Fest. (Applause)</p>
 <p>Mr. Speaker, they're in this lovely province to help celebrate Music Week that will be taking place in Liverpool. I hope they'll be much better entertained in Liverpool than they were during Question Period here today. A warm welcome, Mr. Speaker. (Applause)</p></speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1077,9 +1077,9 @@
 <p>"Therefore be it resolved that the Premier's outsourcing of jobs from the SAP Division of Finance is a bad deal for Nova Scotians."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1183,7 +1183,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1858">RESOLUTION NO. 1858</num>
@@ -1577,7 +1577,7 @@
 <p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
 <p>Therefore be it resolved that all members of this House salute the members of the Royal Canadian Legion Branch 53 in Cheticamp, for all they do to ensure the sacrifice of our fallen heroes, our veterans, and current members of the Canadian Forces will never be forgotten.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

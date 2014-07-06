@@ -52,7 +52,7 @@
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. Before we begin the daily routine, the subject for this evening's late debate has been chosen and reads as follows:</p>
 <p>Therefore be it resolved that the Minister of Economic and Rural Development and Tourism take the advice of his federal cousin and start getting concerned about job losses under his watch.</p>
 <p>This was submitted by the honourable Leader of the Progressive Conservative Party.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -64,8 +64,8 @@
 <p>Mr. Speaker, as required, I've signed my name to this petition.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>I think I'll remind the honourable member that the petition is out of order. It doesn't request anything from the government, there's no ask in that petition. I think you'd have to redo it and bring it back. Just bring it up here and let me read it, please. Thank you.</p>
 <p>Honourable member, I see there's not an ask of a minister of the House to do anything with the petition. Maybe you would like to reword it and do it again in the morning. Thank you.</p></speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -91,8 +91,8 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -106,8 +106,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -151,8 +151,8 @@
 <p>The issue of second attendants, though, is one that I'm not quite clear on - that maybe through conversation with the minster to understand why a second attendant and not another midwife, or is there not enough training for midwives going on that they are not available? I'm not too sure about that one, but we need to make sure that the appropriate competencies are available to those practitioners to make sure they are providing an excellent service to women and children in our province.</p>
 <p>The final comment that I do want to make - that the member who just spoke before me - is the issue of the rollout to the rest of the province because there are many areas in this province that don't have midwifery services. There are many women that I get to talk to who would like to see it. I know of one specific family in my constituency that moved in and actually has since moved out because of not having that access. She had her first - I think it was five children with midwifery assistance, and the sixth one came along without the midwifery and she definitely spoke to the difference in the birthing plan and the service that she was able to get in the Yarmouth area. So it would be nice to see a further expansion of that to other parts of the province, but I do want to have a better idea of what that second attendant is all about and how it will expand midwifery services in the Province of Nova Scotia.</p>
 <p>Midwifery services is one issue that I was proud to be the minister at the time to bring forward in the Province of Nova Scotia, and of course I want to see its fruition in this province, to become the profession that it deserves to be, and that women and children in this province get the service that they so deserve. (Applause)</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -187,7 +187,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -210,7 +210,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -756,11 +756,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is 1:23 p.m. and we will end at 2:23 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1142,7 +1142,7 @@
             <p>We welcome all our guests to the gallery and hope that they enjoy today's proceedings.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1174,9 +1174,9 @@
 <p>We have now reached the moment of interruption. The subject matter was chosen earlier and it reads:</p>
 <p>"Therefore be it resolved that the Minister of Economic and Rural Development and Tourism take the advice of his federal cousin and start getting concerned about job losses under his watch."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1294,7 +1294,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2833">RESOLUTION NO. 2833</num>
@@ -1640,7 +1640,7 @@
 <p>Whereas Mrs. Bureaux works as a freelance tea consultant, travelling to offices and setting up corporate tea stations while teaching staff how to make a top-notch cup of brew to help them unwind on their breaks;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Margot on her award-winning Masala Mist and wish her all the best as she pursues her passion in the tea industry.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

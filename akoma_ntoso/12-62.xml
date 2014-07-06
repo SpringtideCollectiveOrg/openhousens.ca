@@ -58,7 +58,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -82,8 +82,8 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -111,14 +111,14 @@
           <from>MR. SPEAKER</from>
           <p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -156,11 +156,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -565,11 +565,11 @@
 <p>Does the House agree to give leave for the motion to be debated?</p>
 <p>Leave has been given. The debate will take place today at the moment of interruption as provided under Rule 43(11). It also takes the place of the late debate for this evening.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 12:56 p.m. and end at 1:56 p.m.</p>
 <p>The honourable Leader of the Opposition.</p></speech>
@@ -889,7 +889,7 @@
             <p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1249,9 +1249,9 @@
 <p>"Therefore be it resolved that the business of the House be set aside for the purpose of discussing a matter of urgent public importance, that the cost of the Maritime Link portion of the Muskrat Falls will increase by $100 to $300 million by the time an application is made to the Utility and Review Board for the project and that power rates will increase by 2 to 3 per cent for the rest of this decade and after that will continue to increase at a slightly lower rate for the life of the project."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 43</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1514,7 +1514,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2542">RESOLUTION NO. 2542</num>
@@ -1644,7 +1644,7 @@
 <p>Whereas Basil Benoit will be recognized with the Fire Exemplary Service Medal for his years of service;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Basil Benoit for his dedication and years of volunteer service to the Mulgrave Volunteer Fire Department and the community of Mulgrave.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

@@ -60,13 +60,13 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -79,8 +79,8 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
 <p>The Speaker's Office would like to table the MLA Remuneration Review Panel Report. And for the members' information, hard copies of this report are available from the Clerk's Office downstairs or online at the Legislature website.</p>
 <p>The report is tabled.</p></speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -243,7 +243,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -254,7 +254,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -448,11 +448,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We'll now move to Oral Question Period. The time is now 2:40 p.m., we will conclude at 4:10 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1028,7 +1028,7 @@
             <p>Thank you for those comments and I will come back with a ruling as soon as possible.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>OPPOSITION MEMBERS' BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1258,7 +1258,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="958">RESOLUTION NO. 958</num>
@@ -1700,7 +1700,7 @@
 <p>Whereas among the 21 volunteers to be honoured is Adeline Doucet of Quinan for her devotion of time and tireless effort to so many organizations in and around her community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Adeline Doucet for being honoured by the Municipality of Argyle, and thank her for making Nova Scotia stronger.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

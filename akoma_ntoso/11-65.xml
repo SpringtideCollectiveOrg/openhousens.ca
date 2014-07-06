@@ -58,7 +58,7 @@
         <from>MADAM SPEAKER</from>
         <p>We will now commence with the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -77,11 +77,11 @@
           <from>MADAM SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -101,8 +101,8 @@
           <from>MADAM SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -137,8 +137,8 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>At this point I would like to make sure I read the late debate topic:</p>
 <p>Therefore be it resolved that the Minister of Health and Wellness justify the chaos being caused by changes made to vendor lists for the Home Oxygen Program.</p>
 <p>It was submitted by the honourable member for Glace Bay.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -173,7 +173,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -189,7 +189,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -565,11 +565,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Question Period will begin at 2:49 p.m. and end at 3:49 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1008,7 +1008,7 @@
             <p>The time allotted for the Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1229,7 +1229,7 @@
 <p>It is agreed.</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -1244,7 +1244,7 @@
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
-      </debateSection>
+      </papers>
       <debateSection>
         <heading>GOVERNMENT MOTIONS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1328,7 +1328,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="3033">RESOLUTION NO. 3033</num>
@@ -1722,7 +1722,7 @@
 <p>Whereas volunteer firefighters and their selfless service to their community is much valued and respected by all residents and their respective families;</p>
 <p>Therefore be it resolved that all members of this House of Assembly acknowledge the dedication and contributions that Wilfred MacKeen made to his community, especially the local volunteer fire department.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

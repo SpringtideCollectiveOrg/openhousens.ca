@@ -46,7 +46,7 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -60,17 +60,17 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -110,8 +110,8 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -126,7 +126,7 @@
           <from>MS. KELLY REGAN</from>
           <p>Mr. Speaker if I could beg leave to make an introduction, I would like to direct the members' attention to the west gallery where Jennifer Cleator is with us today. Jennifer is with Credit Counselling Services of Atlantic Canada, and I'd like her to please rise and accept the warm welcome of the House. (Applause)</p>
         </speech>
-      </debateSection>
+      </papers>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -140,7 +140,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -815,8 +815,8 @@
             <p>The House rose at 11:05 p.m.</p>
           </narrative>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="2784">RESOLUTION NO. 2784</num>
@@ -914,7 +914,7 @@
 <p>Whereas many additional responsibilities such as fundraising, training, first aid, recruitment, and public relations are also part of a firefighter's commitment;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Charlie MacKenzie for receiving a 40-year, Long-Term Service Award from the Onslow-Belmont Fire Brigade.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

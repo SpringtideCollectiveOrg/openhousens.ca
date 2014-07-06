@@ -55,7 +55,7 @@
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. The subject matter for the late debate has been chosen and I will now read it:</p>
 <p>Therefore be it resolved that all members of this House of Assembly commit to making life affordable for Nova Scotians and urge the government to reverse their expensive policies so fewer adults will have to make that decision and fewer children will need to rely on food banks to eat.</p>
 <p>It was submitted by the honourable member for Cape Breton West.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -68,17 +68,17 @@
           <from>MR. SPEAKER</from>
           <p>The petition is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -121,8 +121,8 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -136,7 +136,7 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
+      </papers>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -156,7 +156,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -614,11 +614,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 2:48 p.m. and end at 3:48 p.m.</p>
 <p>The honourable member for Glace Bay</p></speech>
@@ -922,7 +922,7 @@
             <p>I'm sorry, but it's not a point of order. It's a disagreement between two members, and the honourable minister said that he would table that and didn't give a specific time. He just said, again, that he will table the documents when he has them in his possession.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1219,9 +1219,9 @@
 <p>"Therefore be it resolved that all members of this House of Assembly commit to making life affordable for Nova Scotians and urge the government to reverse their expensive policies so fewer adults will have to make that decision and fewer children will need to rely on food banks to eat."</p></speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1303,7 +1303,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
         <debateSection>
           <heading>RESPONSES</heading>
@@ -1858,8 +1858,8 @@
 <p><i>John MacDonell</i></p>
 <p><i>Minister</i></p></answer>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </questions>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1630">RESOLUTION NO. 1630</num>
@@ -2213,7 +2213,7 @@
 <p>Whereas the goal of the award is to encourage young people's participation in activities that they already enjoy and others they have yet to experience in a non-competitive and fun environment;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Taylor Yeomans on being a Bronze Award Achiever and wish her all the best in her future.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

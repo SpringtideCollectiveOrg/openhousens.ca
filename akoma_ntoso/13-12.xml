@@ -74,13 +74,13 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="#bc54523e-7553-4c28-b315-79d18165339b"><from>MR. JOHN LOHR</from><p>Mr. Speaker, I beg leave to table a petition from the residents of Kings County with 182 signatures. The operative clause of the petition reads:</p>
 <blockquote>"Whereas we the citizens of Kings County, Nova Scotia have not received high-speed internet service as has been promised to all citizens of Nova Scotia dating back to 2009, we hereby request that the Legislative Assembly of Nova Scotia rectify this situation &#x2026; To provide the citizens of rural Kings County with the same access to high-speed internet as is available to the more urban areas of Nova Scotia by the end of the 2014 calendar year."</blockquote>
@@ -93,14 +93,14 @@
           <from>MR. SPEAKER</from>
           <p>The revisions are tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -119,8 +119,8 @@
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
 <p>The honourable Government House Leader.</p></speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -167,8 +167,8 @@
             <p>The report is tabled.</p>
           </speech>
         </debateSection>
-      </debateSection>
-      <debateSection>
+      </noticesOfMotion>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -186,8 +186,8 @@
 <p>Whereas in addition to his public service Mayor Carter, who is remembered as an avid sailor and an award-winning curler, is also the recipient of the Queen Elizabeth II Diamond Jubilee Medal;</p>
 <p>Therefore be it resolved that all members of this House remember the life and many accomplishments of Doug Carter of Truro, and send sincere condolences to his family and friends.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -209,8 +209,8 @@
           <from>MR. SPEAKER</from>
           <p>The report is tabled.</p>
         </speech>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -228,7 +228,7 @@
           <from>MR. FUREY</from>
           <p>Mr. Speaker, I draw my colleagues' attention to the east gallery, where I recognize the provincial Ombudsman, Mr. Dwight Bishop, a long-time civil servant, having spent many years in the RCMP and the provincial government. I ask my colleagues to bring greetings to our Ombudsman - our retiring Ombudsman, I should say. (Applause)</p>
         </speech>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <debateSection>
@@ -414,7 +414,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -876,11 +876,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Question Period will begin at 1:07 p.m. and end at 2:07 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -1242,7 +1242,7 @@
             <p>I'm going to take a brief pause. (Interruptions) We'll move on to orders of the day. I'll take your point of order under advisement, and I'll get back to you.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1851,7 +1851,7 @@
           <p>The House rose at 4:27 p.m.</p>
         </narrative>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="493">RESOLUTION NO. 493</num>
@@ -3385,7 +3385,7 @@
 <p>Whereas dozens of children and adults were joined by costumed characters like Shrek, Mickey and Minnie Mouse, and my personal favorite, The Cat in the Hat;</p>
 <p>Therefore be it resolved that the members of the House of Assembly join me in thanking everyone involved for their hard work.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>

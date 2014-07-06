@@ -59,7 +59,7 @@
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order please. We will now begin the daily routine.</p>
 <p>I would draw your attention to the top of your daily order papers. Make note that this will be the last day that all of the resolutions will be listed on the order paper. We're going to make a change with that so that only the new resolutions on a daily basis from the last day or two will be included on the order papers. If you want a record of it please refer to Hansard or keep the order paper from today in your desk.</p></speech>
-      <debateSection>
+      <petitions>
         <heading>PRESENTING AND READING PETITIONS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -72,14 +72,14 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The petition is tabled.</p>
 <p>Before we move on to the order of business, Presenting Reports of Committees, I'd like to do an introduction from the Speaker's Chair. We have special guests in the Speaker's Gallery. Many of the members had occasion over last night and this morning to meet with Wendell Hannaford, director and Earl Eisenhart, Canada-U.S. Relations and Policy consultant, visiting us from the Eastern Regional Conference of the Council of State Governments.</p>
 <p>Mr. Hannaford and Mr. Eisenhart are touring the Maritime Provinces over the next couple of days to discuss our relationship with the Eastern Regional Conference and we were pleased to introduce them to a number of members of this House last night and this morning. We hope to further develop our relationship and enjoy productive sessions with them this summer in Baltimore. Please extend to them a warm welcome in the Speaker's Gallery. (Applause)</p></speech>
-      </debateSection>
-      <debateSection>
+      </petitions>
+      <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <papers>
         <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </debateSection>
-      <debateSection>
+      </papers>
+      <ministerialStatements>
         <heading>STATEMENTS BY MINISTERS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -114,8 +114,8 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Before we move on to the next agenda item, I would be remiss if I did not read the subject for late debate this evening, which I forgot to do, as submitted by the honourable member for Sydney River-Mira-Louisbourg:</p>
 <p>Therefore be it resolved that all members of the House of Assembly urge the Liberal Government to recognize the excellent services provided by Roots for Youth Society and to provide the organization with funding to ensure Pictou County youth who are homeless get the support they need.</p>
 <p>This will be debated this evening at 6:00 p.m.</p></speech>
-      </debateSection>
-      <debateSection>
+      </ministerialStatements>
+      <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -133,7 +133,7 @@
           <from>MS. WHALEN</from>
           <p>If I could draw the attention of the members to the east gallery, where we're visited today by someone who has been here before, Ross Harrington, a constituent of mine and also a business owner - he owns Wine Kitz in Clayton Park West - and also Steven Haynes and Mark Haynes who own Noble Grape in the province. I ask you to stand and receive the warm welcome of the House. (Applause)</p>
         </speech>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <debateSection>
@@ -150,7 +150,7 @@
           </speech>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -509,11 +509,11 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
       <debateSection>
         <heading>ORDERS OF THE DAY</heading>
       </debateSection>
-      <debateSection>
+      <questions>
         <heading>ORAL QUESTIONS PUT BY MEMBERS</heading>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 2:47 p.m. Question Period will conclude at 3:47 p.m.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
@@ -888,7 +888,7 @@
             <p>Order, please. The time allotted for the Oral Question Period has expired.</p>
           </speech>
         </debateSection>
-      </debateSection>
+      </questions>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -960,9 +960,9 @@
 <p>We have reached the moment of interruption. The topic for tonight's late debate was submitted by the honourable member for Sydney River-Mira-Louisbourg and is:</p>
 <p>"Therefore be it resolved that all members of the House of Assembly urge the Liberal Government to recognize the excellent services provided by Roots for Youth Society and to provide the organization with funding to ensure Pictou County youth who are homeless get the support and services they need."</p></speech>
       </debateSection>
-      <debateSection>
+      <adjournment>
         <heading>ADJOURNMENT</heading>
-      </debateSection>
+      </adjournment>
       <debateSection>
         <heading>MOTION UNDER RULE 5(5)</heading>
         <speech by="" as="#speaker" status="undefined">
@@ -1063,7 +1063,7 @@
           </narrative>
         </debateSection>
       </debateSection>
-      <debateSection>
+      <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
         <debateSection>
           <num title="1152">RESOLUTION NO. 1152</num>
@@ -1345,7 +1345,7 @@
 <p>Whereas volunteers such as Ms. Hiltz are the backbone of our communities, providing countless hours of devoted service;</p>
 <p>Therefore be it resolved that all members of this House of Assembly recognize Trudy Hiltz's contributions and thank her for her tireless volunteer efforts.</p></speech>
         </debateSection>
-      </debateSection>
+      </noticesOfMotion>
     </debateBody>
   </debate>
 </akomaNtoso>
