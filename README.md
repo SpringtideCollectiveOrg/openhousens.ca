@@ -43,7 +43,13 @@ Commenting out `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProc
 
 ## Deployment
 
-You can use any of Heroku's ElasticSearch add-ons [SearchBox](https://addons.heroku.com/searchbox), [Bonsai](https://addons.heroku.com/bonsai) or [Found](https://addons.heroku.com/foundelasticsearch). SayIt has three indices, and you have over 10,000 speeches, so you need at least Bonsai Micro or Bonsai Staging. You can alternatively run your own instance of ElasticSearch - [on EC2, for example](http://www.elasticsearch.org/tutorials/elasticsearch-on-ec2/).
+You can use any of Heroku's ElasticSearch add-ons:
+
+* [SearchBox](https://addons.heroku.com/searchbox)
+* [Bonsai](https://addons.heroku.com/bonsai)
+* [Found](https://addons.heroku.com/foundelasticsearch)
+
+SayIt has three indices, and you have over 10,000 speeches, so you need at least SearchBox Micro ($9) or Bonsai Staging ($10). You can alternatively run your own instance of ElasticSearch [on EC2, for example](http://www.elasticsearch.org/tutorials/elasticsearch-on-ec2/).
 
     heroku addons:add searchbox:micro
     heroku addons:add bonsai:staging
@@ -66,10 +72,6 @@ You can [generate a secret key in Python](https://github.com/django/django/blob/
 from django.utils.crypto import get_random_string
 get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 ```
-
-SayIt requires the `compass` and `zurb-foundation` gems to collect static files, which would take a lot of effort to install on Heroku in a Python environment, so instead we collect and commit static files.
-
-    heroku config:set DISABLE_COLLECTSTATIC=1
 
 Setup the database (you can run `heroku pg:reset` to start over):
 
