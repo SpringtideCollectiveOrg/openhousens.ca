@@ -35,6 +35,12 @@ Import a directory:
 
     python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
 
+You may want to clear the ElasticSearch index before re-importing:
+
+    python manage.py clear_index --noinput
+
+Commenting out `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` may improve import times and avoid timeout errors.
+
 ## Deployment
 
 You can use any of Heroku's ElasticSearch add-ons [SearchBox](https://addons.heroku.com/searchbox), [Bonsai](https://addons.heroku.com/bonsai) or [Found](https://addons.heroku.com/foundelasticsearch). SayIt has three indices, and you have over 10,000 speeches, so you need at least Bonsai Micro or Bonsai Staging. You can alternatively run your own instance of ElasticSearch - [on EC2, for example](http://www.elasticsearch.org/tutorials/elasticsearch-on-ec2/).
