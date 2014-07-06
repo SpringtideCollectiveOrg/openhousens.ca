@@ -1,11 +1,11 @@
 # @see https://devcenter.heroku.com/articles/getting-started-with-django#requirements-txt
+# Django==1.7c1
 https://www.djangoproject.com/download/1.7c1/tarball/
 dj-database-url==0.3.0
 # dj-static==0.0.5 is not compatible with Django 1.7
 -e git+git://github.com/kennethreitz/dj-static.git#egg=dj-static
 gunicorn==19.0.0
 psycopg2==2.5.3
-static==1.0.2
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 # -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
