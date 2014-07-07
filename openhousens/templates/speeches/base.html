@@ -1,0 +1,45 @@
+{% load url from future %}{% load staticfiles %}<!DOCTYPE html>
+<html>
+<head>
+<title>{% block title %}{% endblock %} - OpenHouseNS</title>
+<meta charset="utf-8">
+{% block extra_headers %}{% endblock %}
+</head>
+<body id="top">
+
+<div class="contain-to-grid">
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+        <h1><a href="{% url 'speeches:home' %}">OpenHouseNS</a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+    {# TODO add search box on right #}
+      <ul class="left">
+        <li><a href="{% url 'speeches:home' %}">Home</a></li>
+        <li><a href="{% url 'speeches:speaker-list' %}">MLAs</a></li>
+        <li><a href="{% url 'speeches:section-list' %}">Debates</a></li>
+        <li><a href="{# TODO #}">About</a></li>
+      </ul>
+    </section>
+  </nav>
+</div>
+
+<div class="full-page">
+  <div class="full-page__row">
+    <div class="full-page__unit">
+      {% for message in messages %}
+      <div class="alert alert-{{ message.tags }}">
+        {{ message }}
+      </div>
+      {% endfor %}
+      {% block content %}{% endblock %}
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+{% extends 'speeches/base_player.html' %}
+{% load url from future %}
+{% load i18n %}
+{% load staticfiles %}
+{% load bleach_tags %}
+{% load humanize %}
+{% load pagination_tags %}
+
+{% block title %}{% blocktrans with speaker=speaker.name %}View Speaker: {{ speaker }}{% endblocktrans %}{% endblock %}
+
+{% block content %}
+
+<div class="page-header page-header--with-portrait">
+  <div class="page-header__row">
+    <div class="speaker-page__details">
+      <img src="{% if speaker.image %}{{ speaker.image }} {% else %} {% static "speeches/i/a.png" %} {% endif %}"
+          style="border-color #{{ speaker.colour }}; background-color: #{{ speaker.colour }};"
+          class="speaker-portrait speaker-portrait--left speaker-portrait--large round-image"
+          alt="Headshot of {{ speaker.name|escape}}" />
+      <div class="speaker-information">
+        <h1>{{ speaker.name }}</h1>
+        {% if speaker.summary %}
+          <p class="person-summary"> {{ speaker.summary }}
+          </p>
+        {% endif %}
+      </div>
+      <div class="speaker-page__stats">
+        <div class="stat">
+          <div class="stat__figure">
+            {{ section_count|intcomma }}
+          </div>
+          <div class="stat__descriptor">
+              {% blocktrans count c=section_count %}Appearance{% plural %}Appearances{% endblocktrans %}
+          </div>
+        </div>
+        <div class="stat">
+          <div class="stat__figure">
+            {{ paginator.count|intcomma }}
+          </div>
+          <div class="stat__descriptor">
+            {% blocktrans count c=paginator.count %}Speech{% plural %}Speeches{% endblocktrans %}
+          </div>
+        </div>
+        {% if longest_speech %}{% with longest_speech.0 as speech %}
+        <div class="stat">
+          <div class="stat__figure">
+            {% if speech.section %}
+            <a href="{% url 'speeches:section-view' speech.section.get_path %}#s{{ speech.id }}">
+            {% else %}
+            <a href="{% url 'speeches:speech-view' speech.id %}">
+            {% endif %}
+              {% if speech.title %}{{ speech.title }}{% else %}
+              &#8220;{{ speech.summary|bleach }}&#8221;
+              {% endif %}
+            </a>
+          </div>
+          <div class="stat__descriptor">
+            {% trans "Longest speech" %}
+          </div>
+        </div>
+        {% endwith %}{% endif %}
+      </div>
+    </div>
+
+  </div>
+</div>
+<div class="speaker-page__speeches-collection">
+    <div class="full-page__row nested-row">
+      <div class="speaker-page__speeches-title">
+        <h2>{% trans "Speeches" %}</h2>
+      </div>
+
+      <div class="speaker-page__search">
+        <form class="site-search site-search" action="{% url "speeches:haystack_search" %}" method="get" >
+          <input type="hidden" name="p" value="{{ speaker.id }}">
+          <div class="search-wrapper">
+              <input type="search" class="site-search__input" placeholder="{% trans "Search this person's speeches" %}{# '" #}" name="q"/>
+              <input type="submit" class="icon-search icon-search" value="{% trans 'Search' %}"/>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <ul class="unstyled">
+        <li class="gutter-sizer"></li>
+        {% if not page_obj %}
+            <li class="speech">{% blocktrans with speaker=speaker.name %}{{ speaker }} has no recorded speeches yet.{% endblocktrans %}</li>
+        {% endif %}
+        {% for speech in page_obj %}
+            {% include "speeches/speech.html" with speech=speech nospeaker="1" truncate="1" %}
+        {% endfor %}
+    </ul>
+
+    {% paginate %}
+
+</div>
+
+{% endblock %}

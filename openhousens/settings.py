@@ -39,7 +39,6 @@ INSTALLED_APPS = (
     # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
     'django.contrib.humanize',
     'haystack',
-    'django_select2',
     'django_bleach',
     'popolo',
     'instances',
@@ -117,7 +116,7 @@ HAYSTACK_CONNECTIONS = {
         'INDEX_NAME': 'openhousens',
     },
 }
-HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
+# HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 
 BLEACH_ALLOWED_TAGS = [
     'a', 'abbr', 'b', 'i', 'u', 'span', 'sub', 'sup', 'br',
@@ -130,3 +129,7 @@ BLEACH_ALLOWED_ATTRIBUTES = {
     'a': [ 'href' ],
     'li': [ 'value' ],
 }
+
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'templates'),
+)

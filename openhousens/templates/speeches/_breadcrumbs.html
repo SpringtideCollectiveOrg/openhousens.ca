@@ -1,0 +1,10 @@
+{% load url from future %}
+{% load i18n %}
+
+<ul class="breadcrumbs">
+{% for n in section.get_ancestors %}
+{% if n.id != section.id or all %}
+    <li><a href="{% url 'speeches:section-view' n.get_path %}">{{ n.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
