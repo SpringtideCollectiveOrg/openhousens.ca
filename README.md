@@ -27,13 +27,17 @@ Start the web app:
 
 ## Importing speeches
 
-Import a file:
-
-    python manage.py load_akomantoso --commit --instance=default --file=akoma_ntoso/11-38.xml
-
 Import a directory:
 
     python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
+
+Import a directory filtered by date. Filenames must be date-based:
+
+    python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/ --start-date=yyyy-mm-dd
+
+Import a file:
+
+    python manage.py load_akomantoso --commit --instance=default --file=akoma_ntoso/2011-11-03_11-38.xml
 
 You may want to clear the ElasticSearch index before re-importing:
 
