@@ -4,16 +4,16 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="7468ce01-c499-4768-9a8c-19e92ed26c91" href="/ontology/person/ca-ns.lena.m.diab" showAs="Hon. Lena Diab"/>
-        <TLCPerson id="9083e65a-2973-487c-826c-5dbe3168699c" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
-        <TLCPerson id="bc36ae4e-ca3c-4bf9-bbdb-36bffc6617e1" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
-        <TLCPerson id="a6095eaa-d175-4e2e-a997-742e0c1d3d10" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="2ff2ba98-5c95-466a-adbc-991700eba459" href="/ontology/person/ca-ns.gordon.l.wilson" showAs="MR. GORDON WILSON"/>
-        <TLCPerson id="abb112ca-5557-436b-b603-9754cce09178" href="/ontology/person/ca-ns.karla.macfarlane" showAs="Ms. Karla MacFarlane"/>
-        <TLCPerson id="67b70bd5-9657-4c87-9da4-d89a69594eb3" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
-        <TLCPerson id="a6511e6d-7220-4ede-a4f2-3fe849660042" href="/ontology/person/ca-ns.tim.houston" showAs="Mr. Tim Houston"/>
-        <TLCPerson id="c13007bc-6c67-4dc5-99ef-3dbf0e256bab" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
-        <TLCPerson id="f1cc8e37-7d99-4321-ad91-bc220a7aa4f7" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
+        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
+        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
+        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="31fb4530-6a1c-46f4-970e-db00638ac010" href="/ontology/person/ca-ns.tim.houston" showAs="Mr. Tim Houston"/>
+        <TLCPerson id="c5af3c5b-9318-4bcc-a6b9-6d41edaf6180" href="/ontology/person/ca-ns.lena.m.diab" showAs="Hon. Lena Diab"/>
+        <TLCPerson id="215aa23a-8ad4-4ebd-bd73-24c044884420" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
+        <TLCPerson id="6a90d53e-7f2d-4189-b7bd-c98709dcee16" href="/ontology/person/ca-ns.karla.macfarlane" showAs="Ms. Karla MacFarlane"/>
+        <TLCPerson id="082cad97-a106-493b-849d-c354e8e1c26d" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="2d10375d-6326-433b-a3a9-2209ff43ab46" href="/ontology/person/ca-ns.gordon.l.wilson" showAs="MR. GORDON WILSON"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -49,7 +49,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable member for Kings South.</p>
         </speech>
-        <speech by="#bc36ae4e-ca3c-4bf9-bbdb-36bffc6617e1"><num title="1373">RESOLUTION NO. 1373</num><from>MR. KEITH IRVING</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#215aa23a-8ad4-4ebd-bd73-24c044884420"><num title="1373">RESOLUTION NO. 1373</num><from>MR. KEITH IRVING</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Ms. Abbey Duinker is a native of Cambridge, Kings County, and a point forward with the University of Acadia basketball team in Wolfville; and</p>
 <p>Whereas Ms. Duinker played her most successful season in 2013-14, leading both offensively and defensively; and</p>
 <p>Whereas Ms. Duinker has been awarded the inaugural Acadia President's Award for exceptional leadership skills in athletics, academics, and community building;</p>
@@ -61,7 +61,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth South.</p></speech>
-        <speech by="#c13007bc-6c67-4dc5-99ef-3dbf0e256bab"><num title="1374">RESOLUTION NO. 1374</num><from>MR. ALLAN ROWE</from><p>Madam Speaker, on behalf of the honourable member for Hants East, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#082cad97-a106-493b-849d-c354e8e1c26d"><num title="1374">RESOLUTION NO. 1374</num><from>MR. ALLAN ROWE</from><p>Madam Speaker, on behalf of the honourable member for Hants East, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas small businesses are the foundation of Nova Scotia; and</p>
 <p>Whereas Main Town Pizza of Enfield, Nova Scotia, serves up delicious pizzas, subs, donairs, and seafood to residents, after having made the strategic decision to move and establish a business in Enfield; and</p>
 <p>Whereas Main Town Pizza is celebrating its 5<sup>th</sup> Anniversary of operations;</p>
@@ -73,7 +73,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare-Digby.</p></speech>
-        <speech by="#2ff2ba98-5c95-466a-adbc-991700eba459"><num title="1375">RESOLUTION NO. 1375</num><from>MR. GORDON WILSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#2d10375d-6326-433b-a3a9-2209ff43ab46"><num title="1375">RESOLUTION NO. 1375</num><from>MR. GORDON WILSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Education Week is an opportunity to recognize teachers and education partners' commitments for their outstanding work and dedication to public education; and</p>
 <p>Whereas this year's theme is Active Citizenship: Get Involved, Take Action, Be the Difference; and</p>
 <p>Whereas Jennie O'Brien, Digby Regional High School, is the recipient of an Education Week Award for 2014;</p>
@@ -91,7 +91,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Madam Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -102,7 +102,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Madam Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole on Supply unto Her Majesty.</p>
         </speech>
@@ -125,7 +125,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House concur on the report of the Committee of the Whole on Supply. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call the order of business, Introduction of Bills.</p>
         </speech>
@@ -141,7 +141,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance and Treasury Board.</p>
         </speech>
-        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3">
+        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
           <from>HON. DIANA WHALEN</from>
           <p>Mr. Speaker, the bill is printed and I believe the Pages have already distributed a copy to each member.</p>
         </speech>
@@ -156,7 +156,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance and Treasury Board.</p>
         </speech>
-        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3">
+        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
           <from>HON. DIANA WHALEN</from>
           <p>I move second reading of Bill No. 70, the Appropriations Act, 2014.</p>
         </speech>
@@ -169,7 +169,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance and Treasury Board.</p>
         </speech>
-        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3">
+        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
           <from>HON. DIANA WHALEN</from>
           <p>Mr. Speaker, I move third reading of Bill No. 70, the Appropriations Act, 2014.</p>
         </speech>
@@ -225,13 +225,13 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is carried. (Applause)</p>
 <p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, before giving the business for Monday, all members of this House would recognize the hard work that our staff do in the administration of this building, especially our Pages. But as we all know, at times we have to say goodbye to our Pages as they move on to other careers and other employment. Today is the last day for Page Helen Hanbidge.</p>
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, before giving the business for Monday, all members of this House would recognize the hard work that our staff do in the administration of this building, especially our Pages. But as we all know, at times we have to say goodbye to our Pages as they move on to other careers and other employment. Today is the last day for Page Helen Hanbidge.</p>
 <p>On behalf of all members of the House, we want to thank Helen for her dedicated service to all the members, to you, Mr. Speaker, and to all your staff, and we want to wish her the greatest success into the future. Thank you, Helen. (Standing Ovation)</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. We will meet again on Monday, April 28<sup>th</sup>, from the hours of 4:00 p.m. until 10:00 p.m. At that time we will be doing second reading of Bill Nos. 69 and 67. As well, we will be doing third reading of Bill Nos. 32, 33, 34, 41, 44, 49, 52, 53, 55, 57, and 58. We will also be doing in Committee of the Whole House on Bills, Bill Nos. 35, 43, 45, and 51. If time permits, we will be looking at Private and Local Bills for Second Reading and Third Reading.</p>
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. We will meet again on Monday, April 28<sup>th</sup>, from the hours of 4:00 p.m. until 10:00 p.m. At that time we will be doing second reading of Bill Nos. 69 and 67. As well, we will be doing third reading of Bill Nos. 32, 33, 34, 41, 44, 49, 52, 53, 55, 57, and 58. We will also be doing in Committee of the Whole House on Bills, Bill Nos. 35, 43, 45, and 51. If time permits, we will be looking at Private and Local Bills for Second Reading and Third Reading.</p>
 <p>With that, I move that the House do now rise to meet again between the hours of 4:00 p.m. and 10:00 p.m. on Monday, April 28<sup>th</sup>.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House rise to meet again on Monday, April 28<sup>th</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
 <p>Is it agreed?</p>
@@ -245,67 +245,67 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#7468ce01-c499-4768-9a8c-19e92ed26c91"><num title="1376">RESOLUTION NO. 1376</num><from>Hon. Lena Diab</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><num title="1376">RESOLUTION NO. 1376</num><from>Hon. Lena Diab</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on April 12<sup>th</sup> I had the honour of attending the Annual General Meeting for the German Canadian Association of Nova Scotia, a volunteer, non-profit organization; and</p>
 <p>Whereas the association elected the following individuals to its board of directors: Hannes Weiland, Christine Hoehne, Stefan Eisebraun, Joerg Kanehl, Andr&#xE9; Trzebiatowski, Steffen K&#xFFFD;ubler, Julia Poertner, Jessica Wyss, Katie Woller, Jessica Kressebuch, and Ron Kronstein, and also on the board are Honorary German Consul Anthony Chapman, Q.C. and Honorary Swiss Consul Ren&#xE9; Botzenhardt; and</p>
 <p>Whereas the association and the board will continue to support their mandate of cultivating the customs, language, and social activities of Germany, Switzerland, and Austria in a unified manner on behalf of the citizens of Nova Scotia;</p>
 <p>Therefore be it resolved that all members of this House recognize their hard work and commitment and congratulate each and every one of them for their valuable contribution to the multiculturalism of Nova Scotia.</p></speech>
-        <speech by="#7468ce01-c499-4768-9a8c-19e92ed26c91"><num title="1377">RESOLUTION NO. 1377</num><from>Hon. Lena Diab</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><num title="1377">RESOLUTION NO. 1377</num><from>Hon. Lena Diab</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on March 6, 2014, the Department of Justice paid special recognition to 72 staff for their 25, 30, and 35 years of commitment to the Government of Nova Scotia during a Long Service Award luncheon; and</p>
 <p>Whereas these civil servants serve Nova Scotia every day on the front lines, answering calls, responding to emails, working with our citizens, and delivering Nova Scotians the services they need; and</p>
 <p>Whereas their work is not always easy but it is essential, and it helps Nova Scotians feel safe and supported in their communities;</p>
 <p>Therefore be it resolved that all members of this House recognize their hard work and commitment and congratulate each and every one of them for their wonderful achievement.</p></speech>
-        <speech by="#abb112ca-5557-436b-b603-9754cce09178"><num title="1378">RESOLUTION NO. 1378</num><from>Ms. Karla MacFarlane</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><num title="1378">RESOLUTION NO. 1378</num><from>Ms. Karla MacFarlane</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Pictou branch of the Bank of Nova Scotia celebrated its 175<sup>th</sup> Anniversary in February 2014; and</p>
 <p>Whereas the Bank of Nova Scotia originated in Halifax in 1831 and came under charter in 1832, and the Pictou branch was once located on Water Street and moved to its current location on the corner of Coleraine and Front Streets in 1887, when it took over the Bank of Pictou; and</p>
 <p>Whereas the Bank of Nova Scotia has immense historical significance to the Town of Pictou, with the basement vault still bearing the name the Bank of Pictou;</p>
 <p>Therefore be it resolved that all members of this House of Assembly recognize and congratulate the Pictou branch of the Bank of Nova Scotia, as well as all past and present staff and managers, as it celebrates its 175 years in the Town of Pictou.</p></speech>
-        <speech by="#abb112ca-5557-436b-b603-9754cce09178"><num title="1379">RESOLUTION NO. 1379</num><from>Ms. Karla MacFarlane</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><num title="1379">RESOLUTION NO. 1379</num><from>Ms. Karla MacFarlane</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Indigo Caf&#xE9;, owned and operated by Ms. Deidre McLean and located on Water Street in the Town of Pictou, won the 2013 Pictou County Chamber of Commerce New Business of the Year Recognition Award; and</p>
 <p>Whereas the Indigo Caf&#xE9; is a 26-seat boutique coffee shop offering homemade food and specializing in an all-day breakfast; and</p>
 <p>Whereas Ms. McLean established her business just over a year ago and has a regular clientele who enjoys her coffee and warm greeting when they frequent her shop;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ms. Deidre McLean of the Indigo Caf&#xE9; on her award and wish her much success in her future endeavours.</p></speech>
-        <speech by="#a6511e6d-7220-4ede-a4f2-3fe849660042"><num title="1380">RESOLUTION NO. 1380</num><from>Mr. Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><num title="1380">RESOLUTION NO. 1380</num><from>Mr. Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Cathy Leeming and the Friends By the Sea Artists Association are hosting an annual fundraiser to support the New Glasgow Public Library; and</p>
 <p>Whereas the funds raised go toward library collection development; and</p>
 <p>Whereas Cathy also donates a wonderful piece as a door prize, a true incentive that ensures a large turnout;</p>
 <p>Therefore be it resolved that all members of the House of Assembly thank Cathy Leeming and her fellow artists for their generosity and their continued support of the library.</p></speech>
-        <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><num title="1381">RESOLUTION NO. 1381</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="1381">RESOLUTION NO. 1381</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas for nearly 35 years it has been a tradition for the veterans at the Harbourview Hospital to receive winter throws from the Cape Breton Veterans Hospital Comfort Fund; and</p>
 <p>Whereas this fund is a project of the Royal Canadian Legions and Army Navy Air Force Clubs that deliver gifts to 260 veterans in the Cape Breton area every Christmas; and</p>
 <p>Whereas the generosity of the Legions and Army Navy Air Force Clubs brings a smile to veterans who are institutionalized or are at home every Christmas;</p>
 <p>Therefore be it resolved that all members of the House of Assembly salute local Legions and Army Navy Air Force clubs for their act of kindness for our deserving veterans.</p></speech>
-        <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><num title="1382">RESOLUTION NO. 1382</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="1382">RESOLUTION NO. 1382</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Kiwanis Ceilidh Golden K have had a very busy December, with donations and community volunteer efforts; and</p>
 <p>Whereas donations have been made to local food banks, the Association of Safer Communities, the Salvation Army, and the Bras d'Or Combined Christmas Cheer Fund; and</p>
 <p>Whereas the club volunteered with the Salvation Army Kettles, Meals on Wheels, Lights for Health, Builders Clubs, and chauffeuring officials in the World Under-17 Hockey Championship, and also found time to sell fruitcakes;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate this service club for their exemplary service to the Northside community.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1383">RESOLUTION NO. 1383</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1383">RESOLUTION NO. 1383</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Fire Chief Nigel Leggett for receiving a 30-year service pin at the annual banquet of the Valley Kemptown Fire Brigade in Colchester North.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1384">RESOLUTION NO. 1384</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1384">RESOLUTION NO. 1384</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Merlyn Smith for receiving a 20-year service pin at the annual banquet of the Valley Kemptown Fire Brigade in Colchester North.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1385">RESOLUTION NO. 1385</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1385">RESOLUTION NO. 1385</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Jason McRae for receiving a 5-year service pin at the annual banquet of the Valley Kemptown Fire Brigade in Colchester North.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1386">RESOLUTION NO. 1386</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1386">RESOLUTION NO. 1386</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Alex Teed for receiving the Officer of the Year Award at the annual banquet of the Valley Kemptown Fire Brigade in Colchester North.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1387">RESOLUTION NO. 1387</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1387">RESOLUTION NO. 1387</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Graham Jacobs for receiving a 10-year service pin at the annual banquet of the Valley Kemptown Fire Brigade in Colchester North.</p></speech>
-        <speech by="#9083e65a-2973-487c-826c-5dbe3168699c"><num title="1388">RESOLUTION NO. 1388</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1388">RESOLUTION NO. 1388</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's volunteer fire brigades are made up of individuals who show their dedication to serving others by contributing hard work, skills, and time, often risking their lives, taking on the role of first responders, and dealing with incidents of great emotional stress; and</p>
 <p>Whereas training, fundraising, recruitment, and public relations are only a few of the additional responsibilities of members of a fire brigade; and</p>
 <p>Whereas since the members of volunteer fire brigades seldom receive the accolades they deserve, an annual banquet is usually held to thank all their members and to present special awards;</p>

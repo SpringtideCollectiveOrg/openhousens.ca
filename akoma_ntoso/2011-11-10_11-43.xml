@@ -4,26 +4,26 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="ddb64cf6-5019-44d4-93e4-ff9d0ad4a169" href="/ontology/person/ca-ns.bill.estabrooks" showAs="MR. ESTABROOKS"/>
-        <TLCPerson id="dafa91c6-35b0-44b2-910e-2732db365937" href="/ontology/person/ca-ns.percy.paris" showAs="MR. PARIS"/>
-        <TLCPerson id="380a04f6-7ff7-47e6-b7bc-17d7befd49e3" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
-        <TLCPerson id="e8e9da63-3a4a-4d12-9aa9-a6b535fe417b" href="/ontology/person/ca-ns.maureen.macdonald" showAs="MS. MAUREEN MACDONALD"/>
-        <TLCPerson id="ff1ba834-24ba-4676-b51f-ded3a3b60dd5" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
-        <TLCPerson id="88dd3526-36fb-4226-ac38-bf71e6a11230" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
-        <TLCPerson id="482af266-32b5-4e7b-b041-5825dfcaa07f" href="/ontology/person/ca-ns.ross.landry" showAs="MR. LANDRY"/>
-        <TLCPerson id="1391921b-699a-4971-915b-f9b9d6f7b3da" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="MR. GAUDET"/>
-        <TLCPerson id="64079cb8-9198-4f19-818a-597f1468ed7d" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="MR. D'ENTREMONT"/>
-        <TLCPerson id="14492167-7c6c-4e2f-b69d-0005f8725281" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
-        <TLCPerson id="383983f6-36fb-42d8-8572-124d42f38c58" href="/ontology/person/ca-ns.keith.colwell" showAs="MR. COLWELL"/>
-        <TLCPerson id="90d8e39b-06a0-43d3-8ec8-8e2a42d902cd" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
-        <TLCPerson id="1889133b-ba88-4e76-bef9-9bdfa9ef3547" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
-        <TLCPerson id="14ec3253-c3e6-4d10-8c3d-6370348053b8" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="167d0d25-2b1b-4355-a32d-f547991f14f1" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
-        <TLCPerson id="e2d2e894-19b6-444f-8f0d-28d6c40392db" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="c8cdf95e-3cce-47d2-a83c-73c912d29ab4" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
-        <TLCPerson id="fe73675b-805f-4b56-8a17-8bf47a03577c" href="/ontology/person/ca-ns.john.macdonell" showAs="MR. MACDONELL"/>
-        <TLCPerson id="f1cc8e37-7d99-4321-ad91-bc220a7aa4f7" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. ORRELL"/>
-        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
+        <TLCPerson id="c8656293-6758-4799-9249-e4a9e096a4d2" href="/ontology/person/ca-ns.bill.estabrooks" showAs="MR. ESTABROOKS"/>
+        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. ORRELL"/>
+        <TLCPerson id="ce0cf949-df99-4a43-b215-79f6ecf5cb35" href="/ontology/person/ca-ns.john.macdonell" showAs="MR. MACDONELL"/>
+        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="42d2bd92-9a05-4f0e-8fae-0df41cda3c9e" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
+        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="MR. COLWELL"/>
+        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="MS. MAUREEN MACDONALD"/>
+        <TLCPerson id="e63ef392-23cc-461a-bb21-5b72f51f8cc2" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="MR. D'ENTREMONT"/>
+        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="f2518600-906f-48d6-8287-3ec3d599b72a" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
+        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
+        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
+        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="56493acc-adb4-492b-a238-873ebc173cfa" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
       </references>
@@ -47,7 +47,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#14ec3253-c3e6-4d10-8c3d-6370348053b8"><num title="2174">RESOLUTION NO. 2174</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e"><num title="2174">RESOLUTION NO. 2174</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia has a long and proud tradition honouring the men and women of our Canadian Armed Forces, particularly our veterans, where each November 11<sup>th</sup> we gather to remember those who fought for our freedom; and</p>
 <p>Whereas I, myself, am a former naval officer, I am still inspired by our veterans' love for Canada, their sense of duty, and the example they set for those Canadians who wear the uniform today; and</p>
 <p>Whereas Canadians have an obligation to our veterans, as well as those currently serving and their families, to never forget the sacrifices they made, and continue to make, to serve and protect us and people around the world;</p>
@@ -89,7 +89,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried. (Applause)</p>
 <p>The honourable member for Halifax Citadel-Sable Island on an introduction.</p></speech>
-        <speech by="#1889133b-ba88-4e76-bef9-9bdfa9ef3547"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, it's a real pleasure and a privilege today to bring the attention of the members of the House to the east gallery where we have a distinguished visitor from the House of Commons in Ottawa, Ms. Peggy Nash, the Member of Parliament from Ontario. I would like her to rise and receive the warm welcome of the House. (Applause)</p>
+        <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, it's a real pleasure and a privilege today to bring the attention of the members of the House to the east gallery where we have a distinguished visitor from the House of Commons in Ottawa, Ms. Peggy Nash, the Member of Parliament from Ontario. I would like her to rise and receive the warm welcome of the House. (Applause)</p>
 <p>Sitting beside her, Mr. Speaker, is Kristen Roe, who is well-known in the province for the wonderful work that she has done in fundraising, and has swam the world and raised money for great causes. I welcome Kristen as well. (Applause)</p></speech>
       </noticesOfMotion>
       <debateSection>
@@ -106,7 +106,7 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that these bills be read a second time on a future day.</p>
 <p>The honourable Minister of Justice.</p></speech>
-        <speech by="#482af266-32b5-4e7b-b041-5825dfcaa07f">
+        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
           <from>HON. ROSS LANDRY</from>
           <p>Mr. Speaker, with your permission, I would like to do an introduction.</p>
         </speech>
@@ -114,7 +114,7 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#482af266-32b5-4e7b-b041-5825dfcaa07f">
+        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
           <from>MR. LANDRY</from>
           <p>From Nova Scotia Power's operations department we have Frank Woodworth - and I would ask you to just stand - Mike Thibault, Tony Power and Jamie MacNeil. They're here today in regard to the announcement that I made in regard to the scrap metal and I thank them very much for coming in today. It was very important that we have our corporate partners come in on such an important piece of legislation.</p>
         </speech>
@@ -138,7 +138,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><num title="2176">RESOLUTION NO. 2176</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="2176">RESOLUTION NO. 2176</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on November 11<sup>th</sup> Nova Scotians will join fellow Canadians to mark the service and sacrifice of Canadian Forces members past and present, both here in Canada and throughout the world; and</p>
 <p>Whereas we remember how the absence of world security rallied our bravest men and women to defend our most sacred values and ideals in past wars and conflicts; and</p>
 <p>Whereas we will pause to honour those members of the Canadian Navy, the Royal Canadian Air Force, and the Canadian Army currently serving overseas in defence of those very same values and ideals;</p>
@@ -150,7 +150,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><num title="2177">RESOLUTION NO. 2177</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="2177">RESOLUTION NO. 2177</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on the 11<sup>th</sup> hour of the 11<sup>th</sup> day of the 11<sup>th</sup> month, Canadians from coast to coast will pause to remember the bravery and sacrifice of the men and women who have served and continue to serve our country during times of war, conflict, and peace; and</p>
 <p>Whereas the Royal Canadian Legion, through its Poppy Campaign, provides services to veterans and their families and promotes remembrance to ensure future generations never forget our fallen heroes and returning veterans; and</p>
 <p>Whereas Canada's reputation for freedom was earned on the battlefields of Europe and in places of conflict all around the world by heroes who fought so we might enjoy peace;</p>
@@ -168,17 +168,17 @@
 <p>The honourable Leader of the Official Opposition.</p></speech>
         <debateSection>
           <heading>PREM. - NSP MONOPOLY: RATEPAYERS - PROTECT</heading>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, my question is for the Premier. The NDP Government, like the Progressive Conservative Government before them, is allowing Nova Scotia Power to set energy policy in this province. Yesterday Nova Scotia Power said the shutdown to NewPage Port Hawkesbury would result in savings, when a few months ago they said just the opposite.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, my question is for the Premier. The NDP Government, like the Progressive Conservative Government before them, is allowing Nova Scotia Power to set energy policy in this province. Yesterday Nova Scotia Power said the shutdown to NewPage Port Hawkesbury would result in savings, when a few months ago they said just the opposite.</p>
 <p>My question to the Premier is, since the Premier is refusing to order a performance value audit of Nova Scotia Power, what will he do to ensure that Nova Scotia ratepayers are protected from this monopoly?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, one of the things that we have done to protect not just the ratepayers but all of our citizens from political interference with the Utility and Review Board is to ensure that there are mechanisms in place, through the consumer advocate and through the small business advocate, to ensure that the interests of the ratepayers are adequately represented.</p>
 <p>We understand, of course, that power hikes continue to take a big bite out of people's budgets, and that is why we took the HST off of home electricity.</p></speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Mr. Speaker, the organizations and the people who the Premier is talking about intervene at the URB, looking specifically at the cost of producing power. It does nothing to look at the internal operations of Nova Scotia Power to ensure that this company has done like every other company and looked inward for savings before they went back to their customers. In this province we have allowed the monopoly to turn each and every time to the rate base, as opposed to looking inward to protect Nova Scotians. That is his responsibility, and it is the government's responsibility to protect Nova Scotians.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, the organizations and the people who the Premier is talking about intervene at the URB, looking specifically at the cost of producing power. It does nothing to look at the internal operations of Nova Scotia Power to ensure that this company has done like every other company and looked inward for savings before they went back to their customers. In this province we have allowed the monopoly to turn each and every time to the rate base, as opposed to looking inward to protect Nova Scotians. That is his responsibility, and it is the government's responsibility to protect Nova Scotians.</p>
 <p>The Mayor of Port Hawkesbury is speaking out against yesterday's news by Nova Scotia Power because it means that the NewPage Port Hawkesbury facility must shut down in order for the mills to receive this reduced rate that was talked about yesterday. It is pitting one part of our province against another. My question to the Premier is, will the Premier step in to make certain that Nova Scotia Power is not pitting one community against another?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I understand it, this was a standard filing on behalf of Nova Scotia Power that they have to do when they recognize a change in circumstances. I made it very clear yesterday that, of course, the shutdown of NewPage Port Hawkesbury is an unacceptable result for everyone in this House. That's why we're working so hard, why we have in place a seven point plan, and why we're investing $14 million of Nova Scotia taxpayers' money in ensuring that asset remains in a position to be able to be sold, operated and come back on line. That's what would be best for all Nova Scotians.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Mr. Speaker, the Premier's right about one thing. It was part of a regular filing that Nova Scotia Power had to do yesterday. What he's missing is, two months ago they told Nova Scotians that the shutdown of NewPage Port Hawkesbury would not result in any savings. Yesterday's submission to the URB said the exact opposite, that it would result in savings. That's exactly why we're asking the Premier to look inside of this company to make sure they are treating Nova Scotians fairly.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, the Premier's right about one thing. It was part of a regular filing that Nova Scotia Power had to do yesterday. What he's missing is, two months ago they told Nova Scotians that the shutdown of NewPage Port Hawkesbury would not result in any savings. Yesterday's submission to the URB said the exact opposite, that it would result in savings. That's exactly why we're asking the Premier to look inside of this company to make sure they are treating Nova Scotians fairly.</p>
 <p>Today the Minister of Service Nova Scotia and Municipal Relations announced that each municipality will have to pay for a value-for-money audit every four years. My question to the Premier is, why does the NDP Government order a value-for-money audit of municipalities but won't order one from a regulated monopoly called Nova Scotia Power?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -191,32 +191,32 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - HEALTH EQUIP.: BUDGET - OMISSION</heading>
-          <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, my question is to the Minister of Finance. In the budget tabled last Spring, the estimates for the Department of Health and Wellness contained a provision of zero dollars for health equipment, a fact that was confirmed by the Minister of Health and Wellness herself outside this Chamber just a few moments ago. When we pointed out this glaring error last Spring, the Minister of Health said: This does not mean that equipment that requires replacing will not be replaced or maintained.</p>
+          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, my question is to the Minister of Finance. In the budget tabled last Spring, the estimates for the Department of Health and Wellness contained a provision of zero dollars for health equipment, a fact that was confirmed by the Minister of Health and Wellness herself outside this Chamber just a few moments ago. When we pointed out this glaring error last Spring, the Minister of Health said: This does not mean that equipment that requires replacing will not be replaced or maintained.</p>
 <p>My question now today to the Minister of Finance is, will he now finally admit that the provision of zero dollars for health equipment in his budget was a mistake and that the Minister of Health and Wellness is just trying to cover it up?</p></speech>
-          <speech by="#88dd3526-36fb-4226-ac38-bf71e6a11230">
+          <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
             <from>HON. GRAHAM STEELE</from>
             <p>Mr. Speaker, I think the member opposite shares the same misunderstanding the member for Halifax Clayton Park had yesterday. I will refer that question to the Minister of Health and Wellness.</p>
           </speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, last year in the department's budget we had in excess of $72 million for capital projects. Additionally, we were able to assign I think roughly $6 million for high priority capital equipment projects around the province including new cath labs, for example, in the Capital District Health Authority. Thank you.</p>
           </speech>
-          <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><from>MR. BAILLIE</from><p>Mr. Speaker, my question again is to the Minister of Finance. That's very interesting but it has nothing to do with the question. There's always a budget for health infrastructure, there's always a budget for capital equipment, there's always a budget for operating funds. In the budget last year, the budget for equipment was reduced to zero, flying in the face of the fact that the government spends, on average, $20 million on health equipment alone.</p>
+          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, my question again is to the Minister of Finance. That's very interesting but it has nothing to do with the question. There's always a budget for health infrastructure, there's always a budget for capital equipment, there's always a budget for operating funds. In the budget last year, the budget for equipment was reduced to zero, flying in the face of the fact that the government spends, on average, $20 million on health equipment alone.</p>
 <p>This year, Mr. Speaker, the government is asking health authorities to absorb a 3 per cent budget cut - that is the very place that the Health and Wellness Minister directed health authorities to go to find the $20 million that they had cut, perhaps an error, bringing it to zero in the budget itself.</p>
 <p>So, my question to the Minister of Finance is, if it wasn't a mistake, if they deliberately believe that there would be zero dollars for health equipment, will there be provision for health equipment in the budget this year or will they, again, point to the operating funds of the health authorities to find that money?</p></speech>
-          <speech by="#88dd3526-36fb-4226-ac38-bf71e6a11230">
+          <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
             <from>HON. GRAHAM STEELE</from>
             <p>I refer that question to the Minister of Health and Wellness.</p>
           </speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><from>HON. MAUREEN MACDONALD</from><p>I want to thank the honourable member for giving me an opportunity to stand here today and tell members of the House that we have just told the district health authorities in the IWK that they can expect $22 million in the upcoming budget. (Applause)</p>
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>I want to thank the honourable member for giving me an opportunity to stand here today and tell members of the House that we have just told the district health authorities in the IWK that they can expect $22 million in the upcoming budget. (Applause)</p>
 <p>Mr. Speaker, we were pleased to do that so early in the budget planning process. It gives them great opportunity, as they're planning for their operational costs next year, to look at ways that they can use this money to offset and to help find some the efficiencies that we expect and know that they will find as they plan for next year's budget.</p></speech>
-          <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><from>MR. BAILLIE</from><p>That's all very well and good, but it just shows the house of cards that this government calls a budget. The minister knows full well that the $22 million today for health infrastructure is nothing more than a shuffling of the deck, since they spend $20 million a year on average on health equipment which they've provided zero for. The question is, is the zero a mistake or is it a deliberate shuffling away from one problem to another, thereby accomplishing nothing.</p>
+          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>That's all very well and good, but it just shows the house of cards that this government calls a budget. The minister knows full well that the $22 million today for health infrastructure is nothing more than a shuffling of the deck, since they spend $20 million a year on average on health equipment which they've provided zero for. The question is, is the zero a mistake or is it a deliberate shuffling away from one problem to another, thereby accomplishing nothing.</p>
 <p>My question to the Minister of Finance is, since he continually misses his budget targets, sometimes by hundreds of millions of dollars, will he at least admit that he made a mistake when he told them zero for health equipment and apologize to all those health workers who are left to pick up the pieces?</p></speech>
-          <speech by="#88dd3526-36fb-4226-ac38-bf71e6a11230">
+          <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
             <from>MR. STEELE</from>
             <p>I'll refer that to the Minister of Health and Wellness.</p>
           </speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>MS. MAUREEN MACDONALD</from>
             <p>What we've been able to do in the Department of Health and Wellness - unlike the former government - is we've been able to work with the DHAs, get their business plans improved on time, give them clear directives much in advance of their coming budget year so that they are able to not only provide better care sooner, but they are able to do it in a fiscally responsible way. Mr. Speaker, this is a record that we are quite prepared to stand on.</p>
           </speech>
@@ -227,19 +227,19 @@
         </debateSection>
         <debateSection>
           <heading>PREM. - LOW-INCOME NOVA SCOTIANS: HEAT - ASSISTANCE OFFER</heading>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>HON. STEPHEN MCNEIL</from><p>Thank you, Mr. Speaker. This government has made it harder to make ends meet for Nova Scotian families - they've hiked the HST; they've hiked user fees; gas and power rates have all risen in the province; and the price of food keeps rising. Yet in 2009 the NDP cut the Heating Assistance Rebate Program from $450 to $200 and they've kept it there ever since.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Thank you, Mr. Speaker. This government has made it harder to make ends meet for Nova Scotian families - they've hiked the HST; they've hiked user fees; gas and power rates have all risen in the province; and the price of food keeps rising. Yet in 2009 the NDP cut the Heating Assistance Rebate Program from $450 to $200 and they've kept it there ever since.</p>
 <p>My question to the Premier is, with the cost of everything in the province climbing, why is the Premier not offering adequate assistance to low-income Nova Scotians trying to heat their homes?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>In fact what we did is we broadened the base so that more people could actually receive assistance under that heating assistance plan, Mr. Speaker. Furthermore, it was this party that campaigned for and won the removal of the HST from home heating oil which, of course, is one of the major components of heating in households across our province - something that that Party campaigned against and, if they were ever government, they would reinstate.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>The cost of everything is going up, month after month. Nova Scotians have one of the highest inflation rates in the country according to Statistics Canada. Fuel oil has risen 27 per cent in the last year alone, yet this Premier has decided that Nova Scotians deserve less. Power rates are higher, gas prices are higher, taxes are higher, user fees are higher and fuel oil is 27 per cent higher than it was last year.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>The cost of everything is going up, month after month. Nova Scotians have one of the highest inflation rates in the country according to Statistics Canada. Fuel oil has risen 27 per cent in the last year alone, yet this Premier has decided that Nova Scotians deserve less. Power rates are higher, gas prices are higher, taxes are higher, user fees are higher and fuel oil is 27 per cent higher than it was last year.</p>
 <p>Even though the cost of everything is higher, the Premier saw fit to cut the Housing Assistance Program two years ago and leaves it there today. Will the Premier explain to low-income Nova Scotia families how they should heat their homes with less and less?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>As I pointed out, what we did was we broadened the criteria so that assistance would reach more people. Again, this comes from a Party that would reinstate the HST on home heating oil and who oppose the very fund that provides assistance in energy efficiency for those exact people.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>The Premier in this House actually misleads Nova Scotians about what he says about the things that he has promised them. I would think before he tries to decide what we're going to do, he should try to live up to the commitments that he made to Nova Scotians in the last election. Depending on the service, it costs between $700 and $800 to fill an oil tank, but the NDP is offering low-income Nova Scotians only $200 a year, not even a third of a tank.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>The Premier in this House actually misleads Nova Scotians about what he says about the things that he has promised them. I would think before he tries to decide what we're going to do, he should try to live up to the commitments that he made to Nova Scotians in the last election. Depending on the service, it costs between $700 and $800 to fill an oil tank, but the NDP is offering low-income Nova Scotians only $200 a year, not even a third of a tank.</p>
 <p>Nova Scotians are facing higher taxes on everything. The cost of a healthy food basket has gone up close to $100 and the price of gas has increased 25 cents per litre since the NDP took office. With the cost of everything going up and assistance going down, Nova Scotians are going to have to make difficult choices this winter. My question to the Premier is, will the Premier tell Nova Scotians what they should decide to do - feed their families or heat their homes?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -252,25 +252,25 @@
         </debateSection>
         <debateSection>
           <heading>TIR: CHIP SEALING - COST</heading>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd">
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
             <from>HON. STEPHEN MCNEIL</from>
             <p>Mr. Speaker, my question is for the Minister of Transportation and Infrastructure Renewal. My question is not about the roads that he has been paving. As we all know, the infrastructure across this province could use paving and the highway infrastructure could use paving, but the question that we have for the minister is that they've entered into chip sealing and they've paved 40 kilometres of chip sealing. Could the minister tell this House how much it has cost Nova Scotians per kilometre?</p>
           </speech>
-          <speech by="#ddb64cf6-5019-44d4-93e4-ff9d0ad4a169"><from>HON. WILLIAM ESTABROOKS</from><p>I don't have the specifics at hand with that particular number, but I can assure you that when we look at chip sealing and the value that we get for it, it's very clear that it has been exceptionally well received across the province. I know members opposite - and this side of the House also - have gone out of their way to make sure that they are also on that chip-sealing list, whether it's going to be contracted out or whether it's going to be on the other side, whether it's going to be done by our chip-sealing crew.</p>
+          <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2"><from>HON. WILLIAM ESTABROOKS</from><p>I don't have the specifics at hand with that particular number, but I can assure you that when we look at chip sealing and the value that we get for it, it's very clear that it has been exceptionally well received across the province. I know members opposite - and this side of the House also - have gone out of their way to make sure that they are also on that chip-sealing list, whether it's going to be contracted out or whether it's going to be on the other side, whether it's going to be done by our chip-sealing crew.</p>
 <p>I'm aware of the fact that it has been exceptionally well-received where it has been, but it's important that we understand that roads that don't have the volume and roads that don't have the multiple uses that need asphalt, can certainly do very well with chip sealing. It has been well received. We plan to continue to do it. For this year's season, I don't have the final numbers. When they become available, I'll make them available to you, sir.</p></speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Our issue is not that we believe chip sealing is a good way to do some low-volume roads across our province. As a matter of fact, we support the minister on that and we've congratulated the minister on his five-year infrastructure plan that he has laid out.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Our issue is not that we believe chip sealing is a good way to do some low-volume roads across our province. As a matter of fact, we support the minister on that and we've congratulated the minister on his five-year infrastructure plan that he has laid out.</p>
 <p>Recently government is tendering for an expensive asphalt plant. My question to the minister is, if we do not know that the chip sealing has been in the best interests of Nova Scotia from a financial point of view, why are we ordering a chip-seal plant?</p></speech>
-          <speech by="#ddb64cf6-5019-44d4-93e4-ff9d0ad4a169"><from>MR. ESTABROOKS</from><p>Further to the detail that was asked in the first question, I think it's appropriate to be aware of the fact that in 2009 it was $91,000 per kilometre when it was chip sealing and it's now at $40,000 in 2011, which means we saved over $1 million. But to the member's credit, that is not exactly the information he wanted in the first question, and I'll get it when it becomes available.</p>
+          <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2"><from>MR. ESTABROOKS</from><p>Further to the detail that was asked in the first question, I think it's appropriate to be aware of the fact that in 2009 it was $91,000 per kilometre when it was chip sealing and it's now at $40,000 in 2011, which means we saved over $1 million. But to the member's credit, that is not exactly the information he wanted in the first question, and I'll get it when it becomes available.</p>
 <p>I think the key thing here is that there is lots of work in Nova Scotia when it comes to chip sealing or asphalt. We are aware of the fact that over the last three years there was almost $1 billion of paving and roadwork that was accomplished in this province, and it was accomplished because of the good working relationship that we have with the Roadbuilders Association. However, Mr. Speaker, as you are well aware and the member opposite would be well aware, there are certain areas of this province where there was not enough competitive bidding, in our opinion. That lack of competitive bidding meant that the way we should be looking at this process is that perhaps we should have some of our own staff involved, whether it's chip sealing or the asphalt plant - a mobile asphalt plant.</p>
 <p>I want the member opposite to know - and I'm certainly not going to break the confidence of the people in this House, whether in your caucus or in this caucus - I've been asked many times, when you get that mobile asphalt plant up and operating, Mr. Minister, you could move it to my constituency and leave it there. They're not all from this side of the House. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>Order, please. I would like to remind all honourable members in this House of Assembly that when you are recognized by the Chair, you must direct all comments and questions through the Chair. The use of the word "you" is no longer going to be tolerated by myself in this Chamber.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to acknowledge that in the minister's answer, he referred to the reduction in the price of chip seal to asphalt from $91 a ton to $49 a ton. I think it's a big stretch to suggest that chip sealing 40 kilometres has had that kind of impact. I think if the minister digs into that further, he'll find out that there has been an influx in this province of private-sector investment. There has been a large company that bought in here, which is actually driving the competitive price down. I'm sure he's well aware that there are a number of companies in from New Brunswick, because the Progressive Conservative Government of New Brunswick has reduced the Transportation budget there. They've come over here to look for work. So there are a number of factors, many of which, or all of which, are related to the private sector coming in.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to acknowledge that in the minister's answer, he referred to the reduction in the price of chip seal to asphalt from $91 a ton to $49 a ton. I think it's a big stretch to suggest that chip sealing 40 kilometres has had that kind of impact. I think if the minister digs into that further, he'll find out that there has been an influx in this province of private-sector investment. There has been a large company that bought in here, which is actually driving the competitive price down. I'm sure he's well aware that there are a number of companies in from New Brunswick, because the Progressive Conservative Government of New Brunswick has reduced the Transportation budget there. They've come over here to look for work. So there are a number of factors, many of which, or all of which, are related to the private sector coming in.</p>
 <p>Mr. Speaker, this is a philosophical difference about whether or not government should be in paving roads. All we're asking for, and the light that we've put out now for an asphalt plant, before we actually go and tender and buy an asphalt plant, is let's look at the chip-sealing aspect of what government is doing and find out whether or not it is in the best interests of taxpayers.</p>
 <p>So, Mr. Speaker, all we're asking from the minister is, before he goes and accepts the bid to buy an asphalt plant, will he wait long enough to be able to prove to Nova Scotians that it has been a benefit to them to have the province chip sealing roads?</p></speech>
-          <speech by="#ddb64cf6-5019-44d4-93e4-ff9d0ad4a169">
+          <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2">
             <from>MR. ESTABROOKS</from>
             <p>Mr. Speaker, I'll try to be a better student again this time.</p>
           </speech>
@@ -278,7 +278,7 @@
             <from>MR. SPEAKER</from>
             <p>Thank you very much.</p>
           </speech>
-          <speech by="#ddb64cf6-5019-44d4-93e4-ff9d0ad4a169"><from>MR. ESTABROOKS</from><p>The member opposite brings in some important factors, some factors that we certainly are aware of in the Department of Transportation and Infrastructure Renewal. But the member should also be aware of the fact, is it a coincidence that this has happened, particularly when it comes to chip sealing? I don't think so. Is it a coincidence when I go to the annual AGM of the Roadbuilders Association and the very first thing that they're concerned about is whether we're going to continue our asphalt plan?</p>
+          <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2"><from>MR. ESTABROOKS</from><p>The member opposite brings in some important factors, some factors that we certainly are aware of in the Department of Transportation and Infrastructure Renewal. But the member should also be aware of the fact, is it a coincidence that this has happened, particularly when it comes to chip sealing? I don't think so. Is it a coincidence when I go to the annual AGM of the Roadbuilders Association and the very first thing that they're concerned about is whether we're going to continue our asphalt plan?</p>
 <p>I want the member to know that when it comes to a better bang for our buck, there's a very simple slogan: when we pay less for tenders, we can pave more for Nova Scotians. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -287,13 +287,13 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: NDP MEMBERS - ROAD PAVING</heading>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, you know, yesterday I was shocked and appalled to hear the Premier answer a question with something that no Premier should ever say. When asked about the magnitude of a serious problem that he had been alerted to a week ago, when asked whether he had discovered any other members of his caucus who had seen fresh paving enhancing their own roads and properties, he said, I don't know. He turned a blind eye.</p>
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, you know, yesterday I was shocked and appalled to hear the Premier answer a question with something that no Premier should ever say. When asked about the magnitude of a serious problem that he had been alerted to a week ago, when asked whether he had discovered any other members of his caucus who had seen fresh paving enhancing their own roads and properties, he said, I don't know. He turned a blind eye.</p>
 <p>Something this Premier does understand - it is the job of the Premier to know, to find out immediately if he doesn't. That's the responsibility of the job, Mr. Speaker, not to ignore it when some of his friends are off doing their own thing. Having had a chance to think about it overnight, has he learned that a Premier must know and must make diligent inquiries when problems in his government emerge under his watch?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>First of all, Mr. Speaker, what I do know is that we make decisions about paving roads based on the roads that have to be paved. That is the fundamental difference between this government and the former government.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d">
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
             <from>MR. D'ENTREMONT</from>
             <p>Mr. Speaker, Sir Charles Tupper, Angus L. Macdonald, Robert L. Stanfield, and more recently, John Savage and John Hamm - whether people agreed with them, they were Premiers with reputations of doing the right thing. I just can't imagine if any of them had been alerted to allegations that they would do anything other than make the most diligent inquiries, to make sure that everything was on the up and up. Yet the current Premier says, I wouldn't know. Will this Premier agree to get some advice outside of his own tight crew of advisers from people who have led governments of all stripes on the basic responsibility required of a Premier to know, if they don't know to find out or take responsibility fully and humbly before the people who elect him?</p>
           </speech>
@@ -301,13 +301,13 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, what I know is that in this government we published a transparent five-year plan that shows the people of Nova Scotia what roads are going to be paved and when.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, in the outside world, a supervisor at Tim Hortons, a manager at Sears, a director of a credit union or a CEO of Michelin - what do they have in common? Responsibility. If something happens under their watch, they need to find out what happened and all who were involved. If they come back to their bosses and say, I don't know, I didn't bother to ask or it didn't seem important, they'd be fired. That's a responsibility.</p>
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, in the outside world, a supervisor at Tim Hortons, a manager at Sears, a director of a credit union or a CEO of Michelin - what do they have in common? Responsibility. If something happens under their watch, they need to find out what happened and all who were involved. If they come back to their bosses and say, I don't know, I didn't bother to ask or it didn't seem important, they'd be fired. That's a responsibility.</p>
 <p>I ask the Premier, make his case right now, convince his bosses - the people of Nova Scotia - why they shouldn't fire him for choosing to turn a blind eye for failing to find out answers when his job (Interruptions) I can start that last question again if they want to hear it clearly.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>No, just continue.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d">
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
             <from>MR. D'ENTREMONT</from>
             <p>Why shouldn't they fire him for choosing to turn a blind eye and for failing to find out answers when his job as Premier is to have them?</p>
           </speech>
@@ -322,25 +322,25 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: ELIGIBILITY BREAKDOWN</heading>
-          <speech by="#383983f6-36fb-42d8-8572-124d42f38c58"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, the cost of living under this NDP Government gets more and more expensive for today's families. Nova Scotians are faced with higher food prices, higher gas prices, higher electricity prices, and higher and higher taxes imposed upon them by this NDP Government. In the past year fuel oil has gone up 27 per cent and yet the NDP is still only offering $200, down from $450, in the Heating Assistance Rebate Program.</p>
+          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, the cost of living under this NDP Government gets more and more expensive for today's families. Nova Scotians are faced with higher food prices, higher gas prices, higher electricity prices, and higher and higher taxes imposed upon them by this NDP Government. In the past year fuel oil has gone up 27 per cent and yet the NDP is still only offering $200, down from $450, in the Heating Assistance Rebate Program.</p>
 <p>My question to the Minister of Service Nova Scotia and Municipal Relations is, will the minister table in this House a breakdown of how many people are eligible for the Heating Assistance Rebate Program, how many received assistance, and how much money was spent over the past three years?</p></speech>
-          <speech by="#fe73675b-805f-4b56-8a17-8bf47a03577c">
+          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35">
             <from>HON. JOHN MACDONELL</from>
             <p>Mr. Speaker, yes, I can endeavour to get that information for the member. I'm thinking he won't get it today, but as soon as I can get it for him, I'll be glad to.</p>
           </speech>
-          <speech by="#383983f6-36fb-42d8-8572-124d42f38c58">
+          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
             <from>MR. COLWELL</from>
             <p>Mr. Speaker, not only did the NDP cut back on the Heating Assistance Rebate Program, they also seem to be cutting back on how many people actually get the rebate. In Public Accounts it was said that the NDP under-spent the Heating Assistance Rebate Program by $4.4 million. The NDP is offering less money and are helping fewer people. What extra efforts has the minister taken to ensure that all Nova Scotians who are eligible for this year's rebate will receive their assistance?</p>
           </speech>
-          <speech by="#fe73675b-805f-4b56-8a17-8bf47a03577c">
+          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35">
             <from>MR. MACDONELL</from>
             <p>Mr. Speaker, I think the member may be aware - maybe not - generally application forms get mailed out to people who have applied to the program before, so we have a database of who has gotten the program. Even in the member's question he indicated that there was money left over in the fund, so not everybody who could have applied, applied. Actually it was one of the issues last year; we tried to make it clear that there was still money there for people to apply if they needed it. I'm not sure of the member's issue; the fund didn't get maxed out. If we have money in the budget we'd like to see people use it; that's what it's there for.</p>
           </speech>
-          <speech by="#383983f6-36fb-42d8-8572-124d42f38c58">
+          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
             <from>MR. COLWELL</from>
             <p>The NDP says they are providing a better deal for today's families. The better deal consists of taxing them to death, ensuring they get kicked out of homes if they don't pay their property taxes, and even making it more difficult for Nova Scotians to work with fewer and fewer jobs in the province. Mr. Speaker, $200 doesn't even cover one-third of the cost of a fill-up of fuel. Power rates are higher, gas prices are higher, taxes are higher and higher, and user fees are higher, all imposed by this government. Heating fuel has gone up 27 per cent, how can this NDP Government say this is a better deal for today's families? Families cannot keep up, they are struggling. Will the minister restore HARP to us for the previous level of $450 and at least help a few of the families?</p>
           </speech>
-          <speech by="#fe73675b-805f-4b56-8a17-8bf47a03577c">
+          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35">
             <from>MR. MACDONELL</from>
             <p>Mr. Speaker, one thing I didn't tell the member in his previous question is that there should be application forms that have gone to his office as well, if he wants to notify people in his area, I think all MLAs get that. I would say that we're not going to increase the funding back to its original level for the HARP program and if it turned out to be possible at some point in the future, I think the government would be very pleased to look at that. But at the present time that is not going to happen.</p>
           </speech>
@@ -351,27 +351,27 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: PREM.: NDP MEMBERS - ROAD PAVING</heading>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I just want to set the record straight and set the Premier straight. I can tell you exactly where my house is, it's at 33 Oak Road in the beautiful community of South Belleville; it's a beautiful dirt road with lots of potholes. If he wants his little minions to go take pictures of my property, he's more than welcome.</p>
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I just want to set the record straight and set the Premier straight. I can tell you exactly where my house is, it's at 33 Oak Road in the beautiful community of South Belleville; it's a beautiful dirt road with lots of potholes. If he wants his little minions to go take pictures of my property, he's more than welcome.</p>
 <p>Yesterday I asked the Premier about his awareness of other MLAs in his caucus who have had their own roads up to their homes paved last summer. The Premier said, I don't know, creating the impression that he didn't ask and that isn't the sort of information that he would come by. Yet a few minutes earlier he seemed awfully prepared with a document to table to deflect a new revelation, one that he had not heard in the House. It looks like he or someone from his government did try to know at least a little bit something; not only that, but the document he tabled showed that the Premier just doesn't get it. It isn't about getting roads paved, it's about getting the roads of several NDP politicians paved ahead of anyone else and conferring a clear, financial benefit on them where it increases their property value.</p>
 <p>For the Premier, did he or did he not, or did anybody in his office on his behalf, make inquiries to determine if any other NDP politician or prominent supporter had their own roads paved in the NDP paving spree of 2011, and when did he ask?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Well, Mr. Speaker, I can tell you this, that very proudly we have had the largest road-paving budgets in the history of this province, in part because the roads were so devastated by the neglect of the former government. The way in which the roads are chosen is through engineering standards, and they are published in a transparent list for Nova Scotians to see.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, this Premier must recognize that his own credibility is now an issue. He's accountable for the actions under his watch. (Interruptions)</p>
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, this Premier must recognize that his own credibility is now an issue. He's accountable for the actions under his watch. (Interruptions)</p>
 <p>Let me say it again to make sure everybody hears it. He's accountable for the actions under his watch. He's accountable for the fact that he leads a crew of MLAs who can't even say no when the paving manna drops in from heaven in front of their personal dwellings. Will he now finally come clean and account to all Nova Scotians? (Interruptions)</p>
 <p>I hear one who got his road paved laughing back there, but maybe he doesn't want to hear the question. (Interruptions) Will he account to all Nova Scotians? I want him to state, yes or no, whether any other NDP politicians or prominent supporters saw the roads in front of their properties paved during the NDP paving spree of 2011. Because, Mr. Speaker, someone's going to find out - if we don't know it already.</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, what I know is the manner in which the roads are paved across this province by this government, which is through a transparent list published for the people of Nova Scotia based on engineering standards. We pave the roads that need to be paved. As to whether or not there are supporters of the government that live on roads that have been paved, I'm sure there are, because there are lots of supporters across the province.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d"><from>MR. D'ENTREMONT</from><p>Well, I can tell you there's less and less every day. Less and less, less and less. Under this NDP Premier's watch, nobody in the NDP, including five politicians who received the benefit of having more valuable properties and an easier drive, stopped to say, hey, wait a minute, that might not be right. Five NDPers blinded by their own good luck, it seems, in having paving, and nobody called to say, geesh, I just had my road paved. Maybe I should say something about it.</p>
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>MR. D'ENTREMONT</from><p>Well, I can tell you there's less and less every day. Less and less, less and less. Under this NDP Premier's watch, nobody in the NDP, including five politicians who received the benefit of having more valuable properties and an easier drive, stopped to say, hey, wait a minute, that might not be right. Five NDPers blinded by their own good luck, it seems, in having paving, and nobody called to say, geesh, I just had my road paved. Maybe I should say something about it.</p>
 <p>What that says, Mr. Speaker, at a minimum, no matter (Interruptions) They apparently don't like this, Mr. Speaker. You can tell they're embarrassed by this, because they keep going. (Interruptions) I'll start over if that's what they want.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>Order, please. Your question, please, honourable member for Argyle.</p>
           </speech>
-          <speech by="#64079cb8-9198-4f19-818a-597f1468ed7d">
+          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
             <from>MR. D'ENTREMONT</from>
             <p>What it says at a minimum - no matter what motive one ascribes - is that there are six NDP members in public office, including the Premier, who think it's perfectly appropriate to engage in wilful blindness. Mr. Speaker, if they didn't talk about it, everyone could get away with it. Will this Premier assure the House that he'll read the riot act to his caucus, to Robert Chisholm, to do the right thing and alert him immediately if any more provincial government work could possibly confer a benefit on them?</p>
           </speech>
@@ -386,19 +386,19 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: ERDT - ECONOMIC GROWTH: TARGETS - DETAILS</heading>
-          <speech by="#380a04f6-7ff7-47e6-b7bc-17d7befd49e3"><from>MR. GEOFF MACLELLAN</from><p>Thank you, Mr. Speaker. Nova Scotia had the worst economic performance of all the provinces in the country last year. The reason is quite clear to all Nova Scotians: the NDP hiked the HST, making it tougher on both businesses and consumers. Power rates and gas prices are punishingly high, and this government has done nothing except put slogans on press releases and billboards.</p>
+          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. GEOFF MACLELLAN</from><p>Thank you, Mr. Speaker. Nova Scotia had the worst economic performance of all the provinces in the country last year. The reason is quite clear to all Nova Scotians: the NDP hiked the HST, making it tougher on both businesses and consumers. Power rates and gas prices are punishingly high, and this government has done nothing except put slogans on press releases and billboards.</p>
 <p>Mr. Speaker, my question to the Minister of Economic and Rural Development and Tourism is, how does the minister expect to grow the economy when he has no targets with the exception of higher taxes?</p></speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937">
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, I'm glad to finally get up on my feet and respond to a question. When we came into power, one of the things that was readily noticeable was the lack of effort. For 20 years the Province of Nova Scotia has been last. We recognized that. Even in Opposition, we recognized it. What we did, with a lot of consultation, we came up with a plan and a strategy to improve the economic conditions for the Province of Nova Scotia. Unfortunately, when you do something as massive as what we've done, it doesn't happen in 24 hours. We implemented a plan and it is called jobsHere - jobsHere is our plan to grow the economy of the Province of Nova Scotia.</p>
           </speech>
-          <speech by="#380a04f6-7ff7-47e6-b7bc-17d7befd49e3"><from>MR. MACLELLAN</from><p>Mr. Speaker, the minister, as expected, blamed the past governments for the economic development situation here in this province and he mentioned the lack of effort put forth by the previous governments. Growth in the province last year was 1.9 per cent, dead last amongst provinces in this country, so congratulations on your efforts to be last among the provinces and congratulations again to the government that thousands of people left the provincial workforce, which affects, of course, thousands of families. Here are some great numbers to be proud of: 2,300 people in Cape Breton left the workforce last year; North Shore, 1,400; Valley, 1,800; the entire southern region, 4,300 people left the workforce.</p>
+          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, the minister, as expected, blamed the past governments for the economic development situation here in this province and he mentioned the lack of effort put forth by the previous governments. Growth in the province last year was 1.9 per cent, dead last amongst provinces in this country, so congratulations on your efforts to be last among the provinces and congratulations again to the government that thousands of people left the provincial workforce, which affects, of course, thousands of families. Here are some great numbers to be proud of: 2,300 people in Cape Breton left the workforce last year; North Shore, 1,400; Valley, 1,800; the entire southern region, 4,300 people left the workforce.</p>
 <p>Mr. Speaker, my question to the Minister of Economic and Rural Development and Tourism is, why is it that the only real targets that the NDP seem to have are higher taxes, higher costs and higher unemployment?</p></speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937"><from>MR. PARIS</from><p>Mr. Speaker, I'll start my response by saying this. I have said, for the last 20 years - I think the previous government was only in power for 10 years, so that government over there that was in power previous to that has to take some responsibility for that. (Interruptions)</p>
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>MR. PARIS</from><p>Mr. Speaker, I'll start my response by saying this. I have said, for the last 20 years - I think the previous government was only in power for 10 years, so that government over there that was in power previous to that has to take some responsibility for that. (Interruptions)</p>
 <p>Mr. Speaker, also through the jobsHere strategy, all of those programs that we have implemented, whether it be the PIP program, whether it be the vision that we have had in investing in Shelburne Shipyard so Shelburne Shipyard will be ready because we envisioned, with our help, Irving landed ships here.</p></speech>
-          <speech by="#380a04f6-7ff7-47e6-b7bc-17d7befd49e3"><from>MR. MACLELLAN</from><p>Mr. Speaker, this minister has no idea what direction he's going, there are simply no targets. Yesterday the Finance Minister said he has never given a directive since taking office. It must be contagious since the Economic and Rural Development and Tourism Minister has never given one single economic target; in fact, if it wasn't for higher taxes, this entire Cabinet would have no direction at all.</p>
+          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, this minister has no idea what direction he's going, there are simply no targets. Yesterday the Finance Minister said he has never given a directive since taking office. It must be contagious since the Economic and Rural Development and Tourism Minister has never given one single economic target; in fact, if it wasn't for higher taxes, this entire Cabinet would have no direction at all.</p>
 <p>So my question is, when will the Minister of Economic and Rural Development and Tourism come up with a plan with real targets? Where are the targets for jobs in this province?</p></speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937">
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, I've got a bit of a smile on my face because when I hear a question like that, we are headed in one direction, which may be foreign to them, and that is up. (Interruptions)</p>
           </speech>
@@ -406,7 +406,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable Minister of Economic and Rural Development and Tourism has the floor.</p>
           </speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937">
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, Ships Start Here (Interruptions) the PIP program, the credit union loan program that helps small business which we increased, Lower Churchill - these don't come by accident - the convention centre here in Halifax, which is the centre for all Nova Scotians. We have done things, and we will continue to do things. We have a plan - for the first time in history, Nova Scotia has a plan to address the economy.</p>
           </speech>
@@ -417,21 +417,21 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: REPLACEMENT - PLANS</heading>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. CHUCK PORTER</from><p>Mr. Speaker my question is for the Minister of Health and Wellness. This past August, Dr. Iona Wile left her family practice in Hantsport to pursue other opportunities. Since that time, Hantsport and area has been without a family physician, but fortunately Dawn Lowe, who is a nurse practitioner, has been there and continues to look after patient needs with the support of the distinct collaborative physicians.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Mr. Speaker my question is for the Minister of Health and Wellness. This past August, Dr. Iona Wile left her family practice in Hantsport to pursue other opportunities. Since that time, Hantsport and area has been without a family physician, but fortunately Dawn Lowe, who is a nurse practitioner, has been there and continues to look after patient needs with the support of the distinct collaborative physicians.</p>
 <p>My question to the Minister of Health and Wellness is can the minister confirm that her department has a plan to replace Dr. Wile or support the current nurse practitioner to provide primary care services to the Hantsport collaborative practice?</p></speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, I thank the honourable member for the question. In fact, my department has provided some temporary additional resources to help the nurse practitioner who is there be able to see patients and not be tied up in administrative work. As I understand it, a proposal is being reviewed in the department that we have received from the Capital District Health Authority, and also we'll be working to encourage collaboration with the Annapolis Valley District Health Authority because of where this community is situated.</p>
           </speech>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. PORTER</from><p>Mr. Speaker, Dr. Yuri Canete from Newfoundland and Labrador has shown an interest in taking over the practice in Hantsport. He has ties to the Falmouth area and he has two children attending Kings-Edgehill School in Windsor. He has expressed an interest in doing a locum coverage, which consists of one week in November and one week in December, with hopes of then taking over the practice on a permanent basis.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>Mr. Speaker, Dr. Yuri Canete from Newfoundland and Labrador has shown an interest in taking over the practice in Hantsport. He has ties to the Falmouth area and he has two children attending Kings-Edgehill School in Windsor. He has expressed an interest in doing a locum coverage, which consists of one week in November and one week in December, with hopes of then taking over the practice on a permanent basis.</p>
 <p>Mr. Speaker, my question through you to the minister is, what is the Department of Health and Wellness doing to facilitate this locum coverage and allow Dr. Canete to experience the practice as he continues to consider this in a permanent location?</p></speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, the way things work in the Department of Health and Wellness is that we fund the district health authorities. They have an envelope of resources available to them so that they can support locums in the various communities. This would be a matter that the Capital District Health Authority would be dealing with.</p>
           </speech>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. PORTER</from><p>Mr. Speaker, until the department gets involved, more than 2,000 patients will continue to be without a family physician.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>Mr. Speaker, until the department gets involved, more than 2,000 patients will continue to be without a family physician.</p>
 <p>My question to the minister: Will the minister and her department confirm today support for a second nurse practitioner to assist Dawn Lowe as she continues to do everything she can to take care of the good people in Hantsport and the area served by this family practice?</p></speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, nurse practitioners are a very, very valuable asset in our health care system. The allocation of nurse practitioners through our primary care initiatives is something that we consider very carefully. We plan for where nurse practitioners are most needed in the community, and I know the nurse practitioner that is there in that community is a fine nurse practitioner; in fact, I think her dad may possibly be one of my colleagues.</p>
           </speech>
@@ -442,15 +442,15 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: AFFORDABLE HOUSING - INVESTMENT</heading>
-          <speech by="#1391921b-699a-4971-915b-f9b9d6f7b3da"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, my question is for the Minister of Community Services. A new federal-provincial housing agreement was signed on October 24<sup>th</sup> that will see more than $60 million invested in housing throughout the province over the next three years.</p>
+          <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, my question is for the Minister of Community Services. A new federal-provincial housing agreement was signed on October 24<sup>th</sup> that will see more than $60 million invested in housing throughout the province over the next three years.</p>
 <p>My first question to the minister is, how much of this $60 million investment is the department considering in investing in affordable and accessible housing for wheelchair users in rural Nova Scotia?</p></speech>
-          <speech by="#e2d2e894-19b6-444f-8f0d-28d6c40392db">
+          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180">
             <from>HON. DENISE PETERSON-RAFUSE</from>
             <p>Mr. Speaker, I'd like to thank the honourable member for the question. One of the things I would like to highlight is the fact that we had invested over $128 million, over the last several years, into affordable housing. When we build our new homes what we do is build them for seniors and we build them for disabilities. So those houses that the member is speaking of will be built in those manners throughout rural Nova Scotia.</p>
           </speech>
-          <speech by="#1391921b-699a-4971-915b-f9b9d6f7b3da"><from>MR. GAUDET</from><p>Mr. Speaker, with an increasing aging population in rural Nova Scotia and with a shortage of universal-design units in our rural areas, some residents, who are wheelchair users, have to move out of their communities or even out of their county in order to find accessible housing. Again to the minister, will the minister make sure that some of this $60 million housing investment will be spent on affordable and accessible housing for wheelchair users in rural Nova Scotia?</p>
+          <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><from>MR. GAUDET</from><p>Mr. Speaker, with an increasing aging population in rural Nova Scotia and with a shortage of universal-design units in our rural areas, some residents, who are wheelchair users, have to move out of their communities or even out of their county in order to find accessible housing. Again to the minister, will the minister make sure that some of this $60 million housing investment will be spent on affordable and accessible housing for wheelchair users in rural Nova Scotia?</p>
 <p>MS. PETERSON-RAFUSE: Mr. Speaker, certainly that is something that this government does, we plan. Unfortunately, what has happened in the past with the other two Parties, there was absolutely no planning in housing. That is why we are facing, today, the very situation that the member has pointed out. There are many homes under affordable housing that are not wheelchair accessible, that do not have lifts or elevators. It was due to the lack of poor planning on their behalf. The good news is that Nova Scotians have put the NDP here and this is the government that understands strategy and planning for the future to make life better for Nova Scotians.</p></speech>
-          <speech by="#1391921b-699a-4971-915b-f9b9d6f7b3da"><from>MR. GAUDET</from><p>Mr. Speaker, the low-rental housing units in Clare were built back in the 1970s. Unfortunately, no housing units in Clare today are universal designs in order to meet the needs of our residents who are wheelchair users. Again to the minister, will the department consider renovating some existing housing units in Clare, or build new units that are of universal design, in order to meet the needs of our residents who are wheelchair users?</p>
+          <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><from>MR. GAUDET</from><p>Mr. Speaker, the low-rental housing units in Clare were built back in the 1970s. Unfortunately, no housing units in Clare today are universal designs in order to meet the needs of our residents who are wheelchair users. Again to the minister, will the department consider renovating some existing housing units in Clare, or build new units that are of universal design, in order to meet the needs of our residents who are wheelchair users?</p>
 <p>MS. PETERSON-RAFUSE: Mr. Speaker, I would like to thank the member for his question because it is concerning that the lack of planning over the years has resulted in the situation we find ourselves in. I am very pleased to say that because Nova Scotians know and supported us as a government, they know one of the things we are doing for the first time in Nova Scotia is we are developing a housing strategy. We have the insight, we have the concept, something that has not been done ever in the Province of Nova Scotia - that blows my mind - that we would have never, ever sat down and looked at a strategy for housing. I'm very proud that this is the government that is doing that, we're creating a housing strategy. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -459,22 +459,22 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: HEALTH &amp; WELLNESS - CEC MODEL: PARAMETERS - DETAILS</heading>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd">
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
             <from>HON. STEPHEN MCNEIL</from>
             <p>Mr. Speaker, my question is for the Minister of Health and Wellness. The community of Annapolis and the health care professionals at the Annapolis Community Health Centre have worked very hard to put in place the necessary components to transition that facility to a new health care model. Health care professionals, however, are becoming stymied in the process and are becoming increasingly frustrated when it comes to obtaining answers that will move this process forward. My question to the Minister of Health and Wellness is, could the minister confirm whether it is the Department of Health and Wellness who sets the parameters around the new CEC model?</p>
           </speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, the development of the CECs is very much a collaborative set of working arrangements between the Department of Health and Wellness, the district health authorities and the local community where the CEC will be located. For that reason not all CECs will look entirely the same.</p>
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, the development of the CECs is very much a collaborative set of working arrangements between the Department of Health and Wellness, the district health authorities and the local community where the CEC will be located. For that reason not all CECs will look entirely the same.</p>
 <p>I'm so pleased to have an opportunity to say that the CEC that we have opened in Parrsboro, where we're learning a lot about the operation of CECs, has been very successful. It has seen more than 3,000 patients and it is very popular, not only in that community, but, indeed, in the surrounding communities.</p></speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>That's the CEC that has been open for a few weeks and was on the verge of closing just recently, Mr. Speaker.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>That's the CEC that has been open for a few weeks and was on the verge of closing just recently, Mr. Speaker.</p>
 <p>But my question to the minister goes back simply to the community of Annapolis and the model of the CECs. She said here today it is a collaborative practice - the community wants to be involved in the process. As a matter of fact, we've written the district health authority to look for the parameters around the CEC model which are not fixed, i.e., the number of hours it's allowed to be open.</p>
 <p>Mr. Speaker, we've asked them and they're unwilling to put anything in writing. So my question, again, to the Minister of Health and Wellness, will the minister table in this House all documentation that's related to the CEC model that is being directed from her department down through the district health authorities into the communities?</p></speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, I have had, myself, two meetings in Annapolis with the staff and with friends of the Annapolis Valley Centre. I've met with the honourable member who represents the area; I've met with the district health authority. The district health authority has held many meetings in the community. We continue to collaborate and work with the community, with the health care providers, and there will be a CEC eventually in that community, tailored to meet the needs of the community, with the full participation of people from the community.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Mr. Speaker, the minister's refusal to table documentation in this House is exactly the frustration the community is feeling. They have rallied around, they recognize change is coming, and they want to be part of that change. They have made suggestions to the district health authority and I know they've made suggestions to the Department of Health and Wellness, all of which have gone unanswered. They asked a simple question: Can the CEC be opened 14 hours as opposed to 12 hours? There isn't a single person in the Department of Health and Wellness, or in a district health authority, who will put anything in writing.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, the minister's refusal to table documentation in this House is exactly the frustration the community is feeling. They have rallied around, they recognize change is coming, and they want to be part of that change. They have made suggestions to the district health authority and I know they've made suggestions to the Department of Health and Wellness, all of which have gone unanswered. They asked a simple question: Can the CEC be opened 14 hours as opposed to 12 hours? There isn't a single person in the Department of Health and Wellness, or in a district health authority, who will put anything in writing.</p>
 <p>Mr. Speaker, that's why there's uncertainty in the community. The community is wanting to be part of the change - what we're asking for is for the department to release the parameters around a CEC model, tell the community what is in their hands to be flexible with, and they will deliver for you.</p></speech>
-          <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, as I have indicated, we've had many, many meetings and ongoing consultation with the community. I don't know exactly what the honourable member is looking for. It's not complicated in terms of what a CEC is - a CEC is a collaborative practice offering primary care in conjunction with emergency health care services to secure and anchor care for people when they require it beyond the hours of the primary care centre. We will continue to work and develop the CEC in that area.</p>
           </speech>
@@ -485,19 +485,19 @@
         </debateSection>
         <debateSection>
           <heading>SNSMR - HEATING ASSISTANCE REBATE PROG.: ERDT: ECONOMIC POLICIES - REVIEW</heading>
-          <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, under the NDP we have lost a staggering 8,400 Nova Scotians from the labour force. People have given up on finding a job here. Also, since the NDP were elected in June 2009, there have been 5,400 fewer full-time jobs. Now major employers are in jeopardy, having to cut jobs, are being forced to close their doors. It doesn't matter if it's one job or 5,000 jobs, we cannot afford to lose a single one in this province.</p>
+          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, under the NDP we have lost a staggering 8,400 Nova Scotians from the labour force. People have given up on finding a job here. Also, since the NDP were elected in June 2009, there have been 5,400 fewer full-time jobs. Now major employers are in jeopardy, having to cut jobs, are being forced to close their doors. It doesn't matter if it's one job or 5,000 jobs, we cannot afford to lose a single one in this province.</p>
 <p>Mr. Speaker, considering the situation we're in today and the fact that the minister has lost 5,400 full-time jobs, my question through you to the minister is will he commit to a review of his economic policies and come up with a real solution and not a glossy, NDP PR scheme to turn this situation around?</p></speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937"><from>HON. PERCY PARIS</from><p>Mr. Speaker, through you, I will reiterate that we do have a plan. It is the jobsHere plan, and through that initiative we've maintained and created a host of new jobs and maintained jobs throughout every region in the Province of Nova Scotia.</p>
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>HON. PERCY PARIS</from><p>Mr. Speaker, through you, I will reiterate that we do have a plan. It is the jobsHere plan, and through that initiative we've maintained and created a host of new jobs and maintained jobs throughout every region in the Province of Nova Scotia.</p>
 <p>Through the programs that are spinoffs of the jobsHere initiative, such as the PIP initiative, there are literally hundreds of thousands of jobs that we've either maintained or created through the Province of Nova Scotia, and we will continue. We will stick by our strategy, because we know it is headed in the right direction.</p></speech>
-          <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><from>MR. ORRELL</from><p>Mr. Speaker, this minister can't find jobs. He can't create jobs, but he's surely good at losing them. The TD has forecast an additional 3,200 jobs from the shipbuilding in 2013, but in the last year alone, under this government's watch, 2,100 jobs were lost in Cape Breton and 2,500 more disappeared in southwestern Nova Scotia. Job losses in these two regions alone more than cancel out the expected 3,200 new jobs associated with the shipbuilding contract.</p>
+          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, this minister can't find jobs. He can't create jobs, but he's surely good at losing them. The TD has forecast an additional 3,200 jobs from the shipbuilding in 2013, but in the last year alone, under this government's watch, 2,100 jobs were lost in Cape Breton and 2,500 more disappeared in southwestern Nova Scotia. Job losses in these two regions alone more than cancel out the expected 3,200 new jobs associated with the shipbuilding contract.</p>
 <p>Mr. Speaker, this do-little minister is failing on economic recovery. We continue to lose jobs in rural Nova Scotia and he doesn't seem to care. Will the minister commit to going back to Cabinet and insisting on changing his government's economic policies before they blow it on shipbuilding?</p></speech>
-          <speech by="#dafa91c6-35b0-44b2-910e-2732db365937"><from>MR. PARIS</from><p>Mr. Speaker, it's a sad day. This government doesn't want to see anyone lose a job, and it's a sad day when someone tries to make politics out of job losses in the Province of Nova Scotia. (Interruptions) I will table this. Peter Hall, chief economist with Export Development Canada: "What Nova Scotia has going for it is that it is firing on all cylinders &#x2026; any time you have diversified growth, it is very good for a province because it means you aren't as vulnerable to economic shocks."</p>
+          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>MR. PARIS</from><p>Mr. Speaker, it's a sad day. This government doesn't want to see anyone lose a job, and it's a sad day when someone tries to make politics out of job losses in the Province of Nova Scotia. (Interruptions) I will table this. Peter Hall, chief economist with Export Development Canada: "What Nova Scotia has going for it is that it is firing on all cylinders &#x2026; any time you have diversified growth, it is very good for a province because it means you aren't as vulnerable to economic shocks."</p>
 <p>Mr. Speaker, I will table that for the House.</p></speech>
-          <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><from>MR. ORRELL</from><p>Mr. Speaker, in February 2009, when in Opposition, this minister said in an op-ed in weekly news, which I table, "The government could also provide a strong voice for people who are losing their jobs because of the economic downturn."</p>
+          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, in February 2009, when in Opposition, this minister said in an op-ed in weekly news, which I table, "The government could also provide a strong voice for people who are losing their jobs because of the economic downturn."</p>
 <p>My final question through you to the minister is &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. The time allotted for the Oral Question Period has expired.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, that concludes the government's business for today. I move that the House do now rise to meet again on Monday at the hour of 7:00 p.m. and sit until 10:00 p.m. Following the daily routine, government's business will be Public Bills for Second Reading, Bill Nos. 84, 85, 86, and 90.</p>
           </speech>
@@ -513,22 +513,22 @@
       </questions>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#c8cdf95e-3cce-47d2-a83c-73c912d29ab4"><num title="2178">RESOLUTION NO. 2178</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2178">RESOLUTION NO. 2178</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November 11 is a day of remembrance and Legions across Nova Scotia are preparing for their annual Remembrance Day service to remind us of the thousands of men and women who sacrificed their lives in military service; and</p>
 <p>Whereas members of the Royal Canadian Legion Caen Branch, in Eastern Passage, work tirelessly to provide leadership to our community through their activities and to remind our community of the sacrifices endured by all Canadian veterans and service men and women; and</p>
 <p>Whereas the members of Caen Branch are committed to caring for our veterans, their families and serving Canadian Forces members;</p>
 <p>Therefore be it resolved that the members of the Nova Scotia House of Assembly congratulate the Royal Canadian Legion Caen Branch, in Eastern Passage, for their dedication to the community and their continued efforts to remind us of service men and women who sacrificed their lives for Canadian rights and freedoms that we so often take for granted.</p></speech>
-        <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><num title="2179">RESOLUTION NO. 2179</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2179">RESOLUTION NO. 2179</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Canada officially entered the Second World War on September 10, 1939 and stayed at war for nearly six years, creating enormous strain on Canadian citizens, whether they were involved in the actual combat or staying at home to work to support the war effort; and</p>
 <p>Whereas a number of special Remembrance Day ceremonies will take place Friday, November 11 in Hants West, remembering those who fought and continue to serve our great country; and</p>
 <p>Whereas residents of Hants West will recognize and pay tribute to the many veterans who gave so much in support of freedom and world peace;</p>
 <p>Therefore be it resolved that all members of this House of Assembly salute the above mentioned veterans and many other Nova Scotians who fought so valiantly for their country.</p></speech>
-        <speech by="#167d0d25-2b1b-4355-a32d-f547991f14f1"><num title="2180">RESOLUTION NO. 2180</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2180">RESOLUTION NO. 2180</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas William (Bill) Karsten was first elected to Halifax Regional Council in 2004, representing the riding of Portland-East Woodlawn; and</p>
 <p>Whereas William (Bill) Karsten has been a champion for issues in his district, as well as important matters across the Halifax Regional Municipality, including transportation and solid waste matters; and</p>
 <p>Whereas on Tuesday, November 8, 2011 William (Bill) Karsten was elected Deputy Mayor of the Halifax Regional Municipality;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate William (Bill) Karsten on his election and wish him every success over the year term as Deputy Mayor.</p></speech>
-        <speech by="#167d0d25-2b1b-4355-a32d-f547991f14f1"><num title="2181">RESOLUTION NO. 2181</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2181">RESOLUTION NO. 2181</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Rod Dickson has served as the arena manager for the Dartmouth Sportsplex these last 16 years; and</p>
 <p>Whereas Mr. Dickson has been a vital member of the Dartmouth Kinsmen Club, marking 40 years as a member this year; and</p>
 <p>Whereas Mr. Dickson will celebrate his retirement on November 10, 2011 with family, friends and colleagues at Celtic Corner;</p>

@@ -4,14 +4,14 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="d40ad9c0-f916-4a57-89ac-afb555ab1b1b" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="33441afb-45a3-4255-ada5-a0f2875787e7" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
-        <TLCPerson id="a996b53e-4f1e-4eaf-8872-bcb8250781dc" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="ddb64cf6-5019-44d4-93e4-ff9d0ad4a169" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
-        <TLCPerson id="bab025a2-40d1-4424-a0fc-40678db8ffd7" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="ff1ba834-24ba-4676-b51f-ded3a3b60dd5" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="a6095eaa-d175-4e2e-a997-742e0c1d3d10" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
+        <TLCPerson id="213d6bf9-1589-4472-bd07-34828a3b2db9" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="c8656293-6758-4799-9249-e4a9e096a4d2" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
     </meta>
@@ -34,23 +34,23 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Labour and Advanced Education.</p>
         </speech>
-        <speech by="#33441afb-45a3-4255-ada5-a0f2875787e7">
+        <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9">
           <from>HON. MARILYN MORE</from>
           <p>Mr. Speaker, I beg leave to table the 2011 Annual Report for the Workers' Compensation Board.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
 <p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
-        <speech by="#ddb64cf6-5019-44d4-93e4-ff9d0ad4a169"><from>HON. WILLIAM ESTABROOKS</from><p>Mr. Speaker, I beg leave to table the Surplus Crown Property Disposal Report, but before I do that, I want to compliment MLAs on all sides of the House for directing community groups throughout their constituencies to the Department of Transportation and Infrastructure Renewal. I'd also point out that there are some excellent buys there for second-hand furniture, second-hand air conditioners - you should use them in your office.</p>
+        <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2"><from>HON. WILLIAM ESTABROOKS</from><p>Mr. Speaker, I beg leave to table the Surplus Crown Property Disposal Report, but before I do that, I want to compliment MLAs on all sides of the House for directing community groups throughout their constituencies to the Department of Transportation and Infrastructure Renewal. I'd also point out that there are some excellent buys there for second-hand furniture, second-hand air conditioners - you should use them in your office.</p>
 <p>With those few comments, Mr. Speaker, I table the Surplus Crown Property Disposal Report for the period April 1, 2010, to March 31, 2011.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
 <p>The honourable member for Lunenburg West.</p></speech>
-        <speech by="#bab025a2-40d1-4424-a0fc-40678db8ffd7">
+        <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa">
           <from>MR. GARY RAMEY</from>
           <p>Yesterday during debate in Question Period - a fairly raucous one, I think you would agree - I made some comments which were unparliamentary. I wish to retract those comments, Mr. Speaker, and I also wish to apologize to you and to all members of this House, particularly to any member who feels that the comments that I made were directed at them. (Applause)</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Thank you.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, on behalf of our caucus I certainly commend the member for Lunenburg West. Sometimes in the heat of debate, we've all been caught - myself included, I have to add, on possibly a few occasions by yourself and your predecessors in that Chair. I certainly commend the member for Lunenburg West and look forward to continued debate.</p>
         </speech>
@@ -58,7 +58,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Hants West.</p>
         </speech>
-        <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5">
+        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c">
           <from>MR. CHUCK PORTER</from>
           <p>Mr. Speaker, I too would stand on behalf of the Tory caucus and commend the member for his honourable comments this morning. I appreciate that very much, and wish we have nothing but the best debate and the strongest debate in this House in the days and weeks to come.</p>
         </speech>
@@ -69,7 +69,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Communities, Culture and Heritage.</p>
         </speech>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b"><num title="201">RESOLUTION NO. 201</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="201">RESOLUTION NO. 201</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 100 years ago tomorrow, the "unsinkable" Titanic struck an iceberg in the North Atlantic, causing the death of over 1,500 passengers and crew; and</p>
 <p>Whereas the City of Halifax and the Province of Nova Scotia sent cable ships to assist in the recovery efforts for those who had lost their lives, 150 of whom are buried in cemeteries in Halifax; and</p>
 <p>Whereas this weekend the Titanic 100 Society will be commemorating the Titanic and Halifax's role in the tragedy through a series of public events, which I encourage Nova Scotians and visitors to participate in;</p>
@@ -107,7 +107,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -118,7 +118,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and that the House resolve itself into a Committee of the Whole House on Supply.</p>
         </speech>
@@ -142,7 +142,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Madam Speaker, that concludes the government's business for the day. I move that the House do now rise to meet again on Monday, April 16<sup>th</sup> at 4:00 p.m., the House hours to be 4:00 p.m. to 10:00 p.m. Following the daily routine will be Public Bills for Second Reading, Bill Nos. 5, 9, 11, 13 and 17; and, of course, the Committee of the Whole House on Supply. Thank you.</p>
         </speech>

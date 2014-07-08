@@ -4,19 +4,19 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="5586320d-e857-4a70-89e1-a0035420f2de" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
-        <TLCPerson id="e8e9da63-3a4a-4d12-9aa9-a6b535fe417b" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="e982c6e5-fb79-443d-935a-0340f093a6d8" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
-        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="d40ad9c0-f916-4a57-89ac-afb555ab1b1b" href="/ontology/person/ca-ns.david.allan.wilson" showAs="MR. WILSON"/>
-        <TLCPerson id="e2d2e894-19b6-444f-8f0d-28d6c40392db" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="a996b53e-4f1e-4eaf-8872-bcb8250781dc" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="e6d39654-bcf3-4494-b7df-bbb286f0eeef" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="14492167-7c6c-4e2f-b69d-0005f8725281" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="167d0d25-2b1b-4355-a32d-f547991f14f1" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="f1cc8e37-7d99-4321-ad91-bc220a7aa4f7" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="ff1ba834-24ba-4676-b51f-ded3a3b60dd5" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
-        <TLCPerson id="57c94b79-36b2-4a2e-936d-5e3062ec9f48" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
+        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="5c567fec-a071-45dc-bccd-c81ad2bb492a" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="98fd525a-b480-446d-8a4d-f002d18eb5c0" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="a841369d-b3a6-4df9-af76-53c4f9eab8cf" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -40,7 +40,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Community Services.</p>
         </speech>
-        <speech by="#e2d2e894-19b6-444f-8f0d-28d6c40392db"><num title="310">RESOLUTION NO. 310</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, on behalf of the honourable Premier, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="310">RESOLUTION NO. 310</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, on behalf of the honourable Premier, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Duke of Edinburgh's Award was founded in 1956, came to Canada in 1963, and is now awarded in more than 130 countries around the world; and</p>
 <p>Whereas the Duke of Edinburgh's Award recognizes the outstanding commitment and dedication of young Canadians in areas of community service, adventure, physical recreation, and personal skills development; and</p>
 <p>Whereas the award is sometimes presented honorarily to adults who exemplify leadership, and who make significant contributions to their communities and country;</p>
@@ -52,7 +52,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Education.</p></speech>
-        <speech by="#5586320d-e857-4a70-89e1-a0035420f2de"><num title="311">RESOLUTION NO. 311</num><from>HON. RAMONA JENNEX</from><p>Mr. Speaker, on behalf of the honourable Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><num title="311">RESOLUTION NO. 311</num><from>HON. RAMONA JENNEX</from><p>Mr. Speaker, on behalf of the honourable Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas as many as 135 Nova Scotians are waiting for an organ transplant that will save their lives, and a single donor can provide life-saving organs to as many as eight people and life-enhancing tissue to as many as 40 people; and</p>
 <p>Whereas nearly 536,000 Nova Scotians are registered organ and tissue donors, which is the highest number of donors in all of Canada; and</p>
 <p>Whereas April 22<sup>nd </sup>to April 28<sup>th </sup>is National Organ and Tissue Donation Awareness Week with events being held across the country, and in Legislatures like this one they are lit green to spread awareness about organ and tissue donation;</p>
@@ -64,7 +64,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b">
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d">
           <from>HON. DAVID WILSON</from>
           <p>Mr. Speaker, may I do an introduction on behalf of the honourable Minister of the Public Service Commission before I read this resolution?</p>
         </speech>
@@ -72,13 +72,13 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b">
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d">
           <from>MR. WILSON</from>
           <p>Mr. Speaker, in the gallery today we have representatives from the Halifax-Dartmouth Chapter of the International Association of Administrative Professionals. With us today we have Lara Kirkpatrick, legal assistant for chapter publicity chair; Pat Mombourquette, CAP, retired chapter administrative professional seminar co-chair; and Lisa Young, CAP-OM, research administrative assistant, chapter bulletin chair. I ask all members to give them a warm welcome. (Applause)</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b"><num title="312">RESOLUTION NO. 312</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of the Public Service Commission, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="312">RESOLUTION NO. 312</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of the Public Service Commission, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas administrative professionals play an essential role in coordinating the office operations of businesses, government, educational institutions, and other organizations; and</p>
 <p>Whereas Administrative Professionals Week is acknowledged annually in workplaces around the world to recognize the important contributions of administrative staff and is sponsored by the International Association of Administrative Professionals; and</p>
 <p>Whereas the theme of Administrative Professionals Week 2012 is "Admins, the pulse of the office," reflecting the fact that the lifeblood of a modern business flows through and depends on the highly skilled administrative professionals;</p>
@@ -90,7 +90,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please revert to the order of business, Tabling Reports, Regulations and Other Papers.</p>
         </speech>
@@ -103,18 +103,18 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Health and Wellness.</p>
         </speech>
-        <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I want to thank my colleagues here for their agreement to revert back on our agenda.</p>
+        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I want to thank my colleagues here for their agreement to revert back on our agenda.</p>
 <p>With your permission, Mr. Speaker, I'd like to make an introduction, if I could, before I table this report.</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, it's my great pleasure to draw attention to the east gallery this afternoon, to introduce the members of the Mental Health and Addictions Advisory Committee to all members of this Legislature. I would ask the members to stand as I introduce them. I'll begin with the co-chairmen of the advisory committee: Dr. Michael Ungar and Joyce McDonald, who chaired this committee. Michael, as people are aware, is an internationally recognized expert in the area of resilience in young people and teaches at the School of Social Work; Joyce is a psychiatric nurse, the former executive director of the Mental Health Association in the Truro area.</p>
+        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, it's my great pleasure to draw attention to the east gallery this afternoon, to introduce the members of the Mental Health and Addictions Advisory Committee to all members of this Legislature. I would ask the members to stand as I introduce them. I'll begin with the co-chairmen of the advisory committee: Dr. Michael Ungar and Joyce McDonald, who chaired this committee. Michael, as people are aware, is an internationally recognized expert in the area of resilience in young people and teaches at the School of Social Work; Joyce is a psychiatric nurse, the former executive director of the Mental Health Association in the Truro area.</p>
 <p>In addition, Dr. A.J., who is known to many people here, a family practitioner from Halifax; Chief Frank Beazley from the Halifax Regional Municipality, who we are all going to miss very much when he retires and we wish him well; Andy Cox, a mental health advocate at the IWK who, I also believe, sits on the Mental Health Commission of Canada, if I am not mistaken; Paul d'Entremont, a founding member of R&#xE9;seau Sant&#xE9; and a member of the Acadian and francophone community, very knowledgeable of those communities; Daphne Hutt-MacLeod, the director of Eskasoni Mental Health Services; Lana MacLean, a social worker who works with youth and families and is very familiar with the African Nova Scotian community; Cecilia McRae, president of the Schizophrenic Society of Nova Scotia and caregiver of a family member with schizophrenia; Kathleen Thompson, the mother of a young woman who has been battling an eating disorder for a number of years; and Catherine Thurston, a child psychologist, formerly in the Cumberland District Health Authority and very knowledgeable in that area.</p>
 <p>I hope I haven't missed anyone. I also see members of the Nova Scotia Health Research Foundation here. I want to thank this fine group, and I know that everybody here will want to do this. These folks worked as volunteers, and put in many, many hours developing their report. Would members please extend a welcome and a thank-you to them. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
 <p>The honourable Minister of Health and Wellness.</p></speech>
-        <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b">
+        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
           <from>HON. MAUREEN MACDONALD</from>
           <p>Mr. Speaker, I would like to table a report entitled <i>Come Together - Report &amp; Recommendations of the Mental Health and Addictions Strategy Advisory Committee</i>.</p>
         </speech>
@@ -161,7 +161,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Dartmouth East.</p>
         </speech>
-        <speech by="#167d0d25-2b1b-4355-a32d-f547991f14f1"><num title="313">RESOLUTION NO. 313</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="313">RESOLUTION NO. 313</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas after 170 years the Shubenacadie Canal and Waterway continues to play an important role in the development and growth of Nova Scotia; and</p>
 <p>Whereas the construction of the Shubenacadie Canal created a permanent cross-provincial link between urban and rural communities, joining Halifax Harbour to the Bay of Fundy, and aiding in the construction of communities like Halifax, Dartmouth, Waverley, and Maitland; and</p>
 <p>Whereas construction of the historic Shubenacadie Canal began on this day 170 years ago, and it is now recognized as a National Historic Engineering Site;</p>
@@ -173,7 +173,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><num title="314">RESOLUTION NO. 314</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="314">RESOLUTION NO. 314</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sunday was Earth Day, the largest and most celebrated environmental event worldwide; and</p>
 <p>Whereas people from one end of this province to the other observed Earth Day by organizing clean-ups, planting trees and vegetable gardens, and holding mass celebrations to honour and remind us how beautiful and important our environment is; and</p>
 <p>Whereas Earth Day is a time to reflect on the successes we've had in making our world a greener place and encourages us to remember that there is still a great deal to accomplish for future generations;</p>
@@ -185,7 +185,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg.</p></speech>
-        <speech by="#e982c6e5-fb79-443d-935a-0340f093a6d8"><num title="315">RESOLUTION NO. 315</num><from>MS. PAM BIRDSALL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#a841369d-b3a6-4df9-af76-53c4f9eab8cf"><num title="315">RESOLUTION NO. 315</num><from>MS. PAM BIRDSALL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Canada's Got Talent is a nationwide televised talent show produced by Citytv that showcases talented Canadians from across the country, giving them an opportunity to win fame and national recognition; and</p>
 <p>Whereas the Ernst family of Lunenburg County has long been recognized locally for their musical talents, with Ernst family members Gregg, John, Peter, Joshua, Elijah, comprising the a cappella singing group named OneBlood; and</p>
 <p>Whereas OneBlood auditioned for Canada's Got Talent and made it to the semifinals of the competition, with the most recent appearance on April 15, 2012, which has them vying for the top spot;</p>
@@ -197,7 +197,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#e6d39654-bcf3-4494-b7df-bbb286f0eeef"><num title="316">RESOLUTION NO. 316</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="316">RESOLUTION NO. 316</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Patricia Arab was a pillar of the Lebanese community in Halifax, a remarkable, influential woman, a loving wife, mother, aunt and matriarch, one of the first Canadian women of Lebanese descent to graduate from university, a teacher, and a long-time member of the Catholic Women's League; and</p>
 <p>Whereas many Lebanese immigrants to Nova Scotia found their way to Pat's kitchen in Halifax, seeking help acclimatizing to their new country, and she welcomed them with open arms; and</p>
 <p>Whereas the Lebanese Government awarded Pat the Lebanese Emigrant of the Year in 2005 and Pope John Paul II gave her a special blessing in 1979 and many politicians, including this one, sought out her trusted, wise counsel over the years;</p>
@@ -209,7 +209,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><num title="317">RESOLUTION NO. 317</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="317">RESOLUTION NO. 317</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Education Week is being held between April 20<sup>th</sup> and April 28<sup>th</sup> this year and is a great chance to honour and recognize Nova Scotia's teachers and education partners; and</p>
 <p>Whereas Education Week has been celebrated since 1935 and is a co-operative effort of the Nova Scotia Teachers Union, the Nova Scotia School Boards Association, Nova Scotia Federation of Home and School Associations, la F&#xE9;d&#xE9;ration des parents acadiens de la Nouvelle-&#xC9;cosse, the Association of Nova Scotia Educational Administrators, and the Department of Education; and</p>
 <p>Whereas the importance of teachers in the lives of our children is being highlighted as school boards announce their plans to deal with decreased education funding;</p>
@@ -221,7 +221,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
-        <speech by="#57c94b79-36b2-4a2e-936d-5e3062ec9f48"><num title="318">RESOLUTION NO. 318</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#98fd525a-b480-446d-8a4d-f002d18eb5c0"><num title="318">RESOLUTION NO. 318</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Laura Francheville was one of the first curators of the Old Courthouse Museum situated in the shire town of Guysborough; and</p>
 <p>Whereas Laura Francheville has been a long-time supporter of the Guysborough Historical Society, with a keen interest in the museum and the rich history of Guysborough County; and</p>
 <p>Whereas on Sunday, April 29, 2012, Laura Francheville is being awarded an honorary life membership in Guysborough Historical Society for her efforts in promoting, preserving and protecting the history, heritage and culture of the County of Guysborough;</p>
@@ -239,7 +239,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -250,7 +250,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
+        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and that the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -275,7 +275,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hours of 12:00 noon to 8:00 p.m. After the daily routine and Question Period, we will go into Committee of the Whole House on Supply and, if time permits, Public Bills for Second Reading: Bill Nos. 5, 9, 11, 13, 17, 20, 22, 24, 30, 32, 34, 37, 39, and 41.</p>
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hours of 12:00 noon to 8:00 p.m. After the daily routine and Question Period, we will go into Committee of the Whole House on Supply and, if time permits, Public Bills for Second Reading: Bill Nos. 5, 9, 11, 13, 17, 20, 22, 24, 30, 32, 34, 37, 39, and 41.</p>
 <p>Madam Speaker, I move that the House do now rise.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise to meet again tomorrow, April 24<sup>th</sup>, between the hours of 12:00 noon and 8:00 p.m.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
@@ -286,12 +286,12 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><num title="319">RESOLUTION NO. 319</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="319">RESOLUTION NO. 319</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Falmouth Freezer Half and Quarter Marathon was held on February 12, 2012 with more than 150 participants braving the cold and snowy roads to compete in the annual event; and</p>
 <p>Whereas Dale Block, a teacher at King's-Edgehill School in Windsor, was the first to finish the quarter marathon with a time of 41:55 for the 10.55 km event, beating out competitors from across the province; and</p>
 <p>Whereas from approximately 80 participants in 2011 to over 150 marathoners in 2012, the annual Falmouth Freezer Half and Quarter Marathon is a great way to train and socialize with other marathon enthusiasts from around the province;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Dale on his win during the quarter marathon and thank the organizers of the Falmouth Freezer Half and Quarter Marathon for making this event a great success.</p></speech>
-        <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><num title="320">RESOLUTION NO. 320</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="320">RESOLUTION NO. 320</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas six teams competed this year in the Royal Canadian Legion Call to Remembrance competition in Kingston where youth in Grades 7 to 9 answer questions based on Canada's military history; and</p>
 <p>Whereas students Logan Rawlins, Andrew Mayo, Denise Mayo, Brandon Mullen and Liam Lynch, along with student coach Kathleen Crowell and Coach Steve Mayo, from King's-Edgehill School in Windsor, placed first in the Legion competition; and</p>
 <p>Whereas by preparing to answer questions based on World War I, World War II, the Korean Conflict, the Vietnam War as well as peacekeeping missions, our youth are learning an important part of our history which will be preserved through their knowledge and enthusiasm;</p>

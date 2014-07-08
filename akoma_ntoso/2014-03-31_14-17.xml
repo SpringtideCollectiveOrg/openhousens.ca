@@ -4,13 +4,13 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="6d79d3b4-2e33-4743-8e87-5257bd2679e3" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDON GOSSE"/>
-        <TLCPerson id="a6095eaa-d175-4e2e-a997-742e0c1d3d10" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="abb112ca-5557-436b-b603-9754cce09178" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
-        <TLCPerson id="d40ad9c0-f916-4a57-89ac-afb555ab1b1b" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="e2d2e894-19b6-444f-8f0d-28d6c40392db" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="67b70bd5-9657-4c87-9da4-d89a69594eb3" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
-        <TLCPerson id="e8e9da63-3a4a-4d12-9aa9-a6b535fe417b" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="6a90d53e-7f2d-4189-b7bd-c98709dcee16" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="8275114a-ac5c-47ce-aa8b-5fe96b8151f6" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDON GOSSE"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
       </references>
     </meta>
@@ -33,7 +33,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance and Treasury Board.</p>
         </speech>
-        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3"><num title="800">RESOLUTION NO. 800</num><from>HON. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall:</p>
+        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="800">RESOLUTION NO. 800</num><from>HON. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall:</p>
 <p>(1) read and table the message from His Honour the Lieutenant Governor transmitting the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2015, for the consideration of this House;</p>
 <p>(2) table the Estimates Books;</p>
 <p>(3) table the Crown Corporation business plans;</p>
@@ -67,7 +67,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Pictou West.</p>
         </speech>
-        <speech by="#abb112ca-5557-436b-b603-9754cce09178"><num title="801">RESOLUTION NO. 801</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><num title="801">RESOLUTION NO. 801</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Boat Harbour is an environmental disaster that should be cleaned up; and</p>
 <p>Whereas a previous Liberal Government relieved mill owners of responsibility for cleaning up Boat Harbour, making the environmental problems worse; and</p>
 <p>Whereas the previous Liberal Government made a deal with the mill owners to put the cleanup costs squarely on the backs of taxpayers;</p>
@@ -78,7 +78,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable Leader of the New Democratic Party.</p></speech>
-        <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><num title="802">RESOLUTION NO. 802</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="802">RESOLUTION NO. 802</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas behind every successful MLA is a hard-working constituency assistant; and</p>
 <p>Whereas constituency assistants are multi-tasking caseworkers, advocates, information officers, office administrators, computer geniuses, and event planners; and</p>
 <p>Whereas Bill Matheson will retire today, after working for 11.5 years as the constituency assistant to the MLA for Halifax Needham;</p>
@@ -90,7 +90,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b"><num title="803">RESOLUTION NO. 803</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="803">RESOLUTION NO. 803</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas successive Liberal and Conservative governments have reduced the federal government's share of funding from 50 per cent to 18 per cent over the last number of decades; and</p>
 <p>Whereas Nova Scotia will receive $902 million less in health care transfers from Ottawa over the next 10 years, which could mean the closure of hospital beds, the loss of nursing positions and less joint replacement operations;</p>
 <p>Therefore be it resolved that all members of this House send a clear message to the federal Conservative government to negotiate a new health accord that will see an investment in our health care system, instead of cuts that could see significant reduction in health care for Nova Scotians.</p>
@@ -101,7 +101,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#6d79d3b4-2e33-4743-8e87-5257bd2679e3"><num title="804">RESOLUTION NO. 804</num><from>MR. GORDON GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="804">RESOLUTION NO. 804</num><from>MR. GORDON GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Alison Keough recently made her mark in Cape Breton University history; and</p>
 <p>Whereas Alison Keough won the Kathy Shields Award as Canadian University Sport rookie of the year, the first Cape Breton University women's basketball player to win a national award; and</p>
 <p>Whereas Alison Keough was also selected to the Canadian intercollegiate sport all-rookie team, as well as being selected a second team all-star, named to the all-rookie team and rookie of the year in Atlantic University Sport;</p>
@@ -113,7 +113,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#e2d2e894-19b6-444f-8f0d-28d6c40392db"><num title="805">RESOLUTION NO. 805</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="805">RESOLUTION NO. 805</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Gerri Allen, resident of Chester, Nova Scotia, has been a community volunteer for over 20 years; and</p>
 <p>Whereas Gerri Allen has dedicated herself to the betterment of the Village of Chester and its residents through volunteering for such causes as Shoreham Village Relay for Life as well as many others; and</p>
 <p>Whereas Mrs. Allen has received the Queen's Diamond Jubilee Medal for her volunteer service;</p>
@@ -131,7 +131,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, with the consent of the House I would move the House recess for a period of one hour, until 8:15 p.m., when we will reconvene. During that time we will have an opportunity to brief the Opposition on the legislation which was tabled this evening. I would so move.</p>
         </speech>
@@ -148,7 +148,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, following the briefing that we are able to provide, there is opportunity now for the Opposition caucuses to discuss the legislation, but in order to provide more ample time I would ask for the consent of the House to extend the recess until 8:45 p.m., when we will resume at that point in time and provide an update.</p>
         </speech>
@@ -164,7 +164,7 @@
         </narrative>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, as you know, we introduced Bill No. 37 at the start of the session. I would ask for the unanimous consent of the House to have this bill added to tonight's order paper so that second reading of this bill can take place immediately this evening.</p>
         </speech>
@@ -172,7 +172,7 @@
 <p>I hear several Noes.</p>
 <p>The request has been tabled.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, in light of the decision by the Opposition to not allow this bill to be debated this evening and in light of the emergency nature of this matter, with potential labour disruption taking place as early as tomorrow morning, I wish to advise that the government will be calling the hours for tomorrow: starting at 12:01 a.m. and the House will continue until 11:59 p.m. During that time we will start with the daily routine at 12:01 a.m., followed by Oral Questions Put By Members. Following that, we will call for Government Business, Bill No. 37, to start second reading on that piece of legislation.</p>
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, in light of the decision by the Opposition to not allow this bill to be debated this evening and in light of the emergency nature of this matter, with potential labour disruption taking place as early as tomorrow morning, I wish to advise that the government will be calling the hours for tomorrow: starting at 12:01 a.m. and the House will continue until 11:59 p.m. During that time we will start with the daily routine at 12:01 a.m., followed by Oral Questions Put By Members. Following that, we will call for Government Business, Bill No. 37, to start second reading on that piece of legislation.</p>
 <p>Mr. Speaker, I also wish to advise that the Law Amendments Committee will meet immediately following the passage of Bill No. 37 from second reading. At this point in time we have instructed Legislative Counsel to start booking presentations at the Law Amendments Committee, beginning at 8:30 a.m. tomorrow morning. We will have the Law Amendments Committee meet at that time or following the completion of second reading of Bill No. 37.</p>
 <p>With that, Mr. Speaker, I would move that the House do now rise to meet tomorrow, April 1<sup>st</sup>, at 12:01 a.m.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House rise to meet again tomorrow, Tuesday, April 1<sup>st</sup>, at 12:01 a.m., until 11:59 p.m.</p>
@@ -185,7 +185,7 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b"><num title="806">RESOLUTION NO. 806</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="806">RESOLUTION NO. 806</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dianne Swinemar of Lower Sackville began volunteering with Beacon House Food Bank in 1985; and</p>
 <p>Whereas Dianne was an integral part of the growth of Beacon House Interfaith Society that brought it to where it is today, with 18 supporting churches in the communities of Sackville, Bedford, and Fall River; and</p>
 <p>Whereas Dianne will be retiring in June 2014, after serving as Executive Director of Feed Nova Scotia for nearly 25 years;</p>

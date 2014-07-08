@@ -4,15 +4,15 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="482af266-32b5-4e7b-b041-5825dfcaa07f" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
-        <TLCPerson id="90d8e39b-06a0-43d3-8ec8-8e2a42d902cd" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
-        <TLCPerson id="8588925f-80f9-4646-9a9b-b69640e9148a" href="/ontology/person/ca-ns.brian.skabar" showAs="MR. BRIAN SKABAR"/>
-        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="14ec3253-c3e6-4d10-8c3d-6370348053b8" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="939f3659-7945-4fc2-9903-f54f81c4501a" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="d71ee75b-be72-47ba-8de2-ba81296d67ec" href="/ontology/person/ca-ns.brian.skabar" showAs="MR. BRIAN SKABAR"/>
+        <TLCPerson id="002be249-bd3d-4105-8653-0fc8ddb6d4da" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
@@ -26,7 +26,7 @@
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
 <p>The honourable Minister of Justice.</p></speech>
-      <speech by="#482af266-32b5-4e7b-b041-5825dfcaa07f">
+      <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
         <from>HON. ROSS LANDRY</from>
         <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
       </speech>
@@ -37,14 +37,14 @@
         <from>THE CLERK</from>
         <p>Mr. Speaker, members of the Legislature, ladies and gentlemen, Nova Scotians &#x2026;</p>
       </speech>
-      <speech by="#14ec3253-c3e6-4d10-8c3d-6370348053b8">
+      <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
         <from>HON. DARRELL DEXTER</from>
         <p>Regretfully, Mr. Speaker, I move that the Speech be taken as read. (Laughter)</p>
       </speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the Throne Speech be taken as read. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cumberland North.</p></speech>
-      <speech by="#8588925f-80f9-4646-9a9b-b69640e9148a"><from>MR. BRIAN SKABAR</from><p>Mr. Speaker, it's an honour to be here today to rise in this Fourth Session of the Sixty-first General Assembly of the Nova Scotia Legislature, to move the Address in Reply to the Speech from the Throne as read by Her Honour the Lieutenant Governor Mayann Francis.</p>
+      <speech by="#d71ee75b-be72-47ba-8de2-ba81296d67ec"><from>MR. BRIAN SKABAR</from><p>Mr. Speaker, it's an honour to be here today to rise in this Fourth Session of the Sixty-first General Assembly of the Nova Scotia Legislature, to move the Address in Reply to the Speech from the Throne as read by Her Honour the Lieutenant Governor Mayann Francis.</p>
 <p>I would like to begin my response by thanking Her Honour for her words and for the excellent job she has done representing Her Majesty the Queen across Nova Scotia. The Lieutenant Governor has worked with great dedication throughout our province and touched the lives of many with her presence at important events. I know that this will be the last Throne Speech for Her Honour and I wanted to take this opportunity to thank her for her work over the last several years. Her poise and dignity are a credit to all Nova Scotians and I thank her for that. (Applause)</p>
 <p>Mr. Speaker, I'd like to make a number of remarks but before I would begin, I'd like to acknowledge a couple of people in the gallery and some people who I know are watching at home. Mr. Earl Dow and Mr. Andrew Melanson, two friends and colleagues, supporters of mine from very early on, I'd like to acknowledge and thank for being who you are, guys.</p>
 <p>Past that, I'd like to acknowledge my four children - five children (Laughter): my son Thomas, a university student pursuing his Education Degree at Crandall University; my daughter Margaret, first year in university at St. Francis Xavier; my daughter Lauren, in Grade 9 at Amherst Regional High School; my daughter Lindsay, in Winnipeg at this moment; and my daughter Jennifer, in Calgary. (Applause) I can explain that later. (Laughter)</p>
@@ -77,7 +77,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable member for Colchester-Musquodoboit Valley.</p>
       </speech>
-      <speech by="#939f3659-7945-4fc2-9903-f54f81c4501a"><from>MR. GARY BURRILL</from><p>Mr. Speaker, I am pleased to rise in the place of the people of Colchester-Musquodoboit Valley to second the Speech from the Throne. As members will be aware, there are two different approaches to this matter of seconding a motion. There is the approach, first, we would call the pro forma approach. That's when you're at a meeting and perhaps the chair is trying to get a motion onto the floor; things might not be going too excitedly and he'll say, will somebody please second that motion? You kind of raise your hand as though to say, well yes, but it's not with any great excitement or conviction - second. But there's a second way of seconding. The second way of seconding is when you hear something that you have a definite sense of deep agreement with and you want, right off the bat, to express your personal alignment with that view, so you say, I second that. (Applause)</p>
+      <speech by="#002be249-bd3d-4105-8653-0fc8ddb6d4da"><from>MR. GARY BURRILL</from><p>Mr. Speaker, I am pleased to rise in the place of the people of Colchester-Musquodoboit Valley to second the Speech from the Throne. As members will be aware, there are two different approaches to this matter of seconding a motion. There is the approach, first, we would call the pro forma approach. That's when you're at a meeting and perhaps the chair is trying to get a motion onto the floor; things might not be going too excitedly and he'll say, will somebody please second that motion? You kind of raise your hand as though to say, well yes, but it's not with any great excitement or conviction - second. But there's a second way of seconding. The second way of seconding is when you hear something that you have a definite sense of deep agreement with and you want, right off the bat, to express your personal alignment with that view, so you say, I second that. (Applause)</p>
 <p>So it is this second kind of seconding, if I can call it that, that I wanted to bring to the Speech from the Throne this afternoon and I would like to do that, briefly, by drawing attention, just for a couple of moments, to a matter or two raised in the Speech from the Throne which has particular resonance for the communities I serve, beginning with the subject of forestry.</p>
 <p>The paragraphs in the Speech from the Throne on this important subject speak of several different facets of forestry. They speak about the maximizing of value, they speak about innovation, and they speak about markets. All of these, of course, our government recognizes as important, but as we look now toward year two of the Natural Resources Strategy, one dimension of forestry which is brought forward in the speech, which speaks with particular resonance to us in this moment, is the matter of sustainability.</p>
 <p>The community I live in, Upper Musquodoboit, is a community that probably is as defined by the woods economy as any community in the province. I came there 22 years ago to serve as the community's minister, knowing nothing whatsoever about this subject which was so pivotal to the community I had come to serve - a fact which was brought helpfully home to me one evening by one of my children, who said, you know, Dad, you're the only man in Upper who can't run a chainsaw. (Laughter)</p>
@@ -91,7 +91,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Leader of the Official Opposition. (Applause)</p>
       </speech>
-      <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>HON. STEPHEN MCNEIL</from><p>Thank you Mr. Speaker. I'll try to somehow top that enthusiasm coming from the member from Colchester-Musquodoboit Valley.</p>
+      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Thank you Mr. Speaker. I'll try to somehow top that enthusiasm coming from the member from Colchester-Musquodoboit Valley.</p>
 <p>I'm pleased to rise to say a few remarks today. I'll finish my formal remarks tomorrow but I do want to recognize and highlight the Lieutenant Governor, not only for her work here in this legislature but for the way she has made us all proud as she has represented the Queen across this province. Each Lieutenant Governor has made their own mark in that role.</p>
 <p>One of the things that I'm reminded of when I think of our Lieutenant Governor today was when she was in my riding of Annapolis Royal. She had an opportunity to come and help celebrate some of the traditions and as she was there she had some time and she was walking around our community. As she was walking around, she noticed some families with young children were working and developing a park. They were developing a roller skate park just outside of the Town of Annapolis Royal. Her Honour stopped by and chatted with those young people and the young people asked her to return for the official opening. In the way she has done in so many places across Nova Scotians in support of young people, she responded in the affirmative, and to their surprise, upon the competition they called and she arrived back in our community and helped those young people officially open that skate park.</p>
 <p>The pride that they had in that project that they presented with their family was only heightened by the fact that Her Honour had taken the time to come and join them. That speaks to Her Honour and the commitments she has made to the people of Nova Scotia. (Applause) Not to mention, Mr. Speaker, she comes from Whitney Pier and I'm sure that really has a special place.</p>
@@ -102,7 +102,7 @@
         <from>AN HON. MEMBER</from>
         <p>Perhaps we can do that next week. (Applause)</p>
       </speech>
-      <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>That's it for sure, Mr. Speaker, don't recognize him again if he decides to get up. (Laughter)</p>
+      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>That's it for sure, Mr. Speaker, don't recognize him again if he decides to get up. (Laughter)</p>
 <p>Mr. Speaker, like many Speeches from the Throne there are things in this that we can agree with. There are things in this Speech from the Throne that we can agree with. I think all Nova Scotians are proud and willing to support Irving and their commitment to make sure that they deliver on that contract for our national government, making sure that the Navy ships that are built here will be built on time and that we as a community will benefit from that contract in a large way.</p>
 <p>We can agree - maybe not all of us, but most of us - that the Lower Churchill Falls is an important project that I believe will allow us to move towards a more renewable, sustainable energy market in Atlantic Canada. For those who are confused about the fact that it potentially may cost Nova Scotians too much, the inaction on energy will cost Nova Scotians much more. (Applause) I believe the best part of that contract, of that project will be the transmission lines that will connect Nova Scotia not only to Newfoundland and Labrador, but will enhance our transmission capacity with the rest of Canada. It will give us an opportunity to buy cheap energy in Quebec and other places; it will give us an opportunity to open up the energy market in Nova Scotia to allow us to grow a renewable energy sector; and it's my hope it will allow us to finally break the monopoly of Nova Scotia Power and allow competition to happen inside the province. (Applause)</p>
 <p>We also can agree with and will work with government to support our firefighters across Nova Scotia. All of us know the sacrifices they make, that their families make, coming to us, coming to the members of our communities at our most vulnerable time and helping us try to save our property or even save the lives of our loved ones. Anything we can do to support the men and women who are volunteering in our firefighting departments across this province is a good thing and our caucus will fully support it.</p>
@@ -121,7 +121,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Premier.</p>
       </speech>
-      <speech by="#14ec3253-c3e6-4d10-8c3d-6370348053b8">
+      <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
         <from>HON. DARRELL DEXTER</from>
         <p>Thank you, Mr. Speaker. At the conclusion of the session this afternoon, on your behalf and on mine, sir, I would like to invite all members of the House and all guests in the gallery to the Red Chamber for a reception. I would like to point out that this is a very special occasion as we will be paying our respects to Her Honour, the Lieutenant Governor, as she finishes her vice-regal term.</p>
       </speech>
@@ -129,7 +129,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Government House Leader.</p>
       </speech>
-      <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+      <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
         <from>HON. FRANK CORBETT</from>
         <p>Thank you, Mr. Speaker. That concludes the government's business for the day. I move that the House do now rise to meet again on the morrow at the hour of 9:00 a.m. The House will sit until 12:00 noon or until the conclusion of business. I move the House do now rise.</p>
       </speech>

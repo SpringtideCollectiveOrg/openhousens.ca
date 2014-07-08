@@ -4,21 +4,21 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="a6095eaa-d175-4e2e-a997-742e0c1d3d10" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="9688259c-5dd6-4d88-8518-44387a1d3f73" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="90d8e39b-06a0-43d3-8ec8-8e2a42d902cd" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="d40ad9c0-f916-4a57-89ac-afb555ab1b1b" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="380a04f6-7ff7-47e6-b7bc-17d7befd49e3" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
-        <TLCPerson id="14492167-7c6c-4e2f-b69d-0005f8725281" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
-        <TLCPerson id="ff1ba834-24ba-4676-b51f-ded3a3b60dd5" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. PORTER"/>
-        <TLCPerson id="091a395d-d667-4740-963f-a4254761c045" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="e56456e5-797d-409c-835f-8f9eb7d44dfb" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="e6d39654-bcf3-4494-b7df-bbb286f0eeef" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="67b70bd5-9657-4c87-9da4-d89a69594eb3" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="482af266-32b5-4e7b-b041-5825dfcaa07f" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
+        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. PORTER"/>
+        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
         <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="chairman" href="/ontology/role/nslegislature.ca-ns.chairman" showAs="MADAM CHAIRMAN"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -43,7 +43,7 @@
             <b>Bill No. 86 - Entitled an Act to Ensure Public Safety through the Provision of Emergency Health Services. (Hon. Frank Corbett)</b>
           </p>
         </other>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, I ask that this be read forthwith and be printed without question put. Further, I ask for unanimous consent to proceed with second reading of this bill today.</p>
         </speech>
@@ -53,7 +53,7 @@
 <p>The second is a request for unanimous consent for Bill No. 86 to be read for a second time today.</p>
 <p>Is it agreed?</p>
 <p>The honourable House Leader of the Official Opposition.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, we will be giving consent for it to be read a second time today, but I would urge you to continue in the order of business - the daily routine. When we arrive at Government Business, the Government House Leader can call the bill at that time, but we certainly wish to continue with the daily routine.</p>
         </speech>
@@ -79,7 +79,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Kings West.</p>
         </speech>
-        <speech by="#9688259c-5dd6-4d88-8518-44387a1d3f73"><num title="1800">RESOLUTION NO. 1800</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="1800">RESOLUTION NO. 1800</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas according to this NDP Government's 50 greatest accomplishments, they're the first government in over 20 years that has not passed legislation to override collective agreements and that has instead used free collective bargaining through a fair and respectful approach; and</p>
 <p>Whereas the tabling of today's legislation is proof that this much-touted achievement must now be struck from their so-called list of accomplishments; and</p>
 <p>Whereas allowing one week to go by without so much as calling the union back to the table for the purpose of continuing negotiations proves this NDP Government is not really interested in a fair and respectful free collective bargaining process;</p>
@@ -90,7 +90,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e56456e5-797d-409c-835f-8f9eb7d44dfb"><num title="1801">RESOLUTION NO. 1801</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="1801">RESOLUTION NO. 1801</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the bill we are debating today is essentially undemocratic; and</p>
 <p>Whereas the bill is essentially undemocratic, and the reason why it is undemocratic is because it takes away a democratic right; and</p>
 <p>Whereas the right to bargain collectively is seen around the world as a basic democratic right, and that is what this does - it takes it away and it is undemocratic as opposed to being anti-democratic;</p>
@@ -101,7 +101,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3"><num title="1802">RESOLUTION NO. 1802</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="1802">RESOLUTION NO. 1802</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on March 2, 2012, in response to a month-long strike involving Access-a-Bus and Metro Transit, the Premier was asked to get involved by tabling back-to-work legislation; and</p>
 <p>Whereas in response the Premier stated: "my interest is to ensure there's a freely negotiated collective agreement between the municipality and the employee - that would be in the best interest for everybody - that will be best for the consumers, the best for employees and the best for the municipality."; and</p>
 <p>Whereas today this NDP Government tabled legislation that will effectively end any hope of ensuring a freely negotiated collective agreement between the employees, the paramedics, and their employer, EMC;</p>
@@ -112,7 +112,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#e6d39654-bcf3-4494-b7df-bbb286f0eeef"><num title="1803">RESOLUTION NO. 1803</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="1803">RESOLUTION NO. 1803</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas according to this NDP Government's 50 greatest accomplishments, they are the first government in over 20 years that has not passed legislation to override collective agreements and that has, instead, used free collective bargaining through a fair and respectful approach; and</p>
 <p>Whereas the tabling of today's legislation is proof this much-touted achievement must now be struck from their so-called list of accomplishments; and</p>
 <p>Whereas allowing one week to go by without so much as calling the union back to the table for the purpose of continuing negotiations proves this NDP Government is not really interested in a fair and respectful free collective bargaining process;</p>
@@ -123,7 +123,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Glace Bay.</p></speech>
-        <speech by="#380a04f6-7ff7-47e6-b7bc-17d7befd49e3"><num title="1804">RESOLUTION NO. 1804</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#d6776846-b12b-4366-882f-9844bee20011"><num title="1804">RESOLUTION NO. 1804</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas according to this NDP Government's 50 greatest accomplishments, they are the first government in over 20 years that has not passed legislation to override collective agreements and that has, instead, used free collective bargaining through a fair and respectful approach; and</p>
 <p>Whereas the tabling of today's legislation is proof that this highly-touted achievement must be struck from their so-called list of accomplishments; and</p>
 <p>Whereas allowing one week to go by without so much as calling the union back to the table for the purpose of continuing negotiations proves this NDP Government is not really interested in a fair and respectful free collective bargaining process;</p>
@@ -134,7 +134,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10"><num title="1805">RESOLUTION NO. 1805</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="1805">RESOLUTION NO. 1805</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas according to this NDP Government's 50 greatest accomplishments, they boast that they are the first government in over 20 years that has not passed legislation to override collective agreements and that has, instead, used free collective bargaining through a fair and respectful approach; and</p>
 <p>Whereas the tabling of today's legislation is proof this much-touted achievement must now be struck from their so-called list of accomplishments; and</p>
 <p>Whereas allowing one week to go by without so much as calling the union back to the table for the purpose of continuing negotiations proves this NDP Government is not really interested in a fair and respectful free collective bargaining process;</p>
@@ -151,7 +151,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -162,7 +162,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Bill No. 86.</p>
         </speech>
@@ -172,7 +172,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I rise today to move second reading of Bill No. 86, an Act to Ensure Public Safety through the Provision of Emergency Health Services. This province's paramedics do extremely vital and valuable work in our communities. All Nova Scotians appreciate and respect the work they do for their patients and depend on their skills in an emergency. Nova Scotians' lives will be put in jeopardy if ambulance services, including LifeFlight, were ever to be disrupted. We are taking every possible step to help the parties find a solution and reach an agreement.</p>
+          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I rise today to move second reading of Bill No. 86, an Act to Ensure Public Safety through the Provision of Emergency Health Services. This province's paramedics do extremely vital and valuable work in our communities. All Nova Scotians appreciate and respect the work they do for their patients and depend on their skills in an emergency. Nova Scotians' lives will be put in jeopardy if ambulance services, including LifeFlight, were ever to be disrupted. We are taking every possible step to help the parties find a solution and reach an agreement.</p>
 <p>Mr. Speaker, I'm introducing legislation today that will send the dispute between Emergency Medical Care Inc. and the paramedics' union, International Union of Operating Engineers Local 727, to binding arbitration so they can reach an agreement that is fair to all parties. The bill gives an arbitrator 90 days to work with both parties to reach an agreement without the possibility of lockout or strike.</p>
 <p>This legislation protects Nova Scotians against a potential disruption in ambulance services that would put people's lives at risk. The health and safety of Nova Scotians is our number-one priority. Nova Scotians need to know that paramedics will be there to help in an emergency. The arbitrator will examine the proposal's outstanding issues and new priorities, request each party's final offer, and then select one.</p>
 <p>This action was necessary. The parties were no longer bargaining, there was no prospect of a deal, and unlike other health care unions, this union has refused to provide a level of service which is common practice. Government cannot stand by while patients and Nova Scotians are put at risk. At the same time, as I said before, the province recognizes the important contribution and the commitment of the paramedics to their patients, and everyone wants to see them reach an agreement that is fair.</p>
@@ -181,7 +181,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Official Opposition.</p>
           </speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I first want to begin by expressing my great appreciation to the men and women who are paramedics across this province, who do a vital and integral part of delivering health care to Nova Scotians, many times in some of the most difficult of situations. Whether it's the side of the road in a horrific accident or whether being called into one of our homes when we, as family members and loved ones are in panic mode in the environment, we ask them to come in and provide us with the kind of health care that we believe we deserve and want.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I first want to begin by expressing my great appreciation to the men and women who are paramedics across this province, who do a vital and integral part of delivering health care to Nova Scotians, many times in some of the most difficult of situations. Whether it's the side of the road in a horrific accident or whether being called into one of our homes when we, as family members and loved ones are in panic mode in the environment, we ask them to come in and provide us with the kind of health care that we believe we deserve and want.</p>
 <p>I want to express to them our appreciation for the work that they have been doing and also acknowledge the work that has been asked of them over the last number of years: administering the clot-busting drug immediately; asking them to take a more active role in the CECs across this province, one of which happens to be in my own constituency, some of them are in other parts of this province.</p>
 <p>At no time have they said no, they responded looking to try to provide that service in conjunction with other health care providers in Nova Scotia. Each of us, as health care consumers, are always grateful when we arrive and see the top-notch health care providers in this province willing and able and waiting to provide us with the assistance that we want in all of our communities.</p>
 <p>This situation has been unfolding really for two years; they've been without a contract for approximately two years. It wasn't that long ago that we talked about it in this House during the Spring session - I remember the member for Kings West brought up the issue about what the contingency plan was going to be. As well, it has been on the top of minds of paramedics' families and as the paramedics themselves have been doing their job, this has been part of the thought process of, what happens to our work? Do we end up with a stoppage? Are we going to be treated fairly? Are we going to be respected in the role we play in delivering health care to Nova Scotians? That has to have an impact on the entire family through this process, so I want to extend my thanks to the paramedics' families for being there and for being an important part of it.</p>
@@ -194,7 +194,7 @@
 <p>Mr. Speaker, one of the things &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. I would like to remind our guests in the galleries that under the Rules of our House, they are not to show either approval or disapproval at anything that happens here on the floor during our proceedings.</p>
 <p>The honourable Leader of the Official Opposition has the floor.</p></speech>
-          <speech by="#90d8e39b-06a0-43d3-8ec8-8e2a42d902cd"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to go back a little bit and look as this process has been unfolding and the difficult challenges that we have had. I remember when the member for Kings West asked the Minister of Health and Wellness, in Question Period, what the contingency plan was, was it forced arbitration? The minister was unwilling to answer that question on the floor; he was unwilling to say what the plan was for this government. But it has become apparent over the last number of weeks that we were going to arrive at this point because this was the only plan that government had in place.</p>
+          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to go back a little bit and look as this process has been unfolding and the difficult challenges that we have had. I remember when the member for Kings West asked the Minister of Health and Wellness, in Question Period, what the contingency plan was, was it forced arbitration? The minister was unwilling to answer that question on the floor; he was unwilling to say what the plan was for this government. But it has become apparent over the last number of weeks that we were going to arrive at this point because this was the only plan that government had in place.</p>
 <p>The Minister of Labour and Advanced Education just spoke about the fact that there was not going to be a level of essential service, and I think that's important to understand. As you would know, Mr. Speaker, other health care units across this province, other bargaining units usually negotiate leading up to what are very tough times when it comes to that, an essential service model that provides a level of service to Nova Scotians, if there happens to be a strike. While the government was involved in the negotiations of how much money should be on the table and who is doing what, the question has to be asked, why weren't they looking at the essential service piece?</p>
 <p>Why weren't they letting the employer and employees negotiate at the table, and why weren't they speaking about the essential service model, and if they were, who were they talking to? Did they speak to the employer or did they speak to the hard-working men and women who are paramedics across this province and ask them whether or not they are prepared to provide a level of essential service to the people of the Province of Nova Scotia?</p>
 <p>It has been my belief and it has been my experience that every health care provider that I run across that I have the good fortune of meeting, whether it is on a professional basis or outside, has entered into that service because they want to provide service to the people of this province, they want to be part of the solution. That's why, instead of interfering in the collective bargaining process of trying to negotiate a settlement, why wouldn't they have been working with those hard-working men and women to look at if there's an essential service model that we could provide to the people of this province as we move forward to find and hammer out a deal between the employer and the employees at the bargaining table? Those are all important pieces to finding a settlement that not only is good for two parties, but is equally as important as good for the citizens and people of the Province of Nova Scotia.</p>
@@ -224,7 +224,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Progressive Conservative Party.</p>
           </speech>
-          <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I rise today recognizing that this is a difficult day for many of the legislators who are assembled to do our job here today in the House of Assembly. Like all of us, I'm sure, I have many friends who I respect very much who are paramedics, and I'm sure almost everybody - if not everybody - here can say the same thing. I have spent a lot of time over the last few months discussing with paramedics on the ground their views about the work they do and the important role they play in our health care system, particularly in our emergency care system.</p>
+          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I rise today recognizing that this is a difficult day for many of the legislators who are assembled to do our job here today in the House of Assembly. Like all of us, I'm sure, I have many friends who I respect very much who are paramedics, and I'm sure almost everybody - if not everybody - here can say the same thing. I have spent a lot of time over the last few months discussing with paramedics on the ground their views about the work they do and the important role they play in our health care system, particularly in our emergency care system.</p>
 <p>I will tell you, even in my own riding executive in Cumberland South, there is a good friend of mine, a supporter and a well-respected paramedic in Cumberland County, who I appreciate very much, knowing what he does when he goes to work every day - no secret to anyone in this House, quite proud of the fact that we have a paramedic in our own PC caucus, who I know recognizes the important work paramedics do, having done that work, facing the difficult bill that is before us all today.</p>
 <p>I will only add that even this morning, as I was meeting with the paramedics outside the Legislature, a young woman, a paramedic, shared with me a pretty important story of her last shift before she came down here to Province House today, and the health issues, the emergency issues that she was dealing with.</p>
 <p>I hope all members have had a chance to dwell on the work that paramedics do - not only the traditional work that medics have done over the years but the expanded list of services that we now ask of our paramedics, including in important places like our emergency rooms - expanded practice and expanded training to handle an expanded list of emergency situations when they are called upon in an emergency: the transfers that happen, the extended paramedic program where paramedics go into our nursing homes and treat seniors in place. It's a great piece of work. A lot of that has only been added in the last few years, but it highlights the ever-increasing role that paramedics play in our society. I say that because common sense, I believe, has to prevail, and common sense tells us that the work that paramedics do is essential to the ongoing health and safety of Nova Scotians.</p>
@@ -238,7 +238,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable Leader of the Progressive Conservative Party does have the floor.</p>
           </speech>
-          <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><from>MR. BAILLIE</from><p>Thank you, Mr. Speaker. I don't plan to dwell on this long but I do want to say it's quite an accomplishment to speak for that long and not actually say where you stand on something; that's very unique. It is consistent with the remarks of the Liberal Leader in The ChronicleHerald this morning - I will table this - he wouldn't say whether the Liberals will support the bill or not, and further said, "The government doesn't need my help. This is not a minority government."</p>
+          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Thank you, Mr. Speaker. I don't plan to dwell on this long but I do want to say it's quite an accomplishment to speak for that long and not actually say where you stand on something; that's very unique. It is consistent with the remarks of the Liberal Leader in The ChronicleHerald this morning - I will table this - he wouldn't say whether the Liberals will support the bill or not, and further said, "The government doesn't need my help. This is not a minority government."</p>
 <p>As a legislator, I just want to say it's not directly related to the bill before us, but I can't understand why someone would declare themselves irrelevant to the process of debating and passing bills as starkly as to say, "The government doesn't need my help. This is not a minority government." I will table that.</p>
 <p>My point is that when we're faced with difficult decisions, the Legislature is the place where we take a stand, we put ourselves on the record, and we tell Nova Scotians what we'll do. We may criticize the government from time to time, but Nova Scotians expect more than that - they expect you to actually say what you would do in the government's place.</p>
 <p>Let me be clear, we don't like this bill any more than anyone else, but we do support it because it protects public safety and it provides for some form of arbitration that will result in a fair, I hope, decision that respects the essential work that paramedics do. I will add that none of us want to be doing this every time there's a pending strike in an essential service like paramedics and that's why I also tabled a bill today which I hope the government will take a look at, because if they don't we certainly intend to pursue it to provide for collective bargaining through all of its steps and only when we get to a place like we are today where there's an alternative way to come up with a fair deal that keeps public safety front of mind.</p>
@@ -265,7 +265,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Labour and Advanced Education.</p>
           </speech>
-          <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, with the consent of the House and after conversations with the two House Leaders, upon the successful passage of second reading of this bill, we would agree to hold the Committee on Law Amendments at 1:00 p.m. this afternoon and carry on from there. If this bill were to be passed by 1:00 p.m., we would carry on and do the Committee on Law Amendments at 1:00 p.m. I'm asking for consent on that.</p>
           </speech>
@@ -273,7 +273,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable House Leader of the Official Opposition.</p>
           </speech>
-          <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
+          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, I'm proud our caucus was able to work to ensure that the Committee on Law Amendments is going to take place today at 1:00 p.m. I should advise anyone who wishes to make a presentation at the Committee on Law Amendments that they are to call the Legislative Counsel Office at 424-8941. Should they wish to make a presentation, they should certainly call beforehand in order to ensure that their name is added to the list. I can advise that we have a few more speakers on this bill, but we will see the Committee on Law Amendments sit at 1:00 p.m. in order to hear from Nova Scotians regarding Bill No. 86, and then have this bill returned to the House for debate once that process is completed.</p>
           </speech>
@@ -282,7 +282,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-          <speech by="#9688259c-5dd6-4d88-8518-44387a1d3f73"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm pleased to rise today and add a few words to a very important debate - a debate that, in our caucus' view, should not have arrived here moments before a potential strike.</p>
+          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm pleased to rise today and add a few words to a very important debate - a debate that, in our caucus' view, should not have arrived here moments before a potential strike.</p>
 <p>I think it's important first to outline that we have a good record over the past couple of years of asking for two very important supports for paramedics. One, that the college of paramedics Act be passed in this Legislature, which would outline the scope of practice, provide a mechanism for them to have their concerns, their issues, and the growth of their profession be regulated through such a body. I think it has been unfortunate and a real disservice to our paramedic profession that that has not been advanced through the Legislature.</p>
 <p>The second area that I started to speak out on early in 2013 was the loss of paramedics generally, but very concerned about losing advanced care paramedics from our province. What started as a trickle moved to really a stream of paramedics who were leaving our province. We know that tells us something about work life, compensation, it tells us what things are going on that are not well for the future of the paramedic profession. We had hoped at that point and, you know, months ago that government would have been looking very closely at the pending end of the negotiations, reaching a point where, in fact, a strike could take place.</p>
 <p>The signals have been there for this government to have taken some steps, some processes, which could have prevented us from arriving at the Legislature to deal with an issue that could come to a head at 12:01 a.m. tomorrow. In fact, yesterday I spoke publicly about the government needing a crisis to manage and they have given themselves this opportunity, through the situation faced by our paramedics, to actually come here to Province House and look like they, in fact, are working in the best interests of Nova Scotians. They've had two years to work in the best interests of Nova Scotians and have paramedics given the respect, the compensation, the advancement of their profession in a way that should not have them, you know, out doing information pickets and ultimately a possible strike.</p>
@@ -295,7 +295,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Hants West.</p>
           </speech>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. CHUCK PORTER</from><p>Thank you, Mr. Speaker. I'd like to say that I am pleased to be here today, but I'm not - but I don't think anyone is. I know certainly our paramedics in this province are not happy to be at this point either. It has been a long road the last two and a half years whereby we would have hoped something could have been brought together by way of an agreement that would have been fair, a process that we are all used to in this province. It's common, we negotiate, we negotiate some more, it breaks off, we get to a conciliator at times, it breaks off and then here we are, unfortunately, at the arbitrated piece.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Thank you, Mr. Speaker. I'd like to say that I am pleased to be here today, but I'm not - but I don't think anyone is. I know certainly our paramedics in this province are not happy to be at this point either. It has been a long road the last two and a half years whereby we would have hoped something could have been brought together by way of an agreement that would have been fair, a process that we are all used to in this province. It's common, we negotiate, we negotiate some more, it breaks off, we get to a conciliator at times, it breaks off and then here we are, unfortunately, at the arbitrated piece.</p>
 <p>The reason I say "unfortunately" in some ways, Mr. Speaker, is that having been there in the past and in talking to former colleagues whom I know well, some are here today and they will tell you, some of my former partners will tell you that every time we've been to arbitration we feel that we lose, and they feel that they lose as paramedics in the province. They don't get the better end of the deal. The reason they feel it is that it's because of the work they do. I'm not sure everyone really understands but I think most, if they have ever called an ambulance, certainly in an emergency situation or in a non-emergency situation, in all honesty understand the role these men and women play in this province.</p>
 <p>I want to go back a little bit, I want to talk a little bit about historically where we've been, what we've gone through, and I want to talk about where we are now. When I first got involved as a paramedic - and we weren't called a paramedic in those days - you got your first aid and your CPR, Mr. Speaker, and you pretty much were done, if you will, and you had to have a Class 4 driver's licence, and then you associated yourself with a company at that time. There were 500-odd companies at that time that were doing business, some funeral, some not funeral-based, some were associated. You would drive a cab and when a call came in you would leave that taxi and you would go and do an ambulance call. When we really think about that, it has not been that long ago at all.</p>
 <p>We've come a long way since then and so should a lot of other things come a long way, and some have. Mr. Speaker, in those days, once we completed that task we had to go and assign ourself, as I was saying, with one of those companies. Generally a lot of us did about 500 hours of free time because those companies didn't pay a lot in those days and then, if you were fortunate enough, you got on a casual, part-time, sort of list and when an opening came up, if you were dedicated and you enjoyed what you did and the owners of those companies felt that or in most of those days needed it because people were leaving then - it wasn't a long career because you worked a lot - you were fortunate enough to score what would then be a full-time job.</p>
@@ -324,7 +324,7 @@
             <from>AN HON. MEMBER</from>
             <p>Better than this one?</p>
           </speech>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. PORTER</from><p>Better than this one, you want to believe it. Do you know why? Because the people you meet, sometimes at the most distressed time in their life, you go in and you are providing something. They are there and they are looking for you to provide that.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>Better than this one, you want to believe it. Do you know why? Because the people you meet, sometimes at the most distressed time in their life, you go in and you are providing something. They are there and they are looking for you to provide that.</p>
 <p>We've got great people right here in the gallery today, some of whom I have had the pleasure and honour of working with, doing that for Nova Scotians today. We cannot forget the importance of that when we think about their worth or their value when we're negotiating a contract. All of these things have to come into play.</p>
 <p>I hope that going forward with this process, when this bill is passed today, that that is all taken into consideration - that when the asks are put on the table and when the asks are offered from one side and from the other, these things are considered. They have to be. They must be considered. There's no way that you could make a decision without looking back at the work that is being done every day.</p>
 <p>It's not just another job. It's not just a man or a woman getting in an ambulance and driving down the road and doing this or doing that. There is a lot more to that, Mr. Speaker. I may speak with a bias - and I don't mean to be biased. I call that an experience that I had the honour to be part of. I'm no longer an active paramedic, because my tag has long since expired, and it's probably something that I may not ever get a chance to go back to. That's fine.</p>
@@ -343,7 +343,7 @@
             <from>AN HON. MEMBER</from>
             <p>Somebody else must have been driving.</p>
           </speech>
-          <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><from>MR. PORTER</from><p>My colleague said somebody else must have been driving. I would never admit who was driving, but I can tell you in those days it was hurry up and get here because it's an emergency and we need you.</p>
+          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>My colleague said somebody else must have been driving. I would never admit who was driving, but I can tell you in those days it was hurry up and get here because it's an emergency and we need you.</p>
 <p>That was the mentality, we all lived that and now there are so many rules, good rules, safe rules, the way that it should be done. You credit that to that paramedic body because they're the ones who have grown in this, not us. They are the ones who have said, we want to be safe coming to work, I want to go home tonight to my family, they deserve that. Yes, they do. It is those men and women working who have helped create this and make it what it is, they have made it what it is.</p>
 <p>We can talk about the administration side and all of those things, yes, somebody has to manage it, but it is the everyday workers who go to the homes, who deal with the people that are ill or transfer the people from hospital to hospital, or to dialysis for treatments or whatever it might be, or go to their home and provide another kind of care, an extended type of care.</p>
 <p>We have a variety of levels of paramedics in this province; we had P1s, we had P2s and we had P3s. I think the P2s are intermediate, they were at one time, ICP at that time, are now limited, I don't think there are many left. I know that I was one of those for a lot of years and moved on to an advanced care level of paramedic before I left. I do know that some of those leaving are certainly those advanced care paramedics, we know that. They're providing a level of care that they believe they should be compensated for and are being compensated for in other places.</p>
@@ -369,7 +369,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Richmond.</p>
           </speech>
-          <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, today feels a bit like d&#xE8;j&#xFFFD; vu for me in standing as the member for Richmond in this House, because approximately 14 years ago the government of the day, on October 22, 1999, introduced Bill No. 9 which was an Act to Provide for the Continuation of Ground Ambulance Services in the Province. Here we are, 14 years later, and we have Bill No. 86, an Act to Ensure Public Safety through the Provision of Emergency Health Services.</p>
+          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, today feels a bit like d&#xE8;j&#xFFFD; vu for me in standing as the member for Richmond in this House, because approximately 14 years ago the government of the day, on October 22, 1999, introduced Bill No. 9 which was an Act to Provide for the Continuation of Ground Ambulance Services in the Province. Here we are, 14 years later, and we have Bill No. 86, an Act to Ensure Public Safety through the Provision of Emergency Health Services.</p>
 <p>The actors involved since the past 14 years have changed quite a bit; in fact, the government itself has changed from 14 years ago. There are a few of us remaining in this Legislature who were here in 1999, the last time the paramedics went on strike. For the Official Opposition caucus, the Liberal caucus, there is but myself and my good friend, the MLA for Clare, who remain from 1999; in fact, we are the only two on the Opposition benches who remain from the debate on Bill No. 9, as there are no members of the Third Party who were elected at the time.</p>
 <p>On the government side we do have a few of the same faces that were here back then. We have the Premier for one, whom I believe was the Health Critic when that bill was brought in in 1999; we have the Minister of Labour and Advanced Education, who is also the Government House Leader; we have the current Minister of Finance who was there as well; we have the MLA for Timberlea-Prospect who was there; as well as the MLA for Halifax Chebucto; and, as well, my good friend the Minister of Agriculture and Service Nova Scotia and Municipal Relations - I knew I was missing one; I wasn't sure which.</p>
 <p>We stood on this side of the House, in Opposition, both the NDP caucus and the Liberal caucus, and we stood behind Nova Scotia paramedics. Today, 14 years later, there is only one Party in this House today that stands behind Nova Scotia paramedics, and that's the Nova Scotia Liberal caucus.</p>
@@ -428,7 +428,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#091a395d-d667-4740-963f-a4254761c045"><from>MR. ALLAN MACMASTER</from><p>Madam Speaker, there will be no peace in the world without goodwill and many would believe that these negotiations started a few weeks ago but would you believe it has been two and a half years since a contract was in place. I know many people out there in the province reading the papers would believe this only started a few weeks back. I recall my colleague from Hants West here in the Legislature asking a question this past Spring about this matter but there seemed to be no urgency at that time to solve it. Now we are in the eleventh hour facing a 76 per cent reduction in the paramedic service we depend on in our province.</p>
+          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Madam Speaker, there will be no peace in the world without goodwill and many would believe that these negotiations started a few weeks ago but would you believe it has been two and a half years since a contract was in place. I know many people out there in the province reading the papers would believe this only started a few weeks back. I recall my colleague from Hants West here in the Legislature asking a question this past Spring about this matter but there seemed to be no urgency at that time to solve it. Now we are in the eleventh hour facing a 76 per cent reduction in the paramedic service we depend on in our province.</p>
 <p>What do we do? Madam Speaker, I just want to mention a couple of the services that we're looking at: Extended Care Paramedic Project which assesses and treats non-emergency situations, for instance in a nursing home, allowing residents to remain at the home and avoid difficult hospital visits; our Collaborative Emergency Centres, emergency rooms in the province that are staffed by paramedics at night to allow these facilities to remain open when no physician is present; the RESTORE program, heart attack patients who call 911 receive faster treatment with the administration of TNK, a clot-busting medication; community paramedicine where paramedic staff community clinics with a nurse practitioner to provide primary health care to residents. There are all the services we're talking about.</p>
 <p>Now there is motivation, I believe, for both sides to delay settlement to the end and by that I mean to the end of a strike deadline, to force either's hand to agree in the others favour. I know paramedics feel arbitration tips the scale in favour of the employer. We believe paramedics are an essential service and that should be put in the terms of the contract for good reason. The first I can think of is that we don't want paramedics to face two and a half year delays for the renewal of their contracts but also for some of the reasons I've just mentioned, we don't want the public living with fear that paramedics are not going to be available for them when they need them. If we do answer the question with that, Madam Speaker, and with this legislation, if we answer the question what do we do to prevent an interruption of service so that the paramedics are there for us, I believe the question that remains is what can we do to make life better for paramedics so they feel valued and they enjoy their work environment?</p>
 <p>I know some of the issues that are being discussed and I want to put them on the record, Madam Speaker. I know that right now after a paramedic is ill for four days, after that point they must go on short-term disability, and there is a cost to that. But, by being forced to go on short-term disability, many of them don't want to. I know I've had situations where I've had a flu - I had one this past Spring and it lasted for pretty well two weeks - granted, I did work during that time, but one of the points I'd like to make is these are people who are working helping people who may have weak immune systems due to illness. And I think if you're trying to care for somebody and your own immune system is compromised because you have flu, you don't want to be passing that on to somebody you're trying to help get better.</p>
@@ -446,7 +446,7 @@
             <from>MADAM SPEAKER</from>
             <p>If I recognize the minister it will be to close the debate.</p>
           </speech>
-          <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b">
+          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d">
             <from>HON. DAVID WILSON</from>
             <p>Madam Speaker, I thank all the members for their input today. I now move second reading of Bill No. 86.</p>
           </speech>
@@ -454,7 +454,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, as per our earlier agreement, I move that the House recess until after the Law Amendments Committee has met and reported back.</p>
           </speech>
@@ -469,7 +469,7 @@
           </narrative>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, with the unanimous consent of the House, I move that we revert to the daily routine, the order of business, Presenting Reports of Committees.</p>
           </speech>
@@ -483,12 +483,12 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#482af266-32b5-4e7b-b041-5825dfcaa07f"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410"><from>HON. ROSS LANDRY</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
 <p><b>Bill No. 86 - Ambulance Services Continuation (2013) Act.</b></p>
 <p>and the committee recommends this bill to the favourable consideration of the House, without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The report is tabled.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Bills.</p>
         </speech>
@@ -513,14 +513,14 @@
 <p>and the chairman has been instructed to recommend this bill to the favourable consideration of the House without amendments.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a third time on a future day.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, with the indulgence of the House, I would like to now ask if we could have agreement to do third reading of Bill No. 86.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
         </speech>
@@ -531,7 +531,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
+        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Bill No. 86.</p>
         </speech>
