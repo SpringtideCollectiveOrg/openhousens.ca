@@ -54,6 +54,14 @@ from speeches.models import Speech
 Speech.objects.filter(section=None)
 ```
 
+All sections should have speeches:
+
+```sql
+from speeches.models import Section
+for section in Section.objects.filter(speech__section_id=None).filter(children__parent_id=None):
+    print(section.get_ancestors[0].start_date, section.title)
+```
+
 ## Deployment
 
 You can use any of Heroku's ElasticSearch add-ons:
