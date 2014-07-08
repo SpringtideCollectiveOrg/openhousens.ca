@@ -2,18 +2,7 @@
 {% load url from future %}
 {% load i18n %}
 {% load staticfiles %}
-{% load bleach_tags %}
-
-{% block extra_headers %}
-{% with next=speech.get_next_speech previous=speech.get_previous_speech %}
-  {% if previous %}
-    <link rel="prev" href="{% url "speeches:speech-view" previous.id %}" />
-  {% endif %}
-  {% if next %}
-    <link rel="next" href="{% url "speeches:speech-view" next.id %}" />
-  {% endif %}
-{% endwith %}
-{% endblock %}
+{% load speech_utils %}
 
 {% block title %}
     {% if object.title %}

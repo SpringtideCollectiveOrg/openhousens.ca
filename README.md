@@ -45,6 +45,15 @@ You may want to clear the ElasticSearch index before re-importing:
 
 Commenting out `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` may improve import times and avoid timeout errors.
 
+### Validations
+
+All speeches should belong to a section:
+
+```python
+from speeches.models import Speech
+Speech.objects.filter(section=None)
+```
+
 ## Deployment
 
 You can use any of Heroku's ElasticSearch add-ons:

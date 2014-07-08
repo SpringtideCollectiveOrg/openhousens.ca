@@ -43,6 +43,7 @@ INSTALLED_APPS = (
     'popolo',
     'instances',
     'speeches',
+    'legislature',
 )
 
 MIDDLEWARE_CLASSES = (

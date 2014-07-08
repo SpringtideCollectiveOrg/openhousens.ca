@@ -1,0 +1,17 @@
+{% extends 'speeches/base.html' %}
+{% load url from future %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+  <h1>Easily track what's said in the Nova Scotia Legislature</h1>
+
+  <form action="{% url 'speeches:haystack_search' %}" method="get">
+    <input type="search" name="q" placeholder="Enter a bill, keyword, phrase or name">
+    <input type="submit" value="Search">
+  </form>
+
+  The latest transcript is from <strong>{{ most_recent_debate.start_date }}</strong>.
+</div>
+{% endblock %}
