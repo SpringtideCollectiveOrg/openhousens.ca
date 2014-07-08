@@ -4,16 +4,16 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="Hon. Jamie Baillie"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="ee8a60d0-642f-4447-a3d1-573947cdc8b0" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="358dbc8a-a052-4a0f-96df-1adea9a5bbdd" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="keith.bain" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="mat.whynott" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="Hon. Jamie Baillie"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
@@ -23,9 +23,10 @@
       <docTitle>Debates, 16 April 2012</docTitle>
       <docNumber>12-11</docNumber>
       <docDate date="2012-04-16">Monday, April 16, 2012</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="4">4th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C89/house_12apr16/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -38,7 +39,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
+        <speech by="#darrell.dexter">
           <from>HON. DARRELL DEXTER</from>
           <p>I wonder if I might begin with an introduction.</p>
         </speech>
@@ -62,7 +63,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Health and Wellness.</p></speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="203">RESOLUTION NO. 203</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maureen.macdonald"><num title="203">RESOLUTION NO. 203</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas chronic obstructive pulmonary disease can leave its sufferers unable to breath, causing intense anxiety and fear; and</p>
 <p>Whereas Capital District Health Authority has created a new home-based program called Inspired, and its goal is to eliminate patient anxiety by teaching participants to administer their own medications, teaching relaxation techniques and ways to move the body while using less energy; and</p>
 <p>Whereas this community-based treatment approach improves patient care while reducing health system costs, and has already reduced emergency department admission rates by 70 per cent for those enrolled in the program;</p>
@@ -86,7 +87,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="205">RESOLUTION NO. 205</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of Natural Resources, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="205">RESOLUTION NO. 205</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of Natural Resources, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year Pulp &amp; Paper Canada magazine's Safest Mill in Canada competition sees 45 to 50 pulp or paper mills in Canada compete for top safety honours in three categories; and</p>
 <p>Whereas this year Nova Scotia's Northern Pulp had the lowest total recordable incident rate in Canada, with just one incident in 2011, compared to other mills in its category; and</p>
 <p>Whereas Northern Pulp has won Safest Mill in Canada for 2011 and previously won the same award in 2005;</p>
@@ -121,7 +122,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Clare.</p>
         </speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="206">RESOLUTION NO. 206</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="206">RESOLUTION NO. 206</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas April 15<sup>th</sup> to April 21<sup>st</sup> marks National Volunteer Week; and</p>
 <p>Whereas this year's theme - Volunteers: Passion, Action, Impact - highlights the valuable contributions volunteers make to ensure our cities, towns, province and country are even better places to live; and</p>
 <p>Whereas Nova Scotia is truly fortunate in that volunteers in our province devoted 207 hours on average to the organizations or causes they have chosen to support, the highest average in Canada;</p>
@@ -133,7 +134,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="207">RESOLUTION NO. 207</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="207">RESOLUTION NO. 207</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas February 2012 marked the 20<sup>th</sup> Anniversary of the Victoria Standard newspaper, located in Baddeck; and</p>
 <p>Whereas since its inception, the Standard has kept readers informed of happenings and events of the Victoria County area and has grown to over 5,000 readers, both at home and abroad; and</p>
 <p>Whereas the staff of the Standard is comprised entirely of Victoria County residents who take pride in both their publication and their county;</p>
@@ -145,7 +146,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="208">RESOLUTION NO. 208</num><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="208">RESOLUTION NO. 208</num><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the job of an entertainment reporter involves chumming up with local and international talent; and</p>
 <p>Whereas 13-year-old Cassius Morris from Hammonds Plains has made a name for himself over the past year as a young journalist and YouTube blogger; and</p>
 <p>Whereas Cassius Morris has interviewed the likes of Larry the Cable Guy, These Kids Wear Crowns, Gloryhound, and Peter Singer of KISS;</p>
@@ -157,7 +158,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="209">RESOLUTION NO. 209</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="209">RESOLUTION NO. 209</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Halifax Regional Police Chief Frank Beazley has been on the job serving residents in the Halifax area since 1970 and today announced his retirement; and</p>
 <p>Whereas during his tenure, Chief Beazley has received the Police Exemplary Service Medal and the Queen's Golden Jubilee Medal and is a member of the Order of Merit of Police Forces; and</p>
 <p>Whereas Chief Beazley has become a leader in the country's policing community, modernizing policing here in HRM and taking an active role in engaging our communities to make Halifax Regional Municipality a safer, more peaceful place to live;</p>
@@ -169,7 +170,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="210">RESOLUTION NO. 210</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="210">RESOLUTION NO. 210</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Northside native and noted businesswoman Annette Verschuren is teaming up with a Toronto-based company to commercialize energy storage technologies; and</p>
 <p>Whereas Ms. Verschuren will work with Northwater Capital on this venture as they try to establish Canada's first energy storage park, which will store electric energy for later use; and</p>
 <p>Whereas Ms. Verschuren's entrepreneurial spirit, proven track record in growing companies, and extensive network with business, government, and universities makes her an excellent selection for the executive chair;</p>
@@ -187,7 +188,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -198,7 +199,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and that the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -221,7 +222,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. After the daily routine and Question Period, we'll go into Supply, and if time allows, we will call government bills for second reading: Bill Nos. 5, 9, 11, 13, 17, 20, and 22.</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. After the daily routine and Question Period, we'll go into Supply, and if time allows, we will call government bills for second reading: Bill Nos. 5, 9, 11, 13, 17, 20, and 22.</p>
 <p>I move that the House do now rise to meet again tomorrow from the hours of 12:00 noon to 8 p.m.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise to meet again tomorrow at 12:00 noon.</p>
 <p>Is it agreed?</p>
@@ -234,12 +235,12 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="211">RESOLUTION NO. 211</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="211">RESOLUTION NO. 211</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
 <p>Whereas Donna Roberts has retired after 30 years as an office clerk with the Town of Oxford; and</p>
 <p>Whereas Donna Roberts has enjoyed her years with the town and has been part of many changes, most notably going from typewriters to computers; and</p>
 <p>Whereas the Town of Oxford hosted a farewell party in Donna's honour and will miss her greatly;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Donna Roberts on her retirement and wish her all the best in the future.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="212">RESOLUTION NO. 212</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="212">RESOLUTION NO. 212</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
 <p>Whereas Oxford now lays claim to having this province's second fire department pipes and drums band; and</p>
 <p>Whereas Pipe Major Tom Rushton, piper Tory Rushton and drummer Dave Joudrey join Brent Johnstone, Cynthia Babineau and Virginia King as members of the Oxford Fire Department Pipes and Drums; and</p>
 <p>Whereas the band was started to support Oxford and surrounding communities at events such as parades legion and community events, schools and fire stations;</p>

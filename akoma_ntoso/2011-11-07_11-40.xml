@@ -4,41 +4,42 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="358dbc8a-a052-4a0f-96df-1adea9a5bbdd" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="Hon. Sterling Belliveau"/>
-        <TLCPerson id="971fb72d-58d6-4afa-804e-25fe1a021c5c" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="56493acc-adb4-492b-a238-873ebc173cfa" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
-        <TLCPerson id="db879201-933e-4d03-b3d3-3f0d7224dd00" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="617adf75-30cf-451f-93ee-4271195fa60f" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
-        <TLCPerson id="634a3222-6546-4aa7-ae2f-9f541e6d1f6c" href="/ontology/person/ca-ns.manning.macdonald" showAs="HON. MANNING MACDONALD"/>
-        <TLCPerson id="ad05a29e-2138-4e50-93c4-6d3af608c5f4" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
-        <TLCPerson id="bf736a4f-4e18-431a-acf2-10100b3a941a" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="charlie.parker" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="howard.epstein" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="mat.whynott" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="jim.morton" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
+        <TLCPerson id="harold.theriault" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="manning.macdonald" href="/ontology/person/ca-ns.manning.macdonald" showAs="HON. MANNING MACDONALD"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="michele.raymond" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
+        <TLCPerson id="leonard.preyra" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="Hon. Sterling Belliveau"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 7 November 2011</docTitle>
       <docNumber>11-40</docNumber>
       <docDate date="2011-11-07">Monday, November 7, 2011</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="3">3rd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C81/house_11nov07/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. Before we start the daily routine this evening I'd like to rule on a point of order.</p>
@@ -56,7 +57,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e"><num title="2028">RESOLUTION NO. 2028</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#darrell.dexter"><num title="2028">RESOLUTION NO. 2028</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November 5<sup>th</sup> to November 11<sup>th</sup> is recognized across Canada as National Veterans' Week; and</p>
 <p>Whereas this is an opportunity for Canadians to pause and remember those men and women who served our county, in particular those who gave their lives to protect the freedoms we enjoy today; and</p>
 <p>Whereas Nova Scotia has a powerful and long-standing connection with the Canadian Armed Forces and is widely known as the home of the Royal Canadian Navy;</p>
@@ -73,7 +74,7 @@
         </narrative>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Thank you.</p>
 <p>The honourable Minister of Natural Resources.</p></speech>
-        <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><num title="2029">RESOLUTION NO. 2029</num><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#charlie.parker"><num title="2029">RESOLUTION NO. 2029</num><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in 2011, fire weather conditions in Nova Scotia resulted in one of the lowest numbers of wildfires in our province's history; and</p>
 <p>Whereas the Department of Natural Resources has long been committed to excellence in wildfire management; and</p>
 <p>Whereas Nova Scotia provides help and support to our fellow provinces and territories during wildfire emergencies in Canada as a proud member and active participant in the Canadian Interagency Forest Fire Centre;</p>
@@ -128,7 +129,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="2030">RESOLUTION NO. 2030</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="2030">RESOLUTION NO. 2030</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Friday, November 4, 2011, the Juvenile Diabetes Research Foundation Ride for Diabetes Research was held at the World Trade and Convention Centre in Halifax; and</p>
 <p>Whereas this annual event, held in various locations throughout Canada, brings together businesses and other interested participants in a friendly competition to raise money for diabetes research; and</p>
 <p>Whereas this year's Halifax event featured Grits for a Cause, a team consisting of elected officials and staff from the Nova Scotia Liberal caucus, who raised $1,110 for diabetes research;</p>
@@ -140,7 +141,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2031">RESOLUTION NO. 2031</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="2031">RESOLUTION NO. 2031</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas a group of seven students from Avon View High School, taking G&#xE9;ographie Planetaire, set their sights on helping youths with mental illnesses; and</p>
 <p>Whereas Jonathan Barkhouse, Deseray Johnson, Kiel Mosher, Jessie Porter, Will Rayworth, Morgan Riley, and Samantha Saunders, along with their teacher, Chris Popma, formed the group Les Petites Differences, or Little Differences; and</p>
 <p>Whereas with the motto Little Changes Make Big Differences, the group used small fundraisers throughout the 2010-11 school year to enact change by raising funds to purchase gasoline gift cards to give to families that must travel to the IWK to help their child receive treatment;</p>
@@ -164,7 +165,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="2033">RESOLUTION NO. 2033</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="2033">RESOLUTION NO. 2033</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas learning is essential for the development of a strong economy and a strong society; and</p>
 <p>Whereas four in 10 Nova Scotians are at risk of not having sufficient literacy skills to participate in the workplace; and</p>
 <p>Whereas 110,000 working-aged Nova Scotians do not have a high school diploma;</p>
@@ -176,7 +177,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><num title="2034">RESOLUTION NO. 2034</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, on behalf of the honourable member for Victoria-The Lakes, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#alfie.macleod"><num title="2034">RESOLUTION NO. 2034</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, on behalf of the honourable member for Victoria-The Lakes, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the <i>National Geographic Guide to the National Parks of Canada</i> book was launched in Baddeck on July 5, 2011; and</p>
 <p>Whereas chairperson Gilbert M. Grosvenor conducted the launch and is the great-grandson of Alexander Graham Bell, who co-founded National Geographic; and</p>
 <p>Whereas the <i>National Geographic Guide to the National Parks of Canada</i> is the first-ever complete guide to Canada's 42 national parks and four national marine conservation areas and the official guidebook for the 100<sup>th</sup> Anniversary of Parks Canada;</p>
@@ -188,7 +189,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Chebucto.</p></speech>
-        <speech by="#617adf75-30cf-451f-93ee-4271195fa60f"><num title="2035">RESOLUTION NO. 2035</num><from>MR. HOWARD EPSTEIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#howard.epstein"><num title="2035">RESOLUTION NO. 2035</num><from>MR. HOWARD EPSTEIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Joseph James "Joey" Skeir died on October 11, 2011, aged 67; and</p>
 <p>Whereas Joey Skeir was widely known and respected throughout the province, especially as an athlete, having held a Canadian record as a sprinter for the 100-yard dash, an accomplishment of his teen years when he was a member of the City of Halifax Track and Field Club; and</p>
 <p>Whereas Joey Skeir is survived by his mother Laura and his wife Mary Alice and numerous children, grandchildren and great-grandchildren;</p>
@@ -200,7 +201,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="2036">RESOLUTION NO. 2036</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="2036">RESOLUTION NO. 2036</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jenna Martin of Bridgewater is the 2011 National 400-metre Track and Field Champion, Canadian Track and Field Junior Athlete of the Year and is looking forward to heading to the 2012 Summer Olympics in London, England; and</p>
 <p>Whereas Jenna Martin has had a stellar career over her 23 years holding more than 50 Nova Scotia track and field sprint records, and is on the Canadian National Track and Field Team competing in the 400-metre and the 4 x 400-metres relay; and</p>
 <p>Whereas Jenna moved to Bridgetown, in the Valley, for her high school years in order to be trained by Charlie Scarro, and then successfully earned a Bachelor of Science degree from the University of Kentucky in May 2011 with hopes to use that education to work with people who want to be fit and healthy and eventually working with young children in developing them as track and field athletes;</p>
@@ -212,7 +213,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2037">RESOLUTION NO. 2037</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="2037">RESOLUTION NO. 2037</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's Power of Positive Change Award is an honour bestowed upon only a handful of school-aged individuals in the province each year; and</p>
 <p>Whereas Mitch Redden, who graduated from Avon View High School in June, led a group of his peers in the creation of Realfriends - a program that challenged Avon View students to break out of their comfortable cliques, put down their cellphones and engage in more personal, face-to-face interactions with people in their community; and</p>
 <p>Whereas this initiative netted Mitch a nomination and subsequent award as he was presented with the Power of Positive Change Award along with a $2,000 bursary as he heads to Saint Mary's University to study commerce;</p>
@@ -224,7 +225,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd">
+        <speech by="#mat.whynott">
           <from>MR. MAT WHYNOTT</from>
           <p>Mr. Speaker, I ask for permission to make an introduction, please.</p>
         </speech>
@@ -232,13 +233,13 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd">
+        <speech by="#mat.whynott">
           <from>MR. WHYNOTT</from>
           <p>Here tonight in our east gallery we have members of the Bantam Girls Softball Team, known as Sackville Surge. I'll be doing a resolution on them, but I will ask the team players to rise when I say their names: Rachel Cameron, Kourtney Rodgers, Bria Stone-Saunders, Katheryne LaDouceur, Sarah MacNeil, Nicole Raffel, Kaycee Webb, Olivia LeBlanc, Megan Henebury, Coach Wally Cameron, Assistant Coach Martin Raffel and Assistant Coach Kelly Webb, and of course all the other family members who are here as well. I'd ask the House to give them a warm welcome, please. (Applause)</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests in the gallery and hope you enjoy tonight's proceedings.</p>
 <p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2038">RESOLUTION NO. 2038</num><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2038">RESOLUTION NO. 2038</num><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas from September 16<sup>th</sup> to September 18<sup>th</sup>, the Metro Minor Softball Bantam Play-off Championships were held in Eastern Passage; and</p>
 <p>Whereas the Bantam Girls Softball Team, Sackville Surge, captured the gold medal by defeating the Mount Uniacke Mustangs by a score of 9-8; and</p>
 <p>Whereas the team, comprised of residents from Sackville and Hammonds Plains, went undefeated with a record of four wins and no losses;</p>
@@ -250,7 +251,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="2039">RESOLUTION NO. 2039</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="2039">RESOLUTION NO. 2039</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas East Preston resident Ross Simmonds graduated from St. Mary's University with a double major in Marketing and Human/Industrial Relations and while there served as vice president of the Marketing Society and received several business awards including the prestigious Krista Harris Fellowship to the Hamachi Business case scholarship; and</p>
 <p>Whereas Ross interned with the Canadian Broadcasting Corporation (CBC) and was subsequently hired to implement and execute a digital marketing plan for the corporation across the Maritimes; and</p>
 <p>Whereas noticing a shift in the industry, Ross started his own digital marketing company, targeting small to medium-sized businesses and most recently joined the team at the Halifax advertising agency, Colour;</p>
@@ -262,7 +263,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><num title="2040">RESOLUTION NO. 2040</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, on behalf of the member for Victoria-The Lakes, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#alfie.macleod"><num title="2040">RESOLUTION NO. 2040</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, on behalf of the member for Victoria-The Lakes, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Cabot Junior-Senior High School, in Neil's Harbour, was awarded the Norman Connors Healthy School Award by the Cape Breton District Health Authority; and</p>
 <p>Whereas the award recognizes and supports schools in the district that promote healthy eating, active living, healthy growth, mental health, and personal safety and injury prevention; and</p>
 <p>Whereas Principal Barbara Costelo accepted a plaque and $1,000 donation to support the school's healthy living initiatives from former district chair Norm Connors;</p>
@@ -274,7 +275,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings North.</p></speech>
-        <speech by="#ad05a29e-2138-4e50-93c4-6d3af608c5f4"><num title="2041">RESOLUTION NO. 2041</num><from>MR. JIM MORTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jim.morton"><num title="2041">RESOLUTION NO. 2041</num><from>MR. JIM MORTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Meadowview is a small, vibrant community in Nova Scotia's beautiful Annapolis Valley; and</p>
 <p>Whereas more than 100 citizens of Meadowview served in Canada's Armed Forces during the Great War and World War II; and</p>
 <p>Whereas on November 11, 2011, Kings Branch No. 6 of the Royal Canadian Legion will honour Meadowview for its outstanding contribution to the welfare of Canada;</p>
@@ -286,7 +287,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Digby-Annapolis.</p></speech>
-        <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c"><num title="2042">RESOLUTION NO. 2042</num><from>MR. HAROLD THERIAULT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#harold.theriault"><num title="2042">RESOLUTION NO. 2042</num><from>MR. HAROLD THERIAULT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year, many teens across the province receive safety training in babysitting courses; and</p>
 <p>Whereas after her father sustained a severed-artery injury, Digby teen Brandi Amero used this training to help save her father's life; and</p>
 <p>Whereas her quick and calm thinking to wrap her hands around his to help stop the bleeding has earned Brandi the St. John Ambulance Life Saving Award;</p>
@@ -298,7 +299,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="2043">RESOLUTION NO. 2043</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="2043">RESOLUTION NO. 2043</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 2011 is the 240<sup>th</sup> Anniversary of the Upper Londonderry Pastoral Charge, the oldest pastoral charge in Canada and an area rife with history; and</p>
 <p>Whereas the area was settled by Acadians who had the first church where a resident priest held mass, thus giving the village of Masstown its name; and</p>
 <p>Whereas after the expulsion of the Acadians, the Reverend David Smith arrived from Scotland in 1771, to become the first permanently settled Presbyterian minister in Canada;</p>
@@ -310,7 +311,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2044">RESOLUTION NO. 2044</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2044">RESOLUTION NO. 2044</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas from November 3<sup>rd</sup> to 6<sup>th</sup>, Molson Canadian Nova Scotia Music Week 2011 was held in Yarmouth and this exciting event was capped off with an industry awards brunch and the NSLC Gala Awards Show; and</p>
 <p>Whereas Ryan Cook, an award winning singer/songwriter from Yarmouth was nominated for four Music Week awards including Male Artist Recording of the Year, Country and Bluegrass Recording of the Year, Recording of the Year and SOCAN Songwriter of the Year; and</p>
 <p>Whereas Ryan Cook won the Country and Bluegrass Recording of the Year for his critically acclaimed album, Peaks and Valleys;</p>
@@ -322,7 +323,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Glace Bay.</p></speech>
-        <speech by="#d6776846-b12b-4366-882f-9844bee20011"><num title="2045">RESOLUTION NO. 2045</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#geoff.maclellan"><num title="2045">RESOLUTION NO. 2045</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotians from across the province struggle every day to keep up with the rising costs of living in this province; and</p>
 <p>Whereas the NDP Government has only made life more difficult for Nova Scotians while allowing power rates to increase at alarming rates; and</p>
 <p>Whereas the NDP Government has been actively making life more expensive for Nova Scotians by hiking taxes and fees;</p>
@@ -333,7 +334,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="2046">RESOLUTION NO. 2046</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="2046">RESOLUTION NO. 2046</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Bay of Fundy is the only remaining natural wonder in Canada competing in the global campaign to become one of the New 7 Wonders of Nature; and</p>
 <p>Whereas best known for the highest tides in the world, the Bay of Fundy has been compared in marine biodiversity to the Amazon rainforest; and</p>
 <p>Whereas by 7:00 a.m. on Friday, November 11, 2011 the last votes will be cast in a contest that has already raised the profile and future fortunes of the Bay of Fundy;</p>
@@ -345,7 +346,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="2047">RESOLUTION NO. 2047</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="2047">RESOLUTION NO. 2047</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Canadian Association of Communicators in Education is a national association of professionals committed to encouraging and enhancing excellence in communications in education; and</p>
 <p>Whereas by recognizing projects that demonstrate excellence in research, planning, execution and evaluation, the Canadian Association of Communicators in Education hopes to encourage ongoing and future effectiveness in educational communications; and</p>
 <p>Whereas the Canadian Association of Communicators in Education Bravo! Award of Merit was presented to Strait Regional School Board for a communications project in school Web site development during the 2011 annual conference held in Halifax from October 2<sup>nd</sup> to 4<sup>th</sup>;</p>
@@ -357,7 +358,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2048">RESOLUTION NO. 2048</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2048">RESOLUTION NO. 2048</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on August 22, 2011, Dr. Don Westby, of Weymouth, along with family and friends, participated in their annual 34-kilometre walk from the Weymouth Medical Clinic to the Tim Hortons in Meteghan; and</p>
 <p>Whereas the first walk was with Dr. Don's daughter, Erin, a father/daughter bonding time walk, and it was at Erin's suggestion that they use future walks to raise money for charity; and</p>
 <p>Whereas the team raised $3,500 this year for The Lodge that Gives, in Halifax, a home away from home for patients receiving cancer treatments;</p>
@@ -369,7 +370,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="2049">RESOLUTION NO. 2049</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="2049">RESOLUTION NO. 2049</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Frances Hunter of Dartmouth North has devoted many years of volunteering, and recently part-time paid work, at the North Dartmouth Outreach Resource Centre - never leaving anyone without food, and often returning to pack and provide food after hours; and</p>
 <p>Whereas following over 40 years of knitting and crocheting for various charity organizations, Frances continued this work after breaking both wrists in 1992, founding Mittens for Schools and Afghans for Seniors, also knitting hundreds of small puppet bears for the IWK Children's Hospital, and organizing the annual collection of teddy bears for the Halifax Regional Police to use in their work; and</p>
 <p>Whereas in spite of being diagnosed with macular degeneration in 2010, Frances continues this work, her involvement with Neighbourhood Watch, the Northwood Hospice Program, the Independent Order of Oddfellows and Rebekahs, the Ladies Auxiliary Patriarchs Militant, Eastern Star, and Stairs Memorial United Church, where she has served on the board for many years and served on many committees;</p>
@@ -381,7 +382,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Digby-Annapolis.</p></speech>
-        <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c"><num title="2050">RESOLUTION NO. 2050</num><from>MR. HAROLD THERIAULT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#harold.theriault"><num title="2050">RESOLUTION NO. 2050</num><from>MR. HAROLD THERIAULT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Digby's 7<sup>th</sup> Annual Wharf Rat Rally was held this year from August 31<sup>st</sup> to September 5<sup>th</sup>; and</p>
 <p>Whereas the Wharf Rat Rally is one of Atlantic Canada's largest motorcycle rallies, bringing in over 23,000 motorcycles and 80,000 visitors to Digby; and</p>
 <p>Whereas this year's rally has been deemed the best rally yet;</p>
@@ -393,7 +394,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2051">RESOLUTION NO. 2051</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2051">RESOLUTION NO. 2051</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas from November 3<sup>rd</sup> to November 6<sup>th</sup>, Molson Canadian Nova Scotia Music Week 2011 was held in Yarmouth, and this exciting event was capped off with an industry awards brunch and the NSLC Gala Awards Show; and</p>
 <p>Whereas Yarmouth Metal, formed in the summer of 2010 by Yarmouth's Nick Dugas and Jeff Clairmont, was nominated for awards; and</p>
 <p>Whereas Yarmouth Metal's Nick Dugas was nominated for Promoter of the Year, and Yarmouth's Jeff Clairmont was nominated for Visual Artist of the Year;</p>
@@ -405,7 +406,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2052">RESOLUTION NO. 2052</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2052">RESOLUTION NO. 2052</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Catherine Tufts of Clare has been selected on the Team Atlantic U-18 female hockey team that will play in the national tournament on November 2<sup>nd</sup> to 6<sup>th</sup> in Saguenay, Quebec; and</p>
 <p>Whereas Catherine's years of hard work and dedication to the game have earned her this opportunity; and</p>
 <p>Whereas Catherine this year is attending school and playing hockey at the Ontario Hockey Academy, a prep school in Cornwall, Ontario;</p>
@@ -417,7 +418,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton South.</p></speech>
-        <speech by="#634a3222-6546-4aa7-ae2f-9f541e6d1f6c"><num title="2053">RESOLUTION NO. 2053</num><from>HON. MANNING MACDONALD</from><p>Mr. Speaker, on behalf of the honourable member for Bedford-Birch Cove, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#manning.macdonald"><num title="2053">RESOLUTION NO. 2053</num><from>HON. MANNING MACDONALD</from><p>Mr. Speaker, on behalf of the honourable member for Bedford-Birch Cove, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Canadian schools need excellent geography programs and support from government, the wider community, and companies like ESRI Canada to ensure all young people know more about the world they live in and will inherit; and</p>
 <p>Whereas it should be noted that the Canadian Council for Geographic Education was conceived and launched here in Nova Scotia in 1993; and</p>
 <p>Whereas the Royal Canadian Geographical Society declares this week, November 14 to 18, 2011, as Geography Awareness Week and declares November 16<sup>th</sup> GIS Day;</p>
@@ -435,7 +436,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -446,7 +447,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call Bill No. 73.</p>
         </speech>
@@ -456,7 +457,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Atlantic.</p>
           </speech>
-          <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00"><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, it gives me great pleasure to rise to speak on this bill today, as it answers a number of questions which have plagued me since the years of my own children's days in school. I know that almost all members of this Chamber will have faced many of the same problems when their own children were in school.</p>
+          <speech by="#michele.raymond"><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, it gives me great pleasure to rise to speak on this bill today, as it answers a number of questions which have plagued me since the years of my own children's days in school. I know that almost all members of this Chamber will have faced many of the same problems when their own children were in school.</p>
 <p>The schools, as we know, are very much at the heart of any community today. When our children are able to reach a school within their own community with safety and in a degree of comfort, all of us benefit from that.</p>
 <p>I speak particularly from the point of view of Halifax Atlantic, because of the schools which find themselves in the more rural parts of what is, in fact, a large regional municipality. Those are the schools on the Old Sambro Road and further on the Purcell's Cove Road. These do not have 50-kilometre per hour speed limits, and yet there are children walking to these schools without the benefit of sidewalks and, hitherto, without the benefit of reduced speed limits.</p>
 <p>I think this is a very significant move, as small as it may seem to be, toward a healthier population. We know there are escalating rates of childhood obesity in Canada, and specifically in Nova Scotia, where at least 25 per cent of children between the ages of two to 17 years are deemed to be obese as of 2004, and where obesity rates in that age group have been increasing between 40 and 50 per cent, at the same time that hours of television and screen time are increasing very significantly. Very few are, in fact, meeting the recommended 90 minutes of activity per day, and since organized sports can be both financially and logistically difficult for many families to arrange for their children, the ability to walk to school is an important component of a child's physical activity.</p>
@@ -471,7 +472,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Citadel-Sable Island.</p>
           </speech>
-          <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, it is a pleasure to get up today and speak to this bill. I know that it was long before I entered politics that I first started hearing about the issues relating to school zones and driving in school zones. I'm delighted that it is the member for Halifax Atlantic speaking because she might recall that it was now probably around 15 years ago that I chaired a committee at John W. MacLeod school that was aimed precisely at this topic.</p>
+          <speech by="#leonard.preyra"><from>MR. LEONARD PREYRA</from><p>Mr. Speaker, it is a pleasure to get up today and speak to this bill. I know that it was long before I entered politics that I first started hearing about the issues relating to school zones and driving in school zones. I'm delighted that it is the member for Halifax Atlantic speaking because she might recall that it was now probably around 15 years ago that I chaired a committee at John W. MacLeod school that was aimed precisely at this topic.</p>
 <p>Mr. Speaker, at the time the parents on Purcell's Cove Road were concerned about the speed of people driving through. It was an open road and it very much gave the sense that it was a country road - people parked on the shoulders and young children were darting out between cars, cars were parked too close to the crosswalk zone, and there were bushes that were overgrown and people just could not see. It was really just an accident waiting to happen.</p>
 <p>At the time, some of the residents in the neighbourhood thought that cutting down the speed of traffic would somehow slow them down. At the time, the parents of the home and school association and the school itself felt that it was important and the Halifax Regional Municipality traffic department co-operated and, in fact, reduced the speed zone to the lowest possible that they could reduce it. They changed signage in the crosswalk zone, they changed parking regulations around the school, and it did reduce some of the clutter around the schools and some of the dangerous situations that were created.</p>
 <p>This legislation has been a long time coming. I know that over the years I have received an awful lot of mail from parents and educators saying that it's just too dangerous, especially in the inner city, where there's an awful lot of traffic and there are people taking shortcuts through neighbourhoods and there are very young children who walk to school. I'm delighted that the Minister of Transportation and Infrastructure Renewal has taken those concerns to heart and had the courage to go ahead and introduce this legislation. It will be very much welcomed by the members in my constituency, it will be welcomed by children and educators everywhere, and keep our children safer.</p>
@@ -488,7 +489,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm pleased to rise this evening to speak on second reading for the bill before us, which is Bill No. 73, Safer School Zones Act. As we've been hearing from some of the previous speakers and from the minister on Friday, this bill will serve to lower the speed limit in school zones when children are present. I think it's really a good bill, and I'm very pleased to be able to get up to speak about it and to talk about the implications and the signal that this sends around the safety that we value for children in school zones.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm pleased to rise this evening to speak on second reading for the bill before us, which is Bill No. 73, Safer School Zones Act. As we've been hearing from some of the previous speakers and from the minister on Friday, this bill will serve to lower the speed limit in school zones when children are present. I think it's really a good bill, and I'm very pleased to be able to get up to speak about it and to talk about the implications and the signal that this sends around the safety that we value for children in school zones.</p>
 <p>As somebody who actually learned to drive in Alberta, I can say that this has been the rule in Alberta for many years - not just in school zones, but in playground zones as well. The people there do accept it and understand that it's simply the way it has been. People understand that it is enforced, and it is acknowledged and respected. People do drive slowly when children are present.</p>
 <p>This bill does take the speed limit down to 30 kilometres per hour, and I know there had been some talk about, if this was to come in, whether it should go to 30 kilometres or whether 40 kilometres was more appropriate. The minister, I think quite rightly, told us that he has had some people who have been a little bit growly about this - I think he used words to that effect - saying that they resented having to slow down.</p>
 <p>I think what we need to keep foremost in our minds and at the front of our minds is that this bill is about safety for children in school zones, and the evidence is very clear. I think if we need any reason to go forward with this bill, it's included in one of the letters that we've received from the Ecology Action Centre which cited the studies that show that if a pedestrian is hit by a car going 50 kilometres per hour - which is the current speed limit in a school zone - there is an 80 per cent chance of serious injury or death. That's an 80 per cent chance, Mr. Speaker, whereas if the same pedestrian were hit by a car that's travelling at 30 kilometres per hour, the risk of serious injury or death goes down to 5 per cent.</p>
@@ -502,7 +503,7 @@
 <p>If you talk to parents, they are usually particularly concerned that the children are walking alone or that they might be vulnerable if they are on the street in just ones or twos. This way you have a larger group coming together and there is safety in numbers. I think that's something that a lot of the schools may be looking at in the city as well, the walking school bus. They also have certain times of the year when they do special initiatives to encourage kids to walk and they give them a card called a WOW card. If they've walked to school it will get stamped by the teacher. WOW stands for We Often Walk (or Wheel). If they are walking to school they get their names in draws and they get a little bit of thank you and excitement around being one of the active children who walked to school, Mr. Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. There seems to be a lot of chatter in the Chamber tonight. I'm having trouble hearing the honourable member for Halifax Clayton Park so I'd remind all the members to please take your conversations outside the Chamber so we can listen to the member. Thank you.</p>
 <p>The honourable member for Halifax Clayton Park has the floor.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you so much, Mr. Speaker, that was very kind of you to draw the attention of the members back to our subject at hand, the bill we are discussing that deals with safety around school zones.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you so much, Mr. Speaker, that was very kind of you to draw the attention of the members back to our subject at hand, the bill we are discussing that deals with safety around school zones.</p>
 <p>Mr. Speaker, a number of years ago I introduced a bill into the House that was designed to help people behave better and drive more safely in school zones. It called for the doubling of fines if you are speeding in a school zone. In fact, I'd like to see it doubling when they are breaking any of the rules in schools, again if you are parked in areas that are unsafe, if you are blocking driveways or double-parked, it really is dangerous to see the children dashing out and crossing where there is no crosswalk because their parents are dropping them off there, which we really have to work to avoid.</p>
 <p>The government did not pass my Private Member's Bill, at the time, but they did introduce a bill themselves. At that time the Honourable Ronald Russell was the Minister of Transportation and the bill was passed. In fact, my colleague, the member for Clare, introduced a similar bill, that if you were speeding in construction zones that would also be made a doubling of fines. That makes sense because it's another signal that you can send to drivers about why these areas are particularly vulnerable, why pedestrians are at risk and why you should drive more carefully.</p>
 <p>I was very pleased to have been able to introduce that bill at the time and to see it pass and move forward, even if it wasn't exactly my bill. That's a common thing in Opposition and we understand that sometimes you can put a good idea forward and it may not be our own bill that is ultimately adopted, but I think we can take pride in the fact that it does move forward.</p>
@@ -525,7 +526,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Kings West.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Thank you Mr. Speaker, I'm pleased to rise in my place this evening and join in the debate about Bill No. 73, Safer School Zones Act. I think this is a bill that, while having some elements of controversy about it, is also one that does need to be implemented. I would like to first say that as a former teacher and school administrator, unfortunately I was called upon, twice, to provide first aid and assistance to two of our students who were hit by a car in front of our school, West Kings District High in Auburn, Nova Scotia. This is a road where there is a 50-kilometre posting currently, but being Highway No. 1 it's not likely to change.</p>
+          <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Thank you Mr. Speaker, I'm pleased to rise in my place this evening and join in the debate about Bill No. 73, Safer School Zones Act. I think this is a bill that, while having some elements of controversy about it, is also one that does need to be implemented. I would like to first say that as a former teacher and school administrator, unfortunately I was called upon, twice, to provide first aid and assistance to two of our students who were hit by a car in front of our school, West Kings District High in Auburn, Nova Scotia. This is a road where there is a 50-kilometre posting currently, but being Highway No. 1 it's not likely to change.</p>
 <p>It does bring me back to that time when a student can take a quick dart from their walking on the side of the road and be immediately in front of a passing vehicle. In both cases the students were injured but, fortunately, not severely - again, the drivers were in compliance with the posted speed.</p>
 <p>We know that especially in our urban areas, schools have tremendous amounts of traffic and on any given day we can notice vehicles that are going above the posted speed limit. This is where the minister and the government, they are taking a look at what has happened in three other jurisdictions across the country - British Columbia, Alberta, and our neighbour province New Brunswick - and are seeing that this is the right course of action.</p>
 <p>I think when it comes to the safety of our school children, all members of this House are in accord with taking strong measures to ensure that safety. As has already been talked about this evening, two bills that we have brought forward - one by the member for Halifax Clayton Park, which pushed government to double the fines for drivers who speed in a school zone, as well as the member for Clare introduced legislation which was passed in the House that doubled the fines for speeding in a construction zone - so we have used the theme of safety as a major goal when it comes to how we look at the movement of people through vehicular traffic in the province.</p>
@@ -544,13 +545,13 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Deputy Premier.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I'm rising to close debate on behalf of the Minister of Transportation and Infrastructure Renewal.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I'm rising to close debate on behalf of the Minister of Transportation and Infrastructure Renewal.</p>
 <p>First of all, I'd like to thank the members for their intervention. I now move second reading of Bill No. 73.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 73. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, that concludes the government's business for the day. I move that the House do now rise to meet again on the morrow from the hours of 2:00 p.m. to 6:00 p.m. The order of business, after the daily routine, is we will deal with Bill Nos. 76, 78, 80 and 81.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, that concludes the government's business for the day. I move that the House do now rise to meet again on the morrow from the hours of 2:00 p.m. to 6:00 p.m. The order of business, after the daily routine, is we will deal with Bill Nos. 76, 78, 80 and 81.</p>
 <p>Mr. Speaker, I move that the House do now rise.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House now rise to meet again tomorrow at the hour of 2:00 p.m.</p>
 <p>Is it agreed?</p>
@@ -564,92 +565,92 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2054">RESOLUTION NO. 2054</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2054">RESOLUTION NO. 2054</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Ashton Bremner of Sackville plays softball at the Bantam level on the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Ashton Bremner and her team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Ashton Bremner of Sackville and her team, the Sackville Surge Bantam Girls, who were undefeated at the Metro Minor Softball Bantam Playoff Championships, and wish Ashton and her team future success.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2055">RESOLUTION NO. 2055</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2055">RESOLUTION NO. 2055</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Kourtney Rodgers of Sackville plays softball at the Bantam level on the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Kourtney Rodgers and her team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Kourtney Rodgers of Sackville and her team, the Sackville Surge Bantam Girls, who were undefeated at the Metro Minor Softball Bantam Playoff Championships, and wish Kourtney and her team future success.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2056">RESOLUTION NO. 2056</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2056">RESOLUTION NO. 2056</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Martin Raffel of Sackville is a coach for the Bantam level of the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Martin Raffel and his team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate coach Martin Raffel of Sackville and his team, the Sackville Surge Bantam Girls, who competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage, and wish him and his team future success.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2057">RESOLUTION NO. 2057</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2057">RESOLUTION NO. 2057</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nicole Raffel of Sackville plays softball at the Bantam level on the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Nicole Raffel and her team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Nicole Raffel of Sackville and her team, the Sackville Surge Bantam Girls, who competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16<sup>th</sup> to 18<sup>th</sup>, where they were undefeated with four wins and zero losses, taking the gold medal, and wish Nicole and her team future success.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2058">RESOLUTION NO. 2058</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2058">RESOLUTION NO. 2058</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Rachel Cameron of Sackville plays softball at the Bantam level on the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Rachel Cameron and her team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Rachel Cameron of Sackville and her team, the Sackville Surge Bantam Girls, who competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16<sup>th</sup> to 18<sup>th</sup>, where they were undefeated with four wins and zero losses, taking the gold medal, and wish Rachel and her team future success.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2059">RESOLUTION NO. 2059</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2059">RESOLUTION NO. 2059</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Wally Cameron of Sackville is a coach for the Bantam level of the Sackville Surge girls softball team; and</p>
 <p>Whereas the Sackville Surge Bantam Team competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage from September 16 to 18, 2011; and</p>
 <p>Whereas Wally Cameron and his team, the Sackville Surge Bantam Girls, were undefeated, with four wins and zero losses, and took home the gold medal;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Wally Cameron of Sackville and his team, the Sackville Surge Bantam Girls, who competed in the Metro Minor Softball Bantam Playoff Championships held in Eastern Passage, and wish him and his team future success.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2060">RESOLUTION NO. 2060</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2060">RESOLUTION NO. 2060</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Bailey Bent is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Bailey Bent and his teammates stepped up to the plate with heart, soul and determination even though they were rated the underdogs going into the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Bailey Bent and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2061">RESOLUTION NO. 2061</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2061">RESOLUTION NO. 2061</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Cohen Rennehan is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Cohen Rennehan and his teammates stepped up to the plate with heart, soul and determination even though they were rated the underdogs going into the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Cohen Rennehan and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2062">RESOLUTION NO. 2062</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2062">RESOLUTION NO. 2062</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Connor Goodick is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Connor Goodick was named Most Valuable Player for one of the games during the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Connor Goodick and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2063">RESOLUTION NO. 2063</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2063">RESOLUTION NO. 2063</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Kade Munroe is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Kade Munroe was one of the top hitters for the Shelburne Bashers during the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Kade Munroe and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2064">RESOLUTION NO. 2064</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2064">RESOLUTION NO. 2064</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Kobe Jacklyn is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Kobe Jacklyn also topped the tournament's skills competition with the most accurate throw;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Kobe Jacklyn and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2065">RESOLUTION NO. 2065</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2065">RESOLUTION NO. 2065</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Oliver Harding is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Oliver Harding, who was one of the top hitters for the Shelburne bashers during the tournament, was also named MVP for one of the games;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Oliver Harding and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2066">RESOLUTION NO. 2066</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2066">RESOLUTION NO. 2066</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Ryan O'Donnell is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Ryan O'Donnell scored the Bashers' first run in the championship game with a headfirst dive into home plate to beat the tag;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Ryan O'Donnell and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2067">RESOLUTION NO. 2067</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2067">RESOLUTION NO. 2067</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tanner Christie is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Tanner Christie and his teammates stepped up to the plate with heart, soul and determination even though they were rated the underdogs going into the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Tanner Christie and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2068">RESOLUTION NO. 2068</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2068">RESOLUTION NO. 2068</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tanner Swim is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth; and</p>
 <p>Whereas Tanner Swim was named Most Valuable Player for the championship game, which the Bashers won 3-1;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Tanner Swim and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2069">RESOLUTION NO. 2069</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2069">RESOLUTION NO. 2069</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Taylor Goodick is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth; and</p>
 <p>Whereas Taylor Goodick helped his team win the provincial championship by pitching five scoreless innings in the banner game, and was clocked as the fastest pitcher in the tournament skills competition;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Taylor Goodick and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2070">RESOLUTION NO. 2070</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2070">RESOLUTION NO. 2070</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Trevor Fehr is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth, which they won 3-1; and</p>
 <p>Whereas Trevor Fehr and his teammates stepped up to the plate with heart, soul and determination even though they were rated the underdogs going into the tournament;</p>
 <p>Therefore be it resolved that this House of Assembly congratulate Trevor Fehr and the Shelburne Bashers for winning the Nova Scotia Mosquito A Championship in Stellarton on August 28, 2011.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2071">RESOLUTION NO. 2071</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2071">RESOLUTION NO. 2071</num><from>Hon. Sterling Belliveau</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tyson Hartley is a member of the Shelburne Bashers minor baseball team that captured Baseball Nova Scotia's Mosquito A Championship banner in Stellarton on August 28, 2011; and</p>
 <p>Whereas the Shelburne Bashers were undefeated during the three-day tournament, posting wins over Kentville and North Sydney to advance to the championship game against Dartmouth; and</p>
 <p>Whereas Tyson Hartley's base hit in extra innings broke open the scoreless championship game, leading the Bashers to a 3-1 win over Dartmouth for the provincial title;</p>

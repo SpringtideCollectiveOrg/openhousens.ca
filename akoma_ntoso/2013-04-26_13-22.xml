@@ -4,35 +4,36 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="Hon. Michel Samson"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="Hon. Christopher d'Entremont"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
-        <TLCPerson id="f2518600-906f-48d6-8287-3ec3d599b72a" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
-        <TLCPerson id="002be249-bd3d-4105-8653-0fc8ddb6d4da" href="/ontology/person/ca-ns.gary.burrill" showAs="Mr. Gary Burrill"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="213d6bf9-1589-4472-bd07-34828a3b2db9" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="617adf75-30cf-451f-93ee-4271195fa60f" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="graham.steele" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="marilyn.more" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="howard.epstein" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="gary.burrill" href="/ontology/person/ca-ns.gary.burrill" showAs="Mr. Gary Burrill"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="Hon. Michel Samson"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 26 April 2013</docTitle>
       <docNumber>13-22</docNumber>
       <docDate date="2013-04-26">Friday, April 26, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13apr26/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -45,7 +46,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Colchester North.</p>
         </speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I rise today to table a petition, the operative clause being:</p>
+        <speech by="#karen.casey"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I rise today to table a petition, the operative clause being:</p>
 <blockquote>"The following users and residents of the 256 Highway are asking the government to provide additional funding to complete the approved capital project on Route 256 so that the entire length of the Route be completed in the 2013 Construction Season &#x2026;"</blockquote>
 <p>Mr. Speaker, I have affixed my name to that petition.</p></speech>
         <speech by="" as="#speaker" status="undefined">
@@ -59,7 +60,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Fisheries and Aquaculture.</p>
         </speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="844">RESOLUTION NO. 844</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, on behalf of the Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="844">RESOLUTION NO. 844</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, on behalf of the Minister of Health and Wellness, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas National Medical Laboratory Week will be celebrated April 22<sup>nd</sup> to April 26<sup>th</sup>; and</p>
 <p>Whereas medical laboratory technology is the fastest-growing health care profession in Canada; and</p>
 <p>Whereas medical laboratory technologists conduct laboratory tests, which physicians and clinicians depend on to accurately diagnose and treat illness and to monitor patient health; and</p>
@@ -105,11 +106,11 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Halifax Fairview on an introduction.</p>
         </speech>
-        <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a"><from>HON. GRAHAM STEELE</from><p>Thank you. I'd like to draw the attention of the members of the House to the east gallery where members will see Mr. Arno Lehwald, who is a long-time constituent of mine, a very fine gentleman who also happens to be the father of one of our Pages, Keith Lehwald. Arno is immensely proud of Keith, as he should be. Keith was the top student in his year at Halifax West High School, but that's in the past and I heard this morning that Keith may be the top student in his year at Dalhousie Law School.</p>
+        <speech by="#graham.steele"><from>HON. GRAHAM STEELE</from><p>Thank you. I'd like to draw the attention of the members of the House to the east gallery where members will see Mr. Arno Lehwald, who is a long-time constituent of mine, a very fine gentleman who also happens to be the father of one of our Pages, Keith Lehwald. Arno is immensely proud of Keith, as he should be. Keith was the top student in his year at Halifax West High School, but that's in the past and I heard this morning that Keith may be the top student in his year at Dalhousie Law School.</p>
 <p>I would like to ask all members to find lots for Keith to do this morning so his father can see him in action, and I'd like all members to give Mr. Arno Lehwald a warm welcome to the House today. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all guests to the gallery this morning and hope they enjoy this morning's proceedings.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="845">RESOLUTION NO. 845</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="845">RESOLUTION NO. 845</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Bedford Volunteer Recognition reception annually recognizes the extensive efforts of the many volunteers who make Bedford a wonderful place in which to live; and</p>
 <p>Whereas Carolyn Crowell is a compassionate social justice advocate who works tirelessly at Bedford United Church to advance progressive causes; and</p>
 <p>Whereas Carolyn has held many leadership positions throughout the church, including chairperson of the Pastoral Care Team for 11 years, chair of the Inclusivity Team, co-leader of the Adult Study Group, and co-coordinator of the church elders, of which she is one, and she also advocated for Bedford United Church to become an affirming congregation and has volunteered with the Fort Sackville Foundation for many years as their secretary;</p>
@@ -121,7 +122,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="846">RESOLUTION NO. 846</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="846">RESOLUTION NO. 846</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Sunday Nova Scotia will join in the Day of Mourning to remember those who died, were injured, or became ill at work; and</p>
 <p>Whereas in 2012 more than 26,000 Nova Scotians were injured at work, and tragically, 32 Nova Scotians died; and</p>
 <p>Whereas the Day of Mourning is an opportunity for employees and employers to honour the lives lost on the job and to renew their commitment to improve health and safety in the workplace;</p>
@@ -133,7 +134,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="847">RESOLUTION NO. 847</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="847">RESOLUTION NO. 847</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Bedford Volunteer Recognition Reception annually recognizes the extensive efforts of the many volunteers who make Bedford a wonderful place in which to live; and</p>
 <p>Whereas Edmund Conway has been a devoted Bedford volunteer firefighter for 43 years and is described as the kind of man you can always count on, whether it is something that needs to be cleaned or repaired, a sick fireman visited, or any job that needs to be done; and</p>
 <p>Whereas Edmund has also volunteered with many other organizations like the Bedford Days Parade, the Christmas Santa Parade, the Prostate Cancer and Muscular Dystrophy associations, Bedford Baptist Church, and the Sackville Winter Carnival;</p>
@@ -145,7 +146,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="848">RESOLUTION NO. 848</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="848">RESOLUTION NO. 848</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Cape Breton Golden K and Eastlink TV have recognized the importance of the North Sydney Youth Inclusion Program with a significant donation of $10,000; and</p>
 <p>Whereas the program works with troubled kids, helping them with schoolwork, behaviour issues, and community consciousness, in addition to getting the kids involved in physical activities, sporting events, and emotional support; and</p>
 <p>Whereas these kids are the kids who need help, and a 67 per cent drop in the crime rate for this age group is proof that the help is working and needs to continue;</p>
@@ -157,7 +158,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="849">RESOLUTION NO. 849</num><from>HON. WAYNE GAUDET</from><p>Monsieur le Pr&#xE9;sident, par le pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#wayne.j.gaudet"><num title="849">RESOLUTION NO. 849</num><from>HON. WAYNE GAUDET</from><p>Monsieur le Pr&#xE9;sident, par le pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que la Caisse populaire de Clare joue un r&#xF4;le de premier plan dans le Relais pour la vie, une activit&#xE9; de pr&#xE9;l&#xE8;vement de fonds pour lutter contre la maladie du cancer; et</p>
 <p>Attendu que le gouvernement canadien reconnait des regroupements de b&#xE9;n&#xE9;vole qui contribuent de fa&#xE7;on exceptionnelle au bien-&#xEA;tre des familles et des communaut&#xE9;s; et</p>
 <p>Attendu que la Caisse populaire de Clare a m&#xE9;rit&#xE9; une reconnaissance sp&#xE9;ciale pour son b&#xE9;n&#xE9;volat pour la r&#xE9;gion Atlantique du Canada;</p>
@@ -175,7 +176,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="850">RESOLUTION NO. 850</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#christopher.a.dentremont"><num title="850">RESOLUTION NO. 850</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que chaque ann&#xE9;e, au mois de septembre le Resource Recovery Fund Board lance un concours pour les &#xE9;coles de grade P-12; et</p>
 <p>Attendu que ce programme encourage les &#xE9;l&#xE8;ves &#xE0; jouer un r&#xF4;le actif dans leur communaut&#xE9; &#xE0; promouvoir la r&#xE9;duction des d&#xE9;chets par le recyclage et le compostage; et</p>
 <p>Attendu que le gagnant de P-1 &#xE9;tait professeur Danielle Thibault de l'&#xC9;cole Pubnico-Ouest; le finaliste de grade 2-3 &#xE9;tait Autumn Atkinson de l'&#xC9;cole Plymouth, et le gagnant de grade 7-9 &#xE9;tait Marc LeBlanc, de l'&#xC9;cole secondaire de Par-En-Bas;</p>
@@ -193,7 +194,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="851">RESOLUTION NO. 851</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="851">RESOLUTION NO. 851</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 95 years ago today marks the passage of the Nova Scotia Franchise Act which gave women the right to vote for the first time; and</p>
 <p>Whereas the passage of that legislation came as the result of the courageous advocacy of Edith Archibald and understanding that the right to vote is a fundamental element in our democracy;</p>
 <p>Whereas Nova Scotia was the first province in Atlantic Canada to accept that a fully enfranchised population of men and women is a necessity so that our democracy functions properly;</p>
@@ -205,7 +206,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="852">RESOLUTION NO. 852</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="852">RESOLUTION NO. 852</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year Halifax Regional Municipality recognizes extraordinary contributions of individuals and groups who volunteer their time to make our communities better; and</p>
 <p>Whereas Alex Davis has been a patient and family adviser volunteering on multiple councils including the IWK Youth Advisory Council, IWK Family Leadership Council, IWK Emergency Department Family Advisory Council, along with speaking at several conferences helping to empower youth to share their stories in the health care system and educate staff on how to work with youth, parents, and families; and</p>
 <p>Whereas on April 17, 2013, Alex received an HRM Volunteer Award for all his efforts to make a difference in his community and province;</p>
@@ -217,7 +218,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="853">RESOLUTION NO. 853</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="853">RESOLUTION NO. 853</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Christmas season doesn't really get rolling on the Northside until the annual North City Firemen's Christmas Parade takes place; and</p>
 <p>Whereas thousands of residents turn out to watch the lighted floats wind their way through the streets of North Sydney; and</p>
 <p>Whereas Chief Lloyd McIntosh and his department are responsible for a multitude of smiling children and adults being filled with Christmas cheer;</p>
@@ -229,7 +230,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="854">RESOLUTION NO. 854</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="854">RESOLUTION NO. 854</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas volunteers truly are the heart of our community and give freely of their time to help organizations throughout our community; and</p>
 <p>Whereas on May 8, 2013, the Halifax Mainland North Volunteer Recognition Committee will be holding their milestone 10<sup>th</sup> Annual Community Champion Awards Dinner to recognize outstanding volunteers who consistently dedicate their time and talents to improving the lives of others; and</p>
 <p>Whereas Stewart Whalen of Clayton Park West has been nominated for this award by Prostate Cancer Canada in recognition of his commitment to help raise funds through events such as the Stick It To Prostate Cancer Ball Hockey Tournament and the Annual Father's Day Walk/Run, as well as his volunteer work for the VON, Camp Hill Veterans Hospital, and Abbie Lane;</p>
@@ -241,7 +242,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="855">RESOLUTION NO. 855</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="855">RESOLUTION NO. 855</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas tomorrow is Daffodil Day, a special day which is part of the Canadian Cancer Society's annual Daffodil Month; and</p>
 <p>Whereas on this special day we show our support for those living with cancer and remember those we have lost; and</p>
 <p>Whereas the Cancer Society urges people across the country to renew their commitment to fight back against cancer and someday find a cure for this disease;</p>
@@ -259,7 +260,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -270,7 +271,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call Bill No. 61.</p>
         </speech>
@@ -280,7 +281,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister responsible for the Advisory Council on the Status of Women Act.</p>
           </speech>
-          <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9">
+          <speech by="#marilyn.more">
             <from>HON. MARILYN MORE</from>
             <p>Mr. Speaker, I wonder if I might be permitted a brief introduction?</p>
           </speech>
@@ -288,13 +289,13 @@
             <from>MR. SPEAKER</from>
             <p>Most certainly.</p>
           </speech>
-          <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9">
+          <speech by="#marilyn.more">
             <from>MS. MORE</from>
             <p>Thank you. In the east gallery today we have Stephanie MacInnis-Langley, who is the executive director of the Advisory Council on the Status of Women, and Jeannie Flynn who works at the council office as well. I would ask them to stand and receive the appreciation of the House for all their work on these issues. (Applause)</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this morning's proceedings.</p>
 <p>The honourable Minister responsible for the Advisory Council on the Status of Women Act.</p></speech>
-          <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9"><from>HON. MARILYN MORE</from><p>Thank you, Mr. Speaker. We're all aware that a very tragic incident in our province has touched a chord with every Nova Scotian. Over the last number of years, a number of these incidents have happened, and there's always been a certain level of response and trying to improve the situation. But this last one, I would have to say, created an anger and frustration and a general collective will that we need to be a better province in terms of how we look after one another. Nova Scotians want us to work together to prevent situations like this from happening in the future.</p>
+          <speech by="#marilyn.more"><from>HON. MARILYN MORE</from><p>Thank you, Mr. Speaker. We're all aware that a very tragic incident in our province has touched a chord with every Nova Scotian. Over the last number of years, a number of these incidents have happened, and there's always been a certain level of response and trying to improve the situation. But this last one, I would have to say, created an anger and frustration and a general collective will that we need to be a better province in terms of how we look after one another. Nova Scotians want us to work together to prevent situations like this from happening in the future.</p>
 <p>I know that every member of this House shares that view. We may be politicians, we may be leaders in our communities, but we're parents and grandparents first, and we can just imagine some of the pain and suffering that families go through when a child is bullied or cyberbullied or loses their life in this province. I certainly want to start off by expressing the sympathy of all members of this House to the Parsons family for the very unfortunate death of their daughter Rehtaeh.</p>
 <p>So the province is not going to defend - we will not defend - the status quo. Like every other level of government, like every other organization, like every individual in this province, we are committed to making the changes that are needed. We understand that there's a leadership role that government needs to provide. We are going to work to ensure that Nova Scotians who need help know where to get it, and that over the years we improve the level of supports we have for families in crisis in this province.</p>
 <p>I want to pay credit to Professor Wayne MacKay, who was the chair of the Task Force on Bullying and Cyberbullying; the members of the task force; and the tremendous group of people who worked behind the scenes to provide a lot of the research information, to set up the meetings, and to help prepare the report. That report is foundational in terms of what we're doing here in the Province of Nova Scotia, but has a lot of good information that I know will be shared and has been shared across jurisdictions of Canada.</p>
@@ -308,7 +309,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Colchester North.</p>
           </speech>
-          <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I'm pleased to rise today and speak to Bill No. 61, an Act to Address and Prevent Cyberbullying. I will repeat in my opening comments the commitment that was made in response to the ministerial statement, the commitment that was made by the Leader of the Official Opposition and by the entire Liberal caucus to support and work with the minister as she has assumed a huge responsibility. The minister has taken a file from Education and Early Childhood Development, she has taken a file from Justice, and she has been given the responsibility to oversee the workings of both of those.</p>
+          <speech by="#karen.casey"><from>HON. KAREN CASEY</from><p>Mr. Speaker, I'm pleased to rise today and speak to Bill No. 61, an Act to Address and Prevent Cyberbullying. I will repeat in my opening comments the commitment that was made in response to the ministerial statement, the commitment that was made by the Leader of the Official Opposition and by the entire Liberal caucus to support and work with the minister as she has assumed a huge responsibility. The minister has taken a file from Education and Early Childhood Development, she has taken a file from Justice, and she has been given the responsibility to oversee the workings of both of those.</p>
 <p>I do sincerely - I've done it privately but I want to do it publicly - thank the minister for assuming that responsibility and again reiterate our commitment to work with her on that project or on that assignment. (Applause)</p>
 <p>I would also like to say to all members of the House and to all Nova Scotians that it is truly tragic and unfortunate that these kinds of bills have to come forward, as a result of someone else's tragedy and at somebody else's expense. I guess it's an indication that, perhaps, we are more reactive than proactive but we all do extend our sympathies to all families, not just one family but to all families, who have experienced a tragedy as a result of bullying or cyberbullying.</p>
 <p>We recognize that there are many things that come into play, and bringing Education and Early Childhood Development and Justice together to look at a solution is trying to cover all of those aspects that do impact on our young people's lives. Those of us who have been involved in working with young people all of our careers, in whatever profession we have chosen, recognize that the introduction of social media and the lack of controls in social media have translated, obviously, into easy, quick communication, but they've also provided a wonderful opportunity for those who wish to be malicious and cruel and evil. They are able to do that with the protection of their own privacy but not protecting and respecting the privacy of others.</p>
@@ -325,7 +326,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. Order. The honourable member for Colchester North has the floor.</p>
           </speech>
-          <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>MS. CASEY</from><p>Thank you, Mr. Speaker. We had an opportunity 15 months ago for the Minister of Justice to fly up to Ottawa and start those conversations, but 15 months have passed and nothing happened. Now, because we are garnering international attention, we're taking some steps. (Interruptions)</p>
+          <speech by="#karen.casey"><from>MS. CASEY</from><p>Thank you, Mr. Speaker. We had an opportunity 15 months ago for the Minister of Justice to fly up to Ottawa and start those conversations, but 15 months have passed and nothing happened. Now, because we are garnering international attention, we're taking some steps. (Interruptions)</p>
 <p>Mr. Speaker, some of the people who have so much to say have never been in a position to do anything, and when you are in that position you do the best you can. When you get a recommendation from your own task force which says to contact the people in Ottawa and start talking, that doesn't take much money - it doesn't take any money, but it does take somebody who cares. It does take somebody who cares and I believe that all members in this Legislature care and if they could put partisan politics aside, sometimes there would be some action.</p>
 <p>We also know, Mr. Speaker, on the task force there were members who had expertise in their own field. One of the recommendations that came out of that task force was to have the ability for service providers to discontinue the cellphone account if it had been found that there had been inappropriate use of that account. The people who are on the task force from the communications side and from service providers knew that could happen and it came as a recommendation, it came as Recommendation 42, I believe. Again, that would not have cost one red cent but there could have been something in the bills that were introduced in April and I think again in October and in the amendments that came after both of those bills that spoke to that.</p>
 <p>But those bills were silent on that. Now, 14, 15 months later we see that being addressed and we welcome that. Our issue is why did we allow that time to pass? Why did we allow our young people to be caught up in this social net for the last 14, 15 months and have no place where they could reach out? I know that the minister has extended an invitation for Leaders of the other Parties to meet with her and I know that our Leader has done that. I encourage that and I thank the minister for providing that opportunity because it is an issue for all of us.</p>
@@ -345,7 +346,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Progressive Conservative Party.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, this has been a very sad time in our province in Nova Scotia in the last few weeks, in particular, as all Nova Scotians have followed the tragic circumstances around the death of Rehtaeh Parsons. It's a sad time in all communities of the province. It's a reminder that when one family suffers as tragically as the Parsons family has suffered, all of us in the Nova Scotia family suffer as well.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, this has been a very sad time in our province in Nova Scotia in the last few weeks, in particular, as all Nova Scotians have followed the tragic circumstances around the death of Rehtaeh Parsons. It's a sad time in all communities of the province. It's a reminder that when one family suffers as tragically as the Parsons family has suffered, all of us in the Nova Scotia family suffer as well.</p>
 <p>It is one of the great sadnesses of the province that these things happen but it is also one of our strengths that we draw on in tough times, that we do feel that same sense of family when any one Nova Scotia family goes through such a big tragedy.</p>
 <p>Mr. Speaker, I can tell you that same effect happens in community after community, time after time. Last year in my own constituency of Cumberland South, in the Town of Parrsboro, the Brown family suffered the same tragedy that too many families have been suffering, when their 17-year-old daughter, Courtney Brown, having been bullied on both the school grounds and town property, and then in her own home through cyberbullying, came to the same sad conclusion as Rehtaeh and too many others. When young people - bullied as they are, harassed as they are, assaulted as they are, sexually and physically - finally come to that awful point where they feel there is nowhere else to turn and then we see what happens.</p>
 <p>Mr. Speaker, the most important first thing we should all say, over and over, to young people: there is always one more place to turn, there is always somewhere to go for help. There are your parents, there is your teacher and your principal; there are important mental health services, important sexual health services and important counselling services that are always there.</p>
@@ -378,17 +379,17 @@
             <from>MR. SPEAKER</from>
             <p>Thank you, member. The honourable Minister of Finance on a short introduction.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>I will make it very short. Mr. Speaker.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>I will make it very short. Mr. Speaker.</p>
 <p>We have a lot of very important guests here today, who will be introduced in a moment, but I would like to introduce one member of the visiting party who is a young man who lives in my constituency, and his dad is well known to members of the government side, for sure. I would ask Dash Hebb if he would stand and receive the warm welcome of the House. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Chebucto on a longer introduction.</p>
           </speech>
-          <speech by="#617adf75-30cf-451f-93ee-4271195fa60f"><from>MR. HOWARD EPSTEIN</from><p>The young man, Dashiell Hebb, is part of a larger group who come to us from St. Catherine's School. They are a Grade 3 group; there are 34 students. St. Catherine's School is a French immersion school located in my constituency.</p>
+          <speech by="#howard.epstein"><from>MR. HOWARD EPSTEIN</from><p>The young man, Dashiell Hebb, is part of a larger group who come to us from St. Catherine's School. They are a Grade 3 group; there are 34 students. St. Catherine's School is a French immersion school located in my constituency.</p>
 <p>The group is accompanied today by their teacher, Jacky O'Leary, who in fact is a former Page from the House, and with various parents. With them: Rob Zinck, Carolyn Lowe, Brian MacIntyre, Lisa Jacobs, Kristi Wenaus, Gail DeAdder, Gina Jones, and Fiona Martin - all attending upon a group of 34 students, whose first names I will call. We have present with us: Noah, Bridget, Ella, Dashiell whom we have already heard of, Ondreia, Sophie, Surya, Frida, Rachael, Carmen, Andrew, Chase, Eli, Lori, Wiljo, Sasha, Keely, Spencer, Ethan, Sarina, Tamara, Talia, Willem, Branwen, Katie, Madison, Claire, Rebecca, Amy, James, Robbie, Phoenyx, Geordie, and Caleb. I welcome them all to the House, and I would invite members to show them your welcome. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery this morning and hope they enjoy this morning's proceedings.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Thank you, Mr. Speaker, and I too want to extend our welcome to the visitors in the gallery. Perhaps there's an aspiring politician or two up there in that class, and maybe someday they'll be down here.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Thank you, Mr. Speaker, and I too want to extend our welcome to the visitors in the gallery. Perhaps there's an aspiring politician or two up there in that class, and maybe someday they'll be down here.</p>
 <p>I was just speaking about the need to ensure that, with this modern tool of social media, with all the good it can do in getting information around to people and all the power it has that can also be extremely hurtful, we include in our school curriculum - we include for all Nova Scotians - information and teachings about what it means to be a citizen in the 21<sup>st</sup> Century, including the rights, responsibilities, duties, and liabilities that we incur when we exercise our citizenship on-line.</p>
 <p>I hope we get to that point quickly, because the MacKay Task Force actually did recommend - in Recommendation 64 and again in Recommendation 65 - that it's time, given all that has happened, to include in the school curriculum the ability to teach digital citizenship so that Nova Scotia can truly be a leader in bringing our province and our citizens, young and old, into the 21<sup>st</sup> Century. It is the duty of all citizens to use the resources that our great province has provided to them, to use the resources that through their own work, through their own efforts, they have amassed for themselves, for good and safety, for the benefit of their families and their communities and not to do harm. Now we know that there is a whole new way that harm can be done - tragic harm - through social media on-line.</p>
 <p>Just to drive that point home, all of us in this House at some point or other were newly-elected members. I speak from my own experience, but I'm sure it is true for all of us that as a newly-elected member, we remember that first time that we read a newspaper report on-line or some commentary on-line and then looked to see all the anonymous comments attached to it, particularly if it's a story that we ourselves are part of, as happens to members in this House from time to time, and how stung we felt the first time we read an anonymous posting about one of us, how stung we felt that someone who we don't even know - or we don't even know if we know - is saying hurtful, nasty things about us, as people. That has happened to all of us, I'm sure.</p>
@@ -400,7 +401,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Thank you so much, Madam Speaker. I think it's very important to get up and say a few words on Bill No. 61, which is known as the Cyber-safety Act. I think for the public who watch this at home, it's important to outline a little bit about what's in the bill.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Thank you so much, Madam Speaker. I think it's very important to get up and say a few words on Bill No. 61, which is known as the Cyber-safety Act. I think for the public who watch this at home, it's important to outline a little bit about what's in the bill.</p>
 <p>The bill is pretty extensive; it's quite a long piece of legislation, 20 pages of clauses and various penalties, and outlining some action that will be taken to try and combat cyberbullying in our province. I would hope, as well, to set a standard for other provinces to follow. I think that is important, that we have finally begun to put some teeth into the legislation that has been brought here. As the member for Colchester North mentioned, there have been two pieces of legislation brought here in the last couple of years in relation to other cases of cyberbullying and other issues that had certainly garnered provincial attention, if not national and international attention.</p>
 <p>I think the travesty here today is that it has taken such a lot of profound public input, and a petition that, the last time I looked, was at about 300,000 - it's probably many more names on that petition now - the one that asked and called for action on behalf of Rehtaeh Parsons. It takes that kind of public outcry, not only among Nova Scotians but a much broader area, to get us back to what's important here and to put some teeth into the legislation, that the government has had an opportunity to do. I wanted to mention in context, Madam Speaker, that we are, here in the Legislature, often highly partisan, and I know it has been mentioned. The member for Halifax Fairview mentioned it the other day, that we've become even more partisan in the last number of months, and perhaps years.</p>
 <p>The fact is, it is pretty ridiculous to suggest that the Liberals in the 1990s should have done something about this, or even that in the Progressive Conservative time, four years ago, we would have done something about this. Texting has become very, very widely used now. I think four years ago, I wasn't sending any texts; I don't believe children and others were sending texts. It was very new. Facebook is 2005. I think maybe the most highly advanced members of the Legislature were doing it because they lived in the United States at the time and they were more adept.</p>
@@ -449,7 +450,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Truro-Bible Hill.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Madam Speaker, in one way it gives me pleasure to rise today, as always, to speak in this House but it does not give me pleasure that it has to be about a bill that unfortunately we need in this society today - the Cyber-safety Act, or an Act to Address and Prevent Cyberbullying.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Madam Speaker, in one way it gives me pleasure to rise today, as always, to speak in this House but it does not give me pleasure that it has to be about a bill that unfortunately we need in this society today - the Cyber-safety Act, or an Act to Address and Prevent Cyberbullying.</p>
 <p>Madam Speaker, I've been listening this morning to many things that have been said in the House about this very urgent and important initiative and, to tell the truth, it saddens me that in some ways we're all dancing around the issue which is basically about abuse and about the dangers of people trying to have power over others, which seems to be so prevalent in this society today.</p>
 <p>Kids learn from adults, Madam Speaker, and I think that until the time comes when children see from our grown-up actions that bullying and abuse in all its many forms is not an acceptable form of communication in our society, nothing is going to change. I think children see it from a very early age on, from the television shows that they watch to the videos that they play where they see people killing and hurting each other, and the movies and television shows that they watch; in fact by the time a child is about eight years old they've already seen 5,000 killings of various sorts. To me this is not acceptable, this is not something that I would like to see our children taught. And when we are surprised at children's action in the schoolyard or with each other, I really have to shake my head and say, well where do you think they learned it?</p>
 <p>When you read the newspapers and you see people bullying each other in the newspapers, or you even watch reality TV and see people screaming and yelling each other and calling each other names - this does not send a good message to children. Here in this House, oftentimes - we've been talking lately about the toxic atmosphere, it's true, it is toxic, and I think jabbing at each other and using anecdotes of different people in communities and saying that these people are against whatever our government is doing when, in fact, we're trying to do something to make a change in society here, is not helpful.</p>
@@ -469,29 +470,29 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Bedford-Birch Cove.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. KELLY REGAN</from><p>Thank you, Madam Speaker. I do want to point out to the members opposite, that the Liberals will be supporting this bill. Any steps that make young people safer are positive. We are, however, disappointed that it took the government so long to act. And while we will be supporting this bill, it's taken far too long to see these changes come forward. We don't understand why the government didn't act on these recommendations when they came forward 14 months ago. In fact, the NDP voted down our amendments that would have given the then-cyberbullying bill some teeth. They took the conscious decision - they didn't just fail to act, they actually voted down amendments that would have strengthened that bill. That wasn't a sin of omission; that was a sin of commission. They decided to do that. And you have to ask yourself, how was that making life better or safer for Nova Scotian families?</p>
+          <speech by="#kelly.regan"><from>MS. KELLY REGAN</from><p>Thank you, Madam Speaker. I do want to point out to the members opposite, that the Liberals will be supporting this bill. Any steps that make young people safer are positive. We are, however, disappointed that it took the government so long to act. And while we will be supporting this bill, it's taken far too long to see these changes come forward. We don't understand why the government didn't act on these recommendations when they came forward 14 months ago. In fact, the NDP voted down our amendments that would have given the then-cyberbullying bill some teeth. They took the conscious decision - they didn't just fail to act, they actually voted down amendments that would have strengthened that bill. That wasn't a sin of omission; that was a sin of commission. They decided to do that. And you have to ask yourself, how was that making life better or safer for Nova Scotian families?</p>
 <p>Madam Speaker, too many young people have died. A week ago, actually just as I left this parking lot, I got a phone call from a mom - we had been going back and forth on e-mail, and I had given her my cell number - and I had a phone call from a mother whose daughter has been bullied at school. And that tells you that the bullying law that we had in place either is not effective or is not being applied. What has so disappointed this young woman who is being bullied is that the very people that she trusted to ensure her safety, to make sure she wasn't being bullied have let her down. I talked to her disappointed mum and she said we feel bullied again by a system that just hung us out to dry and didn't do anything.</p>
 <p>At Law Amendments Committee we heard from the parents of bullied children. We heard from a mother who had lost her child due to bullying, and her comment - and I will reiterate it because my colleague, the member for Colchester North mentioned that after the NDP members in Law Amendments Committee voted down those amendments, she said I feel like I've been slapped in the face. And that's the way a lot of bullied kids and their families feel right now - they feel like they've been let down.</p>
 <p>Don't get me wrong, they're happy to see this stuff coming forward, these bills, they're really pleased, as are we, but let's not forget we're in this position today because, as legislators, the important work that we're entrusted to do did not get done well enough.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Come on.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. REGAN</from>
             <p>I understand that the members opposite may not like that, but the fact of the matter is those members on the opposite side of the House voted down provisions that would have strengthened the anti-bullying law, that could have stopped this.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>That's a shame.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>It is a shame.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>It is a shame.</p>
 <p>Professor Wayne MacKay's report recommended talking to the federal government. It was a suggestion that would have cost nothing, the price of a stamp, and yet we did not see a letter go to the government until this month. All that time past and it wasn't a priority &#x2026;</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>How long ago?</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>Fourteen months - all that time, nothing was done. The government members could have allowed amendments that would have removed access to a Web site, they chose not to. Nova Scotians know that the NDP dropped the ball on this - and not because they just failed to act, they willfully decided not to take those amendments. They did these things even in the face of expert advice. You didn't have to listen to us, fine, but you could have listened to the experts who appeared before that committee who wrote the report. You had an option, you decided not to do it - that was the NDP's choice. They only decided to act when, as the Premier put it, we were embarrassed on an international stage.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>Fourteen months - all that time, nothing was done. The government members could have allowed amendments that would have removed access to a Web site, they chose not to. Nova Scotians know that the NDP dropped the ball on this - and not because they just failed to act, they willfully decided not to take those amendments. They did these things even in the face of expert advice. You didn't have to listen to us, fine, but you could have listened to the experts who appeared before that committee who wrote the report. You had an option, you decided not to do it - that was the NDP's choice. They only decided to act when, as the Premier put it, we were embarrassed on an international stage.</p>
 <p>This week in The ChronicleHerald, in the Editor's Note, was a piece entitled "Teach respect, I implore you as a rape survivor." I want to commend Doreen Coady for coming forward and publishing her report in the newspaper. She makes a couple of points that I thought were really key. She says: "As a youth, I was raped, I was drunk, and I was a virgin. I can speak for many friends who experienced their first sexual encounter the same way. The same problem existed over 20 years ago and is clearly still very prevalent." Then she goes to say later in the article: "There is no question in my mind that given today's prevalence of social media, and the increased comfort with sharing the details and visuals, I would have met the same fate as Rehtaeh when I was raped."</p>
 <p>I would point out to the members opposite that Facebook was invented, or came into being, in 2005; Twitter was even later, and this has been an evolving issue. What has been an issue of communications one year is not the next year; it has changed. I think we all know kids who were bullied or we may have been bullied ourselves growing up. At least when you got in the door you didn't have to worry about a constant onslaught from social media. That has changed, that has evolved, and that has certainly been exacerbated over the past four years.</p>
 <p>Proof of the effectiveness of this bill will be when we see action, when we see that kids actually get protected because let's face it, there are already laws against sexual assault, there are already laws against harassment, and yet that doesn't always protect our young people.</p>
@@ -504,14 +505,14 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Hants West.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Madam Speaker, I'm happy to take a few minutes this morning and offer a few comments on what I think is an important step in this Legislature and an important bill that has come forward. As most would know, this is something that has been on the minds of this caucus for some time. We've put legislation forward, as have others. It has taken a while to get where we are.</p>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Madam Speaker, I'm happy to take a few minutes this morning and offer a few comments on what I think is an important step in this Legislature and an important bill that has come forward. As most would know, this is something that has been on the minds of this caucus for some time. We've put legislation forward, as have others. It has taken a while to get where we are.</p>
 <p>Okay, we are here. We have put something forward. We can be critical if we want to be. We all know, looking back, the unfortunate, very serious circumstances that go on every day. I have had calls in my office regarding this issue from people who don't even live in my constituency. That is not uncommon. I think they know that we, as legislators, are raising the issue. We've been talking about it, and of course it has been in the media.</p>
 <p>When we have the circumstances where we have a case that we're all aware of - I always hate raising people's names in here, and I'm not going to, but where we have people who have taken their own lives in these circumstances have gone on for some time, I can tell you - thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Cape Breton West.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I just wanted to say that when I listened to the minister introduce this bill this morning, it was probably one of the proudest moments for me to be in this House. I know that this bill isn't perfect, but I also know that it's way ahead of where we were yesterday. (Applause)</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I just wanted to say that when I listened to the minister introduce this bill this morning, it was probably one of the proudest moments for me to be in this House. I know that this bill isn't perfect, but I also know that it's way ahead of where we were yesterday. (Applause)</p>
 <p>One of the jobs that we have as members of the Legislature is to give people hope, and I think today the minister, with this bill, is doing that. Each of us who are here should be proud of the fact that we are taking a non-partisan stand and doing something that will make a difference for the future of our province and our children.</p>
 <p>Somebody once asked me why I ever got involved in politics, and I said I had three reasons, and those were my three children. That has increased. I now have four grandchildren, and if we in this House don't look after the future for those people - not just mine, but all of our families - then I think we have failed.</p>
 <p>I think what we need to do here is look at each other and say, let's move on with this. It is a beginning; it is not the end. It is a place that will allow us, as a group, to make an improvement in the quality of life and help the families, who have been mentioned here by many others today.</p>
@@ -520,12 +521,12 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Cape Breton North.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, as my two previous colleagues have echoed what we try to say on this side, we've all been hearing the situations that are going on in our province and throughout the country over the last number of months. It has only been a short time here for me, but I've heard and seen the effects that bullying and cyberbullying have had on people in my community and people within our province.</p>
+          <speech by="#eddie.orrell"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, as my two previous colleagues have echoed what we try to say on this side, we've all been hearing the situations that are going on in our province and throughout the country over the last number of months. It has only been a short time here for me, but I've heard and seen the effects that bullying and cyberbullying have had on people in my community and people within our province.</p>
 <p>I know we have all introduced legislation and we have tried to make changes to legislation that has already been introduced. As two previous speakers, speakers before us have said, we're proud that this is a starting point; we hope it's not the end point because we know that this legislation is good legislation but it can be improved. We, on this side of the House, as well as, hopefully, anyone else on the other side of the House, are willing to put all our differences aside to make sure that we make this legislation the best we can and to protect everybody in society but especially the most vulnerable, our children, especially in situations where we know the technology - I'm not as technologically savvy as some of the people who may be here or some of our children are and I get a lot of help from my own children in doing this.</p>
 <p>I just hope that we will work together to make this the best legislation we can, and if there are amendments to be made, that the government of the day will accept those amendments and if there are amendments they want to put in that we will accept their amendments and we will push to make sure that this becomes law as quickly as possible, to protect the most vulnerable in our society. Hopefully it will be adopted by other jurisdictions in the country, to protect every child in this country who may be touched by bullying or cyberbullying and to make sure that when a kid goes to school that they get to learn what they need to learn and now how to protect themselves. We have to do that protection for them. With that I will take my seat as well.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister responsible for the Advisory Council on the Status of Women Act.</p></speech>
-          <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9"><from>HON. MARILYN MORE</from><p>I rise to close debate on Bill No. 61 but I'd like to make a few comments first. I want to thank my honourable colleagues for their comments on this bill. I certainly appreciate how emotional the topic is because I think we all, while honouring the young people of our province, we are humans first and I think we put our children and our grandchildren's faces on this bill and we want to make it a safer place for them. (Applause)</p>
+          <speech by="#marilyn.more"><from>HON. MARILYN MORE</from><p>I rise to close debate on Bill No. 61 but I'd like to make a few comments first. I want to thank my honourable colleagues for their comments on this bill. I certainly appreciate how emotional the topic is because I think we all, while honouring the young people of our province, we are humans first and I think we put our children and our grandchildren's faces on this bill and we want to make it a safer place for them. (Applause)</p>
 <p>This legislation will better protect youth and all Nova Scotians from cyberbullying and violence in this province and it gives out a strong, clear message to cyberbullies that they have to be accountable for their on-line actions. I want to set a little bit of context here. My caucus, my Cabinet, and the Premier of this province are fully in support of taking a broad-based approach to this, and I don't want to be seen as being defensive here, but quite frankly we have been working on a lot these issues behind the scenes for the past four years. I know, for example, two have us have been the Minister responsible for the Advisory Council on the Status of Women and have been working with our Atlantic colleagues on cyber-safe programs and have a Web site for young girls in Atlantic Canada.</p>
 <p>It's an excellent Web site and the work has gone extremely well and I highly recommend it to everyone who wants to be better informed about how we can encourage and counsel our young people to better look after themselves and to know what the risks are. The point I'm trying to make is that there is a lot of work going on but I think this incident has driven us to fast-track that work and you'll be hearing more about those initiatives over the next few weeks.</p>
 <p>As you recognize, this is a societal issue that has been around for generations. Violence against women has been happening for thousands of years but I think what we've seen is an awareness, a synergy, and a collective will that this time we are going to make things different. I am just so encouraged by the response from across Nova Scotia and the support within this Chamber. If there is any credit for this bill we will share it with you and all the civil servants who worked on this bill well into the night during this week. (Applause)</p>
@@ -540,13 +541,13 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable member for Halifax Chebucto on an introduction.</p></speech>
-          <speech by="#617adf75-30cf-451f-93ee-4271195fa60f">
+          <speech by="#howard.epstein">
             <from>MR. HOWARD EPSTEIN</from>
             <p>Madam Speaker, thank you very much. For the second time today I am happy to welcome a class from St. Catherine's School to observe us at our work in the Legislature - another Grade 3 class, this time Madame LeBlanc's class. The students are also Grade 3 students. They are accompanied, I believe, by Kevin Zwicker, Tayla Paul, and Mr. Carvery. We have at least 16 of the students, I counted, sitting in the gallery. I would ask members to join me in welcoming these students to observe our proceedings. (Applause)</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>We welcome all of our guests to today's proceedings.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+          <speech by="#clarrie.mackinnon">
             <from>MR. CLARRIE MACKINNON</from>
             <p>Madam Speaker, would you please call Bill No. 51.</p>
           </speech>
@@ -557,7 +558,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Minister of Finance.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Madam Speaker, I move that Bill No. 51, the Financial Measures (2013) Act be read a second time.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Madam Speaker, I move that Bill No. 51, the Financial Measures (2013) Act be read a second time.</p>
 <p>As we all know, this bill is the Act that makes measures, introduced in the budget that passed earlier in the week, it brings them into force, ensuring the success of our financial plan. Budget 2013 represents a significant achievement for our government and, most importantly, for all Nova Scotians. We made a commitment to balance the budget and we did it.</p>
 <p>Each year since coming into office my colleague, the member for Halifax Fairview, former Minister of Finance, stood here before this House to introduce the Financial Measures Act and each time he reminded us all of the path to balance that we were on. In the fourth year of this plan, I'm pleased that I'm able to introduce, and have introduced, the Financial Measures (2013) Bill and to demonstrate that the strategic choices that have been made were strategic choices about making life more affordable, creating good jobs and growing the economy, and helping to make life better for families in all parts of our province.</p>
 <p>Balancing the budget isn't solely based on finances, it's also about creating balance within our province. I know just how hard Nova Scotians work to make life better for their families and loved ones. Over the last four years our government has made changes to help make life more affordable for families, for individuals, and for seniors. We have taken the provincial portion of the HST off basic electricity and home heat, and off children's diapers, children's clothing, children's footwear, as well as feminine hygiene products.</p>
@@ -576,7 +577,7 @@
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that we adjourn debate on Bill No. 51. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a"><from>MR. CLARRIE MACKINNON</from><p>Madam Speaker, that concludes the government's business for the day. I move that the House do now rise, to meet again on Monday, April 29<sup>th</sup>, at 4:00 p.m., with the House hours to be from 4:00 p.m. to 10:00 p.m. Following the daily routine we will call Public Bills for Second Reading, Bill No. 51 and Bill No. 62, and we will also call, if time permits, Address in Reply to the Speech from the Throne.</p>
+          <speech by="#clarrie.mackinnon"><from>MR. CLARRIE MACKINNON</from><p>Madam Speaker, that concludes the government's business for the day. I move that the House do now rise, to meet again on Monday, April 29<sup>th</sup>, at 4:00 p.m., with the House hours to be from 4:00 p.m. to 10:00 p.m. Following the daily routine we will call Public Bills for Second Reading, Bill No. 51 and Bill No. 62, and we will also call, if time permits, Address in Reply to the Speech from the Throne.</p>
 <p>Thank you very much, Madam Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is to adjourn.</p>
 <p>Is it agreed?</p>
@@ -591,502 +592,502 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#002be249-bd3d-4105-8653-0fc8ddb6d4da"><num title="856">RESOLUTION NO. 856</num><from>Mr. Gary Burrill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gary.burrill"><num title="856">RESOLUTION NO. 856</num><from>Mr. Gary Burrill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Upper Musquodoboit Consolidated School (UMCS) was founded in 1963, merging its predecessor Caribou, Chaplin, Dean Settlement, Greenwood, Henry, Hutchinson, and Pleasant Valley Schools; and</p>
 <p>Whereas UMCS demonstrates exemplary levels of parent and volunteer involvement and serves as a model of the kind of school community connection that is widely recognized as integral to a quality education; and</p>
 <p>Whereas the people of the Upper Musquodoboit Consolidated School district are gathering May 8, 2013, to celebrate a half century of excellence in elementary education;</p>
 <p>Therefore be it resolved that the Nova Scotia House of Assembly extend its warm congratulations to the students, staff, and volunteers of Upper Musquodoboit Consolidated School on the occasion of UMCS's 50<sup>th</sup> Anniversary, and affirm the continuing contributions of Upper Musquodoboit "Small School, Big Spirit" consolidated school.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="857">RESOLUTION NO. 857</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="857">RESOLUTION NO. 857</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Frank William Nichols of North Kentville dedicated nearly 50 years of his life to the democratic process as a passionate campaigner and party organizer for the PC Party; and</p>
 <p>Whereas he was honoured as Kings North PC Volunteer of the Year this past February at the AGM; and</p>
 <p>Whereas Frank worked hard every day of his life and was so deserving of his successes, and he will be sadly missed;</p>
 <p>Therefore be it resolved that all members of this House of Assembly send condolences to the family and friends of Frank William Nichols, and honour him for his contributions to his community.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="858">RESOLUTION NO. 858</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="858">RESOLUTION NO. 858</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Joan Jones, a lifelong resident of Parrsboro, recently passed away; and</p>
 <p>Whereas Joan was an energizing force, serving as town councillor, Main Street coordinator, and on a variety of boards, including the Parrsboro and District Board of Trade and Ships' Company Theatre; and</p>
 <p>Whereas her storefront has remained a part of the downtown for more than 35 years, serving generations, and she worked tirelessly to keep the downtown thriving and full of opportunity;</p>
 <p>Therefore be it resolved that all members of this House of Assembly send condolences and best wishes to the family of Joan Jones, an exemplary Parrsboro businesswoman and a model of community spirit and dedication.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="859">RESOLUTION NO. 859</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="859">RESOLUTION NO. 859</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sherry Martell has worked with TC MEDIA for more than 10 years as a reporter for the Truro Daily News and The News, based in New Glasgow, and has served as editor of the Colchester Weekly News since May, 2011; and</p>
 <p>Whereas Martell has been nominated by Newspapers Atlantic for an award at the 2013 Newspapers Atlantic Better Newspapers Competition; and</p>
 <p>Whereas Martell's entry in the best feature photo category was of a breast cancer survivor who bared her mastectomy scars, as well as 53 other women from across Canada, in a book titled <i>Breast Stories; Cancer Survivors Speak Out</i>;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Sherry Martell for being nominated for this prestigious award, which is to be announced at the Newspapers Atlantic 41<sup>st</sup> Annual Conference in Halifax, and wish her success with the nomination and continued success with her career.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="860">RESOLUTION NO. 860</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="860">RESOLUTION NO. 860</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 53-year-old Wanda Parker of North River, Colchester North, has been giving blood to the Canadian Red Cross blood donor clinics since she was a teenager; and</p>
 <p>Whereas Parker, who began donating because her father always did, now donates blood four times a year between the Truro and Bible Hill clinics; and</p>
 <p>Whereas Parker has received special recognition certificates for her 35<sup>th</sup> and 50<sup>th</sup> donations and on Monday, March 18<sup>th</sup> she reached a special milestone when she donated blood for the 100<sup>th</sup> time;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Wanda Parker who has consistently worked to benefit others by giving the gift of life 100 times, and express our admiration and thanks for her commitment to helping others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="861">RESOLUTION NO. 861</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="861">RESOLUTION NO. 861</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sugar Moon Farm in Earltown, Colchester North, is noted locally and provincially for its delicious pancakes; and</p>
 <p>Whereas Sugar Moon approximates that they make 40,000 pancakes annually; and</p>
 <p>Whereas owners Quita Gray and Scott Whitelaw have kept their recipe a guarded secret, it is now available for everyone to try, but not everyone has the special cooking skill;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Sugar Moon Farm for being listed as one of the 10 best spots for pancakes in Canada by <i>Canadian Living Magazine.</i></p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="862">RESOLUTION NO. 862</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="862">RESOLUTION NO. 862</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 29<sup>th</sup> Annual Truro Sport Heritage Society Awards were presented on February 28, 2013; and</p>
 <p>Whereas Roger Bastarache from Valley, Colchester North, received the very prestigious honour of being named coach of the year; and</p>
 <p>Whereas Bastarache's team, the Ecole Acadienne de Truro girls volleyball team, had only 20 eligible girls to draw from, yet posted a perfect season on their way to taking regional and district titles and won gold at the Jeux de l'Acadie Atlantic finals;</p>
 <p>Therefore be it resolved that all members of this House of Assembly commend Roger Bastarache for his outstanding coaching skills and congratulate him for being named the Truro Sport Heritage Society Coach of the Year.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="863">RESOLUTION NO. 863</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="863">RESOLUTION NO. 863</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the North Shore Recreation Centre is to receive $47,108 to be put towards a new baseball field and to assist with upgrades, the Fraser Cultural Centre is to receive $20,000 from Canada's Community Infrastructure Fund; and</p>
 <p>Whereas Canada's Community Infrastructure Fund, which is designed to help improve already existing community buildings, arenas and cultural centres, operates on a cost-share basis so the community must raise 50 per cent of the needed funds; and</p>
 <p>Whereas to fulfill the recipients' share requirement, the Municipality of the County of Colchester contributed $40,000 to the projects and the rest of the money was acquired through fundraising;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the North Shore Recreation Centre and the Fraser Cultural Centre in Tatamagouche, Colchester North, for receiving money from Canada's Community Infrastructure Fund and for raising the money to fulfill their portion of the joint projects.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="864">RESOLUTION NO. 864</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="864">RESOLUTION NO. 864</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 29<sup>th</sup> Annual Truro Sport Heritage Society Awards were presented on February 28, 2013; and</p>
 <p>Whereas Kayla Gallagher, from the Truro Lions Club throwing team, was named female athlete of the year in the 16 to 20-year-old category; and</p>
 <p>Whereas Kayla, who was named Cobequid Educational Centre Female Athlete of the Year in 2012, is now attending the University of Lethbridge;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate this exceptional young athlete for the numerous awards she has received and wish her success with her future athletic and educational endeavours.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="865">RESOLUTION NO. 865</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="865">RESOLUTION NO. 865</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Eileen Eaton has been a member of the Great Village Garden Club, Colchester North, for 50-plus years; and</p>
 <p>Whereas Eileen has held all the executive positions of the club, assisted with their many plant sales and shows, and helped to orchestrate many of their other activities and functions; and</p>
 <p>Whereas in December, 2012, Eileen was presented with the Nova Scotia Association of Garden Clubs Outstanding Member Award;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Eileen Eaton on receiving this special award and thank her for the contribution she has made to the club, to her community and to the many aspiring gardeners she has helped throughout the years.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="866">RESOLUTION NO. 866</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="866">RESOLUTION NO. 866</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 30-year-old Brad MacCallum of Upper Onslow, Colchester North, has been an umpire for the past seven seasons; and</p>
 <p>Whereas in 2012 MacCallum worked at the International Softball Challenge in Montreal, the peewee provincial championship in Stewiacke, and the Under-18 Canadian championship in Montreal; and</p>
 <p>Whereas in 2012 while in Montreal, MacCallum also received his Level 4 certification;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Brad MacCallum for being named Umpire of the Year for 2012 by Softball Nova Scotia's Umpires Association.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="867">RESOLUTION NO. 867</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="867">RESOLUTION NO. 867</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 13-year-old Noah Patriquin from Debert, Colchester North, had a fourth- and a third-place finish at this year's Atlantic Cup Cadet Biathlon provincials at Martock, Hants County; and</p>
 <p>Whereas in only his second year in the sport, Noah earned a spot as a junior competitor at Cadet Biathlon Nationals in Valcartier, Quebec; and</p>
 <p>Whereas Noah identified his weaker skill and spent extra time on his shooting, since speed and precision marksmanship are necessities for competition;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Noah Patriquin, a relative newcomer to the sport, who, in competition with athletes from all across Canada, finished in the top 10 at the Cadet Biathlon Nationals in Quebec, placing ninth in the mass start competition and eighth in the pursuit race.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="868">RESOLUTION NO. 868</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="868">RESOLUTION NO. 868</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Debbie Lewis was overweight, depressed, and on a number of medications when she decided to join the TOPS (Take Off Pounds Sensibly) N.S. Portaupique Chapter, Colchester North; and</p>
 <p>Whereas Lewis said the group provided support, encouragement, information on nutrition, exercise, and a healthier lifestyle; and</p>
 <p>Whereas combined with group support, good eating habits, and daily exercise Lewis lost over 100 pounds and is free of pills, with one exception;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Debbie Lewis for receiving a certificate of accomplishment from Leader Rilla MacDougall of TOPS N.S. 5261, and for successfully achieving such a personal goal.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="869">RESOLUTION NO. 869</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="869">RESOLUTION NO. 869</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Five Islands Bazaar was formed 20 years ago by the people from the community who wanted a venue to sell their assorted crafts; and</p>
 <p>Whereas for the past two years the Bazaar has sponsored a community event where many of its members, as well as other volunteers from the community, spent two full weeks making baby quilts from cutting and sewing fabric pieces to quilting and binding the finished product; and</p>
 <p>Whereas last year these talented ladies made and donated 50 quilts to the IWK Children's Hospital, and this year increased the number to 55;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the ladies of the community of Five Islands, Colchester North, who volunteer their time and effort for such a worthy cause, and express our thanks on behalf of all those children who benefit from their generous gifts.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="870">RESOLUTION NO. 870</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="870">RESOLUTION NO. 870</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ian Jennings, a junior member who just turned 19 and became a full member of the Debert Volunteer Fire Brigade, Colchester North, for receiving his Five Year Service Award, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="871">RESOLUTION NO. 871</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="871">RESOLUTION NO. 871</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Trevor Lockhart of the Debert Volunteer Fire Brigade, Colchester North, for receiving his Ten Year Service Award, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="872">RESOLUTION NO. 872</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="872">RESOLUTION NO. 872</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Shane Slack of the Debert Volunteer Fire Brigade, Colchester North, for receiving his Twenty-five Year Service Award, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="873">RESOLUTION NO. 873</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="873">RESOLUTION NO. 873</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Kevin Totten of the Debert Volunteer Fire Brigade, Colchester North, for receiving his Twenty-five Year Service Award, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="874">RESOLUTION NO. 874</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="874">RESOLUTION NO. 874</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Randy Barnhill of the Debert Volunteer Fire Brigade, Colchester North, for receiving his Thirty Year Service Award, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="875">RESOLUTION NO. 875</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="875">RESOLUTION NO. 875</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Brandon Slack of the Debert Volunteer Fire Brigade, Colchester North, for receiving the Wendell Barnhill Most Improved Firefighter Award, and the award for Firefighter of the Year for 2012, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="876">RESOLUTION NO. 876</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="876">RESOLUTION NO. 876</num><from>Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotia's fire departments are made up of individuals who are dedicated to serving other rural Nova Scotians; and</p>
 <p>Whereas these firefighters and first responders not only contribute hard work, skills, and time, they often risk their lives and must deal with incidents of great emotional stress; and</p>
 <p>Whereas an annual banquet is held as a way to thank these dedicated volunteers, and to present special awards for years of service and for outstanding contributions;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Don Geldart of the Debert Volunteer Fire Brigade, Colchester North, for receiving the award for Fire Officer of the Year for 2012, and commend him for his commitment to serving others.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="877">RESOLUTION NO. 877</num><from>Wayne Gaudet</from><p>Monsieur le Pr&#xE9;sident, par le pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#wayne.j.gaudet"><num title="877">RESOLUTION NO. 877</num><from>Wayne Gaudet</from><p>Monsieur le Pr&#xE9;sident, par le pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que l'Association Madeleine-LeBlanc est membre de la F&#xE9;d&#xE9;ration des femmes acadiennes da la Nouvelle-&#xC9;cosse; et</p>
 <p>Attendu que l'Association Madeleine-LeBlanc regroupe des femmes de la r&#xE9;gion de Clare pour la promotion de la femme et du patrimoine acadien de la r&#xE9;gion; et</p>
 <p>Attendu que l'Association Madeleine-LeBlanc f&#xEA;te son 30 &#x364; anniversaire;</p>
 <p>Qu'il soit r&#xE9;solu que cette Assembl&#xE9;e offre ses meilleurs v&#x153;ux &#xE0; l'Association Madeleine-LeBlanc et leur souhait plein succ&#xE8;s pour les ann&#xE9;es &#xE0; venir.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="878">RESOLUTION NO. 878</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="878">RESOLUTION NO. 878</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on January 25, 2013, a very special occasion took place when Trina and Chris Adams welcomed their daughter into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Trina and Chris on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="879">RESOLUTION NO. 879</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="879">RESOLUTION NO. 879</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on February 7, 2013, a very special occasion took place when Ren&#xE9;e Surette and John Malone welcomed their daughter into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ren&#xE9;e and John on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="880">RESOLUTION NO. 880</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="880">RESOLUTION NO. 880</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on January 11, 2013, a very special occasion took place when Raegan Tracey Belliveau welcomed her daughter into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Raegan on this miraculous event in her life and wish her many more happy years as a parent.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="881">RESOLUTION NO. 881</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="881">RESOLUTION NO. 881</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on February 7, 2013, a very special occasion took place when Jeanette and Joshua Thompson welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Jeanette and Joshua on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="882">RESOLUTION NO. 882</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="882">RESOLUTION NO. 882</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on December 31, 2012, a very special occasion took place when Jill and Adam Aldred welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Jill and Adam on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="883">RESOLUTION NO. 883</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="883">RESOLUTION NO. 883</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on February 18, 2013, a very special occasion took place when Justine and Gilles d'Entremont welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Justine and Gilles on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="884">RESOLUTION NO. 884</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="884">RESOLUTION NO. 884</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on February 14, 2013, a very special occasion took place when Melissa and Derek Amirault welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Melissa and Derek on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="885">RESOLUTION NO. 885</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="885">RESOLUTION NO. 885</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on February 19, 2013, a very special occasion took place when Paula and Mark Hatfield welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Paula and Mark on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="886">RESOLUTION NO. 886</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="886">RESOLUTION NO. 886</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities," as quoted by author Eda J. Leshan; and</p>
 <p>Whereas on March 3, 2013, a very special occasion took place when Ren&#xE9;e Corporon LeBlanc and Graham Spinney welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ren&#xE9;e and Graham on this miraculous event in their lives and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="887">RESOLUTION NO. 887</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="887">RESOLUTION NO. 887</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Hector Babin, posthumously, of Ste. Anne du Ruisseau who, throughout his life, devoted so much time and tireless effort to so many organizations in and around the community, in particular his passion for his local fire department;</p>
 <p>Therefore be it resolved that all members of this House of Assembly pay tribute to Hector Babin, celebrate his memory, and honour his life.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="888">RESOLUTION NO. 888</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="888">RESOLUTION NO. 888</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21-27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Angela Spinney, of Pubnico, a youth volunteer representing &#xC9;cole secondaire de Par-en-Bas, for her devotion of time and tireless effort to her school and many other organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Angela Spinney on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="889">RESOLUTION NO. 889</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="889">RESOLUTION NO. 889</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Cerena Amirault, of Middle West Pubnico, for her devotion of time and tireless effort to her school and many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Cerena Amirault on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="890">RESOLUTION NO. 890</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="890">RESOLUTION NO. 890</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Charles Campbell, of Surette's Island, for his devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Charles Campbell on being honoured by the Municipality of Argyle, thank him and all volunteers for their dedication to others, and wish him continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="891">RESOLUTION NO. 891</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="891">RESOLUTION NO. 891</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is David Meuse, of Comeau's Hill, for his devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate David Meuse on being honoured by the Municipality of Argyle, thank him and all volunteers for their dedication to others, and wish him continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="892">RESOLUTION NO. 892</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="892">RESOLUTION NO. 892</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 201, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Dianne Crowell, of Argyle Head, for her devotion of time and tireless effort to her school and many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Dianne Crowell on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="893">RESOLUTION NO. 893</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="893">RESOLUTION NO. 893</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Ella Muise, of Ste. Anne du Ruisseau, for her devotion of time and tireless effort so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ella Muise on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="894">RESOLUTION NO. 894</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="894">RESOLUTION NO. 894</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Gary Dulong, of East Pubnico, for his devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Gary Dulong on being honoured by the Municipality of Argyle, thank him and all volunteers for their dedication to others, and wish him continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="895">RESOLUTION NO. 895</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="895">RESOLUTION NO. 895</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Gwen LeBlanc, of Wedgeport, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Gwen LeBlanc on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="896">RESOLUTION NO. 896</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="896">RESOLUTION NO. 896</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26, Club Acadien in Ste. Anne du Ruisseau will host the Annual Volunteer Banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Jennifer Gates, of Kemptville, for her devotion of time and tireless effort so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Jennifer Gates on being honoured by the Municipality of Argyle, thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="897">RESOLUTION NO. 897</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="897">RESOLUTION NO. 897</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Marjorie Parker, of Kemptville, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Marjorie Parker on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="898">RESOLUTION NO. 898</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="898">RESOLUTION NO. 898</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Nadine DeViller, of Plymouth, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Nadine DeViller on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="899">RESOLUTION NO. 899</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="899">RESOLUTION NO. 899</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Romayne Swim, of Glenwood, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Romayne Swim on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="900">RESOLUTION NO. 900</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="900">RESOLUTION NO. 900</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Sandra d'Entremont, of West Pubnico, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Sandra d'Entremont on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="901">RESOLUTION NO. 901</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="901">RESOLUTION NO. 901</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured are husband and wife Marilyn and Stillman Muise for their devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Marilyn and Stillman Muise on being honoured by the Municipality of Argyle, and thank them and all volunteers for their dedication to others, and wish them continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="902">RESOLUTION NO. 902</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="902">RESOLUTION NO. 902</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Tanya DeViller, of Wedgeport, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Tanya DeViller on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="903">RESOLUTION NO. 903</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="903">RESOLUTION NO. 903</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact. and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Valerie Belliveau, of East Pubnico, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Valerie Belliveau on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="904">RESOLUTION NO. 904</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="904">RESOLUTION NO. 904</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Terri Amirault of East Pubnico, a youth volunteer representing Drumlin Heights Consolidated School, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Terri Amirault on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="905">RESOLUTION NO. 905</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="905">RESOLUTION NO. 905</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 39<sup>th</sup> National Volunteer Week runs from April 21 to 27, 2013, under the theme, Volunteers: Passion. Action. Impact.; and</p>
 <p>Whereas on Friday, April 26<sup>th</sup>, Club Acadien in Ste. Anne du Ruisseau will host the annual volunteer banquet for the Municipality of Argyle; and</p>
 <p>Whereas among the 21 volunteers to be honoured is Carmella Surette, of Amirault's Hill, for her devotion of time and tireless effort to so many organizations in and around the community;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Carmella Surette on being honoured by the Municipality of Argyle, and thank her and all volunteers for their dedication to others, and wish her continued success in the future.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="906">RESOLUTION NO. 906</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="906">RESOLUTION NO. 906</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Maurice James Drysdale of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Maurice Drysdale for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="907">RESOLUTION NO. 907</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="907">RESOLUTION NO. 907</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at St. Anne's Community and Nursing Care Centre, where Lawrence Daniel Landry of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Lawrence Landry for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="908">RESOLUTION NO. 908</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="908">RESOLUTION NO. 908</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at St. Anne's Community and Nursing Care Centre, where Lawrence Archibald Campbell of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Lawrence Campbell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="909">RESOLUTION NO. 909</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="909">RESOLUTION NO. 909</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Dominique Alcide Landry of Petit de Grat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Alcide Landry for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="910">RESOLUTION NO. 910</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="910">RESOLUTION NO. 910</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Andrew Madden was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Andrew Madden for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="911">RESOLUTION NO. 911</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="911">RESOLUTION NO. 911</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at St. Anne's Community and Nursing Care Centre, where Stanley Leonard Boudreau of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Stanley Boudreau for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="912">RESOLUTION NO. 912</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="912">RESOLUTION NO. 912</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at St. Anne's Community and Nursing Care Centre, where Robert Douglas Nicholl of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Robert Nicholl for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="913">RESOLUTION NO. 913</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="913">RESOLUTION NO. 913</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Douglas Charles Forgeron was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Douglas Charles Forgeron for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="914">RESOLUTION NO. 914</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="914">RESOLUTION NO. 914</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Charles James Landry of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Charles Landry for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="915">RESOLUTION NO. 915</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="915">RESOLUTION NO. 915</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Lorenzo Louis Boudreau of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Lorenzo Boudreau for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="916">RESOLUTION NO. 916</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="916">RESOLUTION NO. 916</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Frederick James Martel of Little Anse was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Frederick Martel for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="917">RESOLUTION NO. 917</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="917">RESOLUTION NO. 917</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Francis Joseph Martel of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Francis Martel for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="918">RESOLUTION NO. 918</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="918">RESOLUTION NO. 918</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Harold Joseph Martell of Petit de Grat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Harold Martell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="919">RESOLUTION NO. 919</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="919">RESOLUTION NO. 919</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the St. Anne's Community and Nursing Care Centre, where James John Tyrrell of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate James Tyrrell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="920">RESOLUTION NO. 920</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="920">RESOLUTION NO. 920</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Helen Kehoe of Rocky Bay was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Helen Kehoe for receiving this exceptional medal, and thank her for her dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="921">RESOLUTION NO. 921</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="921">RESOLUTION NO. 921</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Elias Amedee Gaudet of Poulamon was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Elias Gaudet for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="922">RESOLUTION NO. 922</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="922">RESOLUTION NO. 922</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on March 9, 2013, a ceremony was held at the Royal Canadian Legion Branch 150, where Joseph Leonard Marchand of Arichat was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Leonard Marchand for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="923">RESOLUTION NO. 923</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="923">RESOLUTION NO. 923</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where William G. MacRae of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate William G. MacRae for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="924">RESOLUTION NO. 924</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="924">RESOLUTION NO. 924</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Arnold H. Chamberlain of West Bay, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Arnold H. Chamberlain for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="925">RESOLUTION NO. 925</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="925">RESOLUTION NO. 925</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Alex Morrison of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Alex Morrison for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="926">RESOLUTION NO. 926</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="926">RESOLUTION NO. 926</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Arthur R. Goyetche of Sydney, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Arthur R. Goyetche for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="927">RESOLUTION NO. 927</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="927">RESOLUTION NO. 927</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Arthur E. Bouchard of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Arthur E. Bouchard for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="928">RESOLUTION NO. 928</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="928">RESOLUTION NO. 928</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Charles E. Kyte of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Charles E. Kyte for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="929">RESOLUTION NO. 929</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="929">RESOLUTION NO. 929</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Charles A. Williamson of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Charles A. Williamson for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="930">RESOLUTION NO. 930</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="930">RESOLUTION NO. 930</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Clarence Richard of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Clarence Richard for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="931">RESOLUTION NO. 931</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="931">RESOLUTION NO. 931</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Creighton R. Leonard of West Bay, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Creighton R. Leonard for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="932">RESOLUTION NO. 932</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="932">RESOLUTION NO. 932</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Donald G. Cornell of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Donald G. Cornell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="933">RESOLUTION NO. 933</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="933">RESOLUTION NO. 933</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Albenie A. Boudreau of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Albenie A. Boudreau for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="934">RESOLUTION NO. 934</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="934">RESOLUTION NO. 934</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Donald M. Henri of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Donald M. Henri for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="935">RESOLUTION NO. 935</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="935">RESOLUTION NO. 935</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Earl C. Martell of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Earl C. Martell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="936">RESOLUTION NO. 936</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="936">RESOLUTION NO. 936</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Herman J. MacDonald of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Herman J. MacDonald for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="937">RESOLUTION NO. 937</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="937">RESOLUTION NO. 937</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where George W. McPhee of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate George W. McPhee for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="938">RESOLUTION NO. 938</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="938">RESOLUTION NO. 938</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Jack L. O'Brien of West Bay, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Jack L. O'Brien for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="939">RESOLUTION NO. 939</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="939">RESOLUTION NO. 939</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where James E. W. Bowden of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate James E. W. Bowden for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="940">RESOLUTION NO. 940</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="940">RESOLUTION NO. 940</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Joseph M. Landry of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Joseph M. Landry for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="941">RESOLUTION NO. 941</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="941">RESOLUTION NO. 941</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where John E. Hillier of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate John E. Hillier for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="942">RESOLUTION NO. 942</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="942">RESOLUTION NO. 942</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Donald M. Hiltz, of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Donald M. Hiltz for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="943">RESOLUTION NO. 943</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="943">RESOLUTION NO. 943</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Kenneth W. Pringle of West Bay, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Kenneth W. Pringle for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="944">RESOLUTION NO. 944</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="944">RESOLUTION NO. 944</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Lawrence D. Whitty of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Lawrence D. Whitty for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="945">RESOLUTION NO. 945</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="945">RESOLUTION NO. 945</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Lawrence J. Burke of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Lawrence J. Burke for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="946">RESOLUTION NO. 946</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="946">RESOLUTION NO. 946</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Paul C. Martell of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Paul C. Martell for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="947">RESOLUTION NO. 947</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="947">RESOLUTION NO. 947</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Melvin Landry of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Melvin Landry for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="948">RESOLUTION NO. 948</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="948">RESOLUTION NO. 948</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Joseph M. Sutherland of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Joseph M. Sutherland for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="949">RESOLUTION NO. 949</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="949">RESOLUTION NO. 949</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Sidney E. Hardiman of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Sidney E. Hardiman for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="950">RESOLUTION NO. 950</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="950">RESOLUTION NO. 950</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Trevor Boudreau of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Trevor Boudreau for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="951">RESOLUTION NO. 951</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="951">RESOLUTION NO. 951</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Sonya L. Hayter of River Bourgeois, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Sonya L. Hayer for receiving this exceptional medal, and thank her for her dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="952">RESOLUTION NO. 952</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="952">RESOLUTION NO. 952</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Vincent H. DeWolfe of St. Peter's, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Vincent H. DeWolfe for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="953">RESOLUTION NO. 953</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="953">RESOLUTION NO. 953</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Wesley A. Peeples of Grand Anse, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Wesley A. Peeples for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="954">RESOLUTION NO. 954</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="954">RESOLUTION NO. 954</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Wilfred A. Barrette of L'Ardoise, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>
 <p>Therefore be it resolved that the members of the House of Assembly congratulate Wilfred A. Barrette for receiving this exceptional medal, and thank him for his dedication to our country.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="955">RESOLUTION NO. 955</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="955">RESOLUTION NO. 955</num><from>Hon. Michel Samson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Diamond Jubilee is a time to honour Her Majesty's 60 years of service and dedication to our country; and</p>
 <p>Whereas the Diamond Jubilee Century of Service Honorary Medal is a way to recognize veterans for their past service to our country; and</p>
 <p>Whereas on April 20, 2013, a ceremony was held at the Royal Canadian Legion Branch 47 in St. Peter's, where Sheldon L. O'Brien of Louisdale, Richmond County, was awarded the Diamond Jubilee Century of Service Honorary Medal;</p>

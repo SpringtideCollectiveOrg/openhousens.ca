@@ -4,55 +4,56 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. MACLEOD"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="bf736a4f-4e18-431a-acf2-10100b3a941a" href="/ontology/person/ca-ns.charlie.parker" showAs="MR. PARKER"/>
-        <TLCPerson id="5c567fec-a071-45dc-bccd-c81ad2bb492a" href="/ontology/person/ca-ns.ramona.jennex" showAs="MS. JENNEX"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="e63ef392-23cc-461a-bb21-5b72f51f8cc2" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
-        <TLCPerson id="ce0cf949-df99-4a43-b215-79f6ecf5cb35" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="MR. D'ENTREMONT"/>
-        <TLCPerson id="971fb72d-58d6-4afa-804e-25fe1a021c5c" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. THERIAULT"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. YOUNGER"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="fe203a69-7dd0-4237-83ee-6927a726e38e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="98fd525a-b480-446d-8a4d-f002d18eb5c0" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="56493acc-adb4-492b-a238-873ebc173cfa" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="leonard.preyra" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="john.macdonell" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="jim.boudreau" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="percy.paris" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="ramona.jennex" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="charlie.parker" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="harold.theriault" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
+        <TLCPerson id="maurice.g.smith" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="gary.ramey" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 4 April 2013</docTitle>
       <docNumber>13-06</docNumber>
       <docDate date="2013-04-04">Thursday, April 4, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13apr04/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
         <from>MR. SPEAKER</from>
         <p>The honourable Government House Leader.</p>
       </speech>
-      <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+      <speech by="#frank.corbett">
         <from>HON. FRANK CORBETT</from>
         <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
       </speech>
@@ -62,7 +63,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Resolution No. 39.</p>
         </speech>
@@ -72,7 +73,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Finance.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, pursuant to notice of motion given by me on March 28, 2013, and Rule 62 of the Rules and Forms of Procedure of the House of Assembly, I have the honour, by command, to present a message from His Honour the Lieutenant Governor of the Province of Nova Scotia, relating to the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2014, which is:</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, pursuant to notice of motion given by me on March 28, 2013, and Rule 62 of the Rules and Forms of Procedure of the House of Assembly, I have the honour, by command, to present a message from His Honour the Lieutenant Governor of the Province of Nova Scotia, relating to the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2014, which is:</p>
 <p>"I hereby transmit Estimates of Sums required for the Public Service of the province, for the year ending March 31, 2014, and in accordance with the the Constitution Act, 1867 recommend them, together with the Budget Address of my Minister of Finance, and any resolutions or bills necessary or advisable to approve the Estimates and implement the budget measures to the House of Assembly.</p>
 <p>Signed,</p>
 <p><b>J.J. Grant</b></p>
@@ -88,7 +89,7 @@
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The Estimates are tabled.</p>
 <p>I would like to remind our guests in the gallery today that under the Rules of the House, they are not to show either approval or disapproval of anything that happens here on the floor during our proceedings.</p>
 <p>The honourable Minister of Finance.</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, it is a privilege to rise in this House to deliver this government's 2013-14 budget.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, it is a privilege to rise in this House to deliver this government's 2013-14 budget.</p>
 <p><b>Back to Balance</b></p>
 <p>It is a budget that fulfills the government's commitment to bring Nova Scotia's finances back to balance. Because of that fact, this budget will be scrutinized more closely than others in recent memory. It will be scrutinized closely precisely because it represents a new way of doing things. Too often we have seen governments declare budgets balanced, only to realize, after the voters had their say, that the budget was not really balanced at all. Or that the choices made to show this temporary result were not sustainable or realistic ones.</p>
 <p>It is in that context that I am very proud to say the revenue forecasts contained in the 2013-14 budget have received an unqualified opinion from the Office of the Auditor General - something no Nova Scotian government has achieved in more than a decade. (Applause)</p>
@@ -228,7 +229,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Thank you, Mr. Speaker. It is my pleasure to rise, as the Finance Critic for the Liberal caucus, and reply to the budget document that we have before us, and the minister's Budget Speech.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Thank you, Mr. Speaker. It is my pleasure to rise, as the Finance Critic for the Liberal caucus, and reply to the budget document that we have before us, and the minister's Budget Speech.</p>
 <p>Mr. Speaker, it's clear that the numbers in the budget speak for themselves. There are a number of very questionable practices - shall I say? - and approaches that need to be looked at carefully, and I'm sure Nova Scotians will do just that.</p>
 <p>The government's credibility stood on trying to show a balanced budget and I believe that there was a determination, perhaps a desperation, to show that balanced budget today. That's exactly what we've just heard.</p>
 <p>There were a lot of broken promises, Mr. Speaker, as we know, with this government over the four years. We've had the opportunity to listen to the Finance Minister's storyline about what has happened in the last four years, but there is another level of truth, as well, that goes with that storyline.</p>
@@ -273,20 +274,20 @@
 <p>For examples in this House, members can see the ruling of Speaker Russell on April 16, 1999, ruling a question out of order because it imputed motives, or the ruling of Speaker Scott on April 20, 2004, to the same effect.</p>
 <p>Accordingly, I find the suggestion made in Question Period on Tuesday by the member for Dartmouth East, that the Deputy Premier had abused his position as Chair of the Treasury Board to exact revenue on the Auditor General, to have imputed motives, and that the honourable member should retract any suggestion.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6">
+          <speech by="#andrew.younger">
             <from>MR. ANDREW YOUNGER</from>
             <p>Thank you, Mr. Speaker, I will happily retract that question.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Thank you.</p>
 <p>The honourable Opposition House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, in your capacity as the Chair of the Management Commission, we'd ask if you could advise the members of the House as to what did take place in this matter in the fact that the Management Commission was asked to review a number of proposals for funding of the Auditor General's Office. A motion was agreed upon by the commission, but then was reversed by the Treasury Board.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, in your capacity as the Chair of the Management Commission, we'd ask if you could advise the members of the House as to what did take place in this matter in the fact that the Management Commission was asked to review a number of proposals for funding of the Auditor General's Office. A motion was agreed upon by the commission, but then was reversed by the Treasury Board.</p>
 <p>Therefore, as members of the commission and as members of the Legislature, we are left to ask, why was the commission even asked to make such a recommendation or a decision when it was reversed by the Treasury Board? If this should have gone to the Treasury Board all along, why was it even in front of the Management Commission to start off with?</p>
 <p>So in light of your capacity of Chair of the Management Commission, maybe you could advise us at a later date of exactly whether there are going to be changes in the future, that a decision of the Management Commission will be honoured by the government. Why is this even being considered by the Management Commission if government can turn around and do as they please in this? Hopefully you can take the opportunity to review that and advise on what will happen in the future for the Management Commission on such issues as the Auditor General's budget, and Election Nova Scotia's budget as well.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, for the purpose of the record, it was not the Management Commission itself but a special committee of the Management Commission of the House. It's there in the record, and then it's done in the deliberations of the Treasury Board. It's as simple as that.</p>
           </speech>
@@ -300,7 +301,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance.</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm sorry for the confusion and I thank the members of the House for their indulgence.</p>
+        <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm sorry for the confusion and I thank the members of the House for their indulgence.</p>
 <p>Mr. Speaker, can we have a two-minute recess?</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -323,7 +324,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance.</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+        <speech by="#maureen.macdonald">
           <from>HON. MAUREEN MACDONALD</from>
           <p>Thank you, Mr. Speaker. I don't know if "ready to roll" is parliamentary but anyway, I beg leave to table a certified copy of an Order in Council dated April 4, 2013, with respect to additional appropriations.</p>
         </speech>
@@ -338,14 +339,14 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Community Services.</p>
         </speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="115">RESOLUTION NO. 115</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="115">RESOLUTION NO. 115</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Wee Care Centre was the first daycare in eastern Canada established to meet the needs of children with physical and developmental delays; and</p>
 <p>Whereas the dedicated staff of this non-profit, Metro United Way agency have provided high-quality care and education to children of all abilities in Halifax Regional Municipality for 40 years, while overcoming many challenges, including a fire in 1991; and</p>
 <p>Whereas every day the Wee Care Centre continues to maximize the abilities of the children under their care, while providing support to their families;</p>
 <p>Therefore be it resolved that members of the House offer congratulations to Wee Care on its 40<sup>th</sup> Anniversary and extend a heartfelt thank you to the staff, students, volunteers, sponsors, and the Cerebral Palsy Association of Nova Scotia who have all made the Wee Care Centre the success it is today.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The notice is tabled.</p>
 <p>The honourable Minister of Health and Wellness.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="116">RESOLUTION NO. 116</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="116">RESOLUTION NO. 116</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas maintaining good oral health includes keeping teeth free from cavities and keeping your gums free from disease; and</p>
 <p>Whereas the month of April is Oral Health Month and an opportunity to increase awareness of how oral health contributes to overall health; and</p>
 <p>Whereas keeping teeth and gums healthy contributes to the prevention of serious, long-term health issues, such as oral cancer, which claims the lives of more than 1,000 Canadians each year;</p>
@@ -359,7 +360,7 @@
 <p>We're going to revert to a resolution, with the unanimous consent of the House. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Community Services.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I guess I'm excited about the budget too. I forgot to read the last part, so thank you for your patience.</p>
+        <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I guess I'm excited about the budget too. I forgot to read the last part, so thank you for your patience.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
@@ -367,7 +368,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Fisheries and Aquaculture.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="117">RESOLUTION NO. 117</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="117">RESOLUTION NO. 117</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas this year the first-ever Council of the Federation Excellence in Water Stewardship awards were presented in each province and territory, to recognize leadership in protecting and conserving our water resources; and</p>
 <p>Whereas Dalhousie's Centre for Water Resources Studies was presented the award by Nunavut for its work in developing a wastewater research project in six Nunavut communities; and</p>
 <p>Whereas the research project, in its third year, will benefit residents of Nunavut through improved wastewater treatment and access to safe drinking water;</p>
@@ -379,7 +380,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><num title="118">RESOLUTION NO. 118</num><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leonard.preyra"><num title="118">RESOLUTION NO. 118</num><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Two Houses Theatre Company is an intergenerational theatre group that was conceptualized by Nancy Radcliffe, executive director of Spencer House Community Centre, formerly known as Spencer House Seniors' Centre; and</p>
 <p>Whereas the Two Houses Theatre Company brings together members of Laing House, a peer support organization for youth living with mental illness, and Spencer House, a community centre whose membership consists largely of active seniors; and</p>
 <p>Whereas on March 21, 2013, the Two Houses Theatre Company made a stellar debut with two sold-out shows of <i>A Good Church</i>, a play by Mark DeWolf and Ray Whitley, which also served as a fundraiser for Laing House and Spencer House;</p>
@@ -405,7 +406,7 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that these bills be read a second time on a future day.</p>
 <p>The honourable Premier.</p></speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
+        <speech by="#darrell.dexter">
           <from>HON. DARRELL DEXTER</from>
           <p>Mr. Speaker, I would like to make an introduction.</p>
         </speech>
@@ -440,7 +441,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="120">RESOLUTION NO. 120</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="120">RESOLUTION NO. 120</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jennifer and Michael Howell have made many important contributions to their home province of Nova Scotia, working in radio and the Canadian Armed Forces, respectively, for many years; and</p>
 <p>Whereas Jennifer Howell has worked with News 95.7 since 2009 and has been producer on the Rick Howe Show since its inception in 2010, and Michael Howell has been with the Canadian Armed Forces since 2005, with tours in Afghanistan, Operation Unified Protector, and Operation Active Endeavour; and</p>
 <p>Whereas on April 7<sup>th</sup>, Jennifer and Michael will move to Ontario for a posting at CFB Trenton;</p>
@@ -452,7 +453,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="121">RESOLUTION NO. 121</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="121">RESOLUTION NO. 121</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Kraft Hockey Goes On promotion awards $1 million to Hockey Canada-affiliated minor hockey associations by recognizing local volunteers who make minor hockey happen in their communities; and</p>
 <p>Whereas nearly 800,000 votes were cast in support of 20 volunteers in Atlantic Canada, and 100 across Canada; and</p>
 <p>Whereas Joe Peck, a volunteer with the Northside District Minor Hockey Association, was awarded one of 20 second-place prizes of $20,000 for the association;</p>
@@ -464,7 +465,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-        <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35"><num title="122">RESOLUTION NO. 122</num><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.macdonell"><num title="122">RESOLUTION NO. 122</num><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas National Gypsum has been an important employer in the Hants East and Halifax County area for over 50 years; and</p>
 <p>Whereas Mr. Patrick Mills is retiring as the general manager after more than 30 years of employment with National Gypsum; and</p>
 <p>Whereas on April 6, 2013, Pat Mills will be honoured by National Gypsum for his years of service, and by the local community for his volunteer work;</p>
@@ -476,7 +477,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="123">RESOLUTION NO. 123</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="123">RESOLUTION NO. 123</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Yarmouth resident Nicole Gushue will be running in the Boston Marathon on April 15<sup>th</sup>; and</p>
 <p>Whereas the goal and inspiration for Ms. Gushue's marathon run will be to help raise funds for the children's cancer unit at the Massachusetts General Hospital in Boston; and</p>
 <p>Whereas Ms. Gushue is running the marathon in memory of her cousin's 9-year-old son, Nick Defelice, who lost his battle to cancer in June 2012;</p>
@@ -488,7 +489,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
-        <speech by="#98fd525a-b480-446d-8a4d-f002d18eb5c0"><num title="124">RESOLUTION NO. 124</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jim.boudreau"><num title="124">RESOLUTION NO. 124</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in December 2012, the Royal Bank in Guysborough honoured their volunteers and their contributions through the Employee Volunteer Grants program; and</p>
 <p>Whereas the program has provided over $11,000 in Employee Volunteer Grants to the Guysborough Memorial Hospital Auxiliary since 2000; and</p>
 <p>Whereas Jeanie Hart from the RBC branch in Guysborough has taken part in the Employee Volunteer Grants Program for the local hospital;</p>
@@ -500,7 +501,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Glace Bay.</p></speech>
-        <speech by="#d6776846-b12b-4366-882f-9844bee20011"><num title="125">RESOLUTION NO. 125</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#geoff.maclellan"><num title="125">RESOLUTION NO. 125</num><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the proudly-Canadian music channel MUCH has conducted the MUCH VJ Search, and has spanned our great nation looking to find the next MuchMusic VJ; and</p>
 <p>Whereas Glace Bay's own Justine Williamson is now among the final 18 MUCH VJ hopefuls whose personalities are highlighted on the VJ search reality show, currently airing on MUCH, where Justine and her competitors are travelling across Canada to participate in various elimination challenges; and</p>
 <p>Whereas Justine has performed extremely well, and her selection as one of the top participants from a national group of aspiring VJs is a testament to her natural skills, charisma, work ethic, and drive to fulfill her dream of becoming a broadcaster;</p>
@@ -512,7 +513,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="126">RESOLUTION NO. 126</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="126">RESOLUTION NO. 126</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Bedford resident Scott Norton, Q.C., has more than 28 years of legal experience as a civil trial lawyer, counselling commercial and insurance clients across Canada; was named by the National Post as one of the best lawyers in his field; and manages the advocacy group for the firm Stewart McKelvey; and</p>
 <p>Whereas Mr. Norton volunteers his time as a member of the board of governors of Saint Mary's University, a trustee of the IWK Health Centre Foundation, chair of the board of Autism Nova Scotia, and a trustee of the Sidney Crosby Foundation; and</p>
 <p>Whereas Scott Norton has been awarded the Saint Mary's University Alumni Association Distinguished Community Service Award;</p>
@@ -530,17 +531,17 @@
 <p>The honourable Leader of the Opposition.</p></speech>
         <debateSection>
           <heading>PREM.: EMPLOYMENT/INCOME TAX REVENUES - CORRELATION</heading>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, 6,400 fewer Nova Scotians are working full-time this year than last, and today we learned government is predicting unemployment will increase in the coming year. They also predict that personal income tax revenues will increase by $145 million. I know the NDP struggle with math by dealing with their $27 million they forgot to tell us about last year, but I don't think any Nova Scotians are going to believe that math equation.</p>
+          <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, 6,400 fewer Nova Scotians are working full-time this year than last, and today we learned government is predicting unemployment will increase in the coming year. They also predict that personal income tax revenues will increase by $145 million. I know the NDP struggle with math by dealing with their $27 million they forgot to tell us about last year, but I don't think any Nova Scotians are going to believe that math equation.</p>
 <p>So my question to the Premier is, how can this Premier tell us with a straight face that he is going to collect more income tax with fewer and fewer Nova Scotians working?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I think the question really speaks for itself. It's representative of the fact that the Leader of the Opposition doesn't understand labour force statistics and wants to deliberately mislead Nova Scotians.</p>
 <p>The fact of the matter is, more Nova Scotians will be working. Even if unemployment should increase, more Nova Scotians will be working. They will be working at higher levels of income, Mr. Speaker, which means that the level of income will grow and, therefore, personal income tax will grow.</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I think we heard that from the Premier last year and you know where that got us. One thing we know for sure is this government has failed miserably at growing the economy and they can't dispute it, even though government will try, yet this government's rosy revenue projections say that they will collect $75 million more in HST in that same year as this government is predicting fewer Nova Scotians will be working.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, I think we heard that from the Premier last year and you know where that got us. One thing we know for sure is this government has failed miserably at growing the economy and they can't dispute it, even though government will try, yet this government's rosy revenue projections say that they will collect $75 million more in HST in that same year as this government is predicting fewer Nova Scotians will be working.</p>
 <p>My question is, how can the Premier tell us with a straight face that he is going to collect $75 million more in HST, with fewer people working and rural Nova Scotia bleeding jobs?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I pointed out, in fact more people will be working this year. These are not our revenue projections; they were tested by the Conference Board of Canada, by APEC, by independent academic economists in our universities and further to that, by the Auditor General who agrees with these revenue projections.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I think the Premier ought to read what the Auditor General said when it came to his revenue projections. He did not give an unqualified endorsement of the revenue projections, he said he couldn't say. He should read the document.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, I think the Premier ought to read what the Auditor General said when it came to his revenue projections. He did not give an unqualified endorsement of the revenue projections, he said he couldn't say. He should read the document.</p>
 <p>Mr. Speaker, this is a government that has created a fictional $1.4 billion deficit that never existed. This is a government that has manipulated its first budget by prepaying universities. This is a government that in its second budget was off by $0.75 billion and that is billion dollars with a "b". This is a government that lost $87 million in Public Accounts documents. This is a government that failed to disclose a $27 million overstatement in revenues last year.</p>
 <p>Mr. Speaker, given this government's track record with fiction and failure, how can Nova Scotians trust the government now?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, it is always amazing. I think that bitterness and sour grapes is not a very appealing quality, even for the Leader of the Opposition. I've noticed that his idea of truth has many, many iterations so we never know which one we're going to get.</p>
@@ -552,7 +553,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM. - BALANCED PLAN: LACK - CONFIRM</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, despite what the government claims, of all those people they claimed to have consulted on this budget, 6,700 of them lost their full-time job in the last 12 months. Unlike the two previous gentlemen, I actually have the Statistics Canada report, seasonally adjusted, which I will table so the Premier knows: 6,700 full-time jobs lost in the last 12 months. Nova Scotians know that you cannot say that Nova Scotia is in balance when so many people lose their jobs. In this budget they project more job losses, not less in the months and years ahead.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, despite what the government claims, of all those people they claimed to have consulted on this budget, 6,700 of them lost their full-time job in the last 12 months. Unlike the two previous gentlemen, I actually have the Statistics Canada report, seasonally adjusted, which I will table so the Premier knows: 6,700 full-time jobs lost in the last 12 months. Nova Scotians know that you cannot say that Nova Scotia is in balance when so many people lose their jobs. In this budget they project more job losses, not less in the months and years ahead.</p>
 <p>I will ask the Premier, will he acknowledge what all Nova Scotians know, that there is no balanced plan when so many people are out of work?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, the Leader of the Progressive Conservative Party now invents a new test every time the old ones don't work. This is a person who stood in front of a sign at his convention that said "Stop more jobs." The reality is that more people will work this year in this province; they are going to work at higher rates of pay.</p>
 <p>We're working hard by making good investments in things like the shipyard contract to bring 11,500 more jobs to our province. PROJEX, an investment that is going to bring 440 more &#x2026;</p></speech>
@@ -563,11 +564,11 @@
             <from>THE PREMIER</from>
             <p>Thank you. PROJEX, another 440 jobs and another 500 with the IBM Global Delivery Centre; these aren't low-paying, low-wage jobs, these are good-paying, high-quality jobs for Nova Scotians. That is what a recipe for success looks like. I know that the Leader of the Progressive Conservative Party, they don't recognize that.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, sadly not only is the Premier having trouble with math but apparently he's having trouble reading, as well, because what that signs says is "Lower Taxes, Stop Wasteful Spending, More Jobs" that is a real plan to grow the economy, not a false plan like the one that we saw today.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, sadly not only is the Premier having trouble with math but apparently he's having trouble reading, as well, because what that signs says is "Lower Taxes, Stop Wasteful Spending, More Jobs" that is a real plan to grow the economy, not a false plan like the one that we saw today.</p>
 <p>Mr. Speaker, since the government came to office, electricity prices are up 40 per cent. The cost of everyday items has gone up more than everywhere else in the country but Nova Scotia has the seventh-lowest rate of wage growth in all of Canada. People are not making any more money but the cost of living has gone up. Will the Premier admit to them the obvious, that a province where incomes are not going up but the cost of everything is, is not in balance, and I'll table that, someday.</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, that's not true, he knows that's not true. He knows that wage income is growing in Nova Scotia; he knows that the quality of jobs that are coming here are growing. What you are getting is job losses on the lower end but what you're seeing is new, high-quality jobs which means that people are making a better wage and they are better able to afford the kind of life that I think especially young families in this province would want.</p>
 <p>We are seeing the kinds of investments that I understand the Leader of the Progressive Conservative Party says that he would make, and I understand that he would be satisfied with having another 1,500 people unemployed in Port Hawkesbury or another 1,000 people unemployed in Liverpool but that is not the job of this government. The job of this government is to make sure that we put people to work and that's what we're doing.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>Mr. Speaker, the only plan we saw for jobs today from the Premier and his government was to reach into the pockets of every single Nova Scotian for another $300 each; that is not a plan that's in balance when you have to grab another $300 out of the pockets of everyday Nova Scotians. Will the Premier admit that a plan that takes $3 from them for every $1 he hopes to save himself is not a plan that's in balance?</p>
           </speech>
@@ -582,17 +583,17 @@
         </debateSection>
         <debateSection>
           <heading>PREM. - UNIVERSITIES: PREPAYMENTS - JUSTIFICATION</heading>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>HON. STEPHEN MCNEIL</from>
             <p>Mr. Speaker, in the 2009 Deloitte report this government was warned not to continue the practice of prepaying sums to universities. This government didn't listen and has prepaid to universities not only once but twice. So my question to the Premier is, why does the Premier think it is okay to prepay universities?</p>
           </speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, in fact the practice of prepaying was one that was really an invention of the former government and we have reduced the amount of prepays considerably and we've got down to the point now where only two universities require prepays, and if they were not prepaid they would not be able to meet their payroll obligations.</p>
 <p>Mr. Speaker, we're working with them, we intend to move them off that so that further prepays are not necessary. They are for this year, we don't believe they will be for next year but we're working with the universities to make sure that their needs are met.</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, when asked about the practice of prepaying universities of the previous Tory Government, our now Premier called it "a fudge-it budget." My, how things have changed.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, when asked about the practice of prepaying universities of the previous Tory Government, our now Premier called it "a fudge-it budget." My, how things have changed.</p>
 <p>The last time this Premier prepaid universities in his fiscal shell game The ChronicleHerald called it "deeply disappointing" and it hits at the NDP's credibility. Mr. Speaker, how does the Premier believe that his government's practice of prepaying universities is any different than the former Progressive Conservative Government's?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, the reality is that some of the universities do not have a period that is co-extensive with the budget period, so they need revenue in advance in order to be able to meet their obligations; in fact, they request of the government to receive this money. We met the requests they made in order to allow them to be able to fulfill their obligations.</p>
 <p>In return, because they are prepaid, they receive a reduced amount equal to the interest that they would earn on the money for receiving it early, because we seek to be fair with them - the same way we are fair with all of the universities.</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, the reality is that if the Premier had done the right thing and paid universities in this fiscal year he would be in deficit again this year. This is nothing more than a shell game for the Premier to be able to try to pretend that he has presented a balanced budget to the people of this province.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, the reality is that if the Premier had done the right thing and paid universities in this fiscal year he would be in deficit again this year. This is nothing more than a shell game for the Premier to be able to try to pretend that he has presented a balanced budget to the people of this province.</p>
 <p>My question to the Premier is, why was he holding the former Premier, the former Progressive Conservative Premier, to one standard when he is prepared to do the exact same thing?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -605,18 +606,18 @@
         </debateSection>
         <debateSection>
           <heading>FIN. - INCOME TAX INCREASES: COLLECTION - DETAILS</heading>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, my question is to the Minister of Finance. The Finance Minister presented a document today which really should be filed in the library under "Fiction". What we have is an overly-optimistic revenue estimate which goes far beyond the (Interruptions) What we have is an overly-optimistic revenue estimate that goes far beyond what economists would recommend.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, my question is to the Minister of Finance. The Finance Minister presented a document today which really should be filed in the library under "Fiction". What we have is an overly-optimistic revenue estimate which goes far beyond the (Interruptions) What we have is an overly-optimistic revenue estimate that goes far beyond what economists would recommend.</p>
 <p>Mr. Speaker, my question to the minister is, will the Finance Minister explain to Nova Scotians how she plans to collect $145 million more in taxes from fewer working Nova Scotians?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, what the honourable member says about fewer working Nova Scotians is, in fact, the fiction here. There are more Nova Scotians working in the province today than at any other point in our history - that is a fact.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, what the honourable member says about fewer working Nova Scotians is, in fact, the fiction here. There are more Nova Scotians working in the province today than at any other point in our history - that is a fact.</p>
 <p>The other thing that is factual is that incomes, in fact, of Nova Scotians are increasing, including incomes of people who are retired. So they may not necessarily be in the workforce, but they certainly have higher taxable incomes.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Mr. Speaker, I think the minister is really splitting hairs around the Statistics Canada information - 6,400 fewer people have fewer full-time jobs in this province, 6,400. That's an important thing. We're splitting hairs if we argue about that. Nova Scotians aren't interested, they know who has money in their pocket and who doesn't.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, I think the minister is really splitting hairs around the Statistics Canada information - 6,400 fewer people have fewer full-time jobs in this province, 6,400. That's an important thing. We're splitting hairs if we argue about that. Nova Scotians aren't interested, they know who has money in their pocket and who doesn't.</p>
 <p>Mr. Speaker, the revenue projections remain overly optimistic, to turn around to the extent that the minister has suggested. The provincial unemployment rate today stands at 9.3 per cent and is estimated to continue in that range at 9.1 or 9.2 per cent. This hides serious challenges, too, that are outside of HRM - Cape Breton, 17 per cent unemployment; Annapolis Valley is 10.4 per cent; 12.2 per cent in southern Nova Scotia; and 12.5 per cent along the North Shore. The Premier and members know that. Serious employment challenges are going to affect the budget outcome and yet the minister continues to say there will be $145 million more in revenue.</p>
 <p>My question is, how can the minister truly believe that she will collect $145 million more in personal tax revenue next year?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, I was very pleased that the Department of Finance, in preparing the budget for this coming year, tested the economic assumptions with all of the major financial institutions in the country, their senior economists, the senior economists with the Conference Board of Canada, the economists here with the Atlantic Provinces Economic Council, as well as many in the academic community and our economics department.</p>
+          <speech by="#maureen.macdonald"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, I was very pleased that the Department of Finance, in preparing the budget for this coming year, tested the economic assumptions with all of the major financial institutions in the country, their senior economists, the senior economists with the Conference Board of Canada, the economists here with the Atlantic Provinces Economic Council, as well as many in the academic community and our economics department.</p>
 <p>I participated in those consultation processes and indeed heard the economists from these various institutions indicate that the assumptions being put forward by the economists in the Department of Finance were reasonable, they met the forecast that they themselves had for the Province of Nova Scotia. Following that process, we submit this to the Auditor General for his opportunity to look at that and consult as well, independently. The budget has been put together by professionals, they test the assumptions and they reflect an accurate representation of what we heard and a consensus among the economic community.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Mr. Speaker, the inflated revenue figures fly in the face of common sense; I don't care what the minister says, it's not common sense. It will tell you that if you have fewer people working, if you have an aging population, if you have lower incomes than the rest of Canada, your revenues are not going to suddenly just shoot up $145 million in one year, it's not happening.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, the inflated revenue figures fly in the face of common sense; I don't care what the minister says, it's not common sense. It will tell you that if you have fewer people working, if you have an aging population, if you have lower incomes than the rest of Canada, your revenues are not going to suddenly just shoot up $145 million in one year, it's not happening.</p>
 <p>The NDP have created a fiction in the past of a $1.4 billion deficit, they've misrepresented a $27 million amount last year; there has been a series of things that have shaken the confidence of Nova Scotians. My question to the minister is, given the track record of fiction and failure, how can Nova Scotians trust any numbers that come from the NDP now?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, we were able to table a balanced budget today because when we came to government we consulted with experts, we talked to Nova Scotians, we developed a multi-year plan and we stuck to that plan. The results of that plan are here today; Nova Scotia is on the brink of greater prosperity, we are turning the corner. I know, looking at the faces of the members of the Official Opposition, they have a very hard time accepting that prosperity is in front of Nova Scotians. Something that is very sad.</p>
           </speech>
@@ -627,25 +628,25 @@
         </debateSection>
         <debateSection>
           <heading>ERDT: SOUTHWESTERN N.S. RECESSION - GOV'T RESPONSIBILITY</heading>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, my question is to the Minister of Economic and Rural Development and Tourism. The economy of Nova Scotia is out of balance. While the NDP pat themselves on the back - as we just saw them as they were turning the corner - the people of southwestern Nova Scotia have nothing to celebrate from this budget. Over the last four years, they've lost a devastating 5,400 jobs, and caused an exodus of 3,500 people, leaving families and businesses with fewer opportunities to grow.</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, my question is to the Minister of Economic and Rural Development and Tourism. The economy of Nova Scotia is out of balance. While the NDP pat themselves on the back - as we just saw them as they were turning the corner - the people of southwestern Nova Scotia have nothing to celebrate from this budget. Over the last four years, they've lost a devastating 5,400 jobs, and caused an exodus of 3,500 people, leaving families and businesses with fewer opportunities to grow.</p>
 <p>So, Mr. Speaker, my question to the minister is - it's clear that the government has no idea how to manage a modern economy - will this government take responsibility that their actions have launched southwestern Nova Scotia into a devastating recession?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>After 20 years of the worst economic growth in Canada, we finally came into power at a time of the worst recession since the Great Depression, and we've made a difference. We've impacted 400 jobs in Nova Scotia, and 10,000 Nova Scotians are better educated and better trained today than they were four years ago. Mr. Speaker, that's progress.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+          <speech by="#christopher.a.dentremont">
             <from>MR. D'ENTREMONT</from>
             <p>Mr. Speaker, the government's short-sighted plan to cancel the Yarmouth ferry has thrown the region off kilter. When the NDP abandoned this vital tourism link, they didn't balance the loss with support. There is no balance with this government. Will the minister admit that his policies have put the economy of southwest Nova Scotia out of balance and plunged the region into a homegrown NDP recession?</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, it's widely known the investment that this government in the last four years has made in the southwestern region. We've formed committees down there; we've invested in the World Junior Hockey Championships, we invested not only once, but twice; and we've invested in the Rodd Grand because we understand that some of those other things would not occur if the Rodd Grand did not exist. We have, and will continue to invest in southwestern Nova Scotia, make good, strategic investments for the good of southwestern Nova Scotia which, indeed, will benefit all of Nova Scotia.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+          <speech by="#christopher.a.dentremont">
             <from>MR. D'ENTREMONT</from>
             <p>Mr. Speaker, when the people of southwestern Nova Scotia are struggling and being forced to leave their communities and families behind to work - something isn't right. Things are out of balance. The unemployment rate in the region stands at a shameful 11.1 per cent. Once again, the NDP have let down the residents of southwestern Nova Scotia. Will the minister admit that there is nothing balanced about a region with an unemployment rate of over 11 per cent, thousands of disappearing jobs, and a population that is shrinking and losing hope?</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, maybe the member opposite isn't aware of the investment that we made in Tri-Star, Tri-Star Ambulance Service in Yarmouth that serves the global community; maybe the member is not aware of the investment that we made in the Shelburne Shipyard, because we had a vision - we had a vision and we had a plan that's coming true today; maybe the member opposite is not aware of the investments that we made in White Point which, by the way, is up and operating now; maybe the member opposite is not aware of the investments that we made in Theriault &amp; Son, a shipyard in Meteghan. Obviously there are a lot of things that the member opposite is not aware of.</p>
           </speech>
@@ -656,22 +657,22 @@
         </debateSection>
         <debateSection>
           <heading>EDUC. - SCH. CLOSURE REVIEW: SUSPENSION - REASON</heading>
-          <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>HON. KAREN CASEY</from><p>Mr. Speaker, one more time this Minister of Education has waded into an issue that has caused aggravation, anxiety, anger and disappointment in public schools across the province. She's been very successful in dividing communities, disrespecting elected school board members, school board staff, teachers, parents, and other community leaders. Yesterday, in a letter to school boards the minister asked them to halt the school review process. This letter was received from the minister and the reaction was that it was "unexpected and unsettling."</p>
+          <speech by="#karen.casey"><from>HON. KAREN CASEY</from><p>Mr. Speaker, one more time this Minister of Education has waded into an issue that has caused aggravation, anxiety, anger and disappointment in public schools across the province. She's been very successful in dividing communities, disrespecting elected school board members, school board staff, teachers, parents, and other community leaders. Yesterday, in a letter to school boards the minister asked them to halt the school review process. This letter was received from the minister and the reaction was that it was "unexpected and unsettling."</p>
 <p>What is equally disturbing is that the minister is telling the public that this is just a short-term delay, but communities are smarter than that. They know that the delay is directly related to the next provincial election.</p>
 <p>Will the minister admit that this decision had nothing to do with the school review process and had everything to do with electioneering?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>HON. RAMONA JENNEX</from>
             <p>Mr. Speaker, I've asked the school boards to suspend school reviews because it's all about community and our students. The process was adversarial. We want to move forward in providing a better way for our communities and our students. Thank you.</p>
           </speech>
-          <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>MS. CASEY</from><p>Mr. Speaker, I would suggest that maybe the minister might want to get the reaction from those people. I think it might be a little different.</p>
+          <speech by="#karen.casey"><from>MS. CASEY</from><p>Mr. Speaker, I would suggest that maybe the minister might want to get the reaction from those people. I think it might be a little different.</p>
 <p>Yesterday in Question Period the minister talked about inheriting a flawed process, and I want to remind the members of the public that it was this NDP Government in 2009 that held some public focus groups on the closure process. In 2010 the minister of the day amended the school review process. The intent of that legislation was, "&#x2026; providing more input at crucial stages of the process."</p>
 <p>My question to the minister is, what actions have taken place since the amendments of 2010 to provide "more input at crucial stages"?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><from>MS. JENNEX</from><p>Mr. Speaker, the member opposite knows that we put a new review process in place. We are working with the existing process to provide more opportunity at two points in the process, and we clarified the dates so that the impact statements could be read/received.</p>
+          <speech by="#ramona.jennex"><from>MS. JENNEX</from><p>Mr. Speaker, the member opposite knows that we put a new review process in place. We are working with the existing process to provide more opportunity at two points in the process, and we clarified the dates so that the impact statements could be read/received.</p>
 <p>This process, which we did amend, went through two cycles. This cycle was extremely adversarial. Communities are telling me and our government, and I'm sure the member opposite, that it was not working. This government listened, and because we listened, we want to move forward with our community to design a better process for our children and our communities.</p></speech>
-          <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><from>MS. CASEY</from><p>Again, Mr. Speaker, I think it might be important for the minister to talk to the board chairs, because their definition of what has happened as a result of the May 2010 amendment is "absolutely nothing." The amendment was passed in 2010. Despite that legislation, nothing was changed in the process, and now, all of a sudden, the minister decides that she should do something.</p>
+          <speech by="#karen.casey"><from>MS. CASEY</from><p>Again, Mr. Speaker, I think it might be important for the minister to talk to the board chairs, because their definition of what has happened as a result of the May 2010 amendment is "absolutely nothing." The amendment was passed in 2010. Despite that legislation, nothing was changed in the process, and now, all of a sudden, the minister decides that she should do something.</p>
 <p>Over the last three years she stood idly by and watched communities suffer through the stresses, pitting one community against another, and now she expects them to be excited. This shows a total disrespect for the parents and others in those communities who, over those last three years, were working in the best interests of kids.</p>
 <p>My question to the minister is, will the minister apologize to those communities for her lack of action over the last three years and for forcing them through a flawed process?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, I look forward to being able to work with communities across Nova Scotia to make sure we have a better process, which will concentrate on what is best for our children and our communities. Thank you very much.</p>
           </speech>
@@ -682,15 +683,15 @@
         </debateSection>
         <debateSection>
           <heading>ERDT: ECONOMY MANAGEMENT - GOV'T. INABILITY</heading>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, my question will be for the Minister of Economic and Rural Development and Tourism. Under the NDP the economy in the Valley has been thrown off balance. Full-time employment has actually dropped by 800 and more under this government.</p>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, my question will be for the Minister of Economic and Rural Development and Tourism. Under the NDP the economy in the Valley has been thrown off balance. Full-time employment has actually dropped by 800 and more under this government.</p>
 <p>My question is, when will the government finally recognize that their policies of the highest taxes, the highest power rates, and runaway giveaways have created a serious imbalance and show that they don't know how to manage a modern economy?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, the government recognizes, as I'm sure all members of the House, that layoffs and closures are very difficult on everyone. I think that when you take into consideration, after 20 years of the worst economic growth in Canada, that we finally - we implemented a plan four years ago - and finally we see the corner up ahead which we are turning. We are creating good employment opportunities right across this province and for the first time in 20 years Nova Scotians are optimistic about their future.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>I want to remind the minister that 10.3 per cent unemployment rate in the Valley area is nothing to be too optimistic about. Real balance needs to be restored in the Valley and under this government, as I already said - and you know what, Mr. Speaker, 700 and more have given up and they have left the region. They've gone elsewhere to live, and to work, and to raise their families. Until we get the fundamentals back in balance rural Nova Scotians cannot expect a turnaround. Having good fundamentals allows for job creation. Those fundamentals are simple, they include abandoning the highest taxes in the country, the highest power rates, and stop the wasteful spending that we've seen under this government.</p>
+          <speech by="#chuck.porter"><from>MR. PORTER</from><p>I want to remind the minister that 10.3 per cent unemployment rate in the Valley area is nothing to be too optimistic about. Real balance needs to be restored in the Valley and under this government, as I already said - and you know what, Mr. Speaker, 700 and more have given up and they have left the region. They've gone elsewhere to live, and to work, and to raise their families. Until we get the fundamentals back in balance rural Nova Scotians cannot expect a turnaround. Having good fundamentals allows for job creation. Those fundamentals are simple, they include abandoning the highest taxes in the country, the highest power rates, and stop the wasteful spending that we've seen under this government.</p>
 <p>My question to the minister is, will he finally acknowledge that the NDP spin, the talking points, are ludicrous in light of job losses and policies that scare away job creation in this province?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>I recognize that the member is from the Valley and I have to remind the member about our investments in Michelin. Michelin has expanded and I would like to think that the member would recognize that sort of investment, and Michelin is not the only investment that we made in the Valley. Mr. Speaker, we make investments that are going to create good opportunities for Nova Scotians, whether it be in the Valley, whether it be in southwest Nova Scotia, whether it be in Cape Breton, or whether it be in central Nova Scotia.</p>
           </speech>
@@ -701,22 +702,22 @@
         </debateSection>
         <debateSection>
           <heading>EDUC.: W. RICHMOND EDUC. CTR. - CONCERNS</heading>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, the Minister of Education's announcement yesterday with regard to school reviews and closures came as a surprise to many communities. As part of the review process for West Richmond Education Centre, parents, educators, and students wrote to the Minister of Education asking for her intervention in a process they deemed was unfair. The Minister of Education refused to meet with them and only responded once a decision was made to close the school. Yesterday, however, the minister said she is now listening to parents and communities affected by school closures. So my question is, why did the Minister of Education not address the concerns raised by parents and students of the West Richmond Education Centre before the Strait Regional School Board voted to close it under her flawed review process?</p>
           </speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>HON. RAMONA JENNEX</from>
             <p>As the honourable member knows, the Minister of Education cannot get involved in the review process, it is under the school board. What I have done is I have asked the school board to suspend the school review process for this year. I have asked them and I will hear back from school boards by April 30<sup>th</sup>.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>After communities, parents, and teachers have been put through the wringer by this NDP Government, grappling with $65 million in funding cuts to public education, and hundreds of hours of stressful school reviews the minister swept in doing an about-face and telling communities their work and stress was all for naught. When I asked during Question Period, almost a complete year ago, April 11, 2012, about intervening in the review process for West Richmond Education Centre the minister replied, "&#x2026; under the legislative process the school review is very clearly mandated and it is not to be interfered with by the minister. The school review process is a very clearly articulated process where parents and community have the opportunity on two separate occasions to offer their input to the process and to the board."</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>After communities, parents, and teachers have been put through the wringer by this NDP Government, grappling with $65 million in funding cuts to public education, and hundreds of hours of stressful school reviews the minister swept in doing an about-face and telling communities their work and stress was all for naught. When I asked during Question Period, almost a complete year ago, April 11, 2012, about intervening in the review process for West Richmond Education Centre the minister replied, "&#x2026; under the legislative process the school review is very clearly mandated and it is not to be interfered with by the minister. The school review process is a very clearly articulated process where parents and community have the opportunity on two separate occasions to offer their input to the process and to the board."</p>
 <p>Mr. Speaker, this is a pretty glowing review of a process that the minister said was flawed just yesterday, so my question to the minister is, West Richmond Education Centre is slated for closure this June, will the minister tell us what will be the future of this school in light of her announcement yesterday?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><from>MS. JENNEX</from><p>Mr. Speaker, I have asked the school boards to suspend the process for this year and I'm expecting to hear an answer back by April 30<sup>th</sup>.</p>
+          <speech by="#ramona.jennex"><from>MS. JENNEX</from><p>Mr. Speaker, I have asked the school boards to suspend the process for this year and I'm expecting to hear an answer back by April 30<sup>th</sup>.</p>
 <p>I want to be very clear that I have listened to communities; I've listened to students; I've listened to parents; I've listened to schools; and I've listened to school board members. That is why I have asked the school boards to suspend any future school reviews so we can work on a better process that clearly is not as adversarial as the one that we inherited.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>Mr. Speaker, it's pretty cute to hear the minister today talking about her concern about an adversarial system when you had parents, educators and students of the West Richmond Education School write to the minister, express their concerns, express their frustrations, only to be ignored - absolutely ignored until the Strait Regional School Board had made their decision.</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Mr. Speaker, it's pretty cute to hear the minister today talking about her concern about an adversarial system when you had parents, educators and students of the West Richmond Education School write to the minister, express their concerns, express their frustrations, only to be ignored - absolutely ignored until the Strait Regional School Board had made their decision.</p>
 <p>What's even more cute about the minister's statement is while she's asking for a halt to the school review process going forward, she has as well asked for a halt to any school closures that were done last year. The decision to start doing the review of the closure of West Richmond was done in 2011, that is when it started, the vote was last year.</p>
 <p>The community, which was ignored previously by the minister, is asking today, will the Minister of Education indicate whether West Richmond Education Centre will close in June or will it not, as a result of her directive given to school boards yesterday?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, that is still under the board's mandate - and I find it extremely disappointing to hear a member opposite who does not agree to move forward to find a better way for our communities and our students.</p>
           </speech>
@@ -727,21 +728,21 @@
         </debateSection>
         <debateSection>
           <heading>ERDT - C.B. ECONOMY: MIN. RESPONSIBILITY - EXPLAIN</heading>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, Cape Breton has been hit hard by a homegrown NDP recession. Unemployment rates have skyrocketed to 17.5 per cent. There are more than 10,000 people out of work in Cape Breton - for every job that opens up there are 16 unemployed. The Cape Breton economy is out of whack.</p>
+          <speech by="#eddie.orrell"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, Cape Breton has been hit hard by a homegrown NDP recession. Unemployment rates have skyrocketed to 17.5 per cent. There are more than 10,000 people out of work in Cape Breton - for every job that opens up there are 16 unemployed. The Cape Breton economy is out of whack.</p>
 <p>My question to the minister of ERDT is, what excuse does the minister have for forcing Cape Breton's economy off-kilter?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, the member opposite knows the answer to that question - while we are creating jobs in Nova Scotia, his cousins in Ottawa are killing jobs.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, in Cape Breton we've lost 1,000 full-time jobs and 1,600 part-time jobs in the last four years. Nearly 3,000 people in Cape Breton now have to rely on food banks - that's an increase of more than 400 in the past years. If those figures don't show that government has thrown Cape Breton's economy out of balance, I don't know what will.</p>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Mr. Speaker, in Cape Breton we've lost 1,000 full-time jobs and 1,600 part-time jobs in the last four years. Nearly 3,000 people in Cape Breton now have to rely on food banks - that's an increase of more than 400 in the past years. If those figures don't show that government has thrown Cape Breton's economy out of balance, I don't know what will.</p>
 <p>My question to the minister is, when will this government take responsibility that their actions have launched Cape Breton into a devastating recession?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, the member opposite, his time would be better served if he got in touch with his contacts in Ottawa and asked them about Veterans Affairs; ask them about Revenue Canada; ask them about the federal contact centres in Cape Breton. It's obvious, we are working hard for Cape Breton, as we do for all Nova Scotians. We are creating employment in Cape Breton, we will continue to work hard and I hope he will do something with his cousins in Ottawa about terminating jobs in Cape Breton.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, 2 per cent HST increase; power rates at nearly 30 per cent, higher than they were when these guys took power; businesses in Cape Breton are struggling - they are struggling to keep their heads above water, never mind keep employees. The economic environment in Cape Breton is out of whack. People are struggling with higher power rates, higher taxes, higher unemployment, and a scarcity of jobs. More than 4,000 people have left Cape Breton in the past four years, in search of a better deal. With job vacancies at an all-time low, who can blame them?</p>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Mr. Speaker, 2 per cent HST increase; power rates at nearly 30 per cent, higher than they were when these guys took power; businesses in Cape Breton are struggling - they are struggling to keep their heads above water, never mind keep employees. The economic environment in Cape Breton is out of whack. People are struggling with higher power rates, higher taxes, higher unemployment, and a scarcity of jobs. More than 4,000 people have left Cape Breton in the past four years, in search of a better deal. With job vacancies at an all-time low, who can blame them?</p>
 <p>Will the minister admit there's nothing balanced about a region with unemployment of over 17 per cent, thousands of jobs disappearing and a population that is shrinking and losing hope?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>MR. PARIS</from><p>Mr. Speaker, we've made investments in Cape Breton, we will continue to make those investments. Northside Processing, Billdidit, Copol, we've made numerous investments in Cape Breton. What we've got to do is we've got to do something about the negativity.</p>
+          <speech by="#percy.paris"><from>MR. PARIS</from><p>Mr. Speaker, we've made investments in Cape Breton, we will continue to make those investments. Northside Processing, Billdidit, Copol, we've made numerous investments in Cape Breton. What we've got to do is we've got to do something about the negativity.</p>
 <p>Mr. Speaker, if the Progressive Conservatives would stop their negativity, which we've witnessed in this House when we had companies coming to Nova Scotia up in the gallery.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -750,20 +751,20 @@
         </debateSection>
         <debateSection>
           <heading>EDUC. - SCH. REVIEWS: SUSPENSION - TIMING EXPLAIN</heading>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, parents, teachers and students have been telling the Minister of Education for the past three years that her cuts have been having a detrimental effect on the public education system, resulting in teacher cuts, program cuts and school closures. The minister says that she has asked school boards to halt review processes because of what she was hearing from parents and communities. But this minister has been hearing from parents and communities for the past three years about the damage that her deep cuts are causing in our classrooms.</p>
+          <speech by="#zach.churchill"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, parents, teachers and students have been telling the Minister of Education for the past three years that her cuts have been having a detrimental effect on the public education system, resulting in teacher cuts, program cuts and school closures. The minister says that she has asked school boards to halt review processes because of what she was hearing from parents and communities. But this minister has been hearing from parents and communities for the past three years about the damage that her deep cuts are causing in our classrooms.</p>
 <p>My question to the minister is, why now, at the eleventh hour, on the eve of an election, has she finally started to listen?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><from>HON. RAMONA JENNEX</from><p>Before I begin my answer I just want to say that I did visit Yarmouth school, their beautiful new school in Yarmouth, not too long ago and I visited some classes of students who were working with their teachers. I have to say that they're doing a fine job. Some of the classes I visited had three students per teacher, so they're getting a fine education in Yarmouth.</p>
+          <speech by="#ramona.jennex"><from>HON. RAMONA JENNEX</from><p>Before I begin my answer I just want to say that I did visit Yarmouth school, their beautiful new school in Yarmouth, not too long ago and I visited some classes of students who were working with their teachers. I have to say that they're doing a fine job. Some of the classes I visited had three students per teacher, so they're getting a fine education in Yarmouth.</p>
 <p>At the end of the review process - it was March 31<sup>st</sup> - we let the process go through to that end before I asked the school boards to suspend. I must say that I'm looking forward to our coming year in education because we have the lowest student-teacher ratio under this budget that this province has ever seen. Thank you very much.</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>First of all, that brand new high school that the minister is boasting about made people sick for the first number of months that people were in it. Secondly, this minister boasts about the support that she has given the education system - we have the second lowest per-student funding in the country and this minister champions that as if is something to brag about, and I'll table that.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>First of all, that brand new high school that the minister is boasting about made people sick for the first number of months that people were in it. Secondly, this minister boasts about the support that she has given the education system - we have the second lowest per-student funding in the country and this minister champions that as if is something to brag about, and I'll table that.</p>
 <p>We currently have three community schools slated for closure in Yarmouth - Arcadia, South Centennial, and Central. This minister has delayed those closures but my question is on behalf of parents, once this delay is over, will those schools be open or closed in Yarmouth County?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>I want to clarify that the school did not make people sick (Interruption) Excuse me, Mr. Speaker, I would like to clarify, that was an unsubstantiated comment from the member opposite. It is very clear that there were issues in terms of the humidification at the school, which were clarified very early on. Thank you very much.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's interesting to hear how this minister talks about school boards; she takes their money away, interferes in their work, and then says, oh, but when it comes to school closures, program cuts, teacher cuts, those are their decisions, not mine.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's interesting to hear how this minister talks about school boards; she takes their money away, interferes in their work, and then says, oh, but when it comes to school closures, program cuts, teacher cuts, those are their decisions, not mine.</p>
 <p>Mr. Speaker, those decisions are based on the financial situation this government puts those school boards in. In this budget we have this government cutting another $11 million out of our education system.</p>
 <p>My question to the minister is, when this delay of school closures reaches its inevitable end, what does she expect - school closures or cuts to teacher positions and school programs?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><from>MS. JENNEX</from><p>Under this budget you heard today that we will have the ability to be hiring more teachers, new teachers in our province for the next school year.</p>
+          <speech by="#ramona.jennex"><from>MS. JENNEX</from><p>Under this budget you heard today that we will have the ability to be hiring more teachers, new teachers in our province for the next school year.</p>
 <p>This budget also talked about our investment in SchoolsPlus expanding in our province. We are also expanding our skills trades in this province and our Community Use of Schools grant in our province. We are investing in our youngest with Succeeding in Reading. We've incorporated class caps in this budget. We are increasing our seats with our virtual school. We have the lowest student-teacher ratio ever in this province. Thank you very much.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -772,19 +773,19 @@
         </debateSection>
         <debateSection>
           <heading>NAT. RES. - CLEAR-CUTTING: POLICY - EXPLAIN</heading>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, my question is for the Minister of Natural Resources. The minister's predecessor stood out in front of quite a lot of people outside the Legislature and said that this government would reduce clear-cutting by 50 per cent. When he became minister, he said the same thing, and then he brought forward a definition of "clear-cutting" that is so ridiculous that it basically allows anything.</p>
+          <speech by="#andrew.younger"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, my question is for the Minister of Natural Resources. The minister's predecessor stood out in front of quite a lot of people outside the Legislature and said that this government would reduce clear-cutting by 50 per cent. When he became minister, he said the same thing, and then he brought forward a definition of "clear-cutting" that is so ridiculous that it basically allows anything.</p>
 <p>If the minister truly meant to reduce clear-cutting by 50 per cent, why did he introduce such a weak definition?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, for too long in this province we had governments that just let clear-cutting go on. In fact, when we came to power, I think somewhere around 96 per cent of Nova Scotia harvest was by the clear-cut method.</p>
+          <speech by="#charlie.parker"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, for too long in this province we had governments that just let clear-cutting go on. In fact, when we came to power, I think somewhere around 96 per cent of Nova Scotia harvest was by the clear-cut method.</p>
 <p>Since then we've introduced our Natural Resources Strategy. We are now basing it on an ecosystem-based management system, and we are clearly committed to reducing clear-cutting to 50 per cent during the five-year period of our Natural Resources Strategy.</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. YOUNGER</from><p>Mr. Speaker, I'm sure the minister is committed to something, but it's certainly not reducing clear-cutting. I think he's just committed to defining it out of existence. There are hardwood harvesters who are very excited about this possibility and the opportunity to get in there. There were many, many people in Nova Scotia excited about this, but instead the NDP definition that he introduced basically means it isn't a clear-cut as long as there is one four-foot-tall tree every eight feet. I don't think that qualifies as not being a clear-cut in anybody's definition.</p>
+          <speech by="#andrew.younger"><from>MR. YOUNGER</from><p>Mr. Speaker, I'm sure the minister is committed to something, but it's certainly not reducing clear-cutting. I think he's just committed to defining it out of existence. There are hardwood harvesters who are very excited about this possibility and the opportunity to get in there. There were many, many people in Nova Scotia excited about this, but instead the NDP definition that he introduced basically means it isn't a clear-cut as long as there is one four-foot-tall tree every eight feet. I don't think that qualifies as not being a clear-cut in anybody's definition.</p>
 <p>In fact, let me quote the Ecology Action Centre's comments on it. "A weak definition: The once promising policy has been sidelined by a weak definition of what <i>doesn't</i> constitute a clearcut that essentially boils our forests down to the pulp industry's lowest common denominator."</p>
 <p>Once again, they've thrown the hardwood producers and foresters under the bus. Why has the minister failed to deliver on the reforms as he articulated them to the public?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>MR. PARKER</from><p>Mr. Speaker, I didn't see during the Liberal Administration in the 1990s any definition of "clear-cut." I didn't see during the Progressive Conservative time in office up until 2009 any definition of a "clear-cut." In fact, they just let it go on and on - 96 per cent of our lands were clear-cut. Where was the Liberal or Progressive Conservative solution?</p>
+          <speech by="#charlie.parker"><from>MR. PARKER</from><p>Mr. Speaker, I didn't see during the Liberal Administration in the 1990s any definition of "clear-cut." I didn't see during the Progressive Conservative time in office up until 2009 any definition of a "clear-cut." In fact, they just let it go on and on - 96 per cent of our lands were clear-cut. Where was the Liberal or Progressive Conservative solution?</p>
 <p>The truth is, we have the most aggressive clear-cut reduction strategy in all of North America. We're going to reduce it to 50 per cent. Our definition is based on science. It's based on consultation. It's based with working with the industry, working with woodlot owners, and working with environmental groups, and it will reduce our clear-cutting to no more than 50 per cent.</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. YOUNGER</from><p>Mr. Speaker, using as an excuse that somebody 20 years ago didn't do something is not good enough for Nova Scotians. The member behind me was in the first couple of years of elementary school during the time that this minister is complaining about. If that's the best answer that this minister has, maybe he shouldn't be a minister anymore.</p>
+          <speech by="#andrew.younger"><from>MR. YOUNGER</from><p>Mr. Speaker, using as an excuse that somebody 20 years ago didn't do something is not good enough for Nova Scotians. The member behind me was in the first couple of years of elementary school during the time that this minister is complaining about. If that's the best answer that this minister has, maybe he shouldn't be a minister anymore.</p>
 <p>Any plan, including the Natural Resources Strategy, specifically was the idea to move toward uneven-aged management of the forest, which would have meant success in our hardwoods, success in our pulp industry, and success in many forest industries. The definition that this minister has allowed to go forward will mean the end of the forest industry in Nova Scotia - the end of a diversified forest industry.</p>
 <p>Mr. Speaker, we know the last minister was shuffled out of his position because he was in favour of doing something, so why hasn't the minister fully endorsed this forest management model so that standing forest ecosystems remain in place following harvesting?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a">
+          <speech by="#charlie.parker">
             <from>MR. PARKER</from>
             <p>Mr. Speaker, I think the honourable member just makes up things here as he goes along. The truth is that our Natural Resources Strategy is based on science, it's based on an ecosystem-based forest management. We're diversifying our forest industry for the first time in this province in decades, and it's going to create thousands of good jobs, it's going to protect the environment, and it's going to be a sustainable forestry of the future.</p>
           </speech>
@@ -795,20 +796,20 @@
         </debateSection>
         <debateSection>
           <heading>ENERGY - DONKIN MINE: PRIORITY - CONFIRM</heading>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you will be to the Minister of Energy.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you will be to the Minister of Energy.</p>
 <p>In the 2012 Speech from the Throne, on Page 14, it said "&#x2026; continuing plans for the opening of the Donkin mine while creating more Cape Breton jobs will move Nova Scotia closer to the secure energy future we need and deserve." I will table that, Mr. Speaker.</p>
 <p>In the 2013 Speech from the Throne there was no mention of the Donkin mine. Will the minister confirm that Donkin is still a priority for this government, or have they broken yet another promise and let the people of Cape Breton down once again?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, certainly creating good jobs in rural Nova Scotia and in Cape Breton is an important goal and objective of this government, and certainly the Donkin mine has real potential to create more than 300 good-paying jobs in Cape Breton, as the honourable member would know.</p>
+          <speech by="#charlie.parker"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, certainly creating good jobs in rural Nova Scotia and in Cape Breton is an important goal and objective of this government, and certainly the Donkin mine has real potential to create more than 300 good-paying jobs in Cape Breton, as the honourable member would know.</p>
 <p>The sale process is underway with Xstrata and they've been seriously trying to find a buyer. I know they've been working with Morien Resources as well, so we're optimistic that there will be a workable coal mine in Cape Breton in the not-too-distant future.</p></speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. MACLEOD</from><p>Mr. Speaker, Nova Scotia Power has forecast that coal will remain necessary for power generation until at least 2040. Nova Scotians are fed up with paying for more expensive foreign coal, as the minister is so fond of saying, being brought into the Province of Nova Scotia to generate power, and Cape Breton workers are fed up with having to leave families and loved ones behind to head west to find work.</p>
+          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>Mr. Speaker, Nova Scotia Power has forecast that coal will remain necessary for power generation until at least 2040. Nova Scotians are fed up with paying for more expensive foreign coal, as the minister is so fond of saying, being brought into the Province of Nova Scotia to generate power, and Cape Breton workers are fed up with having to leave families and loved ones behind to head west to find work.</p>
 <p>Will the minister detail what conversations his government has had with Nova Scotia Power regarding using the Donkin mine to supply coal for power generation?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>MR. PARKER</from><p>Mr. Speaker, I do know that the process is ongoing. The environmental assessment is well underway and will be completed early next year. The process of discussion between the partners, between Xstrata and Morien Resources, continues. I know there has certainly been discussion with Nova Scotia Power on clean technology, on how best that coal can be used.</p>
+          <speech by="#charlie.parker"><from>MR. PARKER</from><p>Mr. Speaker, I do know that the process is ongoing. The environmental assessment is well underway and will be completed early next year. The process of discussion between the partners, between Xstrata and Morien Resources, continues. I know there has certainly been discussion with Nova Scotia Power on clean technology, on how best that coal can be used.</p>
 <p>This government is working hard to get off fossil fuel resources. Renewable energy is an important part of our future, but we also know that coal is still the major source of energy in this province, and while we're working towards renewables it will continue to be an important energy source into the future.</p></speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25">
+          <speech by="#alfie.macleod">
             <from>MR. MACLEOD</from>
             <p>Mr. Speaker, the minister just mentioned that they're working hard to get off fossil fuel for an energy source in Cape Breton, yet in his own Throne Speech he said we need to move forward with the Donkin mines to secure an energy future that we need and we deserve in the Province of Nova Scotia - so what way is it? We have one of the highest unemployment rates in Canada - it's 17 per cent in Cape Breton. We've lost 1,000 full-time jobs, more than 4,400 people who have left and decreased the population of Cape Breton in the last three years. Will the minister finally admit that this government has failed the people of Cape Breton and has done nothing to help this region?</p>
           </speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a">
+          <speech by="#charlie.parker">
             <from>MR. PARKER</from>
             <p>Mr. Speaker, it must be getting late in the day, I guess. I've said all along that diversification of our energy portfolio is important, and that includes wind energy, and tidal, and sustainable biomass, and hydroelectricity, and certainly natural gas, and coal. We need a variety of sources; we can't be like past governments who relied solely on one source, one time it was oil then it became coal, but coal is still an important part of the mix for the energy needs of this province.</p>
           </speech>
@@ -819,23 +820,23 @@
         </debateSection>
         <debateSection>
           <heading>TIR - HWY NO. 101 (DIGBY-YAR.): COMPLETION - TIME FRAME</heading>
-          <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c">
+          <speech by="#harold.theriault">
             <from>MR. HAROLD THERIAULT</from>
             <p>Mr. Speaker, for the last 10 years I've been standing in this House every session asking a question about the area of Digby-Annapolis and I cannot get an answer into the Minister of Transportation and Infrastructure Renewal about this question because I believe we're turning a corner here, we're saying, so I would like to see this corner turned for Digby-Annapolis. I want to speak about Highway No.101 that hasn't been finished. Like I said, I've brought it up every session for the past 10 years and I can't miss this turn of doing it again, and it was brought up many, many years before that, before I came here. I just want to know, I want to ask the minister, when can the people of this area expect Highway No. 101 to be finished between Weymouth and Digby and get the traffic off of those doorsteps of those homes - that's Highway No.101 highway traffic travelling on a No. 1 highway. The people want to know that.</p>
           </speech>
-          <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e">
+          <speech by="#maurice.g.smith">
             <from>HON. MAURICE SMITH</from>
             <p>I thank the honourable member for the question. I know that this is an important undertaking for his area and for that highway, and I know that it is being looked at in terms of our future plans. I can't give you an exact date; I can't give you an exact date on any particular highway. What we do is through our five-year plan we look ahead and we assess what needs are to be met and we've done that. All I can suggest to the member is that he continues in the way he has been doing, to press for the needs of his community. I know that he has a strong voice and that his voice will be listened to in my department, so I encourage him to continue with that. We will do as much as we can for the people of that area as soon as we can.</p>
           </speech>
-          <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c">
+          <speech by="#harold.theriault">
             <from>MR. THERIAULT</from>
             <p>I just want to give the minister warning there is going to be a committee coming, of mayors and wardens from that area soon and they'll be coming to your department to push the federal and provincial governments to do this. I guess if I could ask - you have a five-year plan there ahead of you, supposedly, from now on out is there any way this road could be put into the five-year plan because that's going to be asked from the mayors and the wardens of that area?</p>
           </speech>
-          <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e">
+          <speech by="#maurice.g.smith">
             <from>MR. SMITH</from>
             <p>I will encourage the mayors and the wardens to get in touch with us. Again, that's part of the process. We ask people to bring their concerns forward because we need to know from them, the people on the ground, exactly what they are looking for. So I look forward to that meeting and I encourage it. As we look forward to the next five-year plan, again, that road, like any other in the province, will be assessed to determine need and as much as we can we will address those needs.</p>
           </speech>
-          <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c">
+          <speech by="#harold.theriault">
             <from>MR. THERIAULT</from>
             <p>I want to thank the minister for answering this question. He answered it pretty good, but this is something that has been going on for a long while in that area and I'll never quit hearing this question &#x2026;</p>
           </speech>
@@ -851,7 +852,7 @@
           <from>MR. SPEAKER</from>
           <p>The honorable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -862,7 +863,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Bill No. 32.</p>
         </speech>
@@ -872,7 +873,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
           </speech>
-          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35"><from>HON. JOHN MACDONELL</from><p>I move that Bill No. 32 be now read a second time. Mr. Speaker, it's my pleasure to begin debate on amendments to Bill No. 32, the Solemnization of Marriage Act.</p>
+          <speech by="#john.macdonell"><from>HON. JOHN MACDONELL</from><p>I move that Bill No. 32 be now read a second time. Mr. Speaker, it's my pleasure to begin debate on amendments to Bill No. 32, the Solemnization of Marriage Act.</p>
 <p>Mr. Speaker, weddings are as unique as the happy couple and those who celebrate with them, but they all have one thing in common, they aren't official without a marriage licence. Unfortunately, the process to get one in Nova Scotia is more complicated than it needs to be and that's why we've introduced amendments to the bill, the Solemnization of Marriage Act, to make the process easier for Nova Scotians who are planning to marry. Right now, our legislation requires couples applying for a marriage licence to make two separate trips to the licence issuer, once to apply, and five days later, to pay and pick up the licence. This can be inconvenient, especially for people in rural areas, who may have farther to travel to apply for and pick up a licence.</p>
 <p>Since 1931, we've required Nova Scotians planning to marry to request a licence in person, wait five days, and then return to pick up the licence. We believe that this wait period was intended to force sober second thought. Mr. Speaker, while this requirement may have served a useful purpose at one time, Nova Scotians no longer need government to play this monitoring role. We are responding to the need for Nova Scotians to have efficient and convenient access to government services, while respecting that adults do not need a government-forced period to think about their marriage. Nova Scotia is the last province in Canada to still have the wait period, and this change brings us in line with other jurisdictions.</p>
 <p>So, Mr. Speaker, eliminating the five-day wait and a second visit to a marriage licence issuer will also be more efficient for government. With the new process, applications that now sit on someone's desk for five days or more can be closed in 15 minutes, and that kind of efficiency is good for everyone. By bringing forward changes, government is making life better for thousands of Nova Scotia couples who marry each year, by reducing the administrative burden at a time when their focus should be on the joy of starting their married lives together in this great province.</p>
@@ -881,20 +882,20 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+          <speech by="#allan.gerard.macmaster">
             <from>MR. ALLAN MACMASTER</from>
             <p>Thank you, Madam Speaker. As you know, I'm not married yet, but I've actually been waiting for this legislation, because when I do ask "The One", and if she says yes, I don't want to give her too much time to think about it. But in all seriousness, we do (Interruption) Yes, we do - this legislation, we'll be supporting it, and in all seriousness, we hope that marriages are long and happy. Thank you.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35"><from>HON. JOHN MACDONELL</from><p>Thank you, Madam Speaker, and I think while I was doing my speech, I seemed to have ignored the fact that you were Madam Speaker, so I apologize for that, and you think on a debate around marriage I could at least recognize a woman in the Speaker's seat.</p>
+          <speech by="#john.macdonell"><from>HON. JOHN MACDONELL</from><p>Thank you, Madam Speaker, and I think while I was doing my speech, I seemed to have ignored the fact that you were Madam Speaker, so I apologize for that, and you think on a debate around marriage I could at least recognize a woman in the Speaker's seat.</p>
 <p>I thank the member for Inverness for his intervention, and obviously the intent and the need for this bill is obviously so evident to the House that more members did feel the need, and if the member for Inverness took that as an opportunity to show the world his availability, I think that's good on him. (Laughter) We'd like to think that for all Nova Scotians and for all members that if they make the decision to marry, we can speed it up by five days.</p>
 <p>So, with that, I close debate on Bill No. 32, Madam Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 32. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+          <speech by="#clarrie.mackinnon">
             <from>MR. CLARRIE MACKINNON</from>
             <p>Thank you very much, Madam Speaker. That concludes the government's business for today. I move that the House do now rise to meet again tomorrow, with the hours being from 9:00 a.m. to 12:00 noon, at which time we will involve the daily routine and Address in Reply to the Speech from the Throne - and we may even have an early departure.</p>
           </speech>
@@ -915,17 +916,17 @@
         </speech>
         <debateSection>
           <heading>EDUC. - SCH. CLOSURES: SUSPENSION - MIN. MOTIVE</heading>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. KELLY REGAN</from><p>Madam Speaker, the Education Minister's request comes a day late and a dollar short - actually, it is $76 million short.</p>
+          <speech by="#kelly.regan"><from>MS. KELLY REGAN</from><p>Madam Speaker, the Education Minister's request comes a day late and a dollar short - actually, it is $76 million short.</p>
 <p>I see the minister over there laughing and I'll tell you, for people who have been through the school review process, it's not a funny matter, it's not a laughing matter. Madam Speaker, it's excruciating for these families, for these students, for the parents. If they were planning to do this, it should have been done well before now.</p>
 <p>Parents whose schools have been saved are happy, but then they ask what's going to happen next, for how long has our school been saved? They have been put through the wringer by this process - and it's a process, I might add, that the Minister of Education for this government created. It is not somebody else's, it is their one. They made changes to it, they designed a new process and, yes, it was excruciating.</p>
 <p>When you talk to board members, when you talk to parents, when you talk to students, they use words like "gut-wrenching" and "distressing" about this process. It's devastating for the families involved.</p>
 <p>Talk to members of this House and if they have a school in their riding that has been through this process, it tears communities apart. I can tell you, Madam Speaker, we had a less divisive and yet incredibly divisive process for a boundary review in my riding that went on over two years, and the net result was that it has torn the community apart and there are people who aren't talking to each other because of a school boundary review - imagine what it's like when they start closing schools.</p>
 <p>Yesterday the minister claimed this needed to be done because this was a flawed process, and yet it is that ministry's process, it's nobody else's. Now clearly on April 11, 2012, in response to a question from Michel Samson, the minister said we &#x2026;</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>The member for Richmond.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>Oh, sorry, the member for Richmond - the Minister of Education said under the legislative process the school review is very clearly mandated and it is not to be interfered with by the minister. The school review process is a very clearly articulated process where parents and community have the opportunity on two separate occasions to offer their input to the process and to the board, but over the span of a year the minister changed her tune.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>Oh, sorry, the member for Richmond - the Minister of Education said under the legislative process the school review is very clearly mandated and it is not to be interfered with by the minister. The school review process is a very clearly articulated process where parents and community have the opportunity on two separate occasions to offer their input to the process and to the board, but over the span of a year the minister changed her tune.</p>
 <p>The fact is that move should have happened long before now. It would happen under a Liberal Government as part of a review of public education. But now the minister tells us she doesn't have the power, so she has asked the boards. First of all, she couldn't interfere ever; now she has asked them.</p>
 <p>Yet, in 2006, the Progressive Conservative Government was able to step in and stop the process. So you have to ask, what happened between then and now? She made her ask two days after the deadline for school boards to make those decisions, and that's why I said it's a day late and a dollar short. Two days later - and you have to ask, why then? Why put all those communities through that angst?</p>
 <p>This government has cut $65 million from education over three years. It will cut another $11 million with the budget that was tabled today. We warned the government what would happen if they cut this kind of money from public education. We warned that schools would close. They chose not to listen. So you have to ask, what are those cash-strapped boards - which initially cut money from administration, and then cut teachers - supposed to cut now?</p>
@@ -936,7 +937,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Lunenburg West.</p>
           </speech>
-          <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa"><from>MR. GARY RAMEY</from><p>Thank you, Madam Speaker. I'm pleased to rise for a few minutes and speak about the school review process and about school reviews in general.</p>
+          <speech by="#gary.ramey"><from>MR. GARY RAMEY</from><p>Thank you, Madam Speaker. I'm pleased to rise for a few minutes and speak about the school review process and about school reviews in general.</p>
 <p>School reviews are at the very heart of our communities, and community schools have been an important focus for this government. Strengthening the links between parents, schools, and the community is one of the pillars of our Kids and Learning First plan. We've provided school boards with dedicated funding to support small, isolated rural schools, and through initiatives like SchoolsPlus and the Community Use of Schools grants, we have encouraged communities to make greater use of schools outside of regular classroom hours.</p>
 <p>Over the past few weeks, in particular - and I guess I would even say over the past few months, Madam Speaker - we've watched and listened as school boards and communities have struggled with the school review process, and I mean struggled and I would agree with the member who just spoke that they did that, they did exactly that.</p>
 <p>In my own area I attended these sessions and spoke at three of them - there were three schools under review in my area - and I've listened to the excellent reports. I've read those reports and I've listened to them being presented by the SACs, by the presidents of those SACs. People like Sherry Doucet in Pentz, Dee Conrad in Petit Riviere, and Sheldon MacLeod in Hebbville. I told them, Madam Speaker, this is what I told those people when I was at those meetings, I told them that I would pay attention to them, that I wasn't there to participate in some kind of window-dressing exercise, which politicians, I think, of some stripes have done over the years, and that I would take their views forward. I am very proud to say that the Minister of Education and Early Childhood Development, the Premier, and all the members of my caucus actually paid attention to me. That's what they did, that's why I was elected here, that's what they did and the member for Bedford-Birch Cove can sit over there and chirp about this but the fact is I represent my constituents, this government represents our constituents and we don't need any lesson from her or that crowd over there who can bleed on about it all they want.</p>
@@ -956,7 +957,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Cape Breton North.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, I stand in my place today on this very important issue in debate this evening - and I listened to the member opposite talking about how they're listening to the community.</p>
+          <speech by="#eddie.orrell"><from>MR. EDDIE ORRELL</from><p>Madam Speaker, I stand in my place today on this very important issue in debate this evening - and I listened to the member opposite talking about how they're listening to the community.</p>
 <p>We're getting closer to an election year, or we're in an election year, and that government is finally starting to listen. Last year, during first contract arbitration, we had the biggest employers in the province, we had everyday working people, we had Opposition people, we had all kinds of people in here talking about first contract arbitration and how it would affect people in the Province of Nova Scotia and how the people in Pictou County, the Sobeys and a few others in that area, the Michelins, came to the Committee on Law Amendments and spoke to their MLAs - but it's funny, they didn't listen then.</p>
 <p>We heard all kinds of things that were going to happen that were going to hurt those businesses, and we were told by these businesses that they came to their local MLAs but it wasn't brought back to the table here. So they're listening now, when we're in an election year - they weren't listening then on different kinds of topics.</p>
 <p>Madam Speaker, we're dealing with an awful situation here. Families, teachers, school boards, entire communities have been put through the wringer during this process. Difficult decisions have been made by good, honest, hard-working people - they've had to make gut-wrenching decisions, communities have been torn apart, and we know that these schools are a huge part of our rural communities.</p>
@@ -969,7 +970,7 @@
 <p>The chair of the South Shore Regional School Board told reporters yesterday that the minister's request not to include school closures in the budget &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. Could the two members who are yelling across the Chamber perhaps take that conversation outside, so I can hear the member speaking? Thank you.</p>
 <p>The honourable member for Cape Breton North has the floor.</p></speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Thank you, Madam Speaker. This was announced yesterday, but it was included in today's budget. We heard around the $27 million that there was no time to put it in the budget, in the forecast, the last time, but this was put in in a day. So this must have been going on for a lot longer than we know, and it's just a little more time to put the school boards through that process. The board chair on the South Shore Regional School Board went on to say that excluding school closures from the budget would be wonderful if they have the funding. I have a document to support that, and I'll table that.</p>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Thank you, Madam Speaker. This was announced yesterday, but it was included in today's budget. We heard around the $27 million that there was no time to put it in the budget, in the forecast, the last time, but this was put in in a day. So this must have been going on for a lot longer than we know, and it's just a little more time to put the school boards through that process. The board chair on the South Shore Regional School Board went on to say that excluding school closures from the budget would be wonderful if they have the funding. I have a document to support that, and I'll table that.</p>
 <p>We know funding hasn't increased. We know it's going to decrease. The Cape Breton Regional Municipality has to add about a million dollars to the Education budget, just out of their budget, because of the decreases. That's exactly the issue here. Boards are going to be forced to make cuts elsewhere. They fear they will have to make direct cuts to student programming.</p>
 <p>Yesterday's request by the minister was nothing more than to boost the public image. They want to put the onus back on the school boards again. They have until April 30<sup>th</sup> to make this decision. What happens if they don't comply? Where do we go from there?</p>
 <p>Madam Speaker, Nova Scotians deserve the truth. Nova Scotians impacted by this stunt can see right through this PR stunt.</p>
@@ -987,62 +988,62 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="127">RESOLUTION NO. 127</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="127">RESOLUTION NO. 127</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ross Hayman from Tatamagouche, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="128">RESOLUTION NO. 128</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="128">RESOLUTION NO. 128</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be in the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Thomas Harrington from Debert, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="129">RESOLUTION NO. 129</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="129">RESOLUTION NO. 129</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ashley McDonald from East Mountain, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="130">RESOLUTION NO. 130</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="130">RESOLUTION NO. 130</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Carling Gratto from Debert, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="131">RESOLUTION NO. 131</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="131">RESOLUTION NO. 131</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Christopher Howse from Tatamagouche, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="132">RESOLUTION NO. 132</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="132">RESOLUTION NO. 132</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Crystal Fullerton from Belmont, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="133">RESOLUTION NO. 133</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="133">RESOLUTION NO. 133</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Joshua Chapman from North River, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="134">RESOLUTION NO. 134</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="134">RESOLUTION NO. 134</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Nicole Cox from Onslow Mountain, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="135">RESOLUTION NO. 135</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="135">RESOLUTION NO. 135</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Shelby Jamieson from Tatamagouche, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="136">RESOLUTION NO. 136</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="136">RESOLUTION NO. 136</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Sherisse Smith from North River, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="137">RESOLUTION NO. 137</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="137">RESOLUTION NO. 137</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dalhousie's Faculty of Agriculture honoured its best students and added 131 names to the Dean's List; and</p>
 <p>Whereas the annual event recognizes students for their outstanding academic achievements from the winter and Fall semesters of 2012; and</p>
 <p>Whereas to be named to the Dean's List, students must be within the top 10 per cent of their program of study, have a term average of 80 per cent or higher, and be enrolled in four or more courses per semester;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate William MacKenzie from Debert, Colchester North, for meeting all the requirements and thus being added to the Dean's List.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="138">RESOLUTION NO. 138</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="138">RESOLUTION NO. 138</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Ebony Hair Salon of 126 Main Street in Dartmouth East celebrated 10 years in business on April 1, 2013; and</p>
 <p>Whereas Ebony Hair Salon has weathered the ups and downs of the economy by providing friendly, top-notch service; and</p>
 <p>Whereas manager Elvera Ross and her team gathered with well-wishers and clients alike to celebrate this important milestone this past month;</p>

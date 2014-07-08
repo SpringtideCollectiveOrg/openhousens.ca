@@ -4,41 +4,42 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="ce0cf949-df99-4a43-b215-79f6ecf5cb35" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="Ms. Kelly Regan"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="db879201-933e-4d03-b3d3-3f0d7224dd00" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. RAYMOND"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="e63ef392-23cc-461a-bb21-5b72f51f8cc2" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="42d2bd92-9a05-4f0e-8fae-0df41cda3c9e" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="ee8a60d0-642f-4447-a3d1-573947cdc8b0" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="56493acc-adb4-492b-a238-873ebc173cfa" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
-        <TLCPerson id="98fd525a-b480-446d-8a4d-f002d18eb5c0" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="617adf75-30cf-451f-93ee-4271195fa60f" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="leonard.preyra" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="keith.bain" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="john.macdonell" href="/ontology/person/ca-ns.john.macdonell" showAs="HON. JOHN MACDONELL"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="jim.boudreau" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="michele.raymond" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="percy.paris" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="howard.epstein" href="/ontology/person/ca-ns.howard.epstein" showAs="MR. HOWARD EPSTEIN"/>
+        <TLCPerson id="becky.kent" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 3 December 2012</docTitle>
       <docNumber>12-61</docNumber>
       <docDate date="2012-12-03">Monday, December 3, 2012</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="4">4th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C89/house_12dec03/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. Before I start the orders of the day, I have a couple of Speaker's Rulings I took under consideration last week.</p>
@@ -56,7 +57,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Kings West.</p>
         </speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
+        <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
 <blockquote>"Therefore, your petitioners call upon the Nova Scotia House of Assembly to use its powers over the Board of Commissioners of Public Utilities, the Nova Scotia Utility and Review Board (UARB) to deny any General Rate Application presented by NSPI requesting a rate increase in 2013, 2014 and 2015."</blockquote>
 <p>Mr. Speaker, I have affixed my signature.</p></speech>
         <speech by="" as="#speaker" status="undefined">
@@ -70,7 +71,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Acadian Affairs.</p>
         </speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><from>HON. DAVID WILSON</from><p>Merci, M. le Pr&#xE9;sident. Je d&#xE9;pose le Rapport d'&#xE9;tape 2012 sur les services en fran&#xE7;ais offerts par le gouvernement de la Nouvelle-&#xC9;cosse.</p>
+        <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Merci, M. le Pr&#xE9;sident. Je d&#xE9;pose le Rapport d'&#xE9;tape 2012 sur les services en fran&#xE7;ais offerts par le gouvernement de la Nouvelle-&#xC9;cosse.</p>
 <p>Mr. Speaker, I beg leave to table the 2012 Progress Report on French-language Services Provided by the Government of Nova Scotia.</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -83,7 +84,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Communities, Culture and Heritage.</p>
         </speech>
-        <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><num title="2473">RESOLUTION NO. 2473</num><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, on behalf of the Minister of Community Services, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leonard.preyra"><num title="2473">RESOLUTION NO. 2473</num><from>HON. LEONARD PREYRA</from><p>Mr. Speaker, on behalf of the Minister of Community Services, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas December 3, 2012, has been declared by the United Nations to be the International Day of Persons with Disabilities; and</p>
 <p>Whereas the United Nations Convention on the Rights of Persons with Disabilities recognizes that living independently and being included in the community is a basic right; and</p>
 <p>Whereas experience shows that when societies remove barriers to inclusion, the entire community benefits;</p>
@@ -113,7 +114,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Clare.</p>
         </speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2474">RESOLUTION NO. 2474</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2474">RESOLUTION NO. 2474</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 20 years ago the United Nations General Assembly proclaimed today, December 3<sup>rd</sup>, as the International Day of Persons with Disabilities; and</p>
 <p>Whereas this year's theme, "Removing barriers to create an inclusive and accessible society for all," is a reminder to all of us of how much needs to be done to ensure that people with disabilities can live an independent and active life; and</p>
 <p>Whereas the International Day of Persons with Disabilities is a time to make a renewed commitment to the principles of dignity and justice, and to ensure implementation of the Convention on the Rights of Persons with Disabilities;</p>
@@ -125,7 +126,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2475">RESOLUTION NO. 2475</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2475">RESOLUTION NO. 2475</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas today marks the 20<sup>th</sup> Anniversary of the International Day of Persons with Disabilities; and</p>
 <p>Whereas too often persons with disabilities encounter disadvantages and stigmatization, and this day works to change that by promoting understanding and inclusion; and</p>
 <p>Whereas this year's theme is appropriately named "Removing barriers to create an inclusive and accessible society for all";</p>
@@ -137,7 +138,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Finance.</p></speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="2476">RESOLUTION NO. 2476</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maureen.macdonald"><num title="2476">RESOLUTION NO. 2476</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Northwood was founded in 1962 by Edward Roach and a group of committed volunteers with a mission to provide housing for seniors in Halifax, and reached its first major achievement with the opening of Northwood Towers on October 18, 1967; and</p>
 <p>Whereas today Northwood's facilities and services include residences at Northwood Towers, Northwood Manor, and Almon Place, nursing care at Northwood Centre and Ivany Place, and community services including home care, telecare, the Northwood Intouch system, a dementia day program, and a day program for the physically frail and those diagnosed with stroke and Parkinson's disease, in partnership with Capital Health; and</p>
 <p>Whereas Northwood will be celebrating its 50<sup>th</sup> Anniversary as a community-based organization providing housing and continuing care services to over 6,000 people on Tuesday, December 4, 2012;</p>
@@ -149,7 +150,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2477">RESOLUTION NO. 2477</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2477">RESOLUTION NO. 2477</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Order of Canada is one of our country's highest civilian honours, established in 1967 during Canada's Centennial year to recognize a lifetime of outstanding achievement, dedication to community, and service to the nation; and</p>
 <p>Whereas Wadih Fares escaped the civil war in Lebanon, arriving in Halifax as a teenager with little money and even less English, and proceeded to graduate with his degree in engineering and has gone on to own his own highly-successful engineering/architectural and design firm, raise a family, and serve in many volunteer capacities, including as the Honorary Consul to Lebanon; and</p>
 <p>Whereas His Excellency, the Governor General of Canada, the Right Honourable David Johnston, named Mr. Fares a member of the Order of Canada in June of this year for his contributions to Nova Scotia as an entrepreneur, community leader, and committed volunteer, and Mr. Fares and family travelled to Ottawa, where he accepted his insignia on November 23<sup>rd</sup>;</p>
@@ -161,13 +162,13 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West on an introduction.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25">
+        <speech by="#alfie.macleod">
           <from>MR. ALFIE MACLEOD</from>
           <p>Mr. Speaker, I'd like to draw your attention and the attention of all members of the House to the gallery opposite, where we have two visitors tonight who are planning on going to the Law Amendments Committee on Bill No. 151. We have Bobby Gillis from the Cape Breton Injured Workers Association and Bob Burchill for the UMW. I had the privilege of working with both of them in the past on different issues in the coal fields of Cape Breton. I'd ask the House to give them a warm round of applause and welcome. (Applause)</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this evening's proceedings.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2478">RESOLUTION NO. 2478</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2478">RESOLUTION NO. 2478</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in medical emergencies, time is of the essence; and</p>
 <p>Whereas recognizing the need to expand the helipad at the DNR depot in Baddeck, the finishing touches to expand the pad to 80 feet by 80 feet were recently completed; and</p>
 <p>Whereas the $23,000 project was facilitated by the Municipality of the County of Victoria, the Victoria County Community Health Board, and the emergency medical care personnel who raised $6,100 for the project themselves; and</p>
@@ -179,7 +180,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable The Premier.</p></speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e"><num title="2479">RESOLUTION NO. 2479</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#darrell.dexter"><num title="2479">RESOLUTION NO. 2479</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas for the past five years the people of Cole Harbour have gathered on the weekend after Labour Day to celebrate the Cole Harbour Harvest Festival, a great family event organized completely by a group of community volunteers known as the Cole Harbour Harvest Festival Society; and</p>
 <p>Whereas this year the festival included a host of fun and informative events including a farmers market, a health fair, the grand street parade, a live concert and a fireworks show; and</p>
 <p>Whereas once again the festival brought hundreds of people and families together to celebrate the richness of Cole Harbour and help to build community pride, respect and awareness;</p>
@@ -191,7 +192,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="2480">RESOLUTION NO. 2480</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="2480">RESOLUTION NO. 2480</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 24<sup>th</sup>, 2012, Efficiency Nova Scotia proudly hosted the first Annual Bright Business Awards to recognize local leaders in energy efficiency; and</p>
 <p>Whereas Dale Robertson, president of Enerscan Consultants Limited in Halifax was the winner of the Shining Star Award for outstanding and long-term leadership in pursuing, promoting, and implementing energy efficiency; and</p>
 <p>Whereas Dale has been president of Enerscan Engineering and Enerscan Consultants Limited since 1981 and specializes in providing services including training and seminars in the field of energy management and conservation;</p>
@@ -203,7 +204,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2481">RESOLUTION NO. 2481</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Monsieur le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#christopher.a.dentremont"><num title="2481">RESOLUTION NO. 2481</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Monsieur le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que Margaret d'Entremont de Tusket a &#xE9;t&#xE9; pr&#xE9;sent&#xE9;e la M&#xE9;daille du Jubil&#xE9; diamant de la Reine Elizabeth II, le 11 Octobre 2012; et</p>
 <p>Attendu que Margaret d'Entremont, &#xE9;tait parmi 50 r&#xE9;cipiendaires de la M&#xE9;daille du Jubil&#xE9; de Diamant de la Reine Elizabeth II lors d'une c&#xE9;r&#xE9;monie et r&#xE9;ception sp&#xE9;ciale qui ont eu lieu au Annapolis Basin Conf&#xE9;rence Centre &#xE0; Cornwallis; et</p>
 <p>Attendu que Margaret d'Entremont a &#xE9;t&#xE9; reconnue pour son leadership et son d&#xE9;vouement &#xE0; de nombreuses organisations &#xE0; travers la communaut&#xE9; plus sp&#xE9;cifiquement son &#xE9;glise;</p>
@@ -221,7 +222,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-        <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35"><num title="2482">RESOLUTION NO. 2482</num><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.macdonell"><num title="2482">RESOLUTION NO. 2482</num><from>HON. JOHN MACDONELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas community beautification exhibits justifiable pride residents have for their community; and</p>
 <p>Whereas Christmas wreaths are decorating the main road, the No. 2 Highway through Enfield; and</p>
 <p>Whereas the volunteer group Enfield in Bloom is responsible for the hanging of wreaths in Enfield;</p>
@@ -233,7 +234,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2483">RESOLUTION NO. 2483</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2483">RESOLUTION NO. 2483</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> anniversary of Her Majesty Queen Elizabeth II's ascension to the throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honoring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Halifax West Member of Parliament Geoff Regan presented Bedford resident June Boswell with the Jubilee Medal in a ceremony on November 12<sup>th</sup> in recognition of her volunteer efforts, particularly her work with the Nova Scotia Gambia Association at which June volunteered since its inception in 1985 and where she volunteered as the full-time office manager for the last 18 years;</p>
@@ -245,7 +246,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="2484">RESOLUTION NO. 2484</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="2484">RESOLUTION NO. 2484</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Stacey Barrie's Grade 4 class at Florence Elementary School came together to organize a fundraiser as part of this school's Kids for Peace initiative, to help four-year-old Payton Given's family get her a wheelchair; and</p>
 <p>Whereas Payton has spastic cerebral palsy and her mother died in January leaving her father Brad to look after four-year-old triplets plus a 14-year-old daughter; and</p>
 <p>Whereas the students decided to have a bazaar and raised more than $450 which has been delivered to the Given family;</p>
@@ -257,7 +258,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Environment.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="2485">RESOLUTION NO. 2485</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="2485">RESOLUTION NO. 2485</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Shelburne businessman Anthony Gosbee was named Entrepreneur of The Year at the Eastern Shelburne County Business Excellency Award on October 18, 2012; and</p>
 <p>Whereas Anthony Gosbee has operated two successful businesses in the Town of Shelburne over the past three decades, often providing employment training opportunities to local youth, helping them prepare for the future; and</p>
 <p>Whereas Anthony Gosbee, who is an avid sportsman and musician, often donating his time and talent to the community, be it behind the bench for a local sports team or on the stage helping to provide entertainment for local festivals and events;</p>
@@ -269,7 +270,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="2486">RESOLUTION NO. 2486</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="2486">RESOLUTION NO. 2486</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 23<sup>rd</sup> Annual Women of Excellence Awards, were held at the World Trade and Convention Centre on November 14, 2012, to honour women who play an important role in our community; and</p>
 <p>Whereas the awards are presented in six categories to celebrate the achievements of inspirational women who are at the pinnacle of their professions; and</p>
 <p>Whereas Karen Kelloway was a recipient of this distinctive award in the Communications and Public Affairs category for her work as a career coach and community volunteer as well as her many accomplishments, including her children's novel <i>Raphael's Riddle</i> and her self-help book <i>Nail It</i>; and</p>
@@ -281,7 +282,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2487">RESOLUTION NO. 2487</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="2487">RESOLUTION NO. 2487</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dennis Boudreau has been elected to the top spot of the Nova Scotia Federation of Agriculture; and</p>
 <p>Whereas the newly-minted president of the 117-year-old provincial farm organization is a second-generation farmer from Concession, Digby County; and</p>
 <p>Whereas the Nova Scotia Federation of Agriculture represents the interests of Nova Scotia's agricultural community and its members account for well over 90 per cent of all agricultural production in Nova Scotia;</p>
@@ -293,7 +294,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
-        <speech by="#98fd525a-b480-446d-8a4d-f002d18eb5c0"><num title="2488">RESOLUTION NO. 2488</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jim.boudreau"><num title="2488">RESOLUTION NO. 2488</num><from>MR. JIM BOUDREAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Guysborough and area communities have worked tirelessly since 2005 to secure renovations and an extension to their hospital in an attempt to better serve the needs of all residents; and</p>
 <p>Whereas on November 23, 2012, an announcement was made by the province for the establishment of a new primary care clinic including renovations and an extension to the existing Guysborough Memorial Hospital; and</p>
 <p>Whereas a modern facility will provide the community and area with better health care and help them recruit and retain a variety of health care professionals;</p>
@@ -305,7 +306,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="2489">RESOLUTION NO. 2489</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="2489">RESOLUTION NO. 2489</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Halifax Mooseheads centre Nathan MacKinnon and winger Jonathan Drouin received invitations to the Canadian World Junior Team tryout camp to be held in Calgary, December 10<sup>th</sup> to December 15<sup>th</sup>; and</p>
 <p>Whereas the International Ice Hockey Federation World Junior Hockey Championship is an annual event held in late December and early January for national under-20 ice hockey teams from around the world; and</p>
 <p>Whereas Team Canada has medalled at 14 consecutive World Junior Championships;</p>
@@ -317,7 +318,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Truro-Bible Hill.</p></speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="2490">RESOLUTION NO. 2490</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="2490">RESOLUTION NO. 2490</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Rock Johnson, Alex Coulstring, Craig Brown, Tim Garagan, and Scott MacKenzie are the band members of the Truro heavy rock bank Chaos Theory; and</p>
 <p>Whereas Chaos Theory, through Tenastic Music, produced their debut self-titled CD, <i>Chaos Theory</i>; and</p>
 <p>Whereas the band Chaos Theory won Loud Recording of the Year at the 2012 Music Nova Scotia Awards in April 2012;</p>
@@ -329,7 +330,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2491">RESOLUTION NO. 2491</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="2491">RESOLUTION NO. 2491</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lil MacPherson and Christine Bower are restaurateurs who parlayed their passion for locally grown organic food and drink and fair-trade coffee into a thriving business; and</p>
 <p>Whereas Lil MacPherson, Christine Bower and her new partner, Matthew Gass, revamped the former MacAskill's waterfront restaurant into the newest Wooden Monkey location; and</p>
 <p>Whereas the new Wooden Monkey restaurant opened Saturday, above the Alderney ferry terminal;</p>
@@ -341,7 +342,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2492">RESOLUTION NO. 2492</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2492">RESOLUTION NO. 2492</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas at their annual "Tis the Season" banquet held on November 18<sup>th</sup>, the Baddeck Lions Club paid tribute to Jim Bradley of Baddeck for his ongoing support of their community projects; and</p>
 <p>Whereas this year Jim's donation will be used to support the Lions Xmas Project and the Kidston Island Beach program; and</p>
 <p>Whereas Jim is continually raising funds for many worthwhile projects and organizations, such as the recent Big Bike fundraiser in support of the Heart &amp; Stroke Foundation;</p>
@@ -353,7 +354,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00"><num title="2493">RESOLUTION NO. 2493</num><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michele.raymond"><num title="2493">RESOLUTION NO. 2493</num><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas a large crowd assembled at the Nova Scotia College of Art and Design yesterday, December 2<sup>nd</sup>, to remember the life of poet and teacher Roger Field, who was born in Bermuda in 1945 and died at Fergusons Cove, Nova Scotia, in November 2012; and</p>
 <p>Whereas Roger, the second of seven sons, shared countless gifts with his family, friends, colleagues, students, staff, and newcomers in need during his years at Halifax's New Options School for adults, as principal of Uniacke District School, head of English at the Koc School in Istanbul, member of the Halifax Refugee Clinic, and teacher of professional English to design students at NSCAD; and</p>
 <p>Whereas among Roger Field's many gifts was his unwaivering sense of the importance of every human life, a gift which he held lightly, with humanity and humility, but with immense and gentle determination;</p>
@@ -365,7 +366,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="2494">RESOLUTION NO. 2494</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="2494">RESOLUTION NO. 2494</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Emera Northside Civic Centre was the venue this summer for a charity game that pitted former Quebec Major Junior Hockey League and university players against one another to raise funds for KidSport; and</p>
 <p>Whereas Halifax Moosehead Brad Cuzner was one of the organizers of the event that allowed hockey players to give back to hockey players who are less fortunate and cannot afford to play; and</p>
 <p>Whereas last year the game raised about $6,000 for KidSport, which can provide up to $300 per child for registration and/or equipment per year;</p>
@@ -377,7 +378,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00">
+        <speech by="#michele.raymond">
           <from>MS. MICHELE RAYMOND</from>
           <p>Mr. Speaker, with your leave I'd like to do an introduction before I introduce this resolution.</p>
         </speech>
@@ -385,7 +386,7 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00">
+        <speech by="#michele.raymond">
           <from>MS. RAYMOND</from>
           <p>I'd like to draw the attention of all the members of the House to the front of the House, where we have seated in front of us the Speaker. I think it's particularly important at times to remember that as surprised as the Speaker may be, that in fact we have all been able to gather a common will together to elect somebody who represents something which is a whole that is greater than the sum of its parts and that's a very important part of the Constitution of Nova Scotia, so I thought I'd like to read the following resolution.</p>
         </speech>
@@ -393,7 +394,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Halifax Atlantic.</p>
         </speech>
-        <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00"><num title="2495">RESOLUTION NO. 2495</num><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michele.raymond"><num title="2495">RESOLUTION NO. 2495</num><from>MS. MICHELE RAYMOND</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Nova Scotia House of Assembly is the first and oldest representative Assembly in Canada, and its Speaker, as the "Mouth of the House", expresses the common will of that Assembly, communicates its resolutions to others, conveys its thanks and expresses its censure, its reprimands or its admonitions, as well as issuing warrants for executing the orders of the Assembly, and having full authority over the precincts of the House; and</p>
 <p>Whereas among the people of this province are artisans and manufacturers of products known around the world; and</p>
 <p>Whereas one way to signal the approbation of the quality and distinctiveness of a particular product or workmanship is by public recognition of suppliers, whether or not their product is in use at any given time;</p>
@@ -411,7 +412,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -422,7 +423,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call Bill No. 158.</p>
         </speech>
@@ -432,7 +433,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>HON. PERCY PARIS</from><p>Mr. Speaker, I move that Bill No. 158, also known as the Film Nova Scotia Act, now be read a second time.</p>
+          <speech by="#percy.paris"><from>HON. PERCY PARIS</from><p>Mr. Speaker, I move that Bill No. 158, also known as the Film Nova Scotia Act, now be read a second time.</p>
 <p>Mr. Speaker, last Friday I had the pleasure to introduce a bill that is very exciting for Nova Scotia's creative and film sectors. Creative businesses throughout the province employ tens of thousands of people and play a vital role in growing our economy and building strong communities. Creativity is a known driver of innovation and economic growth. Nova Scotia arts and cultural sector is estimated to have an economic impact of almost $1.2 billion with 28,000 jobs directly or indirectly related to culture activities. These valuable jobs and opportunities for youth of all ages are making life better for families in Nova Scotia. We are seeing this through the remarkable talent we have in Nova Scotia, a place rich in arts and culture. Artists translate ideas, skills and talent into innovation - jobs, as well as products and services, that are globally competitive.</p>
 <p>However, Mr. Speaker, they often face the challenges of securing capital loans, lack of coordination between government programs and access to business development expertise. Currently, provincial programs which support creative business development are spread across departments and agencies, creating unnecessary barriers for business growth. We know we must change this, and last Friday marked the beginning of a more collaborative and prosperous future for creative businesses.</p>
 <p>Mr. Speaker, a number of amendments to the Film Nova Scotia Act will steer Nova Scotia's creative sector well into the future. They involve: one, a broadened mandate for Film Nova Scotia, including a new name - Film and Creative Industries Nova Scotia; secondly, strengthen governance and accountability; and thirdly, a five-year strategic plan to be completed by September 30, 2013, which will enhance growth and commercial success for the creative industry. This will involve significant stakeholder engagement and collaboration.</p>
@@ -458,14 +459,14 @@
           </narrative>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. We will now go back to second reading on Bill No. 158.</p>
 <p>The honourable Minister of Economic and Rural Development and Tourism.</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>HON. PERCY PARIS</from><p>Mr. Speaker, Brian Doherty, chair of Music Nova Scotia, says:</p>
+          <speech by="#percy.paris"><from>HON. PERCY PARIS</from><p>Mr. Speaker, Brian Doherty, chair of Music Nova Scotia, says:</p>
 <blockquote>This is a very welcome and bold move on the part of government. Music touches a number of different industries. We are certainly rooted in the cultural fabric of Nova Scotia. I think we will do better being in a collective and sharing information together and that will make us all stronger.</blockquote>
 <p>Mr. Speaker, the changes to this Act are the beginning of a more collaborative effort to deliver on the economic potential we have in our creative sector. We are preparing for tomorrow's economy and we all play a very vital role in helping this vision unfold to create a more prosperous future for our creative economy. With that, I say thank you and I will take my place.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>The honourable member for Dartmouth East.</p>
           </speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I just want to say a few words about this bill. It's going to be interesting to hear some of the comments as people in the industry have a chance to look over this bill. I think, as with many things, there are a lot of positive things in this bill. There are a lot of questions too that I hope can be answered as this bill moves forward and, obviously, some of them can't be answered at this point but, you know, we expand an agency but we don't know if there will be additional funding to meet that expanded mandate. Well, that's obviously a very critical issue. Having the same budget for a greatly expanded mandate obviously, despite the fact they may have accessed other programs, obviously wouldn't serve any of those cultural communities as well.</p>
+          <speech by="#andrew.younger"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I just want to say a few words about this bill. It's going to be interesting to hear some of the comments as people in the industry have a chance to look over this bill. I think, as with many things, there are a lot of positive things in this bill. There are a lot of questions too that I hope can be answered as this bill moves forward and, obviously, some of them can't be answered at this point but, you know, we expand an agency but we don't know if there will be additional funding to meet that expanded mandate. Well, that's obviously a very critical issue. Having the same budget for a greatly expanded mandate obviously, despite the fact they may have accessed other programs, obviously wouldn't serve any of those cultural communities as well.</p>
 <p>The other question that has come to mind, and it has come to mind in talking with some people in the film industry over the weekend about this, and this isn't necessarily a criticism so much as it is a question because on the one hand, the answer to this could be very positive, on the other hand it may be less positive, and that's the placement and the position of the Nova Scotia film industry with respect to all of the cultural industries, because they're all very important whether it's the sound industry - we actually used to, many, many years ago, have a very robust sound recording program in Nova Scotia, but when you look at film, we compete in a very large market. We are one of probably two or three of the big players in the country. (Interruption) British Columbia, obviously, if I could guess, is probably the biggest. Ontario, and Quebec has a special submarket. But we're one of the bigger players, or we have been traditionally.</p>
 <p>I think everybody here could name different series that have been shot here over the years, or films, whether it was, Mr. Speaker - you're right, <i>Pit Pony</i> of course. (Interruptions) Now, you see, now I'm hearing heckles of different people yelling out different shows and TV things they know. So I'm going to try to avoid hearing them because we'll be here all night as I repeat them all but, you know - <i>The Scarlet Letter</i> down in Shelburne. There have been many very important films. There was one I was trying to think of, the one that keeps coming to mind that was about (Interruption) This is becoming a bit of a comedy now. Maybe we could have our own movie here.</p>
 <p>No, I mean it was the one that we did with the submarine that a lot of people worked on, that they used the Irving shipyard actually as the backdrop for part of that, which will come. (Interruption) Thank you. So the point where I was going before we all started to jump in and mention films - thank you, minister - was the fact that we compete in an industry and if you watch these films and if you look at how the industry markets itself, in almost all of those jurisdictions - I don't want to say all because I'm not sure if it's all of them - it's like Film Nova Scotia, it's an agency specifically about film or a sector that is specifically about film that has provided that support so it doesn't water down the marketing of that agency, when you go to Hollywood, when you go to New York, when you go to those places to try to sell it.</p>
@@ -478,7 +479,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Truro-Bible Hill.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Mr. Speaker, it's nice to be able to rise from my seat today to speak to Bill No. 158, the Film Nova Scotia Act. I was very pleased to be asked by the Department of Economic and Rural Development and Tourism to emcee this announcement on Friday because as many people know, I've devoted most of my grown life to the industries of the creative arts, starting first with theatre and music, then moving into film and television, and finally animation and voice-over. I'm well acquainted with all aspects of this particular subject and I'm very pleased that we are actually going to be now including other creative industries under this umbrella, which will become the Film and Creative Industries Nova Scotia.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Mr. Speaker, it's nice to be able to rise from my seat today to speak to Bill No. 158, the Film Nova Scotia Act. I was very pleased to be asked by the Department of Economic and Rural Development and Tourism to emcee this announcement on Friday because as many people know, I've devoted most of my grown life to the industries of the creative arts, starting first with theatre and music, then moving into film and television, and finally animation and voice-over. I'm well acquainted with all aspects of this particular subject and I'm very pleased that we are actually going to be now including other creative industries under this umbrella, which will become the Film and Creative Industries Nova Scotia.</p>
 <p>I think that Film Nova Scotia itself was very important to the growth of film and television in this province. When I started out at the age of 16 as an actor, my first movie was done at the age of 20, out West in Wilcox, Saskatchewan, it was called <i>The Hounds of Notre Dame</i> and it was about Father Athol Murray who was a hockey coach of a hockey team called the Hounds of Notre Dame. That was the beginning and then for many years - 20 or so years - I did film and television. Unfortunately there just was not that much going on here in Nova Scotia, which is why I had to leave home. If there had been more, I would have been here a lot sooner, but it took a long time to grow the industry here and there are many wonderful industry players who have stuck it out here and built the industry to what it is today.</p>
 <p>Film Nova Scotia was very important in establishing a place that filmmakers could come and speak to people to try and help get funding for their various films and also the Film Tax Credit is so important because in that industry, it's a very fluid industry, and those of us in it can move at lightning speed from province to province, wherever the best opportunities are to actually be able to develop your product and to film it and sell it. In fact, the big players in the industry in Canada are Ontario, British Columbia, and Quebec, and in some instances it has also been Manitoba, Alberta, and Saskatchewan. However, when those provinces gave up their film tax credits, the industry moved elsewhere.</p>
 <p>Nova Scotia is coming up there. We made about $150 million last year from our films, but the reason why I'm excited about this particular bill and the expansion of Film Nova Scotia is because there are so many other wonderful cultural and creative industries in Nova Scotia that have basically been ignored and had nowhere to go when they wanted to be treated as a serious industry and a serious business. What this does is it brings Economic and Rural Development and Tourism together with Communities, Culture and Heritage, and it marries the two so that five different operations of Communities, Culture and Heritage will now be integrated into Film and Creative Industries Nova Scotia as an agency. It will basically be a portal, one-stop shopping for any of these creative industries.</p>
@@ -493,11 +494,11 @@
 <p>Just in my own riding of Truro-Bible Hill, Millbrook, Salmon River - in Salmon River they were chosen to be Hockeyville. In fact, the money that poured into the community at that time and the attention that the community got on national television was enormous, so it helps your tourist industry as well. People want to come and see it; they want to come and see the area that they're seeing on TV.</p>
 <p>The same thing happened in Tatamagouche when they did <i>The Week the Women Went</i> and people wanted to come down to Tatamagouche. They saw how beautiful it was and they wanted to see that. When I lived out in British Columbia there were several locations that were very famous on <i>The Beachcombers</i> - for instance, Relic's abode was a very popular spot. (Interruption) Did you go there? Oh, the Minister of Education has been there as well.</p>
 <p>I'll tell you another one that was popular is Molly's Reach, yes, you can still see that.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p><i>X-Men</i>.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. ZANN</from><p>Yes, that's right, they shot <i>X-Men</i> out in Vancouver; in fact, they shot it in a big warehouse, actually. (Interruptions) Oh, next to your office in New Minas - the Minister of Education has a series shooting out there, called <i>Call Me Fitz</i>, which is with Jason Priestley. It is doing very, very well. I have a few friends on that show, actually. Peter MacNeill is a wonderful actor; <i>Haven</i> is another one; Stephen King. I did a TV series with him called <i>Kingdom Hospital</i> and I got killed in the very first episode. In fact, I committed suicide and then I came back to haunt my boyfriend for the rest of the episode, for the rest of the series. In Stephen King, nothing is as it seems - rather like this House, I come back to haunt some of the members, as the Whip might want to agree.</p>
+          <speech by="#lenore.zann"><from>MS. ZANN</from><p>Yes, that's right, they shot <i>X-Men</i> out in Vancouver; in fact, they shot it in a big warehouse, actually. (Interruptions) Oh, next to your office in New Minas - the Minister of Education has a series shooting out there, called <i>Call Me Fitz</i>, which is with Jason Priestley. It is doing very, very well. I have a few friends on that show, actually. Peter MacNeill is a wonderful actor; <i>Haven</i> is another one; Stephen King. I did a TV series with him called <i>Kingdom Hospital</i> and I got killed in the very first episode. In fact, I committed suicide and then I came back to haunt my boyfriend for the rest of the episode, for the rest of the series. In Stephen King, nothing is as it seems - rather like this House, I come back to haunt some of the members, as the Whip might want to agree.</p>
 <p>Mr. Speaker, I can't speak highly enough about the arts, about our culture, for every single, smaller area, for every rural region in our province. We have something - a natural resource in Nova Scotia that many other people do not have as much of, but we have it in spades. As I like to say, it's a natural resource that is clean, green, it is renewable and it is the greenest natural element that you could ever have and that is the talent and creativity of its people.</p>
 <p>Mr. Speaker, I think anything we can do to help the creative economy in Nova Scotia is a very, very important matter for any government, and I'm so proud and pleased that this government has been listening to its artists and to me, as one of the members. I believe that each town, each municipality, has their own talents in those areas and if they develop that talent and they try to keep the young people in their municipalities, they will have a very healthy economy, they will have more tourism, and they will attract more of what we call the creative class.</p>
 <p>They will attract more people who are entrepreneurs, who want to come and see great plays, they want to see art galleries, they want to see dance, and they want to see visual art.</p>
@@ -506,7 +507,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm very pleased to rise and say a few words today on Bill No. 158. We're just in second reading for this bill but it is a bill which changes the name and nature of the current agency for films, to include creative industries as well as films. It is now going to be called Film and Creative Industries Nova Scotia and I'm curious, in a sense, about how that will work out ultimately in terms of funding and the opportunities for the creative sector because what we want to do is expand and improve opportunities and access to capital, ability to access government and other funds, and so on, things that will support the industry and the tremendously creative ideas that come out of the various areas, whether it be film, theatre, digital media, and so on.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm very pleased to rise and say a few words today on Bill No. 158. We're just in second reading for this bill but it is a bill which changes the name and nature of the current agency for films, to include creative industries as well as films. It is now going to be called Film and Creative Industries Nova Scotia and I'm curious, in a sense, about how that will work out ultimately in terms of funding and the opportunities for the creative sector because what we want to do is expand and improve opportunities and access to capital, ability to access government and other funds, and so on, things that will support the industry and the tremendously creative ideas that come out of the various areas, whether it be film, theatre, digital media, and so on.</p>
 <p>I noticed the minister spoke about the craft sector as well, so that will encompass that area as well. It's going to be very all-encompassing from the sounds of it and I'm just hoping that it will ultimately lead to more opportunity and more access to expertise and capital and information so that those industries can grow and can prosper because, in fact, that homegrown sector of creativity is one of our most vibrant sectors. It allows our communities to be distinct and as well to export a lot of the culture that we have.</p>
 <p>I think that's very important and I noticed in the notes that there are 28,000 Nova Scotians working in the arts and culture sector, which is more than I think many people would have recognized. We know that there is an awful lot of spinoff from the kind of local activity around arts and culture as well. A lot of other businesses benefit when there are theatre performances or films that are being made in an area. It creates a lot of other jobs for caterers, for restaurants, for hotel nights, and that leaves a legacy.</p>
 <p>I know the member for Dartmouth East was talking about different films that have been made in Nova Scotia and the towns and villages where they have been made, and they often have a continuing tourism effect when people come. I mean when scenes from the <i>Titanic</i> movie were made in Halifax, people came and there was quite a burst of activity in tourism for a couple of years, and I think we'll see it again in the next year. Perhaps it will be reflected in the tourism numbers when people come back because of the 100<sup>th</sup> Anniversary of the Titanic sinking this year, but in the year that the movie was made, there certainly were tours that were developed to show the sites, that Halifax really had a part of that story of the Titanic, about the true history of the Titanic. The industry is very significant. It amounts to $1.2 billion a year and I mentioned 28,000 direct jobs. So it's a very important sector and we do support it.</p>
@@ -520,7 +521,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Communities, Culture and Heritage.</p>
           </speech>
-          <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><from>HON. LEONARD PREYRA</from><p>Thank you very much, Mr. Speaker. As the MLA for Halifax Citadel-Sable Island and as the Minister of Communities, Culture and Heritage, it's a pleasure to get up here and say a few words about the Film Nova Scotia Bill, which creates the Film and Creative Enterprises Nova Scotia Agency.</p>
+          <speech by="#leonard.preyra"><from>HON. LEONARD PREYRA</from><p>Thank you very much, Mr. Speaker. As the MLA for Halifax Citadel-Sable Island and as the Minister of Communities, Culture and Heritage, it's a pleasure to get up here and say a few words about the Film Nova Scotia Bill, which creates the Film and Creative Enterprises Nova Scotia Agency.</p>
 <p>As you know, we have a vibrant artistic and cultural community here in Nova Scotia. It enhances the quality of life for our communities. It makes our communities more attractive places to live, work, visit and explore opportunities for growth and prosperity. With this legislation, we recognize that and we are introducing measures to secure the position of the arts and cultural community both in Nova Scotia and abroad.</p>
 <p>The economic impact of the arts and cultural sector is tremendous. It's an important driver of our creative economy and it's shaping our future and the future of a number of communities, both here at home, and abroad.</p>
 <p>We have in my constituency - and in the province of Nova Scotia overall - created a cluster of creative activity that we are now leveraging into a new driver for our new economy. We know that the province's arts and culture sector is estimated to have an economic impact of almost $1.2 billion in Nova Scotia, with 28,000 jobs directly or indirectly related to cultural activities. Arts and culture contribute to strong communities by creating jobs and opportunities for economic growth that help make life better for families here in Nova Scotia.</p>
@@ -548,7 +549,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+          <speech by="#clarrie.mackinnon">
             <from>MR. CLARRIE MACKINNON</from>
             <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
           </speech>
@@ -560,7 +561,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call Bill No. 136.</p>
         </speech>
@@ -570,7 +571,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Environment.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I am pleased to move that Bill No. 136, the Green Economy Act, now be read a third time. This legislation makes amendments to the Environmental Goals and Sustainable Prosperity Act, or EGSPA, that will renew and allow us to continue working on its goals.</p>
+          <speech by="#sterling.belliveau"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I am pleased to move that Bill No. 136, the Green Economy Act, now be read a third time. This legislation makes amendments to the Environmental Goals and Sustainable Prosperity Act, or EGSPA, that will renew and allow us to continue working on its goals.</p>
 <p>Mr. Speaker, Nova Scotians have a sense of ownership of EGSPA and its goals and we're proud of our achievements. We have met 14 of the goals and work continues on meeting the remaining targets that have deadlines between 2015 to 2020. The changes to EGSPA reflect the recommendations of the Minister's Round Table on Environment and Sustainable Prosperity that was considered as part of the public review. They also reflect feedback received through Law Amendments Committee.</p>
 <p>Mr. Speaker, these changes respond to the needs of the citizens and our communities.</p>
 <p>Our municipalities have told us that they are having difficult times upgrading their equipment to meet the drinking water and waste water targets and we have continued to raise the bar for drinking water and introduced new standards this year. We recognize that the remaining municipalities need more time to make the changes needed to meet standards. That is why we have moved the target date for drinking water standards and waste water treatment to 2020, and we continue to lobby the federal government to provide funding for municipalities so they can invest in the infrastructure needed to meet the standards.</p>
@@ -583,7 +584,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Dartmouth East.</p>
           </speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I'm pleased to stand today to speak on third reading on the amendments to the Environmental Goals and Sustainable Prosperity Act. Obviously, I don't think the minister will be surprised to hear - and I'm sure the member for Kings West will speak more to this after - that we were pleased to see the food goal added, especially since it largely mirrors the legislation that the member for Kings West introduced quite some time ago on this matter. So we certainly applaud the inclusion of that measure.</p>
+          <speech by="#andrew.younger"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I'm pleased to stand today to speak on third reading on the amendments to the Environmental Goals and Sustainable Prosperity Act. Obviously, I don't think the minister will be surprised to hear - and I'm sure the member for Kings West will speak more to this after - that we were pleased to see the food goal added, especially since it largely mirrors the legislation that the member for Kings West introduced quite some time ago on this matter. So we certainly applaud the inclusion of that measure.</p>
 <p>When it comes to the waste water and the water quality issues, while I'm obviously happy to hear the minister say that he's lobbying the federal government for funding, which I think we should do, it's probably going to take more than that. Otherwise, we have yet another goal that eight years from now - almost seven years now really because we're almost at 2013 - will be missed once again. The reason we're in this situation now - if I remember correctly, I think the original goal was 2008. That was obviously missed under a previous government and now has been missed for three and a half years under this government.</p>
 <p>Many of the municipalities have missed that, as the minister rightly pointed out, because they simply couldn't afford it - and he's right, they couldn't, but to simply extend the goal but not come forward with budgetary measures, which obviously would be not part of this bill, but without coming forward with some kind of announcement that there is a plan to move those municipalities towards meeting that goal, is a bit disappointing.</p>
 <p>Even if the minister is successful in getting money from the federal government for this program, it would almost certainly require cost sharing by the province, which means that one has to assume that the province is willing to put money forward to do this. This is the kind of thing that having been missed, now four years overdue, really requires a strategy to meet those water guidelines, and that's something we would be looking forward to.</p>
@@ -600,7 +601,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Hants West.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Thank you, Madam Speaker. I'm glad to have a few minutes this evening to speak to this bill. I guess I would start off by saying that I don't know how we would ever be able to have a bill that ended in goals and not set targets, so we do need those targets.</p>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Thank you, Madam Speaker. I'm glad to have a few minutes this evening to speak to this bill. I guess I would start off by saying that I don't know how we would ever be able to have a bill that ended in goals and not set targets, so we do need those targets.</p>
 <p>I guess I would say that this caucus differs from the Liberal caucus, maybe, in that we don't believe in penalizing municipal units when we know that they're already struggling out there to make sure that they are meeting goals that have been set. I don't think there's one municipal unit in the Province of Nova Scotia - or anywhere, for that matter - that doesn't want to be where we need to be. They want to meet those goals. The last thing they want to do is have more stress by way of knowing that there's a big penalty somewhere at the end. I think that would be very unfair.</p>
 <p>What we do need to be doing is working with the municipal government, trying to figure out whether there are things like partnerships between municipalities that can work, as opposed to everybody going it alone on things where they don't need to - things like waste water and water and so on, and those really important things as we move forward. That is part of a strategy that I will agree does need to be put in place so that we can meet the goals, meet the targets that are set. It's great if we're going to create new goals within this bill. I think that's fine, if we have something that is in place that can be reasonably understood and reasonably met.</p>
 <p>I've heard the minister talk a little bit about the new goals and the Green Economy Act, I agree that is something of value, something to look at, something that we need to make sure that we're working on. We all know the importance of the green economy as we move forward in the years ahead. But we also need to be able to do it with time frames that make sense. I know some might think there need to be penalties but we've had penalties in the past or we've had targets in the past. What kind of penalty would you actually enact? What are you going to do to a municipal unit that can't meet a certain deadline?</p>
@@ -615,7 +616,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Kings West.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>It's not often in the House three people rise simultaneously to take part in debate. I guess this is an amendment to the bill that we do support. In particular, this evening I wanted to speak for a few minutes about the addition of the target of 20 per cent of local food production by 2020.</p>
+          <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>It's not often in the House three people rise simultaneously to take part in debate. I guess this is an amendment to the bill that we do support. In particular, this evening I wanted to speak for a few minutes about the addition of the target of 20 per cent of local food production by 2020.</p>
 <p>I guess I've come to expect that perhaps we're not going to always get credit in Opposition for work that we do but I am certainly pleased to say our Party put a bill forward over two years ago and I did put forth a strong basis for this. I had looked at what has taken place in New England, Massachusetts, and a few of the other U.S. - especially the northern states, because these are areas like Nova Scotia: where we once had a very vibrant food economy, we had the very opposite of where we are today. If we go back to the 19<sup>th </sup>Century, early 20<sup>th</sup> Century, we were producing 80 to 90 per cent of our food; today we import 80 to 90 per cent of our food.</p>
 <p>I believe to set a target during this time, where we are beginning to recapture the importance of becoming more self-sufficient, greater food security, and also the very nutritious fact of locally produced food, the traceability factor is at its very, very highest levels. I think all of these factors combined and also feel very, very strongly that it's actually a way of igniting some areas of our rural economy to get people either on large, medium, or niche farming. This is what we're starting to see with the local food movement: either full time, part time, or just in a particular season and a particular crop, there is able to be income generated from a local food economy.</p>
 <p>To set a target is to start to devise strategies and ways to reach that laudable goal. I believe, in fact, that we can move beyond 20 per cent but to say in eight years' time we have achieved 20 per cent of producing our food, local processing and the consumption of food. One of the ways that we often talk about is to get more into our institutions - our universities, our jails, correctional centres, our hospitals - and, in fact, I think it's a matter of looking at our procurement policy, that's where the real change is going to come about. I don't hesitate for a moment to say if we have the will to do it, along with good policy - not necessarily hard and fast legislation but good policy - that can, in fact, help us realize and achieve a greater amount of locally produced food.</p>
@@ -630,13 +631,13 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Cape Breton West.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I don't intend to speak long. I am pleased to hear the idea of 20 per cent local food and 20 per cent from the local fishery. In the Law Amendments Committee I asked a question, what is the definition of local? At that time, there was no real answer given. Then one of our colleagues from the opposite side, the government side said, what would my definition of local be? Well, my definition of local, Madam Speaker, would be anything that is produced in the Province of Nova Scotia. I think that's a fair, reasonable explanation. I think that if this is going to have a benefit to our farmers and to our fishermen, then it has to be produced in Nova Scotia.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I don't intend to speak long. I am pleased to hear the idea of 20 per cent local food and 20 per cent from the local fishery. In the Law Amendments Committee I asked a question, what is the definition of local? At that time, there was no real answer given. Then one of our colleagues from the opposite side, the government side said, what would my definition of local be? Well, my definition of local, Madam Speaker, would be anything that is produced in the Province of Nova Scotia. I think that's a fair, reasonable explanation. I think that if this is going to have a benefit to our farmers and to our fishermen, then it has to be produced in Nova Scotia.</p>
 <p>I'm just hoping that the definition, when it does come, is not like the definition of clear-cutting which took three years to get here, nobody understood it and the industry didn't like it when it got here. I certainly hope that when we're talking about the food industry in the Province of Nova Scotia, we're talking about the fishing industry that is related to what is in this bill, that local will mean produced by Nova Scotians in the Province of Nova Scotia for the use of people in Nova Scotia and other areas. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
           </speech>
-          <speech by="#ce0cf949-df99-4a43-b215-79f6ecf5cb35"><from>HON. JOHN MACDONELL</from><p>Madam Speaker, I just wanted to give a few comments, in particular on the section of this legislation that deals with 5 per cent increase in the number of farms by 2020, and 20 per cent local content purchased in the province. The member for Cape Breton West indicated 20 per cent agriculture, 20 per cent fish. The clause indicates 20 per cent local, which is fish or agriculture, so it's 20 per cent with the combination of the two.</p>
+          <speech by="#john.macdonell"><from>HON. JOHN MACDONELL</from><p>Madam Speaker, I just wanted to give a few comments, in particular on the section of this legislation that deals with 5 per cent increase in the number of farms by 2020, and 20 per cent local content purchased in the province. The member for Cape Breton West indicated 20 per cent agriculture, 20 per cent fish. The clause indicates 20 per cent local, which is fish or agriculture, so it's 20 per cent with the combination of the two.</p>
 <p>The members quite often give a fair bit of discussion - I guess debate - around procurement for institutions. The province developed a sustainable procurement policy in 2011 and the members probably are aware that Select Nova Scotia programming around food and nutrition in public schools policy, the school milk program, the implementation of Thrive, which is the childhood obesity strategy and the work of the procurement division at ERDT. All of these bring buyers and local producers and processors together to support local foods in publicly-funded institutions.</p>
 <p>Now I'm not sure if members will remember, but there was - after that policy came out in 2011 - a forum where we brought stakeholders together. The following four sectors were considered, and that's academic institutions - which is university and community colleges - the public schools, provincial correctional facilities, and health care facilities.</p>
 <p>I think members should think that when it comes to the public institutions, this is not necessarily the big winner when it comes to agriculture, because, number one, it's a small volume; there is some potential for the industry to enter that volume, but there are some concerns. Number one, it's small volume. Number two, it's a low-price area for the industry. The ability to enter that market really runs into some barriers related to the interprovincial trade agreement that we share across the country, so there are some issues around the ability for - processors, I think, would be the best place to enter this market, but that doesn't mean the door is closed to them. It certainly is not. You're not going to have a world where a farmer walks in the back door of the hospital with a bag of turnips and delivers them. The whole mechanism for the sale or the contracts that allow for the delivery of food in those institutions is quite complicated, and you have to be a rather sophisticated sector of the industry that can actually tender for those contracts and hopefully have them awarded.</p>
@@ -656,7 +657,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Halifax Chebucto.</p>
           </speech>
-          <speech by="#617adf75-30cf-451f-93ee-4271195fa60f"><from>MR. HOWARD EPSTEIN</from><p>Madam Speaker, if I understand it correctly, buried somewhere within the exchange of one's grandmother's recipe for coleslaw and the advice that everyone should eat an apple every day, there appears to be all-Party agreement in support to this bill. That seems to me a very good thing and so I'll try to keep my own comments very terse.</p>
+          <speech by="#howard.epstein"><from>MR. HOWARD EPSTEIN</from><p>Madam Speaker, if I understand it correctly, buried somewhere within the exchange of one's grandmother's recipe for coleslaw and the advice that everyone should eat an apple every day, there appears to be all-Party agreement in support to this bill. That seems to me a very good thing and so I'll try to keep my own comments very terse.</p>
 <p>What we have here is the first official update of the Environmental Goals and Sustainable Prosperity Act, which was passed originally in 2007 by unanimous consent of this House. It had all-Party support at the time and included in that Statute was a requirement that there be a formal review after five years. Now we're dealing with the changes to be made to the Statute as a result of what was a widely-participatory process headed up by the round table on environment and the economy, which shelters within the Department of Environment.</p>
 <p>It was a very good process. It was one in which many entities, many individuals and organizations in the province participated. In fact, I was struck when we had submissions at the Committee on Law Amendments with respect to this bill that the Ecology Action Centre and the Federation of Agriculture both appeared and supported each other in terms of their observations about the bill and in support of it. That, I think, can only be seen as a very good thing.</p>
 <p>The essence of the Environmental Goals and Sustainable Prosperity Act is that it does set out things that are called goals. They're commitments, political commitments. Several members, I think, have used the term "aspirational" and that's the right term to describe what it is that is included in EGSPA and what is included in this update of EGSPA.</p>
@@ -671,7 +672,7 @@
 <p>With respect to the drinking water and waste-water standards, I have to say that people should remind themselves that these goals are really submerged monetary commitments on the part of government. That's really what they're about. They had to do with the extent to which money was going to be spent by municipalities and perhaps be subsidized by the senior levels of government. It does not mean that unhealthy drinking water is going to be tolerated. There will still be, if necessary, boil-water orders that will be extended, but I just wanted to say that I'm very proud of the updates that have been included in this Statute and I'm very thankful that again it looks as if there will be all-Party support for this Statute. Thank you very much for the opportunity to speak.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Environment.</p></speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>HON. STERLING BELLIVEAU</from>
             <p>Madam Speaker, I want to thank all the members for their engagement tonight. I move that we close debate on Bill No. 136 and I move third reading.</p>
           </speech>
@@ -679,7 +680,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+          <speech by="#clarrie.mackinnon">
             <from>MR. CLARRIE MACKINNON</from>
             <p>Madam Speaker, that concludes the government business for tonight. I move that the House do rise to meet again tomorrow at 12:00 noon with the House hours to be from 12:00 noon until 6:00 p.m. Following the daily routine, the government will call Public Bills for Second Reading, Bill No. 159; Public Bills for Third Reading, Bill No. 143; Committee of the Whole House on Bills, clause by clause, Bill Nos. 94, 144, 147; and with unanimous consent of the House, Private and Local Bills, Committee of the Whole House on Bills, clause by clause, Bill Nos. 117, 129, 130, 139 and 146; and, if time permits, Address in Reply to the Speech from the Throne.</p>
           </speech>
@@ -696,102 +697,102 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2496">RESOLUTION NO. 2496</num><from>Hon. Wayne Gaudet</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2496">RESOLUTION NO. 2496</num><from>Hon. Wayne Gaudet</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the theatrical troupe Les Araign&#xE9;es du boui-boui from Church Point earlier this year performed Jeux des Massacre at the Liverpool International Theatre Festival; and</p>
 <p>Whereas the festival attracted theatrical troupes from Egypt, Georgia, Germany, Poland, Slovakia, South Africa, the United States, Wales, Brazil, and Canada; and</p>
 <p>Whereas Les Araign&#xE9;es du boui-boui won best Canadian production for Jeux des Massacre and best supporting actress for Nicole Boudreau at the awards ceremony at the Astor Theatre;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate and extend best wishes to Les Araign&#xE9;es du boui-boui on their excellent accomplishment at the Liverpool International Theatre Festival.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2497">RESOLUTION NO. 2497</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2497">RESOLUTION NO. 2497</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jackie Barkhouse was first elected to represent District 8, Woodside-Eastern Passage, at Halifax Regional Council in a December 2007 by-election and re-elected in October 2008; and</p>
 <p>Whereas since her initial election Jackie vowed to represent the voice of the people in her district, working tirelessly to meet the concerns of those who elected her and strongly believing in citizen participation in the democratic process; and</p>
 <p>Whereas this past October, Jackie's term ended with the municipal election in a very close race in the newly-formed District 3, encompassing Dartmouth South-Eastern Passage;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend and thank Jackie Barkhouse for her years of public service to District 8 and wish her all the best as she continues with her professional career and family/community dedication.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2498">RESOLUTION NO. 2498</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="2498">RESOLUTION NO. 2498</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tammy MacDougall-Walker and Carolyn Marlow have been friends since they were seven years old; and</p>
 <p>Whereas these lifelong friends saw a need in their community to create a safe place for children to play while parents work and hold business meetings; and</p>
 <p>Whereas their new business venture, the At Play Caf&#xE9;, hosts their grand opening at 114 Woodlawn Road December 8<sup>th</sup> and 9<sup>th</sup>;</p>
 <p>Therefore be it resolved that members of this House of Assembly congratulate Tammy MacDougall-Walker and Carolyn Marlow on the opening of the At Play Caf&#xE9; and wish them every success at work and play.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2499">RESOLUTION NO. 2499</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2499">RESOLUTION NO. 2499</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas author Edna J. Leshan said "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities"; and</p>
 <p>Whereas on July 20, 2012, Shanna Surette and Matthew Doucette welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Shanna and Matthew on this special event in their lives, and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2500">RESOLUTION NO. 2500</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2500">RESOLUTION NO. 2500</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas author Edna J. Leshan said "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities"; and</p>
 <p>Whereas on May 8, 2012, Yolanda Cottreau and David Giles welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Yolanda and David on this special event in their lives, and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2501">RESOLUTION NO. 2501</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2501">RESOLUTION NO. 2501</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas author Edna J. Leshan said "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities"; and</p>
 <p>Whereas on June 2, 2012, Zack and Jessica Graves welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Zack and Jessica on this special event in their lives, and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2502">RESOLUTION NO. 2502</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2502">RESOLUTION NO. 2502</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas author Edna J. Leshan said "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities"; and</p>
 <p>Whereas on August 17, 2012, Leah and Stephen d'Eon welcomed their son into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Leah and Stephen on this special event in their lives, and wish them many more happy years as parents.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2503">RESOLUTION NO. 2503</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2503">RESOLUTION NO. 2503</num><from>Hon. Christopher d'Entremont</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the birth of a child is a momentous event and marks the beginning of a very satisfying journey down a long road, where the rewards far outnumber the challenges; and</p>
 <p>Whereas author Edna J. Leshan said "a new baby is like the beginning of all things - wonder, hope, a dream of possibilities"; and</p>
 <p>Whereas on November 6, 2012, Sarah and Philip Ready welcomed their daughter into the world;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Sarah and Philip on this special event in their lives, and wish them many more happy years as parents.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2504">RESOLUTION NO. 2504</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2504">RESOLUTION NO. 2504</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country, while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Halifax West member of Parliament Geoff Regan presented the parents of Kate Aske with her Jubilee Medal in a ceremony on November 12<sup>th</sup>, in recognition of her volunteer efforts, in particular her efforts at Charles P. Allen High School as a driving force with the Free the Children Committee, the Environment Club, Dare to Remember, Red Weeks and Student Council;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Kate Aske on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish her well in her future volunteer efforts; she is a young woman on a mission.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2505">RESOLUTION NO. 2505</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2505">RESOLUTION NO. 2505</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country, while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Halifax West member of Parliament Geoff Regan presented Joan Christie of Bedford with the Jubilee Medal in a ceremony on November 12<sup>th</sup>, in recognition of her volunteer efforts particularly as a fundraiser for Bedford United church, Beacon House Food Bank, the Bedford Grannies and many other worthy causes;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Joan Christie on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish her well in her future volunteer efforts.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2506">RESOLUTION NO. 2506</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2506">RESOLUTION NO. 2506</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country, while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas the family of the late Patricia Arab of Halifax received her posthumous Jubilee Medal in a ceremony in August of this year in recognition of Pat's many and varied volunteer efforts, particularly her work with the Lebanese community and with the Catholic Women's League;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate the family of the late Patricia Arab on her posthumous Queen Elizabeth II Diamond Jubilee Medal; it is richly deserved.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2507">RESOLUTION NO. 2507</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2507">RESOLUTION NO. 2507</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country, while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident and Holocaust survivor Philip Riteman, ONS, received the Jubilee Medal in a ceremony in August of this year, in recognition of his extensive efforts to educate students and adults alike about the horrors of the Holocaust, because no one who hears his story ever forgets it;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Philip Riteman on being awarded the Queen Elizabeth II Diamond Jubilee Medal and thank him for his tireless efforts to ensure this horror never happens again.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2508">RESOLUTION NO. 2508</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2508">RESOLUTION NO. 2508</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country, while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Halifax West Member of Parliament Geoff Regan presented Doreen Crick of Halifax with her Jubilee Medal in a ceremony on November 12<sup>th</sup>, in recognition of her volunteer efforts, particularly her anti-racism work for which she received a 2011 Human Rights Award, and her dedication to her church and to the Rockingham Grannies;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Doreen Crick on being awarded the Queen Elizabeth II Diamond Jubilee Medal - it is richly deserved.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2509">RESOLUTION NO. 2509</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2509">RESOLUTION NO. 2509</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident Bev Grace received the Jubilee Medal in a ceremony in August of this year in recognition of her many and varied volunteer efforts, particularly her work with the Catholic Women's League at St. Ignatius Church where she also taught Sunday school for 40 years and for her work with students with intellectual disabilities, as well as many other volunteer activities;</p>
 <p>Therefore be it resolved that all members of this House congratulate Bev Grace on being awarded the Queen Elizabeth II Diamond Jubilee Medal - it is richly deserved.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2510">RESOLUTION NO. 2510</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2510">RESOLUTION NO. 2510</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident Diana Haydon received the Jubilee Medal in a ceremony in August of this year in recognition of her many and varied volunteer efforts, particularly with the Fort Sackville Foundation, Bedford Grandmothers to Grandmothers, Quilt Canada and many other organizations;</p>
 <p>Therefore be it resolved that all members of this House congratulate Diana Haydon on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish her well in all her future volunteer endeavours.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2511">RESOLUTION NO. 2511</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2511">RESOLUTION NO. 2511</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Halifax West Member of Parliament Geoff Regan presented Bedford resident Douglas Frederick Shute with the Jubilee Medal in a ceremony on November 12<sup>th</sup> in recognition of his many and varied volunteer efforts, particularly his 32 years of service to the Royal Canadian Legion;</p>
 <p>Therefore be it resolved that all members of this House congratulate Douglas Frederick Shute on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish him well in his future endeavours.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2512">RESOLUTION NO. 2512</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2512">RESOLUTION NO. 2512</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford Grade 10 student Logan MacGillivray received the Jubilee Medal in a ceremony in August of this year in recognition of his creation of the charity, Listen to the Children, which filled two 40-foot shipping containers with educational, building and recreational materials and then sent them to Sierra Leone where the contents were used to refurbish seven schools and build a community resource centre for students and teachers;</p>
 <p>Therefore be it resolved that all members of this House congratulate Logan MacGillivray on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish him well in all his future volunteer endeavours.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2513">RESOLUTION NO. 2513</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2513">RESOLUTION NO. 2513</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident Terry Greenham received the Jubilee Medal for his services to our country, our community and to the Scouting movement, in particular the 1<sup>st</sup> Bedford Scouts;</p>
 <p>Therefore be it resolved that all members of this House congratulate Terry Greenham on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish him well in all his future volunteer endeavours.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2514">RESOLUTION NO. 2514</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2514">RESOLUTION NO. 2514</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident Fred George, Honorary Captain of the Royal Canadian Navy, received the Jubilee Medal in a ceremony in Ottawa;</p>
 <p>Therefore be it resolved that all members of this House congratulate Fred George on being awarded the Queen Elizabeth II Diamond Jubilee Medal and wish him well in all his future endeavours, both corporate and naval.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2515">RESOLUTION NO. 2515</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2515">RESOLUTION NO. 2515</num><from>Ms. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Queen Elizabeth II Diamond Jubilee Medal was created to mark the 2012 celebrations of the 60<sup>th</sup> Anniversary of Her Majesty Queen Elizabeth II's accession to the Throne as Queen of Canada; and</p>
 <p>Whereas the Diamond Jubilee Medal is a tangible way for Canada to honour Her Majesty for her service to this country while honouring the significant contributions and achievements by Canadians; and</p>
 <p>Whereas Bedford resident Mary Boston received the Jubilee Medal in a ceremony in August of this year in recognition of her many and varied volunteer efforts, particularly at Bedford Baptist Church, Beacon House and the Cancer Society;</p>

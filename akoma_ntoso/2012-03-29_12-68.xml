@@ -4,19 +4,20 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
         <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 29 March 2012</docTitle>
       <docNumber>12-68</docNumber>
       <docDate date="2012-03-29">Thursday, March 29, 2012</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="3">3rd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C81/house_12mar29/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -45,7 +46,7 @@
 <p>In total, 76 bills received the approval of the House, including a number of Private and Local Bills.</p>
 <p>I thank you for the ample provision you have made for the Public Service and I assure you that care and prudence will be exercised to ensure that the amounts voted are expended in the best interests of Nova Scotia.</p>
 <p>I now bid you farewell.</p></speech>
-      <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
+      <speech by="#darrell.dexter">
         <from>HON. DARRELL DEXTER</from>
         <p>Mr. Speaker and members of the House of Assembly, it is the will and pleasure of Her Honour, the Lieutenant Governor, that this, the Third Session of the Sixty-first General Assembly be prorogued and this session is accordingly prorogued and that the Fourth Session of the said General Assembly meet at two o'clock in the afternoon of this day for the dispatch of business.</p>
       </speech>

@@ -4,18 +4,18 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c" href="/ontology/person/ca-ns.john.a.lohr" showAs="Mr. John Lohr"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="MR. BELLIVEAU"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="8275114a-ac5c-47ce-aa8b-5fe96b8151f6" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDIE GOSSE"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="gordie.gosse" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDIE GOSSE"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="Mr. John Lohr"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="the Premier"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -24,9 +24,10 @@
       <docTitle>Debates, 4 April 2014</docTitle>
       <docNumber>14-21</docNumber>
       <docDate date="2014-04-04">Friday, April 4, 2014</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_14apr04/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -39,7 +40,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the New Democratic Party.</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="833">RESOLUTION NO. 833</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maureen.macdonald"><num title="833">RESOLUTION NO. 833</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Disabled Persons Commission was established in 1990, following the creation of the Disabled Persons Commission Act by the Province of Nova Scotia; and</p>
 <p>Whereas the mandate of the Act is to promote the concerns of persons with disabilities within the government itself, in particular when a policy affects more than one government department; and</p>
 <p>Whereas the commission has 12 steering committee members, five of which represent various government departments that provide programs and services for the disabled; and</p>
@@ -51,7 +52,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Cape Breton Centre.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><num title="834">RESOLUTION NO. 834</num><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#frank.corbett"><num title="834">RESOLUTION NO. 834</num><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas health care workers have made it clear that essential services legislation creates more unstable collective bargaining in jurisdictions where it exists; and</p>
 <p>Whereas on December 6, 2007, when the Premier was in Opposition, he said in this House, "Health care workers, like so many other sectors of this province, and across the country, have fought long and hard for the rights and benefits that they now have, thanks to unionization. Unionized health care workers are the backbone of our health care system"; and</p>
 <p>Whereas it is obvious that the Premier forgot what he said in Opposition and would do anything and say anything to get into power;</p>
@@ -62,7 +63,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="835">RESOLUTION NO. 835</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordie.gosse"><num title="835">RESOLUTION NO. 835</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas thousands of students have benefited from the Graduate Retention Rebate program, introduced by the NDP Government; and</p>
 <p>Whereas the Minister of Finance and Treasury Board has agreed that more graduates have been accessing this program every year; and</p>
 <p>Whereas the Minister of Finance and Treasury Board had no concrete answer to why the dissolution of the Graduate Retention Rebate was necessary in the 2014-15 Liberal budget;</p>
@@ -73,7 +74,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="836">RESOLUTION NO. 836</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="836">RESOLUTION NO. 836</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas hundreds of nurses marched for hours this week to speak out against this government's anti-worker bill, including time in freezing cold; and</p>
 <p>Whereas the value and dedication of nurses and health care workers in this province goes far beyond the call of duty; and</p>
 <p>Whereas nurses and health care providers put their own health at risk every day to care for our loved ones in times that we cannot;</p>
@@ -84,7 +85,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Queens-Shelburne.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="837">RESOLUTION NO. 837</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="837">RESOLUTION NO. 837</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the East Coast Organic Milk co-operative, as of April 7<sup>th</sup>, will announce it will cease production; and</p>
 <p>Whereas the East Coast Organic Milk co-operative is run by a small group of Nova Scotia family-owned organic dairy farmers committed to providing locally produced and certified organic dairy products to Nova Scotia; and</p>
 <p>Whereas the new Liberal Government campaigned on the promise of support for small business and the growth of the agriculture industry in Nova Scotia;</p>
@@ -95,7 +96,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="838">RESOLUTION NO. 838</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="838">RESOLUTION NO. 838</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Positive Recreation Opportunities for Kids, or PRO Kids, is a program that provides financial assistance to children and youth from the Municipality of Chester, who due to lack of funds are not able to participate in sport, recreation, and cultural activities; and</p>
 <p>Whereas PRO Kids gives kids in the Municipality of Chester an opportunity to participate rather than watch, as well as builds confidence, promotes physical activity, and builds leadership skills among many other things; and</p>
 <p>Whereas the PRO Kids program relies on community support and financial donations without which the program would not be offered;</p>
@@ -106,7 +107,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="839">RESOLUTION NO. 839</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, on behalf of the honourable member for Truro-Bible Hill-Millbrook-Salmon River, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordie.gosse"><num title="839">RESOLUTION NO. 839</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, on behalf of the honourable member for Truro-Bible Hill-Millbrook-Salmon River, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas spearheaded by Jamie and Nicole Bagnall of Truro, the Cougar Dome, a multi-sport facility located next to Cobequid Educational Centre, is a $2.1 million facility which features six full-size tennis courts, a 15,000-square-foot portable synthetic surface, a 10-bay golf range, long and triple jump pits, and a three- lane synthetic track; and</p>
 <p>Whereas the facility offers free admission to students with the Chignecto-Central Regional School Board between the hours of 9:00 a.m. and 3:00 p.m.; and</p>
 <p>Whereas the Cougar Dome's plan is for the facility to be self-sustaining, meaning it will not rely on additional public funding, and it will bring many people to the Town of Truro, which will provide a huge economic boom to the community;</p>
@@ -117,11 +118,11 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable Leader of the New Democratic Party, on an introduction.</p></speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+        <speech by="#maureen.macdonald">
           <from>HON. MAUREEN MACDONALD</from>
           <p>Mr. Speaker, I'd like to draw the attention of the members to the west gallery where we have two residents of my constituency with us tonight to observe the proceedings. I would ask them to stand after I have introduced them, and that is John Wimberly and Allison Sparling and I would ask the members of the Legislature to give them a warm welcome. (Applause)</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="840">RESOLUTION NO. 840</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maureen.macdonald"><num title="840">RESOLUTION NO. 840</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on December 6, 2007, the Premier, as Leader of the Liberal Party, said: "I would tell him to send a very clear message to those other provinces and those other countries and those other jurisdictions - look inward to the Province of Nova Scotia, because what we're doing here, when it comes to labour issues in the Province of Nova Scotia, is working. Ninety seven (sic) per cent of our labour issues are settled without a strike, and those are the facts according to his own government and his own department."; and</p>
 <p>Whereas the only thing the Premier and the Liberal Government will gain from this wrong-headed, heavy-handed approach is labour unrest; and</p>
 <p>Whereas Liberals always say one thing in Opposition and do another while they are in government;</p>
@@ -132,7 +133,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="841">RESOLUTION NO. 841</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="841">RESOLUTION NO. 841</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lower Sackville's Tyler Reyno is a 20-year-old mechanical engineering student at Dalhousie University; and</p>
 <p>Whereas Tyler created the Send Nova Scotia to Space campaign to raise awareness about his endeavour to be part of the first human civilization on Mars and his effort to prepare is raising awareness, interest, and money for the project; and</p>
 <p>Whereas Tyler has been shortlisted from over 200,000 applications around the world to one of 1,058 people vying to be selected to live on Mars as part of the Dutch Mars One project estimated to take place in the year 2025;</p>
@@ -143,7 +144,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="842">RESOLUTION NO. 842</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordie.gosse"><num title="842">RESOLUTION NO. 842</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dan MacRury was selected second vice-president of the Canadian Bar Association and will assume his role as association president in 2016; and</p>
 <p>Whereas Dan MacRury is the first public sector lawyer to hold this office of vice-president and will also be the first to assume the office of president; and</p>
 <p>Whereas Dan MacRury, in his 24-year service with the Canadian Bar Association, has earned numerous awards for his work with both the provincial and national bodies;</p>
@@ -154,7 +155,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="843">RESOLUTION NO. 843</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="843">RESOLUTION NO. 843</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Fo'c'sle, located in Chester, Nova Scotia, is Nova Scotia's oldest rural pub, as well as being a Chester landmark; and</p>
 <p>Whereas the Fo'c'sle, also known as "Chester's living room," was once a grocery store, a stable, and an inn, dating back to 1764; and</p>
 <p>Whereas the Fo'c'sle is celebrating 250 years in the community;</p>
@@ -165,7 +166,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="844">RESOLUTION NO. 844</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable member for Truro-Bible Hill-Millbrook-Salmon River, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="844">RESOLUTION NO. 844</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable member for Truro-Bible Hill-Millbrook-Salmon River, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Truro francophone community recently celebrated the grand opening of the Centre communautaire francophone de Truro; and</p>
 <p>Whereas the centre is attached to &#xC9;cole acadienne de Truro, but has its own volunteer board and is a separate organization; and</p>
 <p>Whereas the centre includes a theatre which holds 90 people and is also working with a group from Tatamagouche who plan to build an Acadian chaloupe, a boat used to transport sheep and cattle;</p>
@@ -182,7 +183,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
         </speech>
@@ -193,7 +194,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call Bill No. 37.</p>
         </speech>
@@ -203,7 +204,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Labour and Advanced Education.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I move that Bill No. 37, an Act to Ensure the Provision of Essential Health and Community Services, be now read a third time and do pass.</p>
+          <speech by="#kelly.regan"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I move that Bill No. 37, an Act to Ensure the Provision of Essential Health and Community Services, be now read a third time and do pass.</p>
 <p>Mr. Speaker, I believe that most of us would agree that government is responsible for protecting the health and safety of Nova Scotians. I also think we agree that the people who care for us when we are sick or in need are invaluable. They are hard-working and very committed. While we value their critical work, we must also ensure that Nova Scotians receive the care they need. This legislation does that.</p>
 <p>This bill balances our responsibility to protect health and safety with employees' right to strike. It ensures Nova Scotians can continue to count on essential care, even during a labour disruption. Government cannot stand by while Nova Scotians' health and safety is threatened. This isn't the first time Nova Scotians have been brought to the brink of a health care strike. In fact, it's the third time in less than a year.</p>
 <p>Like all Canadians, Nova Scotians deserve to know they will receive essential care during a labour disruption. The Essential Health and Community Services Bill requires unions and employers to reach agreements on essential services before any job action is taken. If the parties can't agree, an independent third party can help or make the decision for them. After an essential services agreement is in place, a strike or lockout can happen safely.</p>
@@ -212,7 +213,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Official Opposition.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I rise to speak here on third and final reading of Bill No. 37. I must say I'm disappointed in the debate that has gone on with this bill. For example, the Premier himself has attempted to frame the debate as - either you are with the government or you are with the nurses. Now what a shame that is.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I rise to speak here on third and final reading of Bill No. 37. I must say I'm disappointed in the debate that has gone on with this bill. For example, the Premier himself has attempted to frame the debate as - either you are with the government or you are with the nurses. Now what a shame that is.</p>
 <p>How did we get to a point with this new government? How did they get to the point so quickly that they would attempt to vilify those who disagree with them, including our nurses? No wonder they are frustrated. They have raised concerns about the safety of their own patients, as they are required to do by their oath that they take when they're admitted to the college of nurses. They have taken those frustrations and concerns to hospital managements, to health authority executives, to the boards of the health authorities, and then finally, when no one listened, to their own government. The answer they got from the leader of the government when they brought those concerns was - either you are with the government or you are with the nurses.</p>
 <p>Well Mr. Speaker, let me be clear where we, the Progressive Conservatives, are. We completely reject that awful contrast. That is not the way to frame this debate. From the beginning of this debate, we recognized that far from having to choose between a government and the province's nurses, we are here to represent all those Nova Scotians, whether they work in our health care system or whether they are patients. Real, everyday Nova Scotians who use our health care system and rely on it.</p>
 <p>When the Premier forces people to choose sides in such a crass way, let me be clear - we are here to represent those Nova Scotians who are patients who use and rely on our health care system every day. Those patients need that health system to be functioning, to be working and to be there for them every day. That also means that patients need their nurses.</p>
@@ -244,7 +245,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the New Democratic Party.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm pleased to have an opportunity to rise in my place this evening to speak to third and final reading of Bill No. 37, the Essential Health and Community Services Act.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm pleased to have an opportunity to rise in my place this evening to speak to third and final reading of Bill No. 37, the Essential Health and Community Services Act.</p>
 <p>Before I start I have to say I have to tell you that this evening, on my way down here from the north end of Halifax, I drove along Barrington Street and I saw someone out walking on Halifax Harbour. I couldn't quite tell who it was, but after listening to the Leader of the Official Opposition, I realized it was him, out for a little stroll in this season of Lent.</p>
 <p>Mr. Speaker, this evening we are in the disappointing position of seeing a very bad piece of legislation nearing closer to becoming the law of our province, a piece of legislation that literally will affect the lives of thousands of working people in our province - members of our families perhaps, our neighbours, our friends, perhaps students we've taught, certainly constituents and residents of our electoral districts whom we are here to represent.</p>
 <p>Mr. Speaker, I want to start first by addressing the issue that has been raised repeatedly about the process of getting this legislation to this place and the misrepresentation of the process of getting this legislation to this place - the very idea that somehow this legislation has gone through some kind of a slowdown process that is not the process of making legislation in this House.</p>
@@ -295,7 +296,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Cape Breton Centre.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, allow me some time to speak on Bill No. 37. I appreciate the indulgence of the House. It has been quite some time since Nova Scotians have been subjected to such a bill that strips rights away from Nova Scotians. I'm not going to say it strips the rights of union members, which it clearly does, but it takes away the rights from Nova Scotians, those who at some point may want to be unionized, and other people who are in the private sector. I'll explain a bit about that later.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, allow me some time to speak on Bill No. 37. I appreciate the indulgence of the House. It has been quite some time since Nova Scotians have been subjected to such a bill that strips rights away from Nova Scotians. I'm not going to say it strips the rights of union members, which it clearly does, but it takes away the rights from Nova Scotians, those who at some point may want to be unionized, and other people who are in the private sector. I'll explain a bit about that later.</p>
 <p>It's the broadness of this bill and the idea that this bill came when it did, and then you repeatedly heard and read in the media the blaming of our Party as the ones that are - air quotes - "slowing this down." I believe that my Leader clearly put forward the reality of how this House operates.</p>
 <p>Before going off that subject, Mr. Speaker, let's talk about Bill No. 30, the little brother of this bill because, okay, they came in, a new government botched their time at the table and they needed some help getting the training wheels off. So we sat in largely an unprecedented - I know that there is precedent, but largely an unprecedented weekend session to get that bill through. You would think that at that point they would say whoa, thanks, we worked together, we did it, but yet what seems to be the way this government operates, it's not so much as a thank you, it's almost like an I got you, that we decided to support them, to help them through what one would describe as a bit of a bump in the road. The more diabolical part of that is we were hoodwinked by supporting them because we thought that earnestly we were helping to resolve an issue.</p>
 <p>Really, if you listen to the Premier, day in and day out he's using that now as a springboard of saying this is all that's wrong with collective bargaining in this province. He creates an issue and then he blames somebody else. Where is the fairness in that? Why are you blaming health care workers? Are you blaming people from other professions who work in the public sector that give care? You're taking this broad brush and going after everybody.</p>
@@ -332,26 +333,26 @@
 <p>What does that do? One has to wonder, if you want to go to a bad place on this, is there a group of labour advisors to the Premier who also represent many employers across the province, who say look, if you give us this bill, it will really send shivers to the private sector and they won't bother with us, they'll be scared off. We'll just show them Bill No. 37 - you know you're not going to get any favours, don't go to that government, you'll not get any favours there, you'll put a chill through it all. You wonder who consulted the Premier on this bill - as they like to call themselves, they don't call them labour lawyers, they call them employment lawyers. Were there employment lawyers that the Premier would have taken advice from over nurses and other health care people where they have - are they more Nova Scotian than our friends in the health care and community services industry, Mr. Speaker?</p>
 <p>During the Budget Speech today, there were some false platitudes given from the government; false platitudes regarding some of our workers and so on. They're not really being thanked by this government, they're being punished. These are hardworking Nova Scotians and that's the part that I really can't get over. The Premier, as my Leader said, is bent on picking winners and losers. Make no mistake, Nova Scotians - whether they are the workers or they're in care - are the losers today, Mr. Speaker.</p>
 <p>Health care is under attack. If you work in this industry or even worse, let's say if you're going through university now, if you are graduating in a couple of weeks in this province, in one day we will have seen the Graduate Retention Rebate taken away from them and if you're a nurse you would see the reality of your workplace and your ability to participate in your workplace being eroded. I don't think I would want to work in a province like that and many of these people will start looking south of the border. Obamacare will be the big winner.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Like they did in the 1990s.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>MR. CORBETT</from>
             <p>Yeah, what they did in the 1990s. The Liberals are good at getting people out of this province, Mr. Speaker, and especially as it relates to health care workers. When in government - and I used to get a kick out of the now-Premier in Opposition going on about how many medical seats are at Dalhousie and for some reason he didn't remember who cut those seats. The Progressive Conservative Party didn't cut those seats, it wasn't the New Democratic Party; it was the Liberals. It was the Liberals that cut the seats at the medical school.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Selective memory.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>MR. CORBETT</from><p>Oh yeah. There was a time, you know if you recall back to the last days of the Savage Government, which almost look like those infamous pictures of the last helicopters leaving Hanoi - the Liberals were hanging off the helicopters, almost. That's how bad it was, Mr. Speaker. They didn't know what to do and I will make a prediction today that that what's this is going to end up like.</p>
+          <speech by="#frank.corbett"><from>MR. CORBETT</from><p>Oh yeah. There was a time, you know if you recall back to the last days of the Savage Government, which almost look like those infamous pictures of the last helicopters leaving Hanoi - the Liberals were hanging off the helicopters, almost. That's how bad it was, Mr. Speaker. They didn't know what to do and I will make a prediction today that that what's this is going to end up like.</p>
 <p>I heard one of the Liberal staffers spinning outside before I came in saying, they can't last till seven o'clock, and I said to a reporter it's not a matter if we can last till seven, it's can those guys last four years, that's the problem. Mr. Speaker, today will come and go (Interruption) Well you know, here we have the Minister of Education and Early Childhood Development wants the floor and I would clearly love to yield it to her if she had something useful to add to the conversation so Mr. Speaker, no. We will see.</p>
 <p>Again, my frenemies over here in the Progressive Conservative Party. I want to say they make no bones about arbitration. (Interruption) That's right, Eddie was smart enough to play ball in New Waterford, but I don't think he wore any &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>Order, please. I just want to bring a little focus back to your comments.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>MR. CORBETT</from><p>Thank you for trying, Mr. Speaker, and I'll do my best. I apologize to you and the House. Getting back on track, if I can get somewhere near there, the arbitration contemplated in this bill is one that's not in balance. The Progressive Conservatives believe in sending things off to arbitration, and they don't put the limits in their bill that's in here. You handcuff the arbiter in many ways in Bill No. 37. That's, as they say, the devil is in the details. Why would you do that? Why would you tell people that this is a good bill, it's a fair bill, and yet within the body of the arbitration, when the arbiter is appointed, there's a list of criteria they really cannot go beyond? That's really the meat and potatoes here.</p>
+          <speech by="#frank.corbett"><from>MR. CORBETT</from><p>Thank you for trying, Mr. Speaker, and I'll do my best. I apologize to you and the House. Getting back on track, if I can get somewhere near there, the arbitration contemplated in this bill is one that's not in balance. The Progressive Conservatives believe in sending things off to arbitration, and they don't put the limits in their bill that's in here. You handcuff the arbiter in many ways in Bill No. 37. That's, as they say, the devil is in the details. Why would you do that? Why would you tell people that this is a good bill, it's a fair bill, and yet within the body of the arbitration, when the arbiter is appointed, there's a list of criteria they really cannot go beyond? That's really the meat and potatoes here.</p>
 <p>If the government allows this to go forward - in arbitration, the arbitrator has this huge wide bill, but a very, very narrow area in which to deliver and render a decision, which would put in jeopardy, in many ways, the ability to even get an arbiter. Arbiters are learned people, such as one we have much experience with from all Parties here, Mr. Outhouse - a very learned, well-respected individual who does many arbitrations not only within this province, but I would say across the country. I've worked on files with Mr. Outhouse and found him to be a very bright man, a very fair and honest man. But the government doesn't seem to think that way, that if Mr. Outhouse was to arbitrate the essential services in this, he would be handcuffed by certain sections in this bill.</p>
 <p>So why is that there? Not only are they taking the ability away from the workers but they're taking the ability away from arbiters. That's the type of legislation that's - someone just doesn't come up with that as a "wow, I could have had a V8" moment. This is thought out, and it's diabolical, and it's mean-spirited, and it goes right after the issue here - the issue, of course, being the ability of fairness. The Premier keeps telling people that this is fair. Well, this is anything but fair, Mr. Speaker.</p>
 <p>What we want to really talk about is, where will they get these arbiters? Where will this time come when there will be seven, eight, nine, ten agreements open and they're looking for arbiters everywhere? These people just don't fall out of trees. I would suspect across this whole country there is only a very small handful in each province that you would want to adjudicate or help adjudicate any of these issues. They are very important to the system, especially as it relates to industrial relations. What will we do if we don't have these people?</p>
@@ -371,14 +372,14 @@
 <p>But who is going to do this arbitration? How many arbitrators does this province have? I would say less than a handful in this province, but this is what he wants you to do. He wants you to go out and negotiate - and this is not just an issue about the workers, which is terrible enough, but like I mentioned to you earlier, Madam Speaker, these small, not-for-profit long-term care homes, where are they going to get this legal advice from? They are going to have to deal with this legislation, because it's told that they have to. Before anything can be done, they have to work out an essential services agreement. So what they end up with is, okay, folks, we're sending you out a notice to bargain, but first of all, before we even find out if the union said, look, this is the status quo contract and we'll let you roll it over it for two, three years, however long it is, this bill implies that they have to go out and bang out an essential services agreement. Like, why? Why is the government forcing this out?</p>
 <p>This is part of this bill not being thought through. It's bad enough that our health care dollars will be spent in Capital District on labour relation specialists from both sides, particularly we're paying - instead of having money spent on medical care we're spending money on labour relation experts to sit down and bang out essential services legislation, and that's bad enough in our larger health care models and some of the larger institutions that have long-term care, but I really am worried that this will have a chilling effect on these small not-for-profits that are in many of our communities and will not be able to survive because I think you'll have board members saying look I'm going to resign because I can't put my name to this document because this may end up in the courts.</p>
 <p>Madam Speaker, I see that my time is just about up, I have probably about a minute, so before I take my seat I move that the previous question now be put.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Recorded vote.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that this question now be put.</p>
 <p>The debate will continue.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><from>HON. DAVID WILSON</from><p>Thank you, Madam Speaker, I will say I am glad to be up on my feet again to speak on such an important issue, but I'm not glad to be here.</p>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Thank you, Madam Speaker, I will say I am glad to be up on my feet again to speak on such an important issue, but I'm not glad to be here.</p>
 <p>I may say that this, hopefully, is my last midnight shift for a while but I know the hundreds if not thousands of health care workers and nurses won't be able to say the same because, of course, they do this type of work at this time many, many times throughout their career and work under situations that are extremely difficult.</p>
 <p>We all bring forward our experiences and, as I said, I think in a previous debate that I had on this bill, we all have reasons why we're in this Legislature and I'd like to just reflect a little bit on why I'm here and why I feel compelled to stand in my place and talk against Bill No. 37.</p>
 <p>Many of the members here know in my former career I was a paramedic and often throughout my career, legislation, public policy was brought forward and paramedics weren't mentioned that often, Madam Speaker. Rarely when health care was discussed on the floor of this Legislature, or out in the general public, was there mention of EMTs and paramedics. I thought, and many of my colleagues at the time thought, that that was not right. We were playing an important role in delivery of health care, especially emergency health care in the province. The conditions we worked under at the time were not the best, Madam Speaker. The Progressive Conservative Government at the time, under Dr. Hamm, thought it was appropriate to bring forward legislation quite similar to Bill No. 37. They were trying to remove the right to strike from the paramedics at the time.</p>
@@ -452,7 +453,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Chester-St. Margaret's.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>HON. DENISE PETERSON-RAFUSE</from><p>Madam Speaker, this is quite an experience to be able to speak on Bill No. 37. You can hear in the stamina that those individuals and nurses have - that they're letting their voices be heard. Believe me, this is only the beginning.</p>
+          <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Madam Speaker, this is quite an experience to be able to speak on Bill No. 37. You can hear in the stamina that those individuals and nurses have - that they're letting their voices be heard. Believe me, this is only the beginning.</p>
 <p>Every time we begin our daily routine in this House of Assembly, we pray. In our prayer we pray for our legislative members to bring in fair and equitable legislation. I don't know if people even hear that, but that's what we do every time we start our daily routine. We pray. There is a statement in there that says about fair and equitable legislation - well, Bill No. 37 is certainly not fair and equitable legislation, on the contrary.</p>
 <p>From this day forward, every time when we pray before our daily routine and the words are said, "fair and equitable legislation", I hope Bill No. 37 will always cross their minds and how they misled the people of this province and brought in the most unfair and inequitable legislation in the history of Nova Scotia. I do really hope that crosses the minds of the members of this government each and every time. It will be a reminder because those key words "fair and equitable legislation" will be said every day we start our daily routine. I do hope Bill No. 37 pops in the minds of those on the government side, and they understand what that means for this province, and for those individuals who have the courage to be out here to let you hear their voices.</p>
 <p>This morning, I would like to also address the public relations game that the Premier of this province has been playing with the lives of Nova Scotians and trying to sell the concept of Bill No. 37 through that public relations game. I guess it can be called the fear factor by the Premier trying to make it sound like he is the only one who cares about patient safety. Does he not think that this is what it is all about for these nurses and health care professionals? Their whole message is about patient safety. That's the exact point that the nurses are making, Madam Speaker. It's patient safety, and they need the support and they need better working conditions in order to make sure that their patients are safe. That's not in Bill No. 37, and for the Premier to act as if he is the only one and his members of government are the only ones concerned about patient safety, it's plain and simply disrespecting the nurses and the health care professionals of the Province of Nova Scotia. They are experiencing unsafe working conditions each and every day. That also translates into unsafe conditions for their patients. That is what they're trying to tell us.</p>
@@ -513,7 +514,7 @@
             <from>MADAM SPEAKER</from>
             <p>Order, please. Unparliamentary language. Would you please withdraw it.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180">
+          <speech by="#denise.peterson.rafuse">
             <from>MS. PETERSON-RAFUSE</from>
             <p>I'm sorry, Madam Speaker.</p>
           </speech>
@@ -521,7 +522,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Chester-St. Margaret's has the floor.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>MS. PETERSON-RAFUSE</from><p>I guess I hit a nerve. Sometimes when you hit a nerve it's because it's the reality.</p>
+          <speech by="#denise.peterson.rafuse"><from>MS. PETERSON-RAFUSE</from><p>I guess I hit a nerve. Sometimes when you hit a nerve it's because it's the reality.</p>
 <p>So Madam Speaker, as I said before, it's mind-boggling that this government would want to support legislation that - we've all spoken about it. There have been many words said. We can't say much more, because as everyone knows, we're running out of time, but unfortunately, I think time will be running out on this Liberal Government. I know that whatever the Liberal Government members want to think, they have the right to think that, just the same as the nurses and the health care workers have the right to their thoughts, but the difference is that they're not being heard.</p>
 <p>They're not being heard, because if they were being heard, Madam Speaker, they would have been at least given the consideration of time, the consideration to be able to sit down and talk with this government and bring in professionals who can work together in a restorative manner to be able to say, well, we need to work this out, what's a better situation? Don't we all want patient safety?</p>
 <p>As I said with Bill No. 37, you're taking rights away, and in fact - as was mentioned several times at Law Amendments Committee, and I don't understand why it's being ignored - we'd rather spend the money on the fancy-pants lawyers. We'd rather follow what other provinces have done, and they've done it wrong. We'd rather bring in legislation that we've got legal precedence in this nation, where a province has lost in terms of bringing in essential services legislation in B.C., and there is a Supreme Court ruling.</p>
@@ -533,7 +534,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Queens-Shelburne.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>HON. STERLING BELLIVEAU</from><p>Thank you very much, Madam Speaker. It's certainly a pleasure to rise here tonight and speak on Bill No. 37. I know we're in our final hours of this particular procedure and I certainly feel privileged to have the opportunity to speak here tonight.</p>
+          <speech by="#sterling.belliveau"><from>HON. STERLING BELLIVEAU</from><p>Thank you very much, Madam Speaker. It's certainly a pleasure to rise here tonight and speak on Bill No. 37. I know we're in our final hours of this particular procedure and I certainly feel privileged to have the opportunity to speak here tonight.</p>
 <p>First of all, I want to say how proud I am of our Party, of the Party that I belong to, how proud I am of our staff and the work they've done in the last week or two. It really touches you and I certainly want to relay that I'm proud of the conception of our Party, with Tommy Douglas and health care. I know that it's important to me, it's important to many Nova Scotians, and I just want to plant the seeds of how I was attracted to this Party and the importance of that and why I'm standing today and having this opportunity to speak. It's actually an honour, Madam Speaker, to have this privilege to stand here today.</p>
 <p>I also want to point out, and we had our experienced Leader speak and lead off our Party, and I'm not going to try to compete with the knowledge and expertise of our Leader and our House Leader and the members who went before me. I feel they are very knowledgeable about this file and I recognize that. I just wanted to note, for your interests, that the two bookends, if you want to call it, from the South Shore of Nova Scotia are going to be the last two speakers. If you want to say that probably they're saving the best for the last, that would be our member for Sydney-Whitney Pier.</p>
 <p>I feel we have covered the complete stories of this particular bill and we're going to be followed by the last two speakers right across Nova Scotia, representing a fisherman's son and a coal miner's son. To me, that probably captures what Nova Scotia is about. I just wanted to point that out because I feel that's certainly important and the values that I have and to stand here today and I hope I do a fair/average job, Madam Speaker, of capturing the concerns and the issues of my community and right across Nova Scotia. I'm sure that my colleague, my good friend the member for Sydney-Whitney Pier, will bring that home.</p>
@@ -594,7 +595,7 @@
             <from>MR. SPEAKER</from>
             <p>About 10 minutes.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>MR. BELLIVEAU</from>
             <p>About 10 minutes oh I've got to get some of the important stuff.</p>
           </speech>
@@ -602,15 +603,15 @@
             <from>MR. SPEAKER</from>
             <p>You have 13 minutes, take 10.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>MR. BELLIVEAU</from>
             <p>Well I'm just getting into the good parts and we don't want to leave any of this out. Again, I want to point out that I take notes, it is certainly a habit of mine whether it's a - I think it's important. But I timed the Liberal Minister tonight on this important topic and I know that I can go back in my notes and time her, and it was to the minute of this important topic, her opening speech tonight was little over two minutes. A little over two minutes on this important bill. The PC Leader, I actually noted you were something like 20 minutes, and I agreed with a lot of what you said.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>It's quality.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>MR. BELLIVEAU</from><p>There was quality, you can call it quality but I call it 20 minutes. What was said in the summary of the PC Leader in his 20 minutes the summary was that his Party took no steps to slow down this bill, no steps. None whatsoever. They had an opportunity that they waive the right on Opposition Day and he was very clear that by waiving his right on Opposition Day, this is not to be a sign of support.</p>
+          <speech by="#sterling.belliveau"><from>MR. BELLIVEAU</from><p>There was quality, you can call it quality but I call it 20 minutes. What was said in the summary of the PC Leader in his 20 minutes the summary was that his Party took no steps to slow down this bill, no steps. None whatsoever. They had an opportunity that they waive the right on Opposition Day and he was very clear that by waiving his right on Opposition Day, this is not to be a sign of support.</p>
 <p>I just think there's to me that they could do much more. The Official Opposition, I timed them, I timed the number of times they got up and spoke, which was only several, to me I questioned whether they had brought forcefully the voices and concerns of the people across Nova Scotia who voted for them, have they forcefully brought their concerns to this floor?</p>
 <p>I have a concern with that because I think they could have done better in more than 20 minutes. No offence to the Leader, but overall, to the Party as a whole, they could have put more time on this particular topic overall.</p>
 <p>I think I am a fair person and I want to recognize the PC Finance Critic today. The Finance Critic today in his remarks on the budget, I think he had one of the better lines (Interruption) No, it was not the title. He said - to me I thought this was - and I give him full marks on this, he said if the present new government would have taken the time, instead of hiring the 500 bureaucrats for doing all the reviews, if they would have spent and hired 500 new nurses, we wouldn't have the problem and the noise that we're hearing today. I really acknowledge that and I think that was a pivotal moment.</p>
@@ -629,7 +630,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Sydney-Whitney Pier.</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GORDIE GOSSE</from><p>Thank you Mr. Speaker, and thank you for giving me the opportunity to speak. The first thing before I get to speak on Bill No. 37, the Essential Health and Community Services Act, I'd like to correct the honourable member for Queens-Shelburne, I'm the son of a steel worker. I'm a third generation steel worker not the son of a coal miner. The son of the coal miner would be my colleague, the member for Cape Breton Centre. Thank you very much, it's almost close to the same industry.</p>
+          <speech by="#gordie.gosse"><from>MR. GORDIE GOSSE</from><p>Thank you Mr. Speaker, and thank you for giving me the opportunity to speak. The first thing before I get to speak on Bill No. 37, the Essential Health and Community Services Act, I'd like to correct the honourable member for Queens-Shelburne, I'm the son of a steel worker. I'm a third generation steel worker not the son of a coal miner. The son of the coal miner would be my colleague, the member for Cape Breton Centre. Thank you very much, it's almost close to the same industry.</p>
 <p>Let's get on to the important thing before us here tonight - Bill No. 37, the Essential Health and Community Services Act. It's a very broad act covering very many people, 32,000 people. When you look at the bill itself it encompasses palliative care, nursing services, Mi'kmaq family and children services, group home employees. If this bill goes forward, which it naturally is going to do tonight and become law tomorrow morning, we'll have a great scope when it does and what this entails and what it covers, and what it looks after.</p>
 <p>What we heard in Law Amendments Committee was we heard from the Nova Scotia Government Employee's Union. We heard from President Joan Jessome. We heard from the Nova Scotia Nurses' Union. We heard from the Canadian Union of Public Employees, Mr. Wayne Thomas. We also heard from Kyle Buott, the president of the Halifax/Dartmouth District Labour Council. We heard from Tony Tracy, Atlantic regional representative with the Canadian Labour Congress. We heard from Suzanne MacNeil, President of Cape Breton District Labour Council - thanks, Suzanne, for coming such a long way for many days from Cape Breton.</p>
 <p>It was surprizing, I heard from a lot of people who were at Law Amendments Committee that some were not nurses; some were college students, Mr. Speaker. They were there to voice their concerns around Bill No. 37 and surprisingly enough it was the past president of the Nova Scotia Teachers Union, Alexis Allen, who was there. She made some comments about this bill and gave her personal view on what she thought about this bill. Also the new president of the Nova Scotia Teachers Union, Shelley Morris, gave her opinion on what she thought about the bill.</p>
@@ -699,7 +700,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, on behalf of the Minister of Labour and Advanced Education, I so move Third Reading of Bill No. 37.</p>
           </speech>
@@ -953,7 +954,7 @@
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. The House will sit again on Monday, April 7, from the hours of 4:00 p.m. to 10:00 p.m. Following the daily routine, the government business will be Committee of the Whole House on Supply and, if time permits, we will go into second reading of government bills, with Bill No. 35, the Property Valuation Services Corporation Act.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. The House will sit again on Monday, April 7, from the hours of 4:00 p.m. to 10:00 p.m. Following the daily routine, the government business will be Committee of the Whole House on Supply and, if time permits, we will go into second reading of government bills, with Bill No. 35, the Property Valuation Services Corporation Act.</p>
 <p>With that, Mr. Speaker, I move that the House do now rise, to meet again on Monday, April 7<sup>th</sup>, from the hours of 4:00 p.m. to 10:00 p.m.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to adjourn.</p>
 <p>Is it agreed?</p>
@@ -968,7 +969,7 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><num title="845">RESOLUTION NO. 845</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.a.lohr"><num title="845">RESOLUTION NO. 845</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas for years the community post office has been a meeting place for friends and neighbours; and</p>
 <p>Whereas the Port Williams Post Office has had a long serving postal employee of 35 years who encouraged the sense of community in the village; and</p>
 <p>Whereas Jerry Wood after his long service has retired as postmaster at the local post office;</p>

@@ -4,48 +4,49 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="358dbc8a-a052-4a0f-96df-1adea9a5bbdd" href="/ontology/person/ca-ns.mat.whynott" showAs="Mr. Mat Whynott"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="42d2bd92-9a05-4f0e-8fae-0df41cda3c9e" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="ee8a60d0-642f-4447-a3d1-573947cdc8b0" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="Mr. Allan MacMaster"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="c8656293-6758-4799-9249-e4a9e096a4d2" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
-        <TLCPerson id="213d6bf9-1589-4472-bd07-34828a3b2db9" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="002be249-bd3d-4105-8653-0fc8ddb6d4da" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="bf736a4f-4e18-431a-acf2-10100b3a941a" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="f2518600-906f-48d6-8287-3ec3d599b72a" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="a841369d-b3a6-4df9-af76-53c4f9eab8cf" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
-        <TLCPerson id="db879201-933e-4d03-b3d3-3f0d7224dd00" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="ross.landry" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="michele.raymond" href="/ontology/person/ca-ns.michele.raymond" showAs="MS. MICHELE RAYMOND"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="graham.steele" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
+        <TLCPerson id="keith.bain" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="gary.ramey" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="mat.whynott" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="pam.birdsall" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="charlie.parker" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="bill.estabrooks" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="marilyn.more" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="gary.burrill" href="/ontology/person/ca-ns.gary.burrill" showAs="MR. GARY BURRILL"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
+        <TLCPerson id="becky.kent" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
-        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 12 December 2011</docTitle>
       <docNumber>11-64</docNumber>
       <docDate date="2011-12-12">Monday, December 12, 2011</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="3">3rd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C81/house_11dec12/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -58,14 +59,14 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bills:</p>
+        <speech by="#ross.landry"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bills:</p>
 <p><b>Bill No. 120 - Liquor Control Act.</b></p>
 <p><b>Bill No. 126 - Police Act.</b></p>
 <p><b>Bill No. 128 - Public Sector Lobbyists Act.</b></p>
 <p>and the committee recommends these bills to the favourable consideration of the House, each without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#db879201-933e-4d03-b3d3-3f0d7224dd00"><from>MS. MICHELE RAYMOND</from><p>Madam Speaker, as Chairman of the Committee on Private and Local Bills, I am directed to report that the committee has met and considered the following bills:</p>
+        <speech by="#michele.raymond"><from>MS. MICHELE RAYMOND</from><p>Madam Speaker, as Chairman of the Committee on Private and Local Bills, I am directed to report that the committee has met and considered the following bills:</p>
 <p><b>Bill No. 38 - Yarmouth North United Baptist Church Act.</b></p>
 <p><b>Bill No. 99 - Archdiocese of Halifax-Yarmouth Act.</b></p>
 <p><b>Bill No. 101 - Halifax Kennel Club Incorporation Act.</b></p>
@@ -81,25 +82,25 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Minister of the Public Service Commission.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, I beg leave to table the Annual Report of the Civil Service Disclosure of Wrongdoing Regulations and Policy, 2010-2011.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The report is tabled.</p>
 <p>The honourable Minister of Finance.</p></speech>
-        <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
+        <speech by="#graham.steele">
           <from>HON. GRAHAM STEELE</from>
           <p>Madam Speaker, I beg leave to table Nova Scotia's Jobs and Building Plan, the 2012-2013 Capital Plan.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The plan is tabled.</p>
 <p>The honourable Minister of Finance.</p></speech>
-        <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
+        <speech by="#graham.steele">
           <from>HON. GRAHAM STEELE</from>
           <p>Madam Speaker, in response to a question raised during Question Period last week, I am pleased to table the financial statement for the Victims' Assistance Fund for 2011.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The statement is tabled.</p>
 <p>The honourable Minister of Justice.</p></speech>
-        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
+        <speech by="#ross.landry">
           <from>HON. ROSS LANDRY</from>
           <p>Madam Speaker, I beg leave to table an amendment to the Nova Scotia Civil Procedure Rules, dated December 9, 2011.</p>
         </speech>
@@ -114,11 +115,11 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, on behalf of the Premier, I hereby give notice that on a future day I shall move the following resolution:</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, on behalf of the Premier, I hereby give notice that on a future day I shall move the following resolution:</p>
 <p>Last month a devastating fire &#x2026;</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. We're not quite there yet. This is Statements by Ministers and I've had a request for an introduction. Sorry to interrupt you.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><from>MR. KEITH BAIN</from><p>Thank you, Madam Speaker. I'm pleased to make an introduction of two individuals who are in the Speaker's Gallery this afternoon. I would ask that Mike Skinner and Dave McKillop please rise.</p>
+        <speech by="#keith.bain"><from>MR. KEITH BAIN</from><p>Thank you, Madam Speaker. I'm pleased to make an introduction of two individuals who are in the Speaker's Gallery this afternoon. I would ask that Mike Skinner and Dave McKillop please rise.</p>
 <p>It's of note, Madam Speaker, that it has been 52 years since these two gentlemen have seen each other and through the good graces of our Sergeant-at-Arms, they were able to get together in his office today, and the good part is that they're both from Glace Bay. So I would ask the House to give them a warm welcome. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -131,7 +132,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e"><num title="2954">RESOLUTION NO. 2954</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#darrell.dexter"><num title="2954">RESOLUTION NO. 2954</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas last month a devastating fire destroyed the main lodge at White Point Beach Resort near Liverpool, temporarily closing the popular tourist destination and putting more than 100 people out of work going into the holiday season; and</p>
 <p>Whereas this past weekend resort owner Robert Risley joined all the resort staff at a local fire hall for the annual White Point Christmas party; and</p>
 <p>Whereas the employees learned at the get-together that members of RCR Hospitality Group and their colleagues from other companies and hotels across the province had donated tens of thousands of dollars in Christmas presents and gift certificates for the families of those out of work;</p>
@@ -161,7 +162,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="2955">RESOLUTION NO. 2955</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="2955">RESOLUTION NO. 2955</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas it has been the combination of community spirit and enthusiastic unwavering optimism of the future that has seen the Annapolis Valley Exhibition continue to grow in challenging times; and</p>
 <p>Whereas for more than 80 years this popular week-long event has been attracting visitors and returning expats to Lawrencetown, Annapolis County, to join in the celebration of a proud history and a bright future for agriculture in the Valley; and</p>
 <p>Whereas the Annapolis Valley Exhibition is undergoing another major addition to an ever-growing, always popular showcase with the construction of a new 9,600-square-foot horse barn through the financial support of ACOA, the Municipality of Annapolis County, and private interests;</p>
@@ -173,7 +174,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="2956">RESOLUTION NO. 2956</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="2956">RESOLUTION NO. 2956</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas long-time business owner John O'Connor recently worked his last day after 40 years at the Ultramar garage on Central Avenue in Inverness; and</p>
 <p>Whereas O'Connor, a native Invernesser, started working in 1962 and only two years later decided to take over the garage on his own; and</p>
 <p>Whereas at a customer appreciation tea Mr. O'Connor expressed thanks to the whole community which includes long-time committed customers;</p>
@@ -185,7 +186,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg West.</p></speech>
-        <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa"><num title="2957">RESOLUTION NO. 2957</num><from>MR. GARY RAMEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gary.ramey"><num title="2957">RESOLUTION NO. 2957</num><from>MR. GARY RAMEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Christmas on the LaHave is an annual event which kicks off the Christmas season in Bridgewater and the surrounding area, and which is supported by the Town of Bridgewater, the Municipality of Lunenburg, the business community, and volunteer organizations like the Bridgewater Fire Department and the United Way; and</p>
 <p>Whereas the annual Christmas on the LaHave parade was held on Sunday, November 27<sup>th</sup>, on a beautiful evening that featured music, floats, fireworks, and jolly old St. Nick himself; and</p>
 <p>Whereas by all accounts, approximately 20,000 folks filled the downtown core to attend this wonderful event, which bonded the community together and definitely got the Christmas season off on the right note;</p>
@@ -197,7 +198,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="2958">RESOLUTION NO. 2958</num><from>MS. DIANA WHALEN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="2958">RESOLUTION NO. 2958</num><from>MS. DIANA WHALEN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas at the age of 49, Marlowe Johnson, a long-time resident of Halifax Clayton Park, has reached a milestone in his life; and</p>
 <p>Whereas on December 23, 2011, Marlowe will retire after 31 years of dedicated service as a technician with Bell Aliant, including 15 years working on the Nova Scotia Government accounts; and</p>
 <p>Whereas over the past 15 years the caucus members and staff have appreciated Marlowe's warm personality and his commitment to excellence as the Bell Aliant representative;</p>
@@ -209,7 +210,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2959">RESOLUTION NO. 2959</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure je demanderai l'adoption de la r&#xE9;solution suivant:</p>
+        <speech by="#christopher.a.dentremont"><num title="2959">RESOLUTION NO. 2959</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure je demanderai l'adoption de la r&#xE9;solution suivant:</p>
 <p>Attendu que le dimanche 24 juillet 2011, au Centre communautaire de Par-en-Bas &#xE0; Tusket, le Festival acadien de Par-en-Bas a pr&#xE9;sent&#xE9; une premi&#xE8;re &#xE9;dition annuelle de Star Acadie, un concours de chanson en fran&#xE7;ais; et</p>
 <p>Attendu que le spectacle &#xE9;tait divis&#xE9; en deux parties, soit le concours de chanson en fran&#xE7;ais avec 10 jeunes, divis&#xE9;s en deux cat&#xE9;gories d'&#xE2;ges, qui ont pr&#xE9;sent&#xE9; une vari&#xE9;t&#xE9; de chansons, et en deuxi&#xE8;me partie, un spectacle mettant en vedette le groupe r&#xE9;put&#xE9; Grand D&#xE9;rangement; et</p>
 <p>Attendu que Emily Adams a gagn&#xE9; le concours dans la cat&#xE9;gorie 10 &#xE0; 14 ans et Corey Wilson dans la cat&#xE9;gorie 15 &#xE0; 19 ans;</p>
@@ -227,7 +228,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2960">RESOLUTION NO. 2960</num><from>MR. MAT WHYNOTT</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2960">RESOLUTION NO. 2960</num><from>MR. MAT WHYNOTT</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on March 11, 2011, Japan experienced a 9.2 magnitude earthquake resulting in a severe tsunami which killed over 15,000 people and injured thousands more; and</p>
 <p>Whereas support and financial aid poured in from across the world for the survivors and their families; and</p>
 <p>Whereas in April 2011, Matthew Tolton of Hammonds Plains organized a bake sale and T-shirt fundraiser for Japanese relief where kids wore red and white for two days and raised $588 for the Canadian Red Cross;</p>
@@ -239,7 +240,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="2961">RESOLUTION NO. 2961</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="2961">RESOLUTION NO. 2961</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jim and Margie Lamb of Somerset in the Berwick area continue to grow their business, Meadowbrook Meat Market, by using their marketing skills along with time and money added to loads of energy by introducing such products as the Jimmie Dog; and</p>
 <p>Whereas the Jimmie Dog continues to grow in popularity because it's gluten free, no MSG, and contains no animal by-products; and</p>
 <p>Whereas the Lambs, Jim and Margie, continue to support local fundraisers at their business and host at least one monthly breakfast where funds are donated to a local charity;</p>
@@ -251,7 +252,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2962">RESOLUTION NO. 2962</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2962">RESOLUTION NO. 2962</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 2011 edition and 21<sup>st</sup> year of Symphony Nova Scotia's <i>The Nutcracker</i> opened in Halifax on Friday, December 9<sup>th</sup>; and</p>
 <p>Whereas a Cape Breton dancer is at the heart of this year's presentation after having appeared in the show in 1999 and 2000; and</p>
 <p>Whereas Molly Johnson, a native of Baddeck, is taking the leading role of Clara, a young girl at a boarding school with no place to go for the holidays;</p>
@@ -263,7 +264,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg.</p></speech>
-        <speech by="#a841369d-b3a6-4df9-af76-53c4f9eab8cf"><num title="2963">RESOLUTION NO. 2963</num><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#pam.birdsall"><num title="2963">RESOLUTION NO. 2963</num><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year, the Red Room of Province House is decorated for the holidays with a large Christmas tree to celebrate the season; and</p>
 <p>Whereas the Lunenburg County Christmas Tree Producers Association is a group of landowners who work in harmony with nature to produce an all-natural product which is shipped from Lunenburg County, often recognized as the "Balsam Fir Capital of the World" to locations all over the globe; and</p>
 <p>Whereas David Demone of New Germany, Christmas tree producer and member of the Lunenburg County Christmas Tree Producers Association, provided the elegant and impressive tree which is currently gracing the Nova Scotia House of Assembly;</p>
@@ -281,7 +282,7 @@
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The House welcomes all guests to the gallery, hope you enjoy today's proceedings.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2964">RESOLUTION NO. 2964</num><from>HON. WAYNE GAUDET</from><p>Madame la Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#wayne.j.gaudet"><num title="2964">RESOLUTION NO. 2964</num><from>HON. WAYNE GAUDET</from><p>Madame la Pr&#xE9;sident, par la pr&#xE9;sente, j'avise que je proposerai &#xE0; une date ult&#xE9;rieure, l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que les &#xE9;crivains dans nos milieu jouent un r&#xF4;le cl&#xE9; pour valoriser notre patrimoine; et</p>
 <p>Attendu que madame Marie-Colombe Robichaud est engag&#xE9;e dans la publication de livres et dans la pr&#xE9;sentation de spectacle montrant diff&#xE9;rents aspects de notre communaut&#xE9;; et</p>
 <p>Attendu que Mme. Robichaud a publi&#xE9; r&#xE9;cemment un livre intitul&#xE9;: Th&#xE9;otime et les feux follets rappelant diff&#xE9;rents aspects de notre folklore;</p>
@@ -299,7 +300,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2965">RESOLUTION NO. 2965</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#christopher.a.dentremont"><num title="2965">RESOLUTION NO. 2965</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame la Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que le 7 novembre 2011, les gens de la r&#xE9;gion de la Pointe-du-Sault et l'&#xCE;le-Surette se sont rencontr&#xE9;s pour une conf&#xE9;rence de presse dans le but de confirmer les intentions du gouvernement de devancer la construction d'un nouveau pont; et</p>
 <p>Attendu que les trois niveaux des gouvernements, ainsi qu'Earl P. Muise, porte-parole du comit&#xE9; d'action, &#xE9;taient pr&#xE9;sents pour cette annonce et qu'ils supportent tous la construction d'un nouveau pont; et</p>
 <p>Attendu que le pont, maintenant &#xE2;g&#xE9; 102 ans, a besoin d'&#xEA;tre remplac&#xE9; et que la construction d'un nouveau pont va commencer pendant l'&#xE9;t&#xE9; 2012 pour se terminer en 2013;</p>
@@ -317,7 +318,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2966">RESOLUTION NO. 2966</num><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="2966">RESOLUTION NO. 2966</num><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Survival Systems Training Limited is a Dartmouth-based business specializing in a wide range of safety training in products and services; and</p>
 <p>Whereas Survival Systems Training Limited, in collaboration with Dalhousie University, recently completed the preliminary research to develop a full-scale sea plane safety simulator to train pilots and crew on how to survive a ditching situation; and</p>
 <p>Whereas Survival Systems Training Limited is now being recognized for achieving the completion of their research on the simulator by the federal government through the Natural Sciences and Engineering Research Council;</p>
@@ -329,7 +330,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2967">RESOLUTION NO. 2967</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2967">RESOLUTION NO. 2967</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 6, 2011, 10-year-old Baddeck resident Seamus Stears achieved his black belt certification in tae kwon do; and</p>
 <p>Whereas training vigorously and competing regularly, Seamus has been a student at the Island Martial Arts Centre in Sydney for the past four and a half years; and</p>
 <p>Whereas Seamus, with his determination and dedication to the sport, was one of nine red belts and three black belts testing before a panel of four adjudicators, including Grand Master Carabin;</p>
@@ -341,7 +342,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="2968">RESOLUTION NO. 2968</num><from>HON. KAREN CASEY</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="2968">RESOLUTION NO. 2968</num><from>HON. KAREN CASEY</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Amanda Langille recently received her Master of Education in Leadership and Administration from St. Francis Xavier University; and</p>
 <p>Whereas Amanda's leadership skills, which have already brought attention to her community, have been the driving force behind rejuvenation of the Thirsty Church; and</p>
 <p>Whereas Amanda's efforts to unite her community have brought support from local residents, as well as personal and corporate support from around the province and beyond;</p>
@@ -353,7 +354,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2969">RESOLUTION NO. 2969</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2969">RESOLUTION NO. 2969</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Mike Mercier of Canadian Tire employs a staff of 75 people and is involved in many volunteer organizations and community boards, and in the last three years his donations to the community have been in excess of $75,000; and</p>
 <p>Whereas on November 23, 2011, the Yarmouth and Area Chamber of Commerce held its annual business awards banquet; and</p>
 <p>Whereas Mike Mercier of Canadian Tire received the Community Service Award;</p>
@@ -365,7 +366,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="2970">RESOLUTION NO. 2970</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="2970">RESOLUTION NO. 2970</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas nine Nova Scotians took part in the World Singles Shuffleboard Championships in Dieppe, New Brunswick, in August 2011 where Doug Stockman of Berwick, Nova Scotia, placed 4<sup>th</sup> out of 44 competitors in the men's competition; and Pat Stockman placed 11<sup>th</sup> in the ladies competition out of 37 competitors; and</p>
 <p>Whereas these nine Nova Scotia players competed against players from Australia, Brazil, Canada, England, Germany, Japan, Netherlands, Norway and the U.S.; and</p>
 <p>Whereas Pat and Doug Stockman represented our province with their significant accomplishments against many of the top shufflers in the world;</p>
@@ -377,7 +378,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="2971">RESOLUTION NO. 2971</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="2971">RESOLUTION NO. 2971</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on January 14, 2012, colleagues, friends and family will gather to celebrate the retirement of Kevin MacDonald, chief executive officer of the Guysborough Antigonish Strait Health Authority; and</p>
 <p>Whereas prior to working as a CEO of GASHA, Kevin MacDonald spent many years working at the Inverness Consolidated Memorial Hospital and the Eastern Regional Health Board, where he was in time named vice-president of the board, meanwhile continuing to upgrade his education in health services administration, through the University of Saskatchewan; and</p>
 <p>Whereas Kevin MacDonald dedicated 35 years of his career in the health care system;</p>
@@ -389,7 +390,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2972">RESOLUTION NO. 2972</num><from>HON. WAYNE GAUDET</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2972">RESOLUTION NO. 2972</num><from>HON. WAYNE GAUDET</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Department of Economic and Rural Development and Tourism launched a tourism campaign this past Spring to help promote tourism in Nova Scotia this past summer; and</p>
 <p>Whereas almost 400 talented Nova Scotians told us what they loved about the province in this unique way and 22 winners were selected to help us promote Nova Scotia as the place to be this past summer; and</p>
 <p>Whereas Kyle Doucette, Lisa Doucette and Nathan Boudreau from Clare were winners in My Nova Scotia contest to help promote tourism in Nova Scotia;</p>
@@ -401,7 +402,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2973">RESOLUTION NO. 2973</num><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2973">RESOLUTION NO. 2973</num><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 18<sup>th</sup> Century produced one of the most fascinating periods in Nova Scotia's history, as Acadian resisters battled the British Empire; and</p>
 <p>Whereas Halifax author Dianne Marshall has chronicled this exciting era in her new book, <i>Heroes of the Acadian Resistance</i>, prompted in part by research completed by a relative; and</p>
 <p>Whereas this book follows the stories of Joseph Beausoleil Broussard and Pierre II Surette as they ambush British forces, complete with paternity scandals, prison escapes, and spies;</p>
@@ -413,7 +414,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="2974">RESOLUTION NO. 2974</num><from>HON. KAREN CASEY</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="2974">RESOLUTION NO. 2974</num><from>HON. KAREN CASEY</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 13-year-old Sarah Webber plays left wing on the Colchester Cyclones, a bantam girls hockey team out of Colchester County; and</p>
 <p>Whereas the team defeated the Cape Breton County Islanders, a girls bantam hockey team from the Sydney area, with a score of 5 to 2; and</p>
 <p>Whereas Sarah Webber led her team to victory by scoring a hat trick - the first hat trick of her hockey career;</p>
@@ -425,7 +426,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="2975">RESOLUTION NO. 2975</num><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="2975">RESOLUTION NO. 2975</num><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Royal Nova Scotia International Tattoo has been a proud military musical tradition since its first occurrence in 1979; and</p>
 <p>Whereas Commander John "Jack" McGuire was the principal arranger and music director for the Royal Nova Scotia Tattoo for 27 years, writing hundreds of fanfares, marches, and finales; and</p>
 <p>Whereas Commander McGuire passed away on November 26<sup>th</sup> at Camp Hill Veterans' Memorial Hospital and this year's Royal Nova Scotia International Tattoo show plans a tribute to him;</p>
@@ -437,7 +438,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2976">RESOLUTION NO. 2976</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2976">RESOLUTION NO. 2976</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jean Guy d'Entremont is the president of Scotia Harvest Seafoods, a two-generation fish harvesting company which has within its fleet one of the most innovative, technologically-advanced fishing vessels in the North Atlantic, a vessel which has enabled them to land top-quality fish traceable back to the vessel and the day it was caught, and the management of Scotia Harvest continues to travel around the world to learn and share information with other members of the global fishing industry, and this information sharing allows Scotia Harvest to continue to provide clients with a globally competitive product and superior quality of fish; and</p>
 <p>Whereas on November 23, 2011, the Yarmouth and Area Chamber of Commerce held its annual business awards banquet; and</p>
 <p>Whereas Jean Guy d'Entremont of Scotia Harvest Seafoods received the Business Marketing Award;</p>
@@ -455,7 +456,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -466,7 +467,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, would you please call Bill No. 133.</p>
         </speech>
@@ -476,7 +477,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Argyle.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam Speaker, it's my pleasure to rise this evening on behalf of the members of the Progressive Conservative caucus to speak on issues surrounding Bowater Mersey in Liverpool.</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madam Speaker, it's my pleasure to rise this evening on behalf of the members of the Progressive Conservative caucus to speak on issues surrounding Bowater Mersey in Liverpool.</p>
 <p>Madam Speaker, this is a complex issue, but an important one, for many of us who live along the South Shore. Throughout this process many in Queens County and surrounding areas have feared for their jobs and their livelihoods. We now know that some of the employees of the mill will be affected by layoffs, and for that reason I want to take the time to address workers at the mill and, of course, their families. My message for them is simple - the members of the PC caucus remain committed to finding a long-term sustainable solution that will see the mill operating and the community thriving for years to come.</p>
 <p>We do believe that we can get there, but we know it will not be easy. We recognize that the government has come forward with an action plan, and our caucus has taken the time to review it carefully. The members of the Progressive Conservative caucus will be supporting the government's deal but, of course, not blindly. We will be proceeding with caution and in a way that puts the people whose jobs depend on the success of Bowater Mersey first.</p>
 <p>It would be easy to stand here in this Chamber and oppose the government's bailout - after all, Opposition Parties are typically supposed to oppose - but in the Progressive Conservative caucus we like to hold ourselves to a higher standard and this is one of those times, Madam Speaker. The deal is not perfect; it is expensive and it falls short of the employment guarantees that we would like to see. Nevertheless, we recognize the sacrifices made by the workers at the mill, their union, and the local municipality. We will support this deal, but we will do so with a watchful eye - like any good Opposition Party should do. We'll be scrutinizing each and every aspect of this arrangement, making sure the government will stay true to its word, but also making sure that they are mindful of taxpayers from one end of this province to the other. The members of the PC caucus will make sure that taxpayers' investment in the future of Bowater is not made imprudently.</p>
@@ -543,7 +544,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Lunenburg.</p>
           </speech>
-          <speech by="#a841369d-b3a6-4df9-af76-53c4f9eab8cf"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to rise in my place today to speak to Bill No. 133, the Bowater Mersey Pulp and Paper Investment Act. This package for Bowater Mersey Paper will help the mill become more cost-effective, giving it a more competitive place in this ever-changing world.</p>
+          <speech by="#pam.birdsall"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to rise in my place today to speak to Bill No. 133, the Bowater Mersey Pulp and Paper Investment Act. This package for Bowater Mersey Paper will help the mill become more cost-effective, giving it a more competitive place in this ever-changing world.</p>
 <p>Who would have thought five years ago that many of us wouldn't be reading newspapers that were delivered every day on our doorstep? Who would have thought that the book printing industry would be changed by different appliances that people now use to read books? The world is changing and moving quite rapidly in different directions that are very difficult to predict, and all of this helped reduce the demand for newsprint. Times have changed in so many ways and we are all aware our province and our country are parts of the global economic puzzle.</p>
 <p>New ways of solving these economic issues are needed, and that is just what has happened with the Bowater Mersey situation. The bill is a multi-year agreement between the province and Bowater Mersey which includes a capital investment of $25 million to be used on a long-fibre refining project and a topping turbine at the Brooklyn energy power plant; the province is also moving toward making land acquisitions of 10,000 hectares for $23.8 million - and there's an opportunity to buy more land, up to 20,000 hectares more; and there will also be $1.5 million for worker training.</p>
 <p>I'd really like to talk about how the regions worked together. The region of the Queens municipality has provided a tax break for $135,000, and the Municipality of the District of Lunenburg, under the leadership of Mayor Don Downe, is considering their options in ways to help as well.</p>
@@ -558,7 +559,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Minister of Community Services.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>HON. DENISE PETERSON-RAFUSE</from><p>Thank you, Madam Speaker. I am very pleased to rise here today and speak on this bill, an Act to Sustain Jobs and Invest in Southwest Nova Scotia's Pulp and Paper Sector. This is a bill that not only supports the southwest but supports all Nova Scotians in our future - in our future for communities to be strong and in our future for the job market for Nova Scotians.</p>
+          <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Thank you, Madam Speaker. I am very pleased to rise here today and speak on this bill, an Act to Sustain Jobs and Invest in Southwest Nova Scotia's Pulp and Paper Sector. This is a bill that not only supports the southwest but supports all Nova Scotians in our future - in our future for communities to be strong and in our future for the job market for Nova Scotians.</p>
 <p>This is a good bill. It's a bill about jobs in rural Nova Scotia. It is a bill about innovation and keeping an industry globally competitive. It has all the components of a very good bill, because it's a solid bill.</p>
 <p>The company Bowater had to make some tough decisions in today's world, in today's economy. I'm very proud to be part of a government that was able to take what looked to be a fait accompli and turn it around from a business totally closing and leaving our province and the loss of up to 2,000 jobs, and what that would have meant to all those family members and to those people who lost their jobs, and how that would have rattled our economy in Nova Scotia.</p>
 <p>To be under the leadership of this Premier of Nova Scotia - it is incredible to watch him and our team coming together to be able to create a situation where the company has done a total turnaround in order to stay in this province. I want people to realize when they speak about Bowater, now and in the future, that is a major factor we can't forget. If it were not for this government, those doors would have been closed and we would have been writing a very different history in this province, but because of the great leadership that we have in our Premier and the people who surround him, along with the leadership in the community of Queens, the leadership of the community itself, and the workers from Bowater who had to make a very tough decision, came together as a community, came together as caring individuals - as we often see in Nova Scotia - to say they would do their part in making sure this company could still be part of their community, as it has been for many years.</p>
@@ -584,7 +585,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Lunenburg West.</p>
           </speech>
-          <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa"><from>MR. GARY RAMEY</from><p>Madam Speaker, it's a pleasure to rise in my place tonight and speak briefly in support of Bill No. 133, the Bowater Mersey Pulp and Paper Investment (2011) Act. I say "briefly" because a number of my colleagues have already said a number of the things that I'd like to say - but I do have a few things to add.</p>
+          <speech by="#gary.ramey"><from>MR. GARY RAMEY</from><p>Madam Speaker, it's a pleasure to rise in my place tonight and speak briefly in support of Bill No. 133, the Bowater Mersey Pulp and Paper Investment (2011) Act. I say "briefly" because a number of my colleagues have already said a number of the things that I'd like to say - but I do have a few things to add.</p>
 <p>Madam Speaker, in August the province received some very devastating news, that Bowater Mersey would close its mill in Brooklyn. This, of course, as has already been stated, would have had a disastrous effect on the economy of southwestern Nova Scotia. It not only would have had a devastating effect on those working at the mill in Brooklyn, but the ripple effect would have been significantly larger in the greater community, affecting literally hundreds of workers in Queens and Lunenburg Counties, Shelburne as well, with additional far-reaching effects felt as far away as Yarmouth, Annapolis, Digby and Halifax.</p>
 <p>I know the other day in the House the member for Glace Bay, who is a good fellow I might add, was speaking about this, was mentioning the job loss at the actual mill in Brooklyn and rightly so. But I'm not sure if he really was aware at the time of just how many other folks would have been similarly affected and I want to reassure all members of this House that it would have been a significant impact on that whole southwestern region.</p>
 <p>These impacts would affect forestry crews working on the woodlands and there are a good number of them in Queens and Lunenburg. It would have affected sawmill workers at several mills. It would have affected employees at Brooklyn Energy and not insignificantly for us in Queens-Lunenburg, a number of truckers. They haul both saw logs and chips. By all accounts up to 2,000 folks would have been adversely impacted and 2,000 folks being affected by any plant shut down is certainly a significant number, in any part of the province where it occurs.</p>
@@ -598,13 +599,13 @@
 <p>So, with those few words, Madam Speaker, since I already alluded to the fact that many people have spoken before, thank you very much and I will take my seat.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Natural Resources.</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>HON. CHARLIE PARKER</from><p>Thank you, Madam Speaker, I rise to close debate on Bill No. 133, the Bowater Mersey Pulp and Paper Investment (2011) Act. I want to thank all members for their interventions on this important bill as we invest in the workers and the families and really the communities of southwestern Nova Scotia and in the pulp and paper industry here in our province.</p>
+          <speech by="#charlie.parker"><from>HON. CHARLIE PARKER</from><p>Thank you, Madam Speaker, I rise to close debate on Bill No. 133, the Bowater Mersey Pulp and Paper Investment (2011) Act. I want to thank all members for their interventions on this important bill as we invest in the workers and the families and really the communities of southwestern Nova Scotia and in the pulp and paper industry here in our province.</p>
 <p>Again, Madam Speaker, I close debate on Bill No. 133.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 133. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
           </speech>
@@ -616,7 +617,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, would you please call Bill No. 90.</p>
         </speech>
@@ -626,7 +627,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, I move third reading of Bill No. 90.</p>
           </speech>
@@ -634,7 +635,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Richmond.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Madam Speaker, it's a pleasure to have the opportunity to make a few remarks on Bill No. 90, the Safe Collection of Scrap Metal Act, which the name in itself is slightly amusing.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Madam Speaker, it's a pleasure to have the opportunity to make a few remarks on Bill No. 90, the Safe Collection of Scrap Metal Act, which the name in itself is slightly amusing.</p>
 <p>Madam Speaker, this is similar legislation that was brought in by the previous Progressive Conservative Government in 2008-09. At the time it was agreed by both our caucus and by the then NDP caucus that this was not appropriate legislation, it was not going to achieve the intended goal and as such it should not move forward. Fast forward now to life under a majority NDP Government, where this bad Tory idea has now become a good NDP idea.</p>
 <p>At the end of the day, Madam Speaker, this as well, Bill No. 90, will not have the intended effect of preventing metal theft in Nova Scotia. What has changed from then until now? Basically a new government, but again, the bill is significantly different in any way from what was brought forward by the previous Progressive Conservative Government, which again I remind you, the NDP caucus at the time voted against it at Law Amendments Committee and the bill never proceeded any further than that. But with a majority government, obviously this bill is moving forward.</p>
 <p>Madam Speaker, as I have said before, this bill is the government's public relations attempt to tell Nova Scotians that this government is somehow getting tough on metal theft in Nova Scotia. It is a reaction to news stories of most unfortunate events where, again, we saw in Nova Scotia families having to go through the horrendous reality of having their fuel line cut and the ongoing contamination around their property and the very significant expense that that brings.</p>
@@ -657,7 +658,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Thank you, Mr Speaker, I just have a few comments. We support the idea of taking away the market for scrap metal from thieves. This piece of legislation, we in fact proposed an amendment that specifically stated that no person may sell to a scrap metal dealer or recycler, nor may any scrap metal dealer or recycler accept anything that is or would appear to a reasonable person, who made diligent inquiries, to be a copper pipe used to transmit home heating oil unless the seller holds a valid certificate of qualification as an installer pursuant to the petroleum management regulations under the Environment Act.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Thank you, Mr Speaker, I just have a few comments. We support the idea of taking away the market for scrap metal from thieves. This piece of legislation, we in fact proposed an amendment that specifically stated that no person may sell to a scrap metal dealer or recycler, nor may any scrap metal dealer or recycler accept anything that is or would appear to a reasonable person, who made diligent inquiries, to be a copper pipe used to transmit home heating oil unless the seller holds a valid certificate of qualification as an installer pursuant to the petroleum management regulations under the Environment Act.</p>
 <p>Mr. Speaker, the reason we put forward that amendment was really to stop the sale of stolen copper oil line. When you think about it, who should be dealing with copper oil line other than people who are licensed installers? So we put that amendment forward and we are disappointed that the government did not choose to include that amendment in its legislation.</p>
 <p>We were pleased to see that government took our advice to make this legislation less intrusive on scrap metal dealers when it comes to investigations, so that it would be more respectful of civil liberties.</p>
 <p>One thing that came up in Law Amendments Committee that I think needs to be pointed out - and it was something that I raised and I think the industry, the scrap metal dealers, seemed to look favourably on, was the idea of possibly future self-regulation of their industry. If there are ways that the industry can work to eliminate a market for scrap metal theft, maybe there's a way that the industry can start doing that so that we don't have to have this kind of legislation.</p>
@@ -666,7 +667,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm pleased to say a few words here tonight on Bill No. 90, which is the scrap metal bill that is before us. As the member for Richmond pointed out, this isn't the first time we've looked at a bill that was intended to crack down on the theft of scrap metal in our province. Earlier, in 2008, we had a similar Progressive Conservative bill that came forward and it was shelved and left at Law Amendments Committee because at that time, and a minority government, there were enough voices around the table and enough votes to say that the consultation had been inadequate and that the bill should be left there until more consultation took place.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I'm pleased to say a few words here tonight on Bill No. 90, which is the scrap metal bill that is before us. As the member for Richmond pointed out, this isn't the first time we've looked at a bill that was intended to crack down on the theft of scrap metal in our province. Earlier, in 2008, we had a similar Progressive Conservative bill that came forward and it was shelved and left at Law Amendments Committee because at that time, and a minority government, there were enough voices around the table and enough votes to say that the consultation had been inadequate and that the bill should be left there until more consultation took place.</p>
 <p>That worked well at the time, the only difficulty was, from my perspective, the consultation didn't take place and that several years passed and it wasn't a hot topic during that time. Now, suddenly, this year yet again we've seen I guess the damage that has been caused to homeowners who have had copper wire stolen from their oil tanks and that has created some environmental spills that are disastrous, really, for a homeowner - I know it can be devastating and extremely expensive to clean up.</p>
 <p>Then, in response to that, the government has brought in yet another scrap metal bill that is intended to crack down. My concerns are twofold, really, with it. There are a number of points that I think are worth mentioning, as well as the bigger reasons that I think that this is a problematic bill. One is that we have fines in the bill that are only fines for the scrap metal dealers, who are legitimate business people, small-business people in every community of our province. Very often they also run the recycling depots for returning bottles and recycle materials, so they are partners with the government. They all know government and the Department of Environment well, they work closely under regulations on those industries, but they are now being asked to bear a considerable burden in the bill that is before us.</p>
 <p>It's going to create a lot of red tape and a lot of cost - that was what we heard from one after another of the scrap metal dealers who came before us. I should mention, Mr. Speaker, they did travel from around the province to come here and to be heard. I know that always means a lot to us here in the Legislature, to acknowledge people who have taken that time.</p>
@@ -679,7 +680,7 @@
 <p>Now, in looking at this bill - and I know we're here on third reading today, so the bill is going to pass, there is no question about that even though we heard from the Third Party that they are not in favour of this bill - I think there is an important point to raise and that is the amendment that was accepted by the government, proposed by the Liberal Party at the Law Amendments Committee, and that amendment calls for a three-year review of the bill. I very much appreciated the fact that the members of the Law Amendments Committee and the powers that be agreed to include in the bill a clause that said that after three years there will be a mandatory review and we'll actually get to look and see whether or not the incidents of these household threats &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. The chatter is getting a little on the high side while the honourable member for Halifax Clayton Park has the floor.</p>
 <p>The honourable member for Halifax Clayton Park has the floor.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you, Mr. Speaker, for that ruling and a little quiet. I wanted to say again that I thought it was a very good thing that the government had accepted the amendment I proposed and I'm very pleased that we will be able to go back in three years' time to just take sober second thought and see if it's working. If it's working, I'll be the first to say that's a wonderful thing that you've been able to eliminate these kinds of thefts, particularly as we said they cause tremendous damage to householders and they can cause injury and death when it involves the electrical wires and installations that are Nova Scotia Power's.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you, Mr. Speaker, for that ruling and a little quiet. I wanted to say again that I thought it was a very good thing that the government had accepted the amendment I proposed and I'm very pleased that we will be able to go back in three years' time to just take sober second thought and see if it's working. If it's working, I'll be the first to say that's a wonderful thing that you've been able to eliminate these kinds of thefts, particularly as we said they cause tremendous damage to householders and they can cause injury and death when it involves the electrical wires and installations that are Nova Scotia Power's.</p>
 <p>We want to see that decreased as much as anybody and this three-year review will allow us to see whether it has been effective and done the job it was intended to do. I would like to see as well - and it's in the bill - that in that review we'll also look to see what the impact has been on those legitimate small-business people who are doing their very best to follow all the rules that are given to them. So we want to see whether they can come back and say what the cost has been to them and the difficulties that they've had to endure administratively in order to abide by all of these rules.</p>
 <p>I know that at that time, I trust that the government will then do the adequate consultation that's needed to find out from industry exactly how this bill has affected their bottom line, affected their employment, affected their business in total. It does have some far-reaching effects.</p>
 <p>I want to thank the dealers who took the time to come in and visit us at the Legislature. Many of them are small business, it meant time away from their office, time away from their depots and they don't have big staffs so that's a commitment they made and a cost to them. I think it shows how important it is that they took that time to come in.</p>
@@ -688,13 +689,13 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Dartmouth East.</p>
           </speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I just wanted to add a couple of words to my colleague's comments, mainly because some of the commentary that we heard in support of this bill related to two incidents in my own constituency. This bill, if it had been in place, would have done nothing to have prevented those two incidents. I just want to clarify that there is obviously some merit in trying to deal with this issue, but the two incidents that were dealt with were the theft of some copper piping from oil tanks. Both of them caused fairly significant incidents. One family with a young child actually woke in the middle of the night to the smell of oil on the property and it was quite a lengthy process to have that removed. Then the perpetrators of that seemed to have moved somewhat down the road and they stole another piece and in the end we saw oil making its way into the lake and the river system there.</p>
+          <speech by="#andrew.younger"><from>MR. ANDREW YOUNGER</from><p>Madam Speaker, I just wanted to add a couple of words to my colleague's comments, mainly because some of the commentary that we heard in support of this bill related to two incidents in my own constituency. This bill, if it had been in place, would have done nothing to have prevented those two incidents. I just want to clarify that there is obviously some merit in trying to deal with this issue, but the two incidents that were dealt with were the theft of some copper piping from oil tanks. Both of them caused fairly significant incidents. One family with a young child actually woke in the middle of the night to the smell of oil on the property and it was quite a lengthy process to have that removed. Then the perpetrators of that seemed to have moved somewhat down the road and they stole another piece and in the end we saw oil making its way into the lake and the river system there.</p>
 <p>The reason I point this out is because when the police looked at this, it was the opinion of police at the time that the copper was actually moved out of province. The member for Halifax Clayton Park alluded to that, that this bill would do nothing to prevent that. I'm not sure there is anything that the bill could do to prevent that, but I just want it recorded for the record that there are examples being used that this bill would purport to solve but the bill would do nothing for and those are two examples.</p>
 <p>There's no question that the theft of copper piping, copper wire, is a serious issue. We also see incidents where, for example, they're pulled out of lighting posts and so forth and then the insulation is burned off and so there's really no identifying marks to that copper. In some other cases, the copper is broken down or melted down and then sold as copper slag. There's not a lot you can do in those situations. It is an issue that needs to be addressed, there's no question but I think we need to be realistic about what the opportunity is here and I'm certainly glad the government has accepted the Liberal amendments to have a review after a number of years because we can see whether it is actually doing something in the end.</p>
 <p>Madam Speaker, with that, since we're at the close of debate on this - or very close to the close, I don't know if anybody else is speaking other than the minister, but I think we do need to recognize that this bill has very fundamental limitations and many of the examples that have been used simply would not have been addressed by this bill. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
-          <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2">
+          <speech by="#bill.estabrooks">
             <from>HON. WILLIAM ESTABROOKS</from>
             <p>The former Justice Critic also, thank you to the member for Richmond. Thank you for the comments from the members opposite. Your comments, particularly in terms of your experiences in your communities are much appreciated. With those few comments, I move third reading of Bill No. 90.</p>
           </speech>
@@ -702,7 +703,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, would you please call Bill No. 96.</p>
           </speech>
@@ -713,7 +714,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, I move third reading of Bill No. 96.</p>
           </speech>
@@ -721,7 +722,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Thank you very much Madam Speaker, I just wanted to say a few words about the Pension Benefits Act that is before us today, Bill No. 96. I think most of the points and clauses that are included in this bill were called for in the review that was done of pensions in our province and it was a review conducted by Mr. Bill Black, who is very well known as a former executive and owner of one of the large Canadian insurance companies and is definitely an expert in this area. He did a lot consultation. There were multiple submissions that were all posted online. There was good consultation in this instance, I can absolutely say.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Thank you very much Madam Speaker, I just wanted to say a few words about the Pension Benefits Act that is before us today, Bill No. 96. I think most of the points and clauses that are included in this bill were called for in the review that was done of pensions in our province and it was a review conducted by Mr. Bill Black, who is very well known as a former executive and owner of one of the large Canadian insurance companies and is definitely an expert in this area. He did a lot consultation. There were multiple submissions that were all posted online. There was good consultation in this instance, I can absolutely say.</p>
 <p>We had an opportunity to see them as they were posted and have a chance to speak, as members of the Opposition, and I know government members as well, to speak to Mr. Black and learn more about the perspectives that were there. I believe, overall, the changes are welcome and I know from speaking to some advisors that I have talked to in the past they're very happy with some of these changes that harmonize our Act with other provinces, make it easier to move between provinces and maintain your rights. There are multiple changes in this bill.</p>
 <p>My one point that I'd like to rise today, which I don't believe is there, is the consultation that is underway right now in the regulations. I know they were posted last week on the internet so that stakeholders and interested parties could get in touch and comment on those regulations that are before us. But what I was particularly looking for look for in the regulations was some hope that they would include solvency relief, not only solvency relief but exempting certain organizations from the solvency requirement.</p>
 <p>For the members of the House many of you may not follow this issue closely but there are two ways to value your pensions. One way is on a going concern basis and the other is on a solvency basis. If you use solvency it means that at any given time, on any given day, if your business were to close or your organization, your activity were to stop work that day and cease to exist, you would have enough money to be solvent, to pay your requirement under the Pension Act.</p>
@@ -731,7 +732,7 @@
 <p>Dalhousie University came to speak to us at Law Amendments Committee, both the faculty and the administration. They have a defined benefit plan which they see as very much part of their recruitment.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. The chatter is becoming a little too loud in the Chamber.</p>
 <p>The honourable member for Halifax Clayton Park has the floor.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you very much, Madam Speaker. I really wanted to speak to the concern that Dalhousie University brought to us, that is that they believe as a large institution that has been in existence for well over 100 years - they are approaching 200 years, I think - maybe somebody in the House knows how long they have been incorporated or in existence. It followed, I believe, they got money from the War of 1812 that helped fund that university and start it up, so it's been a long time. They are our largest institution in Nova Scotia, again a long history. They are a professional university, the only university offering medicine and law, and that university believes they have no danger of not continuing their operation.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you very much, Madam Speaker. I really wanted to speak to the concern that Dalhousie University brought to us, that is that they believe as a large institution that has been in existence for well over 100 years - they are approaching 200 years, I think - maybe somebody in the House knows how long they have been incorporated or in existence. It followed, I believe, they got money from the War of 1812 that helped fund that university and start it up, so it's been a long time. They are our largest institution in Nova Scotia, again a long history. They are a professional university, the only university offering medicine and law, and that university believes they have no danger of not continuing their operation.</p>
 <p>If they were, by some absolutely extraordinary event, not to continue to operate, they said that their own investments and land holdings would more than helpful to pay for all of the outstanding obligations they have in their defined benefit plan to the employees and current pensioners of Dalhousie. So they feel there is no risk whatsoever in exempting Dalhousie from a solvency requirement and measuring them, as we do ourselves, on a going-concern basis.</p>
 <p>Madam Speaker, my big concern is that this isn't just a lot of financial intricacies or complexities, this comes down to dollars and cents to the university, to the students, to the government that helps to fund the operations, to everybody who's involved in Dalhousie because if they are held to the solvency requirements, they have only about another year and a half that they were given relief for that, and they have to be fully funded to their level by I think within seven years. That's going to cost, they said, about $50 million, I think, a year. They said it was equal to their Faculty of Medicine, that it would cost that much money to fund this.</p>
 <p>That means you either take it out of extra tuition from students, which would be a terrible thing to do when we're at a point in time when actually our tuition is coming more into the realm of sort of the average in Canada. We were at the top and we want to bring it down for our students. We don't want to hit the students up for higher tuition to fund pension plans to a level that really is not necessary. It's really putting millions of dollars aside for that possibility that they will never exist or that they will cease to exist. It's not going to happen and, as I said, Madam Speaker, they have the resources to back up their requirements - they have the land in peninsular Halifax and elsewhere that would more than cover their obligations, so the risk is minimal.</p>
@@ -740,11 +741,11 @@
 <p>We had this discussion a few years ago at the time when they were given a few years exemption and that exemption came about because of the poor performance of the markets and their funds were so low. At that time they make the point that it would almost double the amount of money they'll have to take from their employees as contributions, each year and, again, as the employer HRM is going to have to double their commitment annually to the pension plans. That's going to have an impact on every single homeowner and business in HRM because property taxes are already high in this area and we're going to become even less competitive.</p>
 <p>Again, it seems like a moot point to be funding to that level when the municipality - HRM - is not going to cease to exist. It has land, it has assets, and it can back up its pension plan. It would be much like at the earlier amalgamation - if HRM didn't exist, then there would be another municipal unit that would take over. At one time it was Halifax, Dartmouth, Bedford, and the county, and now we're one municipality, but there has to be a government that will govern this area. So they said they will not cease to exist, but the impact is going to be tremendous on the individuals who work for HRM, who are going to have to pay into that solvency plan.</p>
 <p>I wonder if the members of the House remember - particularly the HRM members. I think there are 18 members of the Legislature who represent HRM ridings, and I would think that this would be of importance to all of them. I do think it has gotten a little quieter when we talk about 18 members of this House representing workers and people, and probably we could add in Hants and a few other areas; a lot of people commute into Halifax from the area surrounding Colchester, perhaps, and certainly Enfield. There are a lot of other towns and so on just on the edge of the HRM, but I'm sure all of those, and all of us who represent HRM ridings, are going to be hearing from HRM employees when their contribution level is suddenly going to double off their pay. When we see that and we see the sudden increase in property taxes in order to fund that, again, I guess the HRM members aren't paying too much attention today.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>I'm listening.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you again, Madam Speaker, for calling for a little quiet. I just want everybody to recognize that this is going to affect the pocketbooks of all of our constituents when they have to pay more for property taxes. Our businesses in HRM are taxed at two and a half times the rate of a homeowner. You can imagine they're paying very hefty taxes to operate a business in HRM, and if we're funding our pension plan for that rainy day that is never going to come - that is more of a theory than any real risk whatsoever - I think we've gone too far.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you again, Madam Speaker, for calling for a little quiet. I just want everybody to recognize that this is going to affect the pocketbooks of all of our constituents when they have to pay more for property taxes. Our businesses in HRM are taxed at two and a half times the rate of a homeowner. You can imagine they're paying very hefty taxes to operate a business in HRM, and if we're funding our pension plan for that rainy day that is never going to come - that is more of a theory than any real risk whatsoever - I think we've gone too far.</p>
 <p>Before I take my seat, it's important to note that some other provinces have exempted municipalities and institutions like Dalhousie University. When Dalhousie was in, they mentioned a couple of other provinces - which are provinces having universities that we compete with. We compete to attract good professors. We want to offer them a defined benefit plan so that they'll come and bring their expertise and knowledge here to Nova Scotia, and this is going to make it that much more difficult for Dalhousie to do that. I would think it would be a sad day if we lose the defined benefit plan that Dalhousie is able to offer now, but if we don't make pragmatic and sensible changes now with the pension Act open before us, I believe there is an opportunity in the regulations for the government to do just that.</p>
 <p>From reading the discussion paper, I don't believe there is a move afoot to do it. I'm asking today, here on third reading, if the Minister of Labour and Advanced Education would consider looking again, or maybe even enlightening the House when she closes on third reading, to let us know whether there's any possibility of that being incorporated in regulation so that HRM could have the same relief that other provinces give to their large municipalities, and to also provide that relief to Dalhousie. I understand that Dalhousie, if they go to a jointly-sponsored plan, will get a little bit - 20 per cent - relief on the solvency question, but in order to do that the employees who work there and are covered under their pension plan will have to agree to be jointly sponsored. That means they have to take on half the risk and half the responsibility for the plan. Right now, it's the employer's plan. Shortfalls are all on the shoulders of the employer.</p>
 <p>So I don't think that that's going to be an attractive move. I'm not sure why that was proposed in the legislation, if it was actually aimed at Dalhousie or not, but Dalhousie was the only group that came to speak to us - their faculty association, who are represented by this pension plan, as well as other people at the university also represented there - but both of them did come. I see that one of my fellow members has given me both their submissions to have a quick look at. Both came and both said they would like to see the solvency relief, complete solvency exemption, in the regulations or in the bill. They didn't care which, but they really want to see that kind of assistance in the future. Honestly, this will make a huge difference to the operation of the university.</p>
@@ -756,7 +757,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Madam Speaker, I rise in disappointment. The other night I put forward amendments to this piece of legislation, the Pension Benefits Bill, because we have a short opportunity to do something that I think would help the pensioners at NewPage and also anybody else in this province whose company winds up. As we've just heard the last member speak, that institution is essentially backstopped by taxpayers, but there are a lot of organizations and companies in the province that don't have that, one of them being NewPage.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Madam Speaker, I rise in disappointment. The other night I put forward amendments to this piece of legislation, the Pension Benefits Bill, because we have a short opportunity to do something that I think would help the pensioners at NewPage and also anybody else in this province whose company winds up. As we've just heard the last member speak, that institution is essentially backstopped by taxpayers, but there are a lot of organizations and companies in the province that don't have that, one of them being NewPage.</p>
 <p>I was also disappointed that the minister did not get up and say why her government voted against the amendments. The only thing I can think is that she's waiting to come up tonight so that we can't have any debate on it. I could be wrong. Maybe she'll get up and say that she's going to do something about it. I don't think it's anything to laugh about. I know I'm not laughing about it. It's going to result in the permanent loss of - should the pensions be wound up at NewPage, which is a real possibility, I will state right here and now that we hope the new company will take over those pensions, but should they choose not to and the pensions are wound up, the legislation as it's put forward, unamended, will result in those people losing 30 per cent to 40 per cent of their pensions.</p>
 <p>I look forward to the minister's comments, and I also recognize that I will not have a chance tonight to get up to respond to them, but we know there are other avenues to let our feelings be known on that, and I will certainly take the opportunity when the time comes. I will say it again: I'm disappointed that I had put these amendments forth days before in the Committee on Law Amendments and I offered to speak to people - certainly open to communication on it - but there was no communication. There was just a flat "no."</p>
 <p>I would like to think that governments would sometimes be open to ideas from other sides of the Legislature so that we can help improve things. I thought this was a sensible recommendation but no response, no reply.</p>
@@ -764,7 +765,7 @@
 <p>Anyway, people know where I stand and with that, Madam Speaker, I will take my place.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the Minister of Labour and Advanced Education it will be to close the debate.</p>
 <p>The honourable Minister of Labour and Advanced Education.</p></speech>
-          <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9"><from>HON. MARILYN MORE</from><p>Thank you, Madam Speaker. I want to thank all members for their comments on Bill No. 96, the Pension Benefits Act. I do have some information for the member for Inverness. I just want to say we are very pleased that he recognized the efforts this government has made to mitigate the impact of the 2008 economic downturn and I thank him for that.</p>
+          <speech by="#marilyn.more"><from>HON. MARILYN MORE</from><p>Thank you, Madam Speaker. I want to thank all members for their comments on Bill No. 96, the Pension Benefits Act. I do have some information for the member for Inverness. I just want to say we are very pleased that he recognized the efforts this government has made to mitigate the impact of the 2008 economic downturn and I thank him for that.</p>
 <p>He did acknowledge that no one has a crystal ball and that NewPage and its pension plan members chose to extend the time allowed to return their pension plan to solvency. Now our government is helping to keep that mill resale-ready, and we're helping the people and the economy of that region. We take the concern of the member and the concern of the members of those various pension plans very seriously. We know how important this security is to the families and to the economy of that area. We continue to be optimistic that some operations will resume in short order.</p>
 <p>The member has suggested that those pension plans, which chose to take advantage of the extended solvency recovery periods, should have some sort of timeline or schedule to accomplish that. I want to assure the member that a solvency deficiency identified before January 2<sup>nd</sup> must be fully funded within 10 years of its reporting. In Section 6A(3)(a) of the existing Act, which will be in the regulations of this new Act, it requires special payments by equal instalments, with interest, at the solvency valuation interest rate.</p>
 <p>The member for Inverness also questioned the death benefits provision. I'd like to clarify what the bill proposes for plan members who die before retirement. Currently if a member dies, their survivor would be eligible to receive 60 per cent of the pension benefit that the worker had earned. The bill proposes that the survivor would be eligible to receive 100 per cent of that earned pension benefit.</p>
@@ -779,7 +780,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that the titled be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, would you please call Bill No. 109.</p>
           </speech>
@@ -790,7 +791,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, I now move third reading of Bill No. 109.</p>
           </speech>
@@ -798,7 +799,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Kings West.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Madam Speaker, I'm pleased to rise in my place and speak for a few minutes to this bill.</p>
+          <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Madam Speaker, I'm pleased to rise in my place and speak for a few minutes to this bill.</p>
 <p>In many respects, our Party considers this piece of legislation long overdue. This is an industry in our province that has no regulations in place to safeguard the health of Nova Scotians who engage in tattooing, body piercing, and other art forms that require some kind of invasive procedure. We had asked about this some years ago, about the Departments of Health and Health Promotion looking into regulations around this industry, because it has become much more mainstream over the past decade.</p>
 <p>Because of its widespread practice - for example, in Halifax alone, there are 30 to 40 parlours now that provide some form of tattooing, body piercing and other body art forms - because of that kind of movement into mainstream, it is time that we take a look at what is taking place in other provinces, especially the Province of Alberta, which has a very, very high standard around hygienic practices, and also on reporting and proper ways of dealing when there is blood present from the practice.</p>
 <p>We know that over the past number of years concerns have risen around hepatitis B and C, and also AIDS as a possibility because there are times, especially with youth, an age when the apparatus and needles used in the process may go deeper than the one or one-and-a-half millimetres beneath the skin and that can definitely lead to problems. I know the Department of Health and Wellness, and Dr. Strang in particular has now moved from the investigative stage, if there were reports to his office to a stronger, more proactive and regulatory approach. We have heard from the industry that they also have been asking for regulation for some time.</p>
@@ -811,7 +812,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, would you please call Bill No. 110.</p>
           </speech>
@@ -822,7 +823,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, I move third reading of Bill No. 110.</p>
           </speech>
@@ -830,7 +831,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Madam Speaker, I wanted to make sure that I had a chance to say a few words on Bill No. 110. I think of all the ridings in Nova Scotia, Halifax Clayton Park probably has the highest density and the most apartments of any of those ridings. We do have the largest number of voters, that's clear, and I know the boundaries committee is looking at that, but the reason we have such a high population in Halifax Clayton Park is that there are over 9,000 apartment units in my riding. As many of you will know, there are many others in Fairview and on the other side in Bedford-Birch Cove.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Madam Speaker, I wanted to make sure that I had a chance to say a few words on Bill No. 110. I think of all the ridings in Nova Scotia, Halifax Clayton Park probably has the highest density and the most apartments of any of those ridings. We do have the largest number of voters, that's clear, and I know the boundaries committee is looking at that, but the reason we have such a high population in Halifax Clayton Park is that there are over 9,000 apartment units in my riding. As many of you will know, there are many others in Fairview and on the other side in Bedford-Birch Cove.</p>
 <p>It's an area where there's high density. It has many pluses. It allows people to live close to the services that they need. It allows things like our buses to run efficiently because there are a lot of people in one area. It's cheaper for the municipality to maintain the roads and services. So there are a lot of great things about some density, and in our area I can say as well that we've done a great job at maintaining trails, parks, and open spaces, so that there's a nice balance between that.</p>
 <p>As you would know yourself, Madam Speaker, the area now has the Canada Games Centre. So we have a wonderful recreation centre that's within walking distance and biking distance of thousands of people. I think that's a real plus to our neighbourhood in Clayton Park. But as I said, it is my privilege to represent people, and more than two-thirds of my constituents live in multi-unit buildings. There are some condominiums in there, but the majority are rental units and the vast majority of those buildings are kept very wonderfully. They are really great landlords who maintain the buildings, who see them as their portfolio, as an investment for the future, often for their family-owned businesses, and they do their very best to keep wonderful properties with nice landscaping. They keep them up. They make repairs when they're needed, and I get very, very few complaints from tenants - or from people in general - about the apartments in my area. That is a big surprise to me, really, when you consider the vast number of buildings that I have.</p>
 <p>In the last election I had counted them, before beginning the election, and there were over 175 different buildings. At this point in time I know that there are four or five cranes on the horizon at the Washmill Lake area, that new street that has just opened into Bayers Lake. There are many new buildings that are under construction, and I'm sure that number has risen significantly; I just haven't done a count of all the new buildings.</p>
@@ -844,7 +845,7 @@
             <from>MADAM SPEAKER</from>
             <p>Order, please. The honourable member for Halifax Clayton Park has the floor.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you, Madam Speaker. I was saying that within our own government we do have a very effective and good organization, the Residential Tenancies Board, which hears disputes from both parties and helps to educate tenants, provides information to tenants - when they are signing leases they get information about what services are offered.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you, Madam Speaker. I was saying that within our own government we do have a very effective and good organization, the Residential Tenancies Board, which hears disputes from both parties and helps to educate tenants, provides information to tenants - when they are signing leases they get information about what services are offered.</p>
 <p>One of the difficulties we've seen over the last number of years is that there have been so many issues that the Residential Tenancies Board has been called upon to deal with that there have been tremendous delays. That was mentioned in the submission that came from the Investment Property Owners Association at Law Amendments Committee, they talked about some significant delays of six and eight weeks, and even longer, to have some fairly straightforward issues heard at the Tenancies Board. That is a big cost to them, and if there's clearly an issue of non-payment or they feel there's nothing being disputed, particularly when it comes to payment, if a tenant has not paid and that's clear, they think it should be faster to come to the board and to get a decision.</p>
 <p>I don't know if that suggests to the minister that there might be a reallocation of resources needed, but this bill has taken a step to kind of expedite some of those issues. I think we should go there with caution, it's in the Act, I know we're moving in that direction. I just think it's very important that, again, we do the education for tenants, that everybody understands what the rules are.</p>
 <p>This is quite a significant change from where we've been before. I know at Law Amendments Committee I was actually surprised by asking a couple of questions to the presenters who represented landlords, or were landlords themselves, and I wanted to know why it wasn't better because we passed the Act last year. That was when it became clear that the Act has not been proclaimed, so none of those new rules had begun yet. They're still telling us the same story about long delays in going through the Residential Tenancies Board. That did surprise me, Madam Speaker, that we were still at that place, because I thought they could now give us an update on how it's working and how it has improved these days. As that goes along, this bill before us includes some other amendments that are going to be added to the Act that we passed last year, and then I understand that the whole thing will be proclaimed as one, so we'll have all of those changes.</p>
@@ -860,13 +861,13 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Hammonds Plains-Upper Sackville.</p>
           </speech>
-          <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd">
+          <speech by="#mat.whynott">
             <from>MR. MAT WHYNOTT</from>
             <p>Madam Speaker, I would like to draw the attention of the House to the east gallery. We have with us today Matt Tolton and his mother, Angela. Earlier today I did a resolution on their behalf. Back in March of this past year Matt raised over $588, by himself, for the Canadian Red Cross and the efforts of the tsunami relief in Japan. I would ask the House to give him a warm welcome. (Applause)</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>I welcome all visitors in the gallery today. I hope you enjoy tonight's proceedings.</p>
 <p>The honourable member for Preston.</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><from>HON. KEITH COLWELL</from><p>Madam Speaker, I'm just going to be very short here. I want to thank the minister for bringing these amendments forward in the bill. I have a couple of mini-home parks in my area and in one particular park it has been an ongoing problem for a long time with ever-increasing rent increases, all kinds of difficulty when somebody builds a deck. The deck may not be what the landlord wanted. It may be a little bit too big and even though they had a permit from the municipality to build the deck, they would make them tear it down. It was really a major problem.</p>
+          <speech by="#keith.colwell"><from>HON. KEITH COLWELL</from><p>Madam Speaker, I'm just going to be very short here. I want to thank the minister for bringing these amendments forward in the bill. I have a couple of mini-home parks in my area and in one particular park it has been an ongoing problem for a long time with ever-increasing rent increases, all kinds of difficulty when somebody builds a deck. The deck may not be what the landlord wanted. It may be a little bit too big and even though they had a permit from the municipality to build the deck, they would make them tear it down. It was really a major problem.</p>
 <p>I want to thank the minister and his staff because over the past several years I've been dealing with his staff and trying to get some resolution to this and indeed, they have come forward. I believe the amendments that have been brought forward - time will tell, of course, because you never know when you pass new law - but I believe it will address most of the issues that my constituents have been talking about. I'm sure the same thing has been happening in other areas. I want to really thank the staff for the support they have given to myself and to our community and trying to work within the Act that was there to give some stability to people in our community who needed stability with rental agreements.</p>
 <p>Also, now with the new bill, it appears it will also be easier to sell your mini-home whereas before the landlord could be very restrictive on who could get the mini-home, and indeed, a very valuable investment gone for some of the tenants who owned these mini-homes. With that, I'd like to look forward to the regulations when they come forward with this bill and hopefully they will follow through with that. It also has some good clauses in it so the landlords can get paid as well. I think it's a good balance in the law, a double approach with it.</p>
 <p>Again I want to thank the staff and the department and the minister for bringing this forward and hopefully it will do the job the staff and the minister have intended it to do. Thank you.</p></speech>
@@ -874,7 +875,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill do pass. Ordered that this title be as read by the Clerk. Ordered that the bill be engrossed.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Madam Speaker, with the consent of the House, I would like to revert to the order of business, Presenting Reports of Committees.</p>
           </speech>
@@ -888,18 +889,18 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+        <speech by="#ross.landry"><from>HON. ROSS LANDRY</from><p>Madam Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
 <p><b>Bill No. 131 - Snow Sport Helmet Act.</b></p>
 <p>and the committee recommends this bill to the favourable consideration of the House, without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
 <p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
-        <speech by="#002be249-bd3d-4105-8653-0fc8ddb6d4da"><from>MR. GARY BURRILL</from><p>Madam Speaker, on behalf of the Chairman of the Private and Local Bills Committee, I am directed to report that the committee has met and considered the following bills:</p>
+        <speech by="#gary.burrill"><from>MR. GARY BURRILL</from><p>Madam Speaker, on behalf of the Chairman of the Private and Local Bills Committee, I am directed to report that the committee has met and considered the following bills:</p>
 <p><b>Bill No. 129 &#x2013; St. Michael's Polish Association and Benefit Society Act.</b></p>
 <p><b>Bill No. 132 &#x2013; Acadia Recreation Club Act.</b></p>
 <p>and the committee recommends these bills to the favourable consideration of the House, each without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that these bills be referred to the Committee of the Whole House on Bills.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, with the consent of the House, I would like to revert to Committee of the Whole House on Bills to deal with the bills that now reside there.</p>
         </speech>
@@ -907,7 +908,7 @@
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.]</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Bills.</p>
         </speech>
@@ -933,7 +934,7 @@
 <p>and the chairman has been instructed to recommend these bill to the favourable consideration of the House, each without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that these bills be read a third time on a future day.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Madam Speaker, that concludes the government's business for the day. I move that the House do now rise to meet again on the morrow at the hour of 2:00 p.m. to midnight or until the conclusion of business. The order of business will be Public Bills for Third Reading, Nos. 120, 126,128 and 131; Private Bills for Third Reading, Nos. 38, 99, 101, 132; time permitting Committee of the Whole House on Bills, No. 129; and if we need more time, Resolution No. 2920. I move the House do now rise.</p>
         </speech>
@@ -948,24 +949,22 @@
       </papers>
       <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
-        <subheading>Given on December 9, 2011</subheading>
-        <subheading>Pursuant to Rule 30(1)</subheading>
-        <question to="#5c567fec-a071-45dc-bccd-c81ad2bb492a" by="#0592f881-721c-495f-a273-d237278fabfc">
+        <question to="#4b34d225-0122-4265-86ab-969f2fafb35e" by="#eddie.orrell">
           <num title="7">QUESTION NO. 7</num>
           <from>Mr. Eddie Orrell</from>
           <p>(1) In May 2009, Opposition Leader Darrell Dexter's Chief of Staff Dan O'Connor in a letter on behalf of his Leader was critical of the established funding criteria concerning the Tuition Support Program being put forth. The letter sent to Landmark East clearly left a firm impression that a fourth year of funding would be made available to students. Will the minister explain why her government in April 2010 added only an optional fourth year for transition instead of a guaranteed fourth year?</p>
         </question>
-        <question to="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410" by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+        <question to="#215f154b-dc57-49cb-a940-22051589106a" by="#allan.gerard.macmaster">
           <num title="8">QUESTION NO. 8</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) The Town of New Glasgow has met a total of six times with four different members of the Executive Council including the Minister of Justice, as well as the Premier between November 9, 2009 and August 30, 2011. Concerns were raised each time about the establishment of a new permanent justice complex within the Town of New Glasgow. Will the minister provide an update as to the government's plan concerning such a complex?</p>
         </question>
-        <question to="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410" by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+        <question to="#215f154b-dc57-49cb-a940-22051589106a" by="#allan.gerard.macmaster">
           <num title="9">QUESTION NO. 9</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) In May 2010, the Government of Nova Scotia, through the Department of Justice, agreed to cover the cost of a regional policing study for Pictou County. More than 18 months later, the government has not made any funding available. Why?</p>
         </question>
-        <question to="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410" by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+        <question to="#215f154b-dc57-49cb-a940-22051589106a" by="#allan.gerard.macmaster">
           <num title="10">QUESTION NO. 10</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) Does the Minister of Justice support a regional policing study, which will ensure a high standard of policing services throughout Pictou County or is it his intention to dissolve the municipal police forces and accept RCMP policing?</p>
@@ -973,152 +972,152 @@
       </questions>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="2977">RESOLUTION NO. 2977</num><from>Mr. Allan MacMaster</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="2977">RESOLUTION NO. 2977</num><from>Mr. Allan MacMaster</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the North East Margaree Seniors' Club celebrates 30 years; and</p>
 <p>Whereas members of the seniors' club and community gathered in their hall to celebrate their 30<sup>th</sup> Anniversary with music and a shared meal and to honour the club's three founding members: Frances MacDonald, Gladys Ross, and Lorraine Robertson; and</p>
 <p>Whereas the club is active with a sewing club that produces quilts and other handiwork, card games, guest speakers, and meetings with other seniors' groups in the county;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the North East Margaree Seniors' Club on celebrating 30 years and wish them all the best in the future.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="2978">RESOLUTION NO. 2978</num><from>Hon. Denise Peterson-Rafuse</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="2978">RESOLUTION NO. 2978</num><from>Hon. Denise Peterson-Rafuse</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 2011 Tourism Summit was held at the World Trade and Convention Centre on November 27-29, 2011; and</p>
 <p>Whereas on the evening of November 29<sup>th</sup> the Annual Gala Dinner was held and included the presentation of the 2011 Crystal Tourism Awards of Excellence, of which there are nine categories, and one of which is the Sustainable Tourism Award with the criteria that the business exemplifies leadership in balancing the economic, environmental, and cultural authenticity of the tourism industry; and</p>
 <p>Whereas the Hooked Rug Museum of North America, located in Hubbards, Nova Scotia, was awarded the 2011 Crystal Tourism Award of Excellence in Sustainable Tourism;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the Hooked Rug Museum of North America on receiving this prestigious tourism award and wish them all the best in their future endeavours as they continue to build and expand their museum.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2979">RESOLUTION NO. 2979</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2979">RESOLUTION NO. 2979</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the parents and staff of Hammonds Plains Consolidated School have been working to raise funds to construct an addition to their playground facility in order to make it accessible to all students; and</p>
 <p>Whereas the school will, with the support of a $27,000 grant, be able to improve the accessibility of its playground facility; and</p>
 <p>Whereas this playground will improve the health and happiness of attendees at Hammonds Plains Consolidated School by offering all of the students a safe and fun place to participate in active leisure;</p>
 <p>Therefore be it resolved that all members of this House join me in congratulating the staff and students of Hammonds Plains Consolidated School on their future playground facility which will help all students build happy, healthy lifestyles.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2980">RESOLUTION NO. 2980</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2980">RESOLUTION NO. 2980</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Coast to Coast Against Cancer Foundation began the Sears National Kids Cancer Ride in Vancouver on September 7<sup>th</sup>, completing their journey here in Halifax on September 22<sup>nd</sup>; and</p>
 <p>Whereas the participants travelled across this vast nation in order to raise funds for both national and local childhood oncology programs, with the goal of improving the lives of children living with cancer and their families; and</p>
 <p>Whereas the ride not only raised more than $1 million toward its goal but continues to provide inspiration for anyone wanting to work toward making a positive impact on their community;</p>
 <p>Therefore be it resolved that all members of this House join me in congratulating the Coast to Coast Against Cancer Foundation, as well as all the participants and contributors to the Sears National Kids Cancer Ride, for the incredible contribution they have made to this province and the lives of cancer sufferers.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2981">RESOLUTION NO. 2981</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2981">RESOLUTION NO. 2981</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on August 20, 2011, the Springfield Lake Recreation Association, in conjunction with Weir Rockin', hosted their fifth annual rock concert at Weir Field with this year's performers, popular 1980s rock bands Lee Aaron, Sass Jordan, The Headpins, and Honeymoon Suite; and</p>
 <p>Whereas this continues to be a sought-after event for the Upper Sackville community and brought a sold-out crowd for an evening of rock music; and</p>
 <p>Whereas this event could not have happened without the hard work and dedication from this year's organizers, volunteers, sponsors, and supporters;</p>
 <p>Therefore be it resolved that the House of Assembly congratulate all involved in this year's annual Weir Rockin' concert on a successful, sold-out event in Upper Sackville, and grant best wishes to the event organizers in future years.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2982">RESOLUTION NO. 2982</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2982">RESOLUTION NO. 2982</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 24, 2011, Hammonds Plains resident Holly LaPierre was named Citizen of the Year by the St. Margarets Bay Lions Club; and</p>
 <p>Whereas Holly LaPierre is an active community member, which includes being the president of the Hammonds Plains Baseball Association; and</p>
 <p>Whereas the Citizen of the Year Award is given each year to a member of the surrounding area who has made a significant contribution to St. Margarets Bay and surrounding areas;</p>
 <p>Therefore be it resolved that the members of this House join me in commending Holly LaPierre of Hammonds Plains for the work that she has done for the St. Margarets Bay community, and congratulate her for having recently been named Citizen of the Year by the St. Margarets Bay Lions Club.</p></speech>
-        <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><num title="2983">RESOLUTION NO. 2983</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mat.whynott"><num title="2983">RESOLUTION NO. 2983</num><from>Mr. Mat Whynott</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 9<sup>th</sup> Sackville Sports Heritage Foundation Induction Dinner was held on Thursday, October 20<sup>th</sup>; and</p>
 <p>Whereas kayaker Jilian D'Alessio, archer Paul Sheppard, the 2003-05 Sackville Blazers Jr. B hockey team, and long-time administrator George Matthews, were all inducted into the Sackville Sports Heritage Hall of Fame; and</p>
 <p>Whereas these individuals have not only succeeded in promoting active, healthy lifestyles, but they also provide strong models for youth in our province of how hard work, dedication, and teamwork can culminate in great success;</p>
 <p>Therefore be it resolved that the members of this House join me in commending the Sackville Sports Heritage Foundation and its 2011 inductees to the Heritage Hall of Fame for promoting healthy-living and providing positive examples of hard work, dedication, and teamwork.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2984">RESOLUTION NO. 2984</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2984">RESOLUTION NO. 2984</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lukas Domm,a resident of Cow Bay, is currently a junior studying at Dalhousie University; and</p>
 <p>Whereas earlier in the Spring, Lukas was selected to take part in a 15-week Undergraduate Student Research Program at Dalhousie University, which allowed him to travel to the National Aeronautics and Space Administration (NASA) to take part in a program in NASA's Jet Propulsion Lab; and</p>
 <p>Whereas Lukas contributed to the initial design, fabrication, and testing phases of a new drill and a piezoelectric actuator that may be used in future space exploration;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly congratulate Lukas Domm for being chosen for an Undergraduate Student Research Program at Dalhousie University where he travelled to NASA to take part in the initial design, fabrication and testing phases of a new drill, a piezoelectric actuator at NASA's Jet Propulsion Lab, and wish him every success with his field of study to infinity and beyond.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2985">RESOLUTION NO. 2985</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2985">RESOLUTION NO. 2985</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nicole Eddy of Eastern Passage graduated from St. Francis Xavier University, class of 2011, with a Bachelor of Science Nursing Degree; and</p>
 <p>Whereas while completing her degree, Nicole spent one month volunteering in a hospital in Rwanda, Africa, an experience that will help her be a better nurse in Canada; and</p>
 <p>Whereas Nicole's career as a nurse will be strengthened greatly by her volunteer experience in Rwanda;</p>
 <p>Therefore be it resolved that the Nova Scotia House of Assembly congratulate Nicole Eddy on her recent graduation from St. Francis Xavier University with a Bachelor of Science in Nursing Degree, and commend her volunteer efforts in Rwanda, Africa, and wish her every success in the future.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2986">RESOLUTION NO. 2986</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2986">RESOLUTION NO. 2986</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas bullying in our schools and communities continues to cause harmful and painful effect on our citizens, especially our youth; and</p>
 <p>Whereas this year Ocean View Elementary School in Eastern Passage is celebrating its 6<sup>th</sup> Annual Anti-Bullying Week by participating in the "Say No to Bullying" program; and</p>
 <p>Whereas guidance counsellor Christa Pope meets with the students throughout the week to discuss bullying and what they can do to prevent it by acting as ambassadors for peace, respect, and kindness;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend students, staff, and volunteers of Ocean View Elementary School in Eastern Passage for standing up to bullying during Anti-Bullying Week and throughout the year.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2987">RESOLUTION NO. 2987</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2987">RESOLUTION NO. 2987</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas bullying in our schools and communities continues to cause harmful and painful effect on our citizens, especially our youth; and</p>
 <p>Whereas this year Tallahassee Community Elementary School in Eastern Passage is celebrating its 6<sup>th</sup> Annual Anti-Bullying Week by participating in the "Say No to Bullying" program; and</p>
 <p>Whereas guidance counsellor Christa Pope meets with the students throughout the week to discuss bullying and what they can do to prevent it by acting as ambassadors for peace, respect, and kindness;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend students, staff, and volunteers of Tallahassee Community Elementary School in Eastern Passage for standing up to bullying during Anti-Bullying Week and throughout the year.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2988">RESOLUTION NO. 2988</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2988">RESOLUTION NO. 2988</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Eastern Passage Lion Denton Rock has been involved with volunteer committee work through the Lions Club for many years; and</p>
 <p>Whereas in the Spring of 2011 Denton received the Lion of the Year Award and a King Lion Appreciation Award from the Eastern Passage-Cow Bay Lions Club at the 39<sup>th</sup> Charter Night; and</p>
 <p>Whereas Denton is the chairman of many committees, such as Finance, Building, New Year's Eve Dance, Monthly Breakfast, and the Summer Student Program, and has received a Lions Foundation of Canada Life Membership;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend Denton Rock for being awarded both Lion of the Year and King Lion Appreciation from the Eastern Passage-Cow Bay Lions Club and congratulate him on receiving a Lions Foundation of Canada Life Membership</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2989">RESOLUTION NO. 2989</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2989">RESOLUTION NO. 2989</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Eastern Passage resident Cliff Baker has been involved with volunteer committee work through the Lions Club for many years; and</p>
 <p>Whereas in the Spring of 2011 Cliff received a Nova Scotia Foundation Life Membership from the Eastern Passage-Cow Bay Lions Club at the 39<sup>th</sup> Charter Night; and</p>
 <p>Whereas Cliff has volunteered on numerous committees in the club, such as Bar, Bingo, Carnival, and Breakfast;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend Cliff Baker of Eastern Passage for being the recipient of a Nova Scotia Foundation Life Membership from the Eastern Passage Cow Bay Lions Club.</p></speech>
-        <speech by="#42d2bd92-9a05-4f0e-8fae-0df41cda3c9e"><num title="2990">RESOLUTION NO. 2990</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#becky.kent"><num title="2990">RESOLUTION NO. 2990</num><from>Ms. Becky Kent</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Eastern Passage resident William (Bill) Walker has been involved with volunteer committee work through the Lions Club for many years; and</p>
 <p>Whereas in the Spring of 2011 Bill received his 15-year Monarch Certificate for his years of service from the Eastern Passage-Cow Bay Lions Club at the 39<sup>th</sup> Charter Night; and</p>
 <p>Whereas Bill has been very active in the club, and his volunteer roles include Chairman of the Ocean View Manor bingos and helping with the Carnival Committee;</p>
 <p>Therefore be it resolved that this Nova Scotia House of Assembly commend William (Bill) Walker for being awarded his 15-year Monarch Certificate from the Eastern Passage-Cow Bay Lions Club.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2991">RESOLUTION NO. 2991</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2991">RESOLUTION NO. 2991</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tristan Murphy is a junior high student at Cavalier Drive School in Lower Sackville; and</p>
 <p>Whereas Tristan worked with Hilda Hunter, coordinator of a project started in October 2010 to construct a wooden puppet theatre; and</p>
 <p>Whereas Tristan Murphy and six other junior high students from Cavalier Drive School worked with project coordinator Hilda Hunter and have donated this puppet theatre, along with 13 puppets, to the Sackville-Bedford Early Intervention program, to be used by preschoolers with developmental challenges;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Tristan Murphy for his work with project coordinator Hilda Hunter and six other junior high students at Cavalier Drive School, and wish them all success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2992">RESOLUTION NO. 2992</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2992">RESOLUTION NO. 2992</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Odhran Speirs is a junior high student at Cavalier Drive School in Lower Sackville; and</p>
 <p>Whereas Odhran worked with Hilda Hunter, coordinator of a project started in October 2010 to construct a wooden puppet theatre; and</p>
 <p>Whereas Odhran Speirs and six other junior high students from Cavalier Drive School worked with project coordinator Hilda Hunter and have donated this puppet theatre, along with 13 puppets, to the Sackville-Bedford Early Intervention program, to be used by preschoolers with developmental challenges;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Odhran Speirs, a junior high student at Cavalier Drive School of Lower Sackville, for his work with project coordinator Hilda Hunter and six other junior high students at Cavalier Drive School on revising an outline and building a wooden puppet theatre to be donated, along with 13 puppets, to the Sackville-Bedford Early Intervention program for preschoolers with developmental challenges, and wish them all success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2993">RESOLUTION NO. 2993</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2993">RESOLUTION NO. 2993</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Tatianna Whiteside is a junior high student at Cavalier Drive School in Lower Sackville; and</p>
 <p>Whereas Tatianna worked with Hilda Hunter, coordinator of a project started in October 2010 to construct a wooden puppet theatre; and</p>
 <p>Whereas Tatianna Whiteside and six other junior high students from Cavalier Drive School worked with project coordinator Hilda Hunter and have donated this puppet theatre, along with 13 puppets, to the Sackville-Bedford Early Intervention program, to be used by preschoolers with developmental challenges;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Tatianna Whitetside, Hilda Hunter, and the six other junior high students at Cavalier Drive School, and wish them all success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2994">RESOLUTION NO. 2994</num><from>David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2994">RESOLUTION NO. 2994</num><from>David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas James O'Brien is a Grade 8 student at Cavalier Drive School in Lower Sackville; and</p>
 <p>Whereas James worked with Hilda Hunter, coordinator of a project started in October 2010 to construct a wooden puppet theatre; and</p>
 <p>Whereas James O'Brien and six other junior high students from Cavalier Drive School worked with project coordinator Hilda Hunter and have donated this puppet theatre, along with 13 puppets, to the Sackville-Bedford Early Intervention program, to be used by preschoolers with developmental challenges;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend James O'Brien, a Grade 8 student at Cavalier Drive School of Lower Sackville, for his work with project coordinator Hilda Hunter and six other junior high students at Cavalier Drive School, and wish them all success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2995">RESOLUTION NO. 2995</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2995">RESOLUTION NO. 2995</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Hilda Hunter is a student support teacher at Cavalier Drive School in Lower Sackville; and</p>
 <p>Whereas Hilda Hunter is coordinator of a project started in October 2010 to construct a wooden puppet theatre; and</p>
 <p>Whereas Hilda Hunter and seven junior high students from Cavalier Drive School have donated this puppet theatre, along with 13 puppets, to the Sackville-Bedford Early Intervention program, to be used by preschoolers with developmental challenges;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Hilda Hunter, a student support teacher at Cavalier Drive School of Lower Sackville, and the junior high students at Cavalier Drive School, and wish them all success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2996">RESOLUTION NO. 2996</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2996">RESOLUTION NO. 2996</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 4Cs Foundation is a privately-funded foundation established in 1998 to provide grants in support of the arts in the Halifax Regional Municipality, whose motto is to "build connections between children and their communities through arts projects in the Halifax Regional Municipality"; and</p>
 <p>Whereas Cavalier Drive Junior High School will be participating in the Music for Life Gala Community Concert to be held on May 26<sup>th</sup> at Sackville High School; and</p>
 <p>Whereas Cavalier Drive Junior High School will participate in the Music for Life Gala Community Concert along with Sackville High School, A.J. Smeltzer and Leslie Thomas Junior High Schools, and the Sackville Community Band;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Cavalier Drive Junior High School on their participation in the Music for Life Gala Community Concert on Mary 26<sup>th</sup> at Sackville High School, with performances from elementary students and children from Sackville High School, A.J. Smeltzer and Leslie Thomas Junior High Schools, along with the Sackville Community Band, and wish all participants well in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2997">RESOLUTION NO. 2997</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2997">RESOLUTION NO. 2997</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 4Cs Foundation is a privately-funded foundation established in 1998 to provide grants in support of the arts in the Halifax Regional Municipality, whose motto is to "build connections between children and their communities through arts projects in the Halifax Regional Municipality"; and</p>
 <p>Whereas A.J. Smeltzer Junior High School will be participating in the Music for Life Gala Community Concert to be held on May 26<sup>th</sup> at Sackville High School; and</p>
 <p>Whereas A.J. Smeltzer Junior High School will participate in the Music for Life Gala Community Concert along with Sackville High School, Cavalier Drive and Leslie Thomas Junior High Schools, and the Sackville Community Band;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate A.J. Smeltzer Junior High School on their participation in the Music for Life Gala Community Concert on Mary 26<sup>th</sup> at Sackville High School, with performances from elementary students and children from Sackville High School, Cavalier Drive and Leslie Thomas Junior High Schools, along with the Sackville Community Band, and wish all participants well in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2998">RESOLUTION NO. 2998</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2998">RESOLUTION NO. 2998</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 4Cs Foundation is a privately-funded foundation established in 1998 to provide grants in support of the arts in the Halifax Regional Municipality, whose motto is to "build connections between children and their communities through arts projects in the Halifax Regional Municipality"; and</p>
 <p>Whereas Leslie Thomas Junior High School will be participating in the Music for Life Gala Community Concert to be held on May 26<sup>th</sup> at Sackville High School; and</p>
 <p>Whereas Leslie Thomas Junior High School will participate in the Music for Life Gala Community Concert along with Sackville High School, A.J. Smeltzer and Cavalier Drive Junior High Schools, and the Sackville Community Band;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Leslie Thomas Junior High School on their participation in the Music for Life Gala Community Concert on Mary 26<sup>th</sup> at Sackville High School, with performances from elementary students and children from Sackville High School, A.J. Smeltzer and Cavalier Drive Junior High Schools, along with the Sackville Community Band, and wish all participants well in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="2999">RESOLUTION NO. 2999</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="2999">RESOLUTION NO. 2999</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 4Cs Foundation is a privately-funded foundation established in 1998 to provide grants in support of the arts in the Halifax Regional Municipality, whose motto is to "build connections between children and their communities through arts projects in the Halifax Regional Municipality"; and</p>
 <p>Whereas Sackville High School will be participating in the Music for Life Gala Community Concert to be held on May 26<sup>th</sup> at Sackville High School; and</p>
 <p>Whereas Sackville High School will participate in the Music for Life Gala Community Concert along with A.J. Smeltzer, Cavalier Drive and Leslie Thomas Junior High Schools, and the Sackville Community Band;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Sackville High School on their participation in the Music for Life Gala Community Concert on Mary 26<sup>th</sup> at Sackville High School, with performances from elementary students and children from A.J. Smeltzer, Cavalier Drive and Leslie Thomas Junior High Schools, along with the Sackville Community Band, and wish all participants well in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3000">RESOLUTION NO. 3000</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3000">RESOLUTION NO. 3000</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lara MacKenzie is the instrumental music teacher at Sackville High School and is organizing the Music for Life Gala Community Concert to be held on May 26<sup>th</sup> with funding from the 4Cs Foundation; and</p>
 <p>Whereas the 4Cs Foundation is a privately-funded foundation established in 1998 to provide grants in support of the arts in the Halifax Regional Municipality, whose motto is to "build connections between children and their communities through arts projects in the Halifax Regional Municipality"; and</p>
 <p>Whereas Sackville High School will host the Music for Life Gala Community Concert on May 26<sup>th</sup> along with A.J. Smeltzer and Leslie Thomas Junior High Schools, and the Sackville Community Band;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Lara MacKenzie, instrumental music teacher at Sackville High School, for her work in obtaining funds through the 4Cs Foundation and for organizing the Music for Life Gala Community Concert on Mary 26<sup>th</sup> with performances by elementary students and children from Sackville High School, A.J. Smeltzer, Cavalier Drive and Leslie Thomas Junior High Schools, along with the Sackville Community Band, and wish her and the bands success in their future endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3001">RESOLUTION NO. 3001</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3001">RESOLUTION NO. 3001</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Ajacisa Parsons is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Ajacisa Parsons and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Ajacisa and fellow students raised $650 to build a well in Garlapadu Village in India;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Ajacisa Parsons, a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville, for her participation in raising money to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3002">RESOLUTION NO. 3002</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3002">RESOLUTION NO. 3002</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Julia Baak is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Julia Baak and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Julia and fellow students raised $650 to build a well in Garlapadu Village in India, with Julia raising $213 by selling hot dogs and Rice Krispies squares at Halifax Water;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Julia Baak, a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville, for her participation towards raising the $650 to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3003">RESOLUTION NO. 3003</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3003">RESOLUTION NO. 3003</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jennifer Lachance is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Jennifer Lachance and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Jennifer and fellow students raised $650 to build a well in Garlapadu Village in India;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Jennifer Lachance for her participation in raising $650 to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3004">RESOLUTION NO. 3004</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3004">RESOLUTION NO. 3004</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lindsey Morgan is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Lindsey Morgan and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Lindsay and fellow students raised $650 to build a well in Garlapadu Village in India;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Lindsey Morgan, a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville, for her participation in raising $650 to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3005">RESOLUTION NO. 3005</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3005">RESOLUTION NO. 3005</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jessica Cruickshanks is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Jessica Cruickshanks and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Jessica and fellow students raised $650 to build a well in Garlapadu Village in India;</p>
 <p>Therefore be it resolved that members of this House of Assembly commend Jessica Cruickshanks, a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville, for her participation in raising $650 to build a well in Garlapadu Village, India, and wish her future success in her endeavours.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="3006">RESOLUTION NO. 3006</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="3006">RESOLUTION NO. 3006</num><from>Hon. David Wilson</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Cailey Murphy is a Grade 8 student at A.J. Smeltzer Junior High School in Lower Sackville; and</p>
 <p>Whereas Cailey Murphy and other Grade 8 students participated in learning about water around the world with their science teacher, Walter Moyse; and</p>
 <p>Whereas Cailey and fellow students raised $650 to build a well in Garlapadu Village in India, with Cailey selling chocolate chip cookies door-to-do;</p>

@@ -4,9 +4,9 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="ross.landry" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -15,9 +15,10 @@
       <docTitle>Debates, 12 April 2013</docTitle>
       <docNumber>13-12</docNumber>
       <docDate date="2013-04-12">Friday, April 12, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13apr12/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -30,7 +31,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
+        <speech by="#ross.landry">
           <from>HON. ROSS LANDRY</from>
           <p>Mr. Speaker, in my capacity as the Attorney General and pursuant to Section 51 of the Judiciary Act, I hereby beg leave to table two separate revisions to the Civil Procedure Rules. The revisions were made in accordance with the Judiciary Act by the Judges of Nova Scotia's Court of Appeal on January 21, 2013.</p>
         </speech>
@@ -57,7 +58,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Progressive Conservative Party.</p>
         </speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="305">RESOLUTION NO. 305</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="305">RESOLUTION NO. 305</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Bernie O'Neil is retiring after more than 40 years in the credit union system; and</p>
 <p>Whereas Mr. O'Neil started as a teller in Sydney Mines in 1966 and rose through the ranks to become CEO of the Nova Scotia Central Credit Union; and</p>
 <p>Whereas Mr. O'Neil was instrumental in creating the new Atlantic Central that brought credit unions from all four of the Atlantic Provinces together;</p>
@@ -69,7 +70,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="306">RESOLUTION NO. 306</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="306">RESOLUTION NO. 306</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas former Truro Mayor and respected business person Doug Carter passed away on April 9<sup>th</sup>; and</p>
 <p>Whereas Mayor Carter was first elected as a town councillor in 1968, became deputy mayor in 1969, and served as mayor from 1979 to 1997; and</p>
 <p>Whereas in addition to his public service Mayor Carter, who is remembered as an avid sailor and an award-winning curler, is also the recipient of the Queen Elizabeth II Diamond Jubilee Medal;</p>
@@ -87,7 +88,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -98,7 +99,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -123,7 +124,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet again on Monday, from the hour of 4:00 a.m. (Interruptions) You are listening. Madam Speaker, the Cape Bretoners caught it, I don't know about these other people, these mainlanders, they didn't get it - to meet from the hours of 4:00 p.m. to 10:00 p.m. After the daily routine we will be doing Committee of the Whole House on Supply and, if time permits, we will do Bill No. 36 and Bill No. 37.</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet again on Monday, from the hour of 4:00 a.m. (Interruptions) You are listening. Madam Speaker, the Cape Bretoners caught it, I don't know about these other people, these mainlanders, they didn't get it - to meet from the hours of 4:00 p.m. to 10:00 p.m. After the daily routine we will be doing Committee of the Whole House on Supply and, if time permits, we will do Bill No. 36 and Bill No. 37.</p>
 <p>With that, Madam Speaker, I move that we do now rise. Everyone have a great weekend and see you on Monday.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House now rise to meet again on Monday, April 15<sup>th</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
 <p>Is it agreed?</p>

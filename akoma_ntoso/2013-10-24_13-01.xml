@@ -4,31 +4,32 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="aa3994fa-4b5e-497a-af0b-ea566d45f6bd" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
-        <TLCPerson id="79806a43-8078-4f8e-8562-4dd71e4bd0ca" href="/ontology/person/ca-ns.kevin.murphy" showAs="MR. KEVIN MURPHY"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="kevin.murphy" href="/ontology/person/ca-ns.kevin.murphy" showAs="MR. KEVIN MURPHY"/>
+        <TLCPerson id="margaret.miller" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
-        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
-        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 24 October 2013</docTitle>
       <docNumber>13-01</docNumber>
       <docDate date="2013-10-24">Thursday, October 24, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13oct24/"/>
     </preface>
     <debateBody>
       <speech by="" as="#clerk" status="undefined">
         <from>THE CLERK</from>
         <p>The honourable Premier.</p>
       </speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Members of the House of Assembly, a Commission has been issued by His Honour, Brigadier General the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, which I shall read as follows:</p>
+      <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>Members of the House of Assembly, a Commission has been issued by His Honour, Brigadier General the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, which I shall read as follows:</p>
 <p>"The Honourable Premier of Nova Scotia</p>
 <p>Greetings:</p>
 <p>Whereas the present General Assembly of the Province of Nova Scotia was summoned to meet on Thursday, the 24<sup>th</sup> day of October next, then to be begun and held at Halifax, from which date the said General Assembly will meet for the dispatch of business;</p>
@@ -49,7 +50,7 @@
         <from>THE CLERK</from>
         <p>Does the honourable member accept the nomination?</p>
       </speech>
-      <speech by="#79806a43-8078-4f8e-8562-4dd71e4bd0ca">
+      <speech by="#kevin.murphy">
         <from>MR. KEVIN MURPHY</from>
         <p>I do.</p>
       </speech>
@@ -69,7 +70,7 @@
         <from>MR. SPEAKER</from>
         <p>Does the member accept the nomination?</p>
       </speech>
-      <speech by="#aa3994fa-4b5e-497a-af0b-ea566d45f6bd">
+      <speech by="#margaret.miller">
         <from>MS. MARGARET MILLER</from>
         <p>I do.</p>
       </speech>
@@ -81,7 +82,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="1">RESOLUTION NO. 1</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move a resolution in the following form:</p>
+        <speech by="#michel.p.samson"><num title="1">RESOLUTION NO. 1</num><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move a resolution in the following form:</p>
 <p>Therefore be it resolved that:</p>
 <p>(a) Pursuant to Rule 60 of the Rules and Forms of Procedure, a Special Committee be appointed whose duty it shall be to prepare and report, with all convenient speed, lists of members to compose the Standing Committees of the House and that:</p>
 <blockquote> (i) the Standing Committees be constituted for the life of this Assembly;</blockquote>
@@ -147,14 +148,14 @@
           <from>MR. SPEAKER</from>
           <p>It says, "The Speaker's personal comments." (Laughter) How much time have you got? (Laughter) I want to &#x2026;</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Can we sit?</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>You may be seated. (Laughter)</p>
 <p>I really do want to extend my thanks, not only to the Premier but to all members of the House of Assembly, and congratulations on getting here today. It shows a true passion for the people of Nova Scotia, so for that I thank you and I'm very much looking forward to a productive session of government over the next three or four years. We'll work together, and we'll keep an air of decorum in here and a spirit of co-operation, with the best interests of the people of Nova Scotia at heart. I thank you for that, and welcome to the House of Assembly. (Applause)</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Thank you, Mr. Speaker. Following this historic election of Speaker and Deputy Speaker, I want to thank all of our colleagues for being here today and for their unanimous support. With that, I move that the House do now rise to meet again at the call of the Speaker.</p>
         </speech>

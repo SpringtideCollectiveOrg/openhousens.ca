@@ -4,51 +4,52 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="bf736a4f-4e18-431a-acf2-10100b3a941a" href="/ontology/person/ca-ns.charlie.parker" showAs="MR. PARKER"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="MR. BELLIVEAU"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. ORRELL"/>
-        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. MACLELLAN"/>
-        <TLCPerson id="5c567fec-a071-45dc-bccd-c81ad2bb492a" href="/ontology/person/ca-ns.ramona.jennex" showAs="MS. JENNEX"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="f2518600-906f-48d6-8287-3ec3d599b72a" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
-        <TLCPerson id="e63ef392-23cc-461a-bb21-5b72f51f8cc2" href="/ontology/person/ca-ns.percy.paris" showAs="MR. PARIS"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. MACMASTER"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. PORTER"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. MACLEOD"/>
-        <TLCPerson id="a841369d-b3a6-4df9-af76-53c4f9eab8cf" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="971fb72d-58d6-4afa-804e-25fe1a021c5c" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. THERIAULT"/>
-        <TLCPerson id="56493acc-adb4-492b-a238-873ebc173cfa" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
-        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. REGAN"/>
+        <TLCPerson id="graham.steele" href="/ontology/person/ca-ns.graham.steele" showAs="HON. GRAHAM STEELE"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. GEOFF MACLELLAN"/>
+        <TLCPerson id="percy.paris" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="charlie.parker" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="ramona.jennex" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="harold.theriault" href="/ontology/person/ca-ns.harold.theriault" showAs="MR. HAROLD THERIAULT"/>
+        <TLCPerson id="pam.birdsall" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
+        <TLCPerson id="gary.ramey" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="leonard.preyra" href="/ontology/person/ca-ns.leonard.preyra" showAs="MR. LEONARD PREYRA"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="ANOTHER HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 3 April 2012</docTitle>
       <docNumber>12-04</docNumber>
       <docDate date="2012-04-03">Tuesday, April 3, 2012</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="4">4th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C89/house_12apr03/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. As it is our tradition on Budget Day, we will commence with the motion for Resolution No. 1, respecting the estimates.</p>
 <p>The honourable Minister of Finance. (Applause)</p></speech>
-      <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a"><from>HON. GRAHAM STEELE</from><p>Mr. Speaker, pursuant to a notice of motion given by me on March 30, 2012, and the Rules and Forms of Procedure of the House of Assembly, I have the honour, by command, to present a message from Her Honour the Lieutenant Governor of the Province of Nova Scotia, relating to the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2013, which is:</p>
+      <speech by="#graham.steele"><from>HON. GRAHAM STEELE</from><p>Mr. Speaker, pursuant to a notice of motion given by me on March 30, 2012, and the Rules and Forms of Procedure of the House of Assembly, I have the honour, by command, to present a message from Her Honour the Lieutenant Governor of the Province of Nova Scotia, relating to the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2013, which is:</p>
 <p>"I hereby transmit Estimates of Sums required for the Public Service of the province, for the year ending March 31, 2013, and in accordance with the Constitution Act, 1867, recommend them together with the Budget Address of my Minister of Finance and any resolutions or bills necessary or advisable to approve the estimates and implement the budget measures to the House of Assembly.</p>
 <p>Signed,</p>
 <p>Mayann Francis</p>
@@ -64,7 +65,7 @@
 <p>(7) move that the Estimates of Sums required for the service of the province for the fiscal year ending March 31, 2013, being supply to be granted to Her Majesty and the Crown Corporation Business Plans to be referred to the Committee of the Whole House on Supply.</p></speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The documents are tabled.</p>
 <p>The honourable Minister of Finance.</p></speech>
-      <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a"><from>MR. STEELE</from><p>Mr. Speaker, I am pleased to introduce Budget 2012 - a budget built on fiscal discipline. A budget that stays the course while protecting health care and education. A budget that supports the game-changing opportunities that lie in front of us after an historic year for Nova Scotia.</p>
+      <speech by="#graham.steele"><from>MR. STEELE</from><p>Mr. Speaker, I am pleased to introduce Budget 2012 - a budget built on fiscal discipline. A budget that stays the course while protecting health care and education. A budget that supports the game-changing opportunities that lie in front of us after an historic year for Nova Scotia.</p>
 <p>Budget 2012 continues us on a smooth path back to balance next year, in 2013, exactly as we said we would when we laid out our plan in 2010.</p>
 <p>This government is sticking to its plan because the plan is working. (Applause)</p>
 <p>Our plan is working for families in need of better care sooner.</p>
@@ -186,7 +187,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable member for Halifax Clayton Park.</p>
       </speech>
-      <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Thank you very much, Mr. Speaker. It is my pleasure to rise today to give a reply to the Budget Address on behalf of the Liberal caucus, as I am the Liberal Finance Critic. Budget Day is always a day of a certain amount of pomp and circumstance, similar to what we saw last week. It's a chance when the government likes to congratulate itself and use a lot of hyperbole and rhetoric to wrap up, I guess, what their plan is for the coming year.</p>
+      <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Thank you very much, Mr. Speaker. It is my pleasure to rise today to give a reply to the Budget Address on behalf of the Liberal caucus, as I am the Liberal Finance Critic. Budget Day is always a day of a certain amount of pomp and circumstance, similar to what we saw last week. It's a chance when the government likes to congratulate itself and use a lot of hyperbole and rhetoric to wrap up, I guess, what their plan is for the coming year.</p>
 <p>We've had a few hours to look at this large stack of books and to read the Budget Address and to try and get a little bit ahead of what has taken the Finance Department many months to prepare. I realize it's a very big job. We certainly thank the Finance staff who do their work and answer our questions in the lock-up as well. I know it's a very big day for them.</p>
 <p>As a member of the Liberal Party and as the Finance Critic, I have to say that we are disappointed with this budget. There is nothing in this budget that will help the majority of Nova Scotians. We looked at this and see that post-secondary students are going to pay higher tuition. We know that their fees are going to go up. We already know that the MOU has cut millions of dollars out of the university budgets.</p>
 <p>There is no help for sky-high gas prices; there's no help for the crushing weight of Nova Scotia Power costs to Nova Scotians; and there's no help for the rising cost of living that is reflected also in the high price of food. So we're looking at this and saying, what is in this budget for the average Nova Scotian? Certainly there's some tinkering with tax credits, and I know that the minister - in speaking around the province to chambers of commerce, and to different business groups - had alluded to an income tax cut that was going to come. He was careful to say it was moderate, but really, I think the speculation was that it would be more than what we've seen today. This is really piecemeal. Even in listening yesterday to some of the speculation - it was that he might touch bracket creep, that this might be the time to reverse that. The minister referenced how that had come into effect under the previous Progressive Conservative Government, but we've done nothing there.</p>
@@ -213,7 +214,7 @@
 <p>Therefore be it resolved that the Minister of Health and Wellness explain how taking treatment money from children and youth mental health programs at the IWK in order to pay for more timely assessments provides better mental health care for the patients.</p>
 <p>It is submitted by the honourable member for Halifax Clayton Park.</p>
 <p>The honourable member for Inverness.</p></speech>
-      <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+      <speech by="#allan.gerard.macmaster">
         <from>MR. ALLAN MACMASTER</from>
         <p>Mr. Speaker, before tabling a petition, may I beg leave to make an introduction?</p>
       </speech>
@@ -221,7 +222,7 @@
         <from>MR. SPEAKER</from>
         <p>Most certainly.</p>
       </speech>
-      <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. MACMASTER</from><p>Mr. Speaker, after a rally organized by people concerned about the proposed elimination of emergency surgery at Inverness Consolidated Memorial Hospital, a young woman approached me because she wanted to start a petition. I was impressed to see such leadership from a young Nova Scotian and the petition that I am about to table was one that she helped to draft, and she and her family were personally responsible for 912 of the 3,257 signatures.</p>
+      <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Mr. Speaker, after a rally organized by people concerned about the proposed elimination of emergency surgery at Inverness Consolidated Memorial Hospital, a young woman approached me because she wanted to start a petition. I was impressed to see such leadership from a young Nova Scotian and the petition that I am about to table was one that she helped to draft, and she and her family were personally responsible for 912 of the 3,257 signatures.</p>
 <p>She has a sister who was born by way of emergency surgery at ICMH and knows all too well how valuable this service is to her community. I would ask 11-year-old Erica Wright to please stand and accept the applause of the Legislature for her initiative. (Applause)</p></speech>
       <speech by="" as="#speaker" status="undefined">
         <from>MR. SPEAKER</from>
@@ -233,7 +234,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Inverness.</p>
         </speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Thank you, Mr. Speaker. I want to, if I may, just throw in that she is joined by her mom, Judy Gillis, and her sister, Kaitlyn, and her brother, Jake. (Applause)</p>
+        <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Thank you, Mr. Speaker. I want to, if I may, just throw in that she is joined by her mom, Judy Gillis, and her sister, Kaitlyn, and her brother, Jake. (Applause)</p>
 <p>Mr. Speaker, I beg leave to table a petition about emergency surgery at ICMH, Inverness hospital. It is addressed to the House of Assembly, the operative clause being:</p>
 <blockquote>"We the undersigned, call upon Premier Darryl [sic] Dexter and the Nova Scotia provincial government to restore emergency surgery at the Inverness Consolidated Memorial Hospital (ICMH)."</blockquote>
 <p>I am tabling it on behalf of 3,257 people who signed this petition, and I will affix my own signature to that, Mr. Speaker.</p></speech>
@@ -248,7 +249,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Finance.</p>
         </speech>
-        <speech by="#f2518600-906f-48d6-8287-3ec3d599b72a">
+        <speech by="#graham.steele">
           <from>HON. GRAHAM STEELE</from>
           <p>Mr. Speaker, I beg leave to table an Order in Council Respecting Additional Appropriations.</p>
         </speech>
@@ -263,7 +264,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Health and Wellness.</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm very pleased to stand before you today, and other members of the Legislature, to reaffirm our government's strong commitment to revamping mental health and addictions services for Nova Scotians, and particularly to correct inaccurate information about recent changes made to youth mental health services by the IWK.</p>
+        <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm very pleased to stand before you today, and other members of the Legislature, to reaffirm our government's strong commitment to revamping mental health and addictions services for Nova Scotians, and particularly to correct inaccurate information about recent changes made to youth mental health services by the IWK.</p>
 <p>Mr. Speaker, before I was elected as a member of this Legislature, most people know that I worked as a social worker in the area of youth mental health. I have seen first-hand the need that exists for young Nova Scotians to be able to get assessments, diagnoses and treatment for mental health in a timely manner.</p>
 <p>Mr. Speaker, I have also seen the negative impact waiting can have on kids and their families. Before I became Minister of Health and Wellness, I was very critical of the unacceptably long wait times that children and families faced when they needed mental health services. It was clear - and it's clear - that the system is not working when more than 900 children are on a waiting list for 18 months or two years without any contact, while only a very small number of the children with the most urgent needs receive medical attention.</p>
 <p>Mr. Speaker, the IWK recognized and agreed that they needed to address and fix this problem. They knew they needed to make changes to assess more children earlier as outpatients and there are excellent results to support this approach. This is why they undertook a process of developing a strategic plan for mental health and addictions. All mental health staff at the IWK provided input based on their clinical experience. The IWK also consulted with patients, their families and health partners across the province. The IWK executive leadership team supported the process and it was carried out by the IWK's Mental Health and Addictions Program.</p>
@@ -280,7 +281,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Kings West.</p>
         </speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I wanted to thank the minister for the advance copy of her statement. However, unfortunately this marks the end of my pleasantries. The minister, in her comments, made a number of statements for which she needs to be challenged. Quite frankly, the minister is looking at this whole issue from the wrong perspective. It is vitally important that supports are in place to address the needs of those on the wait list, first and foremost.</p>
+        <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I wanted to thank the minister for the advance copy of her statement. However, unfortunately this marks the end of my pleasantries. The minister, in her comments, made a number of statements for which she needs to be challenged. Quite frankly, the minister is looking at this whole issue from the wrong perspective. It is vitally important that supports are in place to address the needs of those on the wait list, first and foremost.</p>
 <p>What happens, Mr. Speaker, if the assessment of the 600 on the wait list shows that all 600 would receive the best possible treatment through the ACT program? Yet, in order to pay for the appropriate resources to conduct the assessments, the IWK had to lay off staff in the ACT program. As well, over 5,000 bed-nights are being cut. Any mental health worker in the province will tell you the weekends are, in fact, the most challenging time.</p>
 <p>Perhaps I'm missing something here, but this is looking at the problem from the wrong end. Wouldn't it have been better if we put the assessment piece in place and then determined the future needs of programming? With all due respect to the minister, this boils down to a facility trying to address wait lists with limited resources. The minister can speak all she wants about the fact that budgets weren't cut. However, the only way the IWK could address the wait list challenge - and yes, I admit it's a challenge - was to free up program staff to pay for the assessment.</p>
 <p>With respect to the model changing from 24/7 to 24/5, my question to the minister is, is she confident that there are programs and supports in place for families to transition their children back to their home community? Certainly, we have heard countless concerns about this void throughout the province. Now the minister agrees that it is possible to change the model of the ACT program without assurances that the needs of the child or youth will be met two days of the week back in their home communities. Mark my words, without proper support for families, these children and youth will end up in the ER. I lay the blame squarely at the feet of this minister.</p>
@@ -291,7 +292,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Argyle.</p>
         </speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I first want to thank the minister for providing her statement to our office earlier today. Mental health services for young people in our province is an important subject, there's no doubt about that. As a matter of fact, in the late debate tonight we'll be talking about this very issue once again.</p>
+        <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I first want to thank the minister for providing her statement to our office earlier today. Mental health services for young people in our province is an important subject, there's no doubt about that. As a matter of fact, in the late debate tonight we'll be talking about this very issue once again.</p>
 <p>I can tell you, Mr. Speaker, the minister didn't tell us anything today that we hadn't already heard from her or read from her department. As a matter of fact, that was a very long ministerial statement that really didn't say anything at all. Shorter wait times for children and families in need of mental health services is something we all can agree on - every one of us here in this House of Assembly. But the time for talk is over. It is time for this government to take action.</p>
 <p>Just yesterday my colleague for Hants West introduced a bill that proposed a real plan with real timelines to get our kids the help that they need. We all want the same thing on the subject. I want to take this time to urge the minister to take a serious look at the Fair Treatment of Children bill.</p>
 <p>We can all be proud of the IWK. It's a great facility. It is one that we all believe has the best interests of our children at heart. It's strange that the IWK has developed and is implementing a new strategic plan outside of the mental health and addiction strategy that the minister continues to promise.</p>
@@ -304,15 +305,15 @@
 <p>The honourable Leader of the Official Opposition.</p></speech>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS: IWK YOUTH MENTAL HEALTH WORKERS - CUTS</heading>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>HON. STEPHEN MCNEIL</from>
             <p>Mr. Speaker, the NDP Government is cutting 22 youth mental health workers at the IWK, and at the same time the government is growing administration within the Department of Health and Wellness. My question to the Premier is, how can he justify this?</p>
           </speech>
-          <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
+          <speech by="#darrell.dexter">
             <from>HON. DARRELL DEXTER</from>
             <p>Mr. Speaker, I believe the Leader of the Official Opposition just received a full explanation of the situation at the IWK; in fact, what the government is doing is delivering better service to young people who have mental health problems. That was set out - and I'd just like to correct the last part of his first question which is in fact that the health administration is being cut. We have gone from where we were left by the previous government, which was some of the highest levels of health administration in the country, now to below the national average.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>MR. MCNEIL</from>
             <p>Mr. Speaker, I would suggest that the Premier read the document that was just introduced. Maybe the DHAs are cutting administration, but it's certainly not being cut in the Department of Health and Wellness. If anything, it's increasing. The question was very simple. How can the Premier leave Nova Scotia families, who need their support, on their own while at the same time increasing funding to the Department of Health and Wellness administration?</p>
           </speech>
@@ -320,11 +321,11 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as usual, the Leader of the Official Opposition of course tries to construct a fantasy about what's happening in the department. But I will ask the Minister of Health and Wellness to explain yet again to him.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, I'm very pleased to have an opportunity to tell members of the House that it was this government, this Premier, that combined two health departments into one, that eliminated a deputy minister, that eliminated a political staff to the minister in doing that, and that eliminated other administrative staff. So, quite the contrary to what the Leader of the Official Opposition is saying, it is the exact opposite. We have eliminated administration and we have brought health administration below the national average.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, contrary to what the Minister of Health and Wellness has just stated - there is absolutely no question they combined two departments, but the fact of the matter is with their combined department, administration costs and senior management in the Department of Health and Wellness has gone up under this administration.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, contrary to what the Minister of Health and Wellness has just stated - there is absolutely no question they combined two departments, but the fact of the matter is with their combined department, administration costs and senior management in the Department of Health and Wellness has gone up under this administration.</p>
 <p>This government is more content to spend money on senior management in the Department of Health and Wellness than support family and children at risk in our province. The question to the Premier is, when are you going to support family and children at risk in our communities?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -335,7 +336,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: HST - PRE-ELECTION PROMISES</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>HON. JAMIE BAILLIE</from>
             <p>Mr. Speaker, today we learned that a typical Nova Scotia family will be paying $4,000 more in extra HST as a result of decisions of this Premier and this government. That is a far cry from what they were promised in the last election. It was a cynical promise that the Premier made to the people of Nova Scotia then. It remains a cynical promise to the people of Nova Scotia today. So I would ask the Premier, will he now apologize to the people of Nova Scotia for making and breaking such a cynical pre-election promise on the HST?</p>
           </speech>
@@ -343,11 +344,11 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, the increase in the HST took place as a result of the legacy of the former government. The Progressive Conservative Government left us with a structural deficit of something in the order of $1.4 billion. If there is anyone who ought to be ashamed of their record, they sit on that side of the House and they sit there for a good reason.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, that answer is a sham just like this budget is a sham, just like every budget that that government has brought in is a sham, and it was started on the very first day by a sham. The fact of the matter is that the audited financial statements for the year 2009 contained a surplus, an audited, real, honest-to-God surplus of $19,700,000. I will table for the Premier's proof the message from the minister for that year, the last year before they took office, signed by the current Minister of Finance, by the way, the member for Halifax Fairview. (Applause)</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, that answer is a sham just like this budget is a sham, just like every budget that that government has brought in is a sham, and it was started on the very first day by a sham. The fact of the matter is that the audited financial statements for the year 2009 contained a surplus, an audited, real, honest-to-God surplus of $19,700,000. I will table for the Premier's proof the message from the minister for that year, the last year before they took office, signed by the current Minister of Finance, by the way, the member for Halifax Fairview. (Applause)</p>
 <p>In light of that fact, Mr. Speaker, will the Premier finally admit now, in his fourth budget, it all started with nothing but a sham?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, four of the most noted economists in our region sat down and looked at the position of this province and what it was that we were left with after the election. (Interruptions)</p>
 <p>What conclusion did they come to, Mr. Speaker? What they said was that the former Progressive Conservative Government left this province with a $1.4 billion hole that we had to pay off. (Interruptions) Well, we are finally at a point where we can pay it off and the people of Nova Scotia are going to reap the benefits.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Well, Mr. Speaker, apparently the word of the Auditor General is not good enough for the Premier, just like it wasn't good enough for the member for Halifax Chebucto. But it is the word of the Auditor General, the Auditor General who reports to the people of Nova Scotia. The very people who now pay $4,000 more in each and every family because that Premier broke his promise. The very people who are now $6,000 more in debt because that Premier broke his promise not to run a deficit or drive up our debt.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Well, Mr. Speaker, apparently the word of the Auditor General is not good enough for the Premier, just like it wasn't good enough for the member for Halifax Chebucto. But it is the word of the Auditor General, the Auditor General who reports to the people of Nova Scotia. The very people who now pay $4,000 more in each and every family because that Premier broke his promise. The very people who are now $6,000 more in debt because that Premier broke his promise not to run a deficit or drive up our debt.</p>
 <p>Now, Mr. Speaker, the Premier has the outright gall to make a new cynical pre-election promise about the HST. My question to the Premier is, how can he expect Nova Scotians to believe him now?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, the former government put in place cost increases over the coming years. They put in place a program, they built programming on the basis of revenues from commodities that went through the floor. They left this province in the worst position that it had been in for more than 20 years and that was coupled with, of course, 20 years of some of the worst economic performance in our history.</p>
 <p>Mr. Speaker, we, on this side of the House, have finally been able to pay off the credit card charges that were run up by the Progressive Conservative Government. We've gotten the province back to balance. We are on the precipice of the greatest prosperity that our province has ever known. That's where this government has taken this province.</p></speech>
@@ -358,7 +359,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM. - FIN. MIN.: DEPT. - REDUCE</heading>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>HON. STEPHEN MCNEIL</from>
             <p>Mr. Speaker, for the last three years the Minister of Finance, leading up to his presentation of the budget in this House, has gone around the province asking Nova Scotians to live within their means. At the same time the Department of Finance has grown by over 30 per cent. My question to the Premier, when is he going to ask the Minister of Finance to live within his means?</p>
           </speech>
@@ -366,7 +367,7 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, all of the departments of government live within their means. I'm very proud to say that this year, for the third consecutive year, we have come in under the budget forecast, the first time that that has happened in at least 45 years, something that neither of the other Parties can say they did.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>MR. MCNEIL</from>
             <p>Mr. Speaker, the NDP Government has told school boards that there will be reductions of 3 per cent, they also told school boards across this province they were going to have to absorb the cost of living within sight of their fiscal envelops. Can the Premier explain to Nova Scotians why he's willing to cut classroom teachers and supports to students at the same time he is increasing the staff at the Department of Education?</p>
           </speech>
@@ -374,7 +375,7 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, I don't know what he is referring to but I'm sure it's incorrect as it usually is. What I can say is that we are calling upon all the departments of government, all of the funded organizations that we fund whether they happen to be district health authorities, the school boards, or municipal units, to recognize that because of the expenditures made by the former government, because of the position that they put this province in, it is necessary to exercise restraint to ensure that we can afford to pay for the public services that we require. Thankfully, over the last three years, the Minister of Finance has been able to ensure that we get back to balance and that we are able to properly support our public services.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I think that at the beginning of the Premier's answer he was suggesting we shouldn't believe in the numbers that were put in his document today, but we've been trying to tell Nova Scotians that for the last three years.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, I think that at the beginning of the Premier's answer he was suggesting we shouldn't believe in the numbers that were put in his document today, but we've been trying to tell Nova Scotians that for the last three years.</p>
 <p>Mr. Speaker, the Premier might consider this a game but, in fact, we have the lowest funded education system in the entire country and under this government we've seen cut after cut, year after year. Can the Premier explain why he believes it is more important to invest in senior management in the Department of Education than it is to invest in classroom teachers and supports for students?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -387,7 +388,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: HST PROMISES - TRUSTWORTHINESS</heading>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
+          <speech by="#diana.whalen">
             <from>MS. DIANA WHALEN</from>
             <p>Mr. Speaker, the Premier told the press yesterday that he was planning to slowly reverse his HST hike of 2009. However, people will have to wait until at least 2014 to see any reduction. Given that in 2009 the Premier broke his election promise not to raise taxes if he was elected, how can we trust the Premier in his latest HST promise?</p>
           </speech>
@@ -395,13 +396,13 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, when we set out the path back to balance what we said to the people of Nova Scotia is there was no way that we could have known the mess that was going to be left behind by the former government. What that means is that it is necessary, as the economic panel recommended, to raise revenues, to cut expenses and to grow the economy. We have done all three of those things. What the people of Nova Scotia have seen is a plan that is working and one that will bring us back to balance and allow us to restore the HST to 13 per cent.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Mr. Speaker, the Premier says that he had no way of knowing. However, I take exception to that because our Leader had a way of knowing. We knew; we didn't make election promises. That's absolutely the case. There's a certain element of caution. Once elected, the NDP government hiked the HST, and they hiked 1,400 user fees at the same time. The cost of electricity is soaring, as we know, and food as well. The price of gas has never been as high in recent memory - maybe never.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, the Premier says that he had no way of knowing. However, I take exception to that because our Leader had a way of knowing. We knew; we didn't make election promises. That's absolutely the case. There's a certain element of caution. Once elected, the NDP government hiked the HST, and they hiked 1,400 user fees at the same time. The cost of electricity is soaring, as we know, and food as well. The price of gas has never been as high in recent memory - maybe never.</p>
 <p>Nova Scotians are definitely struggling to make ends meet. There are no measures in today's budget to help Nova Scotians cope with higher living costs. Why is the Premier ignoring these pressing needs?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, I'd like to recommend to the member opposite that she actually read the budget, in which she'll find that we increased the Affordability Tax Credit and increased the Disability Tax Credit. The honourable member might also remember that we took the HST off home heat - something that her Party voted against.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
+          <speech by="#diana.whalen">
             <from>MS. WHALEN</from>
             <p>Mr. Speaker, I think the Premier is missing the point that there are some pressing costs that all Nova Scotians are facing, and that the piecemeal approach in the budget is not hitting Nova Scotia Power. It is not touching gasoline prices. It won't drop the cost of transportation and gasoline. This budget doesn't offer any relief to average Nova Scotians. How can the Premier expect anyone to believe his self-serving current HST promise when this budget so clearly ignores the pressing needs of average Nova Scotians?</p>
           </speech>
@@ -416,22 +417,22 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: EMERG. SURGERY - ELIMINATION</heading>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+          <speech by="#allan.gerard.macmaster">
             <from>MR. ALLAN MACMASTER</from>
             <p>Mr. Speaker, my question is for the Minister of Health and Wellness. Today I tabled a petition with 3,257 signatures, a petition started by 11-year-old Erica Wright, who is with us here today. The Minister of Health and Wellness supported a decision to eliminate emergency surgery at Inverness; 3,257 constituents of mine disagree. How can eliminating emergency surgery mean better care sooner when people in my area are told by the NDP Minister of Health and Wellness that they must travel two or more hours to get it?</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, what occurred in the Inverness hospital was a review of the surgeries that were being done there over an 18-month period. The district health authority found that after hours and on weekends at least 80 per cent of the surgeries could have been scheduled during daytime hours.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, what occurred in the Inverness hospital was a review of the surgeries that were being done there over an 18-month period. The district health authority found that after hours and on weekends at least 80 per cent of the surgeries could have been scheduled during daytime hours.</p>
 <p>The pressure on health care workers to provide 24-hour coverage for surgery was affecting the scheduling of staff in that facility. The district health authority made a decision to have surgery conducted during the day, and if an emergency surgery occurred at night, then that would be dealt with in the regional hospitals.</p>
 <p>Mr. Speaker, as I understand it, the district health authority is now reviewing all of the surgical programs at the Inverness hospital.</p></speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. MACMASTER</from><p>Mr. Speaker, the review came by way of the efforts of the community. This is another example of NDP insensitivity to rural Nova Scotia. The district health authority has recognized that their decision was made too quickly and without consultation. We have seen the Premier travel to Ottawa to ensure that Nova Scotians get a comparable quality of care, as found in other provinces, yet here within Nova Scotia his government supports decisions that leave people who live in rural Nova Scotia behind.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Mr. Speaker, the review came by way of the efforts of the community. This is another example of NDP insensitivity to rural Nova Scotia. The district health authority has recognized that their decision was made too quickly and without consultation. We have seen the Premier travel to Ottawa to ensure that Nova Scotians get a comparable quality of care, as found in other provinces, yet here within Nova Scotia his government supports decisions that leave people who live in rural Nova Scotia behind.</p>
 <p>Mr. Speaker, to the minister, will the minister reassure Erica and our community that their safety is her top priority and promise to restore emergency surgery here today?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, I first want to say that I'm probably as aware of the needs of people in rural Nova Scotia for health care as any member of this House, given that I come from the Strait of Canso, my mother still lives there and my father had a fair amount of excellent care at St. Martha's and in the surrounding area in the past year and a half.</p>
+          <speech by="#maureen.macdonald"><from>MS. MAUREEN MACDONALD</from><p>Mr. Speaker, I first want to say that I'm probably as aware of the needs of people in rural Nova Scotia for health care as any member of this House, given that I come from the Strait of Canso, my mother still lives there and my father had a fair amount of excellent care at St. Martha's and in the surrounding area in the past year and a half.</p>
 <p>I am very committed to high-quality, safe health care in all parts of our province including in Inverness. We will await the outcome of the review, an independent review with respect to surgical services in that particular facility before any final decision will be made.</p></speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+          <speech by="#allan.gerard.macmaster">
             <from>MR. MACMASTER</from>
             <p>Mr. Speaker, we have a good thing going in Inverness. The care has a local flavour and in my mind it is better. I have seen it myself with my family and I even have marks on my own body to prove it. The community has raised $2.3 million to support the recent hospital expansion, a significant amount of money. It is time this government starts treating the Inverness hospital as the asset that it is to our Nova Scotia health system. For the sake of a few thousands dollars and the few nights of the year when the people need it, are not the people of the western side of Cape Breton Island worth it?</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, the honourable member and I do agree that they have an excellent health care facility there in Inverness. That community is fortunate to have such an excellent health care facility and they will continue to have that facility with a very high-functioning emergency department, for example, to deal with emergencies. However, the question of surgery - surgery is not done in every hospital and some types of surgery are only done in certain places, we all know that. People in Nova Scotia routinely travel for surgery that cannot be done in a facility close to where they live because the equipment isn't there, because perhaps the specialists aren't there. As I said, this is complex, we're looking at the review and I will await the outcome of that review before any final decision is made.</p>
           </speech>
@@ -442,21 +443,21 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: ERDT - HFX. SHIPYARD LOANS: FUNDING - SOURCE</heading>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011">
+          <speech by="#geoff.maclellan">
             <from>MR. GEOFF MACLELLAN</from>
             <p>The Halifax Shipyard will get up to $260 million in a forgivable loan for upgrades to handle $25 billion worth of combat vessels. Everyone in this province and everyone in this country knows Irving is the best company to build these vessels, plain and simple. In total, government is delivering $260 million in a forgivable loan to Irving. This is a tremendous amount of public funds to give to a company. My question for the Minister of Economic and Rural Development and Tourism is, from what department is this money coming?</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, it gives me great pleasure to rise on this very important issue and this very important question. The money for the ships will be spread out over the extent of the contract; it will not be a lump sum of money up front. I just want to really emphasize that the money, up to $260 million, is an incentive-based pot of money that will come from Economic and Rural Development and Tourism.</p>
           </speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, since May of last year we've seen the ads and promotions of Ships Start Here. We know it was a good initiative and the Nova Scotia Liberal Party and their Leader have been championing this idea. Other jurisdictions were up front with what incentives they were prepared to offer for the shipbuilding contract, but the government did not tell Nova Scotia taxpayers. Government was asked last year whether or not public funds would be involved and the NDP Government refused to tell us.</p>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, since May of last year we've seen the ads and promotions of Ships Start Here. We know it was a good initiative and the Nova Scotia Liberal Party and their Leader have been championing this idea. Other jurisdictions were up front with what incentives they were prepared to offer for the shipbuilding contract, but the government did not tell Nova Scotia taxpayers. Government was asked last year whether or not public funds would be involved and the NDP Government refused to tell us.</p>
 <p>My question to the Minister of Economic and Rural Development and Tourism is, how long has the NDP Government known this agreement would cost Nova Scotians $260 million?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2"><from>MR. PARIS</from><p>Mr. Speaker, I want to make it clear - this is the most important event certainly in my lifetime. One of the things we did not want to do is jeopardize the risk of not getting the contract. Because there were negotiations going on at a very, very high level, it was important that we keep our cards close to our chests, as well did Irving.</p>
+          <speech by="#percy.paris"><from>MR. PARIS</from><p>Mr. Speaker, I want to make it clear - this is the most important event certainly in my lifetime. One of the things we did not want to do is jeopardize the risk of not getting the contract. Because there were negotiations going on at a very, very high level, it was important that we keep our cards close to our chests, as well did Irving.</p>
 <p>Mr. Speaker, when an agreement was signed, we revealed what the numbers were. The agreement was just signed - I don't think it has been quite a week yet - so we revealed the numbers at an appropriate time and when it was at no risk or at little risk to the Province of Nova Scotia.</p></speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, certainly we all recognize the importance of the ships contract and, in terms of the high level of conversations, I think the taxpayers and Nova Scotians and the Nova Scotia Legislature would probably qualify as being included in the high level of discussions.</p>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, certainly we all recognize the importance of the ships contract and, in terms of the high level of conversations, I think the taxpayers and Nova Scotians and the Nova Scotia Legislature would probably qualify as being included in the high level of discussions.</p>
 <p>We're asking the questions Nova Scotians are asking us, because the NDP Government is out of touch with Nova Scotians, Mr. Speaker. We know that Irving is a first-rate company; we know that it's the best company for the job and that's why it was chosen, but taxpayers deserve to know their contribution up front so they can evaluate the costs and benefits of this massive deal. So my question to the minister is, why didn't the NDP Government tell us a year ago what our provincial contributions from taxpayers' dollars would be?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, I will pass that down to the Premier, at his request.</p>
           </speech>
@@ -469,23 +470,23 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: ENERGY - GREEN ENERGY: COST-BENEFITS - STUDY</heading>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, my question is for the Minister of Energy. Yesterday the Public Utilities Board in Newfoundland and Labrador said it didn't have enough comparative information to approve the Muskrat Falls project, but the government there quickly promised to get all the information by June and open the Legislature for debate - and I'll table a copy of that information. The NDP Government has time and time again rejected doing the hard work to put all the possibilities on the table and to do a proper cost benefit analysis.</p>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, my question is for the Minister of Energy. Yesterday the Public Utilities Board in Newfoundland and Labrador said it didn't have enough comparative information to approve the Muskrat Falls project, but the government there quickly promised to get all the information by June and open the Legislature for debate - and I'll table a copy of that information. The NDP Government has time and time again rejected doing the hard work to put all the possibilities on the table and to do a proper cost benefit analysis.</p>
 <p>Mr. Speaker, my question through you to the Minister of Energy is, will the minister commit to getting all the information about all possible ways to get affordable green energy for Nova Scotians in doing a proper cost benefit study now before we get too far down the wrong path?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a">
+          <speech by="#charlie.parker">
             <from>HON. CHARLIE PARKER</from>
             <p>Mr. Speaker, I thank the honourable member for his question. Certainly, you know, we're in close contact with what's happening in Newfoundland and Labrador. We know that there have been various studies there through Manitoba Hydro and through Nalcor. We're keeping close contact with them and certainly we do know here in our province, we have the Utility and Review Board that will be looking at all those previous studies and will be bringing in their own expertise as required.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>Mr. Speaker, later this year the power company will file an application with the Nova Scotia Utility and Review Board asking all of us to pay $1.2 billion for the subsea cable. Look out, here comes another rate increase for Nova Scotians.</p>
+          <speech by="#chuck.porter"><from>MR. PORTER</from><p>Mr. Speaker, later this year the power company will file an application with the Nova Scotia Utility and Review Board asking all of us to pay $1.2 billion for the subsea cable. Look out, here comes another rate increase for Nova Scotians.</p>
 <p>There's the information on that as well, Mr. Speaker. The minister should be able to tell us now if this is affordable for Nova Scotia families and businesses. My question to the minister is, how much does $1.2 billion equate to an average family's household power bill and what per cent increase will that be?</p></speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a">
+          <speech by="#charlie.parker">
             <from>MR. PARKER</from>
             <p>Mr. Speaker, we do know that this renewable green energy from Newfoundland and Labrador will certainly provide stability in our province. It will provide 35 years of stable rates that we cannot get anywhere else but, really, the cost of it is to be determined by the Utility and Review Board after they have done a very thorough investigation of all the details, all the information, all the expertise that is out there and they will determine exactly what that rate shall be.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c">
+          <speech by="#chuck.porter">
             <from>MR. PORTER</from>
             <p>Mr. Speaker, Emera is incented to big build capital assets because they earn a guaranteed rate on the investment. The Muskrat Falls project is the Cadillac of big, expensive projects. Nova Scotians wouldn't buy a car without knowing how much the bill was going to be, so my question to the minister, whose side is the minister on - the people of Nova Scotia who want a cost-benefit analysis of the Muskrat Falls project or the power company that is trying to keep it quiet?</p>
           </speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a">
+          <speech by="#charlie.parker">
             <from>MR. PARKER</from>
             <p>Mr. Speaker, again this project provides us with reliable power at stable rates for the next 35 years and we cannot get that anywhere else. Our Utility and Review Board has the duty and the obligation to protect Nova Scotians, to make sure the best possible rate is there and in the end we are going to have good, stable, renewable energy for decades to come.</p>
           </speech>
@@ -496,24 +497,24 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: ERDT - IRVING SHIPYARD: PRIVATE CAPITAL - ACCESSIBILITY</heading>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, the Liberal caucus has supported the Irving shipyard from day one and we will continue to do so. They are an excellent example of business success in this province. What is worrying me is that one of the most successful companies in this province could not get a loan from the private sector. They are on the cusp of receiving $25 billion of government money and they could not get private financing, obviously.</p>
+          <speech by="#geoff.maclellan"><from>MR. GEOFF MACLELLAN</from><p>Mr. Speaker, the Liberal caucus has supported the Irving shipyard from day one and we will continue to do so. They are an excellent example of business success in this province. What is worrying me is that one of the most successful companies in this province could not get a loan from the private sector. They are on the cusp of receiving $25 billion of government money and they could not get private financing, obviously.</p>
 <p>Private capital is afraid of Nova Scotia, even in the light of the Irving shipyard contract. My question to the Minister of Rural and Economic Development and Tourism, what does it say about the state of our economy when one of the most successful companies in our province could not access private capital?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, the Irving Company approached the Province of Nova Scotia. They made us aware of this shipbuilding bid. They asked for our assistance. What we did, we weighed the consequences; we looked at this. When we saw what our investment potentially was going to be and the return on that investment, Mr. Speaker - and I'll use the words that I think I've heard a member from one of the Opposition Parties use - that it was a no-brainer for us, for a $2.8 billion return on this investment, it is considered as a good one.</p>
           </speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, we know that the Irving story is an excellent example of success and certainly a reason for optimism. While I support their efforts, I am concerned that the business environment in Nova Scotia is so poor that they could not access private capital.</p>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, we know that the Irving story is an excellent example of success and certainly a reason for optimism. While I support their efforts, I am concerned that the business environment in Nova Scotia is so poor that they could not access private capital.</p>
 <p>The Premier continually tells Nova Scotians that economic prosperity is only a day away but it does not seem that private capital agrees. If the Minister of Community Services wants to talk about Business 101, we can talk about job targets and we can talk about all these things that (Interruption). We're not allowed to ask questions, Mr. Speaker, on behalf of the people of Nova Scotia and the tax dollars that the government uses. Is that where we're at in this House, Mr. Speaker?</p>
 <p>This government had three years to address our lack of economic competitiveness and they continue to insist that we'll wait until tomorrow for things to get better. We're dead last as a province in this country in economic growth, Mr. Speaker. Nova Scotians can't wait. Our businesses can't wait. We cannot afford this government, so my question to the Minister of Economic and Rural Development and Tourism is, why does the government continue to pursue policies that chase private capital away from this province?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, my first answer is that we were last. That's no longer the case. We were last and now, under this government, we've seen the economic fortunes of this province grow. For the first time, this province has a plan, a plan that's working and we are going to stick to it.</p>
           </speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011">
+          <speech by="#geoff.maclellan">
             <from>MR. MACLELLAN</from>
             <p>Mr. Speaker, as long as businesses struggle to access capital, our economy will struggle. As long as businesses struggle to access capital, our government will continue to sign cheques. Our province's economy is struggling and this government keeps making things worse; the worst growth, the very worst growth in the country, yeah, congratulations on your record. Congratulations to you and the minister, you're doing a great job steering our economy. As long as pools of capital for businesses as large and successful as Irving are dried up, businesses of every size need to worry. My question to the Minister of Economic and Rural Development and Tourism is, why is this government dragging its heels and failing to address what is clearly a crisis of capital in Nova Scotia?</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, the member has his history confused. For 20 years, up until the time we came into government, this province was last in the country. Under our regime, this province has turned that ship around, no pun intended.</p>
           </speech>
@@ -524,19 +525,19 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: ERDT - IRVING LOAN: ADVICE - SOURCE</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>HON. JAMIE BAILLIE</from>
             <p>Mr. Speaker, my question is to the Minister of Economic and Rural Development and Tourism. The minister has a number of business advisory boards at his disposal, including the Industrial Expansion Fund Advisory Committee, the new Jobs Fund Board, the Economic Investment Committee and even the Ships Start Here steering committee. I have a very simple question for the minister, which of these august bodies did he consult before committing to lending the Irvings $304 million?</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>HON. PERCY PARIS</from>
             <p>Mr. Speaker, first I will say that the IEF is no longer, so that board is gone. We consult with all of our advisory councils when we move forward on initiatives.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>Mr. Speaker, Nova Scotia has become the banker to the Irvings. Not just any banker, but a very forgiving banker. My question to the minister is, given that he consulted with all these groups, will he commit to releasing all the details, all the discussions, all the paperwork around how the government decided to lend the Irvings $260 million in a forgivable loan? (Interruptions)</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, it's &#x2026;</p>
           </speech>
@@ -544,13 +545,13 @@
             <from>MR. SPEAKER</from>
             <p>Order. Order, please. The honourable Minister of Economic and Rural Development and Tourism.</p>
           </speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Mr. Speaker, I hate to think what it would be like in here if we had lost that contract. Those committees, what they are is - they give advice. They advise myself as minister on transactions that come forward. We value their opinion, their views, that's why they are there. We will continue over the life of this government to make valuable use of those committees and those boards.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, I would like to think that we could live in a province where we win a contract like that on merit and don't need to lend $260 million to the Irvings and then write it off, because we're already a competitive, business-friendly province. That's what all Nova Scotians want.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I would like to think that we could live in a province where we win a contract like that on merit and don't need to lend $260 million to the Irvings and then write it off, because we're already a competitive, business-friendly province. That's what all Nova Scotians want.</p>
 <p>If the minister is so sure, why won't he just say, yes, we will turn over all the documents, so that every Nova Scotian who's being asked to give them $300 million can make the decision for themselves about whether he protected their interest or not?</p></speech>
-          <speech by="#e63ef392-23cc-461a-bb21-5b72f51f8cc2">
+          <speech by="#percy.paris">
             <from>MR. PARIS</from>
             <p>Thank you, Mr. Speaker. We've heard Mr. Irving say, himself, that if it hadn't been for this government they wouldn't have gotten that contract. This is a time when all Parties and all people of the Province of Nova Scotia should be celebrating a win for Nova Scotia.</p>
           </speech>
@@ -561,23 +562,23 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: HEALTH &amp; WELLNESS - IWK: CHILDREN/YOUTH WAIT LISTS - CHANGES</heading>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Thank you, Mr. Speaker. Recently the IWK made changes to the way it manages assessments for children and youth on their wait list. In order to accommodate these changes, the IWK laid off treatment staff and reduced the availability of in-patient beds in the ACT program so that wait times for initial assessments can be reduced up front. Like many Nova Scotian families who have benefited from the ACT program, I understand the need for timely access to treatment. They also very much value the treatment they have received from the program.</p>
+          <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Thank you, Mr. Speaker. Recently the IWK made changes to the way it manages assessments for children and youth on their wait list. In order to accommodate these changes, the IWK laid off treatment staff and reduced the availability of in-patient beds in the ACT program so that wait times for initial assessments can be reduced up front. Like many Nova Scotian families who have benefited from the ACT program, I understand the need for timely access to treatment. They also very much value the treatment they have received from the program.</p>
 <p>Will the Minister of Health and Wellness explain how taking from Peter on the treatment side to pay Paul on the assessment side is providing better mental health care for children and youth in the province?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Thank you very much, Mr. Speaker. I would hope that the honourable member and I could at least agree that the system where only a few children got services while the vast majority of children and youth got nothing in terms of mental health services, represented a system that was broken and that change was necessary. The people who are best able to determine what change is appropriate are the people who are the clinicians, who work in the system, who developed a mental health strategy and plan to turn that around. This is what the IWK is doing. It will result in better care sooner for more children and adolescents, and I fully support that approach.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. GLAVINE</from><p>Mr. Speaker, the minister knows she is defending the indefensible. When you just wipe off 300 names and call 600 others and give them treatment or offer an assessment of treatment sometime in the future, where is it really going? She knows full well that two years of DHA budget cuts, including cuts to the IWK mental health budget, are forcing them to focus on freeing up money for assessments by cutting back on treatment. This minister would have been the first person on her feet fighting the injustice of such short-sighted decisions, yet today she defends the decision. This minister knows full well that the health cut decisions made by the NDP Government are what forced the IWK to make this decision in the first place.</p>
+          <speech by="#leo.glavine"><from>MR. GLAVINE</from><p>Mr. Speaker, the minister knows she is defending the indefensible. When you just wipe off 300 names and call 600 others and give them treatment or offer an assessment of treatment sometime in the future, where is it really going? She knows full well that two years of DHA budget cuts, including cuts to the IWK mental health budget, are forcing them to focus on freeing up money for assessments by cutting back on treatment. This minister would have been the first person on her feet fighting the injustice of such short-sighted decisions, yet today she defends the decision. This minister knows full well that the health cut decisions made by the NDP Government are what forced the IWK to make this decision in the first place.</p>
 <p>Mr. Speaker, given that the minister has had a few days to think about what is happening at the IWK, will she now admit that timely access and proper treatment produce better outcomes for patients?</p></speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MAUREEN MACDONALD</from>
             <p>You know, Mr. Speaker, it's very sad that some people don't want things to improve. They don't want to see changes. They're quite content with the status quo, where only a few people get access to services and the vast majority get nothing whatsoever. But we are making changes in the mental health system. These changes will result in more programs being offered at the community level. This is the right thing to do, and I fully stand behind these changes. These, in fact, are the changes that I have fought for for more than 25 years as a social worker who has worked in mental health.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a">
+          <speech by="#leo.glavine">
             <from>MR. GLAVINE</from>
             <p>Mr. Speaker, it doesn't look like the minister was in too much of a hurry, three years later and finally making a move. If you speed up assessments and don't have appropriate residential or community-based mental health programs to ensure timely access to treatment, you simply move children and youth from one wait list to another. The mental health providers are telling us that right now across this province. The NDP health care cuts are forcing the DHAs, like the IWK, to fund improvements in access by cutting programs that provide treatment and that is wrong. Will the minister admit that when you pay for faster assessments by cutting treatment programs, you are impacting patient care?</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, as I said, these changes will result in better care sooner for a much larger group of children. Additionally, kids who need urgent care will continue to get urgent care, nothing has changed in this regard. The 22 youth care workers who provide custodial care, essentially at nights and on weekends, will still see a complement of 120 youth care workers in that facility providing care. This is a model that will see faster, better results for more families. It is the right thing to do and I still stand fully behind this model.</p>
           </speech>
@@ -588,19 +589,19 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: COM. SERV. - TALBOT HOUSE: CLOSURE - EXPLAIN</heading>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. KELLY REGAN</from>
             <p>Mr. Speaker, for 53 years Talbot House provided residential addiction treatment for men in Cape Breton. Talbot House recently, abruptly closed its doors and left the people of Cape Breton with a whole lot of questions. Will the Minister of Community Services lift the shroud of secrecy and tell the men and their families who rely on these services why the minister closed the doors and removed this vital service from this community?</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180">
+          <speech by="#denise.peterson.rafuse">
             <from>HON. DENISE PETERSON-RAFUSE</from>
             <p>Mr. Speaker, we know that the recovery houses that we have throughout the province are vitally important and we have supported those. In fact, we were not responsible for closing it, so I would think the honourable member should get her information straight. Thank you.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. REGAN</from>
             <p>Mr. Speaker, it is the responsibility of this minister to ensure that her department can properly manage its programs and guarantee a continuity of service. People in Cape Breton are wondering what other local, accessible, comparable programs have been made available to men needing these services?</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180">
+          <speech by="#denise.peterson.rafuse">
             <from>MS. PETERSON-RAFUSE</from>
             <p>Mr. Speaker, I would like to say that every person who was in that recovery house was well taken care of. They have a placement that they are satisfied with and the fact is that is another organization that is run by a board of directors. The board of directors made the decision, not Community Services.</p>
           </speech>
@@ -611,23 +612,23 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: EDUC. - EAST. PASSAGE HS: BOARD - CIRCUMVENTION</heading>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc">
+          <speech by="#eddie.orrell">
             <from>MR. EDDIE ORRELL</from>
             <p>Mr. Speaker, yesterday the people of Eastern Passage learned that this government was making good on an election promise from the member for Cole Harbour-Eastern Passage. The Premier announced $15 million for a high school in Eastern Passage, where the residents do very much want one, which we understand. But this wasn't on the Halifax Regional School Board's election priority list, so it must be on the NDPs re-election priority list. My question to the Minister of Education is, will she please explain today why she chose to circumvent the Halifax Regional School Board's needs-based process in favour of a politically-motivated process?</p>
           </speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>HON. RAMONA JENNEX</from>
             <p>Mr. Speaker, I'm very proud to stand here and answer that. As part of Kids and Learning First, a part of our plan, we were very clear that we were going to increase our skill-trades education in Nova Scotia and we have started that work. We wanted to make sure that we got going as soon as we could to meet the needs of industry and to meet the needs of our students, to give them the opportunities that they need, making sure that we're following our plan, Kids and Learning First.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, in April 2009 the Premier said in a news story that we want to make sure that those are the priorities that the school boards have asked for. Well, times have changed. The government asked school boards to update their capital priority list by April 12<sup>th</sup>. Yesterday, the sneaky NDP came out with a funding announcement they knew would not make the Halifax Regional School Board's list and they are barging ahead with the high school that politics built. We think that's sneaky.</p>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Mr. Speaker, in April 2009 the Premier said in a news story that we want to make sure that those are the priorities that the school boards have asked for. Well, times have changed. The government asked school boards to update their capital priority list by April 12<sup>th</sup>. Yesterday, the sneaky NDP came out with a funding announcement they knew would not make the Halifax Regional School Board's list and they are barging ahead with the high school that politics built. We think that's sneaky.</p>
 <p>My question is, which priority projects on what school board's priority list will be delayed or cancelled because of the new Eastern Passage high school? Will it be Sheet Harbour, Hants County - and who will pay for it?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, we're looking forward to April 20<sup>th</sup> when I receive the priorities of the school boards. Decisions will be made at that time.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc"><from>MR. ORRELL</from><p>Mr. Speaker, the Halifax Regional School Board, like all school boards in the province, has recently gone through the difficult process of making NDP Government-ordered cuts. The Halifax Regional School Board was forced to make $3.2 million in cuts and they were told to reduce building upkeep costs. Now the school board is being saddled with ongoing maintenance costs for a new high school they never asked for, maybe preventing building a school in Sheet Harbour that could consolidate four expensive old buildings into one.</p>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Mr. Speaker, the Halifax Regional School Board, like all school boards in the province, has recently gone through the difficult process of making NDP Government-ordered cuts. The Halifax Regional School Board was forced to make $3.2 million in cuts and they were told to reduce building upkeep costs. Now the school board is being saddled with ongoing maintenance costs for a new high school they never asked for, maybe preventing building a school in Sheet Harbour that could consolidate four expensive old buildings into one.</p>
 <p>Question: since the government did an end run around the Halifax Regional School Board when it comes to capital funding for the new Eastern Passage high school, is the minister also footing the bill for ongoing costs associated with the school?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, I would like to say that it was a wonderful day to stand with the chairman and the superintendent of the Halifax Regional School Board and a number of their board members to celebrate the fact that this government is making sure we're meeting the needs of our students. We said in our Kids and Learning First education plan that we were going to increase skilled trades education in the province. This is an opportunity to have more of our young people engaged in learning about skilled trades and therefore I'm very proud to stand here to say that our government does what it says it's going to do.</p>
           </speech>
@@ -638,32 +639,32 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: YOUTH: EDUC. CUTS - MIN. REVERSE</heading>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, youth in Nova Scotia are getting a raw deal from this NDP Government. Cuts to education have a profound impact on children and youth and their futures in this province. Public education funding has been gutted by this government to the tune of $65 million over the past two years. Prosperity starts in the classroom and this government is turning a blind eye to the impact that education cuts will have on the children and youth in this province and their future.</p>
+          <speech by="#zach.churchill"><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, youth in Nova Scotia are getting a raw deal from this NDP Government. Cuts to education have a profound impact on children and youth and their futures in this province. Public education funding has been gutted by this government to the tune of $65 million over the past two years. Prosperity starts in the classroom and this government is turning a blind eye to the impact that education cuts will have on the children and youth in this province and their future.</p>
 <p>When will the minister responsible for youth actually start advocating for youth and fight to reverse these massive and damaging education cuts?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>HON. RAMONA JENNEX</from>
             <p>Mr. Speaker, there is nothing more important than our children, and this government is supporting the needs of our children. We are making more investments in our children than any other government. We are increasing our per student funding in this budget. I would like to remind the member opposite that under the past government there was a 43 per cent increase in costs. Costs were going up, at the same time our (Applause) and maybe they should cheer, but, unfortunately, the results of our evaluation are showing that our students were not gaining any in their education. Actually, we were losing ground. While those costs were going up, unfortunately our population was going down. This government is supporting the needs of our students, we're investing in our students and making sure they have the programs and the supports they need.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>Mr. Speaker, this government has the nerve to cut $65 million out of our classrooms and say that they're investing in youth in the future of this province. That defies what educators are saying, that defies what parents are saying, that defies what students are saying - and it defies logic.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, this government has the nerve to cut $65 million out of our classrooms and say that they're investing in youth in the future of this province. That defies what educators are saying, that defies what parents are saying, that defies what students are saying - and it defies logic.</p>
 <p>And the same thing is happening with our health care system. This government's health care budget cuts are up to 3 per cent this year. Youth mental health workers are being cut at the IWK. Nova Scotians haven't seen any improvement in wait times and young people are being affected.</p>
 <p>When the Minister of Health and Wellness announced the DHA budget cuts, the Minister of Youth remained silent. Will the Minister of Youth tell the members of this House when she'll actually stand up for youth and fight to reverse these massive and damaging cuts to our medical system?</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, I would ask the Minister of Health and Wellness to respond to a health question. Thank you.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, there have been no cuts to youth and children's mental health services in Nova Scotia at the IWK or anywhere else and let me repeat what I said earlier, that when we gave the DHAs their targets for a 3 per cent reduction, they were told to protect mental health services in all of their districts. In fact, that is what has been done.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>MR. CHURCHILL</from>
             <p>Mr. Speaker, the fact that the Minister of Youth couldn't answer a question about youth speaks to the value this government holds our youth in our province. The Minister of Community Services has decided not to support the 24/7 model for supportive housing in rural Nova Scotia. Without access to supportive housing, homeless youth are left with very limited options. Will the Minister of Youth finally stand up for youth and fight to reverse the Minister of Community Services' decision?</p>
           </speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a">
+          <speech by="#ramona.jennex">
             <from>MS. JENNEX</from>
             <p>Mr. Speaker, I will take the opportunity a little bit later to speak to the member opposite to explain about the Youth Secretariat and what that work does, but at this particular time I would like to ask the Minister of Community Services to answer the question on that particular point.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180">
+          <speech by="#denise.peterson.rafuse">
             <from>HON. DENISE PETERSON-RAFUSE</from>
             <p>Mr. Speaker, the honourable member certainly knows that this minister and this government care about youth and that's why we created a new model, but they don't understand anything new. They want to do everything the old way that doesn't work - a band-aid approach. With youth we're serving, these youth will have the opportunity to receive and have model support services throughout the province. Whether they decide to leave from Yarmouth, they will have that support wherever they go but the Liberals, all they want is in one area, a band-aid approach, and they know that. They better get with the times.</p>
           </speech>
@@ -674,19 +675,19 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - INVERNESS HOSP.: - SCIENTIFIC INFO.</heading>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you will be to the Minister of Fisheries and Aquaculture. In a March 16<sup>th</sup> cbcnews.ca article the Minister of Fisheries and Aquaculture said, "We have no intention of looking seriously at a moratorium at this time or any time in the future &#x2026; I'm encouraged to bring forward some factual information forward to those who have some possible concerns about aquaculture." I'll table that piece of information.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you will be to the Minister of Fisheries and Aquaculture. In a March 16<sup>th</sup> cbcnews.ca article the Minister of Fisheries and Aquaculture said, "We have no intention of looking seriously at a moratorium at this time or any time in the future &#x2026; I'm encouraged to bring forward some factual information forward to those who have some possible concerns about aquaculture." I'll table that piece of information.</p>
 <p>My question to the minister is, where did the minister find the factual information that he wants to share with those of us who have concerns about aquaculture?</p></speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>HON. STERLING BELLIVEAU</from>
             <p>Well, thank you very much and to the member opposite, I really appreciate this question. I think the timing couldn't be better. Just to review, I have a very well-seasoned staff in the Department of Fisheries and Aquaculture that I rely on on a daily basis. We confide in our science base from Fisheries and Oceans in Ottawa, in all the different departments there, so I'm very confident that any information we talk about in aquaculture is up to date. This is something that I think can be done in a sustainable manner and we're there to protect the environment. Thank you very much for the question.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. MACLEOD</from><p>Mr. Speaker, early in March the minister had this to say about the outbreak of a deadly ISA and the destroying of three pens of salmon: "There's no effect on the traditional fishing industry. I can reassure you, based on scientific information, that there's no effect on the lobster industry. Human health is not in question." I will table that as well.</p>
+          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>Mr. Speaker, early in March the minister had this to say about the outbreak of a deadly ISA and the destroying of three pens of salmon: "There's no effect on the traditional fishing industry. I can reassure you, based on scientific information, that there's no effect on the lobster industry. Human health is not in question." I will table that as well.</p>
 <p>Mr. Speaker, my question is, can the minister please produce the scientific information he referred to that shows that ISA has no effect on the traditional fishing industry by the end of the day?</p></speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>MR. BELLIVEAU</from>
             <p>Mr. Speaker, certainly I'll ask my staff to - the information that I rely on is on the Canadian Food Inspection Agency, which is the lead agency on this. I can tell you that we have followed protocol to a T on this issue and I have the greatest confidence that the health of Canadians and Nova Scotians is not at risk. Just as importantly, the traditional fisheries - especially the lobster fisheries in that area - are not at risk. It is with great confidence that I stand here, and I thank you for the question.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Thank you very much, Mr. Speaker. I'm glad he's thankful for the question. I would have been really thankful for an answer. When it comes to aquaculture in this province, this NDP Government is going to blow it if they don't get their act together. Stakeholders have told us that in 2010, in a FOIPOP relating to risks to lobster habitats, the minister's staff admitted that they did not have any scientific data - not one single piece of paper. They said that such data is held by the federal Department of Fisheries and Oceans. They said that it was held by Environment Canada and that the provincial staff had never had an opportunity to view that data.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Thank you very much, Mr. Speaker. I'm glad he's thankful for the question. I would have been really thankful for an answer. When it comes to aquaculture in this province, this NDP Government is going to blow it if they don't get their act together. Stakeholders have told us that in 2010, in a FOIPOP relating to risks to lobster habitats, the minister's staff admitted that they did not have any scientific data - not one single piece of paper. They said that such data is held by the federal Department of Fisheries and Oceans. They said that it was held by Environment Canada and that the provincial staff had never had an opportunity to view that data.</p>
 <p>Well, Mr. Speaker, this minister has just said he has based everything on scientific fact. Will the minister admit today that this decision around aquaculture and its risks to traditional fisheries is not based on science &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. The time allotted for the Oral Question Period has expired.</p>
 <p>The honourable Premier.</p></speech>
@@ -696,7 +697,7 @@
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. I'm just going to let the honourable member know that it is not a point of order. It is a difference between two members.</p>
 <p>The honourable member for Richmond.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, just to help the Premier out on a point of order, I believe it was an increased cost of 30 per cent in administration in the Department of Education that the Premier may want to reflect upon. I'm sure we'll have a chance to discuss it further in the days and weeks ahead.</p>
           </speech>
@@ -712,7 +713,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -723,7 +724,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Bill No. 1.</p>
         </speech>
@@ -733,7 +734,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Communities, Culture and Heritage.</p>
           </speech>
-          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><from>HON. DAVID WILSON</from><p>Mr. Speaker, I now move that Bill No. 1, the Status of the Artist Act, be read a second time.</p>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Mr. Speaker, I now move that Bill No. 1, the Status of the Artist Act, be read a second time.</p>
 <p>Mr. Speaker, the Status of the Artist Bill is a way to properly acknowledge the role of artists in our society and recognize their contribution to the cultural, educational, social, and economic fabric of the province. Developing Nova Scotia's arts and culture sector is a priority for the government. We have listened to their voices and are acting on priorities they have identified to help celebrate, nurture, and grow a healthy and vibrant artistic sector in Nova Scotia.</p>
 <p>Since introducing the five-point plan for arts and culture in February 2011, we have moved forward with its elements, of which this legislation is one. In our continued effort to make life better for families in every region of the province, I am so pleased that we are working with members of the sector to achieve success in our commitment to support Nova Scotia artists on their path to creative excellence.</p>
 <p>A committee of well-respected members of the arts sector helped draft this legislation. Mr. Speaker, I would like to take this opportunity to mention those committee members by name. They are Jim Morrow, artistic director of Mermaid Theatre; Peter Dykhuis, visual artist and curator; Anthony Black, artistic director for 2b Theatre; and Barbra Richman, executive director of Strategic Arts Management.</p>
@@ -747,19 +748,19 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Digby-Annapolis.</p>
           </speech>
-          <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c">
+          <speech by="#harold.theriault">
             <from>MR. HAROLD THERIAULT</from>
             <p>Thank you, Madam Speaker. I'm pleased to stand here today and speak on Bill No. 1, because I believe it's a good bill and I'd like to speak about the artist because I am somewhat of an artist, I guess.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>You've got that right.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>ANOTHER HON. MEMBER</from>
             <p>Tell us more.</p>
           </speech>
-          <speech by="#971fb72d-58d6-4afa-804e-25fe1a021c5c"><from>MR. THERIAULT</from><p>Not a great speaking artist, but I'm an artist somewhat.</p>
+          <speech by="#harold.theriault"><from>MR. THERIAULT</from><p>Not a great speaking artist, but I'm an artist somewhat.</p>
 <p>I'm a boat builder; I can build model boats - and I've done that all my life. I guess I get that from my grandfather; he was a boat builder. He built a boat every year. He built it in the winter and he'd go fish it in the summertime and sell it in the Fall and build another one. He did that all his life, so I'm doing that but it's just models - and if I must say so myself I do a pretty good job. So anyway, I like it; I enjoy that. And I enjoy seeing this bill come along to recognize the artists of Nova Scotia, and what this bill does, I believe, it just recognizes those artists finally.</p>
 <p>Last year we tabled a bill in this House, the Liberal Party did, that would give artists an incentive to come to this province and be in this province, and that was through tax credits to the artists. I'm hoping that the minister will look at this bill that we submitted last year and somehow maybe adopt it into this bill. I mean, when it comes to bringing artists to this province, just recognition may not grow the population of artists, but certainly the almighty dollar will because everything seems to happen around the almighty dollar anywhere in this country, especially in this province, it's all about dollars, we've been hearing about that all day. I hear about it every day. So a tax incentive for artists, I believe, would be a great thing. Maybe the minister could look at adopting that into this bill.</p>
 <p>Like I said, this bill just recognizes - and that's great, I'm glad the artists are recognized. If you like I could show you a few pictures of my boats that I have (Interruptions) Not making any promises, but I can table a boat, maybe I could table a boat, Madam Speaker.</p>
@@ -768,14 +769,14 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Argyle.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Thank you very much, Madam Speaker. I wanted to look quickly at this bill and at exactly what it does and I want to thank the minister for bringing this bill forward, to support the arts and cultural sector recognizing the role of the artist.</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Thank you very much, Madam Speaker. I wanted to look quickly at this bill and at exactly what it does and I want to thank the minister for bringing this bill forward, to support the arts and cultural sector recognizing the role of the artist.</p>
 <p>If we look at exactly the statements that are held herein, there are a lot of motherhood and apple pie statements in here and government's support for the sector. It really doesn't get down to a whole lot of detail on exactly what it's going to do and what it really means to the Government of Nova Scotia, itself, and what the actual responsibility in supporting the artist is going to be. Are there taxation cuts or tax cuts you could be able to glean out of this? Maybe, maybe not. Are there grants or other programming that could come out of this? Maybe, maybe not. I think what this ends up doing is maybe it sets a bit of a foundation for future work and we'll be happy to see other work that might come along from this one.</p>
 <p>So I'm hoping the minister has further detail, further information of how this is truly going to help Nova Scotia's cultural identity and, of course, the artists who are so important to many of us in this province. With that, again, I thank the minister for bringing this forward, but again, the message here is - let's get some more detail on it, let's see what it's actually going to do for artists in Nova Scotia. Thank you, Madam Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Lunenburg.</p>
           </speech>
-          <speech by="#a841369d-b3a6-4df9-af76-53c4f9eab8cf"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to stand in my place today and speak to the legislation, Status of the Artist Act. This is the first piece of legislation being introduced in the Spring Session of the Legislature and as ministerial assistant to Communities, Culture and Heritage, and as a lifelong member of the arts community, I'd like to say how significant this is.</p>
+          <speech by="#pam.birdsall"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to stand in my place today and speak to the legislation, Status of the Artist Act. This is the first piece of legislation being introduced in the Spring Session of the Legislature and as ministerial assistant to Communities, Culture and Heritage, and as a lifelong member of the arts community, I'd like to say how significant this is.</p>
 <p>The arts and culture sector in Nova Scotia has grown significantly over the years because of the tenacity and sheer talent of our people. The calibre of the work in all areas of the cultural field in our province is nationally known and internationally known and this legislation will allow artists to move forward in new ways. Nova Scotia now joins the jurisdictions of Saskatchewan, Qu&#xE9;bec and Ontario in having this kind of legislation. At some point in the future, I hope that all the provinces in Canada will support their creative communities in this way.</p>
 <p>The purpose of the Status of the Artist Bill is to acknowledge the artist's role in building the province's identity and culture and enhance the art that brings the province's social and economic well being. It identifies the terms of a professional artist in our province and also acknowledges the unique conditions that artists work in in our province.</p>
 <p>There is one part of this legislation that I find particularly relevant and that is that every year the creative Nova Scotia Leadership Council and Arts Nova Scotia must make a report and present that to the minister - this will keep this legislation relevant and forward moving, and I think it's something that's very, very important.</p>
@@ -792,7 +793,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Bedford-Birch Cove.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. KELLY REGAN</from><p>Madam Speaker, we know this is a bill that helps our important arts community. Nova Scotia has a wealth of artistic talent in a number of different fields. It's a rich mix of cultures, beliefs and experiences. The arts play a significant role in our provincial economy whether this is through independent artists or big budget films in our movie industry and there has always been a wealth of musical talent. From the early beginnings of Celtic, Acadian and other roots music to the constantly evolving music of today, Nova Scotia continues to celebrate its artists at home and abroad.</p>
+          <speech by="#kelly.regan"><from>MS. KELLY REGAN</from><p>Madam Speaker, we know this is a bill that helps our important arts community. Nova Scotia has a wealth of artistic talent in a number of different fields. It's a rich mix of cultures, beliefs and experiences. The arts play a significant role in our provincial economy whether this is through independent artists or big budget films in our movie industry and there has always been a wealth of musical talent. From the early beginnings of Celtic, Acadian and other roots music to the constantly evolving music of today, Nova Scotia continues to celebrate its artists at home and abroad.</p>
 <p>In fact, Madam Speaker, music is probably one of the most culturally significant aspects of Nova Scotia's history and heritage. In every corner of our province music plays an intricate role in the arts community. Participation in arts and culture has significant positive social and health benefits for individuals and communities and I have to say I grew up playing in bands - I wasn't in a cool band, I was in marching bands and concert bands - but I grew up playing in bands and that may account for my hearing loss today. (Interruption) It wasn't the tuba, no, it was the French horn, but we were loud.</p>
 <p>It was a huge, important part of my growing up and that's why, for example, I think a program like Artists in the Schools, which is delivered in partnership with the Department of Education, is so important. The program helps develop the creative capacity of students in a different part of the arts and we're pleased to see the government finally moving forward with this legislation. It's something the Liberal caucus supports and we've called on the previous Progressive Conservative Government to enact and this NDP Government to move forward with for some time because the arts are so important to Nova Scotians.</p>
 <p>Actors, painters, musicians, sculptors, hundreds of other artists, make up what Nova Scotia is all about and having a healthy arts community works to generate jobs and attracts others to Nova Scotia, boosting our tourism industry. In places like Yarmouth and western Nova Scotia this is particularly important since the NDP Government cut the ferry so abruptly in 2009 and that decision by the NDP Government, without any thought of the devastating consequences it would have on the economy of Nova Scotia, means that fewer tourists are coming to the region to see and hear what our arts community has to offer. Decisions like that by the NDP Government mean we must encourage and foster our homegrown talents even more, making this legislation doubly important.</p>
@@ -802,30 +803,30 @@
 <p>Acadian artists are of equal importance, whether through song or books, or painting, or other genres, we learn about the rich Acadian history of Nova Scotia and how very important it is to our province. That's why we should do everything we can to foster arts in these communities and protect the art, the history and culture they have to offer Nova Scotia. We must protect and cultivate these artistic communities at all costs to ensure future Nova Scotians benefit from them.</p>
 <p>The Nova Scotia College of Art &amp; Design is a critical component to art and artists in Nova Scotia and Atlantic Canada. My Leader, the member for Annapolis, has said he supports an independent NSCAD and considers it an asset to the province. We know how important NSCAD is to Nova Scotia and to Nova Scotian artists of all fields. It's where many artists get their training. But even before people make it to NSCAD, we have children in schools who are learning about art, who are learning about music. I think that this is one aspect of the whole picture that this government has forgotten about: they forgot how artists start. They very often start with a spark that is lit in a school.</p>
 <p>I think about the experience that we had in Bedford-Birch Cove when we learned that we were going to get a new high school. A group tried to put together a fundraising plan. In the end, after about a year, they were finally told by the Department of Education that we only do deals with municipalities. When we went to the municipality, we were told by HRM that they had no mandate to build cultural spaces. They said we didn't need a theatre, that it wasn't a requirement for a high school. In the end, there's no theatre. There's a cafetorium. I have to ask, where do they think artists start?</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Any enhancements?</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. REGAN</from>
             <p>Yes, HRM taxpayers are going to pay for enhancements. It didn't come from this government. It came from taxpayers ponying up extra, through their municipal tax, as the member for Hammonds Plains-Upper Sackville well knows.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. With the indulgence of the member, there has been a request for an introduction.</p>
 <p>The honourable member for Lunenburg West.</p></speech>
-          <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa">
+          <speech by="#gary.ramey">
             <from>MR. GARY RAMEY</from>
             <p>Thank you very much, Madam Speaker. I'd like to call the attention of the House to the Speaker's Gallery. In the Speaker's Gallery is a friend and a close associate of one of the members of the House. It is Gerry Goldsworthy. Gerry is here today observing the proceedings from a couple of different angles, I'm thinking. I saw you over there awhile ago, Gerry. Gerry is the husband of Madam Speaker.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>I certainly welcome all of our guests today in the gallery, and I would remind the member not to speak to the guests. Thank you.</p>
 <p>The honourable member for Bedford-Birch Cove has the floor.</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>So I would just like to leave the members of the government with this thought: if you look at high schools, if you look at the future actors, the set painters, the costumers, the makeup artists, the directors, the singers, the musicians, the stage crew - many people who work professionally in the arts get their start in high school, so I urge you not to forget them when you are building high schools.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>So I would just like to leave the members of the government with this thought: if you look at high schools, if you look at the future actors, the set painters, the costumers, the makeup artists, the directors, the singers, the musicians, the stage crew - many people who work professionally in the arts get their start in high school, so I urge you not to forget them when you are building high schools.</p>
 <p>I also want to point out to the government, what happens to arts programs when you start cutting education? They are often the first to go. Sometimes you don't get art programs. Your music program gets cut, your theatre gets cut, and as we've seen, sometimes you don't get a theatre - you get a cafetorium with enhancements that we're still fighting over because we can't get a budget to find out where the money is actually going.</p>
 <p>With those few words I would like to thank the Minister of Communities, Culture and Heritage for introducing this bill and encourage him. If he would like to incorporate some changes, like the sound tax recording credit or theatres in high schools, we'd be most appreciative. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Truro-Bible Hill.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Thank you, Madam Speaker, and thank you to my colleagues in the House who have expressed their support for the arts and culture of Nova Scotia from all Parties.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Thank you, Madam Speaker, and thank you to my colleagues in the House who have expressed their support for the arts and culture of Nova Scotia from all Parties.</p>
 <p>When our government's Status of the Artist Bill was announced on Friday, March 30<sup>th</sup>, I was in attendance, and a reporter for CBC, the esteemed Jean Laroche posed the question, "Yes but what difference does this make to artist's [sic] lives TODAY?" It's an interesting question, especially coming from someone working for the CBC, Canada's one and only public broadcaster, renowned for bringing the voice and culture of Canadians to Canadians. However, I've now had a chance to ponder his question, and I will endeavour to explain why, as a professional artist myself for 35 years, this legislation is so important to me and to artists around the province and how it lays the groundwork for future changes to our lives and, indeed, sets a wonderful example for other provincial jurisdictions.</p>
 <p>To put this bill in context, allow me take you back a few years in time. "The unwritten history of &#x2026;" the arts is actually "&#x2026; the history of mankind, for in its essentials that set of human actions which the ancient Greeks &#x2026;" first formalized as what we now call theatre, "&#x2026; belongs to no single race, age, or culture. It is, rather, an act of language, one by which the dangerous phenomenal world is safely imitated and celebrated. This act, lying as it does at the very heart of ritual, has been common to &#x2026;" mankind, "&#x2026; albeit in varying degrees - since man &#x2026;" first evolved. "The sorcerer imitating the stag - in a scene painted on a wall of a cave &#x2026;" and the CBC actor imitating Sir Winston Churchill or Colin Thatcher, for instance, "&#x2026; have a common bond in spite of the twenty thousand years of actual time that divide them." Yes, I think I was in that show, the history of Colin Thatcher.</p>
 <p>The history of formulized arts "&#x2026; in Europe begins in Athens more than five and a half centuries before the birth of Christ. There, in a tiny, bowl-like hollow, their backs protected from the cold winds of Mount Parnes and the bright morning sun, Athenians celebrated these rites of the god Dionysus &#x2026;" in music and dance, and that is what eventually evolved into theatre, "&#x2026; one of the greatest cultural accomplishments of the Greeks." Indeed, this new art form "&#x2026; was so intimately associated with Greek civilization that every major town and colony possessed a theater.</p>
@@ -842,11 +843,11 @@
 <p>I was also very pleased to see that there is a mention in there of young people and getting their education in the arts and trying to get that happening here in Nova Scotia so they don't have to leave the province to go elsewhere to get it.</p>
 <p>Finally, I think this legislation will help put into practical use by both the public sector and the government, if they work together in the future, and having status of the artist legislation available will now only be of assistance. This is an incredibly positive and exciting step forward for our province. This is why I moved home to Nova Scotia in 2007, not knowing I was going to go into government but wanting to be of assistance to the young artists of Nova Scotia, to a new generation of artists, to give them hope that staying here in Nova Scotia and creating lives for themselves will actually be beneficial and they have much to look forward to.</p>
 <p>I think this also shows a government that puts its money where its mouth is and actually follows through on its promises. Yes, it is following through on its promises, our Premier's promise to this sector. Being a lifelong professional artist myself, since the age of 16 years and having to leave this province in order to make a living, I am so proud to be able to come back, as a legislator.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>We're glad you're back.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef">
+          <speech by="#lenore.zann">
             <from>MS. ZANN</from>
             <p>Thank you, I'm proud to be back. I'd like to take this opportunity to thank the Department of Communities, Culture and Heritage and its minister, my colleague from Sackville-Cobequid. I would also like to personally thank, on behalf of Nova Scotian artists from coast to coast to coast, to thank our Premier for approval and support for this important legislation because I believe it shows that he is, as I am, a champion of arts and culture in Nova Scotia, as is this NDP Government, and guess what? We're just getting started. Thank you. (Applause)</p>
           </speech>
@@ -854,7 +855,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>Thank you very much, Madam Speaker. I was very pleased to rise today on Bill No. 1, the Status of the Artist Act. It was certainly a pleasure to listen to my colleague across the way, the member for Truro-Bible Hill. She certainly is an artist in her own right and a very well-spoken thespian as well, so we learned a little bit in that presentation.</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>Thank you very much, Madam Speaker. I was very pleased to rise today on Bill No. 1, the Status of the Artist Act. It was certainly a pleasure to listen to my colleague across the way, the member for Truro-Bible Hill. She certainly is an artist in her own right and a very well-spoken thespian as well, so we learned a little bit in that presentation.</p>
 <p>Madam Speaker, this bill actually is of particular interest to me because I have looked at policies and platforms in different provinces in Canada during elections and it occasionally comes up. I know the Liberal Party in Alberta had proposed it - not in this current election but in the previous election and it may be in again. This is something that I think progressive Parties and progressive people think is important, to recognize and support artists in our society. I think Nova Scotia is really almost preeminent in this fashion.</p>
 <p>We have wonderful areas, almost artists' colonies, of visual artists, painters, craftsmen, tremendous musicians of many different types of music that are represented. I think for a province of our size and with our small population, we have a lot of people who are making their living in the arts and a lot of communities that rely on that in the summer months. I'm thinking particularly of the different theatre festivals and attractions that bring tourists to various parts of the province. I'm thinking particularly of Parrsboro, where I spend time in the summer. They have the Ship's Company Theatre, which has shows in June, July, August and maybe even into September. It is a wonderful draw for people from the city to go to a smaller town and to experience original and live theatre. I think that is something that we do need to really celebrate and I think that at least recognizing artists and their role is very important.</p>
 <p>That's what is in this bill. I was just going through it and trying to identify what the various sections are. It's only a three page bill and a lot of it goes to the definitions of who is who in the bill, but it does commit government to being aware of the artists in various roles that they play and to actually engage them, whenever the government is engaging artists, to make sure that they honour different pay scales and conditions that are set out by the various professions that are represented. It sort of formalizes what we've probably been doing in that regard anyway, which is being respectful of their various unions and organizations.</p>
@@ -882,7 +883,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Citadel-Sable Island.</p>
           </speech>
-          <speech by="#56493acc-adb4-492b-a238-873ebc173cfa"><from>MR. LEONARD PREYRA</from><p>Thank you very much, Mr. Speaker. It's a pleasure to get up here and speak for a few minutes on this bill. I want to thank the minister in particular for bringing this bill forward. It has been a long time in coming and I know that artists have been waiting for this bill. I am delighted to be part of a government that has, in fact, delivered on this commitment to artists.</p>
+          <speech by="#leonard.preyra"><from>MR. LEONARD PREYRA</from><p>Thank you very much, Mr. Speaker. It's a pleasure to get up here and speak for a few minutes on this bill. I want to thank the minister in particular for bringing this bill forward. It has been a long time in coming and I know that artists have been waiting for this bill. I am delighted to be part of a government that has, in fact, delivered on this commitment to artists.</p>
 <p>I want to support, and I support this bill wholeheartedly, for five different reasons and I'd like to put them on the table, just in case I run out of time. One is that it's an important part of a commitment that was made by this Party and this government in the 2009 election and before. We said we would do this and we are doing it. It's part of a broad-based consultation with artists, we are doing it as part of a broad-based consultation. (Interruption)</p>
 <p>Mr. Speaker, I hear the members opposite talking about consultation. It was something they did not do when they eliminated the Arts Council. It was what we're doing. The status of artist legislation is based on consultation. It was also something done on listening - apparently the members opposite are not used to that either - but consultation and listening are part of that and this government is consulting and it was listening when it introduced this legislation.</p>
 <p>This legislation recognizes the value of the creative community. It recognizes the value of the creative economy to the Nova Scotia economy. What we're doing is we are underlining that with this legislation. Unlike previous governments, this legislation and this government are making very specific commitments to the artistic community and making very specific commitments to developing the creative economy here in Nova Scotia.</p>
@@ -899,13 +900,13 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Fisheries and Aquaculture.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>HON. STERLING BELLIVEAU</from>
             <p>Mr. Speaker, in Question Period today the member for Cape Breton West requested information on infectious salmon anemia to be tabled by the end of the day. I want to thank my staff for the speedy work here. I wish to table that document on ISA - a fact sheet - and thank you for the question.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d">
+          <speech by="#david.allan.wilson">
             <from>HON. DAVID WILSON</from>
             <p>Mr. Speaker, I thank all my colleagues for having their input on this piece of legislation. We're glad to see this legislation go through the process, so it's a pleasure to close debate on Bill No. 1.</p>
           </speech>
@@ -913,7 +914,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, that concludes the government's business for today. I now hand it over to the Official Opposition House Leader for business for Opposition Day.</p>
           </speech>
@@ -921,7 +922,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Official Opposition House Leader.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, the hours tomorrow will be from 2:00 p.m. until 6:00 p.m. Following the daily routine and Question Period, we will go into debate on Bill No. 3, Sales Tax Act, and Resolution No. 12, NDP: Cost Pressures - Address. Following that the House will rise at 6:00 p.m.</p>
           </speech>
@@ -942,7 +943,7 @@
         </speech>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS: IWK YOUTH MENTAL HEALTH - FUNDING</heading>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm very pleased to rise in my place today and speak about this very important topic. We know that there are many young people in our province who have mental health issues, in fact many of them appearing very early in their lives. This year alone, since the school year started, I've heard from three elementary principals requesting information on what programs could be available to help their staff help their students deal with some of the anxieties and stresses that students were exhibiting in the classrooms. It's starting very, very young and we know now from the research that about 70 per cent of many of the psychoses, the mental health issues that people have throughout their lifetime, we know that many can be treated. However, from time to time we know people with schizophrenia, bipolar, multiple personalities and so forth, will have flare ups and these will become problematic.</p>
+          <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I'm very pleased to rise in my place today and speak about this very important topic. We know that there are many young people in our province who have mental health issues, in fact many of them appearing very early in their lives. This year alone, since the school year started, I've heard from three elementary principals requesting information on what programs could be available to help their staff help their students deal with some of the anxieties and stresses that students were exhibiting in the classrooms. It's starting very, very young and we know now from the research that about 70 per cent of many of the psychoses, the mental health issues that people have throughout their lifetime, we know that many can be treated. However, from time to time we know people with schizophrenia, bipolar, multiple personalities and so forth, will have flare ups and these will become problematic.</p>
 <p>The research shows that if young people are diagnosed, are assessed, and have treatment early in life, the chances of very good lifetime outcomes are well established and well known. This is why, when we are taking from a good program that exists at the IWK, it has become very much the topic on the minds of many Nova Scotians. I was amazed in my community, and also as the Health Critic for the Liberal Party, that I'm hearing from people across the province about this issue.</p>
 <p>We all know that change must take place and periodically new models and new approaches are brought forward and can be very beneficial, in this case, to young Nova Scotians that need mental health assessment and treatment. However, it's a case of we should not throw out the baby with the bath water. If we have a program that's working, we keep that while building other capacities.</p>
 <p>Over the past week I've had an opportunity to speak with mental health providers in three DHAs across the province. Unequivocally, the answer is, we do not have enough resources right now. People can get assessed but we cannot provide the timely treatment, the multiple times they may need to visit a psychologist, a psychiatrist. This is what we're hearing. It's just a fact that is facing our province and many others with having highly qualified personnel. I think this is a case of where they should have slowed down, taken a look at the resources that we needed, keep in place what we have and build on that.</p>
@@ -959,7 +960,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Health and Wellness.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Thank you very much, Mr. Speaker. I want to start first of all by saying that I started my work in life as a youth care worker, I know very clearly what was involved in that work, and I have the utmost respect for people who do that work. When I did that work I was 100 per cent - more than 100 per cent - devoted to the kids in my care. I know that the people who do this work feel passionately about what it is they are doing and they do a very good job. This isn't about youth care workers and whether or not they do a good job, it's not about whether or not they care about the work - they do. I accept that; I know they do a good job and I know they care about the work they do.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Thank you very much, Mr. Speaker. I want to start first of all by saying that I started my work in life as a youth care worker, I know very clearly what was involved in that work, and I have the utmost respect for people who do that work. When I did that work I was 100 per cent - more than 100 per cent - devoted to the kids in my care. I know that the people who do this work feel passionately about what it is they are doing and they do a very good job. This isn't about youth care workers and whether or not they do a good job, it's not about whether or not they care about the work - they do. I accept that; I know they do a good job and I know they care about the work they do.</p>
 <p>Mr. Speaker, what this is about is kids. It's about all of those families with children who get no services, who languish on a wait list for days, weeks, months and, in some cases, years, where the only way they can get access is if their condition deteriorates to the point that they become urgent in what's required for them - then they get into the system. This is profoundly a demonstration of a system that is broken, that requires change, and I recognize that change can be very difficult. This is probably the best example that I've seen of where it is that you do the right thing to make the right changes and you have to be prepared for one heck of a battle to do it. (Applause)</p>
 <p>Mr. Speaker, I want to be clear that if that's what it requires to make this change, a bit of a battle, then I'm up for that because kids and their families deserve better than what they've gotten, and we are going to give them a better system. They are going to get earlier assessment, and earlier assessment means that they are going to have earlier access to treatment with better outcomes. The research is clear on this, there are other programs in this country that are doing precisely what we're doing. I trust the judgment and the expertise of the people who work in the field at the IWK, who have designed this shift in the model, and I will support them not only in terms of standing up and publicly explaining what they are doing and why, but we will support them with resources as we go forward.</p>
 <p>Mr. Speaker, I hear on a regular basis from families with kids that need services. The ACT program and the Compass Program have provided excellent services to the families who were able to get in that program, but I can tell you that many, many families have not been able to get access. The model was not an accessible model, it provided services to a very small number of people who needed them - and we're changing that. We are going to see more families and more children around the province having access to service, earlier interventions, and better outcomes.</p>
@@ -975,11 +976,11 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Argyle.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, first of all I want to do a quick introduction of somebody who's sitting in the west gallery. He's been there for a little bit. I wanted to say hi to Nick Gear. He's from Lunenburg County, and he's been here observing everything today. I'm happy to have him here and I want him to receive the warm welcome of the House of Assembly. (Applause)</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, first of all I want to do a quick introduction of somebody who's sitting in the west gallery. He's been there for a little bit. I wanted to say hi to Nick Gear. He's from Lunenburg County, and he's been here observing everything today. I'm happy to have him here and I want him to receive the warm welcome of the House of Assembly. (Applause)</p>
 <p>Also, in the east gallery we have a number of people from the IWK - from the Compass program, from the ACT program, from 4 South, and all those programs - who have found out that they no longer have a job. They are here checking out the proceedings here, to listen to what the minister had to say, and to chat to the Opposition Parties to get their issues forward. I want to thank them for being here tonight and I want them to receive the warm welcome of the House as well. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this evening's proceedings.</p>
 <p>The honourable member for Argyle.</p></speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, it's an interesting topic that we find ourselves in here, and I thought I would try to find a way to maybe bring down what the minister tried to say here today. I thank the minister for bringing this information forward, because we've been talking for a long time about mental health services in this province. Our roles were reversed for a few years and now they're back in this respect, and what I'm seeing is, I know her intentions are there, she's got the information going forward, she started some of the changes, but we're finding that maybe some of the explanation is not there, maybe the implementation of that isn't going quite as easily as she would hope.</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, it's an interesting topic that we find ourselves in here, and I thought I would try to find a way to maybe bring down what the minister tried to say here today. I thank the minister for bringing this information forward, because we've been talking for a long time about mental health services in this province. Our roles were reversed for a few years and now they're back in this respect, and what I'm seeing is, I know her intentions are there, she's got the information going forward, she started some of the changes, but we're finding that maybe some of the explanation is not there, maybe the implementation of that isn't going quite as easily as she would hope.</p>
 <p>I understand the issue of change. I understand the issue of (Interruption) I'm trying to be nice to her, Mr. Speaker. I'm trying to bring her - if she can't take something when I'm speaking well of her, constructive on some ideas - again I'll say, I thank her for bringing this information forward. I thank her for doing the work and trying to bring to fruition the things she talked about when she sat here in Opposition.</p>
 <p>But we are three years in. We are three years that - we're starting to see some change, and that change right now is coming with a fight that she says she's willing to stand and fight. Why is this a fight to begin with? Why isn't this a collaborative approach that came from - my goodness, looking at the Throne Speech, there were a whole bunch of strategies, 17 of them, of ways to work with people, and then what we find is that they really didn't ask the people who are visiting us here today. They didn't ask the youth and child workers who are here today how to better accomplish their job, how to better serve Nova Scotian children and adolescents who are finding problems and issues - maybe with programming that's not happening in their areas, and having to move here to Halifax in order to get that.</p>
 <p>One of the statements that she made during the ministerial statement that we had earlier today - I thank her for the list of care services under the IWK Mental Health and Addictions Program. We do understand that there are a lot of programs out there. They do lots of great things. Maybe there aren't enough to address all the issues that we have in Nova Scotia, but one of the issues that really caught my attention, and I think caught the attention of the workers who are here today, is that she sort of called the youth care workers "custodial" in how they do their work. There was a "custodial" comment there that I'm sure we'll be able to grab from Hansard and be able to talk about it. Furthest from the truth, or furthest from the job description of these individual, is the issue of custodial care.</p>
@@ -1000,7 +1001,7 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="65">RESOLUTION NO. 65</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="65">RESOLUTION NO. 65</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas volunteers can be seen as a source of fresh ideas and energy and their efforts can expand an organization's capacity; and</p>
 <p>Whereas Lorraine McQueen of Hantsport has volunteered for numerous associations at the provincial and federal levels, and since her retirement at Acadia University in 2001, Lorraine has worked diligently in the Town of Hantsport to create the Hantsport Carefree Community Chorus and to take a leadership role in the creation of the Friends of the Hantsport Public Library, while now serving as chair of this dynamic group; and</p>
 <p>Whereas Lorraine is always prepared to assist in whatever way she can, whether it be through organizational advice, bylaw revision, or letter writing;</p>

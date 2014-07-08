@@ -4,13 +4,13 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="MR. CORBETT"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -19,9 +19,10 @@
       <docTitle>Debates, 19 April 2013</docTitle>
       <docNumber>13-17</docNumber>
       <docDate date="2013-04-19">Friday, April 19, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13apr19/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -34,7 +35,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Premier.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you permit me to do an introduction before I introduce the bill, please?</p>
         </speech>
@@ -42,7 +43,7 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>MR. CORBETT</from>
           <p>Thank you, I do this with a great deal of pride. Mr. Speaker, you as the son of a steelworker, myself as a son of a coal miner, and to all of us who have loved ones who worked in industry across this great province of ours, today we have a group who were known mostly as the "disenfranchised widows." When I call them by name, if they would stand I would appreciate it, and after their names maybe they will receive the warm greeting of the House: Betty Bauman; Carmelita MacIsaac, and Carmelita, as many of you may know, has a son named Ashley; Deborah MacDonald; Rose Connolly; Beverly MacLean; Diane Laird; and Velma Redden. These are some of the disenfranchised widows. (Applause)</p>
         </speech>
@@ -66,7 +67,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Halifax Clayton Park.</p>
         </speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="470">RESOLUTION NO. 470</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="470">RESOLUTION NO. 470</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas this Sunday, April 21, 2013, the Canadian Lebanon Society of Halifax will gather to celebrate the 13<sup>th</sup> Annual Day of the Lebanese Emigrant; and</p>
 <p>Whereas this event will be especially momentous, as the Canadian Lebanon Society of Halifax will also be celebrating 75 years of representing the Lebanese community in HRM: and</p>
 <p>Whereas Lebanese emigrants have a long history of enriching the economic, cultural, and social fabric of Halifax, and indeed our province, dating back to the 1880s;</p>
@@ -78,7 +79,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="471">RESOLUTION NO. 471</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, on behalf of the Leader of the Progressive Conservative Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="471">RESOLUTION NO. 471</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, on behalf of the Leader of the Progressive Conservative Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Deborah Anne Benedict, a local Port Williams resident, contributed to her community through her membership and participation in the Port Williams Baptist Church, Port Williams Women's Institute, the Adopt-a-Highway Program, the village's Christmas Tree Lighting, Remembrance Day, and Apple Blossom Princess programs, as well as serving on the Annapolis Valley Chamber of Commerce Board; and</p>
 <p>Whereas she and her husband owned and operated LRB Fabricators; and</p>
 <p>Whereas volunteerism and small business are the heart of rural Nova Scotia;</p>
@@ -90,7 +91,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="472">RESOLUTION NO. 472</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="472">RESOLUTION NO. 472</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the year 2013 marks the 65<sup>th</sup> Anniversary of the State of Israel's independence, with Monday, April 15<sup>th</sup> marking Israel's Independence Day; and</p>
 <p>Whereas for 65 years Israel has survived in the face of threats to its very existence, and succeeded against all odds; and</p>
 <p>Whereas today, 65 years later, Israel consists of thriving cities, has embarked on and embraced innovation, built a dynamic economy, advanced the rights of its citizens, and has led the way in science, technology, medicine, and the arts;</p>
@@ -102,7 +103,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="473">RESOLUTION NO. 473</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="473">RESOLUTION NO. 473</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Clean Nova Scotia is a not-for-profit organization founded in 1988, which collaborates with individuals, government business, and communities to help protect and improve the environment; and</p>
 <p>Whereas the Clean Across Nova Scotia event is a community-led cleanup that takes place province-wide over two days, beginning today, that last year saw nearly 8,000 Nova Scotians take part; and</p>
 <p>Whereas over 110 teams have registered, including the Memorial Dirt Devils from Sydney Mines, Cape Breton, the "Lean Mean Cleaning Machine" from Annapolis Royal, and the Main Street Business Association led by mascot Main Street Mikey;</p>
@@ -114,7 +115,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="474">RESOLUTION NO. 474</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="474">RESOLUTION NO. 474</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Keith Thompson owned his own employment placement business, Thompson and Associates, and then developed ISSIMA Executive Coaching, where his gifts as a mentor gave encouragement to many; and</p>
 <p>Whereas Keith was a beloved member of the Bedford United Church family, serving as an elder, and was chair of church council for several years as well as a member of the musical group Spirit Rising, where his considerable talents as a singer and instrumentalist were on display; and</p>
 <p>Whereas Keith also served his community in many ways including the IWK Board of Directors, Kiwanis, Cafe 12, and HeartWood Centre for Community Youth Development;</p>
@@ -132,7 +133,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -143,7 +144,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -170,7 +171,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hour of 4:00 p.m. to 10:00 p.m. on Monday.</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hour of 4:00 p.m. to 10:00 p.m. on Monday.</p>
 <p>After the daily routine, we will be doing Committee of the Whole House on Supply and then time permitting, we may attempt some bills, which would be Public Bills for Second Reading, Bill Nos. 36, 37, 42, 51 and 54.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House now rise to meet again on Monday, April 22<sup>nd</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>

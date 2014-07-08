@@ -4,13 +4,13 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="23484f25-d8f5-4e64-8e5f-4bd7e91f5410" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="358dbc8a-a052-4a0f-96df-1adea9a5bbdd" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. WHYNOTT"/>
-        <TLCPerson id="5ea124ec-7407-44b5-a8f7-f62183d1968f" href="/ontology/person/ca-ns.sidney.prest" showAs="MR. PREST"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="MR. MCNEIL"/>
+        <TLCPerson id="ross.landry" href="/ontology/person/ca-ns.ross.landry" showAs="HON. ROSS LANDRY"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="sidney.prest" href="/ontology/person/ca-ns.sidney.prest" showAs="MR. SIDNEY PREST"/>
+        <TLCPerson id="mat.whynott" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
       </references>
     </meta>
@@ -18,35 +18,36 @@
       <docTitle>Debates, 26 March 2013</docTitle>
       <docNumber>13-01</docNumber>
       <docDate date="2013-03-26">Tuesday, March 26, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13mar26b/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
 <p>The honourable Minister of Justice.</p></speech>
-      <speech by="#23484f25-d8f5-4e64-8e5f-4bd7e91f5410">
+      <speech by="#ross.landry">
         <from>HON. ROSS LANDRY</from>
         <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
       </speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
 <p>I wish to advise the House that His Honour the Lieutenant Governor has been pleased to make a Speech to the members met in General Assembly, of which Speech, for greater accuracy, I have obtained a copy which I would now ask the Clerk to read.</p>
 <p>The honourable Premier.</p></speech>
-      <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e">
+      <speech by="#darrell.dexter">
         <from>HON. DARRELL DEXTER</from>
         <p>I move that the Speech be taken as read.</p>
       </speech>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed that the Speech be taken as read?</p>
 <p>It is agreed.</p>
 <p>The honourable member for Eastern Shore.</p></speech>
-      <speech by="#5ea124ec-7407-44b5-a8f7-f62183d1968f"><from>MR. SIDNEY PREST</from><p>Mr. Speaker, it is an honour to be here today to rise in my place in the Fifth Session of the 61<sup>st</sup> General Assembly of the Nova Scotia Legislature to move the Address in Reply to the Speech from the Throne given by His Honour Brigadier- General, the Honourable J.J. Grant.</p>
+      <speech by="#sidney.prest"><from>MR. SIDNEY PREST</from><p>Mr. Speaker, it is an honour to be here today to rise in my place in the Fifth Session of the 61<sup>st</sup> General Assembly of the Nova Scotia Legislature to move the Address in Reply to the Speech from the Throne given by His Honour Brigadier- General, the Honourable J.J. Grant.</p>
 <p>I would like to begin by thanking His Honour for the words of his first Speech from the Throne. You have delivered a superb speech, and I know the people of Nova Scotia would be proud of the work you do across our province in representing Her Majesty The Queen. I am sure I speak for all of my colleagues when I extend this thank you and a warm welcome to the House of Assembly today for your first Speech.</p>
 <p>Mr. Speaker, may I make an introduction before I get started?</p></speech>
       <speech by="" as="#speaker" status="undefined">
         <from>MR. SPEAKER</from>
         <p>Most certainly.</p>
       </speech>
-      <speech by="#5ea124ec-7407-44b5-a8f7-f62183d1968f">
+      <speech by="#sidney.prest">
         <from>MR. PREST</from>
         <p>In the east gallery, my lovely wife, Nancy. Could you stand please? (Applause) Also my dedicated CA and savior, Denise. (Applause)</p>
       </speech>
@@ -54,7 +55,7 @@
         <from>MR. SPEAKER</from>
         <p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
       </speech>
-      <speech by="#5ea124ec-7407-44b5-a8f7-f62183d1968f"><from>MR. PREST</from><p>Mr. Speaker, this Speech from the Throne talks about turning a corner - from decline to progress; from the old ways to the new ways. It talks about change in direction and moving towards a better future for all Nova Scotia families. The Speech builds on what government has been committed to, and focused on, since we formed government in 2009. We wouldn't have been able to turn the corner without the support of many Nova Scotians, so when we reflect on leadership and the progress that we have made, it is a reflection of what the citizens have asked us for and told us they need. We are leading Nova Scotians towards a brighter future, and it's just around the corner.</p>
+      <speech by="#sidney.prest"><from>MR. PREST</from><p>Mr. Speaker, this Speech from the Throne talks about turning a corner - from decline to progress; from the old ways to the new ways. It talks about change in direction and moving towards a better future for all Nova Scotia families. The Speech builds on what government has been committed to, and focused on, since we formed government in 2009. We wouldn't have been able to turn the corner without the support of many Nova Scotians, so when we reflect on leadership and the progress that we have made, it is a reflection of what the citizens have asked us for and told us they need. We are leading Nova Scotians towards a brighter future, and it's just around the corner.</p>
 <p>I want to speak about leadership, not just here in the House of Assembly but in all parts of our life. I believe it takes more than just guiding or directing a group to demonstrate leadership.</p>
 <p>Leadership is more than just being a spokesperson. Leadership involves making tough decisions, having big ambitions, and accepting challenges gracefully. These traits of leadership are evident here today in this House of Assembly. Over the past four years, our government has demonstrated genuine leadership as we have faced many tough decisions, and we have been working to ensure we make the right choices for today's families. That is why, when we were elected, we made the decision to invest in families, jobs, skills training, schools, hospitals, care for seniors, and our natural resources. The decision to enter into an agreement to acquire hydroelectricity from the Muskrat Falls project was one of the most historic decisions in this province. The leadership that was demonstrated by so many of my colleagues on this project really shows Nova Scotians just how committed to the future of our province I am, and how committed our government is.</p>
 <p>All Nova Scotians have ambitions, Mr. Speaker. We are born with them, and all across our province we see each and every day - we have for generations. I have many ambitions. Some of them are personal, like growing older with my wife, Nancy, and spending time with my children and grandchildren and teaching them about forestry practices in Nova Scotia.</p>
@@ -77,7 +78,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable member for Hammonds Plains-Upper Sackville.</p>
       </speech>
-      <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd"><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, it is certainly an honour again to rise in my place to speak on the Speech from the Throne that was read today by His Honour, Brigadier-General The Honourable J. J. Grant, Lieutenant Governor of Nova Scotia. I move to second the Speech from the Throne.</p>
+      <speech by="#mat.whynott"><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, it is certainly an honour again to rise in my place to speak on the Speech from the Throne that was read today by His Honour, Brigadier-General The Honourable J. J. Grant, Lieutenant Governor of Nova Scotia. I move to second the Speech from the Throne.</p>
 <p>First of all, one of the things that I want to recognize in the Speech from the Throne is the individuals who were mentioned who have passed away - prominent Nova Scotians who have passed away over this past year - recognizing them and their contributions to our province, and building our province the way it is today because of those people - not only the people who were recognized in the Speech from the Throne, but those people who have built our communities right from Yarmouth to Sydney, and every community in between. Those people have really built the foundation of what our communities are today, so I want to recognize those people as well, because they have played such an important role in building our province as we know it today.</p>
 <p>Mr. Speaker, I know that earlier there were some HRM councillors who were here in the gallery. In particular, one who I did want to recognize is Matt Whitman, who is the councillor for Hammonds Plains - newly elected after the election in the Fall. He was elected in the 2012 Fall election for the municipal council. Working with him has been an honour so far, and whenever the next election may be, I look forward to working with him into the future.</p>
 <p>I want to talk a little bit about the reason why I got involved in politics. I'm not necessarily one of the more, let's say, mature members of the House as far as age goes, and so I want to take a step back and the reason why I got involved in our Party, in the NDP, and why I am a New Democrat.</p>
@@ -105,13 +106,13 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Leader of the Opposition.</p>
       </speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I'm pleased to rise and say a few remarks today about the Speech from the Throne. First of all I want to acknowledge the Lieutenant Governor for the work that he is doing on behalf of the Province of Nova Scotia, and congratulate him on his appointment. I also want to extend my congratulations to Mrs. Grant who I often see in communities across this province as the Lieutenant Governor is going about doing his duties, and I thank both of them on behalf of the people of the Province of Nova Scotia. (Applause)</p>
+      <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I'm pleased to rise and say a few remarks today about the Speech from the Throne. First of all I want to acknowledge the Lieutenant Governor for the work that he is doing on behalf of the Province of Nova Scotia, and congratulate him on his appointment. I also want to extend my congratulations to Mrs. Grant who I often see in communities across this province as the Lieutenant Governor is going about doing his duties, and I thank both of them on behalf of the people of the Province of Nova Scotia. (Applause)</p>
 <p>I want to acknowledge the member for Hammonds Plains-Upper Sackville on his remarks and I want to congratulate his mother. All of us in this House think fondly of our parents and &#x2026;</p></speech>
-      <speech by="#358dbc8a-a052-4a0f-96df-1adea9a5bbdd">
+      <speech by="#mat.whynott">
         <from>MR. WHYNOTT</from>
         <p>She's from Bridgetown.</p>
       </speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Well, he just tells me she's from Bridgetown, all the better. (Laughter) But I do want to congratulate him and I want to congratulate his mother on doing what is a very difficult job sometimes and that is raising children, and she obviously did a great job that you arrived in the House of Assembly so pass on our congratulations. (Applause)</p>
+      <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Well, he just tells me she's from Bridgetown, all the better. (Laughter) But I do want to congratulate him and I want to congratulate his mother on doing what is a very difficult job sometimes and that is raising children, and she obviously did a great job that you arrived in the House of Assembly so pass on our congratulations. (Applause)</p>
 <p>I want to acknowledge the member for Eastern Shore who all of us in this House have had the opportunity to be pigeonholed in some corner of this building, to talk about forestry. His passion was evident today and you can understand why. It has been passed down from his family, from him, and he feels that it's his responsibility to not only pass it on to his children and grandchildren, but to ensure that all of our children and grandchildren get an opportunity to experience that great natural resource that we have here called our forest industry. We look forward to him continuing to educate us on how we can ensure that that's there. To the member, congratulations, and keep up the good work. (Applause)</p>
 <p>I also want to acknowledge the members that were in the gallery, family and friends. I particularly want to acknowledge the brother of the Minister of Agriculture; for a minute there I thought the Minister of Agriculture was sitting in the gallery. I was going to say that maybe the good twin should come down on the floor but that wouldn't be fair, Mr. Speaker. (Laughter)</p>
 <p>I do want to acknowledge that while the Minister of Fisheries and Aquaculture and I may not always agree on public policy, I have always appreciated the kind gesture he has always extended to my family when they have arrived here in Province House, as many members do to family members. I do want to thank all of the family members in the gallery who have made a commitment to public life because a loved one has signed and put their name on a ballot. There may only be one name on that ballot but the entire family gets the joy of running in an election campaign.</p>
@@ -140,7 +141,7 @@
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion for adjournment has been made. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Government House Leader.</p></speech>
-      <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+      <speech by="#frank.corbett">
         <from>HON. FRANK CORBETT</from>
         <p>Mr. Speaker, with the concurrence of the House and unanimous consent, I wonder if we would allow the Official Opposition to introduce two bills today, which I believe they will use for tomorrow's business on Opposition Day.</p>
       </speech>
@@ -160,13 +161,13 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that these bills be read a second time on a future day.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, on behalf of the Premier, at the conclusion of the session this afternoon, and on your behalf, I would like to invite all members of this House and all guests in the gallery to the Red Chamber for a reception.</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, on behalf of the Premier, at the conclusion of the session this afternoon, and on your behalf, I would like to invite all members of this House and all guests in the gallery to the Red Chamber for a reception.</p>
 <p>That concludes the government's business for today. I move that the House do now rise to meet again on the morrow from the hours of 2:00 p.m. until 6:00 p.m. Now I'd ask the Official Opposition to announce their business for tomorrow.</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Opposition House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>After the daily routine and Question Period tomorrow, the Official Opposition's business will be debate on Bill Nos. 1 and 2, Private Members' Public Bills for Second Reading.</p>
         </speech>

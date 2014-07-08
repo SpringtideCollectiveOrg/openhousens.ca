@@ -4,40 +4,41 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="e729dd02-a85c-42fc-9fcd-68b17cb55748" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
-        <TLCPerson id="c5af3c5b-9318-4bcc-a6b9-6d41edaf6180" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
-        <TLCPerson id="90d47c71-dddb-4c2d-9d50-161adf5e1c47" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c" href="/ontology/person/ca-ns.john.a.lohr" showAs="Mr. John Lohr"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="c758a728-0ab2-4465-acde-26ebfea98d9a" href="/ontology/person/ca-ns.labi.kousoulis" showAs="HON. LABI KOUSOULIS"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="6a90d53e-7f2d-4189-b7bd-c98709dcee16" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
-        <TLCPerson id="31fb4530-6a1c-46f4-970e-db00638ac010" href="/ontology/person/ca-ns.tim.houston" showAs="Tim Houston"/>
-        <TLCPerson id="9558d888-0ce9-41b2-b19d-ee702a06e33c" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
-        <TLCPerson id="db9783e4-f6b1-4c03-9213-683b495bd6ab" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
-        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="HON. GEOFF MACLELLAN"/>
-        <TLCPerson id="215aa23a-8ad4-4ebd-bd73-24c044884420" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="db1dcd00-6f99-4f07-a9d9-3948c99440ea" href="/ontology/person/ca-ns.stephen.gough" showAs="MR. STEPHEN GOUGH"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="tony.ince" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
+        <TLCPerson id="labi.kousoulis" href="/ontology/person/ca-ns.labi.kousoulis" showAs="HON. LABI KOUSOULIS"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="HON. GEOFF MACLELLAN"/>
+        <TLCPerson id="mark.furey" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="stephen.gough" href="/ontology/person/ca-ns.stephen.gough" showAs="MR. STEPHEN GOUGH"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="karla.macfarlane" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="keith.irving" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="larry.harrison" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
+        <TLCPerson id="joachim.stroink" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
+        <TLCPerson id="tim.houston" href="/ontology/person/ca-ns.tim.houston" showAs="Mr. Tim Houston"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="Mr. John Lohr"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 6 December 2013</docTitle>
       <docNumber>13-08</docNumber>
       <docDate date="2013-12-06">Friday, December 6, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13dec06/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -50,7 +51,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+        <speech by="#lena.m.diab"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
 <p><b>Bill No. 7 - Public Service Act.</b></p>
 <p>and the committee recommends this bill to the favourable consideration of the House, without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined">
@@ -64,7 +65,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+        <speech by="#lena.m.diab">
           <from>HON. LENA DIAB</from>
           <p>Mr. Speaker, I beg leave to table the 2012-13 Annual Report of the Law Foundation of Nova Scotia.</p>
         </speech>
@@ -79,7 +80,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Communities, Culture and Heritage.</p>
         </speech>
-        <speech by="#db9783e4-f6b1-4c03-9213-683b495bd6ab"><num title="208">RESOLUTION NO. 208</num><from>HON. TONY INCE</from><p>Mr. Speaker, on behalf of the Premier, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tony.ince"><num title="208">RESOLUTION NO. 208</num><from>HON. TONY INCE</from><p>Mr. Speaker, on behalf of the Premier, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas there are few people who will leave a mark as indelible on this earth as Nelson Mandela; and</p>
 <p>Whereas people around the globe were inspired by his dignity and his unwavering commitment to freedom; and</p>
 <p>Whereas Nelson Mandela's message of peace, forgiveness, and acceptance is one we all should aspire to in whatever way we can in tribute to his memory;</p>
@@ -89,7 +90,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I'm very honoured that we have agreed, all of us, to just take a moment, each Party, to speak to the resolution before we pass it, which I'm sure we will unanimously in a moment. It is one of those times where we'll have one resolution and all Parties will express their views and then deal with the resolution.</p>
+        <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I'm very honoured that we have agreed, all of us, to just take a moment, each Party, to speak to the resolution before we pass it, which I'm sure we will unanimously in a moment. It is one of those times where we'll have one resolution and all Parties will express their views and then deal with the resolution.</p>
 <p>Mr. Speaker, it's rare in the world that the loss of one human being is marked pretty well unanimously by the rest of the six billion or seven billion of us, but today is one of those days. I can't think of an individual in my own lifetime where just about everyone on the planet feels some connection to another; in this case, Mr. Mandela of South Africa.</p>
 <p>I was struck this morning by the tributes that are pouring in to Nelson Mandela's family from around the world, including everyday people in the millions, right up to the President of the United States - and the Prime Minister of Canada, of course - but Mr. Obama, the President, said that his first political action was to attend an anti-apartheid rally.</p>
 <p>Mr. Speaker, in no way am I comparing myself to the President of the United States, but the first political event I ever attended in my life as a young student at Dalhousie University was a Free Mandela concert at the Dalhousie Student Union Building in protest of the apartheid regime of South Africa, of the oppression of one people by another, and to demand that Mr. Mandela, who had stood up at great cost to his personal freedom, to say it was wrong, and to pledge himself, indeed his life, to fixing it was a big moment for a young Dalhousie student.</p>
@@ -101,7 +102,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Cape Breton Centre.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I would like to lend our Party's voice to the many tributes, worldwide, to this great human being. In today's world the word hero is thrown around oh so quickly over some very minor matters but there is nobody I would think that would personify the definition of that word more than the late Nelson Mandela.</p>
+        <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, I would like to lend our Party's voice to the many tributes, worldwide, to this great human being. In today's world the word hero is thrown around oh so quickly over some very minor matters but there is nobody I would think that would personify the definition of that word more than the late Nelson Mandela.</p>
 <p>We think of our own struggles within this House and in a very minute way, they are great for us, we feel the burden. I'm sure the government feels the burden of governing and we feel the burden of representation, as we all do in this House. When you think of the burden we share, the burden we put on our shoulders is so miniscule compared to the burden that was handed to Nelson Mandela and he gladly accepted it. He accepted it with such calm and dignity. I can never recall, whether it was an interview in the electronic media or whether it was in newspaper or whether it was a book about his life, that he ever complained.</p>
 <p>Here we are today, a man of 95 years, who led a full life. Mr. Mandela not just led a full life, he led a great life. He led a life that lit the world. We will be ever grateful for that because now he is a man who belongs to the ages. He is a man who has transcended, I think, politics for the last half century. There is absolutely nobody who can put them in the category of a person who stood for their rights and stayed there and did it in such a perspective of the common man.</p>
 <p>When he talked about sports and how they brought everything together, they brought both the sorrows and the joys, but they were the model of how we should do it. There have been stories about Mr. Mandela, who while in prison would organize football or soccer games, the greatness of the man when he brought rugby back to South Africa and he wore a Springbok jersey, these are the things that he had talked about; he would not just talk about what he had done.</p>
@@ -119,7 +120,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Labour and Advanced Education.</p>
         </speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="209">RESOLUTION NO. 209</num><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="209">RESOLUTION NO. 209</num><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas December 6<sup>th</sup> marks the National Day of Remembrance and Action on Violence Against Women, commemorating the anniversary of the murder of 14 engineering students at l'&#xC9;cole Polytechnique in Montreal, who died just because they were women; and</p>
 <p>Whereas this day is also a time to bring to mind all the Nova Scotia women affected by violence; and</p>
 <p>Whereas the province acknowledges, appreciates, and supports the front-line service providers in their tireless, steadfast efforts to help women whose lives have been affected by violence;</p>
@@ -131,7 +132,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Natural Resources.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="210">RESOLUTION NO. 210</num><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="210">RESOLUTION NO. 210</num><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 24<sup>th</sup> Annual Christmas Festival of Trees and Crafts takes place this weekend in co-operation with the National Resources Education Centre on Highway 224 in Middle Musquodoboit; and</p>
 <p>Whereas we invite all Nova Scotians to enjoy the entertainment, see the creations of more than 80 talented crafters, and experience the beauty of 30 decorated balsam fir trees donated by the province and the Lunenburg County Christmas Tree Producers Association; and</p>
 <p>Whereas the festival starts with an opening ceremony on Friday at 6:00 p.m. and runs throughout the weekend to spread good cheer and help promote real, natural, Nova Scotia Christmas trees;</p>
@@ -143,7 +144,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of the Public Service Commission.</p></speech>
-        <speech by="#c758a728-0ab2-4465-acde-26ebfea98d9a">
+        <speech by="#labi.kousoulis">
           <from>HON. LABI KOUSOULIS</from>
           <p>Mr. Speaker, I'd like to give a warm welcome to four of the many dedicated employees we have in the Public Service Commission today, up in the east gallery: Cathy Wiley, Rima Thomeh, Nancy Gaudet, and Janet White. If we could have a round of applause from the House. (Applause)</p>
         </speech>
@@ -151,7 +152,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of the Public Service Commission.</p>
         </speech>
-        <speech by="#c758a728-0ab2-4465-acde-26ebfea98d9a"><num title="211">RESOLUTION NO. 211</num><from>HON. LABI KOUSOULIS</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#labi.kousoulis"><num title="211">RESOLUTION NO. 211</num><from>HON. LABI KOUSOULIS</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Thursday, December 5<sup>th</sup>, the employees at the Public Service Commission donated more than 100 gifts to the Salvation Army's Angel Giving Tree program; and</p>
 <p>Whereas all of the gifts will be distributed to families in need of joy this holiday season; and</p>
 <p>Whereas the Public Service Commission and employees have contributed hundreds of gifts to families in need since 2004;</p>
@@ -164,7 +165,7 @@
 <p>The motion is carried.</p>
 <p>Just a reminder to all members, if you are looking for permission to do an introduction, you must request permission first from the Speaker.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#db9783e4-f6b1-4c03-9213-683b495bd6ab"><num title="212">RESOLUTION NO. 212</num><from>HON. TONY INCE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tony.ince"><num title="212">RESOLUTION NO. 212</num><from>HON. TONY INCE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas December 6<sup>th</sup> is an opportunity for Nova Scotians and Canadians to look back at the Halifax Explosion of 1917 as the defining moment in the history of the province; and</p>
 <p>Whereas in commemoration of the tragic event, the Nova Scotia Archives will be live-tweeting the events of the Halifax Explosion throughout the day, much the same way as the messages were sent out over the wire almost a century ago; and</p>
 <p>Whereas the Nova Scotia Archives is reaching out to Nova Scotians to collect stories about the impact the explosion had on their lives;</p>
@@ -176,7 +177,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
-        <speech by="#d6776846-b12b-4366-882f-9844bee20011"><num title="213">RESOLUTION NO. 213</num><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#geoff.maclellan"><num title="213">RESOLUTION NO. 213</num><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 78 people have been killed this year on Nova Scotia highways; and</p>
 <p>Whereas the main causes of these deaths are speeding, distracted driving, driving without a seatbelt, and impaired driving; and</p>
 <p>Whereas during the first week of December Canadians are recognizing Safe Driving Week with a special focus on the dangers of driving while impaired by alcohol, drugs, or fatigue;</p>
@@ -231,7 +232,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p>
         </speech>
-        <speech by="#90d47c71-dddb-4c2d-9d50-161adf5e1c47"><num title="214">RESOLUTION NO. 214</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mark.furey"><num title="214">RESOLUTION NO. 214</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Constable Brandy Steeves of the Bridgewater detachment of the RCMP and Constable Susan Foote of the Chester detachment of the RCMP have received awards from the 2013 Atlantic Women in Law Enforcement Conference; and</p>
 <p>Whereas Brandy and Susan were recognized with the Atlantic Women Law Enforcement Team Endeavour Award for having helped to create the Lunenburg County RCMP Youth Advisory Committee and Name the Shame initiative; and</p>
 <p>Whereas Brandy and Susan are working to bring Lunenburg County youth and law enforcement together on bullying and other youth issues, and offering resources and information to the community;</p>
@@ -243,7 +244,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="215">RESOLUTION NO. 215</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="215">RESOLUTION NO. 215</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas today marks the 96<sup>th</sup> Anniversary of the Halifax Explosion, when the <i>SS Mont-Blanc</i>, loaded with wartime explosives, collided with the Norwegian vessel <i>SS Imo</i>; and</p>
 <p>Whereas the resulting explosion was the largest man-made explosion prior to the development of nuclear weapons, and caused the death of 2,000 people and injury to 9,000 others; and</p>
 <p>Whereas within hours stoic survivors formed the Halifax Relief Committee to organize medical relief, and to supply food and shelter to victims of the explosion;</p>
@@ -255,7 +256,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton Centre.</p></speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><num title="216">RESOLUTION NO. 216</num><from>HON. FRANK CORBETT</from><p>Mr. Speaker, on behalf of the Leader of the New Democratic Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#frank.corbett"><num title="216">RESOLUTION NO. 216</num><from>HON. FRANK CORBETT</from><p>Mr. Speaker, on behalf of the Leader of the New Democratic Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year on December 6<sup>th</sup> Nova Scotians remember the Halifax Explosion of 1917 as a significant moment in the history of our province; and</p>
 <p>Whereas in recognizing the importance of the day, Nova Scotians pay tribute to the 2,000 people who lost their lives and the legacy they left behind; and</p>
 <p>Whereas once again this year a crowd will gather at the Memorial Bell Tower at Fort Needham Park to pause for a moment to remember an event that has lasted many lifetimes;</p>
@@ -274,7 +275,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Argyle-Barrington.</p>
         </speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="217">RESOLUTION NO. 217</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="217">RESOLUTION NO. 217</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 24 years ago today 14 women fell victim to a hate crime against feminism at l'&#xC9;cole Polytechnique in Montreal, and the events of that day became known as the Montreal Massacre; and</p>
 <p>Whereas in honour of these women, today has been named the National Day of Remembrance and Action on Violence Against Women; and</p>
 <p>Whereas this day serves as an opportunity for Canadians to reflect on the phenomenon of violence against women in our society and consider concrete actions to eliminate gender-based violence in our communities;</p>
@@ -293,7 +294,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p>
         </speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="218">RESOLUTION NO. 218</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="218">RESOLUTION NO. 218</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on this date in 1989 an armed gunman took the lives of 14 female students at l'&#xC9;cole Polytechnique in Montreal; and</p>
 <p>Whereas December 6<sup>th</sup> has become a day to remember the lives lost and changed forever in this tragedy, as well as women who are currently living as victims of abuse; and</p>
 <p>Whereas in an effort to pay tribute to all women who have faced battles against violence, we must remain vigilant and stand together against what we all know is quite simply wrong;</p>
@@ -305,7 +306,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sackville-Beaver Bank.</p></speech>
-        <speech by="#db1dcd00-6f99-4f07-a9d9-3948c99440ea"><num title="219">RESOLUTION NO. 219</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.gough"><num title="219">RESOLUTION NO. 219</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in 2007 a group of Sackville residents formed the Woodbine Family Association to provide hot meals to anyone over 50 who could not afford to make hot meals for themselves; and</p>
 <p>Whereas over the years, in addition to providing meals, this group has raised money for many community projects such as planting trees and the purchase of playground equipment; and</p>
 <p>Whereas this group of dedicated individuals - Bonnie Ryan, Tanya Hanson, Kathy Fougere, Raymond Grove, Joan Grove, and Barb Burke, as well as many volunteers - continue to provide meals free of charge to those in need - anyone who can afford to pay is asked for a $5 donation to keep the cupboards stocked and they need not live in Woodbine Trailer Park, all are welcome;</p>
@@ -317,7 +318,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="220">RESOLUTION NO. 220</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="220">RESOLUTION NO. 220</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas former Indian Brook Chief Reginald "Reg" Maloney passed away on Tuesday, December 3, 2013, at the age of 72, with family and friends by his side; and</p>
 <p>Whereas Reg Maloney served as chief of the Shubenacadie Band as well as band councillor, acted as grand keptin on the grand council, and served as district chief; and</p>
 <p>Whereas Reg Maloney will be fondly remembered for his passion for family, friends, nature and politics, and as an influential advocate for the Mi'kmaq First Nation and their laws and rights;</p>
@@ -335,7 +336,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -346,7 +347,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call Bill No. 14.</p>
         </speech>
@@ -356,7 +357,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Justice.</p>
           </speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><from>HON. LENA DIAB</from><p>Mr. Speaker, I move that Bill No. 14, amendments to the Justices of the Peace Act and Provincial Court Act, be now read a second time.</p>
+          <speech by="#lena.m.diab"><from>HON. LENA DIAB</from><p>Mr. Speaker, I move that Bill No. 14, amendments to the Justices of the Peace Act and Provincial Court Act, be now read a second time.</p>
 <p>Mr. Speaker, it's my pleasure to speak on a brief overview of this bill. The amendments being proposed result from a Nova Scotia Supreme Court decision delivered in February of this year. The court ruled that an independent process was needed to provide compensation for presiding Justices of the Peace in Nova Scotia.</p>
 <p>The Department of Justice was given 12 months to make these changes. Mr. Speaker, we were of the impression that we were already providing fair and adequate compensation to our presiding Justices. However, the court disagreed. We all know that in a democratic society like ours, everyone has the right to make their case and the court has the ability to make an independent decision. In this case, the court ruled that a new compensation process is needed, and we accept that decision. By introducing these legislative changes, we are acting on that decision.</p>
 <p>There is no doubt that Justices of the Peace perform important tasks, like issuing warrants and emergency protection orders to free up judges' time. The court determined that a remuneration scheme must be introduced for presiding Justices of the Peace that meets constitutional requirements to protect independence.</p>
@@ -368,12 +369,12 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, Justices of the Peace are owed the same honour and consideration as our provincial judges, and as such, it is fitting that we afford them the same model for compensation. We rely on them to perform any duties, including issuing warrants, arraignment trials, issuing subpoenas, oaths of office, and performing civil weddings, to name a few. Without the hard work of these people, our justice system would not function as it does today. They provide professional consultation and are responsible for essential services.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, Justices of the Peace are owed the same honour and consideration as our provincial judges, and as such, it is fitting that we afford them the same model for compensation. We rely on them to perform any duties, including issuing warrants, arraignment trials, issuing subpoenas, oaths of office, and performing civil weddings, to name a few. Without the hard work of these people, our justice system would not function as it does today. They provide professional consultation and are responsible for essential services.</p>
 <p>In February, when the Supreme Court of Nova Scotia ruled that they be granted the same compensation model as provincial judges, it became apparent that this change needed to be made. Allowing compensation to be set by an independent board will ensure a transparent and fair process is put in place for these valuable civil servants.</p>
 <p>Mr. Speaker, we, the Progressive Conservative caucus, will be supporting this legislation. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Justice.</p></speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+          <speech by="#lena.m.diab">
             <from>HON. LENA DIAB</from>
             <p>Mr. Speaker, I move second reading of Bill No. 14.</p>
           </speech>
@@ -381,7 +382,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, would you please call Bill No. 15.</p>
           </speech>
@@ -392,7 +393,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Labour and Advanced Education.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I move that Bill No. 15, an Act to Establish a Holiday in February, be now read a second time.</p>
+          <speech by="#kelly.regan"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I move that Bill No. 15, an Act to Establish a Holiday in February, be now read a second time.</p>
 <p>Mr. Speaker, for nearly a decade, my colleague, the honourable Minister of Finance and Treasury Board and the member for Clayton Park West, has lobbied for a holiday for Nova Scotians to enjoy in February. (Applause) The February Holiday Act delivers on our commitment to hard-working Nova Scotians, while giving businesses the time they need to plan for a new holiday. Nova Scotians have told us repeatedly that a mid-winter break is something they want; now we are able to make that happen. Nova Scotians deserve a break between New Year's Day and Easter.</p>
 <p>I'm continuously inspired by the hard work, determination and optimism of the people of this province. Nova Scotians know how to work hard and at the same time they value family and community. The new statutory holiday will be marked on the third Monday beginning in February 2015. It will support that important work/life balance and it will give people time to spend with their families and friends, just as a majority of Canadians already do.</p>
 <p>Now, you will notice the new holiday doesn't have a name yet. As promised, we'll reach out to young Nova Scotians to help decide what the February holiday should be called and we'll share more information on that process in the next couple of months. Six other provinces enjoy statutory holidays in February. Adding a February holiday will give Nova Scotia workers and families a total of six statutory holidays per year. Research shows that three-day weekends pay off with more productivity and less absenteeism.</p>
@@ -402,7 +403,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Pictou West.</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I'm pleased to rise and say a few words about Bill No. 15, the February Holiday Act. As appealing as it sounds and as lovely as it sounds, I just don't think it's the most important priority that Nova Scotians have to deal with right now.</p>
+          <speech by="#karla.macfarlane"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I'm pleased to rise and say a few words about Bill No. 15, the February Holiday Act. As appealing as it sounds and as lovely as it sounds, I just don't think it's the most important priority that Nova Scotians have to deal with right now.</p>
 <p>Nova Scotia's economy is sick. There aren't enough jobs; too many people are struggling to make ends meet. The priority of the Progressive Conservative Party is to fix the economy by getting the fundamentals right, by creating the conditions that will jump-start the economy and create much-needed jobs. I recognize that February can be a long and dark month but at this time a February holiday is just not a priority for the PC caucus and I don't believe it's a priority for the rest of Nova Scotians, especially those ones who are not working.</p>
 <p>MLAs, like so many other Nova Scotians, struggle to get the work/life balance right. Many of us understand the guilt that comes with feeling your family suffers because of the demands of your job. A single day off in February will not alleviate that guilt or put our lives back into a balance. I'm also concerned about what a statutory holiday will do to the dozens of small Nova Scotia businesses that are already struggling, and we have to remember that small businesses make up 52 per cent of businesses here in Nova Scotia and they're definitely not in favour of this holiday with the highest taxes that we pay, the highest power rates, and expensive government red tape that we have.</p>
 <p>The Canadian Federation of Independent Business also has concerns about the cost of a February holiday to small businesses in our province. The CFIB estimates that this holiday will cost the Nova Scotia economy $139 million, and this morning the Halifax Chamber of Commerce spoke out against this holiday, saying it's not the right time - and that's simply what we believe as well. I think the whole idea of it is great; I just don't think that we are in favour of having it right now - maybe in a couple of years when the economy gets a little bit better it will be a consideration. Businesses simply can't afford it. The Canadian Restaurant and Food Services Association says the holiday will cost Nova Scotia restaurants about $2 million, so add that $2 million with the $140 million - it's going to cost us.</p>
@@ -413,18 +414,18 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Cape Breton Centre.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, while I agree with some of what the previous speaker said, I think their "Mike Harris" is showing. I'm worried about how far it has been consulted, and this time of year I think in the restaurant industry it's a very tough time for them. Talking to many owners, it is a time where they're really juggling whether to pay for the last food order or their wages and so on, so there is difficulty.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, while I agree with some of what the previous speaker said, I think their "Mike Harris" is showing. I'm worried about how far it has been consulted, and this time of year I think in the restaurant industry it's a very tough time for them. Talking to many owners, it is a time where they're really juggling whether to pay for the last food order or their wages and so on, so there is difficulty.</p>
 <p>Before I get too far down there, Nova Scotians work hard and I don't know - and I just heard a chirp there "if they work," well, Mr. Speaker, again I'm not going to criticize the government of the day because (Applause)</p>
 <p>Let me finish. Let me finish, just stop it there, stop the tape. I'm not going to criticize the government of the day for bringing in forward-thinking legislation for workers' rights &#x2026;</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Just wait.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>ANOTHER HON. MEMBER</from>
             <p>Brace yourself.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>MR. CORBETT</from>
             <p>No, you don't have to brace yourselves, folks. I see this as a progressive piece of legislation. I'm worried about some of the unintended consequences and I'm going to politely ask the government to make sure that they are considered. I'm not going to get into "the sky is falling" because Nova Scotians get a day off of work. (Applause) (Interruptions)</p>
           </speech>
@@ -432,7 +433,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable member for Cape Breton Centre has the floor.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>MR. CORBETT</from><p>Why thank you, Mr. Speaker. This is reasonable, but again all I want to do is caution the government. I know the Minister of Finance and Treasury Board has been - to say she was passionate about this would be putting it on the down side of it, and that's fine, but I would hope that the government really does genuinely spend the time between now and February 2015 to get it right, that small businesses in particular are protected by it. You know it's a statutory holiday; the idea that what this is going to impose on them is a burden.</p>
+          <speech by="#frank.corbett"><from>MR. CORBETT</from><p>Why thank you, Mr. Speaker. This is reasonable, but again all I want to do is caution the government. I know the Minister of Finance and Treasury Board has been - to say she was passionate about this would be putting it on the down side of it, and that's fine, but I would hope that the government really does genuinely spend the time between now and February 2015 to get it right, that small businesses in particular are protected by it. You know it's a statutory holiday; the idea that what this is going to impose on them is a burden.</p>
 <p>I don't know what people will really do with this holiday. It's obviously in the middle of winter. I guess one good thing about it being in the middle of winter, people are not going to go far afield because of the weather, so it may mean on the upside - inasmuch as if they go somewhere - they'll spend money locally. That may be a good, unintended consequence.</p>
 <p>Mr. Speaker, our Party supports the working men and women of this province and, more importantly, the families, that they get to spend some time together. I would ask the government to be careful in crafting the regulations around this bill and to make sure that there's the least interruption done to the employers of this province around this bill.</p>
 <p>I welcome this bill, I support this bill and to the Minister of Finance and Treasury Board, a job well done. (Applause)</p></speech>
@@ -440,7 +441,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Finance and Treasury Board.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>HON. DIANA WHALEN</from><p>Mr. Speaker, I've been asked to be rather short in my remarks this morning and you can appreciate that that's difficult. (Interruption) I certainly want to thank the member opposite for his comments, I appreciate that very much and the acknowledgement that I have been working on this for a number of years.</p>
+          <speech by="#diana.whalen"><from>HON. DIANA WHALEN</from><p>Mr. Speaker, I've been asked to be rather short in my remarks this morning and you can appreciate that that's difficult. (Interruption) I certainly want to thank the member opposite for his comments, I appreciate that very much and the acknowledgement that I have been working on this for a number of years.</p>
 <p>Mr. Speaker, when I was first elected 10 years ago to this House I had young children. I understand what it's like to have a busy life and juggle a lot of different things. I listened to my constituents; in fact, one of my constituents brought this idea to me in 2003. She said she had lived in Alberta where they have had it for over 20 years and what a wonderful thing it was.</p>
 <p>Initially I thought this might be a lightweight sort of issue. I no longer think that because we have the fewest holidays of any jurisdiction in this country. Mr. Speaker, not the fewest by one or two but the fewest by a lot. We have five holidays and the average in the country is eight or more. Six provinces now have the February holiday. When I introduced the bill first, only one had it.</p>
 <p>Other provinces see the benefit for a winter country to have a day off in the winter. Mr. Speaker, it's not only long and dreary, it's a time when we can get out and have fun with our families and get together and recharge our batteries.</p>
@@ -456,13 +457,13 @@
 <p>So, Mr. Speaker, I know I'm going to get another opportunity to rise on this. I'm being urged to move this along so we can go to the Law Amendments Committee. The real reason is we want to hear from the people of Nova Scotia. My last comment, just to go to the business community because we are concerned about them, is that the CFIB themselves do frequent surveying of their members and several years ago they asked them about the February holiday and nearly 40 per cent of the respondents said they were in favour. So even in that strong business group, several years ago 40 per cent were in favour and I would bet you it's higher today.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Labour and Advanced Education.</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I would like to thank all of my colleagues in the House for their considered thoughts on this bill, no matter which side they come down on. I do value your input. I would like to also congratulate my colleague, the Minister of Finance and Treasury Board, who today showed us what persistence looks like.</p>
+          <speech by="#kelly.regan"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I would like to thank all of my colleagues in the House for their considered thoughts on this bill, no matter which side they come down on. I do value your input. I would like to also congratulate my colleague, the Minister of Finance and Treasury Board, who today showed us what persistence looks like.</p>
 <p>I can say that I'm looking forward to the February holiday in 2015. I can tell you that when we would get a snow day, when my kids were little, there was nothing better than staying in our jammies, popping some popcorn and watching a movie. So I'm looking forward to that. I now close debate on Bill No. 15 and move this bill for second reading.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 15. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, would you please call Bill No. 17.</p>
           </speech>
@@ -473,7 +474,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Government House Leader.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, on behalf of the Premier, I move that Bill No. 17 - an Act to Amend Chapter 155 of the Revised Statutes, 1989, the Executive Council Act, and Chapter 376 of the Revised Statutes, 1989, the Public Service Act - be now read a second time.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, on behalf of the Premier, I move that Bill No. 17 - an Act to Amend Chapter 155 of the Revised Statutes, 1989, the Executive Council Act, and Chapter 376 of the Revised Statutes, 1989, the Public Service Act - be now read a second time.</p>
 <p>Mr. Speaker, I am pleased to rise in the House to introduce these housekeeping amendments that will formalize the new structure of government departments. In November we announced that Executive Council had approved the establishment of Treasury and Policy Board, Issues Committee, and Legislation Committee.</p>
 <p>The amendments to the Executive Council Act and Public Service Act will create the new Treasury and Policy Board and update language in the Act to reflect this change and recent changes to department names and mandates. Specifically, these amendments will update the Executive Council Act and Public Service Act to be consistent with the change of name and mandates for the Departments of Education and Early Childhood Development and Finance, and Treasury Board, and the Office of Planning and Priorities; remove the chair of Treasury Board from the Executive Council Act as the Treasury Board Committee and Treasury Board Office no longer exists; and repeal provisions relating to Treasury Board, Policy and Priorities Committee, and Economic Investment Committee; and establish the Treasury and Policy Board and set out its objectives and mandate.</p>
 <p>Other housekeeping amendments will update the Executive Council Act to correct the reference to the Lieutenant Governor and amend the provision relating to acting ministers, to allow for retroactive appointments to be consistent with the provision for acting ministers in the Public Service Act. Thank you, Mr. Speaker.</p></speech>
@@ -481,20 +482,20 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Northside-Westmount.</p>
           </speech>
-          <speech by="#0592f881-721c-495f-a273-d237278fabfc">
+          <speech by="#eddie.orrell">
             <from>MR. EDDIE ORRELL</from>
             <p>Mr. Speaker, we realize this is a housekeeping bill that reflects changes in the structure of the government, names of departments, and errors in the existing bill. We, the Progressive Conservative caucus, will support these changes and look forward to the passage through Law Amendments Committee.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the Government House Leader it will be to close the debate.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I certainly appreciate the comments from the member for Northside-Westmount - is that right? Keep all these riding name changes intact.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I certainly appreciate the comments from the member for Northside-Westmount - is that right? Keep all these riding name changes intact.</p>
 <p>Mr. Speaker, certainly as indicated it is a housekeeping measure, but one that does require legislation to reflect the changes that have been made within the structure of government, so I appreciate the support from all sides of the House.</p>
 <p>With that, I would move to close debate on Bill No. 17.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 17. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
           </speech>
@@ -506,7 +507,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>I move that the adjourned debate on the Address in Reply to the Speech from the Throne be now resumed.</p>
         </speech>
@@ -514,7 +515,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Kings South.</p>
         </speech>
-        <speech by="#215aa23a-8ad4-4ebd-bd73-24c044884420"><from>MR. KEITH IRVING</from><p>Mr. Speaker, it is an honour for me to rise on the Address in Reply to the Speech from the Throne. I want to thank the Lieutenant Governor, the Honourable J.J. Grant, for delivering the Throne Speech.</p>
+        <speech by="#keith.irving"><from>MR. KEITH IRVING</from><p>Mr. Speaker, it is an honour for me to rise on the Address in Reply to the Speech from the Throne. I want to thank the Lieutenant Governor, the Honourable J.J. Grant, for delivering the Throne Speech.</p>
 <p>I will begin today by congratulating you, Mr. Speaker, for the remarkable achievements in your life and for the honour that you have bestowed on this House in serving as Speaker. I share the view of our Premier that your balanced, conciliatory, and collegial nature will ensure our Assembly is governed with civility and respect. (Applause)</p>
 <p>I also want to offer my congratulations to my MLA colleague, the member for Hants East on her appointment to Deputy Speaker. (Applause)</p>
 <p>Mr. Speaker, we have serving as Speaker and Deputy Speaker two individuals who are an inspiration to Nova Scotians.</p>
@@ -561,13 +562,13 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Chester-St. Margaret's on an introduction.</p>
         </speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, it is with delight today that I would like to introduce to the House of Assembly students from the Aspotogan Consolidated Elementary School (Applause) - yes, you can clap for yourself. It is a fabulous school in Mill Cove and we have 27 students here from Grades 4 and 5. I would like to also recognize their chaperones today: David Kokocki, Pat Wardell and Suzanne Campbell. I'd like to say that their Principal, Ms. Paula Baker, has been a great initiator in teaching the children of Aspotogan Consolidated Elementary School - ACES we call it - to learn more about politics. They were all involved in the student vote.</p>
+        <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, it is with delight today that I would like to introduce to the House of Assembly students from the Aspotogan Consolidated Elementary School (Applause) - yes, you can clap for yourself. It is a fabulous school in Mill Cove and we have 27 students here from Grades 4 and 5. I would like to also recognize their chaperones today: David Kokocki, Pat Wardell and Suzanne Campbell. I'd like to say that their Principal, Ms. Paula Baker, has been a great initiator in teaching the children of Aspotogan Consolidated Elementary School - ACES we call it - to learn more about politics. They were all involved in the student vote.</p>
 <p>I had the privilege, not so very long ago, to be invited to the school to talk about what it is like to be an MLA and you would not believe the very insightful questions they asked. So it is with great pleasure for me, as their representative, to introduce them today and have them receive a warm welcome from this House. Thank you very much,</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable member for Colchester-Musquodoboit Valley.</p>
         </speech>
-        <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><from>MR. LARRY HARRISON</from><p>First of all, Mr. Speaker, it is a true honour for me to rise in this House of Assembly as a representative of Colchester-Musquodoboit Valley. A little over a year ago I decided to retire after 41 years of ministry in the United Church of Canada. In that retirement plan I was going to pick up my curling again, pick up my golf again, go south for a bit and spend time with my grandkids.</p>
+        <speech by="#larry.harrison"><from>MR. LARRY HARRISON</from><p>First of all, Mr. Speaker, it is a true honour for me to rise in this House of Assembly as a representative of Colchester-Musquodoboit Valley. A little over a year ago I decided to retire after 41 years of ministry in the United Church of Canada. In that retirement plan I was going to pick up my curling again, pick up my golf again, go south for a bit and spend time with my grandkids.</p>
 <p>Well, one day there was a knock on my door and a few folks walked in. They wanted to talk to me. When they asked if I would run for the Progressive Conservative Party, my mouth fell open. The thought never, ever crossed my mind that I would be here. My brother Bev has been in the PC Government in New Brunswick for many, many years - 23 in fact, as an MLA and as Speaker for two terms. I told that group of people that I would just think it over for a bit and I would get back to them.</p>
 <p>Eventually my family and I decided that stepping away from serving a congregation in Nova Scotia such as Brookfield and Middle Stewiacke, and being a representative in this House, was not a big stretch. They have placed their trust in me and I'm going to work hard to honour that trust.</p>
 <p>I know it's not going to be an easy road and I found that out very quickly because when I announced to my congregation that I was going to run for the PC Party in this election, some cheered, some clapped, some looked at me as if I was going on the road to sing, and you know I cannot sing, and some just sat there and didn't do a thing. I knew I wouldn't get their vote, so I knew upfront that it was going to be a tough time. From that day on, it indeed was a whirlwind.</p>
@@ -580,11 +581,11 @@
 <p>They only hear the side of politics that the media like to portray - the few who are in it for themselves rather than to serve the people, but there are only a few. I think of the many good politicians who served our area for many years: Bob Stanfield, Ike Smith, Colin Stewart, Ken Streatch, Brooke Taylor, Gary Burrill. These are all MLAs who served the people of Colchester-Musquodoboit Valley with honour - and I plan to follow in their footsteps. (Applause)</p>
 <p>Near the end of my campaign I was - and when those kids walked in I was thinking</p>
 <p>about them and how they see things - this story was told to me from a resident, and some of the folks know it here. A grandmother came up to me one day and said that she picked up her 12-year-old grandson from school - they were discussing politics that day, going over what was happening in the election and so on. The grandmother said that she picked the child up, they got in the car. Dead silence. Eventually the little fellow said, Gram, is Mr. Harrison a minister, and she said yes. Is he going to be a politician? She said yes. Dead silence. Isn't that a sin? (Laughter)</p></speech>
-        <speech by="" as="##member" status="undefined">
+        <speech by="" as="#member" status="undefined">
           <from>AN HON. MEMBER</from>
           <p>How did you answer?</p>
         </speech>
-        <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><from>MR. HARRISON</from><p>We're going to have a chat sometime.</p>
+        <speech by="#larry.harrison"><from>MR. HARRISON</from><p>We're going to have a chat sometime.</p>
 <p>These are very serious times and it's going to require very serious leadership. This is not a time in the history of the province to play the games, and I'm really not here to do that. At one time people would joke about what politicians did and how they reacted to each other, but you know today people just don't laugh anymore, it's a different environment. They are asking for a very common-sense approach to the needs of the province.</p>
 <p>Over the last year more than 4,000 people left Nova Scotia to go to work elsewhere. Whole families have just picked up and moved because there's really nothing for them here. Mr. Speaker, Nova Scotians really don't care who brings the common-sense changes - let's be honest, about 95 per cent of Nova Scotians, when it comes to political Parties it doesn't mean a thing. There are some but not very many. They see us as all the same, the yellow, the red, the blue. We need to be able to show them that they're right, that underneath the blue, underneath the yellow, underneath the red, the orange, that we are all the same because every one of us in this House wants people to get back to work, we want to have better health care, we want to know that our children are going to have good education - and we all want every single one of the roads paved. (Applause)</p>
 <p>Anyway I think we all just want better lives for our constituents; that's why we're here. And I think that's why our constituents put us here - to do that.</p>
@@ -604,7 +605,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Just a couple of quick housekeeping notes here, folks, before we proceed. As I am reading the rule book while listening to the tremendous remarks of the honourable members, I am reminded that it is unparliamentary to not face the House while other honourable members are speaking. I am also reminded that when members are doing introductions, it is unparliamentary to speak directly to the guests in the gallery, as well as unparliamentary to encourage our guests in the gallery to express any form of approval or disapproval of the business that is going on on the floor of the Chamber.</p>
 <p>I just want to pass on those couple of housekeeping notes. I'm doing my homework.</p>
 <p>The honourable member for Halifax Chebucto.</p></speech>
-        <speech by="#e729dd02-a85c-42fc-9fcd-68b17cb55748"><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, first let me start by saying wow, what an honour it is to be standing in the House as an elected official for the riding of Halifax Chebucto. What a great privilege it is to have the opportunity to say a few words in response to the Speech from the Throne.</p>
+        <speech by="#joachim.stroink"><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, first let me start by saying wow, what an honour it is to be standing in the House as an elected official for the riding of Halifax Chebucto. What a great privilege it is to have the opportunity to say a few words in response to the Speech from the Throne.</p>
 <p>I would first like to acknowledge everyone who is in this Chamber. As someone who does not come from a political background, I have great respect and admiration for hard work that we all have signed up for to represent the people in our constituencies. Your dedication to this province is inspiring.</p>
 <p>I would like to start my speech by taking a moment to acknowledge two people who dedicated their lives to the riding of Halifax Chebucto. First, Alexa McDonough, who became the first woman to lead a major recognized political Party in Canada, when she was elected the Nova Scotia New Democrat Party Leader in 1980. She served as a member of the Nova Scotia Legislature from 1981 to 1994, representing Halifax Chebucto and Halifax Fairview electoral districts. She stepped down as the Nova Scotia NDP's Leader and as a member of the Legislature in 1994. She subsequently ran for, and was elected, as Leader of the federal New Democrat Party in 1995. McDonough was elected as a Member of Parliament for the federal electoral district of Halifax in 1997. She stepped down as the Party Leader in 2003. I remember her growing up, and admire her dedication and powerful representation of a Nova Scotia legislator on the national stage.</p>
 <p>Secondly, I would like to acknowledge Howard Epstein. First elected to Halifax City Council in 1994, he was re-elected in 1996 with the formation of the Halifax Regional Municipality. Epstein sat as a councillor for District 14, Connaught and Quinpool, representing the city's West End. On March 24<sup>th</sup>, 1998 Epstein was elected to the Nova Scotia House of Assembly for the New Democrat Party, representing the provincial riding of Halifax Chebucto. He was elected in 1999 and served until the 2013 general election.</p>
@@ -624,7 +625,7 @@
           <from>MR. SPEAKER</from>
           <p>The honorable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. I certainly want to thank all members of the House for their co-operation as we worked through our business today.</p>
+        <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, that concludes the government's business for today. I certainly want to thank all members of the House for their co-operation as we worked through our business today.</p>
 <p>We will meet again on Monday at the hours of 4:00 p.m. until 10:00 p.m. Business will be Public Bills for Second Reading, Nos. 19 and 20, as well as some bills in Committee of the Whole; and, if time permits, possibly some Public Bills for Third Reading and Address in Reply.</p>
 <p>With that, Mr. Speaker, I move the House do now rise.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is the House do now rise, to meet again on Monday, December 9<sup>th</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
@@ -638,27 +639,27 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><num title="221">RESOLUTION NO. 221</num><from>Mr. Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tim.houston"><num title="221">RESOLUTION NO. 221</num><from>Mr. Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Glen MacLeod has turned a dream into a reality, and this year on December 13<sup>th</sup> the Town of Westville will be home to a Christmas Theme Park that will see Acadia Park transformed with huge pictorial scenes depicting the town's past done by local artist Stephen Robinson; and</p>
 <p>Whereas Christmas trees, a nativity scene, and much more will make it a wonderful destination for families during this busy season; and</p>
 <p>Whereas this no-charge family event was made possible by many volunteers, local businesses, and a Nova Scotia Culture and Heritage grant;</p>
 <p>Therefore be it resolved that all members of this House of Assembly join me in welcoming this unique event to Westville and congratulate Mr. MacLeod and his volunteers for their effort on a job well done.</p></speech>
-        <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><num title="222">RESOLUTION NO. 222</num><from>Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tim.houston"><num title="222">RESOLUTION NO. 222</num><from>Tim Houston</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas nine hard-working women got together in the Fall for the Sixth Annual Cape to Cape Trail Ladies Only Building Weekend where, under the direction of Sally O'Neill, Coordinator, Active Pictou County, they built the access trail from the Six Mile Brook Road to the Six Mile Brook Trail; and</p>
 <p>Whereas this is a four-seasons access trail that makes the Six Mile Brook Trail more accessible from New Glasgow and Truro for hikers and snowshoers; and</p>
 <p>Whereas Active Pictou County and these volunteers have done their part to help community members get active on this and all other sections of the Pictou County Trail;</p>
 <p>Therefore be it resolved that all members of the House of Assembly acknowledge and congratulate these women for their contribution toward a healthier Nova Scotia.</p></speech>
-        <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><num title="223">RESOLUTION NO. 223</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.a.lohr"><num title="223">RESOLUTION NO. 223</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on November 7<sup>th</sup>, the Annapolis Valley Chamber of Commerce handed out the 2013 business awards; and</p>
 <p>Whereas Meadowbrook Meat Market, of Somerset, was name Outstanding Small Business; and</p>
 <p>Whereas Meadowbrook Meat Market owners, Jimmie and Margie Lamb, have spent 25 years adjusting to the changing marketplace and finding a sustainable niche;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Jimmie and Margie Lamb of Meadowbrook Meat Market for being awarded Annapolis Valley Chamber of Commerce Outstanding Small Business.</p></speech>
-        <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><num title="224">RESOLUTION NO. 224</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.a.lohr"><num title="224">RESOLUTION NO. 224</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on November 7<sup>th</sup>, the Annapolis Valley Chamber of Commerce handed out the 2013 business awards; and</p>
 <p>Whereas Wilson's Pharmasave of Kentville was named Outstanding New Business; and</p>
 <p>Whereas Wilson's provides products and services that enable customers to live a healthier life;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Wilson's Pharmasave for being awarded Annapolis Valley Chamber of Commerce Outstanding New Business.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="225">RESOLUTION NO. 225</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="225">RESOLUTION NO. 225</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Mackenzie Munroe has been selected as the Yarmouth County Athlete of the Year; and</p>
 <p>Whereas Mackenzie's extremely impressive year on the track included three gold medals at the Atlantic University Sport track and field championships in Moncton, New Brunswick, and selection as captain of the Saint Francis Xavier University track team; and</p>
 <p>Whereas Mackenzie competed in the 2013 Canada Games in Sherbrooke, Quebec, and was a member of the 4x400 relay, in which Nova Scotia won a bronze medal;</p>

@@ -4,39 +4,40 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="b81d14f6-763e-4849-8cac-67d98a26547f" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="c8656293-6758-4799-9249-e4a9e096a4d2" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="ad05a29e-2138-4e50-93c4-6d3af608c5f4" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="98fd525a-b480-446d-8a4d-f002d18eb5c0" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
-        <TLCPerson id="358dbc8a-a052-4a0f-96df-1adea9a5bbdd" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. WHYNOTT"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="213d6bf9-1589-4472-bd07-34828a3b2db9" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
-        <TLCPerson id="fe203a69-7dd0-4237-83ee-6927a726e38e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="MR. MAURICE SMITH"/>
-        <TLCPerson id="e63ef392-23cc-461a-bb21-5b72f51f8cc2" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="ee8a60d0-642f-4447-a3d1-573947cdc8b0" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="a841369d-b3a6-4df9-af76-53c4f9eab8cf" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="marilyn.more" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
+        <TLCPerson id="bill.estabrooks" href="/ontology/person/ca-ns.bill.estabrooks" showAs="HON. WILLIAM ESTABROOKS"/>
+        <TLCPerson id="gary.ramey" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCPerson id="wayne.j.gaudet" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
+        <TLCPerson id="jim.boudreau" href="/ontology/person/ca-ns.jim.boudreau" showAs="MR. JIM BOUDREAU"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="keith.bain" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="jim.morton" href="/ontology/person/ca-ns.jim.morton" showAs="MR. JIM MORTON"/>
+        <TLCPerson id="pam.birdsall" href="/ontology/person/ca-ns.pam.birdsall" showAs="MS. PAM BIRDSALL"/>
+        <TLCPerson id="maurice.g.smith" href="/ontology/person/ca-ns.maurice.g.smith" showAs="MR. MAURICE SMITH"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="percy.paris" href="/ontology/person/ca-ns.percy.paris" showAs="HON. PERCY PARIS"/>
+        <TLCPerson id="mat.whynott" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 4 November 2011</docTitle>
       <docNumber>11-39</docNumber>
       <docDate date="2011-11-04">Friday, November 4, 2011</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="3">3rd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C81/house_11nov04/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -49,13 +50,13 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Leader of the Progressive Conservative Party.</p>
         </speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I beg leave to introduce a petition, the operative clause reading:</p>
+        <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I beg leave to introduce a petition, the operative clause reading:</p>
 <blockquote>&#x201C;The undersigned call on the government of Nova Scotia to replace the recently removed stairs at Joggins Beach, Cumberland 
 				County, NS.&#x201D;</blockquote>
 <p>The petition contains 620 signatures and I have affixed my own signature thereto.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The petition is tabled.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. KELLY REGAN</from><p>Madam Speaker, I beg leave to table a petition on behalf of the Basinview Drive Community School Health Promotion Team - Travel Planning Committee, which will be of great interest to the Minister of Transportation and Infrastructure Renewal, I believe. The operative clause reads as follows:</p>
+        <speech by="#kelly.regan"><from>MS. KELLY REGAN</from><p>Madam Speaker, I beg leave to table a petition on behalf of the Basinview Drive Community School Health Promotion Team - Travel Planning Committee, which will be of great interest to the Minister of Transportation and Infrastructure Renewal, I believe. The operative clause reads as follows:</p>
 <blockquote>&#x201C;Therefore be it resolved that the Nova Scotia Provincial Government reduce the speed limit in school zones and play areas 
 				to 30 km/h from 50 km/hr.&#x201D;</blockquote>
 <p>The petition has been signed by 92 residents of Bedford and I have affixed my name to the petition.</p></speech>
@@ -70,7 +71,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Minister of Labour and Advanced Education on an introduction.</p>
         </speech>
-        <speech by="#213d6bf9-1589-4472-bd07-34828a3b2db9"><from>HON. MARILYN MORE</from><p>Madam Speaker, I'd like to direct the attention of members to the Speaker's Gallery, where we have some prominent international university educators with us this morning. Their visit is a direct result of the Premier's trade mission to Israel last month. I ask each of our guests to please stand as I say your name and remain standing. Dr. Aaron Ben-Ze'ev is the president of the University of Haifa and one of the world's leading experts in the study of emotions; Dr. Daniel Sher is a chemical ecologist; and Dr. Uri Schattner is a marine geophysicist - and both of these men are prominent researchers at the University of Haifa's Leon H. Charney School of Marine Sciences.</p>
+        <speech by="#marilyn.more"><from>HON. MARILYN MORE</from><p>Madam Speaker, I'd like to direct the attention of members to the Speaker's Gallery, where we have some prominent international university educators with us this morning. Their visit is a direct result of the Premier's trade mission to Israel last month. I ask each of our guests to please stand as I say your name and remain standing. Dr. Aaron Ben-Ze'ev is the president of the University of Haifa and one of the world's leading experts in the study of emotions; Dr. Daniel Sher is a chemical ecologist; and Dr. Uri Schattner is a marine geophysicist - and both of these men are prominent researchers at the University of Haifa's Leon H. Charney School of Marine Sciences.</p>
 <p>Our guests are here in Nova Scotia to learn more about Dalhousie University's excellence in marine and oceans research and the newly established Halifax Marine Research Institute, which they toured yesterday. They are accompanied in the Legislature by Gillian Wood and Pat Rodee from Dalhousie University, and also my Executive Assistant, Laurel Hynes Jenkins, is with them.</p>
 <p>I ask the members to give them a very warm welcome to Nova Scotia. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined">
@@ -84,7 +85,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
         </speech>
-        <speech by="#c8656293-6758-4799-9249-e4a9e096a4d2"><num title="2007">RESOLUTION NO. 2007</num><from>HON. WILLIAM ESTABROOKS</from><p>Madam Speaker, on behalf of the Minister of Justice, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#bill.estabrooks"><num title="2007">RESOLUTION NO. 2007</num><from>HON. WILLIAM ESTABROOKS</from><p>Madam Speaker, on behalf of the Minister of Justice, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November is National Crime Prevention and Community Safety Month and government works with community partners, police and others to reduce and prevent crime by targeting root causes of crime at the community level; and</p>
 <p>Whereas government invests $600,000 in its crime prevention unit, Lighthouses Program, and other grant programs; and</p>
 <p>Whereas government also invests over $20 million in initiatives that support crime prevention and community safety, including the Additional Officer Program which puts about 179 additional resources in communities, mental health court, domestic violence court, the internationally-recognized Nova Scotia Restorative Justice Program, and the Mi'kmaq Legal Support Network;</p>
@@ -105,7 +106,7 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
 <p>The honourable member for Lunenburg West on an introduction.</p></speech>
-        <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa">
+        <speech by="#gary.ramey">
           <from>MR. GARY RAMEY</from>
           <p>I have no introduction.</p>
         </speech>
@@ -116,7 +117,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable member for Lunenburg West.</p>
         </speech>
-        <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa"><num title="2008">RESOLUTION NO. 2008</num><from>MR. GARY RAMEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gary.ramey"><num title="2008">RESOLUTION NO. 2008</num><from>MR. GARY RAMEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Wednesday, November 2<sup>nd</sup>, when the honourable member for Preston rose in this House to speak on adjournment, he sent the message that Nova Scotians should have no hope or optimism about the historic shipbuilding announcement of October 19, 2011; and</p>
 <p>Whereas the honourable member went on to criticize the standards, reputation, and capabilities of fine Nova Scotian industries linked with our great shipbuilding heritage; and</p>
 <p>Whereas on the Ships Start Here Web site the honourable Leader of the Liberal Party indicates that this is an incredible opportunity for Nova Scotia - meaning the creation of thousands of jobs across the province - to keep our families here and bring many more people back home; (Interruptions)</p></speech>
@@ -128,7 +129,7 @@
 <p>I hear several Noes.</p>
 <p>The notice is tabled.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2009">RESOLUTION NO. 2009</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2009">RESOLUTION NO. 2009</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 1, 2011 the Canadian Breast Cancer Foundation held its 12<sup>th</sup> annual CIBC Run for the Cure, in Church Point and in West Pubnico; and</p>
 <p>Whereas in keeping with their history of community involvement, Belliveau Motors co-sponsored the annual Run for the Cure this year; and</p>
 <p>Whereas this year's run raised $7,685 for breast cancer research, education programs and treatments;</p>
@@ -140,7 +141,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="2010">RESOLUTION NO. 2010</num><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="2010">RESOLUTION NO. 2010</num><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Paige Black, a former student at Oxford Regional Education Centre, is the recipient of the Young Humanitarian of the Year Award for 2011; and</p>
 <p>Whereas Paige Black attended the Encounters with Canada youth forum in Ottawa and took an interest in the global community, which turned into a fully fledged passion that led her to be selected to attend the Move Your World youth symposium where participants gained valuable information about issues such as poverty, food security, children in armed conflict and other vulnerable people around the world; and</p>
 <p>Whereas Paige Black organized a benefit concert called Music for Haiti to raise funds for Danita's Children, an orphanage in Haiti which supports over 400 children;</p>
@@ -152,7 +153,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Sheet Harbour.</p></speech>
-        <speech by="#98fd525a-b480-446d-8a4d-f002d18eb5c0"><num title="2011">RESOLUTION NO. 2011</num><from>MR. JIM BOUDREAU</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jim.boudreau"><num title="2011">RESOLUTION NO. 2011</num><from>MR. JIM BOUDREAU</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Chedabucto Place School in Guysborough planted a tree on school grounds on Friday, May 6, 2011; and</p>
 <p>Whereas Chedabucto Place School did so in an effort to actively participate in enhancing our environment; and</p>
 <p>Whereas May 1<sup>st</sup> to May 7<sup>th</sup> was Compost Awareness Week, a week designed to draw attention to the importance of advancing and advocating residual recycling and compost use;</p>
@@ -164,7 +165,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="2012">RESOLUTION NO. 2012</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="2012">RESOLUTION NO. 2012</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Reverend Dr. Donald Fairfax, who passed away on Friday, August 6, 2011 in Dartmouth, was a former moderator of the African United Baptist Association and pastored at the Victoria Road United Baptist Church for more than 50 years; and</p>
 <p>Whereas Dr. Fairfax was a pillar of faith in the African Nova Scotian community and a tireless advocate for education, social justice, human rights and his contributions have benefited Nova Scotians across the province; and</p>
 <p>Whereas Dr. Fairfax volunteered or served on boards for several organizations including the Nova Scotia Home for Coloured Children, Nova Scotia Mental Health Association, the Human Rights Commission, and was named a member of the Order of Canada in 1990;</p>
@@ -177,7 +178,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2013">RESOLUTION NO. 2013</num><from>MR. CHUCK PORTER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="2013">RESOLUTION NO. 2013</num><from>MR. CHUCK PORTER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas human papillomavirus, or HPV, is a virus that in most cases causes no symptoms but in a minority of cases HPV can lead to various forms of cancer in both women and men; and</p>
 <p>Whereas Avon View's Teen Health Centre Group students Candice States, Kylie Cameron, Krystal Burgess, Ashley Rehberg, Russell Rines, Stephaney Curtis, Melissa McKinely, Sam White, Michelle Deyoung, Tegra Diminutto and Samantha Saunders along with their teen health advisor Janice Dempsey-Stewart were raising awareness of HPV at Avon View High School through various activities; and</p>
 <p>Whereas educating our youth about the importance of protection as well as the prevention of all preventable diseases deserves the utmost attention and these young people want recognition for their desire to educate others;</p>
@@ -189,7 +190,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2014">RESOLUTION NO. 2014</num><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2014">RESOLUTION NO. 2014</num><from>MS. KELLY REGAN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Halifax author Jim Lotz's most recent book, <i>Canada's Forgotten Arctic Hero: George Rice</i>, has illuminated the contribution of Cape Bretoner George Rice to the little-known 1881 Greely Expedition to the Arctic to gather meteorological and astronomical data; and</p>
 <p>Whereas Lotz relied on the diaries of George Rice, who was the expedition's photographer, to tell the story of the doomed venture of the far north; and</p>
 <p>Whereas Lotz describes Rice as a genuine 19<sup>th</sup> Century hero, well liked and respected who died in the frigid Arctic looking for food for his starving crewmates;</p>
@@ -201,7 +202,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2015">RESOLUTION NO. 2015</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2015">RESOLUTION NO. 2015</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Bay St. Lawrence Fire Department celebrated its 20<sup>th</sup> Annual Crab Festival and Fishing Derby in July; and</p>
 <p>Whereas this event is recognized as one of the longest running crab festivals on Cape Breton Island; and</p>
 <p>Whereas local fishermen volunteer their time and their vessels to ensure all local residents and visitors enjoy a feast of local snow crab while experiencing an exciting day of fishing in hopes of winning the big prize;</p>
@@ -213,7 +214,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="2016">RESOLUTION NO. 2016</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="2016">RESOLUTION NO. 2016</num><from>MR. LEO GLAVINE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the month of November is Crohn's and Colitis Awareness Month across Canada; and</p>
 <p>Whereas 1 in 160 Canadians suffer from Crohn's or ulcerative colitis in our country; and</p>
 <p>Whereas the Atlantic Canada Region of the Crohn's and Colitis Foundation of Canada and its great team of volunteers, donors and sponsors have been active in raising funds, committing $100,000 in 2009-10 to support research for this debilitating disease;</p>
@@ -225,7 +226,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="2017">RESOLUTION NO. 2017</num><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="2017">RESOLUTION NO. 2017</num><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in only its fourth year the Parrsboro Relay for Life raised close to $39,000 for the Canadian Cancer Society; and</p>
 <p>Whereas the event featured 18 teams and was a tremendous success showing the community's hard work and determination for the cause; and</p>
 <p>Whereas the organizing committee also participated in a relay team called The Storm Keepers, leading by example by reaching the bronze fundraising level in honour of and in memory of Emily Storm who lost her battle with cancer just days before the event;</p>
@@ -237,7 +238,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="2018">RESOLUTION NO. 2018</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="2018">RESOLUTION NO. 2018</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Richmond County Women's Softball League, created this summer and consisting of four teams, hosted their first annual championship tournament, which took place at the Petit-de-Grat ball field with the L'Ardoise Brewers, the Petit-de-Grat Slammers, and the Petit-de-Grat Driv'ers competing; and</p>
 <p>Whereas the Petit-de-Grat Slammers have taken home the 2011 Richmond County Women's Softball League championship trophy; and</p>
 <p>Whereas the Petit-de-Grat Slammers team was made up of players Beryl Boudreau, Chasta Boudreau, Dora Sampson-Boudreau, Donna Boudreau, Janette Boudrot, Murielle Joshua, Lynette Boudreau, Jannick Boudreau, Caitlin Samson, Shirley-Ann Samson, Janelle Boudreau, Lorna Barnes, Jessica Boudreau, Kim Samson, Kaitlyn Boudreau, T'Angele Boudreau, and Gina Embree;</p>
@@ -249,7 +250,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="2019">RESOLUTION NO. 2019</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame le Pr&#xE9;sident, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="2019">RESOLUTION NO. 2019</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Madame le Pr&#xE9;sident, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Monday, August 8, 2011, Yarmouth's 250<sup>th</sup> Anniversary celebration hosted the RCMP Musical Ride; and</p>
 <p>Whereas Jason Muise, formerly of Amirault's Hill, performing with his horse Turbo, was one of 32 riders performing in front of his family and friends in his hometown; and</p>
 <p>Whereas Jason, who always wanted to be a police officer, has been a member of the RCMP for five years, has performed in the Musical Ride for a three-year tour that ended in September, and has been re-posted to Barrington this Fall;</p>
@@ -260,7 +261,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2020">RESOLUTION NO. 2020</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2020">RESOLUTION NO. 2020</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas today, November 4, 2011, an Order of Canada investiture ceremony will be held at Rideau Hall in Ottawa and Yarmouth resident Viola Robinson will be invested as one of 10 Officers of the Order of Canada by Governor General David Johnston; and</p>
 <p>Whereas Viola Robinson is being recognized as a role model and an inspirational leader who has advanced the rights of First Nations people across Canada and who was instrumental in negotiating a process for the implementation of governance and treaty rights for Mi'kmaq communities in Nova Scotia, nationally; and</p>
 <p>Whereas Viola Robinson has worked to end discrimination against Aboriginal women and her commitment to fostering a just and inclusive society guided her work as a member of the Royal Commission on Aboriginal Peoples;</p>
@@ -272,7 +273,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><num title="2021">RESOLUTION NO. 2021</num><from>MR. CHUCK PORTER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#chuck.porter"><num title="2021">RESOLUTION NO. 2021</num><from>MR. CHUCK PORTER</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in 1989 the first Maritime Music Awards were held in Halifax, featuring just six East Coast artists with national distribution, and it has grown to market Atlantic Canadian music to the world by inviting members of the international music industry to the annual conference; and</p>
 <p>Whereas since the age of four, Meghan Rumbolt of Hantsport has been entertaining family and friends with her enchanting musical talents; and</p>
 <p>Whereas Meggie Lou, as she is better known, was thrilled to be invited to the East Coast Music Association to perform on the Discovery Stage, part of the East Coast Music Week 2011 in Charlottetown this past Spring;</p>
@@ -283,7 +284,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="2022">RESOLUTION NO. 2022</num><from>MS. DIANA WHALEN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="2022">RESOLUTION NO. 2022</num><from>MS. DIANA WHALEN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Spencer Bouchard, a student of Park West School in Clayton Park West, won the Robert Bateman Get To Know contest in the photography category for Grades 8 to 10, with his stunning nature photograph; and</p>
 <p>Whereas the contest was nationwide and Spencer attended a ceremony in Moncton, in June, for the Atlantic Canadian winners, which was hosted by Alan Bateman; and</p>
 <p>Whereas the Get To Know program promotes a deeper understanding of nature in youth and a more active role in protecting the environment;</p>
@@ -295,7 +296,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="2023">RESOLUTION NO. 2023</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="2023">RESOLUTION NO. 2023</num><from>MR. KEITH BAIN</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Buchanan Memorial Hospital Charitable Foundation was honoured with the Irving Schwartz Caring for Cape Breton Award during the Cape Breton District Health Authority's annual general meeting; and</p>
 <p>Whereas the Caring for Cape Breton Award was presented to the foundation for its contribution towards establishing an EHS base and apartments for visiting physicians; and</p>
 <p>Whereas Buchanan Memorial Hospital Charitable Foundation is recognized for its significant achievements in health philanthropy and its outstanding commitment to patients and the community;</p>
@@ -307,7 +308,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Richmond.</p></speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><num title="2024">RESOLUTION NO. 2024</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#michel.p.samson"><num title="2024">RESOLUTION NO. 2024</num><from>HON. MICHEL SAMSON</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Outstanding Customer Service-Individual Employee award, sponsored by EastLink and presented through the Strait Area Chamber of Commerce, is awarded to an employee who demonstrated outstanding service to their customers over the last year; and</p>
 <p>Whereas the Outstanding Customer Service-Individual Employee award recipient must reflect all five customer service attributes - courteous, helpful, accessible, responsive, and knowledgeable; and</p>
 <p>Whereas the Strait Area Chamber of Commerce hosted their Small Business Week Dinner and Awards Gala on October 19, 2011 where Lori Ann Boudreau was presented with the Outstanding Customer Service-Individual Employee award for exceptional customer service at Jeantie's Mini-Mart, located in Arichat;</p>
@@ -319,7 +320,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare.</p></speech>
-        <speech by="#b81d14f6-763e-4849-8cac-67d98a26547f"><num title="2025">RESOLUTION NO. 2025</num><from>HON. WAYNE GAUDET</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#wayne.j.gaudet"><num title="2025">RESOLUTION NO. 2025</num><from>HON. WAYNE GAUDET</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Jody Shelley Golf Fore Health Tournament took place this past July at the Clare Golf and Country Club in Comeauville to support the Yarmouth Regional Health Centre; and</p>
 <p>Whereas this is the seventh annual event hosted by NHL hockey player Jody Shelley and $43,000 was raised towards the purchase of two laparoscopic suites for the OR, making it the most successful in the tournament's seven-year history; and</p>
 <p>Whereas 70 dedicated volunteers from the area were involved in hosting the Jody Shelley Golf Fore Health Tournament;</p>
@@ -331,7 +332,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="2026">RESOLUTION NO. 2026</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="2026">RESOLUTION NO. 2026</num><from>MR. ZACH CHURCHILL</from><p>Madam Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas from November 3<sup>rd</sup> to November 6<sup>th</sup>, Yarmouth will be hosting Molson Canadian Nova Scotia Music Week 2011 for the third consecutive year; and</p>
 <p>Whereas the impressive array of artists for this year's Nova Scotia Music Week includes Jimmy Rankin, Slowcoaster, Carmen Townsend, Three Sheet, and local talent Ryan Cook, Rain over Saint Ambrose, and Owen and Gerry; and</p>
 <p>Whereas Nova Scotia Music Week will be especially an exciting and memorable event during Yarmouth's 250<sup>th</sup> celebrations;</p>
@@ -343,7 +344,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="2027">RESOLUTION NO. 2027</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="2027">RESOLUTION NO. 2027</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Barb Stegemann, a Bedford entrepreneur, created 7 Virtues Afghanistan Orange Blossom Eau de Parfum, a business project designed to help people in Afghanistan become employed by growing orange blossoms to provide the essential oil for the perfume; and</p>
 <p>Whereas Stegemann, having successfully stocked 7 Virtues Perfume in Bay Stores across Canada, and having secured a $75,000 investment in the fragrance from the CBC television show Dragon's Den, was then approached by the Shopping Channel to further market the scent, and plans to launch another fragrance based on an essential oil native to Haiti; and</p>
 <p>Whereas for her efforts to initiate trade with re-emerging nations, Stegemann will be appointed as an Honorary Colonel of the Royal Canadian Air Force in December, 2011;</p>
@@ -361,7 +362,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Madam Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -372,7 +373,7 @@
           <from>MADAM SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Madam Speaker, would you please call Bill No. 72.</p>
         </speech>
@@ -382,15 +383,15 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Richmond, with 45 minutes remaining.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Forty-five minutes - I was going to say I only got started last night, but I actually did think it went much longer than that.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>It felt like it.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>It felt like it for me, as well. Madam Speaker, I believe that yesterday I had the opportunity to try to remind this government of an unfortunate decision that was made by the Department of Justice via the minister.</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>It felt like it for me, as well. Madam Speaker, I believe that yesterday I had the opportunity to try to remind this government of an unfortunate decision that was made by the Department of Justice via the minister.</p>
 <p>In an unfortunate attempt to try to save money, a decision was made to limit autopsies that will be carried out by the Chief Medical Examiner's Office on the weekend. I believe, based on the reaction from members of the government yesterday during my comments, I believe they as well share my thoughts that this was a poor decision, one that is bound to come back to haunt them. I dread any Nova Scotian family that will be told when they're trying to figure out exactly what caused death to their loved one that they'll have to wait until Monday because they don't fall into the specific criteria set out by the Minister of Justice as to what autopsies will now be performed on the weekend, in the hopes of saving the government a few dollars.</p>
 <p>This has disaster written all over it. The government knows this, or they should know it now. I would hate to be in a situation of having to say I told you so, but I firmly believe that one of the 52 members of this House will be getting a phone call from a family to say I can't believe we are being told we need to wait until Monday because the government is looking to save a few dollars.</p>
 <p>There is time to change this decision. It's one that I think was done with probably not proper reflection as to what the impact would be. It's a groaner decision to say the least, and one that I truly believe is in poor taste - and it's not reflective of what this government said they would do in providing a better deal for Nova Scotian families. This certainly isn't a way of doing it. We agree there needs to be a means of finding savings - this just wasn't the place to go to try to find it.</p>
@@ -400,7 +401,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Argyle.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Merci beaucoup, Madame le Pr&#xE9;sident - I almost said "Monsieur" there. It's funny how we're so used to having a male sitting in that Chair that even all our documents seem to have "Mr. Speaker" put on it. Of course, it's great to see you in the Chair again this morning, Madam Speaker.</p>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Merci beaucoup, Madame le Pr&#xE9;sident - I almost said "Monsieur" there. It's funny how we're so used to having a male sitting in that Chair that even all our documents seem to have "Mr. Speaker" put on it. Of course, it's great to see you in the Chair again this morning, Madam Speaker.</p>
 <p>Of course I'm speaking on the Timely Medical Certificates Act for a few moments. I know the member for Hants West will want to say a few words to this, as well, as he has been in the past, of course, a paramedic and has seen the direct consequence of the wait for medical certificates or death certificates being signed in the field.</p>
 <p>As you know, Madam Speaker, currently of course only doctors and medical examiners can sign the medical death certificate. Reading through the bill we see that it will permit nurse practitioners to sign the medical death certificate in circumstances that will be laid out in regulation. Of course, we'll be waiting to see those regulations to see what else might be in there because it does give a broader sense of who might be able to do that.</p>
 <p>Right now I know the government is talking about nurse practitioners being able to do that kind of work. But it does include other authorized persons, of course, like medical investigators when a nurse practitioner is not available or that qualified person directs the funeral director to obtain the certificate of death.</p>
@@ -416,13 +417,13 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Kings North.</p>
           </speech>
-          <speech by="#ad05a29e-2138-4e50-93c4-6d3af608c5f4">
+          <speech by="#jim.morton">
             <from>MR. JIM MORTON</from>
             <p>Madam Speaker, may I have your permission to make an introduction? I'd like to introduce Wayne Henderson, who's in the east gallery. Wayne is a friend of mine for the last 25 years, a resident of Riverview, New Brunswick, who retired a couple of years ago from a long and distinguished career as a teacher of mathematics in the high school system in the Moncton area. We met 25 years ago in political activities where we were trying - not successfully - to win a by-election. That activity has kept us connected for many years. Wayne is well versed in the world of politics and government and is certainly paying attention to what we're doing here in Nova Scotia. Welcome to the Nova Scotia Legislature and to Nova Scotia, and enjoy your visit in Halifax. I hope everyone will give him a warm welcome. (Applause)</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Welcome to today's proceedings.</p>
 <p>The honourable member for Hants West.</p></speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. CHUCK PORTER</from><p>Madam Speaker, I'm pleased to have the opportunity to speak for a few minutes this morning on Bill No. 72. I think it's a good piece coming forward. Having been in the business some years back as a paramedic, I know that it can be difficult, especially in some circumstances. There are a variety of circumstances, I guess I should say.</p>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Madam Speaker, I'm pleased to have the opportunity to speak for a few minutes this morning on Bill No. 72. I think it's a good piece coming forward. Having been in the business some years back as a paramedic, I know that it can be difficult, especially in some circumstances. There are a variety of circumstances, I guess I should say.</p>
 <p>One we used to run into on a regular basis was a terminal illness. We would be called out because sometimes families do not know what to do when their loved one reaches the end of their life. We would go out and pronounce them as being deceased, and then we would have to leave. It may be hours before something could happen by way of those remains being transported or whatever it might be.</p>
 <p>When I first read this, my thought was what a great thing. It's good for nurse practitioners that they can do that. I'm not sure what circumstances exactly - would they go to the home? Is that the intent? They would thereby pick up where I was just referring to, some of those terminal illnesses where autopsies would not be required. Unfortunately, there are a lot of those cases in this province, as we know.</p>
 <p>I think there's an opportunity here to add to what has been put forward, and that is, could paramedics also - given the fact that we're going out to the doors and homes of these people - be able to sign off on these? Is it an ACP? Is it something that even a basic-level paramedic could do, since they can pronounce? Maybe you're on the phone to a medical control physician - we have those kinds of things available to us. You go through a protocol before you would ever leave a home when you've pronounced somebody is deceased; there are all of these things. There are times when it can't be done for obvious reasons, there are a number of circumstances where death happens that we understand you need a medical examiner or somebody from that office, you require an autopsy, there are investigations, there's any number of things. But there are a lot of cases where I think we can build on this, there are opportunities.</p>
@@ -443,7 +444,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Lunenburg.</p>
           </speech>
-          <speech by="#a841369d-b3a6-4df9-af76-53c4f9eab8cf"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to stand in my place today to speak about the amendments to the Vital Statistics Act, the Timely Medical Certificates Act, which will authorize nurse practitioners and medical investigators employed by the Chief Medical Examiner's Office to sign medical certificates of death in certain circumstances.</p>
+          <speech by="#pam.birdsall"><from>MS. PAM BIRDSALL</from><p>Madam Speaker, I'm pleased to stand in my place today to speak about the amendments to the Vital Statistics Act, the Timely Medical Certificates Act, which will authorize nurse practitioners and medical investigators employed by the Chief Medical Examiner's Office to sign medical certificates of death in certain circumstances.</p>
 <p>I'm pleased to have listened to my colleagues across the floor speak of various aspects of this amendment and what it will bring. The possibilities in the future, I think, will be interesting to watch. We'll define all these things through regulation, and paramedics have been mentioned - we'll see how other people are worked into this whole process.</p>
 <p>The Minister of Service Nova Scotia and Municipal Relations said when he introduced the bill, "Losing a loved one is painful enough. We want to ensure that grieving families don't have to wait, and can make arrangements as quickly as possible." Madam Speaker, I think that this is a very important thing, and this change to legislation is important to Nova Scotians in rural areas where doctors are in high demand and nurse practitioners fill a vital role in our small communities.</p>
 <p>I know in our area we have high fluxes back and forth between doctors - doctors here on a training course are here for two years and then they go on to bigger areas, to urban areas, and our nurse practitioners are the ones who take the heavy load. As my colleague, the member for Kings West, has said, the nurse practitioners will have a heavier load being given this extra authority, and yet this is something that our communities do welcome.</p>
@@ -476,7 +477,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Antigonish.</p>
           </speech>
-          <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e"><from>MR. MAURICE SMITH</from><p>Madam Speaker, it gives me great pleasure to rise in my place to address the House on second reading of Bill No. 72, an Act to Amend Chapter 494 of the Revised Statutes of 1989. The Vital Statistics Act.</p>
+          <speech by="#maurice.g.smith"><from>MR. MAURICE SMITH</from><p>Madam Speaker, it gives me great pleasure to rise in my place to address the House on second reading of Bill No. 72, an Act to Amend Chapter 494 of the Revised Statutes of 1989. The Vital Statistics Act.</p>
 <p>Bill No. 72 deals with amendments to the section of the Vital Statistics Act concerning the issuing of medical certificates of death. The Act's short title is therefore aptly called the Timely Medical Certificates Act. The raison d'&#xFFFD;tre of this bill is to authorize others, at this time specifically nurse practitioners, of course besides doctors and the coroner or the medical examiner, to issue death certificates.</p>
 <p>As you may know, until the death certificate has been issued, a body cannot be removed by the funeral director. This has, in the past, caused hardship and angst to family members who would sometimes have to wait for hours for a doctor to come to their home to deal with pronouncing the person dead and issuing the death certificate. In rural areas, particularly where there is no hospital in the immediate area and no doctor at hand, this delay was often prolonged.</p>
 <p>The Timely Medical Certificates Act is a good piece of legislation, which will make it much easier for people who are suffering the loss of a loved one to deal with the remains without significant delay. Nurse practitioners have been chosen as the logical persons to be authorized to issue the death certificate. Often they are very familiar with the deceased and the family, having been on the scene during the deceased's last illness. Often they are actually with the deceased and the family at the time of death. They have the expertise and knowledge to assess the situation and will be given additional training to handle this delicate matter. That training will focus on identifying the cause of death and completing the necessary paperwork.</p>
@@ -487,14 +488,14 @@
 <p>In the lead up to the proposed changes, there was consultation with the stakeholders involved and there is broad support of this move to allow nurse practitioners to sign medical certificates of death. This legislation is in response to a perceived need and a direct call for intervention. This bill, and the improvements that it brings, will make life better for Nova Scotians and ensure that families can deal with the death of a loved one in a timely and respectful manner. Those are the comments I wish to make, Madam Speaker, thank you very much.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><from>HON. DAVID WILSON</from><p>Thank you, Madam Speaker, and I want to thank everyone who has spoken on Bill No. 72. I think we recognize as a government the importance of making sure that our legislation and policies that we have in place are current and can best serve Nova Scotians, and I think that's why this piece of legislation was brought forward.</p>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Thank you, Madam Speaker, and I want to thank everyone who has spoken on Bill No. 72. I think we recognize as a government the importance of making sure that our legislation and policies that we have in place are current and can best serve Nova Scotians, and I think that's why this piece of legislation was brought forward.</p>
 <p>I had discussions with the Minister of Service Nova Scotia and Municipal Relations on this specific piece of legislation. We've heard from our colleagues across the way and understand some of their comments and their concerns, and I appreciate most of their comments and concerns. I know the member for Hants West and the member for Argyle, for example, with their interactions as a first responder and as a paramedic and my previous experience as a paramedic, understand the need to ensure that this legislation is open to allow future changes to the policy. That's why in this legislation we recognize that and we indicate that that qualified person authorized through regulations is permitted and will be looked at in the future as really these policies have to have the ability to change.</p>
 <p>I appreciate the comments from the members and we'll look forward to this piece of legislation going through because I think it truly does best serve Nova Scotians, especially when you're dealing with a difficult situation like a death in the family, or a death, Madam Speaker. On behalf of the Minister of Service Nova Scotia and Municipal Relations I close debate on Bill No. 72.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is for second reading of Bill No. 72. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Deputy Government House Leader.</p></speech>
-          <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+          <speech by="#clarrie.mackinnon">
             <from>MR. CLARRIE MACKINNON</from>
             <p>Madam Speaker, would you please call Bill No. 73.</p>
           </speech>

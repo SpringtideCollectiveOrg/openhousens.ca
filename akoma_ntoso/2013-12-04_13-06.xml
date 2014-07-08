@@ -4,50 +4,51 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="2e5849a6-1166-4e40-a605-3ecbb1a5463b" href="/ontology/person/ca-ns.joanne.bernard" showAs="MS. BERNARD"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. MACLEOD"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="MR. COLWELL"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="MS. MACDONALD"/>
-        <TLCPerson id="15c473b5-32d6-4539-8318-01e10551e1ec" href="/ontology/person/ca-ns.patricia.arab" showAs="MS. PATRICIA ARAB"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="8275114a-ac5c-47ce-aa8b-5fe96b8151f6" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDIE GOSSE"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. CHURCHILL"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. MACMASTER"/>
-        <TLCPerson id="6a90d53e-7f2d-4189-b7bd-c98709dcee16" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
-        <TLCPerson id="d6776846-b12b-4366-882f-9844bee20011" href="/ontology/person/ca-ns.geoff.maclellan" showAs="MR. MACLELLAN"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="MR. SAMSON"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. ZANN"/>
-        <TLCPerson id="c5af3c5b-9318-4bcc-a6b9-6d41edaf6180" href="/ontology/person/ca-ns.lena.m.diab" showAs="MS. DIAB"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
-        <TLCPerson id="310e08cc-3724-403f-821e-1a1076a68e6c" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. PORTER"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="HON. LEO GLAVINE"/>
-        <TLCPerson id="9558d888-0ce9-41b2-b19d-ee702a06e33c" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. HARRISON"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="d20bcc3a-16f9-4444-9716-099229d6a03e" href="/ontology/person/ca-ns.randy.delorey" showAs="HON. RANDY DELOREY"/>
-        <TLCPerson id="c51d6556-5a76-4dd0-8625-3b6f71e9c75b" href="/ontology/person/ca-ns.lloyd.hines" showAs="MR. LLOYD HINES"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. YOUNGER"/>
-        <TLCPerson id="1047aad7-8f0a-45b5-8e33-c350c258eefc" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
-        <TLCPerson id="44650179-f363-4cd2-983b-a89509061821" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. WHALEN"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. LOHR"/>
-        <TLCPerson id="2a8a6812-dab1-49f4-b941-a875e19a943a" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
-        <TLCPerson id="8a9371ce-d9e8-428b-860a-534e16b12b1b" href="/ontology/person/ca-ns.iain.rankin" showAs="MR. IAIN RANKIN"/>
-        <TLCPerson id="082cad97-a106-493b-849d-c354e8e1c26d" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="allan.rowe" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
+        <TLCPerson id="ben.jessome" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="lloyd.hines" href="/ontology/person/ca-ns.lloyd.hines" showAs="MR. LLOYD HINES"/>
+        <TLCPerson id="gordie.gosse" href="/ontology/person/ca-ns.gordie.gosse" showAs="MR. GORDIE GOSSE"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="karla.macfarlane" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="HON. GEOFF MACLELLAN"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="iain.rankin" href="/ontology/person/ca-ns.iain.rankin" showAs="MR. IAIN RANKIN"/>
+        <TLCPerson id="randy.delorey" href="/ontology/person/ca-ns.randy.delorey" showAs="HON. RANDY DELOREY"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="HON. LEO GLAVINE"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
+        <TLCPerson id="joanne.bernard" href="/ontology/person/ca-ns.joanne.bernard" showAs="HON. JOANNE BERNARD"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="HON. ANDREW YOUNGER"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="larry.harrison" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="terry.farrell" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
+        <TLCPerson id="patricia.arab" href="/ontology/person/ca-ns.patricia.arab" showAs="MS. PATRICIA ARAB"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 4 December 2013</docTitle>
       <docNumber>13-06</docNumber>
       <docDate date="2013-12-04">Wednesday, December 4, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13dec04/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Before we start the daily routine today, the subject matter for late debate has been chosen and is:</p>
@@ -70,7 +71,7 @@
 <p>In conclusion, while I thank both the House Leaders of the NDP and the Official Opposition for raising the point of order, it should come as no surprise, given what I have just said, that I must find to the contrary, and advise the House that I will permit the limited use of questions by government backbenchers in the manner proposed by the honourable Government House Leader.</p>
 <p>If problems arise I can always revisit the question of this new practice. Also, it is open to the House to come to a more formal recognition of the rights of members to pose questions in any revision to our rules. Thank you for your attention.</p>
 <p>The honourable member for Cape Breton Centre.</p></speech>
-      <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+      <speech by="#frank.corbett">
         <from>HON. FRANK CORBETT</from>
         <p>Mr. Speaker, let me say I thank you for your swift adjudication on this point. Obviously, I would have liked it to have gone another way but I want to congratulate you on your fairness and even-handedness in this approach to this matter. With great respect to the Speaker, I appreciate the swiftness with which you dealt with this and the reality of what this means to Question Period. Again, I'm disappointed it didn't go my way but I thank you for doing this in such a swift manner.</p>
       </speech>
@@ -78,7 +79,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable House Leader for the Official Opposition.</p>
       </speech>
-      <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+      <speech by="#christopher.a.dentremont">
         <from>HON. CHRISTOPHER D'ENTREMONT</from>
         <p>Mr. Speaker, I too thank you for your decision and also for the speediness of that as well. As I said yesterday, it was an issue of a convention of this House that was changed without the full consensus of all members in the House. Again, thank you for that decision. It didn't go our way but we thank you for your impartiality in this.</p>
       </speech>
@@ -86,7 +87,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Government House Leader.</p>
       </speech>
-      <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+      <speech by="#michel.p.samson">
         <from>HON. MICHEL SAMSON</from>
         <p>Mr. Speaker, I just want to take the opportunity to reiterate, as I have done with the two Opposition House Leaders, that under the instructions of our Premier, it is expected that we will have a full review of numerous matters that relate to the Legislature in the hopes of modernizing our rules, ensuring fairness on all sides, and most importantly, accountability to Nova Scotians. I do suspect that we will be coming forward together with more changes to be brought to the Legislature in the weeks and months ahead. Merci.</p>
       </speech>
@@ -94,7 +95,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Premier on an introduction.</p>
       </speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+      <speech by="#stephen.mcneil">
         <from>HON. STEPHEN MCNEIL</from>
         <p>I would like to draw the attention of the House to the east gallery, where we have with us today members of the Nova Scotia Association of Realtors. I know some colleagues would have had breakfast with them today. I want to welcome them to the House of Assembly, but most importantly, thank them for all of the work they do on behalf of Nova Scotians in driving the economy from one end of Nova Scotia to the other. Welcome. (Applause)</p>
       </speech>
@@ -159,7 +160,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth South.</p></speech>
-        <speech by="#082cad97-a106-493b-849d-c354e8e1c26d"><num title="126">RESOLUTION NO. 126</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.rowe"><num title="126">RESOLUTION NO. 126</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Gloria Fisher opened Fisher's Stationery store on Portland Street in Dartmouth in 1959 with her husband and continued to run the store when her husband passed away only nine years later; and</p>
 <p>Whereas Fisher's Stationery, and indeed Gloria herself, have become downtown Dartmouth icons, with Mrs. Fisher being known for her friendliness, her community involvement, and for simply giving her shop a personal and caring atmosphere that made visitors want to return again and again; and</p>
 <p>Whereas at the age of 92, Mrs. Fisher is now retiring and closing the doors of Fisher's Stationery after 54 years of outstanding service and will be missed and fondly remembered by generations of loyal customers, many of whom grew to consider Gloria a friend;</p>
@@ -171,7 +172,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#2a8a6812-dab1-49f4-b941-a875e19a943a"><num title="127">RESOLUTION NO. 127</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#brendan.o.maguire"><num title="127">RESOLUTION NO. 127</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Michele Raymond was first elected to the House of Assembly as MLA for Halifax Atlantic on August 5, 2003; and</p>
 <p>Whereas she was re-elected again in the General Elections of 2006 and 2009; and</p>
 <p>Whereas Michele Raymond represented the constituents of Halifax Atlantic in the House of Assembly for 10 years, and worked diligently serving her community and province;</p>
@@ -183,7 +184,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Lucasville.</p></speech>
-        <speech by="#44650179-f363-4cd2-983b-a89509061821"><num title="128">RESOLUTION NO. 128</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#ben.jessome"><num title="128">RESOLUTION NO. 128</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Marilyn Cummings took her Dental Hygiene course at Dalhousie University where she later returned to take her Bachelor of Science in Health Education; and then worked independently while employed by the Department of Health setting up flouride clinics in elementary schools in the St. Margarets Bay and Halifax areas; and</p>
 <p>Whereas she represented the Hammonds Plains Area Community Health Board for three years and is an active member of the Dental Hygiene Society; and</p>
 <p>Whereas Marilyn Cummings opened the All Smiles Dental Hygiene Clinic at 2069 Hammonds Plains Road on December 2<sup>nd</sup> of this year;</p>
@@ -195,7 +196,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Justice.</p></speech>
-        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><num title="129">RESOLUTION NO. 129</num><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lena.m.diab"><num title="129">RESOLUTION NO. 129</num><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the students and staff of Springvale Elementary, a school located in my constituency, put together a memorable Remembrance Day ceremony for our community; and</p>
 <p>Whereas Ms. Carolyn Bourke, the school's choir teacher, adapted a wonderful song by the name of <i>Grateful to be Canadian</i>, the song was performed with the beautiful voices of the Springvale Choir;</p>
 <p>Whereas Principal John Dobrowolski created a heartwarming video presentation representing our veterans and the students of Springvale Elementary;</p>
@@ -207,7 +208,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Acting Leader of the New Democratic Party.</p></speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><num title="130">RESOLUTION NO. 130</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maureen.macdonald"><num title="130">RESOLUTION NO. 130</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Halifax's North End Business Association held its 2<sup>nd</sup> Annual Holiday Parade on Friday, November 29<sup>th</sup>, which was a very successful event as a non-motorized, carbon-neutral event featuring 350 participants representing 38 organizations; and</p>
 <p>Whereas the Hydrostone District Business Association held its 3<sup>rd</sup> Annual Family Tree Lighting at Hydrostone Park the same evening, attracting about 1,000 people, including many from the parade, to listen to choirs from St. Joseph's-A. McKay School, Shambhala School, and Cornwallis Street Baptist Church; and</p>
 <p>Whereas the evening culminated with the lighting of the tree in support of Phoenix Youth, to the delight of all those present;</p>
@@ -219,7 +220,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Eastern Shore-Tracadie.</p></speech>
-        <speech by="#c51d6556-5a76-4dd0-8625-3b6f71e9c75b"><num title="131">RESOLUTION NO. 131</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lloyd.hines"><num title="131">RESOLUTION NO. 131</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Tuesday, September 24, 2013, the community of Sheet Harbour lost both a friend and a mother to so many, Lori Ann Lowe; and</p>
 <p>Whereas Lori worked as a child care provider for 27 years, and through those years Lori was a mother to over 60 children who loved her and treasured their time with her; and</p>
 <p>Whereas after her sudden death, Lowe's parents wanted to do something special with their toys, so they graciously donated the toys for a fundraiser sale to help support Lily's Hill, an outdoor rink, raising an astounding $960;</p>
@@ -231,7 +232,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="132">RESOLUTION NO. 132</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordie.gosse"><num title="132">RESOLUTION NO. 132</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Mona Baryluk has more than 35 years' experience in various aspects of health systems management, including patient care, education, program development, research and administration; and</p>
 <p>Whereas Mona Baryluk held several senior positions in the Cape Breton District Health Authority; and</p>
 <p>Whereas Mona Baryluk was appointed the new Chair of Cancer Nova Scotia's Advisory Board of Directors;</p>
@@ -243,7 +244,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Queens-Shelburne.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="133">RESOLUTION NO. 133</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="133">RESOLUTION NO. 133</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Michelle Branchaud is an assistant to the Director of Recreation and Parks for the Municipality of the District of Shelburne; and</p>
 <p>Whereas Michelle is one of two people on the South Shore qualified to train leaders using the High Five training approach utilizing the principles of early childhood development; and</p>
 <p>Whereas Michelle has recently been awarded the 2013 High Five Champion Award for her excellence in delivering high-quality, child-centred recreation programming;</p>
@@ -255,7 +256,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="134">RESOLUTION NO. 134</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="134">RESOLUTION NO. 134</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Hooked Rug Museum of North America located in Queensland, Nova Scotia, was started by Suzanne and Hugh Conrod of Chester in 2005 and opened in 2011 as a registered charity that relies on donations to stay open; and</p>
 <p>Whereas Hugh Conrod, who held various government positions, was Bureau Chief for the Halifax Herald Limited and was instrumental in creating the Dartmouth Historical Museum, passed away in September 2013 at the age of 85; and</p>
 <p>Whereas Mr. Conrod was a well-known, well-respected and well-loved member of our community, and was an important part of the history of this province;</p>
@@ -267,7 +268,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="135">RESOLUTION NO. 135</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="135">RESOLUTION NO. 135</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Truro Police Service has been faithfully serving the citizens of central Nova Scotia since 1875 and have been wearing a powder-blue dress uniform since the mid-1980s; and</p>
 <p>Whereas members of the service recently changed to a custom-fitted royal blue dress uniform designed by Detective Constable Karen Harling, as chair of the dress uniform committee; and</p>
 <p>Whereas the Truro Police Service was the first-ever recipient of Canada's Law Enforcement Magazine's Blue Line Uniform Image Award this year;</p>
@@ -279,7 +280,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sydney-Whitney Pier.</p></speech>
-        <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><num title="136">RESOLUTION NO. 136</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordie.gosse"><num title="136">RESOLUTION NO. 136</num><from>MR. GORDIE GOSSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November 22<sup>nd</sup>, 2013 family and friends gathered at the Open Hearth Park in Sydney to dedicate a new bicycle facility; and</p>
 <p>Whereas 14 years ago at the approximate spot of the dedication site, long-time environmental activists Don and Ron DeLeskie scooped up gooey tar as part of their own cleanup; and</p>
 <p>Whereas the new bike park was appropriately named the Don and Ron DeLeskie Bike Park;</p>
@@ -291,7 +292,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Queens-Shelburne.</p></speech>
-        <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><num title="137">RESOLUTION NO. 137</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#sterling.belliveau"><num title="137">RESOLUTION NO. 137</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 7-year-old Meggie Woolvett Lemaire of Sable River has received a certificate of commendation from the Governor General of Canada, David Johnston, for an act of great merit in providing assistance in a selfless manner for her actions on August 6<sup>th</sup>, 2011 that saved her best friend from drowning; and</p>
 <p>Whereas Meggie, who had just learned to swim that same week without a floatation device, is the fifth youngest Canadian to receive the certificate of commendation out of 3,495 recipients over the years; and</p>
 <p>Whereas the Grade 1 Hillcrest Academy student hasn't let the incident deter her enthusiasm for swimming and enjoying the waters of Canada's Ocean Playground;</p>
@@ -303,7 +304,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="138">RESOLUTION NO. 138</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="138">RESOLUTION NO. 138</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Acadia Centre for Social and Business Entrepreneurship (ACSBE) is in its 25<sup>th</sup> year; and</p>
 <p>Whereas since 1988, ACSBE has evolved from a provider of small business services into a provider of entrepreneurial programs that support communities all across the province including the communities of Chester-St. Margaret's from their location in Hubbards; and</p>
 <p>Whereas ACSBE is an organization that helps people fulfill their potential, whether it is to start a business, find employment or develop a career;</p>
@@ -315,7 +316,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="139">RESOLUTION NO. 139</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="139">RESOLUTION NO. 139</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Chad Norman is a published poet who resides in Truro, Nova Scotia; and</p>
 <p>Whereas Chad Norman is a member of the Writers' Union of Canada and has written and published 14 books of poetry over his 25-year career as a poet; and</p>
 <p>Whereas Chad Norman has written his 15<sup>th</sup> collection of poetry, entitled <i>Masstown</i>, which is a tribute to his grandparents that pays homage to the disappearance of small dairy farms in the Atlantic Region;</p>
@@ -333,18 +334,18 @@
 <p>The honourable Leader of the Official Opposition.</p></speech>
         <debateSection>
           <heading>PREM.: PROTOCOL OFFICER - HIRING PROCESS</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, everyone has been wondering if the Liberals have a plan to create jobs and it turns out they do, starting with former Liberal candidates. In other words, to hire Liberals. Clearly, the Party that dumped its former Leader, John Savage, for trying to do away with such blatant patronage is now back in power here in Nova Scotia. That's not the Party that presented itself to Nova Scotians in the recent election but it is the one we have before us today.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, everyone has been wondering if the Liberals have a plan to create jobs and it turns out they do, starting with former Liberal candidates. In other words, to hire Liberals. Clearly, the Party that dumped its former Leader, John Savage, for trying to do away with such blatant patronage is now back in power here in Nova Scotia. That's not the Party that presented itself to Nova Scotians in the recent election but it is the one we have before us today.</p>
 <p>I have with me, and I will table, the Fair Hiring Policy of the Government of Nova Scotia which states, among other things, that hiring activities in the government are based on the principles of merit and shall include such things as advertising, selection criteria and interviews. I want to ask the Premier a simple question: did he follow his own fair hiring process when he hired a Liberal as the new Protocol Officer? I'll table that for the House.</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, first of all I want to thank the outgoing Chief Protocol Officer for the tremendous work that she has done on behalf of all Nova Scotians.</p>
 <p>As to the question from the Leader of the Official Opposition, the answer would be yes, as he would know. The new Chief Protocol Officer, who has had 30 years of experience both as a journalist and in the private and public sector, is not going into the civil service. She has been hired on a contract basis that is renewed on an annual basis, and any future government can do away with or renew that contract if they so wish.</p>
 <p>I would also add that, unlike previous governments, there is no buyout at the end of this contract, Mr. Speaker.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, I want to thank the Premier for his answer, but unfortunately, the answer is no, he didn't follow his own fair hiring process. In the policy itself it lists positions that are allowed to be exempt from the fair hiring policy of the civil service. It lists such positions as assistant deputy ministers, CEOs, executive assistants to Cabinet Ministers, and so on. It specifically does not list the Protocol Officer, meaning that it's required that the Protocol Officer position go through the fair hiring policies of the government. Unfortunately, the Premier didn't follow his own policies. I'll table that for the benefit of the Premier and the House.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I want to thank the Premier for his answer, but unfortunately, the answer is no, he didn't follow his own fair hiring process. In the policy itself it lists positions that are allowed to be exempt from the fair hiring policy of the civil service. It lists such positions as assistant deputy ministers, CEOs, executive assistants to Cabinet Ministers, and so on. It specifically does not list the Protocol Officer, meaning that it's required that the Protocol Officer position go through the fair hiring policies of the government. Unfortunately, the Premier didn't follow his own policies. I'll table that for the benefit of the Premier and the House.</p>
 <p>The sad fact is that Nova Scotians, who are the taxpayers who are going to pay the bill for this job, did not have a fair chance to compete for it. I know that in the election the Liberal campaign slogan was "Nova Scotia first", but now that the election is over, it's pretty clear that the real slogan is "Liberals first, everyone else second."</p>
 <p>Mr. Speaker, it's pretty clear the Premier exempted himself from his own government's fair hiring policy to pay off a friend, something that is forbidden under the rules. My question to the Premier is, why does he tell the Public Service to do as I say but not as I do?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I'm very proud of the fact that, given the privilege to be the Premier of this province, one of the first things I did was take the opportunity to go from department to department, recognizing the great public servants that we have in this province doing tremendous work on behalf of all Nova Scotians. (Applause)</p>
 <p>Again, Mr. Speaker, I want to remind the Leader of the Progressive Conservative Party that we did not appoint someone into the Public Service. What we've done is we've hired a qualified Nova Scotian to fill the job as Chief Protocol Officer in the Province of Nova Scotia.</p>
 <p>I also want to remind all members of this House that it was on a contract basis, which is renewed annually, and there is no payout at the end of this contract.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, I would like to remind the Premier that now that he is in office, he will be judged on his actions and not just on his words. He can visit as many public servants as he wants, but when he breaks his own rules, that is what he will ultimately be judged by.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I would like to remind the Premier that now that he is in office, he will be judged on his actions and not just on his words. He can visit as many public servants as he wants, but when he breaks his own rules, that is what he will ultimately be judged by.</p>
 <p>I do agree that the Protocol Office serves an important function. In fact, it is responsible for something as important as the Order of Nova Scotia. Past winners of the Order of Nova Scotia include such eminent Nova Scotians as Anne Murray, Muriel Duckworth, John Savage himself - and I can just imagine what he is thinking today, Mr. Speaker - and Rocky Jones.</p>
 <p>I will ask the Premier, why does he believe it is okay to politicize such an important office?</p></speech>
           <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I want to remind the honourable member that my mother was also a recipient of the Order of Nova Scotia. I want to remind all members of this House that we announced yesterday that we would be hiring a 30-year worker in this province who had a career in journalism, worked in the private sector, and worked in the public sector as well.</p>
@@ -356,20 +357,20 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: PROTOCOL OFFICER - HIRING PROCESS</heading>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, yesterday we learned that the Premier had awarded the job of Chief Protocol Officer to a former Liberal Party staff member and failed Liberal candidate in the recent election.</p>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, yesterday we learned that the Premier had awarded the job of Chief Protocol Officer to a former Liberal Party staff member and failed Liberal candidate in the recent election.</p>
 <p>Mr. Speaker, the last time the Liberal Party was in government, back in the 1990s, they did the very same thing, appointed a Liberal Party insider as Chief of Protocol and passed over a 35-year veteran of the navy who had handled two royal visits and numerous tours by Prime Ministers and Governors General. I'd like to table some articles from the Cape Breton Post entitled Province Settles Patronage Dispute. This decision cost the province $67,000 a year following a complaint to the Human Rights Commission due to discrimination based on political affiliation.</p>
 <p>So my question to the Premier is, did the Premier decide not to hold an open competition for this $85,000-a-year position in order to avoid any embarrassing legal action if his favorite candidate wasn't successful in a fair and open competition?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I said earlier to a previous question, yesterday we hired a former journalist in this province, someone who has worked in the private and public sector for over 30 years, to become our new Chief Protocol Officer in this province. We did so by contract basis, and that contract will be renewed annually. If any future government wants to cancel that contract they can do so - and I want to add that there is no big buyout at the end of the day.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>MS. MACDONALD</from><p>Mr. Speaker, I'm going to table, from January of this year, a job description for a Junior Protocol Officer in the Province of Nova Scotia. That job description outlines duties and qualifications for that job which include oral and written French skills, a proven track record of budget forecasting and management, experience monitoring revenues and expenditures, and a minimum of four years of progressive event management and protocol experience.</p>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>Mr. Speaker, I'm going to table, from January of this year, a job description for a Junior Protocol Officer in the Province of Nova Scotia. That job description outlines duties and qualifications for that job which include oral and written French skills, a proven track record of budget forecasting and management, experience monitoring revenues and expenditures, and a minimum of four years of progressive event management and protocol experience.</p>
 <p>Therefore my question to the Premier is this, since there was no open and fair process, can the Premier tell us what specific assets and skills his preferred candidate and former communications director has to qualify for this $85,000-a-year position?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I've said in many answers already in this House, yesterday we hired a new Chief Protocol Officer with 30 years' experience as a journalist, working both in the private sector - yes, communicating on behalf of the citizens of this province. The contract that we hired on is renewed annually and any future government, if they do so wish, can undo that - and unlike previous governments, there is no big buyout at the end of this day.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>MS. MACDONALD</from><p>Mr. Speaker, it sounds like some of the pathetic excuses we've heard over the years for appointments to the Senate. Canadians have watched in disbelief as the details of appointments to the Senate are exposed on a daily basis, and they're fed up with public resources being used to partisan gain. One thing we all agree on is that people should receive positions of public responsibility based on merit.</p>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>Mr. Speaker, it sounds like some of the pathetic excuses we've heard over the years for appointments to the Senate. Canadians have watched in disbelief as the details of appointments to the Senate are exposed on a daily basis, and they're fed up with public resources being used to partisan gain. One thing we all agree on is that people should receive positions of public responsibility based on merit.</p>
 <p>I want to ask the Premier, if your former communications director was indeed the best person for the job, why wouldn't you have required that she have earned that position fair and square?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
@@ -382,7 +383,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: PROTOCOL OFFICER - POSITION ADVERTISEMENT</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>HON. JAMIE BAILLIE</from>
             <p>Mr. Speaker, when the Premier hired his friend to this important job, he says that he followed the government's own Fair Hiring Policy, so let's see. The Fair Hiring Policy states that "&#x2026; members of the public must be provided with reasonable access to notification of career opportunities within the Government of Nova Scotia." So I have a simple question. Was this position advertised, and if so, will the Premier provide a copy of that advertisement to the House before the end of Question Period today?</p>
           </speech>
@@ -390,14 +391,14 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I said earlier to the Leader of the Progressive Conservative Party, we hired a new Chief Protocol Officer yesterday, as was done in the past in this province. It is under the purview of the Executive Council of government to do so. We did not hire somebody into the Public Service. It has been based on a contract basis that will be renewed annually and any future government, if they so wish, can end that contract. I will also add: there is no big buyout at the end of the day.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, I guess we will take that as a no. The Premier said a moment ago that he followed his own hiring policies. When simply asked to provide the advertisement that those policies require, he didn't answer. We'll have to take that non-answer as a no.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I guess we will take that as a no. The Premier said a moment ago that he followed his own hiring policies. When simply asked to provide the advertisement that those policies require, he didn't answer. We'll have to take that non-answer as a no.</p>
 <p>I will say, Mr. Speaker, it's a pretty sad day in the Province of Nova Scotia when there's such blatant patronage going on and the low standard that the Premier sets is only that he didn't provide a balloon payment at the end, because in this case the payment is all upfront.</p>
 <p>Mr. Speaker, the Premier said in the media yesterday that several candidates were considered. I didn't know there were that many needy Liberals out there. I'll ask the Premier another simple yes or no question. Will the Premier tell the House how many candidates applied?</p></speech>
           <speech by="" as="#premier" status="undefined">
             <from>THE PREMIER</from>
             <p>Mr. Speaker, as I said earlier in this House, yesterday we hired a person with 30 years' experience. As a journalist working in both the private and public sector, communicating on behalf of her clients, we hired her on a contract basis. She is not a member of the civil service; that contract is renewed annually and any future government, if they so wish, can end that contract.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Well, Mr. Speaker, I guess the answer to "Was it advertised," is no, and the answer to "How many candidates were there," is I'm not going to tell you.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Well, Mr. Speaker, I guess the answer to "Was it advertised," is no, and the answer to "How many candidates were there," is I'm not going to tell you.</p>
 <p>Mr. Speaker, let me go on. The Fair Hiring Policy of the government, which the Premier says he followed, requires, "Screening and selection criteria &#x2026; Interviews, rating scales, answer keys, tests and related assessments, and reference checks that are impartial and relevant to the position."</p>
 <p>Mr. Speaker, the only reference check that we know was done in this case was the Premier himself who provided it by a YouTube video in September 2013, which is in the public domain where he said: Glennie would make a great addition to a Liberal Government. We have worked together for a number of years. Nothing would make me happier than to have her working as part of a Liberal Government - that's the only reference that was done.</p>
 <p>Mr. Speaker, the Premier has said publicly that there were other candidates. He won't tell us today how many there were, if any. Let me ask him another simple question, how many candidates were interviewed and by whom?</p></speech>
@@ -412,12 +413,12 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: PROTOCOL OFFICER - PSC INVOLVEMENT</heading>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, the taxpayers of Nova Scotia who are going to pay the bill for this blatant patronage appointment do not care if it's a contract or not. It is their money, and he is using it to pay off a Liberal friend - something he said he was against in Opposition. That is the issue here today.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, the taxpayers of Nova Scotia who are going to pay the bill for this blatant patronage appointment do not care if it's a contract or not. It is their money, and he is using it to pay off a Liberal friend - something he said he was against in Opposition. That is the issue here today.</p>
 <p>The Premier says he followed the government's Fair Hiring Policy, yet he can't produce an ad that that policy requires. He won't tell us how many candidates, if any, were attracted to the position, even though that is required, or even if they were interviewed. We can only assume the answer to all of those is no, no, no. The Fair Hiring Policy also states that the Public Service Commission itself is responsible for monitoring the effectiveness and consistent application of this policy.</p>
 <p>I'll ask the Premier another simple question: was the Public Service Commission consulted on this hire, and if not, will the Premier allow them to review the appointment and report back publicly to this House?</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, yesterday we hired a new Chief Protocol Officer in this province, one who has had 30 years' experience both in the public and private sector, working on behalf of her clients. She spent a number of years as a journalist. She's on an annual contract basis.</p>
+          <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, yesterday we hired a new Chief Protocol Officer in this province, one who has had 30 years' experience both in the public and private sector, working on behalf of her clients. She spent a number of years as a journalist. She's on an annual contract basis.</p>
 <p>Unlike other Progressive Conservative and New Democratic Governments who buried their patronage appointments inside of the Public Service, we were very upfront.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>Mr. Speaker, rubbing Nova Scotia taxpayers' noses in a blatant patronage appointment is not a step forward. It is a step backwards. It's nothing to brag about. Under the government's own policy, the Premier's own policy, the Public Service Commission is responsible for modelling public service values (Interruptions)</p>
           </speech>
@@ -425,17 +426,17 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The Leader of the Official Opposition has the floor.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>The Public Service Commission is responsible for modelling "&#x2026; public service values - Respect, Integrity, Diversity, Accountability, and the Public Good." Now, my question to the Premier is, why doesn't he show the same public service values now that he's the head of the Public Service?</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+          <speech by="#stephen.mcneil">
             <from>MR. MCNEIL</from>
             <p>Mr. Speaker, this government has continued to support the Public Service. I've been very proud of the way that they've responded to the new government. I've been very encouraged by the support that we've been given. I've been thrilled by their openness and willingness to help government return this province to fiscal sanity. I've been thrilled and inspired by the way they want to be part of finding the solutions to ensure that Nova Scotians have access to the services that they require. I am going to continue to work with the Public Service to make sure that Nova Scotians get the delivery of government services that they require.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Mr. Speaker, I highly doubt that making such a blatant patronage appointment will motivate the Public Service to follow their own Fair Hiring Policy, as much as I know they wish to do that.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I highly doubt that making such a blatant patronage appointment will motivate the Public Service to follow their own Fair Hiring Policy, as much as I know they wish to do that.</p>
 <p>The new Protocol Officer - picked by the Premier himself without any valid competition, in violent contravention of their own policy - was hired on a contract. The Premier says there is no penalty for ending that contract. I would like to give him an opportunity to do the right thing. Will the Premier rescind this blatant contract today and allow Ms. Langille to compete properly for it under the Fair Hiring Policy or not?</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to again thank the outgoing Chief Protocol Officer for the tremendous work that she has done on behalf of the citizens of the Province of Nova Scotia.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Mr. Speaker, I want to again thank the outgoing Chief Protocol Officer for the tremendous work that she has done on behalf of the citizens of the Province of Nova Scotia.</p>
 <p>Yesterday we hired a person who has 30 years' experience both in the private and public sector, and I want to wish the new Chief Protocol Officer all the best as she moves forward into her new job.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -444,7 +445,7 @@
         </debateSection>
         <debateSection>
           <heading>PREM.: PROTOCOL OFFICER - COMPETITION</heading>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>HON. MAUREEN MACDONALD</from>
             <p>Mr. Speaker, for several months now Nova Scotians have been hearing this Premier say over and over again that they can trust him and that he is going to lead an open and transparent government that will create change in Nova Scotia. It was even mentioned in the Throne Speech. My question to the Premier is, will he please explain how he is earning the trust of Nova Scotians with the swift patronage appointment of a former Liberal staffer, turned failed candidate, to an office without an open competition and not based on the principles of merit?</p>
           </speech>
@@ -452,7 +453,7 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, I've been very encouraged by the support that we've received from the Public Service as a new government, the way that they've been willing to work with us to ensure that we can deliver the services to Nova Scotians. Yesterday, we hired a new Chief Protocol Officer who will provide services to the Province of Nova Scotia, and I want to wish her well in her new job.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MACDONALD</from>
             <p>Mr. Speaker, the Premier doesn't get it. He doesn't get that this isn't about Ms. Langille; it's about his decision to create a contract for a job that has been filled for quite some time now through a fair and open competition based on merit. Yesterday, the Premier said there were other candidates considered for this non-advertised, non-posted, non-competed-for position. So I want to ask the Premier, in the interests of transparency, would he please tell Nova Scotians what other failed candidates or former staffers he considered for that or any other job he's not going to post in the public sector?</p>
           </speech>
@@ -460,7 +461,7 @@
             <from>THE PREMIER</from>
             <p>Mr. Speaker, we were notified by the Chief Protocol Officer that she would be retiring after a commitment of 30 years of public service to the people of Nova Scotia, and I want to commend her for the tremendous job that she has done on behalf of all of us. We then, yesterday, hired a new Chief Protocol Officer who has 30 years of experience, both in the public and private sector, on a contract that is well within the keeping of that position. There is no buyout at the end of this contract, unlike the former government who hid behind Cabinet secrecy to make sure they bumped up the severance packages of those leaving on contract to them.</p>
           </speech>
-          <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc">
+          <speech by="#maureen.macdonald">
             <from>MS. MACDONALD</from>
             <p>Mr. Speaker, the Premier can attempt to deflect from having to answer tough questions all he likes, but there is a question that he has failed to respond to here and that is, why did he decide not to have a fair and open competition, based on merit, for a job that has been advertised and put through a competitive process for quite some considerable period of time now?</p>
           </speech>
@@ -475,25 +476,25 @@
         </debateSection>
         <debateSection>
           <heading>ERDT: CORPORATE BAILOUTS - PRIVATE DEBT</heading>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, in Opposition the Liberal Government criticized the past government for their corporate bailouts. In a ChronicleHerald article this morning the Minister of Economic and Rural Development and Tourism was quoted as saying, "The whole idea here, if we're making an investment, is to help them grow, help them put people to work and not put that at risk." I'd like to table that, please.</p>
+          <speech by="#karla.macfarlane"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, in Opposition the Liberal Government criticized the past government for their corporate bailouts. In a ChronicleHerald article this morning the Minister of Economic and Rural Development and Tourism was quoted as saying, "The whole idea here, if we're making an investment, is to help them grow, help them put people to work and not put that at risk." I'd like to table that, please.</p>
 <p>It has been two months since the Liberals formed government and we have their first bailout, $1 million going to a company - to create jobs? No. To invest in infrastructure? No. The company is paying off private debt with government funds. My question to the Minister of Economic and Rural Development and Tourism is, is paying off a corporation's private debt a corporate bailout?</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, I want to thank the member for the question. The fact is, this was a decision that was brought forward to our government by Nova Scotia Business Incorporated with the support of their board. Ironically, later today we will be debating a bill by the Official Opposition asking that more funding be given to Nova Scotia Business Incorporated to do economic development. I'm a bit confused - does the Official Opposition support the decisions, the independent arm's length decisions of Nova Scotia Business Incorporated or don't they?</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16">
+          <speech by="#karla.macfarlane">
             <from>MS. MACFARLANE</from>
             <p>Mr. Speaker, in an article in allnovascotia.com, the CEO was quoted as saying that the company had no bank account to speak of and the company was "running on fumes", and I'll table that document as well. The definition of bailout, in case you're not aware, is an act of giving financial assistance to a failing business. The government gave the funds; the company was running on fumes. My question to the minister is, has the definition of bailout changed or was this a bailout?</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>MR. SAMSON</from>
             <p>Mr. Speaker, unfortunately what the member failed to read in that article and other articles is the fact that this business has been turning itself around, in fact it is now moving in the right direction. I should add as well, what the member fails to recognize is that there are also two other private investment partners that are putting additional investments in this company. Maybe she wants to put her question to those private investors as well, whether she thinks that they're putting money into a bailout or into what they see as an appropriate investment.</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16">
+          <speech by="#karla.macfarlane">
             <from>MS. MACFARLANE</from>
             <p>Mr. Speaker, Nova Scotia is $14 billion in debt. We have lost over 11,000 full-time jobs in the last four years, and I'll table that document. We have the highest taxes in the country and we have a stagnant economic growth. I would like to ask, why should Nova Scotians be on the hook to pay this debt instead of the company?</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>MR. SAMSON</from>
             <p>Mr. Speaker, there is significant investment that has been made in this particular company, not only by the province but as well by private funding partners who have put money into this. As I indicated, the company has turned itself around and we are certainly hopeful that the company is going to be successful moving into the future. This investment came from the recommendation of the Nova Scotia Business Incorporation with the support of their board and I would again ask, does the Official Opposition support Nova Scotia Business Incorporated or are they going to be critical of a decision made by an arm's length body at making an investment in this particular company?</p>
           </speech>
@@ -504,24 +505,24 @@
         </debateSection>
         <debateSection>
           <heading>TIR: PAVING PLANT - ELIMINATION</heading>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>HON. STERLING BELLIVEAU</from>
             <p>Mr. Speaker, my question is for the Minister of Transportation and Infrastructure Renewal. In 2011 the NDP made a decision to purchase a mobile paving plant, based on a business case, and we were happy to share the business case with all Nova Scotians, and I'll table that. Background information and statistics were available to the public on the government Web site. For some reason this evidence can no longer be found on-line. Can the minister please tell Nova Scotians when he received a business plan to eliminate the chip-seal crew and the asphalt plant?</p>
           </speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, as the member would know and the House would know, when the paving plant was brought to the House back in 2011, we opposed that endeavour by the former government. Number one, we don't agree that the government should be in private sector business; we shouldn't be competing with the private sector. This is a great example of that where it's a robust industry, the road builders and the paving industry here in Nova Scotia. That's no secret, Mr. Speaker. The financials - and I'm sure that the member wants to debate the numbers - I welcome that debate. I'm very familiar with the numbers that were associated with the paving plant. None of the financials, none of the numbers, none of the information supports keeping the paving plant on-line.</p>
+          <speech by="#geoff.maclellan"><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, as the member would know and the House would know, when the paving plant was brought to the House back in 2011, we opposed that endeavour by the former government. Number one, we don't agree that the government should be in private sector business; we shouldn't be competing with the private sector. This is a great example of that where it's a robust industry, the road builders and the paving industry here in Nova Scotia. That's no secret, Mr. Speaker. The financials - and I'm sure that the member wants to debate the numbers - I welcome that debate. I'm very familiar with the numbers that were associated with the paving plant. None of the financials, none of the numbers, none of the information supports keeping the paving plant on-line.</p>
 <p>Number three, there's a minimal impact, if any at all, on employees. I met with the leaders for CUPE to ensure them that all jobs that were connected to the paving plant will revert back to the seniority list within Transportation and Infrastructure Renewal. Anyone who was affected we will look at individually, to make sure the minimum impact is felt with employees. We don't want anyone to lose their job, Mr. Speaker.</p>
 <p>Finally, I've talked to many Nova Scotians in my own riding, on my own island and across this province. We made the right decision, they know we made the right decision. We shouldn't be in the paving business and that's pretty obvious. (Applause)</p></speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>MR. BELLIVEAU</from><p>Mr. Speaker, first of all this is no backbencher asking a question to the Minister of Transportation and Infrastructure Renewal. First of all, CUPE was outside here the first day, in a protest. In the first day, a week of your government, there was a protest at your constituency office.</p>
+          <speech by="#sterling.belliveau"><from>MR. BELLIVEAU</from><p>Mr. Speaker, first of all this is no backbencher asking a question to the Minister of Transportation and Infrastructure Renewal. First of all, CUPE was outside here the first day, in a protest. In the first day, a week of your government, there was a protest at your constituency office.</p>
 <p>Mr. Speaker, the decision to purchase a paving plant was made based on a business case. It meant that Nova Scotia could pay less for paving and could therefore pave more throughout the province. That decision had its biggest impact on rural roads in isolated regions of our province. It meant that roads that were traditionally unattractive to private paving firms could be done by a provincial crew. Simply put, it meant no one in rural Nova Scotia would be left behind.</p>
 <p>My question, Mr. Speaker, to the minister is - and I'll try my question in a different way - again, what actual evidence does the minister have to suggest that getting rid of the public paving plant will benefit Nova Scotians? Since the minister hasn't made any evidence available online, could he please table this information?</p></speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, first of all I think it's very unfair that the information that's being spread by the NDP with respect to the paving plant is inaccurate. There are two points that they're making and I'd like to address them now. First of all, prices in the paving industry dropped in the last number of years because we've had increased competition. (Interruption) Well if you'd like the answer, let me finish it.</p>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, first of all I think it's very unfair that the information that's being spread by the NDP with respect to the paving plant is inaccurate. There are two points that they're making and I'd like to address them now. First of all, prices in the paving industry dropped in the last number of years because we've had increased competition. (Interruption) Well if you'd like the answer, let me finish it.</p>
 <p>We've had increased competition from New Brunswick, Mr. Speaker, so in the last three years, between 2011 and 2014 budgeted, we've spent $167 million more just on roads, which means - we have an Atlantic Procurement Agreement, which means that those companies can come here and bid on our jobs. There's increased competition, that forces the prices down, that's what happened.</p>
 <p>Secondly, with respect to rural roads, we do a pretty poor job with tendering. We've got to tighten up the tendering process, we've got to get them out earlier and when we're putting companies in remote areas and we're asking them to do jobs, we've got to package those tenders so we can make sure that the logistics work to get Nova Scotians working.</p>
 <p>By the way, Mr. Speaker, the people in the construction industry and the people in the paving industry - they hire Nova Scotians too, and it's an important industry for all of us. (Applause)</p></speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>MR. BELLIVEAU</from><p>Mr. Speaker, you can see that it sounds to me like the minister doesn't have a business case.</p>
+          <speech by="#sterling.belliveau"><from>MR. BELLIVEAU</from><p>Mr. Speaker, you can see that it sounds to me like the minister doesn't have a business case.</p>
 <p>Mr. Speaker, the NDP recognized the purchase of the asphalt plant ensuring paving could take place in isolated communities that weren't attractive to private contractors. This will prove to be true with roads in remote communities, in Victoria and Guysborough Counties, just for example, as those communities receive paving that was long overdue.</p>
 <p>Mr. Speaker, why would the minister do away with a chip seal crew and asphalt plant when he knows paving in rural communities will suffer as a result? This is no backbencher asking the minister a question, I expect results. Thank you very much.</p></speech>
-          <speech by="#d6776846-b12b-4366-882f-9844bee20011"><from>MR. MACLELLAN</from><p>Mr. Speaker, I appreciate the question. It's coming from a member who just asked that question in his previous remarks. I just answered it and he just read the question, as opposed to reacting to what I just said so if he wants to talk about the business case, we just talked about the business case. This does not drive prices down - it doesn't drive prices down, this is not how this works.</p>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, I appreciate the question. It's coming from a member who just asked that question in his previous remarks. I just answered it and he just read the question, as opposed to reacting to what I just said so if he wants to talk about the business case, we just talked about the business case. This does not drive prices down - it doesn't drive prices down, this is not how this works.</p>
 <p>The paving plant did not compete with the private sector. The NDP will make the claim that it was a competitor with the private sector, which is entirely inaccurate because it didn't bid on projects. The private sector bid on their own and the private sector did that as a competition. The government selected certain spots and sent the paving plant there.</p>
 <p>That's not competition, Mr. Speaker. That doesn't affect the prices in the industry at all. The reality is, and Nova Scotians know this, we made the right decision. We're standing by that decision and the people of Nova Scotia can be proud that the Liberal Government here in early days in office made a good call on their behalf and we're sticking by that.</p></speech>
           <speech by="" as="#speaker" status="undefined">
@@ -531,11 +532,11 @@
         </debateSection>
         <debateSection>
           <heading>ERDT: JOB FUND - CABINET CONTROL</heading>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, the newly formed government has been quick to point out the flip-flops by the past government. Now that they have a chance to correct all the mistakes of the previous government, which I will admit is no small task, the government is caught in its own flip-flops. It is only 56 days into this government's mandate. One issue that the government hammered when in Opposition was the Cabinet-controlled slush fund.</p>
+          <speech by="#karla.macfarlane"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, the newly formed government has been quick to point out the flip-flops by the past government. Now that they have a chance to correct all the mistakes of the previous government, which I will admit is no small task, the government is caught in its own flip-flops. It is only 56 days into this government's mandate. One issue that the government hammered when in Opposition was the Cabinet-controlled slush fund.</p>
 <p>Mr. Speaker, my question through you to the Minister of Economic and Rural Development and Tourism is, and it's fairly simple, will these funds be removed from the control of the Cabinet?</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I'm pleased to say that we've got common ground between myself and the honourable member when it comes to talking about the challenges of the previous administration. We're certainly on the same page on that.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I'm pleased to say that we've got common ground between myself and the honourable member when it comes to talking about the challenges of the previous administration. We're certainly on the same page on that.</p>
 <p>Mr. Speaker, the fact is that we introduced legislation which is going to make any business deals done by the Province of Nova Scotia accessible to all Nova Scotians and be posted online. As well, we've indicated that there is going to be a third-party review of all economic development tools in this province; more importantly, not just to see what tools we are using, what changes would have to be made, but as well I'm pleased to announce they will also be looking at who exactly should be using the new economic development tools in this province.</p></speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16">
+          <speech by="#karla.macfarlane">
             <from>MS. MACFARLANE</from>
             <p>In the Liberal platform they said Nova Scotia needs jobs, not corporate welfare. (Interruptions)</p>
           </speech>
@@ -543,15 +544,15 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable member for Pictou West has the floor.</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. MACFARLANE</from><p>In a ChronicleHerald article, the Premier when in Opposition said: "It's a slush fund for cabinet ministers that sit around the cabinet table to decide who's going to get what." I will table that. From comments to media lately, the government's Cabinet plans to continue making decisions on where taxpayers' money goes rather than an arm's-length entity.</p>
+          <speech by="#karla.macfarlane"><from>MS. MACFARLANE</from><p>In a ChronicleHerald article, the Premier when in Opposition said: "It's a slush fund for cabinet ministers that sit around the cabinet table to decide who's going to get what." I will table that. From comments to media lately, the government's Cabinet plans to continue making decisions on where taxpayers' money goes rather than an arm's-length entity.</p>
 <p>Mr. Speaker, my question through you to the Minister of Economic and Rural Development and Tourism is, what changed in the last 56 days from where the current government slammed the past government for Cabinet-controlled slush funds, to supporting the practice once becoming government?</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>MR. SAMSON</from>
             <p>Mr. Speaker, as I indicated earlier, we've introduced legislation which will make all deals done by the Province of Nova Scotia accessible and will be made public and will be there for Nova Scotians to see for themselves how their money is being invested. (Applause) I indicated as well that we are undertaking a third-party review which will look at all the economic development tools that we have as a province, but in doing so I'm pleased to inform the member today that the Nova Scotia Jobs Fund, as it is currently structured, will no longer exist.</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. MACFARLANE</from><p>Mr. Speaker, the Premier agreed in Opposition that the multi-million dollar fund which hands out money to businesses to spur job creation lacks oversight and should be managed by an arm's-length agency rather than politicians. He said in a CBC article on May 17, 2011, "It's done in the secrecy of a cabinet room and it raises serious questions when Nova Scotians are not given an opportunity to review business plans," and he went on to say, "This is nothing more than a slush fund for cabinet ministers." I will table that.</p>
+          <speech by="#karla.macfarlane"><from>MS. MACFARLANE</from><p>Mr. Speaker, the Premier agreed in Opposition that the multi-million dollar fund which hands out money to businesses to spur job creation lacks oversight and should be managed by an arm's-length agency rather than politicians. He said in a CBC article on May 17, 2011, "It's done in the secrecy of a cabinet room and it raises serious questions when Nova Scotians are not given an opportunity to review business plans," and he went on to say, "This is nothing more than a slush fund for cabinet ministers." I will table that.</p>
 <p>My question to you, minister, is, which version of the Premier will answer this question - the one who stood up for taxpayers in Opposition or the one who wants his Cabinet to have control of that money?</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>Mr. Speaker, it's a bit amusing, the term "flip-flop", because on one end we have the Leader of the Official Opposition saying that all such deals should be done through NSBI, and yet earlier the member asked a question criticizing a decision by NSBI and supported by its board to invest in a company. With all due respect, this is only day two of Question Period and we're seeing flip-flops from the Official Opposition pretty quickly.</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Mr. Speaker, it's a bit amusing, the term "flip-flop", because on one end we have the Leader of the Official Opposition saying that all such deals should be done through NSBI, and yet earlier the member asked a question criticizing a decision by NSBI and supported by its board to invest in a company. With all due respect, this is only day two of Question Period and we're seeing flip-flops from the Official Opposition pretty quickly.</p>
 <p>As I indicated, a review is underway. As I mentioned, we are waiting for the Ivany commission report to come out - hopefully in early 2014 - which will give us a better sense of the challenges and some of the opportunities that we have moving forward and dealing with the economy of Nova Scotia. But as I indicated earlier, to give more assurances to the member, the Jobs Fund, as it currently exists, will be no longer.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -560,24 +561,24 @@
         </debateSection>
         <debateSection>
           <heading>FISH. &amp; AQUACULTURE: FOREIGN COMPANIES - LICENSING</heading>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a">
+          <speech by="#sterling.belliveau">
             <from>HON. STERLING BELLIVEAU</from>
             <p>Mr. Speaker, my question is for the Minister of Fisheries and Aquaculture. It's crucial as a province that we protect our natural resources. We must ensure that they are used for the benefit of Nova Scotians. My question is for the Minister of Fisheries and Aquaculture: does he support the DFO's granting of licences to foreign companies to catch and process Canadian quotas off the coast of Nova Scotia?</p>
           </speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
+          <speech by="#keith.colwell">
             <from>HON. KEITH COLWELL</from>
             <p>No.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>MR. BELLIVEAU</from><p>I certainly like the response, and I'm going to complete my questions. I really congratulate the minister for that direct response.</p>
+          <speech by="#sterling.belliveau"><from>MR. BELLIVEAU</from><p>I certainly like the response, and I'm going to complete my questions. I really congratulate the minister for that direct response.</p>
 <p>Mr. Speaker, all Nova Scotians were saddened by the news that Premium Seafoods of Arichat was destroyed by fire. I was pleased to read just a couple of weeks ago that the plant is being rebuilt and the people will be back to work soon. At the same time, I know that fishermen across this province were upset to learn that DFO had granted a licence to the Icelandic fishing trawler to catch and process 1,550 tons of redfish quota.</p>
 <p>My question for the minister is, has he had any discussions with DFO about the decision, and if so, what message did the minister give to his federal counterpart?</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
+          <speech by="#keith.colwell">
             <from>MR. COLWELL</from>
             <p>That's a question I'll ask the former minister. You were in the minister's position when that transpired, and I would like to know what you did. The decision was made before I became minister.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>MR. BELLIVEAU</from><p>Well, there was a thing called an "election" in between, but the decision - Mr. Speaker, I quickly want to point out that there is a memorandum of understanding with the provinces. I'm glad to hear the minister respond, so I want to know if he understands that there is a memorandum of understanding with the provinces and the federal government dealing with such decisions when it has an effect on Nova Scotians.</p>
+          <speech by="#sterling.belliveau"><from>MR. BELLIVEAU</from><p>Well, there was a thing called an "election" in between, but the decision - Mr. Speaker, I quickly want to point out that there is a memorandum of understanding with the provinces. I'm glad to hear the minister respond, so I want to know if he understands that there is a memorandum of understanding with the provinces and the federal government dealing with such decisions when it has an effect on Nova Scotians.</p>
 <p>Mr. Speaker, in the past election the Liberals ran on the campaign slogan, Nova Scotia First. My question for the minister is, with fishing vessels tied up around this province for much of the year, will he put Nova Scotia first by letting Ottawa know that under no circumstances should foreign trawlers be allowed to fish off our shores?</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
+          <speech by="#keith.colwell">
             <from>MR. COLWELL</from>
             <p>I'll thank the former Minister of Fisheries and Aquaculture. He should have thought of this when he was minister of the day. What I understand from the briefing I received from the staff in that situation is that the licence was allowed by DFO to harvest some product - that was supported by the past minister.</p>
           </speech>
@@ -588,11 +589,11 @@
         </debateSection>
         <debateSection>
           <heading>ENVIRON.: OTTER LAKE LANDFILL - CHANGES</heading>
-          <speech by="#8a9371ce-d9e8-428b-860a-534e16b12b1b">
+          <speech by="#iain.rankin">
             <from>MR. IAIN RANKIN</from>
             <p>Mr. Speaker, my question is for the Minister of Environment. Considering that HRM staff has delayed the vote on the future of the Otter Lake landfill report, will the minister state in this House that no changes will occur with respect to the front-end processing and waste stabilization facility?</p>
           </speech>
-          <speech by="#d20bcc3a-16f9-4444-9716-099229d6a03e">
+          <speech by="#randy.delorey">
             <from>HON. RANDY DELOREY</from>
             <p>Mr. Speaker, for this particular issue I just want to make it clear for the record that there has been no application and nothing before the Department of Environment for any changes or modifications to the approval for that facility, and it is the position of the department and the government that we will not entertain modifications to the existing approval.</p>
           </speech>
@@ -603,22 +604,22 @@
         </debateSection>
         <debateSection>
           <heading>JUSTICE: ANKLE BRACELETS - USAGE</heading>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, my question is for the Minister of Justice.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, my question is for the Minister of Justice.</p>
 <p>We all sympathize with the families of Raymond Taavel, who was killed 18 months ago, and also with the family of Andre Denny, who was on unescorted leave from the East Coast Forensic Hospital and is now facing a charge of murder. Many people believe that GPS ankle bracelets would monitor the movement of patients on leave, or offenders on bail, and give the authorities the tools they need to locate a person quickly. That could have made a difference for Mr. Taavel, and our actions in this Legislature can make a difference in the life of a future Nova Scotian.</p>
 <p>My question to the minister is, will the minister protect Nova Scotians from potentially dangerous people in our communities and use ankle bracelets?</p></speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+          <speech by="#lena.m.diab">
             <from>HON. LENA DIAB</from>
             <p>Mr. Speaker, we too very much sympathize with the Taavel family. It's very important to remember in this House that people receiving care in the forensic centre are patients and not offenders. I know my colleague in Health and Wellness has been studying this issue and we, at Justice, are very happy to look at all these reports and make recommendations with our colleagues.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. MACMASTER</from><p>Mr. Speaker, this is not just about patients, but it's also about offenders and the potential for a patient to become an offender, as we saw with the Taavel case. This past October, Paul Calnen was released on bail and he now lives in Hammonds Plains; he is charged with the murder of his girlfriend and, sadly, with the burning of her remains. No police officer can monitor that individual for 24 hours a day.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Mr. Speaker, this is not just about patients, but it's also about offenders and the potential for a patient to become an offender, as we saw with the Taavel case. This past October, Paul Calnen was released on bail and he now lives in Hammonds Plains; he is charged with the murder of his girlfriend and, sadly, with the burning of her remains. No police officer can monitor that individual for 24 hours a day.</p>
 <p>My question to the minister is, will she explain to the families of her neighbouring constituency why this accused offender is unmonitored, only monitored based on his honour and his personal commitment to meet the terms of his house arrest?</p></speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><from>MS. DIAB</from><p>Mr. Speaker, I understand that Nova Scotians are very concerned; so, too, are we at Justice. As I already said, people who are deemed to be not criminally responsible are not offenders and are patients.</p>
+          <speech by="#lena.m.diab"><from>MS. DIAB</from><p>Mr. Speaker, I understand that Nova Scotians are very concerned; so, too, are we at Justice. As I already said, people who are deemed to be not criminally responsible are not offenders and are patients.</p>
 <p>I will ask the Minister of Health and Wellness to address this issue.</p></speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>HON. LEO GLAVINE</from><p>Mr. Speaker, I thank the honourable member for the question. This is an issue that the Department of Health and Wellness has moved to a study position. The Wickwire Home report has, in fact, spent quite a bit of time addressing GPS tracking as one of the possible options that can be used.</p>
+          <speech by="#leo.glavine"><from>HON. LEO GLAVINE</from><p>Mr. Speaker, I thank the honourable member for the question. This is an issue that the Department of Health and Wellness has moved to a study position. The Wickwire Home report has, in fact, spent quite a bit of time addressing GPS tracking as one of the possible options that can be used.</p>
 <p>I'm pleased to say that at the East Coast Forensic Centre, the 18 recommendations that were made after the Taavel tragedy have been implemented, certainly around the assessment of the patient, around education of the staff, more rigour in determining the supervised and unsupervised passes - but yet we know there will be occasions when a patient may not return, so for that reason we are taking a look at the best information coming out of the United Kingdom and in collaboration with Justice we will have a recommendation coming forward.</p></speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. MACMASTER</from><p>Mr. Speaker, I know the government is concerned about the self-esteem of the patients and what could happen to them and their minds if they are wearing one of these bracelets. I do know that in the U.K. there is even recognition that it actually leads to more freedom for patients because there is a higher level of trust because the bracelet ensures that they are monitored 24 hours a day.</p>
+          <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Mr. Speaker, I know the government is concerned about the self-esteem of the patients and what could happen to them and their minds if they are wearing one of these bracelets. I do know that in the U.K. there is even recognition that it actually leads to more freedom for patients because there is a higher level of trust because the bracelet ensures that they are monitored 24 hours a day.</p>
 <p>Now last week we saw another patient, who was deemed not criminally responsible for a crime, disappear from the East Coast Forensic Hospital. This is the same start of events that led to Mr. Taavel's death. This government has a chance to improve safety. My question to the Minister of Justice or to the Minister of Health and Wellness is, how many Nova Scotians will be put in harm's way before we get moving with more use of these ankle bracelets?</p></speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. GLAVINE</from><p>Mr. Speaker, right now we are taking a look at what are the ethical, the legal, the human rights, whether or not our Criminal Code structure can also be applied in the same way as these bracelets are used in the UK with incarcerated prisoners and prisoner/patients in their case. For that reason, we have to make sure that we do the best research on this.</p>
+          <speech by="#leo.glavine"><from>MR. GLAVINE</from><p>Mr. Speaker, right now we are taking a look at what are the ethical, the legal, the human rights, whether or not our Criminal Code structure can also be applied in the same way as these bracelets are used in the UK with incarcerated prisoners and prisoner/patients in their case. For that reason, we have to make sure that we do the best research on this.</p>
 <p>I can assure the honourable member that this Minister of Health and Wellness will not be shy about being the first province in Canada with this GPS monitoring if it is, indeed, the right direction to go.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -627,22 +628,22 @@
         </debateSection>
         <debateSection>
           <heading>NAT. RES. - CROWN LAND MANAGEMENT</heading>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Mr. Speaker, my question is for the Minister of Natural Resources. Our forests built this province. For hundreds of years they have provided good jobs that keep our young people here at home, instead of going down the road. Our forests are also places of great beauty and diversity. Striking the balance between conservation and economic prosperity is a fine line and not everyone is going to agree upon how this balance can be achieved.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Mr. Speaker, my question is for the Minister of Natural Resources. Our forests built this province. For hundreds of years they have provided good jobs that keep our young people here at home, instead of going down the road. Our forests are also places of great beauty and diversity. Striking the balance between conservation and economic prosperity is a fine line and not everyone is going to agree upon how this balance can be achieved.</p>
 <p>Mr. Speaker, how does this minister expect to maintain Nova Scotia's new reputation as a leader in Crown land management when he has members of his own caucus - the member for Guysborough-Eastern Shore-Tracadie, for example - on record calling Nova Scotia's land protection targets absolutely insane and a complete farce?</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>HON. ZACH CHURCHILL</from>
             <p>Mr. Speaker, I thank the member for her question. When the vote came to this House of Assembly on the protected land targets it was a unanimous vote. It was a 12 per cent target that all Parties in this House supported and those targets remain committed to by this government.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. ZANN</from><p>Mr. Speaker, I'm glad to hear that the minister now supports what our former government did. Actually we exceeded that target and we got 13 per cent instead of 12 per cent. The NDP stood shoulder-to-shoulder with forestry workers and conservationists when the former Bowater lands came under provincial jurisdiction. We stood up and protected the land that we all call home.</p>
+          <speech by="#lenore.zann"><from>MS. ZANN</from><p>Mr. Speaker, I'm glad to hear that the minister now supports what our former government did. Actually we exceeded that target and we got 13 per cent instead of 12 per cent. The NDP stood shoulder-to-shoulder with forestry workers and conservationists when the former Bowater lands came under provincial jurisdiction. We stood up and protected the land that we all call home.</p>
 <p>Mr. Speaker, given that the minister has been an outspoken proponent of reducing our protected lands, can he explain how he plans to strike that fine line now that he is responsible for both the economic well-being of those who work the forest and also those who simply want to enjoy it?</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>Mr. Speaker, just to clarify for the House of Assembly, I have never been a proponent of reducing protected land targets. In fact I voted for those protected land targets in this House of Assembly, along with every other single member.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, just to clarify for the House of Assembly, I have never been a proponent of reducing protected land targets. In fact I voted for those protected land targets in this House of Assembly, along with every other single member.</p>
 <p>Our government remains committed to those targets. What the member is referring to is a petition that I signed that was brought to my attention, from constituents, signed by over 2,200 people, who did not feel that their views were included in the consultation process that the previous government had laid out for those protected lands. That is a community that lives in a border area with those protected lands.</p>
 <p>Differently from the previous government, we'll make sure those views are considered when we move forward on these discussions.</p></speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef">
+          <speech by="#lenore.zann">
             <from>MS. ZANN</from>
             <p>Mr. Speaker, I thank the member for his answer. We do have a copy of that letter in fact and we can table that. But it does sound like a bit of a flip-flop to me. Being responsible for the largest amount of Crown land in Nova Scotia's history will not be easy. It's going to be a hard job and today it's going to be even harder because this minister is now tasked with reducing his Natural Resources budget by 1 per cent. My question to the minister is, where can foresters and conservationists expect the cuts to come from?</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>MR. CHURCHILL</from>
             <p>Thank you for the question. Mr. Speaker, we have a budget reduction target that we're going to achieve within our department. We are doing that so we can reinvest in the cuts the previous government made to our education system and our health care system. I am committed to ensuring that those budget targets - which is 1 per cent, that is a small amount of our budget - will not impact our land management strategy or our forestry products in the Province of Nova Scotia.</p>
           </speech>
@@ -653,25 +654,25 @@
         </debateSection>
         <debateSection>
           <heading>COM. SERV.: BUDGET CUTS - DETAILS</heading>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6">
+          <speech by="#gordie.gosse">
             <from>MR. GORDIE GOSSE</from>
             <p>Mr. Speaker, my question is for the Minister of Community Services. During the election, the Liberals promised to cut 1 per cent from almost every single government department. In the Department of Community Services, this cut equals roughly $10 million. I will table that. Can the minister please explain where she plans to make these cuts?</p>
           </speech>
-          <speech by="#2e5849a6-1166-4e40-a605-3ecbb1a5463b">
+          <speech by="#joanne.bernard">
             <from>HON. JOANNE BERNARD</from>
             <p>Mr. Speaker, I believe I answered the question yesterday. It will come through the administrative sections of the department and I've also committed that not one penny will affect the clients or the service providers that provide the superior services to the most vulnerable of Nova Scotians.</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GOSSE</from><p>Mr. Speaker, it was within the department. I'm looking for numbers. According to the minister, she plans to find millions of dollars in savings by identifying inefficiencies within the department. The last time the Liberals were in power they found many jobs to be inefficient. As a result, Nova Scotians found empty desks, disconnected phone lines when they tried connecting with people they once counted on for support.</p>
+          <speech by="#gordie.gosse"><from>MR. GOSSE</from><p>Mr. Speaker, it was within the department. I'm looking for numbers. According to the minister, she plans to find millions of dollars in savings by identifying inefficiencies within the department. The last time the Liberals were in power they found many jobs to be inefficient. As a result, Nova Scotians found empty desks, disconnected phone lines when they tried connecting with people they once counted on for support.</p>
 <p>My second supplementary is, does the current Liberal minister's definition of inefficiency also include jobs?</p></speech>
-          <speech by="#2e5849a6-1166-4e40-a605-3ecbb1a5463b">
+          <speech by="#joanne.bernard">
             <from>MS. BERNARD</from>
             <p>Mr. Speaker, a complete review will be undergoing in the administrative inefficiencies of the department. We will not be cutting anything from the programs that directly affect service providers or the clients of the department.</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6">
+          <speech by="#gordie.gosse">
             <from>MR. GOSSE</from>
             <p>Mr. Speaker, the minister would like Nova Scotians to believe she will be able to magically cut and find millions of dollars in savings by cutting down on photocopying but the reality is her plan just doesn't add up. My question to the minister is, when do the layoffs start?</p>
           </speech>
-          <speech by="#2e5849a6-1166-4e40-a605-3ecbb1a5463b">
+          <speech by="#joanne.bernard">
             <from>MS. BERNARD</from>
             <p>Mr. Speaker, again, we will be looking at administrative inefficiencies that will not affect the front-line programs or services that go to vulnerable Nova Scotians.</p>
           </speech>
@@ -682,17 +683,17 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS: VLT MORATORIUM ACT - FIRST NATIONS</heading>
-          <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><from>MR. JOHN LOHR</from><p>Mr. Speaker, in 2006, the current Minister of Health and Wellness introduced an amendment to the Video Lottery Terminals Moratorium Act that brings VLTs administered by First Nations bands into the moratorium. I will table that bill now.</p>
+          <speech by="#john.a.lohr"><from>MR. JOHN LOHR</from><p>Mr. Speaker, in 2006, the current Minister of Health and Wellness introduced an amendment to the Video Lottery Terminals Moratorium Act that brings VLTs administered by First Nations bands into the moratorium. I will table that bill now.</p>
 <p>My question to the minister responsible is, does the minister stand behind his colleagues' Opposition bill or has his Party's views changed now that they are in government?</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>HON. ANDREW YOUNGER</from><p>Mr. Speaker, I know there has always been a confusion on which part it is but Part 1 of the Gaming Control Act is VLTs. There you go. So I thank the honourable member for the question.</p>
+          <speech by="#andrew.younger"><from>HON. ANDREW YOUNGER</from><p>Mr. Speaker, I know there has always been a confusion on which part it is but Part 1 of the Gaming Control Act is VLTs. There you go. So I thank the honourable member for the question.</p>
 <p>The issue of Aboriginal gaming is far more complicated than some of the other parts, as the member will be aware. It is governed by the 2011 Aboriginal gaming agreement with the province. Obviously that is an agreement between governments, between the province and between the Aboriginal community, and we respect that agreement.</p></speech>
-          <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><from>MR. LOHR</from><p>Mr. Speaker, in 2004 at the Standing Committee on Public Accounts the current Minister of Health and Wellness said he believed VLTs on First Nations were not used only by First Nations people and that the machines represented an opportunity for problem gamblers to gamble - kind of a loophole. I will table the transcript of that committee meeting now.</p>
+          <speech by="#john.a.lohr"><from>MR. LOHR</from><p>Mr. Speaker, in 2004 at the Standing Committee on Public Accounts the current Minister of Health and Wellness said he believed VLTs on First Nations were not used only by First Nations people and that the machines represented an opportunity for problem gamblers to gamble - kind of a loophole. I will table the transcript of that committee meeting now.</p>
 <p>My question to the minister, does the minister responsible agree with his Party's past position or has it changed now that they are in government?</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. YOUNGER</from><p>Mr. Speaker, as the member pointed out, that was before the committee, in 2004. The Province of Nova Scotia, in 2011, reached and entered into a legally-binding arrangement with the Aboriginal communities of this province.</p>
+          <speech by="#andrew.younger"><from>MR. YOUNGER</from><p>Mr. Speaker, as the member pointed out, that was before the committee, in 2004. The Province of Nova Scotia, in 2011, reached and entered into a legally-binding arrangement with the Aboriginal communities of this province.</p>
 <p>Mr. Speaker, I'm not sure whether the honourable member is suggesting that this government should walk away from a legally-binding contract with our First Nations. I'd be shocked if that's what he is suggesting.</p></speech>
-          <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><from>MR. LOHR</from><p>Mr. Speaker, I'm happy to get to what I am suggesting. A gaming centre with 45 VLTs will soon be opened in a residential area of Hammonds Plains. There are plans to add 100 more machines. The local residents opposed the centre.</p>
+          <speech by="#john.a.lohr"><from>MR. LOHR</from><p>Mr. Speaker, I'm happy to get to what I am suggesting. A gaming centre with 45 VLTs will soon be opened in a residential area of Hammonds Plains. There are plans to add 100 more machines. The local residents opposed the centre.</p>
 <p>My question to the minister, will the government resurrect its 2006 bill or will it sit back and let that gaming centre go ahead, despite what the Minister of Health and Wellness said in 2004 and 2006?</p></speech>
-          <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><from>MR. YOUNGER</from><p>Mr. Speaker, first I would suggest that the honourable member talk to his federal cousins since the only reason that is being allowed to go ahead is because of a federal decision on creating band lands in that area.</p>
+          <speech by="#andrew.younger"><from>MR. YOUNGER</from><p>Mr. Speaker, first I would suggest that the honourable member talk to his federal cousins since the only reason that is being allowed to go ahead is because of a federal decision on creating band lands in that area.</p>
 <p>Mr. Speaker, the honourable member will be well aware that there are allocations of VLTs under the 2011 gaming agreement. That gaming agreement, just like any other agreement between the Government of Nova Scotia and an Aboriginal community, is an agreement in good faith. It is a contact between those parties.</p>
 <p>Mr. Speaker, a bill before this Legislature that would change that agreement between the First Nations communities of this country, the First Peoples of this country and the Province of Nova Scotia would put this province in court for years to come.</p></speech>
           <speech by="" as="#speaker" status="undefined">
@@ -702,25 +703,25 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS: RENAL DIALYSIS - REVIEW</heading>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c">
+          <speech by="#chuck.porter">
             <from>MR. CHUCK PORTER</from>
             <p>Mr. Speaker, my question is for the Minister of Health and Wellness. I know the minister has been in his role for only a couple of months but I know from his many years in this House that he also held the role of Health Critic and he also understands the needs of those requiring renal dialysis in this province. I wonder if the minister is committed to reviewing some of the decisions made by past governments that do not address the needs of all Nova Scotians, especially those in rural Nova Scotia?</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a">
+          <speech by="#leo.glavine">
             <from>HON. LEO GLAVINE</from>
             <p>Mr. Speaker, I really thank the member opposite, the Health Critic, for that question. It's a very significant question. There are over 3,000 Nova Scotians who suffer from some form of kidney disease, over 500 who receive dialysis. There are three programs across Nova Scotia - one in Sydney, one in Yarmouth and of course the largest one here at the QE II. The QE II, therefore, is the guiding health authority or department that decides on what satellite communities will be established. Presently Kentville is the community that will receive the next satellite dialysis opportunity in the province. That should be in place within about 18 months and it's going to do two things and that is take pressure off the program here at the QE II as well as allow more people to stay in the Valley as opposed to commuting to Halifax.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c"><from>MR. PORTER</from><p>Mr. Speaker, I thank the minister for that response. I know he's very familiar, and I certainly know how familiar he is with the decisions that have been made for Kentville. Now, I wouldn't suggest for a moment that Kentville does not deserve to have dialysis in that area - they do, as does Berwick, where they are currently located and many people travel to from my area as well.</p>
+          <speech by="#chuck.porter"><from>MR. PORTER</from><p>Mr. Speaker, I thank the minister for that response. I know he's very familiar, and I certainly know how familiar he is with the decisions that have been made for Kentville. Now, I wouldn't suggest for a moment that Kentville does not deserve to have dialysis in that area - they do, as does Berwick, where they are currently located and many people travel to from my area as well.</p>
 <p>There was a suggestion, however, that - we are all familiar with the Hants Community Hospital, I know that the minister is - in the Windsor area that has volunteers, a board and a foundation that has raised tens of thousands of dollars, Mr. Speaker, to support the purchase of renal dialysis units there. They also have staff whom I have spoken to who are willing to come back home to work. Would the minister consider this, given all of the options that have been put out there, the support that does exist and still exists, to review that decision for Kentville - maybe share some of that wealth, if he will, throughout the Valley to cover all areas and to relieve some of the physical and mental stress as well as the financial burdens that go along with those travelling for dialysis treatment?</p></speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a">
+          <speech by="#leo.glavine">
             <from>MR. GLAVINE</from>
             <p>Mr. Speaker, this is one of the health areas that we know is going to have greater demands in the future, just looking at the aging population, and it goes along with of course chronic disease, and sometimes multiple diseases that our citizens will have. So at the present time there isn't a plan for Windsor, but looking at the demand that we will have and trying to take some pressure off the 42 beds, three shifts that go through the QE II, I am sure that there can be a review to get best guidance from the QE II as to the need and the help that may be able to be provided from other sites across the province.</p>
           </speech>
-          <speech by="#310e08cc-3724-403f-821e-1a1076a68e6c">
+          <speech by="#chuck.porter">
             <from>MR. PORTER</from>
             <p>Mr. Speaker, again I thank the honourable minister for that answer. A review is one word and I guess that's where we can start, but I really hope that he takes seriously what is being offered by those folks in the Windsor-West Hants area. What they have to offer is something that has not been offered anywhere else, minister, and I know that you know that as well. So what an opportunity to seek that help and to add it to straining budgets. We know that they all exist, we know things cost money, but I hope seriously that the minister will do more than take it under review, that he will look at a serious plan in the months ahead to have some discussions with those people out there as well who deserve to be treated fairly and to take those stresses off those travelling who need that renal dialysis.</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. GLAVINE</from><p>I thank the member for the question and I think all of us in this House know that patients who suffer kidney disease go through a very, very challenging disease, having to go to a centre three times a week if they're not able to be a candidate for home dialysis. One of the facts that we should all know in this House about the renal program in our province is that we're actually a national leader in the number of citizens who actually receive a kidney transplant. That is a very, very good thing that we're able to speak about on a per capita basis, having the highest number of kidney transplants which becomes a final health delivery for many people.</p>
+          <speech by="#leo.glavine"><from>MR. GLAVINE</from><p>I thank the member for the question and I think all of us in this House know that patients who suffer kidney disease go through a very, very challenging disease, having to go to a centre three times a week if they're not able to be a candidate for home dialysis. One of the facts that we should all know in this House about the renal program in our province is that we're actually a national leader in the number of citizens who actually receive a kidney transplant. That is a very, very good thing that we're able to speak about on a per capita basis, having the highest number of kidney transplants which becomes a final health delivery for many people.</p>
 <p>That being said, we know the kind of pressure that is on renal dialysis and I certainly compliment the member opposite for the work he has done on this file and also the citizens in the Windsor area who want to see a site there. It is certainly one that can receive consideration and I thank the member for bringing it forward.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -729,22 +730,22 @@
         </debateSection>
         <debateSection>
           <heading>AGRIC.: FARM GROWTH - PLANS</heading>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Mr. Speaker, my first question is for the Minister of Agriculture. There are 3,900 farms in Nova Scotia and over the last four years our NDP Government has supported farmers and young farmers staying in Nova Scotia and moving to Nova Scotia. Therefore, Nova Scotia is the only province in Canada to see its number of farms actually increase. We now have 236 farms that have grown in Nova Scotia.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Mr. Speaker, my first question is for the Minister of Agriculture. There are 3,900 farms in Nova Scotia and over the last four years our NDP Government has supported farmers and young farmers staying in Nova Scotia and moving to Nova Scotia. Therefore, Nova Scotia is the only province in Canada to see its number of farms actually increase. We now have 236 farms that have grown in Nova Scotia.</p>
 <p>My question to the minister is, will he please tell the House his plans to ensure the growth of farms in Nova Scotia and that it continues to increase?</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
+          <speech by="#keith.colwell">
             <from>HON. KEITH COLWELL</from>
             <p>I'd like to thank the member for the question and it is a very important question. We must grow agriculture in Nova Scotia. The numbers have already indicated that there is growth in Nova Scotia. We need to continue that. But we need to continue that on a very sustainable base, based on best business practices and I assure you that we intend to do that.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. ZANN</from><p>Mr. Speaker, thank you to the minister. It doesn't quite answer my question. There was no specific answer there about what he intends to do.</p>
+          <speech by="#lenore.zann"><from>MS. ZANN</from><p>Mr. Speaker, thank you to the minister. It doesn't quite answer my question. There was no specific answer there about what he intends to do.</p>
 <p>Mr. Speaker, not everyone in Nova Scotia is fortunate enough to have immediate access to farm-fresh food, nor do they have the choice to shop at a local farm instead of at a chain store. I know, for instance, that the Federation of Agriculture is very keen to improve farmers' lives and livelihoods by supporting locally-grown food.</p>
 <p>My question through you, Mr. Speaker, does the minister believe that access to farm-fresh food is important for all Nova Scotians and does he support an investment tax credit for our farmers, as the Federation of Agriculture is requesting?</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033">
+          <speech by="#keith.colwell">
             <from>MR. COLWELL</from>
             <p>Again, I've had those discussions with the Federation of Agriculture. It's a very important question and it's one that we have to discuss both provincially and federally, to ensure that could happen. It's one that I intend to pursue but it will take some time.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. ZANN</from><p>Mr. Speaker, again I didn't really hear any specifics in that answer so I'm definitely going to be very interested to see what the minister intends for the Department of Agriculture and for our farmers.</p>
+          <speech by="#lenore.zann"><from>MS. ZANN</from><p>Mr. Speaker, again I didn't really hear any specifics in that answer so I'm definitely going to be very interested to see what the minister intends for the Department of Agriculture and for our farmers.</p>
 <p>Yesterday we heard the Premier say that your government will only honour capital commitments, not program commitments as he said before the election, which leads me to believe that the very popular CSA program expansion will not go forward. My final question is, would the minister please explain how he will increase access to farm-fresh foods while not expanding this popular community shared agriculture program and also cutting one per cent of his department?</p></speech>
-          <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><from>MR. COLWELL</from><p>We intend to maintain the very important programs that are in place to support the growth of farming in Nova Scotia and also to make the farms more viable. There's a serious business case and we've had discussions already with the Federation of Agriculture around training farmers to be more efficient, more business-like in their operations and that's very important.</p>
+          <speech by="#keith.colwell"><from>MR. COLWELL</from><p>We intend to maintain the very important programs that are in place to support the growth of farming in Nova Scotia and also to make the farms more viable. There's a serious business case and we've had discussions already with the Federation of Agriculture around training farmers to be more efficient, more business-like in their operations and that's very important.</p>
 <p>As we move forward the member will see that we've got a very aggressive agenda for the farming industry in the province. We hope to grow that industry, we hope to grow it on a solid base and a base that will ensure that the industry survives and grows and we can get more local product into Nova Scotia, instead of being imported from outside the province.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -753,21 +754,21 @@
         </debateSection>
         <debateSection>
           <heading>HEALTH &amp; WELLNESS - CONTINUING CARE STRATEGY</heading>
-          <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><from>MR. LARRY HARRISON</from><p>Mr. Speaker, my question is for the Minister of Health and Wellness. In my former life, this has been an issue that has plagued me for a very long time. Seniors in Nova Scotia really had been left behind by the previous government and, despite recent calls by the Progressive Conservative caucus to respond to the growing wait-list for these long-term care facilities, nothing was really done. Now while in Opposition, Liberals remained silent on the issue but we have recently learned that they plan to come up with a new Continuing Care Strategy.</p>
+          <speech by="#larry.harrison"><from>MR. LARRY HARRISON</from><p>Mr. Speaker, my question is for the Minister of Health and Wellness. In my former life, this has been an issue that has plagued me for a very long time. Seniors in Nova Scotia really had been left behind by the previous government and, despite recent calls by the Progressive Conservative caucus to respond to the growing wait-list for these long-term care facilities, nothing was really done. Now while in Opposition, Liberals remained silent on the issue but we have recently learned that they plan to come up with a new Continuing Care Strategy.</p>
 <p>So my question to you minister is, will the minister abandon the unfinished plans laid out in the original Continuing Care Strategy, or will he fulfil promises made to facilities across this province?</p></speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>HON. LEO GLAVINE</from><p>I thank the member opposite for a very important question. I know that over the last weeks and months this issue has been profiled in the media but more importantly families in Nova Scotia are asking that we do have very definite plans and changes to improve access to care for their loved ones. There are members in our community for whom a nursing home, in fact, can be the best place of care.</p>
+          <speech by="#leo.glavine"><from>HON. LEO GLAVINE</from><p>I thank the member opposite for a very important question. I know that over the last weeks and months this issue has been profiled in the media but more importantly families in Nova Scotia are asking that we do have very definite plans and changes to improve access to care for their loved ones. There are members in our community for whom a nursing home, in fact, can be the best place of care.</p>
 <p>Our program will put a lot of emphasis on doing more in the home, and we're talking about help and supports in the home not just hoping people will stay there. That being said, the current plan of replacement is moving towards going before Cabinet. We know there are a number of beds - basically 759 - that need replacement across the province and a number of aging facilities that need that upgrade. Most of those now have been reviewed and some have even started with preliminary plans. We do plan to continue the continuing care strategy with some update and refocus.</p></speech>
-          <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c">
+          <speech by="#larry.harrison">
             <from>MR. HARRISON</from>
             <p>Mr. Speaker, the first part of the issue the minister addressed. There is another part to this issue as well and that is that these folks are left to the responsibility of family members and this puts a tremendous strain on families and often it leads to ill health and I know financial hardships for a lot of the households. My question is, will the government review the continuing care sector? Will this include addressing the needs of the caregivers?</p>
           </speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a">
+          <speech by="#leo.glavine">
             <from>MR. GLAVINE</from>
             <p>Thank you, and indeed a question very relevant to this entire issue. We know there is demand for respite to provide families, who give a large amount of care to their parents, an opportunity to be able to have rest and recovery. During the past year the previous government put an additional $22 million into the home care program so we can get some sense of the growing demands that it requires. The more we research the more we hear that people want to stay in their own home and we need to put those kind of supports and helps in place so that the caregiver doesn't get burnt out and gets the kind of relief to continue what is high quality care in their own home.</p>
           </speech>
-          <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><from>MR. HARRISON</from><p>Mr. Speaker, this is a third part to the problem. I know when I was in palliative care at the hospital in Truro, many people were on a wait-list for long-term care and although many seniors wish to remain in their own homes, there are instances where it's just not possible. Now, without the proper resources and the long waits, seniors are often too frail to return home once they're seen by their doctor. The Premier has said that he does not plan to honour the promise for new long-term beds. The Liberals have also not indicated whether they will live up to the remaining commitments under the original Continuing Care Strategy.</p>
+          <speech by="#larry.harrison"><from>MR. HARRISON</from><p>Mr. Speaker, this is a third part to the problem. I know when I was in palliative care at the hospital in Truro, many people were on a wait-list for long-term care and although many seniors wish to remain in their own homes, there are instances where it's just not possible. Now, without the proper resources and the long waits, seniors are often too frail to return home once they're seen by their doctor. The Premier has said that he does not plan to honour the promise for new long-term beds. The Liberals have also not indicated whether they will live up to the remaining commitments under the original Continuing Care Strategy.</p>
 <p>So my question is, how does the minister expect to address the growing wait-lists without recognizing the needs of those who can no longer live at home?</p></speech>
-          <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a">
+          <speech by="#leo.glavine">
             <from>MR. GLAVINE</from>
             <p>Mr. Speaker, I know the current number is at slightly over 2,500 hoping to get into a nursing home. As I've said previously, there is a range of frailty that our seniors are experiencing, and some need to be in a nursing home today. Maybe others, with help and support to the home, can remain there longer. Over the course of our government in office we will address those communities that are in need of nursing home replacement beds, and we will continue to take a look at some geographic areas that have no nursing home beds at the moment. It is of major concern in our province that we do first update those nursing homes that need to be replaced.</p>
           </speech>
@@ -778,23 +779,23 @@
         </debateSection>
         <debateSection>
           <heading>NAT. RES.: BOWATER LANDS - TIMBER HARVESTING</heading>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you is for the Minister of Natural Resources. The forest industry in Nova Scotia is one of the oldest industries we have. We have seen major changes by the previous government which have had a negative impact on that industry. When the minister was in Opposition, he advocated for the Bowater lands to be used for timber harvesting.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you is for the Minister of Natural Resources. The forest industry in Nova Scotia is one of the oldest industries we have. We have seen major changes by the previous government which have had a negative impact on that industry. When the minister was in Opposition, he advocated for the Bowater lands to be used for timber harvesting.</p>
 <p>So my question to the minister is, after 56 days in government, what has been done to ensure timber harvesting of this land will continue as it has for years and years?</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>HON. ZACH CHURCHILL</from>
             <p>Mr. Speaker, I would like to thank the member for that question. In Opposition and in government, we remain committed to ensuring that the previous western lands that were owned by Bowater are used to their greatest effectiveness in terms of socio-economic benefit for the people of Nova Scotia. A big part of that is going to be for the forestry industry.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25">
+          <speech by="#alfie.macleod">
             <from>MR. MACLEOD</from>
             <p>Mr. Speaker, I want to thank the minister for that answer. The Bowater Mersey lands were independently valued at $120 million. The economic benefit of this land, the timber exports, and the value-added products manufactured by these lands increase that value greatly. There were over 300 jobs lost - when you consider the loss of timber into the economy, that trickles down to many, many more that have been negatively affected. So my question to the minister is, when will the lands be opened up for harvesting so the economy can start to rebuild?</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>MR. CHURCHILL</from>
             <p>Thank you very much, Mr. Speaker, through you to the member for the question. I'm very sympathetic to the challenges that the forestry industry has been facing. Part of that has been that those western lands have been tied up. One of the first orders of business for me, when I came in as minister, was to encourage the management development process to be expedited within the department. Our hope is to have that process finalized in the new year and have people cutting wood on those lands early in the new year.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. MACLEOD</from><p>Mr. Speaker, I'm glad to hear the minister say that we're going to have some turnaround quickly, because in an article published by The ChronicleHerald on February 28, 2012 - which I will table - it quoted the minister as saying that we have a government that sometimes is very dismissive of the concerns of small businesses and the employers in this province.</p>
+          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>Mr. Speaker, I'm glad to hear the minister say that we're going to have some turnaround quickly, because in an article published by The ChronicleHerald on February 28, 2012 - which I will table - it quoted the minister as saying that we have a government that sometimes is very dismissive of the concerns of small businesses and the employers in this province.</p>
 <p>I guess the question I have is, your commitment, will you speed it up because the people need to have the work now, not later?</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's very nice to stand in this House, especially during Question Period, and agree with the critic opposite. The stakeholders I have been meeting with primarily have been from the forestry industry. They have made it very clear, the challenges that sector faces are serious challenges that our department is committed to addressing to the best of our ability.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's very nice to stand in this House, especially during Question Period, and agree with the critic opposite. The stakeholders I have been meeting with primarily have been from the forestry industry. They have made it very clear, the challenges that sector faces are serious challenges that our department is committed to addressing to the best of our ability.</p>
 <p>I came in as minister at the tail end of this management process that was being done. I requested that our staff expedite that process to have the lands opened up for harvesting as quickly as possible. Right now that date is looking like early in the new year; that's the quickest that we can do it. According to a lot of the stakeholders we met with, that will be fine and will suffice the needs that they have in terms of supply.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
@@ -803,14 +804,14 @@
         </debateSection>
         <debateSection>
           <heading>JUSTICE - BAR CLOSING TIMES: HRM COUN./CHIEF BLAIS - DISCUSSIONS</heading>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GORDIE GOSSE</from><p>My question is for the Leader of the Official Opposition (Laughter) Oh, I'm sorry, Mr. Speaker, no, honestly my question is for the Minister of Justice.</p>
+          <speech by="#gordie.gosse"><from>MR. GORDIE GOSSE</from><p>My question is for the Leader of the Official Opposition (Laughter) Oh, I'm sorry, Mr. Speaker, no, honestly my question is for the Minister of Justice.</p>
 <p>Last week at the Halifax council meeting, Police Chief Jean-Michel Blais reported to HRM that he had been in discussion with the government in hopes of changing bar closing times. He believes that reducing the times that bars are open will reduce a significant amount of crime, citing drunken and late-night violence in downtown Halifax as siphoning off police resources.</p>
 <p>Will the minister provide the House with more details on the status of those discussions?</p></speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+          <speech by="#lena.m.diab">
             <from>HON. LENA DIAB</from>
             <p>Mr. Speaker, I too am a resident of Halifax, and I'm extremely concerned about violence and crime in Halifax. I think the honourable member knows, though, that issues that are discussed between police and council are not issues that I can get involved in as Minister of Justice, or as Attorney General.</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6">
+          <speech by="#gordie.gosse">
             <from>MR. GOSSE</from>
             <p>Mr. Speaker, the Halifax chief has reported (Interruptions) What steps has the government taken to assess the impact of cabaret licences on early morning drunkenness and evidence of violence in downtown Halifax?</p>
           </speech>
@@ -826,7 +827,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable House Leader for the Official Opposition.</p>
         </speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+        <speech by="#christopher.a.dentremont">
           <from>HON. CHRISTOPHER D'ENTREMONT</from>
           <p>Mr. Speaker, would you please call the order of business, Private Members' Public Bills for Second Reading.</p>
         </speech>
@@ -837,7 +838,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable House Leader for the Official Opposition.</p>
         </speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+        <speech by="#christopher.a.dentremont">
           <from>HON. CHRISTOPHER D'ENTREMONT</from>
           <p>Mr. Speaker, would you please call Bill No. 8.</p>
         </speech>
@@ -847,7 +848,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Pictou West.</p>
           </speech>
-          <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, it is an honour to stand in my place to discuss this issue. For 50 years government in Nova Scotia has been buying jobs through corporate bailouts, handouts, and giveaways. It's a system of economic development that no longer works - if it ever did. Millions and millions of dollars were spent with little or no real oversight or accountability.</p>
+          <speech by="#karla.macfarlane"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, it is an honour to stand in my place to discuss this issue. For 50 years government in Nova Scotia has been buying jobs through corporate bailouts, handouts, and giveaways. It's a system of economic development that no longer works - if it ever did. Millions and millions of dollars were spent with little or no real oversight or accountability.</p>
 <p>Over the last four years, the NDP handed out more than $350 million to businesses - and what have we to show for it? We have 11,300 fewer full-time jobs over the last four years, and nearly 4,000 fewer Nova Scotians over the last year. You don't build a modern, dynamic, 21<sup>st</sup> Century economy by picking winners and losers, without a business case or proper documentation. You do it by levelling the playing field so that all entrepreneurs can do what they do best - create jobs.</p>
 <p>During the recent election campaign, our Leader made the announcement in front of Scanwood. In 2010, Scanwood got $4.75 million in taxpayer dollars to keep jobs in Nova Scotia. The business closed and the jobs disappeared within two years.</p>
 <p>In a 2010 press release, the former Minister of Economic and Rural Development and Tourism said the loan "&#x2026; will help ensure a Nova Scotian, export-based company is sustainable in the long term." I will table that document.</p>
@@ -868,7 +869,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Thank you very much, Mr. Speaker, for the opportunity to speak on behalf of Bill No. 8. I listened with intent at the words given by the critic, the member for Pictou West. When you have the benefit of having sat in this Assembly for 15 years, it also gives you the benefit of remembering what life was like under former governments. I would strongly recommend to the member for Pictou West, if she has the opportunity, that she speak to the House Leader for her caucus, for example, who served under previous Progressive Conservative Governments, or even talk to some of her former Leaders, who may be able to give her some information as to what the previous Progressive Conservative Governments did when it came to the issues of economic development.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Thank you very much, Mr. Speaker, for the opportunity to speak on behalf of Bill No. 8. I listened with intent at the words given by the critic, the member for Pictou West. When you have the benefit of having sat in this Assembly for 15 years, it also gives you the benefit of remembering what life was like under former governments. I would strongly recommend to the member for Pictou West, if she has the opportunity, that she speak to the House Leader for her caucus, for example, who served under previous Progressive Conservative Governments, or even talk to some of her former Leaders, who may be able to give her some information as to what the previous Progressive Conservative Governments did when it came to the issues of economic development.</p>
 <p>What's ironic is that it was a Progressive Conservative Government that created Nova Scotia Business Incorporated. When they did so, they transferred all of these funds - there was the old Industrial Expansion Fund - over to NSBI, and within a year they took it back. So it's interesting to hear now the Progressive Conservatives saying how everything should be transferred to NSBI and that the Jobs Fund should be transferred to NSBI.</p>
 <p>Mr. Speaker, now that we have the Auditor General's Report, the Auditor General has clearly identified significant issues with the Jobs Fund. If we were to do what the Opposition is asking us, we're basically just sending over a program and funding that the Auditor General indicated significant concerns with as it was administered by the previous government.</p>
 <p>As I indicated earlier, we've undertaken a third-party review which will be underway very shortly, we hope, which is going to look at all of the tools that we use, and not just this fund. We want to look at the tools being used in Innovacorp, that are currently being used by NSBI, and what is available within the Department of Economic and Rural Development and Tourism - and all other incentives that may be available, as well, to see if they are working properly and if we are getting the best value and if this is the best means to be able to attract and help grow business here in this province.</p>
@@ -893,7 +894,7 @@
             <from>MR. SPEAKER</from>
             <p>Nine minutes.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>Mr. Speaker, I know that my dedicated, hard-working staff actually gave me notes here so let me actually have a look at the notes. Our new government is committed to creating a climate for business growth and getting Nova Scotians back to work. We want business to become more competitive, more entrepreneurial and more productive. Our vision includes supporting innovation, harnessing research, maximizing our advantages, eliminating barriers to competitiveness, and getting government out of the way of business, which I do believe might be some of the same messages we heard from the member for Pictou West a little bit earlier, so on many fronts we are on the same page.</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Mr. Speaker, I know that my dedicated, hard-working staff actually gave me notes here so let me actually have a look at the notes. Our new government is committed to creating a climate for business growth and getting Nova Scotians back to work. We want business to become more competitive, more entrepreneurial and more productive. Our vision includes supporting innovation, harnessing research, maximizing our advantages, eliminating barriers to competitiveness, and getting government out of the way of business, which I do believe might be some of the same messages we heard from the member for Pictou West a little bit earlier, so on many fronts we are on the same page.</p>
 <p>Mr. Speaker, we are making it easier for business to grow, prosper and create jobs by directing more of our attention towards small and medium-size Nova Scotia business. Term loan guarantees under the Credit Union Small Business Loan Guarantee Program will increase from 75 per cent to 90 per cent, to give business better access to the capital.</p>
 <p>Mr. Speaker, the Credit Union Small Business Loan Guarantee Program has approved more than 1,000 loans, worth more than $50 million. The average loan size is $50,000 and this program has helped create more than 2,000 jobs and has maintained more than 5,000 jobs. More importantly, something I am sure all members of this House can be very proud of, and as a credit union member all my life I'm certainly very proud of this, under the management of the credit union system this program has an exceptionally low loss ratio of just over 4 per cent. That is an incredible achievement. It is showing that small business is doing exactly what it wants to do: it is creating jobs, it is making investments and it is paying back that money because the program is there to assist many businesses that the traditional banks may not have been prepared to work with.</p>
 <p>The fact is, Mr. Speaker, that program is having tremendous success and we certainly want to commend everyone involved with creating that program. It was something we certainly were tremendous supporters of when we were in Opposition and I can't tell you how proud I am, as minister, to see the type of success that it is achieving.</p>
@@ -903,7 +904,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable Minister of Economic and Rural Development and Tourism has the floor.</p>
           </speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>MR. SAMSON</from><p>Mr. Speaker, I know there is a great amount of enthusiasm around re-establishing the ferry. I had the opportunity to speak to the Tourism Industry Association of Nova Scotia and I know that it was extremely well-received. In fact at one of the receptions I got to meet Mayor Pam Mood, the Mayor of Yarmouth. I had spoken to her on the phone but it was my first chance to see her in person. Needless to say, she is quite enthusiastic and quite happy on behalf of the residents of the Town of Yarmouth to see that service being put back in place.</p>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Mr. Speaker, I know there is a great amount of enthusiasm around re-establishing the ferry. I had the opportunity to speak to the Tourism Industry Association of Nova Scotia and I know that it was extremely well-received. In fact at one of the receptions I got to meet Mayor Pam Mood, the Mayor of Yarmouth. I had spoken to her on the phone but it was my first chance to see her in person. Needless to say, she is quite enthusiastic and quite happy on behalf of the residents of the Town of Yarmouth to see that service being put back in place.</p>
 <p>We are working strategically with our partners in rural communities. We are creating higher-quality products and experiences. We will be improving signage throughout our province in support of our important tourism industry.</p>
 <p>As I mentioned earlier with the Jobs Fund, the review done by the Auditor General confirmed our worst fears when it came to the types of investments being done by the previous government. The deficiencies that were identified in the program were alarming. Allow me to state once again that the majority of the deals that the Auditor General identified were not negotiated by the civil servants within the Department of Economic and Rural Development and Tourism - they were negotiated in the Premier's Office by politically appointed staff. That is what happens when you have those types of decisions being negotiated in the Premier's Office.</p>
 <p>I want to say that ever since I stepped foot into my department, I have been extremely impressed with the professionalism, the dedication, and the determination of the staff within the Department of Economic and Rural Development and Tourism to help grow our province and help move our province forward. I want to say to all of them that I'm extremely proud not only to be their minister, but to work with them as we move this province in the right direction.</p>
@@ -913,7 +914,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Chester-St. Margaret's.</p>
           </speech>
-          <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, it's a privilege to speak on this bill. It's interesting, though, that the minister forgot to mention how optimistic those individuals who were fired by the Premier are feeling at this time of year, close to the Christmas holidays. Merry Christmas from the Liberals.</p>
+          <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, it's a privilege to speak on this bill. It's interesting, though, that the minister forgot to mention how optimistic those individuals who were fired by the Premier are feeling at this time of year, close to the Christmas holidays. Merry Christmas from the Liberals.</p>
 <p>This bill being introduced by the PCs highlights some very important information. While in Opposition the Liberals said over and over that they would change the way government interacts and assists business in Nova Scotia. How short do the Liberals think the memories of the people of Nova Scotia are? During the election, what did they tell people? We're not going to give money to corporations. I heard that. I was at the doors, and people said, well, the Liberals are not going to give money to corporations. So we got one of those flip-flops immediately.</p>
 <p>Even though this is not a government bill, it does blatantly point to the fact of how many times they have flip-flopped back and forth within their first 50 days of government. They called for all sorts of reform in economic development; they said that Cabinet shouldn't be involved in making decisions around corporate loans; and they said that they would not give to corporations. You can't be any clearer in your message - we will not give to corporations. And yet that has changed already.</p>
 <p>The minister referred to the Auditor General's Report, but he forgot to also mention that the Auditor General actually was against and discouraged the Cabinet being involved in these decisions. So what is different? That is what I ask. What is different is when they were over here they just said the words, the perceived political words that would get them over on the other side. That's what it was all about.</p>
@@ -927,7 +928,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Official Opposition.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I'm very pleased to rise in support of the bill. I wasn't going to do this, but I do want to start just by commenting on some of the remarks made just a few moments ago by the Minister of Economic and Rural Development and Tourism, who went out of his way to really misrepresent what the Opposition PC caucus is attempting to accomplish here today. I can't help but find how ironic it is that that minister wishes to misrepresent all about over here when it comes to economic development and this big fund.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I'm very pleased to rise in support of the bill. I wasn't going to do this, but I do want to start just by commenting on some of the remarks made just a few moments ago by the Minister of Economic and Rural Development and Tourism, who went out of his way to really misrepresent what the Opposition PC caucus is attempting to accomplish here today. I can't help but find how ironic it is that that minister wishes to misrepresent all about over here when it comes to economic development and this big fund.</p>
 <p>The position that we hold is the same one that we held before the election and now we also hold it after the election and are prepared to bring a bill before the House. That's ironic because it's the position he and his Party used to hold, the same one, but now that there's actually a bill here and he's over there on the government side, he's changed his position. The great irony is we have a minister who will misrepresent a position that he, himself, used to actually believe in - or said he did - before the election was called. This is an example of how the people of Nova Scotia will be telling this government, we will judge you by your actions more than your words, particularly when your words are so different from what they were just a few months ago.</p>
 <p>Let me just be clear what we want to accomplish very consistently, all of us here in the PC caucus. We want to stop the bad old way of bailing out large companies with taxpayers' money. We though the Liberals were there with us. They said they were, but now they're not. Now, the first test of the Liberals on this issue did come up just recently with the loan in question to Origin BioMed of $1 million. That's a lot of money in a province where the average income is around $30,000 a year - $1 million of taxpayer money. Yes, of course it went through NSBI, we know that. And they moved it on to Cabinet - of course they did, because they're operating under the old rules, the old rules of the NDP. Which, among other things, don't require any job guarantees, that real jobs actually get created or saved.</p>
 <p>Do you know how many people are working at this company today? There are five - $1 million, five people. The NDP used to think that was a good deal. Apparently the Liberals also think that's a good deal, but we have time and time again in our history seen how that has worked out for taxpayers, after losses and losses and losses in money and in jobs.</p>
@@ -960,7 +961,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable House Leader for the Official Opposition.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+          <speech by="#christopher.a.dentremont">
             <from>HON. CHRISTOPHER D'ENTREMONT</from>
             <p>Mr. Speaker would you please call Bill No. 6.</p>
           </speech>
@@ -971,7 +972,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Kings North.</p>
           </speech>
-          <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><from>MR. JOHN LOHR</from><p>Mr. Speaker, it's my pleasure to begin to speak on this bill to amend the Elections Act. I know that every member in this House is familiar with the past year and the issues that arose from the uncertainty of when the election would or would not be called. This Elections Act is intended to address that issue. I know that this bill, I believe, was brought before the House several years ago and again we would bring it before the House.</p>
+          <speech by="#john.a.lohr"><from>MR. JOHN LOHR</from><p>Mr. Speaker, it's my pleasure to begin to speak on this bill to amend the Elections Act. I know that every member in this House is familiar with the past year and the issues that arose from the uncertainty of when the election would or would not be called. This Elections Act is intended to address that issue. I know that this bill, I believe, was brought before the House several years ago and again we would bring it before the House.</p>
 <p>I would like to just talk about some of the circumstances in the past year. Some of you will realize that some people were nominated up to two years before the election. In fact I know members of our own PC caucus who spent the better part of the past year going door-to-door in election mode. We had at least three occasions in which it looked like an election was going to be called. In one circumstance I know that one of our PC candidates rented an office about five or six months before it was necessary and actually had incurred the expense of having that office unnecessarily for that length of time. All of these inconveniences were apparently to convenience the government of the day - our past government - who used the tool of tinkering with the election date as a political tool to try to get a more favourable circumstance, not realizing that both the public and the media had grown weary of the game and it actually worked against them.</p>
 <p>That indecision on their part led to all sorts of circumstances in your life and in my life. One circumstance for me, personally, was we had a wedding to go to in July, a young man in Belgium. The young man had been a Rotary exchange student in our home 10 years prior and we had booked that trip that week to go to Belgium for a wedding, his wedding. This young man had a big impact in our lives. We had promised him that when he got married we would go to his wedding and 10 years later we fulfilled that promise but, having booked that trip, I wasn't certain whether I would be able to go or not.</p>
 <p>The results of that young man having come into our home 10 years ago was that we consequently got involved in the Rotary Club and since then have had two exchange students from Madrid, Spain, in our home, an exchange student from Thailand in our home, an exchange student from Japan in our home, an exchange student from Holland in our home, and also two of my four sons were privileged to be exchange students, one having gone to Brazil - I forgot to mention that we also had a young man from Brazil also in our home. But my oldest son was able to go to Brazil for a year as an exchange student and my third oldest son was able to actually spend a year in Belgium, in the same area where this young man had come from. Consequently, we were able to visit him several years ago also.</p>
@@ -989,7 +990,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Minister of Finance and Treasury Board.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>HON. DIANA WHALEN</from><p>Madam Speaker, it's a pleasure to rise today and be part of this debate on fixed election dates. I'm very pleased that the issue is at hand here today, because as members of the House know the Liberal Party had brought in a similar bill in the past. We had raised the same issue around getting in sync with the rest of the country and moving forward and really modernizing our approach to elections. In this instance, unlike the previous bill that was just debated, I think we'll find the government side of the House and the Progressive Conservative bill match - we're on the same page in this case and so I think that's a good start.</p>
+          <speech by="#diana.whalen"><from>HON. DIANA WHALEN</from><p>Madam Speaker, it's a pleasure to rise today and be part of this debate on fixed election dates. I'm very pleased that the issue is at hand here today, because as members of the House know the Liberal Party had brought in a similar bill in the past. We had raised the same issue around getting in sync with the rest of the country and moving forward and really modernizing our approach to elections. In this instance, unlike the previous bill that was just debated, I think we'll find the government side of the House and the Progressive Conservative bill match - we're on the same page in this case and so I think that's a good start.</p>
 <p>It's always a pleasure to rise and be part of the debates that take place in this House. There are a lot of times when we might vehemently disagree with each other to one degree or another and other times we do see where there's a meeting of the minds. Certainly, in looking at the notes that were prepared to remind me of this issue, the first point that jumps out at you is that we are the last province in Canada not to set fixed election dates or to set some parameters for that.</p>
 <p>That being said, I did want to talk a little bit about the bill, itself, Bill No. 6, which sets out a fairly prescribed formula of when the date would be. It says quite clearly that it would be the second Tuesday of October every four years - so after an election is held it would be the next time we get to the second Tuesday of October. The problem with that that we see is that there is no flexibility around that, so in looking at this bill - and I do say, in principle we support this bill - we'd like to see a bill go forward that would have a little more flexibility built in.</p>
 <p>The reason for that is that certainly we know our municipal elections always take place in October, and in Nova Scotia every four years we have municipal elections. The last one was a year ago, so it was 2012, but there are times when it might actually overlap and, definitely, September or October is the election time for the municipalities. And we don't have any control over when the federal elections are being held, so there is the possibility that a federal election could be underway at the same time.</p>
@@ -1000,11 +1001,11 @@
 <p>So it isn't just about the Parties and the candidates; it's about all the people that are engaged in the electoral process, and each and every one of us, as we know, values the volunteers. We've heard a number of the inaugural speeches in the House, the replies to the Speech from the Throne, coming from new and returning members. Invariably people are so grateful for the time and financial support, and moral support that we get from people in our communities. That is an important thing to remember as well.</p>
 <p>We didn't want to have any kind of an overlap on elections, so we'd just like to put in a safeguard for that. That would be very important. Madam Speaker, I had an opportunity to speak to our Leader as well, to the Premier, and I believe he has had a chance to speak to the Leader of the Official Opposition. I think it's a positive thing that there are times when we can reach across the floor of the House, come to an agreement and possibly see a bill pass from the Opposition bench and I think that's important.</p>
 <p>I have spent 10 years in Opposition, and like other members of the House I have sat on both sides of the Opposition side. I know it can be very frustrating when you have good ideas, you've soundly researched them, you know they would be a benefit to the province, and they often fall on deaf ears. I may be wrong in saying that I don't believe there was a single Private Member's Bill passed under the four years of the NDP majority government. I don't know if anybody here can correct me - I'm sure maybe the Clerks know. Was there one?</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>There was.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Ah, very good. Was it yours? Oh, very good. Was it a local bill? Perhaps it was a local bill. The reason I reference this - and if it was only one in four years that's very few - but I reference a time when Opposition was shut out. The majority government said, we'll do it our way, thank you very much, and we don't need your ideas, and we don't want to really engage in anything you have to offer. I think it's a counterproductive thing to do that. I think it's negative. I think it sends the wrong signal to the province, to the people of Nova Scotia, that when things are a good idea we should be able to reach out and do that.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Ah, very good. Was it yours? Oh, very good. Was it a local bill? Perhaps it was a local bill. The reason I reference this - and if it was only one in four years that's very few - but I reference a time when Opposition was shut out. The majority government said, we'll do it our way, thank you very much, and we don't need your ideas, and we don't want to really engage in anything you have to offer. I think it's a counterproductive thing to do that. I think it's negative. I think it sends the wrong signal to the province, to the people of Nova Scotia, that when things are a good idea we should be able to reach out and do that.</p>
 <p>I know minority government is an easier time to have that happen and my first two sessions in the Legislature, in 2003 to 2006 and 2006 to 2009, were minority situations in the House and I did have a number of bills passed. Not a lot, but there were bills from the Liberal benches passed. I'm very pleased that my bill to make booster seats mandatory passed - I think it was in 2005. And that one was a safety issue for children. That's one that surely we can agree on when we look at that. The Transportation and Public Works Minister at the time, to my surprise really, just said, that's a good idea, we've been looking at it, we think we should do it, let's do it. And my bill was passed. I think that sends a very good sign to all members of the House.</p>
 <p>I mention that because certainly what we would like to see is a time when we can be productive. Again, I go back to the fact there will be times when there are strong disagreements between Parties, but I think when something like this is brought forward that has to do with modernizing our elections and bringing us on the same page with all provinces in Canada, there is a lot of reason to do that.</p>
 <p>Madam Speaker, I wanted to talk - I don't have very much time and I know how quickly it goes by - I did want to talk a little bit about the voter engagement. One comment that I'd like to make is that as we change the dates in the Act, it may be an opportunity to consider some other aspects of the Elections Act that could be modernized, some other things that we could add in that might be worth talking about today. As you know, all of us have come from an election period. We have official agents and others who have worked on our campaigns, and in fact a new Chief Electoral Officer in the last campaign. That was the first provincial campaign that they've been in charge of. There may be ideas that we should be rethinking, bringing back again and considering the introduction of.</p>
@@ -1020,7 +1021,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Sydney-Whitney Pier.</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GORDIE GOSSE</from><p>It's an honour and a privilege today to speak on the Progressive Conservative Bill No. 6, the Elections Act. My honourable colleague, who I was elected in 2003 with, pointed out some interesting facts. If you look at this year alone, we have three provinces that have fixed election dates in 2011, which means that the federal government will be going in 2015, along with the Province of Alberta, the Province of Manitoba, and the Province of Prince Edward Island. All of those three provinces are fixed election dates for 2011, which means that the federal government is going in 2011, the province is going in 2011, and you have municipalities in New Brunswick that are going in 2011.</p>
+          <speech by="#gordie.gosse"><from>MR. GORDIE GOSSE</from><p>It's an honour and a privilege today to speak on the Progressive Conservative Bill No. 6, the Elections Act. My honourable colleague, who I was elected in 2003 with, pointed out some interesting facts. If you look at this year alone, we have three provinces that have fixed election dates in 2011, which means that the federal government will be going in 2015, along with the Province of Alberta, the Province of Manitoba, and the Province of Prince Edward Island. All of those three provinces are fixed election dates for 2011, which means that the federal government is going in 2011, the province is going in 2011, and you have municipalities in New Brunswick that are going in 2011.</p>
 <p>You said that there could be two levels of government. There could actually be three: municipal, federal, and provincial - could you imagine the stress and the resources of political Parties and volunteers and constituencies to try to muster up three levels of government in a span of that time?</p>
 <p>I notice you also pointed out that the provision in this bill talks about how they'll move it back seven days or so. You're absolutely right: if the fixed election date is the second Tuesday in October and they move it back a week, well, you could already be in a campaign for 30 or 35 days, which would mean that you are overlapping, you would be knocking on the door, running provincially, federally, municipally. Sometimes people in Nova Scotia just don't understand or seem to know what level of government you represent. We have such a low turnout in this province for young people who are going to the polls. I think that we have to look at fixing that aspect of it, too, getting young people involved, getting people involved in the election so we can get better turnouts here in the Province of Nova Scotia. Will fixed election dates help us get turnouts better in the Province of Nova Scotia? I don't think it will.</p>
 <p>We're the last province in the country to look at fixed election dates. I think it is a step forward for us to do that but if you look in Parliament just recently, the honourable member for Clayton Park West, now the Minister of Finance, is absolutely right. We sat through a minority government in 2003, a minority government in 2006. What would have happened in that case if you had fixed election dates and the government fell and there was a vote in the House of Commons? Would the Lieutenant Governor come and say, I'm going to appoint another government because the Legislature is at a standstill? You know, that can possibly happen because bills are not getting done, the business of government is not getting done, in a minority government situation, which is absolutely right. They never lasted past the three years.</p>
@@ -1031,11 +1032,11 @@
 <p>I'm just wondering about this bill. I mean it's apparent that we are definitely going to move, as the last province, into a fixed election date but in this bill here I don't see any meat on the bone in this one here. There would have to be some type of - there would be lots of amendments. If this bill were to move into the Law Amendments Committee, I'm afraid there would be so many amendments to look at all the different things. But there would be a lot of amendments and otherwise. In Section 29A(3) "&#x2026; the Chief Electoral Officer shall choose another day in accordance with subsection (4) and recommend to the Governor in Council that ordinary polling day be that other day, and the Governor in Council may make an order to that effect."</p>
 <p>What I'm saying in the sense that if we have fixed election dates in a minority system and the government falls, does the Lieutenant Governor of Nova Scotia decide who will be the governing Party of the province? Is that a possibility? Is that a possibility if a minority government happens? It would fall on the Lieutenant Governor's plate, I think, the way the legislation sits now. He would determine who would govern the Province of Nova Scotia because everything would be at a standstill.</p>
 <p>We support this bill going forward and support any bill that comes forward with fixed election dates, but some of the issues that we have to look at - maybe before we discuss that, this bill should go to the Committee on Assembly Matters where we would have members of all sides of the House and the Liberal Party, the Progressive Conservative Party, and the New Democrat Party sit down and look at a good bill. Let's make it a very strong bill.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
+          <speech by="#diana.whalen">
             <from>HON. DIANA WHALEN</from>
             <p>Is that the one that never met? Assembly Matters?</p>
           </speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GOSSE</from><p>That's right, absolutely. I chaired that so I should have known it never met. (Laughter) It's interesting, and minister, I could explain why it never met because I couldn't get any co-operation on all sides of the House. (Interruption) I'm not going to point fingers there, there or here, but that is the Committee on Assembly Matters - and not that I didn't try for that committee to meet.</p>
+          <speech by="#gordie.gosse"><from>MR. GOSSE</from><p>That's right, absolutely. I chaired that so I should have known it never met. (Laughter) It's interesting, and minister, I could explain why it never met because I couldn't get any co-operation on all sides of the House. (Interruption) I'm not going to point fingers there, there or here, but that is the Committee on Assembly Matters - and not that I didn't try for that committee to meet.</p>
 <p>I think it's important when you're looking at changing election dates or doing that, is having Assembly Matters meet, with members from all Parties to sit down, and it would make it good for the Province of Nova Scotia and good for the voters to make sure that we do have fixed election dates. But make sure that we cover all the provisions in the Elections Act to make sure that we get it right. If we're going to do it, let's get it right the first time.</p>
 <p>Canada's parliamentary system is based on not a separation of balance of powers but on a responsible government. Responsible government is about all members of the Legislative Assembly having a hand in making sure that we get it right. If we're going to do this, let's get it right. I guess why parliamentary Assemblies that have set election dates nevertheless provide some fail-safe measures to avoid such a deadlock like I spoke about.</p>
 <p>I also talked to other parliamentary Assemblies, I've travelled quite a bit in the last three years to all the Canadian Parliamentary Associations and talked about some of the issues around fixed election dates and talked to members in Quebec who just recently passed theirs in 2012, talked to my friend the Deputy Speaker there, Fran&#xE7;ois Ouimet; talked to other members in Prince Edward Island, the Speaker there, Carolyn Bertram, talked about they're just moving into that; and Dale Graham in New Brunswick, the Speaker there.</p>
@@ -1046,7 +1047,7 @@
 <p>Madam Speaker, here we go again with a backbencher asking &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. Please direct your comments to the Chair please. (Interruption)</p>
 <p>The honourable member for Sydney-Whitney Pier, with one minute left.</p></speech>
-          <speech by="#8275114a-ac5c-47ce-aa8b-5fe96b8151f6"><from>MR. GOSSE</from><p>I know that new change around asking ministers questions and now I got backbenchers asking me questions.</p>
+          <speech by="#gordie.gosse"><from>MR. GOSSE</from><p>I know that new change around asking ministers questions and now I got backbenchers asking me questions.</p>
 <p>If you look at that, I think that we have to work together to make sure that we, as parliamentarians, do the right thing here, get this bill right, make sure we have fixed election dates.</p>
 <p>How do you stop Parties from fundraising or collecting money, like - and there's another issue, when do you go out and start fundraising? Should I be out next week fundraising now for the next campaign in 2017? When do you build your war chest up again as a Party? When are you allowed to start - is that in the bill, when you're allowed to start raising money? Those types of things - when are you allowed to start campaigning?</p>
 <p>As a former Speaker I remember when they first started about taking partisan advertisements - I notice that has been in the news lately (Interruption) Thank you.</p></speech>
@@ -1054,7 +1055,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Leader of the Official Opposition.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I just want to say quickly I do appreciate the comments of the member who just spoke, the member for Sydney-Whitney Pier. He said there was no meat on the bones; I accept that criticism. I did think it was a shameless attempt on his part to draw attention to how much weight he lost during the election campaign and his svelte, new figure, but if that's what he needs to do to get attention, then I understand that. (Laughter) I know he had some questions about what happens in a minority government and so on and I'll attempt to answer that quickly in my brief remarks.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Madam Speaker, I just want to say quickly I do appreciate the comments of the member who just spoke, the member for Sydney-Whitney Pier. He said there was no meat on the bones; I accept that criticism. I did think it was a shameless attempt on his part to draw attention to how much weight he lost during the election campaign and his svelte, new figure, but if that's what he needs to do to get attention, then I understand that. (Laughter) I know he had some questions about what happens in a minority government and so on and I'll attempt to answer that quickly in my brief remarks.</p>
 <p>I also do want to say very sincerely that I appreciate greatly the comments of the Liberal member who spoke, the Minister of Finance and Treasury Board, and her obvious sincere desire to see greater voter participation, to see more people involved in our system. I share that completely and ultimately, that's what the goal of bills like this one are about. I know we can work together to make this important improvement to our electoral system. Let me just say, side by side with her comments, to all Nova Scotians that it is important to vote. It is a right and a privilege. It was fought for. People died for it. It may not be a perfect system of government, but it is the best system of government on the planet, and it belongs to people who participate.</p>
 <p>There is an old saying that in a democracy the rules are made by people who show up. Well, we need more Nova Scotians to show up. We need far more Nova Scotians to show up. And when they don't show up, they are still sending us a message in their own way, which in too many cases is that they don't believe the system works for them, they don't believe it's worth the time to vote, as little time as it actually takes with all the new ways we make it easier for people to vote, and that is a shame. We all have a duty as people who believe in our system to make it worthwhile, including - as the Finance Minister pointed out - to encourage it in our schools and to encourage young people to learn the system.</p>
 <p>I will say just as a brief anecdote, and I hope others do this and I suspect they do, I have two daughters at home and have taken them to the polling station in every provincial, municipal and federal election since they were born. I take them behind that little cardboard screen with me and I put that little pencil in their hands and I show them exactly where they're supposed to make their vote, (Laughter) Someday they will make their own voting choice and I totally respect that, and it may be anything really. I may argue with them, but I will respect that it's their right to make that choice. But at least by example, and all Nova Scotians who are parents or grandparents should do this, we have gotten them into the habit of going to vote and showing them how important it is.</p>
@@ -1074,7 +1075,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable House Leader for the Official Opposition.</p>
           </speech>
-          <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9">
+          <speech by="#christopher.a.dentremont">
             <from>HON. CHRISTOPHER D'ENTREMONT</from>
             <p>Madam Speaker, that concludes the business for the Official Opposition today, so I will call upon the Deputy Government House Leader to call the business and hours for tomorrow.</p>
           </speech>
@@ -1082,7 +1083,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable Deputy Government House Leader.</p>
           </speech>
-          <speech by="#1047aad7-8f0a-45b5-8e33-c350c258eefc"><from>MR. TERRY FARRELL</from><p>Madam Speaker, I move that the House do now rise to meet again tomorrow from the hours of 2:00 p.m. to 8:00 p.m. Following the daily routine, the government business will be second reading of Bill Nos. 9, 10, 11, and 12. Following this, if time permits, we will do Address in Reply to the Speech from the Throne.</p>
+          <speech by="#terry.farrell"><from>MR. TERRY FARRELL</from><p>Madam Speaker, I move that the House do now rise to meet again tomorrow from the hours of 2:00 p.m. to 8:00 p.m. Following the daily routine, the government business will be second reading of Bill Nos. 9, 10, 11, and 12. Following this, if time permits, we will do Address in Reply to the Speech from the Throne.</p>
 <p>I move that the House do now rise.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House now rise to meet again tomorrow at the hour of 2:00 p.m.</p>
 <p>Is it agreed?</p>
@@ -1101,7 +1102,7 @@
         </speech>
         <debateSection>
           <heading>INTL. DAY FOR ELIMINATION OF VIOLENCE AGAINST WOMEN (12/06/13) - MARK</heading>
-          <speech by="#15c473b5-32d6-4539-8318-01e10551e1ec">
+          <speech by="#patricia.arab">
             <from>MS. PATRICIA ARAB</from>
             <p>Madam Speaker, I'd actually like to make a quick correction to that title. December 6<sup>th</sup> actually marks the National Day of Remembrance and Action on Violence Against Women.</p>
           </speech>
@@ -1109,7 +1110,7 @@
             <from>MADAM SPEAKER</from>
             <p>Certainly, noted.</p>
           </speech>
-          <speech by="#15c473b5-32d6-4539-8318-01e10551e1ec"><from>MS. ARAB</from><p>This Friday marks the 24<sup>th</sup> Anniversary of the massacre at<b> &#xC9;cole Polytechnique</b> in Montreal, Quebec. This was a tragedy that shook our country. Many of us remember hearing the news of the Montreal shooting, and while some of us were a bit too young and may not have understood the full impact of this event, we knew that it was a time when we held our loved ones a little tighter and for a little longer.</p>
+          <speech by="#patricia.arab"><from>MS. ARAB</from><p>This Friday marks the 24<sup>th</sup> Anniversary of the massacre at<b> &#xC9;cole Polytechnique</b> in Montreal, Quebec. This was a tragedy that shook our country. Many of us remember hearing the news of the Montreal shooting, and while some of us were a bit too young and may not have understood the full impact of this event, we knew that it was a time when we held our loved ones a little tighter and for a little longer.</p>
 <p>The 1989 tragedy also made our country and our society look at ourselves and question our values of equality and respect for our fellow citizens. The shooting in Montreal was an act of misogyny. There is no way around it. Mark L&#xE9;pine targeted his victims because they were women. He took the lives of 14 people because they were women.</p>
 <p>We can thankfully say that this is a rare act and we have come a long way when it comes to women's equality in Canada and Nova Scotia. However, it is also important to recognize how far we have to go. December 6<sup>th</sup> marks the National Day of Remembrance and Action on Violence Against Women. I am proud that our Liberal Government has committed to taking steps to address sexualized violence against women and will be developing a three-year strategy with the community to both meet victims' needs and do much-needed prevention work.</p>
 <p>We are also committed to increasing core funding for community organizations that work with women who are victims of violence such as women's centres, transition houses and second-stage women's centres. We are also committed to investing in more affordable housing initiatives so that women and their families aren't forced to return to an abuser to keep a roof over their heads. We need to work with communities to find solutions that are practical and accessible to women and girls, and we also have to invite our men and our boys to be a part of the conversation on how to prevent violence. (Applause) We have to be ready to teach our children what a healthy relationship looks like and give our young people the tools to have healthy relationships and treat each other with dignity and respect.</p>
@@ -1118,7 +1119,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Colchester-Musquodoboit Valley.</p>
           </speech>
-          <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><from>MR. LARRY HARRISON</from><p>Madam Speaker, members of the House know that in 1999 the United Nations designated November 25<sup>th</sup> as the International Day for the Elimination of Violence Against Women. That day was marked this year by the Transition House Association of Nova Scotia with the announcement that the first Education Bursary from the Pamela Gerhardt Endowment Fund had been awarded. The intent of the Endowment Fund is to recognize and support women who have used Transition House services, to encourage and support their efforts to further their education, and to honour their struggle in overcoming the impact and the effects of domestic violence. Going back in my own career, in 1995 - actually around 1989, I'm sorry - we had what we called the Fire in the Rose program. It was a nationally funded program, and there were five places in the country chosen to do this. It was against violence, any kind of violence, but certainly violence towards women is what we really focused on.</p>
+          <speech by="#larry.harrison"><from>MR. LARRY HARRISON</from><p>Madam Speaker, members of the House know that in 1999 the United Nations designated November 25<sup>th</sup> as the International Day for the Elimination of Violence Against Women. That day was marked this year by the Transition House Association of Nova Scotia with the announcement that the first Education Bursary from the Pamela Gerhardt Endowment Fund had been awarded. The intent of the Endowment Fund is to recognize and support women who have used Transition House services, to encourage and support their efforts to further their education, and to honour their struggle in overcoming the impact and the effects of domestic violence. Going back in my own career, in 1995 - actually around 1989, I'm sorry - we had what we called the Fire in the Rose program. It was a nationally funded program, and there were five places in the country chosen to do this. It was against violence, any kind of violence, but certainly violence towards women is what we really focused on.</p>
 <p>Now, I know that all members of the House support this kind of program, whether it be the Fire in the Rose, Transition House, or whatever. It is certainly a wonderful legacy for Pamela Gerhardt and gives hope to women who have that experience. While December 6<sup>th</sup> is the International Day for the Elimination of Violence Against Women, the aim of that day is something that we should aim at every day of the year. (Applause)</p>
 <p>December 6<sup>th</sup> is known as the National Day of Remembrance and Action on Violence Against Women. It does mark a very, very tragic day in our history. That's the day in 1989 that, again, Marc L&#xE9;pine executed 14 women. The National Day of Remembrance and Action on Violence Against Women was established in 1991. Not only is the day meant to honour the lives of the victims of the Montreal massacre, it is an opportunity to reflect on violence against women and discuss ways in which we can all fight it.</p>
 <p>Unfortunately for far too many girls and women, violence is a sad reality and I've dealt with them; I've actually got some of them into the transition houses in my area. On average, every six days a woman in Canada is killed by an intimate partner. On any given day in Canada more than 3,300 women, along with their 3,000 children, are forced to sleep in an emergency shelter, just to escape that domestic violence. Every year in Canada up to 360,000 children are exposed to that domestic violence. Can you imagine what they must see and the example that must get shown?</p>
@@ -1128,7 +1129,7 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Truro-Bible Hill-Millbrook- Salmon River.</p>
           </speech>
-          <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><from>MS. LENORE ZANN</from><p>Madam Speaker, on December 6, 1989, a young man acting with a lethal combination of misogyny and a gun killed 14 innocent women in Montreal. Here in Nova Scotia, in Canada, and around the world, women, girls, youth, and very young children are subjected daily to many forms of violence. Sexism, bullying, abuse, cyber violence, racism, and pornography are just some examples. There is also a demand for graphic images of sexualized torture of women and children, which are obtained from users of the Internet. In fact, an incident happened here in Nova Scotia just in 2011. I refer, of course, to Raymond Lahey, the 71-year-old former bishop of the Archdiocese of Antigonish who, when caught at the airport in Ottawa, had hundreds of sexualized images of children and torture on his laptop.</p>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Madam Speaker, on December 6, 1989, a young man acting with a lethal combination of misogyny and a gun killed 14 innocent women in Montreal. Here in Nova Scotia, in Canada, and around the world, women, girls, youth, and very young children are subjected daily to many forms of violence. Sexism, bullying, abuse, cyber violence, racism, and pornography are just some examples. There is also a demand for graphic images of sexualized torture of women and children, which are obtained from users of the Internet. In fact, an incident happened here in Nova Scotia just in 2011. I refer, of course, to Raymond Lahey, the 71-year-old former bishop of the Archdiocese of Antigonish who, when caught at the airport in Ottawa, had hundreds of sexualized images of children and torture on his laptop.</p>
 <p>Given that Healthy Relationships is a program that promotes awareness about the difference between violent relationships and healthy relationships, I believe that it is important for the Province of Nova Scotia to support this important program which, at the present time, is offered by women's groups and centres around the province. In particular in Antigonish, the women's centre there provides that to 10 different high schools. They feel that, at this point in time, there is not enough money to deliver the program properly right across the province. They say we need a trainer in each community to help train students so that they understand and fully integrate the education about what is abuse, what is cyberbullying, what is sexually accepted, and what is not accepted in society today. Kids today need to be taught by adults and oftentimes adults are abusing these as well.</p>
 <p>Our NDP Government established the sexual assault interdepartmental action plan to help deal with the serious problem of sexual assault in our province. Our government was the first to establish something like this, and a lot of good work was done by many people over the past couple of years. However, I'm told that the sexual assault action plan is now on hold. So I can't urge the current government enough to take a look at this and please keep it going, and put some money and support into the women's centres across the province so that they can help the women and girls in our communities and help to train students to understand all of these important topics.</p>
 <p>The women's centres that I've spoken to all believe that we need core annual funding for their centres in order for them to operate properly. Again, I would ask for this current government to please listen to that plea.</p>
@@ -1147,7 +1148,7 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="140">RESOLUTION NO. 140</num><from>Mr. Allan MacMaster</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="140">RESOLUTION NO. 140</num><from>Mr. Allan MacMaster</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Reg Maloney, a well-known Mi'kmaq leader and past Chief of the Indian Brook First Nation, passed away yesterday; and</p>
 <p>Whereas Maloney served as Chief for 20 years and after retiring in his 70s went on to serve as a Councillor on the Band Council; and</p>
 <p>Whereas Maloney has a reputation as a great man and a great leader with a strong commitment to his community;</p>

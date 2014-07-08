@@ -4,55 +4,56 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. CHURCHILL"/>
-        <TLCPerson id="c5af3c5b-9318-4bcc-a6b9-6d41edaf6180" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
-        <TLCPerson id="c3ac43ce-212f-4fdc-94fd-6fe91c1601df" href="/ontology/person/ca-ns.patrick.dunn" showAs="HON. PAT DUNN"/>
-        <TLCPerson id="db9783e4-f6b1-4c03-9213-683b495bd6ab" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
-        <TLCPerson id="31fb4530-6a1c-46f4-970e-db00638ac010" href="/ontology/person/ca-ns.tim.houston" showAs="MR. TIM HOUSTON"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="1047aad7-8f0a-45b5-8e33-c350c258eefc" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="90d47c71-dddb-4c2d-9d50-161adf5e1c47" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="082cad97-a106-493b-849d-c354e8e1c26d" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
-        <TLCPerson id="15c473b5-32d6-4539-8318-01e10551e1ec" href="/ontology/person/ca-ns.patricia.arab" showAs="MS. PATRICIA ARAB"/>
-        <TLCPerson id="17c0cb33-ad84-472c-a1a4-2ea345394180" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="db1dcd00-6f99-4f07-a9d9-3948c99440ea" href="/ontology/person/ca-ns.stephen.gough" showAs="MR. STEPHEN GOUGH"/>
-        <TLCPerson id="d20bcc3a-16f9-4444-9716-099229d6a03e" href="/ontology/person/ca-ns.randy.delorey" showAs="Hon. Randy Delorey"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
-        <TLCPerson id="e729dd02-a85c-42fc-9fcd-68b17cb55748" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="c51d6556-5a76-4dd0-8625-3b6f71e9c75b" href="/ontology/person/ca-ns.lloyd.hines" showAs="MR. LLOYD HINES"/>
-        <TLCPerson id="a2d33011-f501-455b-975a-6bc08d0e18ac" href="/ontology/person/ca-ns.pam.eyking" showAs="MS. PAM EYKING"/>
-        <TLCPerson id="331409ea-d1b7-4360-84de-bcaf1d09e73d" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
-        <TLCPerson id="215aa23a-8ad4-4ebd-bd73-24c044884420" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
-        <TLCPerson id="2d10375d-6326-433b-a3a9-2209ff43ab46" href="/ontology/person/ca-ns.gordon.l.wilson" showAs="MR. GORDON WILSON"/>
-        <TLCPerson id="3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="88604b47-cbb6-4926-a8e6-0437792dd939" href="/ontology/person/ca-ns.joyce.treen" showAs="MS. JOYCE TREEN"/>
-        <TLCPerson id="44650179-f363-4cd2-983b-a89509061821" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
-        <TLCPerson id="e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
-        <TLCPerson id="8a9371ce-d9e8-428b-860a-534e16b12b1b" href="/ontology/person/ca-ns.iain.rankin" showAs="MR. IAIN RANKIN"/>
-        <TLCPerson id="c3649928-ebf2-462c-bc99-d3e36c4653ef" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
-        <TLCPerson id="6a90d53e-7f2d-4189-b7bd-c98709dcee16" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
-        <TLCPerson id="9558d888-0ce9-41b2-b19d-ee702a06e33c" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
-        <TLCPerson id="2a8a6812-dab1-49f4-b941-a875e19a943a" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
-        <TLCPerson id="9d561239-9900-4212-aa2a-3392a94889e4" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
-        <TLCPerson id="fd4da06d-c312-4399-86b3-977c44ffb42a" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="patrick.dunn" href="/ontology/person/ca-ns.patrick.dunn" showAs="HON. PAT DUNN"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="mark.furey" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="keith.irving" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
+        <TLCPerson id="larry.harrison" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="ben.jessome" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="stephen.gough" href="/ontology/person/ca-ns.stephen.gough" showAs="MR. STEPHEN GOUGH"/>
+        <TLCPerson id="tim.houston" href="/ontology/person/ca-ns.tim.houston" showAs="MR. TIM HOUSTON"/>
+        <TLCPerson id="joyce.treen" href="/ontology/person/ca-ns.joyce.treen" showAs="MS. JOYCE TREEN"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
+        <TLCPerson id="suzanne.lohnes.croft" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
+        <TLCPerson id="karla.macfarlane" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="pam.eyking" href="/ontology/person/ca-ns.pam.eyking" showAs="MS. PAM EYKING"/>
+        <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
+        <TLCPerson id="allan.rowe" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="iain.rankin" href="/ontology/person/ca-ns.iain.rankin" showAs="MR. IAIN RANKIN"/>
+        <TLCPerson id="gordon.l.wilson" href="/ontology/person/ca-ns.gordon.l.wilson" showAs="MR. GORDON WILSON"/>
+        <TLCPerson id="terry.farrell" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
+        <TLCPerson id="tony.ince" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
+        <TLCPerson id="patricia.arab" href="/ontology/person/ca-ns.patricia.arab" showAs="MS. PATRICIA ARAB"/>
+        <TLCPerson id="joachim.stroink" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
+        <TLCPerson id="lloyd.hines" href="/ontology/person/ca-ns.lloyd.hines" showAs="MR. LLOYD HINES"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="randy.delorey" href="/ontology/person/ca-ns.randy.delorey" showAs="HON. RANDY DELOREY"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 28 March 2014</docTitle>
       <docNumber>14-16</docNumber>
       <docDate date="2014-03-28">Friday, March 28, 2014</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_14mar28/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -65,7 +66,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Inverness.</p>
         </speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I beg leave to table a petition, the operative clause calling upon our leaders to act now to make the Colindale Road safe by paving it.</p>
+        <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I beg leave to table a petition, the operative clause calling upon our leaders to act now to make the Colindale Road safe by paving it.</p>
 <p>There are 629 signatures on this petition, including my own, Mr. Speaker.</p></speech>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
@@ -78,7 +79,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Labour and Advanced Education.</p>
         </speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I am waiting for some guests to arrive in the gallery, so perhaps I could begin my statement and after the folks have arrived I could then, in fact, introduce them, if that would be possible. Thank you.</p>
+        <speech by="#kelly.regan"><from>HON. KELLY REGAN</from><p>Mr. Speaker, I am waiting for some guests to arrive in the gallery, so perhaps I could begin my statement and after the folks have arrived I could then, in fact, introduce them, if that would be possible. Thank you.</p>
 <p>Mr. Speaker, today is a good day certainly for many of our post-secondary students and graduates, some of whom are with us in the gallery today; in fact, I do see them coming in.</p>
 <p>We are pleased to have several post-secondary students and representatives from Students Nova Scotia in the gallery today, and I would like to quickly introduce them.</p>
 <p>We have with us Jonathan Williams from Students Nova Scotia, Matthew Rios from Acadia University, Danielle Andres from Students Nova Scotia, and Allison Sparling from Students Nova Scotia. We also have several of our crackerjack staff from Labour and Advanced Education: Carol Lowthers and Ken Byron. I would ask that everyone please stand and receive the warm welcome of the House. (Applause)</p>
@@ -92,7 +93,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Pictou Centre.</p>
         </speech>
-        <speech by="#c3ac43ce-212f-4fdc-94fd-6fe91c1601df"><from>HON. PAT DUNN</from><p>Mr. Speaker, it gives me great pleasure to have this opportunity to say a few words concerning the recent statement. I guess I can start off by saying that any day is a good day when we can help students across our province, especially students who are at the university level and are borrowing a lot of money to get their education.</p>
+        <speech by="#patrick.dunn"><from>HON. PAT DUNN</from><p>Mr. Speaker, it gives me great pleasure to have this opportunity to say a few words concerning the recent statement. I guess I can start off by saying that any day is a good day when we can help students across our province, especially students who are at the university level and are borrowing a lot of money to get their education.</p>
 <p>Many students have very large loans - and I certainly can attest to that. I have six children, all have gone to university, many of them have multiple degrees and they owe a lot of money. They keep calling home, thinking I have this vault (Laughter) However, I keep telling them that is one major step toward creating a career for them, and I'm very pleased with the paths that they have chosen.</p>
 <p>Again, Mr. Speaker, many of my children have gone out of the province to get their university degrees. I'm not so sure if this particular assistance is any good to them.</p>
 <p>I guess the question I have, Nova Scotia students who attend post-secondary schools outside of Nova Scotia - are they eligible for this particular assistance? Or is it just students from Nova Scotia attending university in Nova Scotia? That's a very important issue, in particular to me, Mr. Speaker.</p>
@@ -102,7 +103,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the New Democratic Party.</p>
         </speech>
-        <speech by="#3663e5bf-7f5e-4b7d-a021-669a4f8ab4bc"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I want to thank the minister for her statement and for providing an advance copy. In particular, I'd like to thank the minister for her recognition of the good work of my former colleague, Marilyn More, on this file and this initiative.</p>
+        <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I want to thank the minister for her statement and for providing an advance copy. In particular, I'd like to thank the minister for her recognition of the good work of my former colleague, Marilyn More, on this file and this initiative.</p>
 <p>Mr. Speaker, approximately five years ago Nova Scotia had the worst student aid program in the country. The report by Dr. Tim O'Neill that was commissioned by the previous government outlined, I think in very good detail, what the problems were and the need to address those problems in our student aid program to make post-secondary education affordable, accessible, and attainable for young people in our province.</p>
 <p>We all know that people who have access to post-secondary education, either in our community college system or in our university system, stand a far greater chance in life to be gainfully employed at better levels of income. So it's incumbent on us, Mr. Speaker, to find ways to make education affordable, accessible, and attainable.</p>
 <p>This initiative today is another piece in that puzzle. We do say this is a good initiative and it will, in part, relieve part of the burden that students face with respect to accessibility and affordability.</p>
@@ -115,7 +116,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+        <speech by="#stephen.mcneil">
           <from>HON. STEPHEN MCNEIL</from>
           <p>Mr. Speaker, may I do an introduction before I read my resolution?</p>
         </speech>
@@ -142,7 +143,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried. (Applause)</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-        <speech by="#90d47c71-dddb-4c2d-9d50-161adf5e1c47">
+        <speech by="#mark.furey">
           <from>HON. MARK FUREY</from>
           <p>Mr. Speaker, I beg leave to introduce a bill entitled an Act to Amend Chapter 19 of the Acts of 2006, the Property Valuation Services Corporation Act.</p>
         </speech>
@@ -158,7 +159,7 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+        <speech by="#jamie.baillie">
           <from>HON. JAMIE BAILLIE</from>
           <p>Thank you, Mr. Speaker. I will say I appreciate the eagerness of the minister who just introduced this bill. It is clearly a case of premature incorporation and I just appreciate how keen he is.</p>
         </speech>
@@ -169,7 +170,7 @@
         </other>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
 <p>The honourable Minister of Natural Resources.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+        <speech by="#zach.churchill">
           <from>HON. ZACH CHURCHILL</from>
           <p>Mr. Speaker, I move that Bill No. 32 be now read a second time.</p>
         </speech>
@@ -177,7 +178,7 @@
           <from>MR. SPEAKER</from>
           <p>No, we're not there yet.</p>
         </speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+        <speech by="#zach.churchill">
           <from>MR. CHURCHILL</from>
           <p>Okay, we're eager over here. (Interruptions)</p>
         </speech>
@@ -192,7 +193,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="750">RESOLUTION NO. 750</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, in reading this resolution, I just want to join with the Premier and the government in congratulating Nancy Kinsman on her long service, and welcome Kelly Cantelo to the House of Assembly.</p>
+        <speech by="#jamie.baillie"><num title="750">RESOLUTION NO. 750</num><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, in reading this resolution, I just want to join with the Premier and the government in congratulating Nancy Kinsman on her long service, and welcome Kelly Cantelo to the House of Assembly.</p>
 <p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas today is the last day of Nancy Kinsman's long career with Nova Scotia's Public Service; and</p>
 <p>Whereas in 1979 Nancy began working on the province's Select Committee on Constitutional Matters and moved to the Speaker's Office in 1981, where she has been an invaluable resource to many Speakers; and</p>
@@ -205,7 +206,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sackville-Cobequid.</p></speech>
-        <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><num title="751">RESOLUTION NO. 751</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#david.allan.wilson"><num title="751">RESOLUTION NO. 751</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Resource Recovery Fund Board is a non-profit organization helping Nova Scotians keep our province a beautiful place to live through reducing, reusing, recycling, and recovering resources; and</p>
 <p>Whereas the RRFB held their annual Nova Scotia Recycles Contest for students from Primary through Grade 12, receiving more than 6,700 entries from 201 schools; and</p>
 <p>Whereas Cavalier Drive School students Taylor Dominix, Emma Townsend, and Julia Smith were winners in the film category for Grade 7 through Grade 9 in the Halifax Regional Municipality, and will be awarded prizes for themselves and their school at an event to be held in April 2014;</p>
@@ -217,7 +218,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings South.</p></speech>
-        <speech by="#215aa23a-8ad4-4ebd-bd73-24c044884420"><num title="752">RESOLUTION NO. 752</num><from>MR. KEITH IRVING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.irving"><num title="752">RESOLUTION NO. 752</num><from>MR. KEITH IRVING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Canadian Federation of University Women (CFUW) carries out the important work of improving the status of women and promoting human rights, public education, social justice, and peace; and</p>
 <p>Whereas CFUW Wolfville is made up of 60 dedicated members who support local, national, and international causes; and</p>
 <p>Whereas the CFUW Wolfville is celebrating its 75<sup>th</sup> Anniversary in 2014;</p>
@@ -229,7 +230,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
-        <speech by="#9558d888-0ce9-41b2-b19d-ee702a06e33c"><num title="753">RESOLUTION NO. 753</num><from>MR. LARRY HARRISON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#larry.harrison"><num title="753">RESOLUTION NO. 753</num><from>MR. LARRY HARRISON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas truck drivers are an important part of Nova Scotia's economy, and rarely do you find anyone who has been behind the wheel for 40 years; and</p>
 <p>Whereas Dale Fisher of Brookfield was honoured in January by the Fisher Transport Company where he started driving a truck in 1974 at the age of 20; and</p>
 <p>Whereas Fisher was recognized for his commendable accident-free record, with one co-worker saying "Dale's work ethic is to be valued by any employer";</p>
@@ -241,7 +242,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Chester-St. Margaret's.</p></speech>
-        <speech by="#17c0cb33-ad84-472c-a1a4-2ea345394180"><num title="754">RESOLUTION NO. 754</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#denise.peterson.rafuse"><num title="754">RESOLUTION NO. 754</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sherri Richardson of St. Margarets Bay, Nova Scotia, while serving in the Navy, has been a member of many Royal Canadian Legion branches; and</p>
 <p>Whereas Sherri has filled many roles as a member of the Legion such as treasurer, secretary, and president; and</p>
 <p>Whereas this past Remembrance Day, Ms. Richardson received a medal for being a member of the Legion for 50 years;</p>
@@ -253,7 +254,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Lucasville.</p></speech>
-        <speech by="#44650179-f363-4cd2-983b-a89509061821"><num title="755">RESOLUTION NO. 755</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, on your behalf, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#ben.jessome"><num title="755">RESOLUTION NO. 755</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, on your behalf, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the people of the Eastern Shore are always excited to see new business development in their community, and I would like to take this opportunity to welcome Linda McIntosh and Jos&#xE9; Lemoine, owners of Knackered Vintage to Modern D&#xE9;cor, to the Porters Lake area; and</p>
 <p>Whereas Knackered strives to provide unique vintage items which are recycled and repurposed for modern use, and Knackered is also providing space for local Eastern Shore artists to sell their works; and</p>
 <p>Whereas small businesses like Knackered are the backbone of Nova Scotia, and their successes enrich our communities and create further opportunities for growth;</p>
@@ -265,7 +266,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="756">RESOLUTION NO. 756</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="756">RESOLUTION NO. 756</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas baseball and softball have always been popular sports in Inverness County; and</p>
 <p>Whereas the Inverness Regional Minor Ball Association is looking forward to another great season on the Ned MacDonald Memorial Ball Field, which received significant upgrades in 2010; and</p>
 <p>Whereas the driving forces behind minor ball in Inverness are President Sandy Watling, Vice-President Sean Cox, Treasurer Shawna Bennett, Secretary Donna Buckley, and a team of nine directors, including past president Leslie MacKinnon;</p>
@@ -277,7 +278,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
-        <speech by="#c3649928-ebf2-462c-bc99-d3e36c4653ef"><num title="757">RESOLUTION NO. 757</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lenore.zann"><num title="757">RESOLUTION NO. 757</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas John MacKenzie from Truro received the Caring Citizen Governor General's Award on Friday, February 21, 2014; and</p>
 <p>Whereas John received this esteemed award for his 15-plus years of dedication to girls rugby in Truro, coaching high school, provincial, and Atlantic levels; and</p>
 <p>Whereas 19 young women from his past rugby teams put forth the application for this award, appreciating his mentoring, caring, and professionalism toward them and the game of rugby, encouraging women to participate in the sport;</p>
@@ -289,7 +290,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sackville-Beaver Bank.</p></speech>
-        <speech by="#db1dcd00-6f99-4f07-a9d9-3948c99440ea"><num title="758">RESOLUTION NO. 758</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.gough"><num title="758">RESOLUTION NO. 758</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in 2007 a group of Sackville residents formed the Woodbine Family Association to provide hot meals to anyone over 50 who could not afford to make hot meals for themselves; and</p>
 <p>Whereas over the years, in addition to providing meals, this group has raised money for many community projects, such as planting trees and the purchase of playground equipment; and</p>
 <p>Whereas these dedicated individuals - Mureena Hebert and Christene McCutcheon, along with the board of directors and volunteers - continue to provide meals free of charge to those in need, anyone who can afford to pay is asked for a $5 donation to keep the cupboards stocked and they need not live in Woodbine Trailer Park, all are welcome;</p>
@@ -301,7 +302,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Pictou East.</p></speech>
-        <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><num title="759">RESOLUTION NO. 759</num><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tim.houston"><num title="759">RESOLUTION NO. 759</num><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lisa Jordan, assistant coach of Canada's Winter Olympics women's hockey team, was born and raised in Westville, and her proud hometown, along with the entire country, held their collective breath during the gold medal game, and particularly held their breath when that Team USA shot hit the post while our goalie had been pulled; and</p>
 <p>Whereas Lisa helped coach the team to a thrilling gold medal win, and the cheers in Westville joined those from coast to coast to coast; and</p>
 <p>Whereas Lisa made her mark on the world stage, and it is with joy and appreciation that we welcome our golden girl back to Westville to congratulate her and celebrate her achievement;</p>
@@ -313,7 +314,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cole Harbour-Eastern Passage.</p></speech>
-        <speech by="#88604b47-cbb6-4926-a8e6-0437792dd939"><num title="760">RESOLUTION NO. 760</num><from>MS. JOYCE TREEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#joyce.treen"><num title="760">RESOLUTION NO. 760</num><from>MS. JOYCE TREEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sandra Brownlee is an intuitive and artistic weaver and notebook keeper who allows imagery to surface line by line almost of its own accord; and</p>
 <p>Whereas she has received the Saidye Bronfman Award, which is awarded to outstanding artists for their excellence in fine arts; and</p>
 <p>Whereas she has been chosen as one of seven recipients to receive the Governor General's Award in Visual and Media Arts;</p>
@@ -325,7 +326,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings North.</p></speech>
-        <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><num title="761">RESOLUTION NO. 761</num><from>MR. JOHN LOHR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.a.lohr"><num title="761">RESOLUTION NO. 761</num><from>MR. JOHN LOHR</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on February 18<sup>th</sup> the Annapolis Valley Chamber of Commerce handed out the 2014 Valley's Best Awards; and</p>
 <p>Whereas Careforce was named as Best Health/Personal Care; and</p>
 <p>Whereas Careforce works as a proud partner with a number of local organizations and individuals to provide leadership and quality health care;</p>
@@ -337,7 +338,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg.</p></speech>
-        <speech by="#9d561239-9900-4212-aa2a-3392a94889e4"><num title="762">RESOLUTION NO. 762</num><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#suzanne.lohnes.croft"><num title="762">RESOLUTION NO. 762</num><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Duke of Edinburgh's Award has been helping to shape young Canadians into citizens who give back to their communities and strive to be the best they can possibly be; and</p>
 <p>Whereas youth between the ages of 14 and 24 have been participating in the program nationwide since 1963, to complete the three levels of standards being bronze, silver, and gold; and</p>
 <p>Whereas Allison Smith of Lunenburg has achieved all the requirements set out by the gold standard of the Duke of Edinburgh's Award;</p>
@@ -349,7 +350,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Pictou West.</p></speech>
-        <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><num title="763">RESOLUTION NO. 763</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karla.macfarlane"><num title="763">RESOLUTION NO. 763</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Mr. Dave Gunning, of Scotch Hill Road, Lyons Brook, won the CBC Music Hockey Night in Canada Song Quest competition on January 1, 2014; and</p>
 <p>Whereas Mr. Gunning's song was chosen the winner out of close to 1,000 other submissions from across Canada; and</p>
 <p>Whereas Mr. Gunning will now have his song professionally produced and featured in the video montage for an opening sequence of a future Hockey Night in Canada broadcast;</p>
@@ -361,7 +362,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#a2d33011-f501-455b-975a-6bc08d0e18ac"><num title="764">RESOLUTION NO. 764</num><from>MS. PAM EYKING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#pam.eyking"><num title="764">RESOLUTION NO. 764</num><from>MS. PAM EYKING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Representative Volunteer Award given to volunteers who have made an outstanding contribution in their community has been awarded to Mr. Dan MacNeil for his work in the community of Victoria County; and</p>
 <p>Whereas for years Mr. MacNeil has volunteered his time and energy to grooming and maintaining the North Highlands Nordic Cross Country Ski Trails; and</p>
 <p>Whereas through Mr. MacNeil's work, he helps to maintain the North Highlands Cross Country Ski Trails so that people from all over can come and enjoy one of the great activities Victoria County has to offer;</p>
@@ -373,7 +374,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#2a8a6812-dab1-49f4-b941-a875e19a943a"><num title="765">RESOLUTION NO. 765</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#brendan.o.maguire"><num title="765">RESOLUTION NO. 765</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Chebucto Connections has been working in the Spryfield community since 1985; and</p>
 <p>Whereas this non-profit organization has brought services such as Friends for Life, a childhood anxiety prevention program, and Pathways to Education to the Spryfield area and is always looking at ways to enrich the community - their latest partnership is with Nova Scotia Legal Aid, now offering legal service every second Friday in Spryfield; and</p>
 <p>Whereas on February 26, 2014, Chebucto Connections held the grand opening of their new office space at 531 Herring Cove Road, the new building provides them with the space they need to better serve the community;</p>
@@ -385,7 +386,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth South.</p></speech>
-        <speech by="#082cad97-a106-493b-849d-c354e8e1c26d"><num title="766">RESOLUTION NO. 766</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.rowe"><num title="766">RESOLUTION NO. 766</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dartmouth's Bridge Centre for Arts &amp; Technology is a program for youths aged 14 to 19, whose potential for dropping out of school is imminent; and</p>
 <p>Whereas BridgeCAT is the first of its kind in Canada, offering arts-based programming to disadvantaged youth, including materials and creative space for pottery, music recording, visual arts, video editing, poetry and even cooking; and</p>
 <p>Whereas under Executive Director David Napier and Program Director Sobaz Benjamin, BridgeCAT recently moved into an historical building on Queen Street in Dartmouth in December of last year, establishing a creative environment to engage youth and encourage collaboration with their communities;</p>
@@ -397,7 +398,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Timberlea-Prospect.</p></speech>
-        <speech by="#8a9371ce-d9e8-428b-860a-534e16b12b1b"><num title="767">RESOLUTION NO. 767</num><from>MR. IAIN RANKIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#iain.rankin"><num title="767">RESOLUTION NO. 767</num><from>MR. IAIN RANKIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Jessica Bower is an advocate for mental health awareness, in particular, the area of youth mental health; and</p>
 <p>Whereas Jessica is an exceptional young woman who has willingly shared her personal experiences with mental health to lobby for improved mental health services within the province; and</p>
 <p>Whereas Jessica raises awareness of mental health issues amongst youth through Bell's Let's Talk program and by speaking and fundraising for Laing House, a peer support organization for youth living with mental health;</p>
@@ -409,7 +410,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare-Digby.</p></speech>
-        <speech by="#2d10375d-6326-433b-a3a9-2209ff43ab46"><num title="768">RESOLUTION NO. 768</num><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordon.l.wilson"><num title="768">RESOLUTION NO. 768</num><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 2014 marks the 30<sup>th</sup> Anniversary of La Garderie Familiale de Clare providing a most valuable service to young children and their families; and</p>
 <p>Whereas the family home daycare program is designed to provide healthy, safe, and appropriate environments for young children who are cared for in approved private homes; and</p>
 <p>Whereas for the past 30 years, the care providers in Clare have supplied the community with excellent daycare services throughout our municipality;</p>
@@ -421,7 +422,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cumberland North.</p></speech>
-        <speech by="#1047aad7-8f0a-45b5-8e33-c350c258eefc"><num title="769">RESOLUTION NO. 769</num><from>MR. TERRY FARRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#terry.farrell"><num title="769">RESOLUTION NO. 769</num><from>MR. TERRY FARRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dick Bristol of Amherst, Nova Scotia has received the 2014 Provincial Volunteer Award; and</p>
 <p>Whereas this honour recognizes the tremendous contributions Dick Bristol has made to his community and to the province; and</p>
 <p>Whereas Dick Bristol donates his time to help others by supporting the causes in which he believes in various ways, especially through Dick's Jamboree;</p>
@@ -433,7 +434,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-        <speech by="#90d47c71-dddb-4c2d-9d50-161adf5e1c47"><num title="770">RESOLUTION NO. 770</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mark.furey"><num title="770">RESOLUTION NO. 770</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Catherine Talbot of Bridgewater has been recognized as the Arthritis Hero at an event in Halifax on February 12, 2014; and</p>
 <p>Whereas Catherine, who lives with juvenile arthritis, has continued to be active in athletics, playing badminton, cross-country, and basketball; and</p>
 <p>Whereas Catherine is an example of what can be achieved with hard work, determination, and positive attitude;</p>
@@ -445,7 +446,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        <speech by="#db9783e4-f6b1-4c03-9213-683b495bd6ab"><num title="771">RESOLUTION NO. 771</num><from>HON. TONY INCE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tony.ince"><num title="771">RESOLUTION NO. 771</num><from>HON. TONY INCE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Una Lounder of Dartmouth/Cole Harbour is a canoe athlete for the Canadian National Team, 2013 ICF World Cup #3 - K4 500m bronze medal, Poznan, Poland, 2012 Canadian Champion and record holder IC4 500, 2011 gold medal Pan American Games, Mexico, 2010 silver medal Pan American Championships, Mexico City, K1 500m bronze medal Canadian Sprint Championships, and K1 1000m silver medal Canadian Sprint Championships; and</p>
 <p>Whereas she has been a community ambassador and a fundraiser for the Special Olympics, and is a current student at Mount Saint Vincent University; and</p>
 <p>Whereas Una has been selected as part of the RBC Olympians Program and is an aspiring Olympian who has her sights set on the 2016 Games in Rio;</p>
@@ -457,7 +458,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Fairview-Clayton Park.</p></speech>
-        <speech by="#15c473b5-32d6-4539-8318-01e10551e1ec"><num title="772">RESOLUTION NO. 772</num><from>MS. PATRICIA ARAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#patricia.arab"><num title="772">RESOLUTION NO. 772</num><from>MS. PATRICIA ARAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dr. Susie Brigham, Associate Professor in the Faculty of Education and Chair of the Alexa McDonough Institute for Women, Gender and Social Justice at Mount Saint Vincent University, organized the community-based project titled Refugees Learning and Storytelling through Participatory Photography; and</p>
 <p>Whereas the project's exhibit was designed to showcase the lives and experiences of Nova Scotia's immigrants and refugees, and in creating these pieces, project participants were able to document their unique perspectives while contributing to research and creating a shared understanding of the issues that affect them; and</p>
 <p>Whereas the participants in this project were given the opportunity to share their settlement experiences with others through this public exhibit, which was displayed at the Keshen Goodman Library;</p>
@@ -469,7 +470,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Chebucto.</p></speech>
-        <speech by="#e729dd02-a85c-42fc-9fcd-68b17cb55748"><num title="773">RESOLUTION NO. 773</num><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#joachim.stroink"><num title="773">RESOLUTION NO. 773</num><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Daniel Campbell entered the Duke of Edinburgh's Award program to perform service and acquire skills to help both himself and the community, now and in the future; and</p>
 <p>Whereas Daniel volunteered at St. Catherine's Elementary, increased his canoe and camping skills in the Annapolis Valley, improved his fitness and teamwork skills by playing with the Halifax Hawks and obtained his driver's licence; and</p>
 <p>Whereas Daniel has worked very hard to complete all the goals set out for him;</p>
@@ -481,7 +482,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Eastern Shore-Tracadie.</p></speech>
-        <speech by="#c51d6556-5a76-4dd0-8625-3b6f71e9c75b"><num title="774">RESOLUTION NO. 774</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lloyd.hines"><num title="774">RESOLUTION NO. 774</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Saturday, February 1, 2014, the 4<sup>th</sup> Annual Luke MacDonald Memorial Pond Hockey Tournament was held on Morrison Lake near Mulgrave; and</p>
 <p>Whereas the event, which has been held every year in early February, raises funds for memorial bursaries to remember Luke MacDonald of Mulgrave; and</p>
 <p>Whereas the tournament raised an astounding $11,318 that will be given to the graduating class of SAERC in the form of bursaries at their annual graduation ceremonies in June;</p>
@@ -493,7 +494,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Immigration.</p></speech>
-        <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><num title="775">RESOLUTION NO. 775</num><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lena.m.diab"><num title="775">RESOLUTION NO. 775</num><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Edward John McBride was born in South Utica, New York, found himself drawn to Nova Scotia after spending his honeymoon here with his wife Mary Anne, and since then he has been a key member of the academic community, spending 32 years with Saint Mary's University, including four years with Dalhousie Law School - in 2012, Professor McBride was awarded an Honorary Doctorate of Civil Law by Saint Mary's University, an honour very rightly deserved; and</p>
 <p>Whereas Professor McBride was a beloved professor to many of his former students, including myself and earned this admiration by teaching with the following philosophy in mind, "Make students want to do it, then convince them they can do it", a viewpoint that encouraged many to reach their full potential and as my first year political science professor, he often shared stories of his work with John F. Kennedy, his passion for politics left a lasting impression and undoubtedly had influence on propelling me to where I am today; and</p>
 <p>Whereas although Professor McBride has faced health challenges in recent years, he still enjoys hearing from his former students and learning about their accomplishments - you can see the pride sweeping over him as he hears story after story of how far some have gone;</p>
@@ -505,7 +506,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Education and Early Childhood Development.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="776">RESOLUTION NO. 776</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="776">RESOLUTION NO. 776</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas The Chronicle Herald Nova Scotia Spelling Bee is open to home-schooled, public, and private school students from Grades 4 to 8 from anywhere in the province; and</p>
 <p>Whereas each school that registered in the contest held a spelling bee contest to select the student who would advance to the provincial competition, where a total of 43 students were chosen; and</p>
 <p>Whereas the contest winner received a $5,000 education bursary from the Nova Scotia Egg Producers and will represent Nova Scotia at the National Spelling Bee in Washington in May;</p>
@@ -517,7 +518,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Labour and Advanced Education.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="777">RESOLUTION NO. 777</num><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="777">RESOLUTION NO. 777</num><from>HON. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Patty Howard began Kitchen Door Catering in 2006 in Bedford, offering chef-crafted menu items as well as take-home meals, both fresh and frozen; and</p>
 <p>Whereas Kitchen Door Catering expanded their Gourmet TO GO food shop into downtown Halifax, and recently began contract catering at the Alt Hotel; and</p>
 <p>Whereas Kitchen Door Catering was the silver medal winner in the category of Small Business of the Year in the 2014 Halifax Business Awards presented by the Halifax Chamber of Commerce;</p>
@@ -529,7 +530,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Agriculture.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="778">RESOLUTION NO. 778</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="778">RESOLUTION NO. 778</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Justine Colley was born and brought up in the community of East Preston; and</p>
 <p>Whereas she is now a student at Saint Mary's University in Halifax and is the captain and a guard of the Saint Mary's Huskies Basketball Team; and</p>
 <p>Whereas she was selected and has played with Team Canada in the FIBA America's Championships, and with over 2,300 career points she is Canadian Interuniversity Sports highest scoring player of all time for women's basketball, and she also won the coveted Nan Copp Award as CIS Player of the Year in Canadian Women's Basketball for two years in a row;</p>
@@ -541,7 +542,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings South.</p></speech>
-        <speech by="#215aa23a-8ad4-4ebd-bd73-24c044884420"><num title="779">RESOLUTION NO. 779</num><from>MR. KEITH IRVING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.irving"><num title="779">RESOLUTION NO. 779</num><from>MR. KEITH IRVING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Steven Slipp of Wolfville, through his long and fruitful career as a graphic designer in Nova Scotia, has made numerous contributions to our province's and country's cultural heritage; and</p>
 <p>Whereas Mr. Slipp has been commissioned by Canada Post to design 13 commemorative stamps over the past 30 years, and has also served on Canada Post's Advisory Committee from 2002 to 2008; and</p>
 <p>Whereas Mr. Slipp was recently commissioned by Canada Post to design a stamp commemorating Robertson Davies, which was launched on August 28, 2013;</p>
@@ -553,7 +554,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Lucasville.</p></speech>
-        <speech by="#44650179-f363-4cd2-983b-a89509061821"><num title="780">RESOLUTION NO. 780</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, on your behalf, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#ben.jessome"><num title="780">RESOLUTION NO. 780</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, on your behalf, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas David Crawford of East Chezzetcook has been a long-time pillar of his community, is a devoted husband, father, and grandfather, and retired after 30 years of service working for the HRM; and</p>
 <p>Whereas David Crawford has taken an active role in his community throughout his life, is an active member of his church, St. Barnabas, where he is a former Warden and is also past president of the Chezzetcook Recreation Society and is the current King Lion of the Chezzetcook and District Lions Club; and</p>
 <p>Whereas David Crawford, as King Lion of the Chezzetcook and District Lions Club, has coordinated aid to countless families, businesses, and groups in their time of need;</p>
@@ -565,7 +566,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Pictou East.</p></speech>
-        <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><num title="781">RESOLUTION NO. 781</num><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#tim.houston"><num title="781">RESOLUTION NO. 781</num><from>MR. TIM HOUSTON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Marcel d'Entremont, of Merigomish in Pictou East, was among the winners in this year's Nova Scotia Talent Trust Awards as the recipient of the $1,500 Portia White Award for voice; and</p>
 <p>Whereas Marcel is currently studying for his Master of Music in Voice/Opera Degree at the University of Toronto and the Portia White Prize will help him pursue his studies; and</p>
 <p>Whereas Marcel's accomplishments will be a terrific help in establishing his professional career;</p>
@@ -577,7 +578,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Sackville-Beaver Bank.</p></speech>
-        <speech by="#db1dcd00-6f99-4f07-a9d9-3948c99440ea"><num title="782">RESOLUTION NO. 782</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.gough"><num title="782">RESOLUTION NO. 782</num><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas for the past four years Sackville Heights Elementary School in Middle Sackville has been offering the Breakfast Program and the greatest challenge has been to secure dedicated volunteers to give 45 minutes of their time; and</p>
 <p>Whereas Upper Sackville resident Frances Hammond, one of five ladies from Sackville United Baptist Church, has risen early on Fridays to prepare and serve breakfast to any child who wants to attend the Breakfast Program where each morning an average of 50 students are served varying combinations of toast, bagels, juice, fresh fruit, cheese, and yogurt; and</p>
 <p>Whereas a nutritious breakfast is key to a successful day, academically and socially, and without the dedication of volunteers like Ms. Hammond, the Breakfast Program at Sackville Heights Elementary School could not be offered;</p>
@@ -589,7 +590,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Pictou West.</p></speech>
-        <speech by="#6a90d53e-7f2d-4189-b7bd-c98709dcee16"><num title="783">RESOLUTION NO. 783</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karla.macfarlane"><num title="783">RESOLUTION NO. 783</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Highland Ford Sales Ltd., located on Balodis Drive, Westville, supports local schools through a unique fundraising idea; and</p>
 <p>Whereas Eric and Linda Barker, owners of Highland Ford Sales Ltd., have generously assisted schools with fundraising with the Highland Ford Drive 4 UR School Days for many years; and</p>
 <p>Whereas Highland Ford Sales Ltd. supports local schools by donating $20 for each test drive during the fundraising event, culminating in thousands of dollars over the years;</p>
@@ -601,7 +602,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Atlantic.</p></speech>
-        <speech by="#2a8a6812-dab1-49f4-b941-a875e19a943a"><num title="784">RESOLUTION NO. 784</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#brendan.o.maguire"><num title="784">RESOLUTION NO. 784</num><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Spryfield Lions Club has organized the Rene Quigley Bowling Challenge for the last 11 years; and</p>
 <p>Whereas this bowling challenge brings community business together every March for friendly competition and a fun-filled morning of bowling; and</p>
 <p>Whereas all proceeds from the Rene Quigley Bowling Challenge go to support the Spryfield Boys and Girls Club;</p>
@@ -613,7 +614,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth South.</p></speech>
-        <speech by="#082cad97-a106-493b-849d-c354e8e1c26d"><num title="785">RESOLUTION NO. 785</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.rowe"><num title="785">RESOLUTION NO. 785</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Dartmouth Players is in its 26<sup>th</sup> season in its home theatre on Crichton Avenue in Dartmouth; and</p>
 <p>Whereas Dartmouth Players is celebrated as Dartmouth's only classic amateur community theatre, drawing audiences in the thousands for each performance run; and</p>
 <p>Whereas Dartmouth Players cast and crew presented a highly praised performance of <i>The Woman in Black</i>, from February 5<sup/>to 22, 2014; and</p>
@@ -625,7 +626,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Timberlea-Prospect.</p></speech>
-        <speech by="#8a9371ce-d9e8-428b-860a-534e16b12b1b"><num title="786">RESOLUTION NO. 786</num><from>MR. IAIN RANKIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#iain.rankin"><num title="786">RESOLUTION NO. 786</num><from>MR. IAIN RANKIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Mabel, Michael and Rod MacSween, owners and operators of Mabel's Farm Market, located at 3303 Prospect Road, Whites Lake, have been in business since April 2004; and</p>
 <p>Whereas Mabel's Farm Market provides fresh fruit and vegetables, locally made baked goods and breads, and much more to the residents of the Prospect communities; and</p>
 <p>Whereas Mabel's Farm Market is appreciative and supportive of the communities they serve;</p>
@@ -637,7 +638,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Clare-Digby.</p></speech>
-        <speech by="#2d10375d-6326-433b-a3a9-2209ff43ab46"><num title="787">RESOLUTION NO. 787</num><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#gordon.l.wilson"><num title="787">RESOLUTION NO. 787</num><from>MR. GORDON WILSON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on February 1, 2014, a fundraising hockey game was held at Universit&#xE9; Sainte-Anne to raise funds for the Lisa Thibodeau Work Fund administered by CORD, the Clare Organization Representing Persons with Disabilities; and</p>
 <p>Whereas the charity hockey game was organized between former Clare Lions Junior C hockey players and the Sea Star Ice Dogs hockey team; and</p>
 <p>Whereas over 400 people attended this charity hockey game and raised $3,000 for the Lisa Thibodeau Work Fund;</p>
@@ -649,7 +650,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Service Nova Scotia and Municipal Relations.</p></speech>
-        <speech by="#90d47c71-dddb-4c2d-9d50-161adf5e1c47"><num title="788">RESOLUTION NO. 788</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#mark.furey"><num title="788">RESOLUTION NO. 788</num><from>HON. MARK FUREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Italy Cross-Middlewood Fire Department has opened their new station; and</p>
 <p>Whereas the new station was made possible because of the volunteers who donated time, supplies and expertise to the build; and</p>
 <p>Whereas the new station was celebrated at an open house, inviting the public to meet the volunteers, members and other community members;</p>
@@ -661,7 +662,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Environment.</p></speech>
-        <speech by="#d20bcc3a-16f9-4444-9716-099229d6a03e"><num title="789">RESOLUTION NO. 789</num><from>HON. RANDY DELOREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#randy.delorey"><num title="789">RESOLUTION NO. 789</num><from>HON. RANDY DELOREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas at their monthly council meeting on November 19, 2013, the Municipality of the County of Antigonish honoured Denise Fougere on 25 years of service; and</p>
 <p>Whereas Denise is the administrative assistant with the county's Recreation Department and is an integral member of their team by taking the lead role in developing the municipality's quarterly newsletter and organizing their annual Canada Day celebrations; and</p>
 <p>Whereas Warden Russell Boucher praised Denise's commitment and exceptional longevity and service;</p>
@@ -673,7 +674,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Fairview-Clayton Park.</p></speech>
-        <speech by="#15c473b5-32d6-4539-8318-01e10551e1ec"><num title="790">RESOLUTION NO. 790</num><from>MS. PATRICIA ARAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#patricia.arab"><num title="790">RESOLUTION NO. 790</num><from>MS. PATRICIA ARAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Lisa Sullivan is a strong community advocate, a dynamic leader and a generous member of the business community; and</p>
 <p>Whereas Ms. Sullivan has created and organized the annual Fairview Family Days and the Freeman's Tree Lighting Ceremony, which have both been hugely successful in bringing the community together; and</p>
 <p>Whereas Ms. Sullivan has dedicated her whole life to the improvements of her community and to the safety of our neighbourhood;</p>
@@ -685,7 +686,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Chebucto.</p></speech>
-        <speech by="#e729dd02-a85c-42fc-9fcd-68b17cb55748"><num title="791">RESOLUTION NO. 791</num><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#joachim.stroink"><num title="791">RESOLUTION NO. 791</num><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Justin Weagle entered into the Duke of Edinburgh's program to perform service and acquire skills to help both himself and the community, now and in the future; and</p>
 <p>Whereas he undertook volunteering with the IWK, increased his canoe and camping skills in the Annapolis Valley, received his driver's licence through the High School Driving Academy and improved his fitness levels by playing hockey with the Halifax Hawks; and</p>
 <p>Whereas Justin has worked very hard to complete all the goals set out for him;</p>
@@ -697,7 +698,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Guysborough-Eastern Shore-Tracadie.</p></speech>
-        <speech by="#c51d6556-5a76-4dd0-8625-3b6f71e9c75b"><num title="792">RESOLUTION NO. 792</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#lloyd.hines"><num title="792">RESOLUTION NO. 792</num><from>MR. LLOYD HINES</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Ashley Sharpe, of Moser River, sparked an interest in humanitarian aid work through volunteering in The Gambia, with Nova Scotia Gambia Association, while earning her nursing degree; and</p>
 <p>Whereas in August 2012 she went on her first mission with Doctors Without Borders in Katanga, Democratic Republic of Congo, for nine months; and</p>
 <p>Whereas she is currently working with Doctors Without Borders for six months in Bossangoa, in the Central African Republic, as an outreach nurse, travelling with a team to surrounding villages to provide health care to populations left without any assistance;</p>
@@ -709,7 +710,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Agriculture.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="793">RESOLUTION NO. 793</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="793">RESOLUTION NO. 793</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Paul Adams was interested in photography as a child and knew this is where he wanted to be as an adult, accordingly took a two-year course in Nova Scotia Community College and now holds a Diploma in Digital Imagery and Photography, and later started his photography business part time in 1998 and went full time in 2004 as Adams Photography Services Incorporated; and</p>
 <p>Whereas Paul believes in giving back to his community and does charitable work with the Sickle Cell Disease Association and his church, Emmanuel Baptist Church, as well as he goes to the schools and speaks to students about photography and career choices; and</p>
 <p>Whereas Paul was awarded the Entrepreneur of the Year Award in 2012 by the Board of Directors of the Black Business Initiative, and he also won the Consumer Choice Award for the last four years;</p>
@@ -727,7 +728,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -738,7 +739,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+        <speech by="#michel.p.samson">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call Bill No. 32.</p>
         </speech>
@@ -748,7 +749,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Natural Resources.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I move that Bill No. 32, an Act to Repeal Certain Statutes Pertaining to Forestry Agreements be now read a second time.</p>
+          <speech by="#zach.churchill"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I move that Bill No. 32, an Act to Repeal Certain Statutes Pertaining to Forestry Agreements be now read a second time.</p>
 <p>As this House knows, the forestry sector has been undergoing a period of transformation and transitioning over the course of recent years. It is imperative that as a Legislature we ensure that our legislation is reflective of those changes. Three of these Acts being repealed today have not been used since 1960: the Halifax Power and Pulp Company Limited Agreement Act was enacted in 1962 for a newspaper plant to be built in Sheet Harbour, but the company never built the plant, and in the early 1970s the company stopped operating; the Oxford Lease Purchase Act was implemented in 1960 for a specific purpose and is now obsolete; and the Bowaters Mersey Agreement Act was enacted in 1962, but the province never entered into the agreement so it's appropriate to appeal.</p>
 <p>The Scott Maritimes Limited Agreement Act is still being used at the moment but it lacks the flexibility needed to address today's industry and ensure compliance of forestry practices identified in the province's Natural Resources Strategy.</p>
 <p>Mr. Speaker, I am asking to repeal it today, and once a new agreement comes into effect it will be proclaimed. Of course these legislative changes are happening in conjunction with investment in the innovation side of forestry, identifying new harvesting methods and processes and markets for our products, along with our continued work with private woodlot owners across the province to help us address the fibre shortage that we have in the Province of Nova Scotia. So this is part of a more robust strategy to support that forestry sector.</p>
@@ -757,7 +758,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Pictou East.</p>
           </speech>
-          <speech by="#31fb4530-6a1c-46f4-970e-db00638ac010"><from>MR. TIM HOUSTON</from><p>Mr. Speaker, it's my pleasure to rise today in support of Bill No. 32. (Applause) I know how eager the minister was to get to second reading of this bill, so I am delighted that I am the first one to jump to my feet in support of it.</p>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>Mr. Speaker, it's my pleasure to rise today in support of Bill No. 32. (Applause) I know how eager the minister was to get to second reading of this bill, so I am delighted that I am the first one to jump to my feet in support of it.</p>
 <p>There is no doubt that the forestry industry has changed since the 1960s. In fact, it's hard to think of an industry that hasn't undergone significant change in the last 50 years. Bill No. 32 makes sense because part of our job here is to modernize outdated legislation and make sure that we are governed by legislation that makes sense, so making housekeeping changes like this is necessary. We support that.</p>
 <p>Mr. Speaker, another part of our job here in this House of Assembly is to pass legislation that moves the province forward, to pass legislation that makes the lives of Nova Scotians easier and better. Today, as I look at this legislation, I am reminded of many things that the government is not doing. I am reminded of things that this department could be doing to make things better, but it is not. I am left to wonder, where is the legislation that will truly innovate, strengthen, and revolutionize our forestry industry?</p>
 <p>Forestry is a significant industry in Nova Scotia. It is an over $700 million per year industry, and it employs over 10,000 people. I want to see this government support what we know works. I can't help but ask, where is the bold action to help the silviculture industry that is so desperately underserviced? Silviculture works. We should be doing more silviculture work to make sure that our woodlands are more efficient and increase our yields.</p>
@@ -772,7 +773,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Queens-Shelburne.</p>
           </speech>
-          <speech by="#fd4da06d-c312-4399-86b3-977c44ffb42a"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I have a few words, a few minutes if I could on Bill No. 32. It's unfair to those interests in this important rural industry to call this bill housekeeping, and I know the minister calls it housekeeping. I actually noted the Official Opposition also used that without coupling it together with a vision for this important future of this industry. It's simply unfair to label it as housekeeping.</p>
+          <speech by="#sterling.belliveau"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I have a few words, a few minutes if I could on Bill No. 32. It's unfair to those interests in this important rural industry to call this bill housekeeping, and I know the minister calls it housekeeping. I actually noted the Official Opposition also used that without coupling it together with a vision for this important future of this industry. It's simply unfair to label it as housekeeping.</p>
 <p>Mr. Speaker, this is the cart before the horse, or the chicken before the egg. To not couple the Act's repeal with a real vision of the forestry does a disservice to our rural communities across Nova Scotia which rely heavily on this sector. If the minister is serious about his job and truly interested in transparency, we'd know by now if the full-force utilization agreement that's being negotiated would now be living up to the spirit of the forest utilization agreement that we, as a government, most recently agreed to with Port Hawkesbury Paper. To call this bill housekeeping and not offer up any commitments related to the current agreement negotiation isn't just unfair to the interests of all Nova Scotians - as my counterpart suggested, this is simply being lazy.</p>
 <p>Mr. Speaker, a simple question: will this meet the spirit of the new forest utilization agreement that we introduced, or made with Port Hawkesbury Paper? People across Nova Scotia want to know. They want to know simple questions like, will people have access for firewood? Will they have access for commercial fibre? Questions also about what this new government has for a vision when it comes to the forestry, and that question when it comes to a word called "certification". To me, to our Party, certification has one important meaning. It means, certainly to myself and to members of this Party, that we need to make sure that wood supply goes to the right home, such as wood that needs to be placed for its highest value: sawlogs or stud wood to sawmills, pulpwood certainly would go for pulp, biomass for biomass, and most importantly - and we cannot forget - that simple firewood to help keep Nova Scotians warm in their homes on a yearly basis.</p>
 <p>These are simple questions, but there is absence in the reply from the minister. Mr. Speaker, I ask certain questions, like why the minister calls this bill housekeeping like this. Why can't he indicate and ask these questions and answer these questions? Questions such as: if there is any new agreement, will it be available online? Will he be aiming, or will this bill be aimed, at reducing clear-cutting? Will it increase the wood fibre supply for private landowners, and will it aim to improve sustainable harvesting techniques? Will there be a progress report after two years, and will all lands under this new agreement adhere to the Forest Stewardship Council or something better?</p>
@@ -780,7 +781,7 @@
 <p>Mr. Speaker, Nova Scotians are getting nervous. I repeat, they are getting nervous of this government's unwillingness to act and say anything that has some substance. Thank you very much for your time.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Natural Resources.</p></speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, just to address some of the issues that were brought up by our members opposite and to clarify some information for the House, I am proud to be part of a government that took obsolete pieces of legislation that have been on the books since 1960 and repealed them today. These pieces of legislation have been on the books for decades, and no government has moved to make any changes on them, except for ours today.</p>
+          <speech by="#zach.churchill"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, just to address some of the issues that were brought up by our members opposite and to clarify some information for the House, I am proud to be part of a government that took obsolete pieces of legislation that have been on the books since 1960 and repealed them today. These pieces of legislation have been on the books for decades, and no government has moved to make any changes on them, except for ours today.</p>
 <p>Related to the questions around the western Crown land management process and fibre allocation and the overall success of the forestry sector, Mr. Speaker, we cannot legislate prosperity in this Legislature. We cannot legislate more fibre for our woodcutters. What we can do is ensure that our legislation is up to date, is relevant, reflects the changes that we have seen in the forestry sector, and helps move the forestry sector forward. I'm proud to say that we're doing that today.</p>
 <p>As I mentioned, this legislation is happening along with a significant effort on the department's side to support the forestry sector. Our efforts are on investing, innovation, identifying new markets, new ways of harvesting, and new processes that our foresters can use across the province to do it more effectively and make more money while doing it.</p>
 <p>Also, as the members know, one of the biggest challenges we face in our forestry sector in this province is lack of a secure fibre source. We have the second-lowest amount of Crown land in the country, after P.E.I., Mr. Speaker, and we have the second-highest percentage of protected land in the country. This creates challenges for our forestry sector when it comes to accessing fibre. Despite what the member from the NDP caucus says, I can't legislate more fibre to grow in this Legislature.</p>
@@ -788,19 +789,19 @@
 <p>The member opposite, from the Progressive Conservative caucus, asked some questions related to the western Crown land allocations. As he knows, as was stated in this Legislature and publicly, that management plan was a result of extensive public consultation. I will inform the member that there were no companies that came forward and asked for an allocation on those western Crown lands that didn't receive one.</p>
 <p>We are aware of the fibre challenges that this province is facing, and we did our very best to accommodate all the requests that came in from sawmillers, particularly from the West. I want to assure that member that everybody - small mills, large mills, all alike - has been working together on this plan. They were supportive of it, and we'll be working with them further to allocate the long-term allocations. I thought that was important to note as well.</p>
 <p>The only - I guess there were two companies that hadn't traditionally received allocations from the West. There were anomalies in this process. One was Brooklyn Power, an important organization down in Liverpool. They ran out of a fibre source, so we did our very best to accommodate their request, which is a new request. The other anomaly was Northern Pulp, and of course what this government was doing was maintaining a commitment that was made very clearly by the previous government back in January 2013.</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>That's not true and you know that.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>MR. CHURCHILL</from>
             <p>It is true and everybody that has seen all the facts knows it is true &#x2026;</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Show the facts.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7">
+          <speech by="#zach.churchill">
             <from>MR. CHURCHILL</from>
             <p>&#x2026; including a former staff person in the Premier's office.</p>
           </speech>
@@ -808,14 +809,14 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable Minister of Natural Resources has the floor.</p>
           </speech>
-          <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's not even debatable whether the past government actually allocated $125,000 to Northern Pulp or not, and if any members on the NDP bench want to ask me any questions in Question Period, I'd be happy to engage you in that conversation.</p>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, it's not even debatable whether the past government actually allocated $125,000 to Northern Pulp or not, and if any members on the NDP bench want to ask me any questions in Question Period, I'd be happy to engage you in that conversation.</p>
 <p>So we had to maintain that commitment, Mr. Speaker. The reason why we did that - it was a fulsome discussion, it entailed a lot of thought on our end, and we thought it was not fair to the company or to the employees. They were informed over a year ago that they would be receiving this allocation. They've been investing in their company, they've been investing in their workforce, and we did not think it would be fair for government to renege on that commitment, so we kept it. In order to reach that commitment, we did need to allocate some fibre from the West, which we did.</p>
 <p>Mr. Speaker, again, this legislative review is part of a larger ongoing effort to revitalize our forestry sector and work in partnership with them. Unlike the previous government, which brought in regressive policies that we've heard from the forestry sector hurt them very specifically, we're working with that sector to move it forward. Thank you very much, Mr. Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for second reading of Bill No. 32. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, would you please call Bill No. 33.</p>
           </speech>
@@ -826,7 +827,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Labour.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>HON. KELLY REGAN</from><p>I move that Bill No. 33, An Act to Amend Chapter 38 of the Acts of 2008, the Fair Registration Practices Act, now be read a second time.</p>
+          <speech by="#kelly.regan"><from>HON. KELLY REGAN</from><p>I move that Bill No. 33, An Act to Amend Chapter 38 of the Acts of 2008, the Fair Registration Practices Act, now be read a second time.</p>
 <p>Mr. Speaker, I'm sure everyone in this House would agree that it is in the best interest of Nova Scotians, our businesses and our workforce if government can make it easier for professionals to work in the province. That's exactly what we're doing with the changes we're introducing to the Fair Registration Practices Act. This bill ensures that people who have trained outside the province receive a fair review of their qualifications. It's about giving provincially, nationally, and internationally trained professionals timely, clear, and understandable information about registration and licensing requirements and processes to help them find a job in their chosen profession.</p>
 <p>Under the Act, regulatory authorities are responsible for carrying out registration practices that are objective and transparent. They also must set the standards or certification for an occupation, assess the qualification of workers against these criteria, and recognize if a candidate meets the standards or requirements to work in that occupation. Some of the regulated authorities currently covered in the act include the Association of Professional Engineers, the College of Physicians and Surgeons, the Institute of Chartered Accountants, and the College of Pharmacists. Mr. Speaker, these regulatory bodies are required under legislation to report their registration practices, review and appeal processes, and fees so that we can ensure that they are accountable and that their practices are objective and transparent.</p>
 <p>Changes to the Act will make it clear that all regulatory bodies that oversee professions are subject to the Act and biannual reporting, and they will ensure that people who have trained outside the province continue to receive a fair review of their qualifications. Mr. Speaker, these changes will also allow the minister responsible for Labour and Advanced Education to add new regulatory bodies without seeking approval from Executive Council. This will streamline the process, allowing more occupations to become recognized under the Act more quickly.</p>
@@ -835,7 +836,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Pictou Centre.</p>
           </speech>
-          <speech by="#c3ac43ce-212f-4fdc-94fd-6fe91c1601df"><from>HON. PAT DUNN</from><p>Mr. Speaker, I am pleased to rise today in the House to support this bill. This legislation will increase the accessibility to the annual report while removing cumbersome regulations and processes. We encourage the government to continue to work with professionals and make it easier for them to come to Nova Scotia.</p>
+          <speech by="#patrick.dunn"><from>HON. PAT DUNN</from><p>Mr. Speaker, I am pleased to rise today in the House to support this bill. This legislation will increase the accessibility to the annual report while removing cumbersome regulations and processes. We encourage the government to continue to work with professionals and make it easier for them to come to Nova Scotia.</p>
 <p>We would like to see more legislation like this and we would like to see it expanded to address the challenges associated with attracting and maintaining trained immigrants. Hopefully there is more to come from the Department of Labour and Advanced Education to help support the Ivany goal of doubling immigration.</p>
 <p>Mr. Speaker, in Nova Scotia we have real demographic challenges. Nova Scotia now has the oldest age profile of any Canadian province except Newfoundland and Labrador. We are currently projected to have 100,000 fewer working-age people by 2036 than we had in 2010, a nearly 20 per cent decline in the labour pool.</p>
 <p>Mr. Speaker, this bill is a good first step but it is time for this government to act swiftly to tackle the challenges that have been identified by the Ivany commission and others. The cost of tinkering around the edges is too high. After those few words, I'll take my seat.</p></speech>
@@ -843,13 +844,13 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Cape Breton Centre.</p>
           </speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+          <speech by="#frank.corbett">
             <from>HON. FRANK CORBETT</from>
             <p>Mr. Speaker, just to say a very few short words on this - there is no sense in being redundant - I think we agree with the direction this bill is going in and we would hopefully see that this would be part of a more fulsome exercise by this government as it relates to immigration. We realize how important that is to this province and we look forward to this bill going forward and we look forward to this government bringing forward a more fulsome and robust bill that would help us to attract and retain immigrants to this great province. With those few words, I take my place.</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Labour and Advanced Education</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>HON. KELLY REGAN</from>
             <p>Mr. Speaker, I thank the members opposite for their remarks and especially for their brief remarks. I move second reading of Bill No. 33.</p>
           </speech>
@@ -857,7 +858,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+          <speech by="#michel.p.samson">
             <from>HON. MICHEL SAMSON</from>
             <p>Mr. Speaker, would you please call Bill No. 34.</p>
           </speech>
@@ -868,7 +869,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Justice.</p>
           </speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180"><from>HON. LENA DIAB</from><p>I move that Bill No. 34, containing amendments to the Notaries and Commissioners Act, be read a second time. I'm pleased to have the opportunity this morning to tell you the importance of these amendments.</p>
+          <speech by="#lena.m.diab"><from>HON. LENA DIAB</from><p>I move that Bill No. 34, containing amendments to the Notaries and Commissioners Act, be read a second time. I'm pleased to have the opportunity this morning to tell you the importance of these amendments.</p>
 <p>When legal documents are entered into evidence in a court of law, it is required that the party who made these statements swear or affirm their truth. This oath or affirmation must be taken by a Commissioner of Oaths. The Minister of Justice appoints the Commissioner of Oaths under this Act. There are certain professions, by virtue of their office, that automatically have legal authority to administer oaths and take affidavits, declarations and affirmations concerning any matter that comes before a court in the Province of Nova Scotia. There are also other provincial Statutes that authorize Commissioners of Oaths to take these declarations.</p>
 <p>Mr. Speaker, these professions include the following under our Act: barristers of the Supreme Court of Nova Scotia, Canadian Armed Forces while on active duty, MLAs while they are members of the House of Assembly, chief officers of municipal police departments, and RCMP members.</p>
 <p>The amendments proposed today would add to the list and allow licensed funeral home directors to also be Commissioners of Oaths, Mr. Speaker. Currently, a licensed funeral home director who wants to become a Commissioner of Oaths must go through an application process. This process requires them to pay a fee of almost $129 to be appointed for a five-year appointment as a Commissioner of Oaths. Once they've been appointed as a Commissioner of Oaths, they can then charge a fee of $19.35 for providing their service.</p>
@@ -879,7 +880,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Inverness.</p>
           </speech>
-          <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2">
+          <speech by="#allan.gerard.macmaster">
             <from>MR. ALLAN MACMASTER</from>
             <p>We will be supporting this legislation, Mr. Speaker. Giving legal authority to funeral directors to take declarations is something that's going to make it easier for families in their grieving for loved ones. I believe it's something that makes sense. We are pleased to let it pass through the Legislature. I won't take up any more time. Let's speed it through the process. Thank you.</p>
           </speech>
@@ -887,11 +888,11 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Sackville-Cobequid.</p>
           </speech>
-          <speech by="#331409ea-d1b7-4360-84de-bcaf1d09e73d"><from>HON. DAVID WILSON</from><p>Mr. Speaker, we do support this piece of legislation. I think it's important at any time that, through this, government can support those families that might be suffering a loss. I think that allowing this to happen will ease some of that burden that is placed on families.</p>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Mr. Speaker, we do support this piece of legislation. I think it's important at any time that, through this, government can support those families that might be suffering a loss. I think that allowing this to happen will ease some of that burden that is placed on families.</p>
 <p>I do feel compelled, being a member of this House of Assembly for almost 11 years, to ask how much more the current government will support those who find themselves with the loss of a loved one. I'm going to echo the voices of one of our colleagues from Digby, who for many, many years stood in this House and asked a number of governments when they would take the taxes off funerals. I would hope that that voice is echoing through the current government, and maybe the minister will answer if they are contemplating taking the taxes off funerals, which would support families in Nova Scotia. Thank you.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close the debate.</p>
 <p>The honourable Minister of Justice.</p></speech>
-          <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+          <speech by="#lena.m.diab">
             <from>HON. LENA DIAB</from>
             <p>Mr. Speaker, I'm very pleased to move unanimously - with the consent of the House - these very important amendments which will lessen the burden on grieving families. Thank you very much.</p>
           </speech>
@@ -899,7 +900,7 @@
 <p>The motion is carried.</p>
 <p>Ordered that this bill be referred to the Committee on Law Amendments.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016"><from>HON. MICHEL SAMSON</from><p>Thank you very much, Mr. Speaker. That concludes the government's business for today. We will meet again on Monday, March 31<sup>st</sup>, from the hours of 7:00 p.m. until 10:00 p.m. The order of business will be, after the daily routine, under Government Business, second reading of Bill No. 35 which was introduced today and, if time permits, possibly some Address in Reply.</p>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Thank you very much, Mr. Speaker. That concludes the government's business for today. We will meet again on Monday, March 31<sup>st</sup>, from the hours of 7:00 p.m. until 10:00 p.m. The order of business will be, after the daily routine, under Government Business, second reading of Bill No. 35 which was introduced today and, if time permits, possibly some Address in Reply.</p>
 <p>With that, Mr. Speaker, I move that the House do now rise, to meet again on Monday, March 31<sup>st</sup> from 7:00 p.m. until 10:00 p.m.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House now rise, to meet again on Monday at 7:00 p.m.</p>
 <p>Is it agreed?</p>
@@ -913,32 +914,32 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="794">RESOLUTION NO. 794</num><from>Hon. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="794">RESOLUTION NO. 794</num><from>Hon. Kelly Regan</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas REDspace, a division of Bedford web developer TeamSpace Canada Inc., created an interactive website about the International Space Station; and</p>
 <p>Whereas the website, created for the National Film Board Space School, offered young viewers a first row seat beside Commander Chris Hadfield, the first Canadian to command the space station; and</p>
 <p>Whereas REDspace is nominated for a Canadian Cinema and Television award in the category of Best Original Interactive Production Produced for Digital Media;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate REDspace for its exceptional work in the emerging field of interactive digital-media technology.</p></speech>
-        <speech by="#d20bcc3a-16f9-4444-9716-099229d6a03e"><num title="795">RESOLUTION NO. 795</num><from>Hon. Randy Delorey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#randy.delorey"><num title="795">RESOLUTION NO. 795</num><from>Hon. Randy Delorey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Coady International Institute at St. Francis Xavier University set a record this year for number of participants taking courses on its campus in Antigonish; and</p>
 <p>Whereas 332 citizen leaders from around the world studied this year at the Coady Institute, representing 48 countries; and</p>
 <p>Whereas hundreds of other citizen leaders were reached through in-country programs;</p>
 <p>Therefore be it resolved that all membres of this House congratulate Coady International Institute for continuing to meet the needs of citizen leaders in Canada and in countries around the world.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="796">RESOLUTION NO. 796</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="796">RESOLUTION NO. 796</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Allison Sibley, a 21-year-old from Valley, Colchester North, and a 2014 Spring graduate from Mount Allison University, placed second nationally in the engineering and applied physics category at the Canadian Undergraduate Physics Conference in Hamilton; and</p>
 <p>Whereas Sibley's research, which tests the stresses on copper and its deposition, playing a key role in the manufacturing process for printed circuit boards, was unique in that she made and tested plastic boards rather than the usual metal ones; and</p>
 <p>Whereas she co-published a paper with Dr. Ralf Bruning on her research, has another under review, and is planning to continue her studies by first pursuing a master's degree and ultimately a doctorate;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Allison Sibley for placing second in the national physics competition and wish her continued success with her educational pursuits and her research.</p></speech>
-        <speech by="#e823bcda-8e9b-4fde-a6bc-c84c2ae48f5c"><num title="797">RESOLUTION NO. 797</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#john.a.lohr"><num title="797">RESOLUTION NO. 797</num><from>Mr. John Lohr</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Kentville Kinsmen celebrated their 50<sup>th</sup> Anniversary as an organization on March 15<sup>th</sup>; and</p>
 <p>Whereas founded by Hal Rogers on February 20, 1920, Kinsmen Canada is the nation's largest all-Canadian service club organization; and</p>
 <p>Whereas Kinsmen Clubs across the country have a proud 94-year history of fostering lifelong friendships while "Serving the Community's Greatest Need";</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the Kentville Kinsmen on their Golden Anniversary, and wish them continued success in serving their local community and beyond.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="798">RESOLUTION NO. 798</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="798">RESOLUTION NO. 798</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas 17-year-old Janell Stewart of Yarmouth has been presented with the Respectful Citizenship Award by Lieutenant Governor J.J. Grant; and</p>
 <p>Whereas Janell is noted as one who treats all people with respect, and who started an Atomic Volleyball program for Yarmouth girls aged 7 to 10; organized a clothing exchange to make used clothing available to those who need it; has been active in the Restorative Justice Program; is a member of the Gay-Straight Alliance, promoting acceptance and understanding of diversity; and is a member of the Global Leaders movement and is raising money for herself and two others to travel to Ecuador and help build a school; and</p>
 <p>Whereas Janell, who is the daughter of Derek and Francine Lesser, will enrol in the Dalhousie School of Nursing this year and promises to continue to be a role model for the youth of our province;</p>
 <p>Therefore be it resolved that the members of this House of Assembly congratulate Janell on this prestigious award and all that it signifies about her character, and wish her much success as she pursues her chosen career.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="799">RESOLUTION NO. 799</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="799">RESOLUTION NO. 799</num><from>Hon. Zach Churchill</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Isaiah Jeans, a Grade 10 student at Yarmouth Consolidated Memorial High School, has been named the Atlantic Region winner of Google Canada's "Google Doodle Contest"; and</p>
 <p>Whereas this was a contest requiring active imagination to create an alternative Google logo illustrating a game-changing invention; and</p>
 <p>Whereas Isaiah Jeans designed a machine to reverse the aging process while spelling out the word "Google" and was rewarded with a cash prize of $5,000 and a laptop computer;</p>

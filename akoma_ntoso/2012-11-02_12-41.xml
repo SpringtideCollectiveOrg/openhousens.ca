@@ -4,35 +4,36 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="Hon. Stephen McNeil"/>
-        <TLCPerson id="cfb3bc32-2d05-41ad-a115-6bddf2118033" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="ea522cb5-76c2-4f6d-920c-5b1835704b1a" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
-        <TLCPerson id="8d3f2e85-b724-4554-980d-02c64fb4603a" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. REGAN"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="ee8a60d0-642f-4447-a3d1-573947cdc8b0" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="bf736a4f-4e18-431a-acf2-10100b3a941a" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCPerson id="f0478385-8c12-4b20-a8f8-9d794aabc4c2" href="/ontology/person/ca-ns.vicki.conrad" showAs="MS. VICKI CONRAD"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="the Premier"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="MR. LEO GLAVINE"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAIMIE BAILLIE"/>
+        <TLCPerson id="keith.bain" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="HON. KAREN CASEY"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="kelly.regan" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="clarrie.mackinnon" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="charlie.parker" href="/ontology/person/ca-ns.charlie.parker" showAs="HON. CHARLIE PARKER"/>
+        <TLCPerson id="vicki.conrad" href="/ontology/person/ca-ns.vicki.conrad" showAs="MS. VICKI CONRAD"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="the Premier"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 2 November 2012</docTitle>
       <docNumber>12-41</docNumber>
       <docDate date="2012-11-02">Friday, November 2, 2012</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="4">4th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C89/house_12nov02/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined">
@@ -45,7 +46,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Kings West.</p>
         </speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
+        <speech by="#leo.glavine"><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I beg leave to table a petition with the operative clause:</p>
 <blockquote>"&#x2026; your petitioners call upon the Nova Scotia House of Assembly to use its powers over the Board of Commissioners of Public Utilities, the Nova Scotia Utility and Review Board &#x2026; to deny any General Rate Application presented by NSPI requesting a rate increase in 2013, 2014 and 2015."</blockquote>
 <p>There are 101 signatures here and I have affixed my signature to this.</p></speech>
         <speech by="" as="#speaker" status="undefined">
@@ -76,7 +77,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Official Opposition.</p>
         </speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1675">RESOLUTION NO. 1675</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1675">RESOLUTION NO. 1675</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Saturday, November 3, 2012, athletes, teams, and valuable builders in the development of sport will be ceremoniously inducted into the Nova Scotia Sport Hall of Fame; and</p>
 <p>Whereas Jack Graham, a native of Antigonish who now makes Halifax his home, will be inducted for his invaluable contributions in the development of tennis, not only in Nova Scotia but nationally and internationally; and</p>
 <p>Whereas Jack has served as president of the Nova Scotia Tennis Association and chair of Tennis Canada, became the first Canadian to be elected to the International Tennis Federation Board, and as well served as a director for the International Tennis Hall of Fame located in Newport, Rhode Island;</p>
@@ -89,7 +90,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Progressive Conservative Party.</p></speech>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="1676">RESOLUTION NO. 1676</num><from>HON. JAIMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="1676">RESOLUTION NO. 1676</num><from>HON. JAIMIE BAILLIE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November 1<sup>st</sup> marked the first day of Holocaust Education Week; and</p>
 <p>Whereas this is a time for Nova Scotians to remember the more than six million victims of the Holocaust and learn lessons from one of the darkest times in global history; and</p>
 <p>Whereas we must honour the survivors and use this time to teach future generations the universal right to dignity, respect, and equality that is afforded to all humanity;</p>
@@ -101,7 +102,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1677">RESOLUTION NO. 1677</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1677">RESOLUTION NO. 1677</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Saturday, November 3, 2012, athletes, teams, and valuable builders in the development of sport will be ceremoniously inducted into the Nova Scotia Sport Hall of Fame; and</p>
 <p>Whereas the pride of Inglewood and Bridgetown, Nova Scotia, the late Howard Jackson will be inducted for his invaluable contributions as coach and official in the sport of volleyball; and</p>
 <p>Whereas as an accomplished track and field athlete himself, accomplishments which saw him inducted into the Bridgetown Area Sports Hall of Fame at its inaugural induction ceremony in 2010, the late Howard Jackson will be honoured tomorrow evening for his significant contributions to the sport of volleyball as an official coach and an educator at both the national and local levels;</p>
@@ -113,7 +114,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="1678">RESOLUTION NO. 1678</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="1678">RESOLUTION NO. 1678</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas at the height of the depression in 1937, golf course architect Stanley Thompson was hired to construct the Highland Links Golf Course in Ingonish, which was built by the hard work of 400 Ingonish residents; and</p>
 <p>Whereas the Highland Links Stanley Thompson Historical Society set a goal to have a life-size bronze statue that was unveiled on Sunday, September 16<sup>th</sup>, at the Highland Links; and</p>
 <p>Whereas Victoria County set aside September 16<sup>th</sup> as Stanley Thompson Day to commemorate and pay tribute to the people of Ingonish who built and contributed to the construction of the Highland Links;</p>
@@ -125,7 +126,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="1679">RESOLUTION NO. 1679</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="1679">RESOLUTION NO. 1679</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Steve Giles was introduced to paddling at a very young age, joining the Orenda Canoe Club in Lake Echo; and</p>
 <p>Whereas he won countless medals around the world, including a bronze in the C-1 1,000 metre at the 2000 Olympics in Sydney, Australia, and competed four times as an Olympian; and</p>
 <p>Whereas he has been honoured by being inducted into the Nova Scotia Sport Hall of Fame;</p>
@@ -137,7 +138,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><num title="1680">RESOLUTION NO. 1680</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#alfie.macleod"><num title="1680">RESOLUTION NO. 1680</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Gowrie Memorial School has recently renamed their library in honour of Jane and Ron Armstrong; and</p>
 <p>Whereas Jane and Ron Armstrong, a couple from Guelph, Ontario, have donated more than 1,300 books over the past 12 years to the library at Gowrie Memorial School; and</p>
 <p>Whereas Jane and Ron visited Cape Breton 12 years ago, staying at a local bed and breakfast, which was owned by a teacher at Gowrie Memorial, where they learned about the state of the Gowrie school library;</p>
@@ -149,7 +150,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1681">RESOLUTION NO. 1681</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="1681">RESOLUTION NO. 1681</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Royal Canadian Air Cadets, a Canadian National Youth Program for persons aged 12 to 18 years, was established to train young men for duties during World War II but now focuses on citizenship, leadership, physical fitness, general aviation, and stimulating an interest in the activities of the Canadian Forces in both young men and young women; and</p>
 <p>Whereas there are 456 squadrons located across the country, with an approximate enrolment of 23,000 Air Cadets; and</p>
 <p>Whereas 595 Phoenix Squadron of the Royal Canadian Air Cadets held their 15<sup>th</sup> Annual Ceremonial Review in Tatamagouche, Colchester North;</p>
@@ -161,7 +162,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="1682">RESOLUTION NO. 1682</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
+        <speech by="#christopher.a.dentremont"><num title="1682">RESOLUTION NO. 1682</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>M. le Pr&#xE9;sident, &#xE0; une date ult&#xE9;rieure, je demanderai l'adoption de la r&#xE9;solution suivante:</p>
 <p>Attendu que le sixi&#xE8;me tournoi annuel de lob-ball des familles acadiennes de Wedgepost a eu lieu du 2 au 5 ao&#xFB;t &#xE0; l'&#xC9;cole Wedgeport; et</p>
 <p>Attendu que six des huit &#xE9;quipes &#xE9;taient compos&#xE9;es des plus grandes familles acadiennes de Wedgeport, soit Doucet(te), Boudreau, Jacquard, Pothier, LeBlanc, et Cottreau et que les deux autres &#xE9;quipes &#xE9;taient compos&#xE9;es de petites familles comme Atkinson, Corporon, Muise, Surette pour en nommer quelques-unes; et</p>
 <p>Attendu que le troph&#xE9;e Coupe Maringouin, qui est parrain&#xE9; par Del Agency et Assomption Vie, a &#xE9;t&#xE9; remport&#xE9; par la famille Pothier pour la deuxi&#xE8;me ann&#xE9;e cons&#xE9;cutive et qui a nomm&#xE9; Debbie Pothier et Jordan Atkins comme les joueurs pr&#xE9;cieux du tournoi;</p>
@@ -180,7 +181,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="1683">RESOLUTION NO. 1683</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="1683">RESOLUTION NO. 1683</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Stanford Patrick Rosenbaum has been described as one of the most distinguished scholars of the 20<sup>th</sup> Century and was a graduate of the University of Colorado, Rutgers University, and Cornell University, as well as a Fullbright Scholar at Pembroke College, Oxford; and</p>
 <p>Whereas Dr. Rosenbaum was particularly known for his research into the Bloomsbury Group, during the course of which he discovered and edited the original manuscript of Virginia Woolf's seminal feminist text, <i>A Room of One's Own</i>, and taught at Indiana University, Brown University, and the University of Toronto, all while publishing many scholarly articles; and</p>
 <p>Whereas Dr. Rosenbaum was a Carnegie Foundation Interdisciplinary Fellow and was also awarded a Guggenheim Fellowship, a Connaught Senior Fellowship, and a Killam Research Fellowship, and was elected a Fellow of the Royal Society of Canada in 1991, eventually taking early retirement so he and his wife could move here to Nova Scotia to be near their grandchildren;</p>
@@ -192,7 +193,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="1684">RESOLUTION NO. 1684</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="1684">RESOLUTION NO. 1684</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the 5<sup>th</sup> Annual Cheticamp Cape Breton Cancer Patient Fund Walk took place in July in Cheticamp; and</p>
 <p>Whereas event organizers Lyne Larade and Darlene Boudreau were very pleased with the phenomenal turnout, with over 30 cancer survivors coming out to lend their support; and</p>
 <p>Whereas the over $20,000 raised at the walk was to help cancer patients with prescriptions, gas, lodging, and wigs;</p>
@@ -204,7 +205,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="1685">RESOLUTION NO. 1685</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="1685">RESOLUTION NO. 1685</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 20, 2012, councillors in the Municipality of the District of Yarmouth were elected or acclaimed to their seats; and</p>
 <p>Whereas new councillors Steve Paquette and Gerard LeBlanc will be welcomed by incumbents and acclaimed councillors Leland Anthony, Rick Churchill, Trevor Cunningham, John Cunningham and Murray Goodwin; and</p>
 <p>Whereas the Yarmouth municipal council was sworn in during a ceremony on Thursday, November 1<sup>st</sup> with Murray Goodwin elected warden and Steve Paquette acclaimed deputy warden;</p>
@@ -216,7 +217,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="1686">RESOLUTION NO. 1686</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="1686">RESOLUTION NO. 1686</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas after Dave and Donna McKeough were killed in a car accident in June near Millville, an all-star lineup of Cape Breton musicians, singers and bands held a benefit in honour of the memory of the McKeoughs and to raise money for their three children; and</p>
 <p>Whereas the sold out event took place at the Membertou Trade and Convention Centre where staff donated the facility and their services to the cause and musicians and industry representatives from across the province donated an array of items for a silent auction; and</p>
 <p>Whereas the event was a testament to Dave's influence and popularity in the music community as a music teacher and a guitar player that so many of the area's most talented performers came out to honour him;</p>
@@ -228,7 +229,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="1687">RESOLUTION NO. 1687</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="1687">RESOLUTION NO. 1687</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Barry Corbin has coached, mentored and nurtured young athletes for more than 40 years in the Berwick area; and</p>
 <p>Whereas Barry began his coaching career in 1972 by coaching softball teams and went on to soccer and basketball; and</p>
 <p>Whereas Barry served as the Nova Scotia School Athletic Federation coordinator for more than 10 years and was inducted into Berwick's Sports Hall of Fame in June 2012;</p>
@@ -240,7 +241,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        <speech by="#ee8a60d0-642f-4447-a3d1-573947cdc8b0"><num title="1688">RESOLUTION NO. 1688</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.bain"><num title="1688">RESOLUTION NO. 1688</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Village of Baddeck has been recognized as one of the top 100 investment neighbourhoods across the country by Canadian Real Estate Wealth magazine; and</p>
 <p>Whereas over the duration of the research project, an editorial team used a host of statistics and industry analysis to form the 100 neighbourhoods including data on population, median price, capital growth, vacancy rate, crime severity index, infrastructure and proximity to employment centres; and</p>
 <p>Whereas in the magazine's top 100 report, it listed Cape Breton as a popular tourist destination that attracts hundreds of thousands of holiday makers every year and said Baddeck was strategically placed to take advantage of the tourism influx;</p>
@@ -252,7 +253,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        <speech by="#cfb3bc32-2d05-41ad-a115-6bddf2118033"><num title="1689">RESOLUTION NO. 1689</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#keith.colwell"><num title="1689">RESOLUTION NO. 1689</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Margaret Diggs has lived all her life in East Preston and it was there she met and married her husband Robert, and where they raised six daughters and three sons; and</p>
 <p>Whereas she was very active in helping to earn a living for her family, worked at various institutions until taking a cooking course and becoming a cook at the East Preston Daycare Centre, and finished her career as a homecare worker; and</p>
 <p>Whereas she was also involved in voluntary work throughout her community and devoted much of her time and energy in the Prison Ministry, the Lake Echo Food Bank, East Preston Seniors Club, the Christian Woman's Group, as well as much involvement in her church;</p>
@@ -264,7 +265,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Argyle.</p></speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="1690">RESOLUTION NO. 1690</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="1690">RESOLUTION NO. 1690</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas November is Pancreatic Awareness Month; and</p>
 <p>Whereas despite being the deadliest form of cancer, the Pancreatic Cancer Association of Canada concludes that Canadians' awareness of this disease is alarmingly low; and</p>
 <p>Whereas in November, people raise awareness by hanging purple lights in their yards or businesses;</p>
@@ -276,7 +277,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="1691">RESOLUTION NO. 1691</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="1691">RESOLUTION NO. 1691</num><from>HON. KAREN CASEY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Royal Canadian Legion provides bursaries at both the branch level and the provincial level to assist students entering or continuing their post-secondary education leading to a recognized degree, diploma, or certificate; and</p>
 <p>Whereas need, community involvement, and connection of parent, grandparent, or other family member to the Legion are some of the criteria considered by the bursary committee; and</p>
 <p>Whereas Danielle McCully of Great Village, Colchester North, will be attending St. Francis Xavier University currently 2012-13;</p>
@@ -288,7 +289,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><num title="1692">RESOLUTION NO. 1692</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#alfie.macleod"><num title="1692">RESOLUTION NO. 1692</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Rebecca MacKeigan and her two horses, Comets Enchantment and Robby Bel Justa Dandy, recently competed in the New Brunswick Morgan and Arabian Show; and</p>
 <p>Whereas Rebecca MacKeigan is from Albert Bridge, Cape Breton; and</p>
 <p>Whereas for a third year in a row, Rebecca has been crowned Champion Junior Exhibitor and Canadian Morgan Horse Youth Challenger winner;</p>
@@ -300,7 +301,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><num title="1693">RESOLUTION NO. 1693</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#kelly.regan"><num title="1693">RESOLUTION NO. 1693</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Bedford resident Adam Steeves was with his family near the south side of Point Pleasant Park on September 24, 2012, when he noticed someone almost submerged and not moving in the icy water; and</p>
 <p>Whereas Adam Steeves did not hesitate, but waded into the frigid water to secure the fully clothed man who was exhausted, cold and shaking, and pulled him to the rocky shore where he and another rescuer covered him to try to keep him warm; and</p>
 <p>Whereas Adam Steeves stayed with the man, attending to him for several minutes until police and an ambulance arrived;</p>
@@ -312,7 +313,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="1694">RESOLUTION NO. 1694</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="1694">RESOLUTION NO. 1694</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Angus Campbell of Glenora Falls was recently awarded the Arthur Award for small but important acts of kindness by Stewart MacLean of CBC Radio's The Vinyl Cafe; and</p>
 <p>Whereas this award recognized the kindness Angus showed 18 years ago when he bought 12-year-old Ambrah MacNeil a complete set of equipment so she could start playing hockey; and</p>
 <p>Whereas Ambrah went on to win three provincial championships, played varsity hockey at Dalhousie University, and never forgot the generosity of Mr. Campbell;</p>
@@ -324,7 +325,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="1695">RESOLUTION NO. 1695</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="1695">RESOLUTION NO. 1695</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on October 20, 2012, elections were held for mayor and councillors in the Town of Yarmouth; and</p>
 <p>Whereas Pam Mood was elected as the new mayor for the town; and</p>
 <p>Whereas newly elected councillors Jim MacLeod, Sandy Dennis, Phil Mooney and Madeleine Daues will join incumbents Ken Langille and Daniel MacIsaac on town council;</p>
@@ -336,7 +337,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="1696">RESOLUTION NO. 1696</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="1696">RESOLUTION NO. 1696</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas a healthy lifestyle was the key message promoted by the Canadian Diabetes Association during its 9<sup>th</sup> annual Going the Distance for Diabetes fundraiser held in North Sydney this summer; and</p>
 <p>Whereas 100 people registered, pledged money, and took part in a variety of activities, including cycling, running, jogging, and walking one of the number of distances mapped out by the organizers; and</p>
 <p>Whereas Arlene Parsons, coordinator of the Cape Breton branch of the Canadian Diabetes Association, said an active lifestyle can dramatically reduce the chances of onset of type 2 diabetes;</p>
@@ -348,7 +349,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Kings West.</p></speech>
-        <speech by="#ea522cb5-76c2-4f6d-920c-5b1835704b1a"><num title="1697">RESOLUTION NO. 1697</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#leo.glavine"><num title="1697">RESOLUTION NO. 1697</num><from>MR. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Al Hale of Berwick started playing sports locally when just a young boy and became a well-known fastball player in the Valley area; and</p>
 <p>Whereas Al Hale remained a formidable force in the field well into his middle age and recorded a grand slam homer to help his team win a victory in the Nova Scotia championships in the 1960s; and</p>
 <p>Whereas Al Hale also was an excellent hockey player and was always helping fellow teammates whenever he got the chance and remained a quiet leader for many years in the Valley hockey arenas;</p>
@@ -360,7 +361,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Halifax Clayton Park.</p></speech>
-        <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><num title="1698">RESOLUTION NO. 1698</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#diana.whalen"><num title="1698">RESOLUTION NO. 1698</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotians are struggling under the NDP Government and are facing layoffs and job insecurity due to the mismanagement of the economy; and</p>
 <p>Whereas the NDP Government seems to be only able to write big cheques to big companies, with $590 million handed out to six companies alone; and</p>
 <p>Whereas in total, these companies laid off over 1,300 Nova Scotians after cashing the cheques handed to them by the Premier;</p>
@@ -377,7 +378,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
         </speech>
@@ -388,7 +389,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#8d3f2e85-b724-4554-980d-02c64fb4603a">
+        <speech by="#clarrie.mackinnon">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call Bill No. 97.</p>
         </speech>
@@ -398,7 +399,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Minister of Energy.</p>
           </speech>
-          <speech by="#bf736a4f-4e18-431a-acf2-10100b3a941a"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, I'm pleased to rise here this morning to move Bill No. 97, an Act to Amend Chapter 380 of the Revised Statutes, 1989, the Public Utilities Act, to Ensure Fairer Power Rates. I move that the bill now be read for a second time.</p>
+          <speech by="#charlie.parker"><from>HON. CHARLIE PARKER</from><p>Mr. Speaker, I'm pleased to rise here this morning to move Bill No. 97, an Act to Amend Chapter 380 of the Revised Statutes, 1989, the Public Utilities Act, to Ensure Fairer Power Rates. I move that the bill now be read for a second time.</p>
 <p>Mr. Speaker, I first announced the intent to make these changes on September 18<sup>th</sup> when I appeared before the Utility and Review Board on the general rate application hearing and introduced the amendment to the bill in this Legislature last week. These changes will bring greater fairness, predictability and certainty to electricity rates as we continue to move forward with our longer term plan to get us off of expensive, dirty coal and onto more renewable sources of energy.</p>
 <p>The changes to the Public Utilities Act will restrict the costs that Nova Scotia Power can recover from ratepayers in a number of areas that are important to Nova Scotians. Mr. Speaker, these are the things that people are telling me that are important to them. They tell me that it's not fair that executives at Nova Scotia Power have had their bonuses and their salaries paid for by ratepayers, for years and years, when their customers are struggling to make ends meet and I agree; it's not appropriate.</p>
 <p>Mr. Speaker, it's a matter of fairness, it's a matter of principle. I know I've been on the doorsteps in my riding in Pictou West over the last number of months and I've heard over and over from consumers of power that it's a struggle; it's hard for them to make ends meet and they just don't think it's fair that they also have to pay the executive salaries or executive bonuses. That's why I brought forward changes to cap the ratepayer-funded portion of executive salaries and not allow bonuses and incentives to be recovered from ratepayers. We think that is fair.</p>
@@ -418,13 +419,13 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Queens on an introduction.</p>
           </speech>
-          <speech by="#f0478385-8c12-4b20-a8f8-9d794aabc4c2">
+          <speech by="#vicki.conrad">
             <from>MS. VICKI CONRAD</from>
             <p>Mr. Speaker, I'm pleased to make an introduction this morning. If all members could cast their eyes to the east gallery, joining us today is Cameron Strong, a teacher at North Queens Rural High School. With him are five of his students with the Grade 12 law class, and I'm very pleased they have come all the way from North Queens to visit with us here today. I'll introduce the students that are with Cameron: Shelby Freeman, if you'd like to stand up; Erin MacArthy; Dominique Mailman; Cody Crouse; and Damon Wamboldt. Thank you so much for joining us and if all members could give the Grade 12 law class a warm welcome. (Applause)</p>
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this morning's proceedings.</p>
 <p>The honourable Leader of the Official Opposition.</p></speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>HON. STEPHEN MCNEIL</from><p>I'm pleased to rise to say a few words on Bill No. 97, the Fairer Power Rates Act that was presented by this government. Mr. Speaker, while there are some aspects of this bill that we agree with, it is a far cry from what is needed to rein in Nova Scotia Power. What is disappointing about this piece of legislation is the fact that it was not introduced three years ago, the fact that we have not reined in Nova Scotia Power's thirst for profit, that we have not reined in their ability to hand over hundreds of thousands of dollars to corporate supports, to their executives, and to allow that to continue to happen year after year.</p>
+          <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>I'm pleased to rise to say a few words on Bill No. 97, the Fairer Power Rates Act that was presented by this government. Mr. Speaker, while there are some aspects of this bill that we agree with, it is a far cry from what is needed to rein in Nova Scotia Power. What is disappointing about this piece of legislation is the fact that it was not introduced three years ago, the fact that we have not reined in Nova Scotia Power's thirst for profit, that we have not reined in their ability to hand over hundreds of thousands of dollars to corporate supports, to their executives, and to allow that to continue to happen year after year.</p>
 <p>It has been many times that the member for Dartmouth East has raised this issue in this House, talking about not only ensuring that compensation that is made to the executives of Nova Scotia Power is reasonable and fair, not just to the executive but more importantly fair to ratepayers. The member for Dartmouth East has raised the issue of making sure that when this company comes before the public that we have an open and transparent process, that performance value audits should have been done in this company for quite some time.</p>
 <p>What I find interesting is now that this government has seen fit to enshrine in legislation what they said for the last three years the Utility and Review Board had the power to do clearly indicates, Mr. Speaker, that they didn't know, clearly indicates they've been asleep while Nova Scotia Power has been running roughshod over ratepayers, having their way. The only reason this bill is before the House today is to quiet down the furor of ratepayers that was taking place in a rate hearing in September. At the last minute the Minister of Energy shows up, he doesn't become an intervener, he shows up at a public hearing, taking time away from ordinary Nova Scotians who get an opportunity to show up and do a public presentation, and he lays out as if he's doing something to protect them.</p>
 <p>I want to clarify something that was mentioned in the minister's remarks where he said it was the Utility and Review Board that said that Emera had to pay the compensation of executives. Leading into the last rate hearing, and actually I believe if he goes back and looks at it, because of the outcry by the public it wasn't made part of that by the company itself because they knew that the public had had enough of them paying an exorbitant amount in executive compensation and bonuses.</p>
@@ -446,7 +447,7 @@
             <from>MR. SPEAKER</from>
             <p>Order, please. I'm having a hard time hearing the member this morning. There's a lot of chatter in the Chamber, and I'd ask the honourable members who want to have that conversation, please take it outside the Chamber.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Thank you, Mr. Speaker. The efficiency tax that this government has imposed on every Nova Scotian is just simply taking the money out of low-income, hard-working Nova Scotians and putting it into the pockets of well-off Nova Scotians, many of whom could afford to do the home renovations that we're subsidizing on their own. And yet the very people who need that support the most are not getting it, are not being supported in the sense of home renovations, not being supported in the upgrades that are required to reduce their energy consumption - all they are doing is scrambling to find a way to meet the basic daily needs of their family.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Thank you, Mr. Speaker. The efficiency tax that this government has imposed on every Nova Scotian is just simply taking the money out of low-income, hard-working Nova Scotians and putting it into the pockets of well-off Nova Scotians, many of whom could afford to do the home renovations that we're subsidizing on their own. And yet the very people who need that support the most are not getting it, are not being supported in the sense of home renovations, not being supported in the upgrades that are required to reduce their energy consumption - all they are doing is scrambling to find a way to meet the basic daily needs of their family.</p>
 <p>What do we do? What does the NDP Government do? In June 2009, prior to the election, they write a letter to the Utility and Review Board saying that the efficiency tax being proposed by the previous Progressive Conservative Government should be paid for by Nova Scotia Power. Remember that being waved around during the election campaign? And then Nova Scotians responded and gave them a mandate, and shortly after that mandate, Mr. Speaker, they changed their mind and they took the efficiency tax that was proposed by the previous Progressive Conservative Government and fell in love with it and put it on every power bill in the Province of Nova Scotia, regardless of the income of that ratepayer, regardless of their ability to pay. Nothing mattered. They were just going to capture that efficiency tax, taking it out of the pockets of low income Nova Scotians and setting it aside so that the wealthiest of us could use it.</p>
 <p>Mr. Speaker, I've been criticized by the NDP Government for having this debate about the efficiency tax - some members of the NDP Government, let's be fair - suggesting that we're opposed to efficiency programs. That's wrong. We believe Nova Scotia Power should be paying for those programs but what I find really interesting is the Premier has been criticizing our position about wanting to take the efficiency tax off of low-income, hardworking Nova Scotians who are having trouble meeting their daily needs. He has been critical of us for suggesting that. He has been twisting it around and finding all kinds of ways to manipulate it, but do you know what they did? When the Stern Group just signed a deal that Nova Scotia taxpayers gave them $155 million, one of the things they did was them exempted them from paying the efficiency tax.</p>
 <p>So I want you to think about this, Mr. Speaker. We as the taxpayers of Nova Scotia, by this government, sent $155 million to the Stern Group/Port Hawkesbury paper mill. We're actively involved with the money of Nova Scotian taxpayers, and we turn around and we exempt them from the NDP efficiency tax. At the same time, we are out there making sure that low-income - the working poor, the people who are relying on the food bank at an alarming rate in this province, are paying it. Now, does that make sense? No matter how you look at it, no matter how you justify it, it doesn't. If they believe that the working poor should pay this tax, why don't they believe that the Stern Group should pay this tax? Why is it that there is special treatment for some and not others? Here we go again picking winners and losers.</p>
@@ -498,18 +499,18 @@
 <p>We've laid out a plan, one that has been misrepresented on a number of occasions. The good news is Nova Scotians understand it. We're looking forward to this continuing down and hoping, just hoping, that as this bill moves through the process that the government will make some changes that will improve the lives of Nova Scotians today. When you think about this - the fact that the working poor in this province are relying on food banks, and one of the things that they use and one of the things they talk about is taking away from their disposable income is power bills, and the only thing this government has done is allow them to increase under their watch.</p>
 <p>Those statistics are screaming out for government to respond, and they need to respond in a more positive way and an immediate way that will have an impact on those ratepayers and on those Nova Scotia families who are looking for help. It's not too late - the next rate increase won't happen until January 1<sup>st</sup> - it's not too late to put in this bill that increase won't happen. They can freeze that rate increase right now; they can force the utility to do a performance value audit now, not put some vaguely worded phrase in their bill. Do something that has teeth in it and means something to people. (Applause)</p>
 <p>At so many turns, Mr. Speaker, this government has been promoting slogans instead of change. They've been promoting slogans that are important to them, not so much to Nova Scotians. From Better Care Sooner, as emergency rooms are closing &#x2026;</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Back to Balance.</p>
           </speech>
-          <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><from>MR. MCNEIL</from><p>Back to Balance, the list goes on. Do something for ratepayers - take this bill, go back to the drawing board and put in place some positive things that will have an immediate impact today, not two years from now. Do something that will mean something to Nova Scotians today and not two years from now. The reality for Nova Scotians is they can't pay their power bill today; they're going to food banks today.</p>
+          <speech by="#stephen.mcneil"><from>MR. MCNEIL</from><p>Back to Balance, the list goes on. Do something for ratepayers - take this bill, go back to the drawing board and put in place some positive things that will have an immediate impact today, not two years from now. Do something that will mean something to Nova Scotians today and not two years from now. The reality for Nova Scotians is they can't pay their power bill today; they're going to food banks today.</p>
 <p>One of the reasons they're looking at this, not to mention the 25 per cent increase on the provincial portion of the HST that came in under this government on every other aspect of their lives from gasoline to every other consumable, but this bill is dealing with power. So let's do something for them on power. Let's allow renewable to retail; let's remove the efficiency taxes and send the bill down to Nova Scotia Power in their beautiful building down the street, that glass ivory tower, let's send that bill down to them and ask them to pay it, not ask the working poor and low-income Nova Scotians to subsidize a program that the rest of us can use. Let's do something positive for the ratepayers and not as this government has been doing - doing something positive for shareholders.</p>
 <p>Mr. Speaker, I appreciate the opportunity to speak on this bill and I look forward as the debate continues. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Progressive Conservative Party.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I am pleased to rise to speak on this bill at this time. The bill is very important - this debate is very important I should say for a number of reasons. We had a very urgent and recent reminder yesterday when Minas Basin Pulp and Power announced they were closing their operations, throwing 140 people out of work - 135 people to be exact. Hopefully, some of them will be able to work at the sister company, but 135 jobs lost. One of the main reasons that Minas Basin Pulp and Power gave for closing that mill is higher operating costs here in the Province of Nova Scotia. Those operating costs include taxes, they include the highest inflation for their other business inputs, and they certainly include the skyrocketing price of power. Minas Basin Pulp and Power and those 135 jobs are one of the reasons that it is important that we get a handle on the high cost of living and working in Nova Scotia, including skyrocketing power rates.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I am pleased to rise to speak on this bill at this time. The bill is very important - this debate is very important I should say for a number of reasons. We had a very urgent and recent reminder yesterday when Minas Basin Pulp and Power announced they were closing their operations, throwing 140 people out of work - 135 people to be exact. Hopefully, some of them will be able to work at the sister company, but 135 jobs lost. One of the main reasons that Minas Basin Pulp and Power gave for closing that mill is higher operating costs here in the Province of Nova Scotia. Those operating costs include taxes, they include the highest inflation for their other business inputs, and they certainly include the skyrocketing price of power. Minas Basin Pulp and Power and those 135 jobs are one of the reasons that it is important that we get a handle on the high cost of living and working in Nova Scotia, including skyrocketing power rates.</p>
 <p>Mr. Speaker, in the County of Cumberland there is Canadian Salt Company facing the loss of 35 jobs from their manufacturing operation, not the mine but the manufacturing operation, citing specifically higher operating costs and, more specifically, pointing to the rising cost of power as a reason why 35 good full-time jobs are going to disappear in Pugwash, Cumberland County.</p>
 <p>Mr. Speaker, just this morning the Statistics Canada jobs report is out. Yet again Nova Scotia is down. From October 2009 to October 2012, 7,400 full-time jobs were lost across all of Nova Scotia. These are not coincidences. This is happening because in the last three years Nova Scotia has become an expensive place to live, an expensive place to work, an expensive place to create a job or hold on to a job, and 7,400 Nova Scotia families have paid the price by having their full-time jobs disappear in those three years.</p>
 <p>Mr. Speaker, it's not only a story of jobs. Even for those Nova Scotians who are working, many of them at minimum wage, many of them not getting enough hours in a week to get by, the working poor who we should all dedicate ourselves to, they are now going to food banks and telling people at those food banks that they're there because they can't pay their bills, starting with their power bill, and no wonder, when the average wage in Nova Scotia has not gone up an iota in the last three years but the costs of living have gone up among the highest in the country in the last three years and that starts with power rates and it starts with gas prices, and it starts with everyday items like groceries.</p>
@@ -580,11 +581,11 @@
             <from>MADAM SPEAKER</from>
             <p>The honourable member for Cape Breton West on an introduction.</p>
           </speech>
-          <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I'd like to draw your attention and the attention of all members of the House to the gallery opposite. We have two visitors today from the community of Donkin, Hugh Kennedy and his wife Bernice. They are both very active in their community.</p>
+          <speech by="#alfie.macleod"><from>MR. ALFIE MACLEOD</from><p>Madam Speaker, I'd like to draw your attention and the attention of all members of the House to the gallery opposite. We have two visitors today from the community of Donkin, Hugh Kennedy and his wife Bernice. They are both very active in their community.</p>
 <p>I'd ask the House to give them a warm welcome. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>We welcome all of our guests to our gallery today and hope they enjoy today's proceedings.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. KELLY REGAN</from><p>I'm pleased to rise in my place today to speak to Bill No. 97, the Fairer Power Rates Act. I note here that it's called the Fairer Power Rates Act but, really, it doesn't go far enough to produce those fair power rates. But you know, like the federal Conservatives, this government has become very good at coming up with slogans. We have the jobsHere program which apparently means part-time jobs here; we have Kids and Learning First which turns out to be kids and learning last; and Better Care Sooner which, in fact, really means record emergency room closures.</p>
+          <speech by="#kelly.regan"><from>MS. KELLY REGAN</from><p>I'm pleased to rise in my place today to speak to Bill No. 97, the Fairer Power Rates Act. I note here that it's called the Fairer Power Rates Act but, really, it doesn't go far enough to produce those fair power rates. But you know, like the federal Conservatives, this government has become very good at coming up with slogans. We have the jobsHere program which apparently means part-time jobs here; we have Kids and Learning First which turns out to be kids and learning last; and Better Care Sooner which, in fact, really means record emergency room closures.</p>
 <p>This bill was first discussed on September 19<sup>th</sup> during the public portion of the General Rate Application hearing. The Minister of Energy, who has refused to be an official intervener at any rate hearings, appeared as the member for Pictou West at a public portion to reveal that the NDP Government would be introducing legislation in the Fall.</p>
 <p>The proposed amendments to the Public Utilities Act are from government's commitment last month to limit factors that affect efficiency rates, and they include a variety of different things including not allowing executive bonuses to be paid even in part by ratepayers; shareholders must fully pay any bonuses; capping executive salaries at a level similar to a deputy minister in the provincial public sector, and that shareholders must pay any salary above that rate; requiring NSPI to file multi-year rate applications to cut hearing costs which can reach $2 million per hearing; strengthening the URB's authority to order an independent review to look for savings in years without a rate hearing; and ensuring no additional rate increases until at least 2015.</p>
 <p>The bill, in many respects, adopts Liberal policies. I can tell you, I introduced a bill last Fall and again this past Spring that dealt with debt collection. I was quite pleased to see the other day that the Minister of Service Nova Scotia and Municipal Relations introduced a bill that adopted much of what we had put forward in that bill. Since imitation is the sincerest form of flattery, we do appreciate that the government has seen the light on a number of these issues and is, in fact, adopting Liberal policies.</p>
@@ -597,13 +598,13 @@
             <from>MADAM SPEAKER</from>
             <p>Order. The honourable member for Bedford-Birch Cove has the floor.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>As I said, the NDP has never once intervened formally. Instead, they've become the chief apologist for Nova Scotia Power. I'll tell you, when I talked to people in my riding - I mentioned in the House the other day that I've been going door to door. I started that last winter, sort of more in earnest than I had previously. I would go door to door and ask people, what are your top three issues? What are the things that are really bothering you? Sometimes they were federal issues, sometimes they were municipal issues, but at pretty much every door what I heard was "power rates." I remember one street I was on - it was a family that had moved here from Ontario, and they said that what stunned them, what left them absolutely gobsmacked, was what they were paying for power here. They couldn't believe what we pay for power here. They said that, quite frankly, it hampers what we're allowed to do here in the province with our family, because we're having so much money go out the door.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>As I said, the NDP has never once intervened formally. Instead, they've become the chief apologist for Nova Scotia Power. I'll tell you, when I talked to people in my riding - I mentioned in the House the other day that I've been going door to door. I started that last winter, sort of more in earnest than I had previously. I would go door to door and ask people, what are your top three issues? What are the things that are really bothering you? Sometimes they were federal issues, sometimes they were municipal issues, but at pretty much every door what I heard was "power rates." I remember one street I was on - it was a family that had moved here from Ontario, and they said that what stunned them, what left them absolutely gobsmacked, was what they were paying for power here. They couldn't believe what we pay for power here. They said that, quite frankly, it hampers what we're allowed to do here in the province with our family, because we're having so much money go out the door.</p>
 <p>Now the NDP says that we want to deregulate the energy market, which is false. Unfortunately, they don't understand what deregulation means. (Interruptions) I thought the honourable member was growing a Movember mustache, but maybe I should watch for nose growing there, too. The NDP say we want to remove &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>Order, please. I'd ask the member to retract the comment on "nose growing," as it implies dishonesty. It's unparliamentary. I would ask you to retract it, please.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. REGAN</from>
             <p>By all means, Madam Speaker. Perhaps I should have said there is a Pinocchio aspect to his appearance.</p>
           </speech>
@@ -611,7 +612,7 @@
             <from>MADAM SPEAKER</from>
             <p>And again, it is implying lying, so I would ask you to retract the remark.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa">
+          <speech by="#kelly.regan">
             <from>MS. REGAN</from>
             <p>Absolutely, Madam Speaker. I will retract that statement.</p>
           </speech>
@@ -619,13 +620,13 @@
             <from>MADAM SPEAKER</from>
             <p>Thank you.</p>
           </speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>The NDP says we want to remove Efficiency Nova Scotia altogether, which is, of course, another falsehood. Am I allowed to say that - that it's a falsehood? (Interruptions) Well, it's simply not true, and I will use that phrase, because that is what the Premier is always saying. So they claim that the Liberals want to remove Efficiency Nova Scotia. That is simply not true. It's the NDP who placed this efficiency tax on every single Nova Scotian in the province - $46 million.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>The NDP says we want to remove Efficiency Nova Scotia altogether, which is, of course, another falsehood. Am I allowed to say that - that it's a falsehood? (Interruptions) Well, it's simply not true, and I will use that phrase, because that is what the Premier is always saying. So they claim that the Liberals want to remove Efficiency Nova Scotia. That is simply not true. It's the NDP who placed this efficiency tax on every single Nova Scotian in the province - $46 million.</p>
 <p>Now, the Leader of the Third Party will tell you that that cost was already in there and it was hidden. The fact of the matter is you can legislate that. You can decide where that money comes from. If you reduce the amount of return that Nova Scotia Power gets for its shareholders, you can make sure that that doesn't happen.</p>
 <p>In the meantime, this NDP Government let an industrial conglomerate come into Port Hawkesbury and exempted them from paying the efficiency tax. Now, you have to ask, how is that fair? A great big company that gets millions and millions of dollars from Nova Scotia taxpayers, they don't have to pay the efficiency tax, but the single moms in your ridings and the single moms in my riding have to pay for it? The folks who are struggling to make ends meet on a series of part-time jobs because the full-time jobs are disappearing, they have to pay the efficiency tax, but this company does not? Is that fair? I don't think so.</p>
 <p>Honestly, Madam Speaker, it's nothing short of shameful. This NDP Government has done nothing to help Nova Scotians with their power bills. They cut the Heating Assistance Rebate Program - HARP - by more than 50 per cent. How does that help low-income Nova Scotians? They tout the provincial portion of the HST cut as the saviour of all Nova Scotians, but in fact what they did (Interruptions)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>They tout their provincial portion of the HST cut as the saviour of all Nova Scotians when, in fact, their efficiency tax negates that tax cut. Nova Scotians are paying more in the efficiency tax than that HST cut on their power bills ever saved them. It's a meagre tax cut that did nothing to help low- and middle-income Nova Scotians.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>They tout their provincial portion of the HST cut as the saviour of all Nova Scotians when, in fact, their efficiency tax negates that tax cut. Nova Scotians are paying more in the efficiency tax than that HST cut on their power bills ever saved them. It's a meagre tax cut that did nothing to help low- and middle-income Nova Scotians.</p>
 <p>I was out in my riding a couple of weeks ago talking to a businessman, and he said to me, this is the worst business climate I've experienced in 20 years. He's in the service industry, and he said, I thought at first it was just my industry and what I work in, or maybe it was my shop. He said, I don't know. So he actually had an assistant go to a program, a social media program, and in talking to other people who do the same kind of work, they said they were experiencing the exact same thing. People were not spending the kind of money that they have in the past, and the reason they're not spending it is because they do not have it.</p>
 <p>That got me thinking. So I made a point of calling up some business owners, or stopping in to see business owners in a variety of different businesses, to see, what's your experience like, is business good? I went into a store that was shutting down, and I said, why are you going? There were a variety of factors, but the big factor was that people simply weren't spending money anymore. The discretionary income isn't there because all of their money is going to necessities.</p>
 <p>People are making choices now, and the choice for far too many families in Nova Scotia is heat or eat. We've heard that this week with the HungerCount, where we have seen a huge increase - just below 40 per cent in the number of families accessing food banks here in this province. As I go around the province as Community Services Critic, I often stop in at food banks to talk to folks. What we hear is that the need is growing. We knew that even before the HungerCount came out.</p>
@@ -638,7 +639,7 @@
 <p>Guys, sorry. I know you don't like it but the fact of the matter is that's what you're doing and, in fact, when I just (Interruptions) In fact, I just said that earlier and there was no noise from over there, so you agreed with it then and you don't agree with it now.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. I would remind the member to reflect the remarks through the Speaker and not across the floor to the others. Thank you.</p>
 <p>The honourable member for Bedford-Birch Cove has the floor.</p></speech>
-          <speech by="#dfa6c79b-dda1-4b1a-9850-3edfb6f1b3aa"><from>MS. REGAN</from><p>The Premier and the NDP are now adopting Liberal policies and trying to represent them as their own, it's clear that the Premier does, in legislation tabled in the House. For example, the Liberal Ratepayer Protection Act reads that, "Beginning in fiscal year 2013-14 and continuing on a biannual basis thereafter, the Minister shall direct the Board of Directors of the Corporation to complete and make public a performance and value-for-money audit of the Corporation." The Fairer Power Rates Act brought forward by the NDP says, "a value-for-money assessment examining the economy, efficiency and effectiveness of the operations and management of Nova Scotia Power Incorporated;" can be performed at the Utility and Review Board's discretion. Our bill goes further than this government's bill. If the NDP really wanted to place tougher regulations on NSP they would simply adopt a ratepayer protection Act because ours is mandated, theirs is optional.</p>
+          <speech by="#kelly.regan"><from>MS. REGAN</from><p>The Premier and the NDP are now adopting Liberal policies and trying to represent them as their own, it's clear that the Premier does, in legislation tabled in the House. For example, the Liberal Ratepayer Protection Act reads that, "Beginning in fiscal year 2013-14 and continuing on a biannual basis thereafter, the Minister shall direct the Board of Directors of the Corporation to complete and make public a performance and value-for-money audit of the Corporation." The Fairer Power Rates Act brought forward by the NDP says, "a value-for-money assessment examining the economy, efficiency and effectiveness of the operations and management of Nova Scotia Power Incorporated;" can be performed at the Utility and Review Board's discretion. Our bill goes further than this government's bill. If the NDP really wanted to place tougher regulations on NSP they would simply adopt a ratepayer protection Act because ours is mandated, theirs is optional.</p>
 <p>The NDP Government chose to tax Nova Scotian residents and businesses, increase the cost of electricity and set up a system where many people are forced to pay a flat tax for programs they can't afford to access. A Liberal Government will strengthen energy efficiency programs, we won't cut them. Efficiency programs will continue to be run independently and we will ensure that Nova Scotia sees real measurable results in reducing energy efficiency. Any claims that we would cut efficiency programs are false; our statements at town hall meetings, in the Legislature and in public over the past two years demonstrate that has never been our position.</p>
 <p>The NDP-imposed efficiency tax, a flat tax on every power bill, is driving up Nova Scotians' cost of electricity and it's also trickling down into the cost of goods and services as businesses pass along this cost. That is what I was talking about earlier when I said that I was out visiting businesses in my riding, this is what we're hearing, and it's funny because I remember when the HST increase was brought in. I remember talking to one of my colleagues who pointed out, he said two years from now is when you're really going to see the effect of this increase, no matter what happens right off the bat, and there will be repercussions, but about two years from now is when you're really going to see it because that is when people will realize they've gone through their savings and they don't know why.</p>
 <p>They won't have the kind of discretionary income that they once had and they won't know why and they'll retrench. If they had any savings they are gone; if they didn't they are in debt, so they are in debt with their credit cards and they can't go out and purchase things on a discretionary basis that they used to. He predicted at the time when the NDP increased the HST, he predicted that we would see two years later big problems economically, and that is what we are seeing. When I drive down the street in my riding and I see stores closed, businesses shutting down, you have to wonder what is going on.</p>
@@ -649,7 +650,7 @@
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that we now adjourn debate on Bill No. 97. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise, to meet from the hour of 7:00 p.m. to 10:00 p.m. on Monday. After the daily routine we'll do Public Bills for Second Reading, Bill Nos. 94, 97, 102, 105, 107, 109, 111, 119, and 114.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise, to meet from the hour of 7:00 p.m. to 10:00 p.m. on Monday. After the daily routine we'll do Public Bills for Second Reading, Bill Nos. 94, 97, 102, 105, 107, 109, 111, 119, and 114.</p>
 <p>With that, I wish you a good weekend, Madam Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise, to meet again Monday, November 5<sup>th</sup>, between the hours of 7:00 p.m. and 10:00 p.m.</p>
 <p>Is it agreed?</p>
@@ -664,72 +665,72 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><num title="1699">RESOLUTION NO. 1699</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#jamie.baillie"><num title="1699">RESOLUTION NO. 1699</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Springhill Lions Club celebrated its 1<sup>st</sup> Anniversary in October 2012; and</p>
 <p>Whereas the club was acknowledged for digging deep to be compassionate in the past year and taking over the Toys For Tots program in partnership with the Salvation Army, participating in the Kidney Drive, Chilli Willi Week, the annual Christmas parade, coordinating an annual Easter Egg Hunt for local youth, making donations to cadets, Springhill Mixed Martial Arts, the Springhill Fire Department, a family who lost their home at Christmas, and much more; and</p>
 <p>Whereas with a successful year behind them, King Lion Cory Galloway expects there will be big things on the horizon for the Springhill club;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate the Springhill Lions Club on its 1<sup>st</sup> Anniversary and wish them many more successful years to come.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1700">RESOLUTION NO. 1700</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1700">RESOLUTION NO. 1700</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Sean Gorman, of Bedford, was awarded a certificate in appreciation for his outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Sean Gorman on receipt of this certificate, and extend our appreciation to him for his significant contributions to both the profession of pharmacy and to his ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1701">RESOLUTION NO. 1701</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1701">RESOLUTION NO. 1701</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Kim Sponagle of Bedford was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Kim Sponagle on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1702">RESOLUTION NO. 1702</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1702">RESOLUTION NO. 1702</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Craig Connolly of Bedford was awarded a certificate in appreciation for his outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Craig Connolly on receipt of this certificate, and extend our appreciation to him for his significant contributions to both the profession of pharmacy and to his ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1703">RESOLUTION NO. 1703</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1703">RESOLUTION NO. 1703</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Alicia Spence of Newport was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Alicia Spence on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1704">RESOLUTION NO. 1704</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1704">RESOLUTION NO. 1704</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Heidi Deal of Halifax was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Heidi Deal on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1705">RESOLUTION NO. 1705</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1705">RESOLUTION NO. 1705</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Brian Jarvis of Halifax was awarded a certificate in appreciation for his outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Brian Jarvis on receipt of this certificate, and extend our appreciation to him for his significant contributions to both the profession of pharmacy and to his ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1706">RESOLUTION NO. 1706</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1706">RESOLUTION NO. 1706</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Jennifer Isenor of Dartmouth was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Jennifer Isenor on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1707">RESOLUTION NO. 1707</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1707">RESOLUTION NO. 1707</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Melissa Smith of Halifax was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Melissa Smith on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1708">RESOLUTION NO. 1708</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1708">RESOLUTION NO. 1708</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas David Gardner of Halifax was awarded a certificate in appreciation for his outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate David Gardner on receipt of this certificate, and extend our appreciation to him for his significant contributions to both the profession of pharmacy and to his ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1709">RESOLUTION NO. 1709</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1709">RESOLUTION NO. 1709</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Kathryn Slayter of Hammonds Plains was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Kathryn Slayter on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1710">RESOLUTION NO. 1710</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1710">RESOLUTION NO. 1710</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Bill Skinner of New Glasgow was awarded a certificate in appreciation for his outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Bill Skinner on receipt of this certificate, and extend our appreciation to him for his significant contributions to both the profession of pharmacy and to his ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1711">RESOLUTION NO. 1711</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1711">RESOLUTION NO. 1711</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Susan Bowles, of Halifax, was awarded a certificate in appreciation for her outstanding service to pharmacy in Nova Scotia;</p>
 <p>Therefore be it resolved that all members of the House of Assembly congratulate Susan Bowles on receipt of this certificate, and extend our appreciation to her for her significant contributions to both the profession of pharmacy and to her ongoing efforts in improving our health care system.</p></speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="1712">RESOLUTION NO. 1712</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="1712">RESOLUTION NO. 1712</num><from>Hon. Stephen McNeil</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas pharmacists across Nova Scotia play an integral role in the delivery of health care; and</p>
 <p>Whereas on October 21, 2012, the Pharmacy Association of Nova Scotia presented Certificates of Appreciation to members at its annual conference; and</p>
 <p>Whereas Glenn Rodrigues, of Dartmouth, was awarded a Certificate of Appreciation for his involvement in the development and facilitation of minor ailments boot camp sessions;</p>

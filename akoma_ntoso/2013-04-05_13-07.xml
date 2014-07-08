@@ -4,32 +4,33 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="5c567fec-a071-45dc-bccd-c81ad2bb492a" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="MR. BAILLIE"/>
-        <TLCPerson id="5805e217-8c80-4957-8066-e992b25f4401" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
-        <TLCPerson id="58b01541-6697-4dbd-830c-6cec0d4c4825" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. WHALEN"/>
-        <TLCPerson id="5db3f08e-219e-4ab3-a082-7bcc7ed081b1" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="fe203a69-7dd0-4237-83ee-6927a726e38e" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
-        <TLCPerson id="5d4cd4b5-5ca2-425c-82a5-49a49892eee6" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
-        <TLCPerson id="e4bb1b3c-5932-453f-a1d7-d5db05f5871e" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="54c01d3a-9d00-4849-8acd-59f8efd8a2f9" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="4d1fe702-74c5-4f85-8807-4d4ee51c02a2" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
-        <TLCPerson id="e4251ba6-058b-4a0c-a594-5aa62b14e7b7" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
-        <TLCPerson id="9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="7b250da9-731e-412b-abf1-4b9b3d94b0fa" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
-        <TLCPerson id="0592f881-721c-495f-a273-d237278fabfc" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="maurice.g.smith" href="/ontology/person/ca-ns.maurice.g.smith" showAs="HON. MAURICE SMITH"/>
+        <TLCPerson id="darrell.dexter" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="MR. ZACH CHURCHILL"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="gary.ramey" href="/ontology/person/ca-ns.gary.ramey" showAs="MR. GARY RAMEY"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="ramona.jennex" href="/ontology/person/ca-ns.ramona.jennex" showAs="HON. RAMONA JENNEX"/>
+        <TLCPerson id="karen.casey" href="/ontology/person/ca-ns.karen.casey" showAs="Hon. Karen Casey"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="#member" href="/ontology/role/nslegislature.ca-ns.#member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
     <preface>
       <docTitle>Debates, 5 April 2013</docTitle>
       <docNumber>13-07</docNumber>
       <docDate date="2013-04-05">Friday, April 5, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="61">61st General Assembly</legislature>
       <session value="5">5th Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C90/house_13apr05/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. Before I start the daily routine, I'm obliged to do another Speaker's Ruling this morning.</p>
@@ -50,7 +51,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Transportation and Infrastructure Renewal.</p>
         </speech>
-        <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e">
+        <speech by="#maurice.g.smith">
           <from>HON. MAURICE SMITH</from>
           <p>Mr. Speaker, before reading my resolution, I'm wondering if I might be permitted to make an introduction.</p>
         </speech>
@@ -58,11 +59,11 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e"><from>MR. SMITH</from><p>Mr. Speaker, today in your gallery, we have with us in the House some very special guests. We have from Scotland, Minister Keith Brown, Transport and Veterans Affairs Minister. With Minister Brown and his delegation we have Martyn McDonald, Private Secretary to the minister; Helen Webster, Second Secretary for Scottish Affairs in Canada; Raymond McGovern, Scottish Development International in Canada; and Colonel Martin Gibson, Chairman of Veterans Scotland.</p>
+        <speech by="#maurice.g.smith"><from>MR. SMITH</from><p>Mr. Speaker, today in your gallery, we have with us in the House some very special guests. We have from Scotland, Minister Keith Brown, Transport and Veterans Affairs Minister. With Minister Brown and his delegation we have Martyn McDonald, Private Secretary to the minister; Helen Webster, Second Secretary for Scottish Affairs in Canada; Raymond McGovern, Scottish Development International in Canada; and Colonel Martin Gibson, Chairman of Veterans Scotland.</p>
 <p>I would ask the members of the House to give our guests a warm welcome. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope that they enjoy this morning's proceedings.</p>
 <p>The honourable Minister of Transportation and Infrastructure Renewal.</p></speech>
-        <speech by="#fe203a69-7dd0-4237-83ee-6927a726e38e"><num title="139">RESOLUTION NO. 139</num><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#maurice.g.smith"><num title="139">RESOLUTION NO. 139</num><from>HON. MAURICE SMITH</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Nova Scotians are proud of their diverse culture and heritage and the contributions made by groups such as Scottish immigrants who have come to our province to build new lives and create a unique way of life that celebrates their language and culture; and</p>
 <p>Whereas Scottish language and culture has shaped our heritage and strengthened the identity of our province over countless generations, and the links between Nova Scotia and Scotland continue to foster friendships and pride, exemplified by the visit to our province this week of Scotland's Minister of Transport and Veterans Affairs, Keith Brown, and a delegation from the Scottish Government; and</p>
 <p>Whereas the Nova Scotia Tartan Act establishes April 6<sup>th</sup> as Tartan Day in Nova Scotia, and in 1987 Nova Scotia was the first province to celebrate Tartan Day, setting an example that is now followed throughout our country in recognition of the cultural significance of our Scottish heritage;</p>
@@ -74,7 +75,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Premier.</p></speech>
-        <speech by="#e4bb1b3c-5932-453f-a1d7-d5db05f5871e"><num title="140">RESOLUTION NO. 140</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#darrell.dexter"><num title="140">RESOLUTION NO. 140</num><from>HON. DARRELL DEXTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas ALLnovascotia.com reporter Brian Flinn had bigger things on his mind yesterday than the provincial budget, as his wife, Tana, gave birth at midnight to a healthy six-pound, 15-ounce baby boy; and</p>
 <p>Whereas this is Brian and Tana's second child, the other a beautiful two-year-old girl named Adele; and</p>
 <p>Whereas the little guy's name is still unknown to us, I would like to take the opportunity to put forward the name Darrell, which I've always thought is quite nice;</p>
@@ -99,7 +100,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Leader of the Opposition.</p>
         </speech>
-        <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111"><num title="141">RESOLUTION NO. 141</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#stephen.mcneil"><num title="141">RESOLUTION NO. 141</num><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas tomorrow, April 6<sup>th</sup>, marks Tartan Day across our great country, with the genesis of this commemoration appropriately occurring right here in our own province, New Scotland; and</p>
 <p>Whereas April 6<sup>th</sup> has historical significance in that this date marks the signing of Scotland's independence back in 1320 A.D., a significant achievement on a winding road toward the blossoming of democracy; and</p>
 <p>Whereas tomorrow every Canadian is encouraged to wear tartan to celebrate the contributions the Scottish and their descendants have made and continue to make in our communities and to the fabric of our society;</p>
@@ -111,7 +112,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton West.</p></speech>
-        <speech by="#9eb5d12a-69bf-4e1b-a8d2-022f2ff48f25"><num title="142">RESOLUTION NO. 142</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I will ask for a moment of silence after this.</p>
+        <speech by="#alfie.macleod"><num title="142">RESOLUTION NO. 142</num><from>MR. ALFIE MACLEOD</from><p>Mr. Speaker, I will ask for a moment of silence after this.</p>
 <p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas prominent Sydney businessman Hugh Tweedie passed away suddenly on March 16, 2013; and</p>
 <p>Whereas Hugh Tweedie was known as an educator, a community leader, and someone who volunteered his time on a number of committees and boards; and</p>
@@ -130,7 +131,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Argyle.</p>
         </speech>
-        <speech by="#54c01d3a-9d00-4849-8acd-59f8efd8a2f9"><num title="143">RESOLUTION NO. 143</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#christopher.a.dentremont"><num title="143">RESOLUTION NO. 143</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas on Saturday, January 12, 2013, a young 20-year-old fisherman from Wedgeport, Michael Jeffrey Doucette, was reported lost at sea while on a lobster fishing trip; and</p>
 <p>Whereas many local fishermen conducted an exhaustive search from the air and water, with the assistance of two Coast Guard vessels and a Cormorant helicopter, and unfortunately were unable to make a successful recovery; and</p>
 <p>Whereas on January 23, 2013, a funeral mass was held at St. Michael's Church to celebrate the life and memory of Michael Doucette;</p>
@@ -142,7 +143,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="144">RESOLUTION NO. 144</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="144">RESOLUTION NO. 144</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Northside Community Guest Home, under the direction of fundraising coordinator Lisa MacNeil, held its 3<sup>rd </sup>Annual Gala for the Ages fundraiser, which featured community celebrities in a comical beauty pageant that was emceed by Scott Boyd; and</p>
 <p>Whereas the community has worked together to raise $18,000, which will finish the Complete the Dream fundraising campaign for the new addition to the Northside Guest Home; and</p>
 <p>Whereas the funds will be spent to enhance the lives of the 39 residents, the 25 enriched-housing residents, and the 144 residents of the guest home;</p>
@@ -154,7 +155,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Yarmouth.</p></speech>
-        <speech by="#e4251ba6-058b-4a0c-a594-5aa62b14e7b7"><num title="145">RESOLUTION NO. 145</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#zach.churchill"><num title="145">RESOLUTION NO. 145</num><from>MR. ZACH CHURCHILL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas during the last weekend in March, the South Conference Female Hockey Federation league championship took place at the Mariners Centre in Yarmouth; and</p>
 <p>Whereas Yarmouth's Red Cap Restaurant Bantam A Female Mariners, who recently won bronze at the Bantam A Female Provincials and finished the regular season of the A Team league in first place with a record of 17 wins, two losses, and two ties, took first place in this tournament; and</p>
 <p>Whereas the Red Cap Restaurant Bantam A Female Mariners, consisting of Brianne Romain, Bryanne Deveau, Anique Dugas, Laura Legere, Shayna Heroux, Arielle Doucet, Lauren Goudey, Josee Saulnier, Angele LeBlanc, Lauren Symonds, <i>Cara</i> McNicol, Abby Legere, Lindsey Minard, Nina Hanna, and Tori-Anne Devine, under the guidance of coaches Paul Legere and Craig Minard, won the South Conference Female Hockey Federation League Championship;</p>
@@ -166,7 +167,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Inverness.</p></speech>
-        <speech by="#4d1fe702-74c5-4f85-8807-4d4ee51c02a2"><num title="146">RESOLUTION NO. 146</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#allan.gerard.macmaster"><num title="146">RESOLUTION NO. 146</num><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the Port Hawkesbury Veterans Memorial Park Society has worked tirelessly to develop a new memorial to pay tribute to all veterans; and</p>
 <p>Whereas a custom sculptured bronze monument was unveiled last month; and</p>
 <p>Whereas the monument recognizes veterans from the counties of Richmond, Inverness, Guysborough, and Antigonish, both male and female as well as African Nova Scotians and First Nations veterans;</p>
@@ -178,7 +179,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        <speech by="#0592f881-721c-495f-a273-d237278fabfc"><num title="147">RESOLUTION NO. 147</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#eddie.orrell"><num title="147">RESOLUTION NO. 147</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas tomorrow is National Tartan Day; and</p>
 <p>Whereas a gathering of pipers, drummers, and highland dancers will perform in communities across the province and the globe; and</p>
 <p>Whereas we honour this tradition as an important part of Scottish heritage;</p>
@@ -196,7 +197,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -207,7 +208,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1">
+        <speech by="#frank.corbett">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call Resolution No. 39.</p>
         </speech>
@@ -217,18 +218,18 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. DIANA WHALEN</from><p>It's my pleasure to rise today to continue my reply to the Budget Speech that we heard yesterday here in the House. Just before beginning I would like to recognize, as well, the guests in the gallery that you mentioned, Mr. Speaker, and say that had I realized tomorrow was Tartan Day I would have worn some tartan today. I think you don't have to go very far in the history of most Nova Scotians to find somebody with a Scottish name. My mother was an Urquhart and her family, of course, was from Scotland originally in the 1800s. They had moved, actually, to St. Peter's area in West Bay in Cape Breton in the early 1800s, so we take great pride in that. I know that there are many people in this House who have names that are definitely identified as Scottish but we don't have to go many generations back to recognize that we are not far from our roots in this province. So I do think it is nice to have them here with us today. (Applause)</p>
+          <speech by="#diana.whalen"><from>MS. DIANA WHALEN</from><p>It's my pleasure to rise today to continue my reply to the Budget Speech that we heard yesterday here in the House. Just before beginning I would like to recognize, as well, the guests in the gallery that you mentioned, Mr. Speaker, and say that had I realized tomorrow was Tartan Day I would have worn some tartan today. I think you don't have to go very far in the history of most Nova Scotians to find somebody with a Scottish name. My mother was an Urquhart and her family, of course, was from Scotland originally in the 1800s. They had moved, actually, to St. Peter's area in West Bay in Cape Breton in the early 1800s, so we take great pride in that. I know that there are many people in this House who have names that are definitely identified as Scottish but we don't have to go many generations back to recognize that we are not far from our roots in this province. So I do think it is nice to have them here with us today. (Applause)</p>
 <p>Mr. Speaker, the subject of my address today is not as pleasant as that. Today we're here to talk about the budget that was brought in yesterday, a budget that was touted as being balanced but there are a lot of people wondering and skeptical about the mechanisms and the means by which that budget was announced to be balanced. We know that across the country there were a few provinces that had done that and Nova Scotia is not the strongest of the economies in Canada. We don't have strong financial indicators and fundamentals at the moment. As much as we hope for the future and some of the big projects that may come to fruition in the province, we're still concerned that the budget that is presented should be a true reflection of the condition and the expectations of the coming year. That is what we expect.</p>
 <p>I'd like to start, Mr. Speaker, by saying that the minister has mentioned on a number of occasions the Auditor General speaking and supporting what was given here and it's important for members to know that when the Auditor General makes a comment on the budget he is simply looking at the process by which the numbers were generated, that's all it is. (Interruptions) I'd like to read the letter.</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable member for Halifax Clayton Park has the floor.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you. Mr. Speaker, I was speaking to the Auditor General's opinion that he presents each year along with the budget and I do agree that in past years it was qualified, even under the first few years of the NDP. It was qualified because all of the corporations and DHAs, and so on, were not properly consolidated with the main budget and that has been done this year. That's the main reason there is no qualification on the revenue estimates. It's so that all of the bake sales and all of the money that comes in separately through school boards is all recognized in the budget. That's the reason.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you. Mr. Speaker, I was speaking to the Auditor General's opinion that he presents each year along with the budget and I do agree that in past years it was qualified, even under the first few years of the NDP. It was qualified because all of the corporations and DHAs, and so on, were not properly consolidated with the main budget and that has been done this year. That's the main reason there is no qualification on the revenue estimates. It's so that all of the bake sales and all of the money that comes in separately through school boards is all recognized in the budget. That's the reason.</p>
 <p>So good decision, you have listened to the Auditor General and now, Mr. Speaker, the government has ruled that other information into the consolidated revenue (Interruptions)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. I remind all honourable members that while the honourable member for Halifax Clayton Park has the floor, I would appreciate that the tone of the heckling be toned down a little bit this morning, please. I don't think that the comment "the Princess of Pessimism" is parliamentary-appropriate in this Chamber so I would ask the honourable member to please retract that statement this morning.</p>
 <p>The honourable member for Lunenburg West.</p></speech>
-          <speech by="#7b250da9-731e-412b-abf1-4b9b3d94b0fa">
+          <speech by="#gary.ramey">
             <from>MR. GARY RAMEY</from>
             <p>Mr. Speaker, I retract that comment. Thank you.</p>
           </speech>
@@ -236,7 +237,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable member for Halifax Clayton Park has the floor.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Mr. Speaker, just in context, as I go back to the Auditor General and what the significance is of his letter in the Budget Estimates and what it really means, I think that a lot of members in the House often, in fact, don't have the financial background that might help them to understand a lot of these issues, whether or not something is qualified or not, what is the significance of it, and how much it means.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, just in context, as I go back to the Auditor General and what the significance is of his letter in the Budget Estimates and what it really means, I think that a lot of members in the House often, in fact, don't have the financial background that might help them to understand a lot of these issues, whether or not something is qualified or not, what is the significance of it, and how much it means.</p>
 <p>I know there are members in the House with financial backgrounds and I happen to be one of them. In fact, Mr. Speaker, I think it is a good time to mention the Society of Management Accountants that I've been a member of for many years. Since 1984 I've been a certified management accountant and I've worked as a consultant, so I always appreciate the opportunity to have the budget presented.</p>
 <p>I know there is a lot of information, it is a lot of depth and you can get lost in the numbers, but it is a very important time to use our skills, whatever they may be, whether they are legal, whether they are financial, and apply that to what we see here today. I think with the letter from the Auditor General it's just important to know that the qualification that was given in the past was because it wasn't consolidated and that previous governments just sort of sloughed that off and said, well, this is the reason it's not so material.</p>
 <p>It has now been addressed, that's good, but I think the members opposite really want me to read what the Auditor General said in his letter. I'm not sure if you'd like me to table it, Mr. Speaker, because everybody received a copy of this book yesterday. It's from the Budget Assumptions and Schedules. The Auditor General finishes with - the final paragraph says, "Since the 2013-14 revenue estimates are based on assumptions regarding future events, actual results will vary from the information presented and the variance may be material." It could be material. He is not saying that the estimates are really close to what we can expect and that barring any really outstanding, unusual thing that we won't make it, he's saying I'm not going to say, it could vary materially.</p>
@@ -284,7 +285,7 @@
 <p>Madam Speaker, let's talk about the &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Order, please. The chatter is getting too high in the Chamber; it's becoming difficult for me to hear.</p>
 <p>The honourable member for Halifax Clayton Park has the floor.</p></speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Thank you, Madam Speaker. I would like to talk about the help that was given in this budget to small business. The small business rate was lowered by half a percentage point, down to 3 per cent, but what the minister never told the business community, when she had the opportunity in front of a business crowd in Halifax, was that she changed the threshold, as well, the government chose to change the threshold at which you no longer had 3 per cent income tax for small business. But you pay 16 per cent for corporate tax, so even the large corporations are going to be hit earlier, because their first amount had been at the lower rate.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Thank you, Madam Speaker. I would like to talk about the help that was given in this budget to small business. The small business rate was lowered by half a percentage point, down to 3 per cent, but what the minister never told the business community, when she had the opportunity in front of a business crowd in Halifax, was that she changed the threshold, as well, the government chose to change the threshold at which you no longer had 3 per cent income tax for small business. But you pay 16 per cent for corporate tax, so even the large corporations are going to be hit earlier, because their first amount had been at the lower rate.</p>
 <p>Now everybody who is making any large amount of money, $350,000 or above, is going to pay 16 per cent. Now that captures a lot more money and puts it into this budget. So it really is a tax increase. It's going to capture more money on the corporate tax side, absolutely - and it almost punishes those who are most successful; it's punishing the companies that are growing and successful. Madam Speaker, you know, there are two parts to that announcement, and the government only chose to tell us one part, and that's why I say there are a lot of reasons to distrust the figures that are in this budget today. We don't always get all the facts; the government likes to keep some of them secret until they come out and they can't avoid them - and that is exactly what happened in this budget.</p>
 <p>I wanted to talk briefly about jobs and the government's claim that they had cut 1,000 jobs over their mandate. And that, again, was something that was promised in the first days of the NDP Government coming to power, they said they were going to, slowly, through attrition - and they promised not to have any pain - that they would get rid of jobs. But the fact is, is the civil service that much smaller today or not? Madam Speaker, the article today in The ChronicleHerald says that despite the government's goal of eliminating 1,094 positions, only 286 have disappeared - and I'd be happy to table that.</p>
 <p>Again, this is an example of sleight of hand, of, I suppose, being opportunistic when the opportunity arises, of pushing off jobs into other areas. Let's take Conserve Nova Scotia. Conserve Nova Scotia had about 40 people, I think it was, working in the Department of Energy. That was when the NDP came to power - 40 positions in the Department of Energy. Where are they today, Madam Speaker? Well, today they've been hived off somewhere else as an independent group. They've doubled in size - I think there are more than 80 people now, I don't know how many - lots of new positions there, lots of communications positions, lots of new jobs over there. And rather than us paying for it through our taxes as part of the public service, now we're paying directly - every single ratepayer in the province paying directly in their bill to Nova Scotia Power.</p>
@@ -295,7 +296,7 @@
             <from>MADAM SPEAKER</from>
             <p>Three minutes.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825">
+          <speech by="#diana.whalen">
             <from>MS. WHALEN</from>
             <p>Only three minutes, oh my gosh. There's so much more to say.</p>
           </speech>
@@ -303,14 +304,14 @@
             <from>MADAM SPEAKER</from>
             <p>Sorry, two minutes.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>Two minutes. I think I'd like to stop on a nicer note, then, and that is that I wanted to thank the Finance Department, who I know work very hard. The staff at the department work really hard to pull this together. It's not done overnight. It takes months and months, so I think they deserve a vote of thanks.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Two minutes. I think I'd like to stop on a nicer note, then, and that is that I wanted to thank the Finance Department, who I know work very hard. The staff at the department work really hard to pull this together. It's not done overnight. It takes months and months, so I think they deserve a vote of thanks.</p>
 <p>As well, I wanted to say that there are good things in this budget, like the insulin pumps. We in the Liberal caucus have been asking for that policy to change for many years. Even previous to this government, we had bills before the Legislature. The Progressive Conservative Government had the opportunity to do so and did nothing. They turned a blind eye when they were asked again and again by the Juvenile Diabetes Association, by the Liberal caucus, by other advocates, and by families, and finally this is going to become a reality in Nova Scotia, so we're very pleased. We don't expect our bill to be passed. We're very pleased that the actual intent of it is now going to become reality. We hope that over time that will be expanded to adults as well, because it has better outcomes for all those patients.</p>
 <p>Things like the senior tax rebates on property will be a help. The children's dental care is positive. I, like other members, have had children who &#x2026;</p></speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MADAM SPEAKER</from>
             <p>Order, please. I was just clarified on the timing that you have. You actually have until 10:08 a.m. My apologies for that. I want to make sure that you have the time you are allotted.</p>
           </speech>
-          <speech by="#58b01541-6697-4dbd-830c-6cec0d4c4825"><from>MS. WHALEN</from><p>That is good news. I don't know if I have 10 minutes of praise for this budget. I had actually planned just a couple of minutes of praise. There are definitely measures in this budget that are good for people in Nova Scotia, and things that we've asked for - I know there are things that we have individually spoken to ministers about.</p>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>That is good news. I don't know if I have 10 minutes of praise for this budget. I had actually planned just a couple of minutes of praise. There are definitely measures in this budget that are good for people in Nova Scotia, and things that we've asked for - I know there are things that we have individually spoken to ministers about.</p>
 <p>I have to say, it points to this being the budget for the election year. The government has had to hold back on some of these things and waited to put it in this budget, in their final year, so that now they would hope that the most recent budget will be what's in everybody's minds. These goodies, these responses to needs, are going to be the things that they can run on in the next election.</p>
 <p>Make no mistake about it the Liberal caucus supports those measures. They're good for people, and we will of course be supportive on those aspects of the budget. There's no question that it was time to do the insulin pumps, in particular, and I know there are a number of other small tax measures.</p>
 <p>One of the quotes that we had here related to the fact that it's time for a comprehensive tax review. We have been calling for that, as you know, for some time, that the government needs to take a step back and look at all of the costs that we have and how we're going to manage it. I can't quite find my quote here, but I know that in the paper today somebody is calling for a proper review of all the taxes. What we've been seeing and what has continued over many years is a piecemeal approach to a little bit of tweaking on this one or that one or adding a little credit somewhere. It doesn't amount to doing the kind of tax study that would say what taxes could we change that will most stimulate the economy? What taxes might help people to get ahead in their own lives or help small business?</p>
@@ -329,7 +330,7 @@
             <from>MR. SPEAKER</from>
             <p>The honourable Leader of the Progressive Conservative Party.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I just want to begin by saying that I really appreciate the remarks of the speaker who just concluded, the Finance Critic for the Liberal Party. I believe she did a very thorough job of discrediting the claim of balance in her normal professional manner. I know she has some background in these things, and I just want to compliment her on a job well done here this morning. It's good to see someone in Opposition who does have a grasp of the finances of the province.</p>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I just want to begin by saying that I really appreciate the remarks of the speaker who just concluded, the Finance Critic for the Liberal Party. I believe she did a very thorough job of discrediting the claim of balance in her normal professional manner. I know she has some background in these things, and I just want to compliment her on a job well done here this morning. It's good to see someone in Opposition who does have a grasp of the finances of the province.</p>
 <p>Her Leader, of course, made a big deal in the last election about the fact that he didn't know the state of the province's finances - an odd thing to say, for someone who at that time had been the Leader of his Party for over two years, going into an election campaign. Of course, trying to make a virtue out of not understanding the finances did not stop the Leader of the Liberal Party in the last election from making $530 million in spending promises, even though he didn't know the state of the province. I have a document from that campaign to table in a few minutes.</p>
 <p>What could be more responsible than standing up in this House, having been in Opposition for several years, and saying, I don't know the state of the books - like he did, trying to make a virtue of not knowing - and then going ahead and promising $530 million in spending anyway. That is what is wrong with people who criticize all the time but have nothing positive to say themselves. But I got up to compliment the Finance Critic who just spoke, because at least she did a thorough job of showing her own understanding of the flimflammery that we see on the government side today.</p>
 <p>Having said that, I do want to turn to the NDP's budget, because much has been made of the fiction of the razor-thin $16 million alleged surplus that the NDP tabled yesterday. The fact that it is so far off can actually be seen in the series of reports they gave on their real, truthful progress - or lack of progress - in the year just ended. Last year's budget estimated a deficit of $211 million, and we found out yesterday - and this hasn't been thoroughly covered yet, I don't believe - that they were off by $145 million on their $211 million deficit for the year that just ended. How can Nova Scotians believe anything they say now, when they were off by so much on the actual results of the year that they just finished with?</p>
@@ -346,7 +347,7 @@
             <from>MR. SPEAKER</from>
             <p>Order. Order please. The same as yesterday, again today, "tricks" and "trickery" are unparliamentary and I would remind the honourable member that I mentioned it yesterday, and I'll mention it again today. Thank you.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Thank you for that ruling, and I understand.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Thank you for that ruling, and I understand.</p>
 <p>My point is, Mr. Speaker, when you claim a surplus of $16 million, when you claim one and we can already in one moment prove that it's not a surplus but actually a deficit, from this one move it just undermines further the credibility of the government as a whole, a government that said they would not do these things when they were in Opposition, that accepted a report from world-class accountants saying not to do these things and then turned around and did these exact things.</p>
 <p>I pointed out a moment ago that in the last three months the government's year they just finished got $80 million worse and $35 million is because they stuffed the university money in there - but, as we found out yesterday, that's not all the year-end manoeuvering that they did because it turns out there's another $50 million in year-end transactions that the government engaged in to take money that properly belonged in the budget and stuff it back into last year. Now, $50 million and $35 million - $85 million explains the entire difference between their last fiscal update for last year and what they told the people of Nova Scotia yesterday.</p>
 <p>So when any Nova Scotian looks at this budget and that $16 million alleged surplus, the proof that it's wrong can be found just by looking at the year that just finished and how far off it was from what they said. I know that the government in their presentation in the lock-up yesterday to the media, to the public, went through all the accounting changes that they adopted this year - and in four of the five cases in that presentation they went out of their way to report the net impact on the bottom line in the budget. In four of the five accounting changes they made, they said there is no impact, but on the fifth change, which they did tell us about, they were silent on the net impact.</p>
@@ -386,19 +387,19 @@
 <p>Have they even complied with that law? Well we still don't know. Madam Speaker, we still don't know because all we have is a footnote in their own financial statements saying that they intend to, to some trust, the For the Public Good Trust - nobody knows where this trust is, nobody knows who the trustees are, nobody knows what they are doing with the money, and they won't tell us.</p>
 <p>So every time the Liberals tell the NDP to be more transparent - I'll give some advice to the NDP - hold them to the same standard when it comes to their own trust fund. Hold them to the same standard. I mean, here is a Party that can't even manage a tiny little caucus office without the help of a consultant, here is a Party that can't even run a surplus in their own little book of accounts asking the people if they can run the entire Province of Nova Scotia. They have not won an election in this province, a majority election, in 20 years because Nova Scotians will not trust them as long as they hold on to that dirty money in that trust fund, and they won't this time either - and no one can say oh that's in the past as long as the current leadership hold on to it.</p>
 <p>We also know, Madam Speaker, that just before that law passed they took over $300,000 of that dirty money out of the trust fund and put it on their own Party books and then spent it on TV ads - that's the record of the current Leader of the Liberal Party, that was his decision &#x2026;</p></speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Go outside and say it.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>It's a matter of public record.</p>
           </speech>
-          <speech by="" as="##member" status="undefined">
+          <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>Take your allegation outside.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5">
+          <speech by="#jamie.baillie">
             <from>MR. BAILLIE</from>
             <p>Madam Speaker, anyone can look at the records of the Liberal Party and see that to be true. Anyone can look at the records and see that to be true. (Interruptions)</p>
           </speech>
@@ -406,21 +407,21 @@
             <from>MADAM SPEAKER</from>
             <p>Order, please. I know it's Friday.</p>
           </speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Thank you, Madam Speaker. I did start by thanking the Liberal Critic for her examination of the budget and I just want you to know - to return for a more pleasant topic - that I meant it, that she did a very good job of poking gigantic holes in the NDP budget. I say that because I know that she would have made very different decisions about that trust fund if she was in a position to make those decisions, based on her own professionalism which is on display in this House every day. And that is sad to say, but I know it's true.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Thank you, Madam Speaker. I did start by thanking the Liberal Critic for her examination of the budget and I just want you to know - to return for a more pleasant topic - that I meant it, that she did a very good job of poking gigantic holes in the NDP budget. I say that because I know that she would have made very different decisions about that trust fund if she was in a position to make those decisions, based on her own professionalism which is on display in this House every day. And that is sad to say, but I know it's true.</p>
 <p>Now, Madam Speaker, let me just conclude for the day by saying to you that it is one thing to criticize the other Parties, but try not to make it personal, although I see some who, when they have nothing else to say, try and make it personal. But try and not make it personal - point to the policy errors, point to the decisions we disagree with in the other Parties, and many members in this House are very good at that.</p>
 <p>But Nova Scotians will not elect a new government, which they need to, until someone actually goes beyond all the carping and the criticism and actually tells them that there is a better way forward, that there is an alternative to the current way, that it does not have to be this way all the time, that they don't always have to have a budget that's meaningless and wrong on the eve of an election, that they do not always have to have their own pockets picked when the government needs to find a way to balance the budget, and that they do not always have to keep their heads down and look away in disgust when they see a lot of the carping that goes on among their politicians.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>With the member's permission, we've been asked to allow an introduction. Thank you.</p>
 <p>The honourable Minister of Education.</p></speech>
-          <speech by="#5c567fec-a071-45dc-bccd-c81ad2bb492a"><from>HON. RAMONA JENNEX</from><p>Thank you very much, Madam Speaker, and thank you very much to the member opposite for giving me the opportunity to introduce to the House today two of our fine students from the Cape Breton Highlands Academy. Zoe Phillips and Hannah Phillips, both Grade 11 students, are in our O2 program and have been here the last couple of days at the O2 Showcase at the Westin. Accompanying them is their lead O2 teacher - that's Options and Opportunities - the community-based learning teacher, Neil MacDonald. Peyton Charmichael, who is over in Dartmouth doing a competition at the Akerley Campus, also came from their team from Cape Breton.</p>
+          <speech by="#ramona.jennex"><from>HON. RAMONA JENNEX</from><p>Thank you very much, Madam Speaker, and thank you very much to the member opposite for giving me the opportunity to introduce to the House today two of our fine students from the Cape Breton Highlands Academy. Zoe Phillips and Hannah Phillips, both Grade 11 students, are in our O2 program and have been here the last couple of days at the O2 Showcase at the Westin. Accompanying them is their lead O2 teacher - that's Options and Opportunities - the community-based learning teacher, Neil MacDonald. Peyton Charmichael, who is over in Dartmouth doing a competition at the Akerley Campus, also came from their team from Cape Breton.</p>
 <p>I would ask the members of the House to please give our guests a very warm reception here today. We're so glad that our guests were able to see us and the work that we do in the House. Thank you very much, Madam Speaker. (Applause)</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>We welcome all our guests today, and we hope you enjoy today's proceedings.</p>
 <p>The honourable Leader of the Progressive Conservative Party has the floor.</p></speech>
-          <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>MR. BAILLIE</from><p>Madam Speaker, I was just about to bring this to a conclusion by pointing out that in addition to all the criticism that goes on - and there are some who can only go to criticism and have nothing more to add - but a government only gets elected - and we saw this from Premier Hamm, and I want people to see it again now - when they give Nova Scotians a real plan for the future.</p>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Madam Speaker, I was just about to bring this to a conclusion by pointing out that in addition to all the criticism that goes on - and there are some who can only go to criticism and have nothing more to add - but a government only gets elected - and we saw this from Premier Hamm, and I want people to see it again now - when they give Nova Scotians a real plan for the future.</p>
 <p>Far from taxing them more, far from promising them wild spending with no idea how to pay for it, that plan is to grow the economy and create jobs by lowering taxes like the HST equally for everybody; by paying for it by stopping wasteful government spending like all those health bureaucracies and the 10 health authorities and the subsidies to the Tim Hortons and the government bailouts of too many companies while small businesses struggle; by paying for it by stopping those things, creating more jobs that are sustainable and meaningful across the province; by training people through a world-class education system for the economy of the 21<sup>st</sup> Century; and by letting our job creators get on with the job of building a modern, dynamic economy based on lower taxes, frozen power rates, and better education and training.</p>
 <p>Then we can truly say we have a balanced plan that pays for health and schools and other services we need. Only then can we get on to that better day and away from the kind of direction that we're under now from the NDP. Thank you, Madam Speaker.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The Estimates are now referred to the Committee of the Whole House on Supply unto Her Majesty.</p>
 <p>The honourable Government House Leader.</p></speech>
-          <speech by="#5db3f08e-219e-4ab3-a082-7bcc7ed081b1"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. We will meet again on Monday from the hours of 4:00 p.m. to 10:00 p.m. After the daily routine we will be going into Committee of the Whole House on Supply.</p>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. We will meet again on Monday from the hours of 4:00 p.m. to 10:00 p.m. After the daily routine we will be going into Committee of the Whole House on Supply.</p>
 <p>I move that the House do now rise.</p></speech>
           <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise to meet again on Monday, April 8<sup>th</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
@@ -433,57 +434,57 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="148">RESOLUTION NO. 148</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="148">RESOLUTION NO. 148</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Matthew Scott is an excellent academic student, earning awards in four subjects at the end of Grade 7, as well as the award for Best All Around Student; and</p>
 <p>Whereas Matthew is an avid sportsman, playing soccer, hockey, track and field, and golf; and</p>
 <p>Whereas Matthew has a pleasant personality and positive attitude, enjoys a challenge, and has excellent interpersonal skills;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate this well-rounded Grade 8 student for being chosen as the December 2012 Student of the Month.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="149">RESOLUTION NO. 149</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="149">RESOLUTION NO. 149</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Andee Weatherby is a Grade 8 student at Colchester North High School in Tatamagouche; and</p>
 <p>Whereas Andee is an eager, conscientious student whose creativity and artistic abilities add uniqueness to her class projects; and</p>
 <p>Whereas Andee is also a dedicated, hard-working athlete who plays on the school soccer and basketball teams, as well as a local hockey team, competes in track and field, takes swimming lessons, and skis;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Andee Weatherby whose work ethic, positive attitude, participation, and pleasant personality contributed to her selection as the December 2012 Student of the Month.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="150">RESOLUTION NO. 150</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="150">RESOLUTION NO. 150</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the October 2012 Student of the Month at North Colchester High School in Tatamagouche, Colchester North, was Ashley Redmond; and</p>
 <p>Whereas Ashley is admired by students and staff alike because of her positive attitude; and</p>
 <p>Whereas Ashley is a member of the student council, plays on the Lady Mustangs basketball team, has played first base for the softball team, and has worked on the Halloween Safety Patrol and the Prom Committee;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Ashley Redmond for a pleasant personality, good work ethic, and a positive attitude, and for receiving the honour of being named Student of the Month.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="151">RESOLUTION NO. 151</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="151">RESOLUTION NO. 151</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the November 2012 Student of the Month at North Colchester High School in Tatamagouche was Colin MacDonald; and</p>
 <p>Whereas Colin is a student council representative, a member of the school's soccer and basketball teams, competes in track and field, and is a member of a hockey team; and</p>
 <p>Whereas Colin is a conscientious and hard-working student with a quick wit and dry sense of humour who always puts forth his best effort;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Grade 8 student Colin MacDonald for being selected as the November 2012 Student of the Month.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="152">RESOLUTION NO. 152</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="152">RESOLUTION NO. 152</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Colton Mardian is a very conscientious student who manages his time well, works well with others, and is always pleasant and cheerful; and</p>
 <p>Whereas Colton is involved in several extracurricular activities: playing hockey, soccer, and basketball; and</p>
 <p>Whereas this Grade 9 student is known for his energy, his positive attitude, and his desire to learn new skills;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Colton Mardian for being named November 2012 Student of the Month at North Colchester High School in Tatamagouche.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="153">RESOLUTION NO. 153</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="153">RESOLUTION NO. 153</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas DJ Joudrie is a Grade 10 student at North Colchester High School in Tatamagouche; and</p>
 <p>Whereas DJ is popular with his teachers and peers because of his positive attitude, his willingness to help others, his maturity, and his kindness; and</p>
 <p>Whereas DJ is known for his excellent work ethic, whether it involves his school work or the many hands-on jobs he undertakes;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate DJ Joudrie for being selected as Student of the Month for January 2013.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="154">RESOLUTION NO. 154</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="154">RESOLUTION NO. 154</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Keelie Bennett is an excellent academic student who is hard-working, well organized, and conscientious; and</p>
 <p>Whereas Keelie has a pleasant personality, excellent social skills, and is thoughtful and helpful to others; and</p>
 <p>Whereas Keelie has a strong social conscience, is interested in world issues and equal rights, and is willing to get involved in the causes in which she believes;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Keelie Bennett for being chosen as the January 2013 Student of the Month at Colchester North High School in Tatamagouche, and for serving as an excellent role model to her peers.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="155">RESOLUTION NO. 155</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="155">RESOLUTION NO. 155</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Megan Waugh is a hard-working, conscientious, organized student who is anxious to succeed; and</p>
 <p>Whereas Megan applies the same dedication and determination when she plays soccer as when she does school work; and</p>
 <p>Whereas Girls' Leadership is a favourite group to Megan who enjoys activities like dog sledding, night walks, and camping trips;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Megan Waugh, from Colchester North High School in Tatamagouche, for being chosen Student of the Month for September 2012.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="156">RESOLUTION NO. 156</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="156">RESOLUTION NO. 156</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Raven Kersey plays the power position in volleyball, is a guard for the Lady Mustangs basketball team, runs the 100 meter in track and field, plays on the school soccer and softball teams, and is a member of the school ski club; and</p>
 <p>Whereas Raven is noted for the time, effort, and hard work she puts into all her activities, whether it be sports or her school work; and</p>
 <p>Whereas Raven is well-known and well-liked because of her kind, thoughtful, and gentle personality;</p>
 <p>Therefore be it resolved that all members of this Assembly congratulate Raven Kersey for being chosen as October 2012 Student of the Month at North Colchester High School in Tatamagouche, Colchester North.</p></speech>
-        <speech by="#5805e217-8c80-4957-8066-e992b25f4401"><num title="157">RESOLUTION NO. 157</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#karen.casey"><num title="157">RESOLUTION NO. 157</num><from>Hon. Karen Casey</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Sarah Langille works hard, is well organized, and likes to challenge herself; and</p>
 <p>Whereas Sarah's leadership abilities are shown through her role as a member of the executive of the student council, as an explorer leader, and through her quick movement up the ranks and the many awards she has received in Air Cadets; and</p>
 <p>Whereas this talented student also plays snare drum for the Heatherbells pipe and drum band and teaches core drum to beginners, has earned both bronze and silver in the Duke of Edinburgh program, and is currently working on her gold level;</p>
 <p>Therefore be it resolved that all members of this Assembly congratulate Sarah Langille, a leader and role model, for being selected as the September 2012 Student of the Month at North Colchester High School in Tatamagouche, for her caring, outgoing personality, her commitment to education, and her involvement with extracurriculars.</p></speech>
-        <speech by="#5d4cd4b5-5ca2-425c-82a5-49a49892eee6"><num title="158">RESOLUTION NO. 158</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#andrew.younger"><num title="158">RESOLUTION NO. 158</num><from>Mr. Andrew Younger</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas April 6<sup>th</sup> is the anniversary of the signing of the Declaration of Arbroath in 1320, the Scottish declaration of independence; and</p>
 <p>Whereas in Canada that date was chosen by this House of Assembly and declared Tartan Day on April 6, 1987; and</p>
 <p>Whereas this year marks the 60<sup>th</sup> Anniversary of our very own Nova Scotia tartan, and is being celebrated by the Amethyst Dancers in two special performances at Alderney Landing on Sunday;</p>

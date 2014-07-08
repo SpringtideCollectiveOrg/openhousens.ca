@@ -4,12 +4,12 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="6622244d-59c2-401f-9ce8-94ac1813c111" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
-        <TLCPerson id="53fc39ac-a3be-4439-b810-cf2a8cd8b016" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="c5af3c5b-9318-4bcc-a6b9-6d41edaf6180" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
-        <TLCPerson id="39fe31af-4449-4a39-bd02-eac2eb6643e5" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="2a8a6812-dab1-49f4-b941-a875e19a943a" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
-        <TLCPerson id="9d561239-9900-4212-aa2a-3392a94889e4" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="suzanne.lohnes.croft" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
+        <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -18,14 +18,15 @@
       <docTitle>Debates, 28 November 2013</docTitle>
       <docNumber>13-02</docNumber>
       <docDate date="2013-11-28">Thursday, November 28, 2013</docDate>
-      <docProponent>Nova Scotia House of Assembly</docProponent>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
       <legislature value="62">62nd General Assembly</legislature>
       <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13nov28/"/>
     </preface>
     <debateBody>
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
 <p>The honourable Attorney General.</p></speech>
-      <speech by="#c5af3c5b-9318-4bcc-a6b9-6d41edaf6180">
+      <speech by="#lena.m.diab">
         <from>HON. LENA DIAB</from>
         <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
       </speech>
@@ -40,7 +41,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Premier.</p>
       </speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+      <speech by="#stephen.mcneil">
         <from>HON. STEPHEN MCNEIL</from>
         <p>While I enjoyed it, Mr. Speaker, I move the Speech from the Throne be taken as read.</p>
       </speech>
@@ -50,7 +51,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg.</p></speech>
-      <speech by="#9d561239-9900-4212-aa2a-3392a94889e4"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, it is an honour to rise in the 62<sup>nd</sup> Session of the House of Assembly and move the Address in Reply to the Speech from the Throne as read by His Honour Brigadier-General, the Honourable J.J. Grant.</p>
+      <speech by="#suzanne.lohnes.croft"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, it is an honour to rise in the 62<sup>nd</sup> Session of the House of Assembly and move the Address in Reply to the Speech from the Throne as read by His Honour Brigadier-General, the Honourable J.J. Grant.</p>
 <p>Mr. Speaker, it is indeed a privilege to stand here in this historic House before my colleagues representing the constituency of Lunenburg, located on Nova Scotia's beautiful South Shore.</p>
 <p>I would like to begin my remarks by congratulating you, Mr. Speaker, on your first official day presiding over the House of Assembly. I know you will maintain order and lead us through a productive session in the House. (Applause)</p>
 <p>Mr. Speaker, it is my great pleasure to say thank you to the fine people of the Lunenburg constituency for electing me to represent them in the Nova Scotia House of Assembly. I am humbled by their vote of confidence and I pledge to represent the people of Lunenburg to the best of my ability each and every day. My work experiences over the years helped me to acquire the leadership skills necessary for running for public office but I must give the greatest credit to my experiences as a volunteer.</p>
@@ -69,7 +70,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable member for Halifax Atlantic.</p>
       </speech>
-      <speech by="#2a8a6812-dab1-49f4-b941-a875e19a943a"><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, it is also an honour for me to rise today and express my thanks to His Honour Brigadier-General, the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, for his inspiring words.</p>
+      <speech by="#brendan.o.maguire"><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, it is also an honour for me to rise today and express my thanks to His Honour Brigadier-General, the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, for his inspiring words.</p>
 <p>I am honoured to second the Address in Reply to the Speech from the Throne. It is truly a privilege to stand before you and my colleagues from both sides of the House today in this historic Chamber. I rise today not just to second the Address in Reply to the Speech from the Throne, but also as the voice of the people of Halifax Atlantic.</p>
 <p>Halifax Atlantic is a riding that is not only my home but a community that has helped save my life. I wake up every day thankful to the people of this amazing community and fully aware of the enormous responsibility they have placed on me. I am proud to be from such a unique and diverse riding, a riding that is reflective of the hard work and big hearts that Nova Scotians have become known for worldwide.</p>
 <p>I am the MLA for Halifax Atlantic, a riding that is made up of unique individuals from Spryfield to Herring Cove to Portuguese Cove, Ketch Harbour, Sambro, East and West Pennant, Williamswood, Harrietsfield, and Purcells Cove. I am also husband to Rena Maguire and the proud father of Oliver Finn Maguire, who is making all the noise. I am also going to get it on record that I love both of you. (Applause)</p>
@@ -84,7 +85,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Leader of the Official Opposition.</p>
       </speech>
-      <speech by="#39fe31af-4449-4a39-bd02-eac2eb6643e5"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, on behalf of the Official Opposition, I would like to thank His Honour the Lieutenant Governor for his address to the House today, and for the work he's doing in service of all Nova Scotians.</p>
+      <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, on behalf of the Official Opposition, I would like to thank His Honour the Lieutenant Governor for his address to the House today, and for the work he's doing in service of all Nova Scotians.</p>
 <p>Let me say right off the top, on behalf of those of us here in Opposition, I want to congratulate the Premier and the members of the Liberal Government on their victory in the most recent general election. I offer sincere congratulations to them for their work. (Applause)</p>
 <p>Mr. Speaker, I heard the Premier's words outside this Chamber, that he wants to set a new and respectful tone of debate in the Legislature and I just want him to know, and everyone in his government to know, that on the Opposition side we accept that invitation and will return it in kind - it's time to set a new tone of debate in the House. (Applause)</p>
 <p>We may be from different Parties - Liberal, PC, or NDP - but we are all part of the same family, the Nova Scotia family, and we ought to be guided by the way families talk and discuss issues at their own kitchen table or their own dining-room table. Although, when I think of the debates at my own family kitchen table, I'm not sure that's the right model - and I can say to the Premier that I can just imagine when he was growing up what the debates were like around his family table. (Applause)</p>
@@ -113,7 +114,7 @@
       <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to adjourn debate. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Premier.</p></speech>
-      <speech by="#6622244d-59c2-401f-9ce8-94ac1813c111">
+      <speech by="#stephen.mcneil">
         <from>HON. STEPHEN MCNEIL</from>
         <p>Mr. Speaker, on your behalf, at the conclusion of this session I would like to invite all members of the House and all guests in the gallery to the Red Room for a reception.</p>
       </speech>
@@ -121,7 +122,7 @@
         <from>MR. SPEAKER</from>
         <p>The honourable Government House Leader.</p>
       </speech>
-      <speech by="#53fc39ac-a3be-4439-b810-cf2a8cd8b016">
+      <speech by="#michel.p.samson">
         <from>HON. MICHEL SAMSON</from>
         <p>Mr. Speaker, that concludes the government's business for today. I move that the House do now rise to meet again tomorrow at the hour of 9:00 a.m. until 1:00 p.m.</p>
       </speech>
