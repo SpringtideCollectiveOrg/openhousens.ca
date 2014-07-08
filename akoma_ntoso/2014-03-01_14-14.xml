@@ -4,13 +4,13 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="d2209e4d-eae1-410c-8dfa-b4444f1e67be" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
-        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
-        <TLCPerson id="e23caf06-dcf3-42a5-8a00-f4435df40350" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
-        <TLCPerson id="578ba1c9-5f6c-4b7b-a5cd-b915e1801c37" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
-        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
-        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="a6095eaa-d175-4e2e-a997-742e0c1d3d10" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="491f7bc4-18ad-450e-846f-dd78ed20a0ae" href="/ontology/person/ca-ns.alfie.macleod" showAs="MR. ALFIE MACLEOD"/>
+        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="e6d39654-bcf3-4494-b7df-bbb286f0eeef" href="/ontology/person/ca-ns.kelly.regan" showAs="HON. KELLY REGAN"/>
+        <TLCPerson id="e8e9da63-3a4a-4d12-9aa9-a6b535fe417b" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="14492167-7c6c-4e2f-b69d-0005f8725281" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="7468ce01-c499-4768-9a8c-19e92ed26c91" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -28,59 +28,38 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will now proceed with the daily routine.</p>
       </speech>
-      <petitions>
-        <heading>PRESENTING AND READING PETITIONS</heading>
-      </petitions>
       <papers>
         <heading>PRESENTING REPORTS OF COMMITTEES</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Minister of Justice.</p>
         </speech>
-        <speech by="#578ba1c9-5f6c-4b7b-a5cd-b915e1801c37"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
+        <speech by="#7468ce01-c499-4768-9a8c-19e92ed26c91"><from>HON. LENA DIAB</from><p>Mr. Speaker, as Chairman of the Committee on Law Amendments, I am directed to report that the committee has met and considered the following bill:</p>
 <p><b>Bill No. 30 - Essential Home-support Services (2014) Act.</b></p>
 <p>and the committee recommends this bill to the favourable consideration of the House, without amendment.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be referred to the Committee of the Whole House on Bills.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, with the unanimous consent of the House, I would move that the bill just tabled be added to the order paper and be considered for debate in Committee of the Whole House on Bills today.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p></speech>
       </papers>
-      <papers>
-        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </papers>
-      <ministerialStatements>
-        <heading>STATEMENTS BY MINISTERS</heading>
-      </ministerialStatements>
-      <noticesOfMotion>
-        <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </noticesOfMotion>
-      <debateSection>
-        <heading>INTRODUCTION OF BILLS</heading>
-      </debateSection>
-      <noticesOfMotion>
-        <heading>NOTICES OF MOTION</heading>
-      </noticesOfMotion>
-      <debateSection>
-        <heading>ORDERS OF THE DAY</heading>
-      </debateSection>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, with the unanimous consent of the House, I would move we waive the Committee of the Whole hearing of Bill No. 30 and proceed directly for consideration of Bill No. 30 third reading.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
         </speech>
@@ -91,7 +70,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#d2209e4d-eae1-410c-8dfa-b4444f1e67be">
+        <speech by="#a6095eaa-d175-4e2e-a997-742e0c1d3d10">
           <from>HON. MICHEL SAMSON</from>
           <p>Mr. Speaker, would you please call Bill No. 30.</p>
         </speech>

@@ -4,13 +4,13 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
-        <TLCPerson id="72906878-3b4e-496f-adc4-15b4975f3aa7" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
-        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="c7f2d366-8ba0-4263-98e0-bdaa9336415f" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
-        <TLCPerson id="aef785d7-7697-4453-8f9c-eef26e4928c3" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
-        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="a48067d1-5e84-46e6-907e-76a541767728" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="a996b53e-4f1e-4eaf-8872-bcb8250781dc" href="/ontology/person/ca-ns.clarrie.mackinnon" showAs="MR. CLARRIE MACKINNON"/>
+        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="MR. CORBETT"/>
+        <TLCPerson id="e6d39654-bcf3-4494-b7df-bbb286f0eeef" href="/ontology/person/ca-ns.kelly.regan" showAs="MS. KELLY REGAN"/>
+        <TLCPerson id="67b70bd5-9657-4c87-9da4-d89a69594eb3" href="/ontology/person/ca-ns.diana.whalen" showAs="MS. DIANA WHALEN"/>
+        <TLCPerson id="383983f6-36fb-42d8-8572-124d42f38c58" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="167d0d25-2b1b-4355-a32d-f547991f14f1" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="ff1ba834-24ba-4676-b51f-ded3a3b60dd5" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -28,28 +28,13 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We'll begin the daily routine.</p>
       </speech>
-      <petitions>
-        <heading>PRESENTING AND READING PETITIONS</heading>
-      </petitions>
-      <papers>
-        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </papers>
-      <papers>
-        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </papers>
-      <ministerialStatements>
-        <heading>STATEMENTS BY MINISTERS</heading>
-      </ministerialStatements>
-      <noticesOfMotion>
-        <heading>GOVERNMENT NOTICES OF MOTION</heading>
-      </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Premier.</p>
         </speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you permit me to do an introduction before I introduce the bill, please?</p>
         </speech>
@@ -57,12 +42,19 @@
           <from>MR. SPEAKER</from>
           <p>Most certainly.</p>
         </speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
           <from>MR. CORBETT</from>
           <p>Thank you, I do this with a great deal of pride. Mr. Speaker, you as the son of a steelworker, myself as a son of a coal miner, and to all of us who have loved ones who worked in industry across this great province of ours, today we have a group who were known mostly as the "disenfranchised widows." When I call them by name, if they would stand I would appreciate it, and after their names maybe they will receive the warm greeting of the House: Betty Bauman; Carmelita MacIsaac, and Carmelita, as many of you may know, has a son named Ashley; Deborah MacDonald; Rose Connolly; Beverly MacLean; Diane Laird; and Velma Redden. These are some of the disenfranchised widows. (Applause)</p>
         </speech>
-        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery this morning, and hope they enjoy this morning's proceedings.</p>
-<p><b>Bill No. 54 - Entitled an Act to Amend Chapter 10 of the Acts of 1994-95. The Workers' Compensation Act, to Extend Pension Entitlement to More Workers' Widows. (Hon. Frank Corbett)</b></p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>We welcome all our guests to the gallery this morning, and hope they enjoy this morning's proceedings.</p>
+        </speech>
+        <other>
+          <p>
+            <b> Bill No. 54 - Entitled an Act to Amend Chapter 10 of the Acts of 1994-95. The Workers' Compensation Act, to Extend Pension Entitlement to More Workers' Widows. (Hon. Frank Corbett)</b>
+          </p>
+        </other>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>Ordered that this bill be read a second time on a future day.</p>
@@ -74,91 +66,73 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Halifax Clayton Park.</p>
         </speech>
-        <debateSection>
-          <num title="470">RESOLUTION NO. 470</num>
-          <speech by="#08ecdd96-bc51-4f9f-bb87-7a7b5060d8c2"><from>MS. DIANA WHALEN</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#67b70bd5-9657-4c87-9da4-d89a69594eb3"><num title="470">RESOLUTION NO. 470</num><from>MS. DIANA WHALEN</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas this Sunday, April 21, 2013, the Canadian Lebanon Society of Halifax will gather to celebrate the 13<sup>th</sup> Annual Day of the Lebanese Emigrant; and</p>
 <p>Whereas this event will be especially momentous, as the Canadian Lebanon Society of Halifax will also be celebrating 75 years of representing the Lebanese community in HRM: and</p>
 <p>Whereas Lebanese emigrants have a long history of enriching the economic, cultural, and social fabric of Halifax, and indeed our province, dating back to the 1880s;</p>
 <p>Therefore be it resolved that all members of the House of Assembly extend both our congratulations and appreciation to President Lena Diab and all members of the Canadian Lebanon Society of Halifax on these milestone occasions, and celebrate and acknowledge the accomplishments of all Lebanese emigrants here in our great country and province.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hants West.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="471">RESOLUTION NO. 471</num>
-          <speech by="#72906878-3b4e-496f-adc4-15b4975f3aa7"><from>MR. CHUCK PORTER</from><p>Mr. Speaker, on behalf of the Leader of the Progressive Conservative Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#ff1ba834-24ba-4676-b51f-ded3a3b60dd5"><num title="471">RESOLUTION NO. 471</num><from>MR. CHUCK PORTER</from><p>Mr. Speaker, on behalf of the Leader of the Progressive Conservative Party, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Deborah Anne Benedict, a local Port Williams resident, contributed to her community through her membership and participation in the Port Williams Baptist Church, Port Williams Women's Institute, the Adopt-a-Highway Program, the village's Christmas Tree Lighting, Remembrance Day, and Apple Blossom Princess programs, as well as serving on the Annapolis Valley Chamber of Commerce Board; and</p>
 <p>Whereas she and her husband owned and operated LRB Fabricators; and</p>
 <p>Whereas volunteerism and small business are the heart of rural Nova Scotia;</p>
 <p>Therefore be it resolved that all members of this House of Assembly send condolences to the family and friends of Deborah Anne Benedict, and honour her for her contributions to her community.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Preston.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="472">RESOLUTION NO. 472</num>
-          <speech by="#aef785d7-7697-4453-8f9c-eef26e4928c3"><from>HON. KEITH COLWELL</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#383983f6-36fb-42d8-8572-124d42f38c58"><num title="472">RESOLUTION NO. 472</num><from>HON. KEITH COLWELL</from><p>Mr. Speaker, on behalf of the Leader of the Official Opposition, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the year 2013 marks the 65<sup>th</sup> Anniversary of the State of Israel's independence, with Monday, April 15<sup>th</sup> marking Israel's Independence Day; and</p>
 <p>Whereas for 65 years Israel has survived in the face of threats to its very existence, and succeeded against all odds; and</p>
 <p>Whereas today, 65 years later, Israel consists of thriving cities, has embarked on and embraced innovation, built a dynamic economy, advanced the rights of its citizens, and has led the way in science, technology, medicine, and the arts;</p>
 <p>Therefore be it resolved that all members of this House acknowledge the 65<sup>th</sup> Anniversary of the State of Israel's independence and honour the birth, growth, and success of the country, which has been defined by courage and sustained by core values of Jewish history.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="473">RESOLUTION NO. 473</num>
-          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#167d0d25-2b1b-4355-a32d-f547991f14f1"><num title="473">RESOLUTION NO. 473</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Clean Nova Scotia is a not-for-profit organization founded in 1988, which collaborates with individuals, government business, and communities to help protect and improve the environment; and</p>
 <p>Whereas the Clean Across Nova Scotia event is a community-led cleanup that takes place province-wide over two days, beginning today, that last year saw nearly 8,000 Nova Scotians take part; and</p>
 <p>Whereas over 110 teams have registered, including the Memorial Dirt Devils from Sydney Mines, Cape Breton, the "Lean Mean Cleaning Machine" from Annapolis Royal, and the Main Street Business Association led by mascot Main Street Mikey;</p>
 <p>Therefore be it resolved that all members of this House of Assembly demonstrate their support of this cleanup through events today and tomorrow across the province, and help promote a cleaner, greener Nova Scotia.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Bedford-Birch Cove.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="474">RESOLUTION NO. 474</num>
-          <speech by="#a48067d1-5e84-46e6-907e-76a541767728"><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#e6d39654-bcf3-4494-b7df-bbb286f0eeef"><num title="474">RESOLUTION NO. 474</num><from>MS. KELLY REGAN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Keith Thompson owned his own employment placement business, Thompson and Associates, and then developed ISSIMA Executive Coaching, where his gifts as a mentor gave encouragement to many; and</p>
 <p>Whereas Keith was a beloved member of the Bedford United Church family, serving as an elder, and was chair of church council for several years as well as a member of the musical group Spirit Rising, where his considerable talents as a singer and instrumentalist were on display; and</p>
 <p>Whereas Keith also served his community in many ways including the IWK Board of Directors, Kiwanis, Cafe 12, and HeartWood Centre for Community Youth Development;</p>
 <p>Therefore be it resolved that all members of this House of Assembly send their condolences to the family of this kind, funny, inspirational man - Keith Thompson will be missed.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
-        </debateSection>
       </noticesOfMotion>
-      <debateSection>
-        <heading>ORDERS OF THE DAY</heading>
-      </debateSection>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -169,7 +143,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Deputy Government House Leader.</p>
         </speech>
-        <speech by="#c7f2d366-8ba0-4263-98e0-bdaa9336415f">
+        <speech by="#a996b53e-4f1e-4eaf-8872-bcb8250781dc">
           <from>MR. CLARRIE MACKINNON</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -196,7 +170,7 @@
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hour of 4:00 p.m. to 10:00 p.m. on Monday.</p>
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. I move that the House do now rise to meet from the hour of 4:00 p.m. to 10:00 p.m. on Monday.</p>
 <p>After the daily routine, we will be doing Committee of the Whole House on Supply and then time permitting, we may attempt some bills, which would be Public Bills for Second Reading, Bill Nos. 36, 37, 42, 51 and 54.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House now rise to meet again on Monday, April 22<sup>nd</sup>, between the hours of 4:00 p.m. and 10:00 p.m.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>

@@ -4,18 +4,18 @@
     <meta>
       <references source="#source">
         <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
-        <TLCPerson id="4caa514a-7759-421a-8574-ba7d1932db92" href="/ontology/person/ca-ns.jamie.baillie" showAs="Hon. Jamie Baillie"/>
-        <TLCPerson id="32a29c39-915c-40e7-b749-7c09299ed1f7" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
-        <TLCPerson id="803ea908-016e-4462-b4b5-e2a418f97f23" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
-        <TLCPerson id="de2082f3-cf3a-4955-8a4e-4f1bf0ac1301" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
-        <TLCPerson id="5c3f8e78-5002-4c61-9c57-730090867f1b" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
-        <TLCPerson id="8b070bb9-483e-4dec-90fa-9496ca56f8a9" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
-        <TLCPerson id="250f8b2e-9af9-4ca7-9778-41b96426667e" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
-        <TLCPerson id="799b989e-2c9d-4331-b5f3-5f78d3447b57" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
-        <TLCPerson id="1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
-        <TLCPerson id="e14ef5f0-e76a-4413-842d-24e0bfcba8d2" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
-        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCPerson id="167d0d25-2b1b-4355-a32d-f547991f14f1" href="/ontology/person/ca-ns.andrew.younger" showAs="MR. ANDREW YOUNGER"/>
+        <TLCPerson id="f1cc8e37-7d99-4321-ad91-bc220a7aa4f7" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="14492167-7c6c-4e2f-b69d-0005f8725281" href="/ontology/person/ca-ns.jamie.baillie" showAs="Hon. Jamie Baillie"/>
+        <TLCPerson id="e8e9da63-3a4a-4d12-9aa9-a6b535fe417b" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="837c4805-5964-45e9-a424-12fccb13f959" href="/ontology/person/ca-ns.keith.bain" showAs="MR. KEITH BAIN"/>
+        <TLCPerson id="d40ad9c0-f916-4a57-89ac-afb555ab1b1b" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="14ec3253-c3e6-4d10-8c3d-6370348053b8" href="/ontology/person/ca-ns.darrell.dexter" showAs="HON. DARRELL DEXTER"/>
+        <TLCPerson id="f2aed5f8-01de-4e8a-8cda-93c15d75fe4d" href="/ontology/person/ca-ns.mat.whynott" showAs="MR. MAT WHYNOTT"/>
+        <TLCPerson id="1391921b-699a-4971-915b-f9b9d6f7b3da" href="/ontology/person/ca-ns.wayne.j.gaudet" showAs="HON. WAYNE GAUDET"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
     </meta>
@@ -32,25 +32,13 @@
         <from>MR. SPEAKER</from>
         <p>Order, please. We will begin the daily routine.</p>
       </speech>
-      <petitions>
-        <heading>PRESENTING AND READING PETITIONS</heading>
-      </petitions>
-      <papers>
-        <heading>PRESENTING REPORTS OF COMMITTEES</heading>
-      </papers>
-      <papers>
-        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
-      </papers>
-      <ministerialStatements>
-        <heading>STATEMENTS BY MINISTERS</heading>
-      </ministerialStatements>
       <noticesOfMotion>
         <heading>GOVERNMENT NOTICES OF MOTION</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Premier.</p>
         </speech>
-        <speech by="#799b989e-2c9d-4331-b5f3-5f78d3447b57">
+        <speech by="#14ec3253-c3e6-4d10-8c3d-6370348053b8">
           <from>HON. DARRELL DEXTER</from>
           <p>I wonder if I might begin with an introduction.</p>
         </speech>
@@ -62,78 +50,70 @@
 <p>Thank you very much for being with us and I hope everyone will join us in acknowledging them here today. (Applause)</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>We welcome all our guests to the gallery and hope they enjoy this afternoon's proceedings.</p>
 <p>The honourable Premier.</p></speech>
-        <debateSection>
-          <num title="202">RESOLUTION NO. 202</num>
-          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="" as="#premier" status="undefined"><num title="202">RESOLUTION NO. 202</num><from>THE PREMIER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas it is important for Nova Scotians to have a conversation with their loved ones regarding their end-of-life wishes; and</p>
 <p>Whereas research shows that Nova Scotians who do talk to their families about their end-of-life wishes have a greater satisfaction with their end-of-life care and take greater advantage of hospice palliative care options; and</p>
 <p>Whereas today, April 16th, the Quality End of Life Care Coalition of Nova Scotia is participating in national Speak Up! Day, to help make Nova Scotians more aware of end-of-life care and ensure all individuals die with dignity and respect;</p>
 <p>Therefore be it resolved that all members of the House join me in marking today, April 16th, as Advance Care Planning Day in Nova Scotia, and commend the Quality End of Life Care Coalition of Nova Scotia and the Nova Scotia Hospice Palliative Care Association for encouraging Nova Scotians to speak with their family about their end-of-life wishes.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>It is agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Health and Wellness.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="203">RESOLUTION NO. 203</num>
-          <speech by="#8b070bb9-483e-4dec-90fa-9496ca56f8a9"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#e8e9da63-3a4a-4d12-9aa9-a6b535fe417b"><num title="203">RESOLUTION NO. 203</num><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas chronic obstructive pulmonary disease can leave its sufferers unable to breath, causing intense anxiety and fear; and</p>
 <p>Whereas Capital District Health Authority has created a new home-based program called Inspired, and its goal is to eliminate patient anxiety by teaching participants to administer their own medications, teaching relaxation techniques and ways to move the body while using less energy; and</p>
 <p>Whereas this community-based treatment approach improves patient care while reducing health system costs, and has already reduced emergency department admission rates by 70 per cent for those enrolled in the program;</p>
 <p>Therefore be it resolved that all members of the House of Assembly commend the Capital District Health Authority for their commitment to community-based health treatment that not only reduces overall costs to the health care system, but keeps patients healthier and at home longer.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Premier.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="204">RESOLUTION NO. 204</num>
-          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="" as="#premier" status="undefined"><num title="204">RESOLUTION NO. 204</num><from>THE PREMIER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas in the early hours of Friday, April 13<sup>th</sup>, a vehicle travelling on Prince Albert Road in Dartmouth went out of control and plunged into Lake Banook; and</p>
 <p>Whereas Nick Kaiser witnessed the accident and, with no consideration for his own safety, jumped into the water, smashed the passenger side window and dragged the lone occupant out of the vehicle while his girlfriend Faith Wesson called 911; and</p>
 <p>Whereas these good Samaritans stayed with the young man and did everything they could until help arrived;</p>
 <p>Therefore be it resolved that members of the House recognize the bravery and selflessness of Nick Kaiser and Faith Wesson, two young Nova Scotians who in a world where many people might have looked the other way, have shown us that there are still those who would risk their own safety to help someone else.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Minister of Communities, Culture and Heritage.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="205">RESOLUTION NO. 205</num>
-          <speech by="#32a29c39-915c-40e7-b749-7c09299ed1f7"><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of Natural Resources, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#d40ad9c0-f916-4a57-89ac-afb555ab1b1b"><num title="205">RESOLUTION NO. 205</num><from>HON. DAVID WILSON</from><p>Mr. Speaker, on behalf of the honourable Minister of Natural Resources, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas each year Pulp &amp; Paper Canada magazine's Safest Mill in Canada competition sees 45 to 50 pulp or paper mills in Canada compete for top safety honours in three categories; and</p>
 <p>Whereas this year Nova Scotia's Northern Pulp had the lowest total recordable incident rate in Canada, with just one incident in 2011, compared to other mills in its category; and</p>
 <p>Whereas Northern Pulp has won Safest Mill in Canada for 2011 and previously won the same award in 2005;</p>
 <p>Therefore be it resolved that members of this House applaud all the workers at Northern Pulp Nova Scotia for its safety record and recognize their win of Safest Mill in Canada for 2011 as an outstanding national achievement.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
-        </debateSection>
       </noticesOfMotion>
       <debateSection>
         <heading>INTRODUCTION OF BILLS</heading>
-        <debateSection>
-          <heading>Bill No. 22 - Entitled an Act Respecting the Licensing and Qualifications of, and Practice Standards for, Mortgage Lenders, Mortgage Brokerages, Mortgage Brokers, Associate Mortgage Brokers and Mortgage Administrators. (Hon. John MacDonell)</heading>
-        </debateSection>
-        <debateSection>
-          <heading>Bill No. 23 - Entitled an Act to Amend Chapter 120 of the Revised Statutes of 1989. The Day Care Act. (Ms. Kelly Regan)</heading>
-          <speech by="" as="#speaker" status="undefined">
-            <from>MR. SPEAKER</from>
-            <p>Ordered that these bills be read a second time on a future day.</p>
-          </speech>
-        </debateSection>
+        <other>
+          <p>
+            <b> Bill No. 22 - Entitled an Act Respecting the Licensing and Qualifications of, and Practice Standards for, Mortgage Lenders, Mortgage Brokerages, Mortgage Brokers, Associate Mortgage Brokers and Mortgage Administrators. (Hon. John MacDonell)</b>
+          </p>
+        </other>
+        <other>
+          <p>
+            <b> Bill No. 23 - Entitled an Act to Amend Chapter 120 of the Revised Statutes of 1989. The Day Care Act. (Ms. Kelly Regan)</b>
+          </p>
+        </other>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Ordered that these bills be read a second time on a future day.</p>
+        </speech>
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION</heading>
@@ -141,91 +121,73 @@
           <from>MR. SPEAKER</from>
           <p>The honourable member for Clare.</p>
         </speech>
-        <debateSection>
-          <num title="206">RESOLUTION NO. 206</num>
-          <speech by="#5c3f8e78-5002-4c61-9c57-730090867f1b"><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#1391921b-699a-4971-915b-f9b9d6f7b3da"><num title="206">RESOLUTION NO. 206</num><from>HON. WAYNE GAUDET</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas April 15<sup>th</sup> to April 21<sup>st</sup> marks National Volunteer Week; and</p>
 <p>Whereas this year's theme - Volunteers: Passion, Action, Impact - highlights the valuable contributions volunteers make to ensure our cities, towns, province and country are even better places to live; and</p>
 <p>Whereas Nova Scotia is truly fortunate in that volunteers in our province devoted 207 hours on average to the organizations or causes they have chosen to support, the highest average in Canada;</p>
 <p>Therefore be it resolved that all members of the Legislature acknowledge April 15<sup>th</sup> to April 21<sup>st</sup> as National Volunteer Week and pay tribute to the countless volunteers throughout Nova Scotia who make such a difference to the lives of so many.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Victoria-The Lakes.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="207">RESOLUTION NO. 207</num>
-          <speech by="#250f8b2e-9af9-4ca7-9778-41b96426667e"><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#837c4805-5964-45e9-a424-12fccb13f959"><num title="207">RESOLUTION NO. 207</num><from>MR. KEITH BAIN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas February 2012 marked the 20<sup>th</sup> Anniversary of the Victoria Standard newspaper, located in Baddeck; and</p>
 <p>Whereas since its inception, the Standard has kept readers informed of happenings and events of the Victoria County area and has grown to over 5,000 readers, both at home and abroad; and</p>
 <p>Whereas the staff of the Standard is comprised entirely of Victoria County residents who take pride in both their publication and their county;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate publisher and editor Jim Morrow, advertising representative Jim Ryan, office manager John Johnson, and all the staff members on the 20<sup>th</sup> Anniversary of the Victoria Standard newspaper and wish them many more years of continued success.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Hammonds Plains-Upper Sackville.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="208">RESOLUTION NO. 208</num>
-          <speech by="#de2082f3-cf3a-4955-8a4e-4f1bf0ac1301"><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#f2aed5f8-01de-4e8a-8cda-93c15d75fe4d"><num title="208">RESOLUTION NO. 208</num><from>MR. MAT WHYNOTT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas the job of an entertainment reporter involves chumming up with local and international talent; and</p>
 <p>Whereas 13-year-old Cassius Morris from Hammonds Plains has made a name for himself over the past year as a young journalist and YouTube blogger; and</p>
 <p>Whereas Cassius Morris has interviewed the likes of Larry the Cable Guy, These Kids Wear Crowns, Gloryhound, and Peter Singer of KISS;</p>
 <p>Therefore be it resolved that this House of Assembly applaud 13-year-old Cassius Morris for being a positive role model for young Nova Scotians, congratulate him on his success achieved to date, and wish him all the best in the future.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Dartmouth East.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="209">RESOLUTION NO. 209</num>
-          <speech by="#1e5b7bdc-363b-4df4-8258-edcf8f2bf7fb"><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#167d0d25-2b1b-4355-a32d-f547991f14f1"><num title="209">RESOLUTION NO. 209</num><from>MR. ANDREW YOUNGER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Halifax Regional Police Chief Frank Beazley has been on the job serving residents in the Halifax area since 1970 and today announced his retirement; and</p>
 <p>Whereas during his tenure, Chief Beazley has received the Police Exemplary Service Medal and the Queen's Golden Jubilee Medal and is a member of the Order of Merit of Police Forces; and</p>
 <p>Whereas Chief Beazley has become a leader in the country's policing community, modernizing policing here in HRM and taking an active role in engaging our communities to make Halifax Regional Municipality a safer, more peaceful place to live;</p>
 <p>Therefore be it resolved that all members of this House of Assembly recognize the immense contribution of Halifax Regional Police Chief Frank Beazley and wish him many happy years to spend with his family during retirement.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Cape Breton North.</p></speech>
-        </debateSection>
-        <debateSection>
-          <num title="210">RESOLUTION NO. 210</num>
-          <speech by="#e14ef5f0-e76a-4413-842d-24e0bfcba8d2"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+        <speech by="#f1cc8e37-7d99-4321-ad91-bc220a7aa4f7"><num title="210">RESOLUTION NO. 210</num><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
 <p>Whereas Northside native and noted businesswoman Annette Verschuren is teaming up with a Toronto-based company to commercialize energy storage technologies; and</p>
 <p>Whereas Ms. Verschuren will work with Northwater Capital on this venture as they try to establish Canada's first energy storage park, which will store electric energy for later use; and</p>
 <p>Whereas Ms. Verschuren's entrepreneurial spirit, proven track record in growing companies, and extensive network with business, government, and universities makes her an excellent selection for the executive chair;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Annette Verschuren and Northwater Capital as they explore cutting-edge technology in the energy field.</p>
 <p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
-          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p></speech>
-        </debateSection>
       </noticesOfMotion>
-      <debateSection>
-        <heading>ORDERS OF THE DAY</heading>
-      </debateSection>
       <debateSection>
         <heading>GOVERNMENT BUSINESS</heading>
         <speech by="" as="#speaker" status="undefined">
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, would you please call the order of business, Government Motions.</p>
         </speech>
@@ -236,7 +198,7 @@
           <from>MR. SPEAKER</from>
           <p>The honourable Government House Leader.</p>
         </speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23">
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d">
           <from>HON. FRANK CORBETT</from>
           <p>Mr. Speaker, I move that you do now leave the Chair and that the House resolve itself into a Committee of the Whole House on Supply unto Her Majesty.</p>
         </speech>
@@ -259,7 +221,7 @@
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>The honourable Government House Leader.</p></speech>
-        <speech by="#803ea908-016e-4462-b4b5-e2a418f97f23"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. After the daily routine and Question Period, we'll go into Supply, and if time allows, we will call government bills for second reading: Bill Nos. 5, 9, 11, 13, 17, 20, and 22.</p>
+        <speech by="#ff6e42ca-5ef8-4ebd-a08f-3edab6a6ec5d"><from>HON. FRANK CORBETT</from><p>Madam Speaker, that concludes the government's business for today. After the daily routine and Question Period, we'll go into Supply, and if time allows, we will call government bills for second reading: Bill Nos. 5, 9, 11, 13, 17, 20, and 22.</p>
 <p>I move that the House do now rise to meet again tomorrow from the hours of 12:00 noon to 8 p.m.</p></speech>
         <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do now rise to meet again tomorrow at 12:00 noon.</p>
 <p>Is it agreed?</p>
@@ -272,14 +234,16 @@
       </debateSection>
       <noticesOfMotion>
         <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
-        <debateSection>
-          <num title="211">RESOLUTION NO. 211</num>
-          <speech by="#4caa514a-7759-421a-8574-ba7d1932db92"><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
+        <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><num title="211">RESOLUTION NO. 211</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
 <p>Whereas Donna Roberts has retired after 30 years as an office clerk with the Town of Oxford; and</p>
 <p>Whereas Donna Roberts has enjoyed her years with the town and has been part of many changes, most notably going from typewriters to computers; and</p>
 <p>Whereas the Town of Oxford hosted a farewell party in Donna's honour and will miss her greatly;</p>
 <p>Therefore be it resolved that all members of this House of Assembly congratulate Donna Roberts on her retirement and wish her all the best in the future.</p></speech>
-        </debateSection>
+        <speech by="#14492167-7c6c-4e2f-b69d-0005f8725281"><num title="212">RESOLUTION NO. 212</num><from>Hon. Jamie Baillie</from><p>I hereby give notice that on a future day I will move the adoption of the following resolution:</p>
+<p>Whereas Oxford now lays claim to having this province's second fire department pipes and drums band; and</p>
+<p>Whereas Pipe Major Tom Rushton, piper Tory Rushton and drummer Dave Joudrey join Brent Johnstone, Cynthia Babineau and Virginia King as members of the Oxford Fire Department Pipes and Drums; and</p>
+<p>Whereas the band was started to support Oxford and surrounding communities at events such as parades legion and community events, schools and fire stations;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate the Oxford Fire Department Pipes and Drums and wish them all the best in the future.</p></speech>
       </noticesOfMotion>
     </debateBody>
   </debate>
