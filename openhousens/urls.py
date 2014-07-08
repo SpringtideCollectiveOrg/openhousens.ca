@@ -25,7 +25,6 @@ speeches_patterns = [
     url(r'^sections/(?P<pk>\d+)$', SectionView.as_view(), name='section-id-view'),
     # url(r'^speeches$', SectionList.as_view(), name='section-list'),
 
-    url(r'^(?P<full_slug>.+)\.an$', SectionViewAN.as_view(), name='section-view'),
     url(r'^(?P<full_slug>.+)$', SectionView.as_view(), name='section-view'),
 ]
 
