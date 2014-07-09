@@ -28,16 +28,17 @@ ALLOWED_HOSTS = ['*']
 
 
 # Application definition
+try:
+    import debug_toolbar
+    DEBUG_TOOLBAR = True
+except ImportError:
+    DEBUG_TOOLBAR = False
 
 INSTALLED_APPS = (
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
+    'django.contrib.auth', # needed by instances
+    'django.contrib.contenttypes', # needed by django.contrib.auth
     'django.contrib.staticfiles',
     # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
-    'django.contrib.humanize',
     'haystack',
     'django_bleach',
     'popolo',
@@ -45,18 +46,16 @@ INSTALLED_APPS = (
     'speeches',
     'legislature',
 )
+if DEBUG_TOOLBAR:
+    INSTALLED_APPS = INSTALLED_APPS + ('debug_toolbar',)
 
 MIDDLEWARE_CLASSES = (
-    'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
-    'speeches.middleware.InstanceMiddleware',
 )
+if DEBUG_TOOLBAR:
+    MIDDLEWARE_CLASSES = MIDDLEWARE_CLASSES + ('debug_toolbar.middleware.DebugToolbarMiddleware',)
 
 ROOT_URLCONF = 'openhousens.urls'
 
