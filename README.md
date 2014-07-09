@@ -56,11 +56,9 @@ Speech.objects.filter(section=None)
 
 All sections should have speeches:
 
-```sql
-from speeches.models import Section
-for section in Section.objects.filter(speech__section_id=None).filter(children__parent_id=None):
-    print(section.get_ancestors[0].start_date, section.title)
-```
+    from speeches.models import Section
+    for section in Section.objects.filter(speech__section_id=None).filter(children__parent_id=None):
+        print(section.get_ancestors[0].start_date, section.title)
 
 ## Deployment
 
@@ -97,7 +95,6 @@ get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 Setup the database (you can run `heroku pg:reset` to start over):
 
     heroku run python manage.py syncdb --noinput
-    heroku run python manage.py migrate
 
 ## Bugs? Questions?
 
