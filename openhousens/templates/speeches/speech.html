@@ -74,10 +74,6 @@
     {% endif %}
     {% endifchanged %}
   {% endif %}
-
-  {% for tag in speech.tags.all %}
-    <span class="label">{{ tag }}</span>
-  {% endfor %}
 </div>
 
 
@@ -85,7 +81,7 @@
   {% if highlight %}
     <p class="search">
       {% if speech.section_id %}
-        <a title="Link in context" href="{% url 'legislature:section-view' speech.section.get_path %}#s{{ speech.id }}">
+        <a title="Link in context" href="{% url 'legislature:section-view' speech.section.slug %}#s{{ speech.id }}">
       {% else %}
         <a title="Link" href="{% url 'speeches:speech-view' speech.id %}">
       {% endif %}
@@ -102,7 +98,7 @@
 {% if not result.object %}
   <div class="speech__links">
     {% if speech.section_id %}
-      <a title="Link in context" href="{% if section %}{% url 'legislature:section-view' section.get_path %}{% else %}{% url 'legislature:section-view' speech.section.get_path %}{% endif %}#s{{ speech.id }}"><i class="speech-icon icon-link-in-context"></i>Link in context</a>
+      <a title="Link in context" href="{% if section %}{% url 'legislature:section-view' section.slug %}{% else %}{% url 'legislature:section-view' speech.section.slug %}{% endif %}#s{{ speech.id }}"><i class="speech-icon icon-link-in-context"></i>Link in context</a>
     {% endif %}
       <a title="Link" href="{% url "speeches:speech-view" speech.id %}"><i class="speech-icon icon-link"></i>Link</a>
   </div>

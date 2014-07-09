@@ -12,6 +12,6 @@
     <input type="submit" value="Search">
   </form>
 
-  <p>The latest transcript is from <a href="{% url 'legislature:section-view' hansard.get_path %}"><strong>{{ hansard.start_date }}</strong></a>.</p>
+  <p>The latest transcript is from <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a>.</p>
 </div>
 {% endblock %}

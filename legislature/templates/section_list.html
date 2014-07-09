@@ -27,7 +27,7 @@
     <div class="col-xs-10">
       <ul class="list-inline">
         {% for hansard in latest|slice:":16" %}<li>
-          <a href="{% url 'legislature:section-view' hansard.get_path %}">{{ hansard.start_date|date:"F jS" }}</a>
+          <a href="{% url 'legislature:section-view' hansard.slug %}">{{ hansard.start_date|date:"F jS" }}</a>
         </li>{% endfor %}
       </ul>
     </div>

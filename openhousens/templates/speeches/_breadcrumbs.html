@@ -11,7 +11,7 @@
     {% if n.id == section.id %}
   <li class="active">{{ n.title }}</li>
     {% else %}
-  <li><a href="{% url 'legislature:section-view' n.get_path %}">{{ n.title }}</a></li>
+  <li><a href="{% url 'legislature:section-view' n.slug %}">{{ n.title }}</a></li>
     {% endif %}
   {% endfor %}
 {% elif month %}

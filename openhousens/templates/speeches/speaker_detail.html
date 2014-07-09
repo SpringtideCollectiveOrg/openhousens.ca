@@ -2,10 +2,9 @@
 {% load url from future %}
 {% load staticfiles %}
 {% load speech_utils %}
-{% load humanize %}
 {% load pagination_tags %}
 
-{% block title %}{% blocktrans with speaker=speaker.name %}View Speaker: {{ speaker }}{% endblocktrans %}{% endblock %}
+{% block title %}View Speaker: {{ speaker.name }}{% endblock %}
 
 {% block content %}
 
@@ -26,25 +25,25 @@
       <div class="speaker-page__stats">
         <div class="stat">
           <div class="stat__figure">
-            {{ section_count|intcomma }}
+            {{ section_count }}
           </div>
           <div class="stat__descriptor">
-              {% blocktrans count c=section_count %}Appearance{% plural %}Appearances{% endblocktrans %}
+              Appearances
           </div>
         </div>
         <div class="stat">
           <div class="stat__figure">
-            {{ paginator.count|intcomma }}
+            {{ paginator.count }}
           </div>
           <div class="stat__descriptor">
-            {% blocktrans count c=paginator.count %}Speech{% plural %}Speeches{% endblocktrans %}
+            Speeches
           </div>
         </div>
         {% if longest_speech %}{% with longest_speech.0 as speech %}
         <div class="stat">
           <div class="stat__figure">
             {% if speech.section %}
-            <a href="{% url 'legislature:section-view' speech.section.get_path %}#s{{ speech.id }}">
+            <a href="{% url 'legislature:section-view' speech.section.slug %}#s{{ speech.id }}">
             {% else %}
             <a href="{% url 'speeches:speech-view' speech.id %}">
             {% endif %}
@@ -82,9 +81,6 @@
 
     <ul class="unstyled">
         <li class="gutter-sizer"></li>
-        {% if not page_obj %}
-            <li class="speech">{% blocktrans with speaker=speaker.name %}{{ speaker }} has no recorded speeches yet.{% endblocktrans %}</li>
-        {% endif %}
         {% for speech in page_obj %}
             {% include "speeches/speech.html" with speech=speech nospeaker="1" truncate="1" %}
         {% endfor %}

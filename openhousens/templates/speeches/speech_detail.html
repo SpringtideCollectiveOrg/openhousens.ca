@@ -45,7 +45,7 @@
 
                 <div class="speech__links">
                     {% if object.section %}
-                      <a href="{% url 'legislature:section-view' object.section.get_path %}#s{{ object.id }}"><i class="speech-icon icon-link-in-context"></i>Show context</a>
+                      <a href="{% url 'legislature:section-view' object.section.slug %}#s{{ object.id }}"><i class="speech-icon icon-link-in-context"></i>Show context</a>
                     {% endif %}
                     {% if object.source_url %}
                       <a href="{{ object.source_url }}"><i class="speech-icon icon-link"></i>Source</a>

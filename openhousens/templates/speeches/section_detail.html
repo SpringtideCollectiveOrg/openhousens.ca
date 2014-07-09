@@ -18,14 +18,14 @@
 {% for speech in speeches %}
   <div class="row">
     <div class="col-xs-2">
-  {% if speech.section.parent.parent %}
+  {% if speech.section.parent.parent_id %}
       <div class="heading-level-1">{{ speech.section.parent.title }}</div>
       <div class="heading-level-2">{{ speech.section.title }}</div>
-  {% elif speech.section.parent %}
+  {% elif speech.section.parent_id %}
       <div class="heading-level-1">{{ speech.section.title }}</div>
   {% endif %}
     </div>
-    <div class="col-xs-10" id="s{{ node.id }}" class="{% if node.speaker %}{% else %}{% endif %}"{% if node.speaker.colour %} style="border-left-color: #{{ node.speaker.colour }};"{% endif %}>
+    <div class="col-xs-10" id="s{{ speech.id }}" class="{% if speech.speaker %}{% else %}{% endif %}"{% if speech.speaker.colour %} style="border-left-color: #{{ speech.speaker.colour }};"{% endif %}>
 {% include "speeches/speech.html" with speech=speech nosection="1" section=section noli=1 %}
     </div>
   </div>
