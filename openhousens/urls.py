@@ -7,11 +7,8 @@ from speeches.views import *
 # having a bunch of URLs that should 404 in our case. (2014-07-07)
 # @see https://github.com/mysociety/sayit/blob/master/speeches/urls.py
 
-# SayIt URLs we will never use are omitted. URLs that we override with the
-# legislature app are commented out.
+# SayIt URLs we will never use are omitted, as well as URLs that we override.
 speeches_patterns = [
-    # url(r'^$', InstanceView.as_view(), name='home'),
-
     url(r'^(?P<path>speaker)/?$', AddAnSRedirectView.as_view()),
     url(r'^(?P<path>speech)/?$', AddAnSRedirectView.as_view(suffix='es')),
 
@@ -21,15 +18,9 @@ speeches_patterns = [
 
     url(r'^speakers$', SpeakerList.as_view(), name='speaker-list'),
     url(r'^speaker/(?P<slug>.+)$', SpeakerView.as_view(), name='speaker-view'),
-
-    url(r'^sections/(?P<pk>\d+)$', SectionView.as_view(), name='section-id-view'),
-    # url(r'^speeches$', SectionList.as_view(), name='section-list'),
-
-    url(r'^(?P<full_slug>.+)$', SectionView.as_view(), name='section-view'),
 ]
 
 urlpatterns = patterns('',
     (r'', include('legislature.urls', namespace='legislature', app_name='legislature')),
     (r'', include(speeches_patterns, namespace='sayit', app_name='speeches')),
-    # (r'', include('speeches.urls', namespace='sayit', app_name='speeches')),
 )
