@@ -46,6 +46,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'speeches.middleware.InstanceMiddleware', # needed by SayIt views
 )
 
 ROOT_URLCONF = 'openhousens.urls'
@@ -123,6 +124,11 @@ BLEACH_ALLOWED_ATTRIBUTES = {
 
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
+)
+
+from django.conf import global_settings
+TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
+    'django.core.context_processors.request',
 )
 
 if DEBUG:

@@ -14,8 +14,6 @@ speeches_patterns = [
 
     url(r'^search/', lambda request: InstanceSearchView()(request), name='haystack_search'),
 
-    url(r'^speech/(?P<pk>\d+)$', SpeechView.as_view(), name='speech-view'),
-
     url(r'^speakers$', SpeakerList.as_view(), name='speaker-list'),
     url(r'^speaker/(?P<slug>.+)$', SpeakerView.as_view(), name='speaker-view'),
 ]

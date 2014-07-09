@@ -1,0 +1,39 @@
+{% spaceless %}
+{% if has_previous or has_next %}
+<ul class="pagination">
+  {% if has_previous %}
+    <li><a href="{% if get_params %}?{{ get_params }}&amp;{% else %}?{% endif %}page={{ previous }}">&laquo; Prev</a></li>
+  {% else %}
+    <li class="disabled"><span>&laquo; Prev</span></li>
+  {% endif %}
+
+  {% if not in_leading_range %}
+    {% for p in pages_outside_trailing_range %}
+      <li><a href="{% if get_params %}?{{ get_params }}&amp;{% else %}?{% endif %}page={{ p }}">{{ p }}</a></li>
+    {% endfor %}
+    <li class="ellipsis"><span>…</span></li>
+  {% endif %}
+
+  {% for p in page_range %}
+    {% if p == page %}
+      <li class="active"><span>{{ p }} <span class="sr-only">(current)</span></span></li>
+    {% else %}
+      <li><a href="{% if get_params %}?{{ get_params }}&amp;{% else %}?{% endif %}page={{ p }}">{{ p }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if not in_trailing_range %}
+    <li class="ellipsis"><span>…</span></li>
+    {% for p in pages_outside_leading_range reversed %}
+      <li><a href="{% if get_params %}?{{ get_params }}&amp;{% else %}?{% endif %}page={{ p }}">{{ p }}</a></li>
+    {% endfor %}
+  {% endif %}
+
+  {% if has_next %}
+    <li><a href="{% if get_params %}?{{ get_params }}&amp;{% else %}?{% endif %}page={{ next }}">Next &raquo;</a></li>
+  {% else %}
+    <li class="disabled"><span>Next &raquo;</span></li>
+  {% endif %}
+</ul>
+{% endif %}
+{% endspaceless %}

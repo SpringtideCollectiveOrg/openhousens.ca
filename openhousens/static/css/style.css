@@ -5,11 +5,14 @@ grey   #58585b
 green  #8cc63e
 */
 
-a {
+a,
+.pagination li a {
   color: #359ebb;
 }
 a:hover,
-a:focus {
+a:focus,
+.pagination li a:hover,
+.pagination li a:focus {
   color: #1f7187; /* HSB: same hue, +5% saturation, -20% brightness */
 }
 
@@ -54,6 +57,34 @@ a:focus {
 
 .push-down {
   margin-top: 40px;
+}
+
+.pagination .active span,
+.pagination .active span:hover,
+.pagination .active span:focus {
+  background-color: #359ebb;
+  border-color: #359ebb;
+}
+.pagination .disabled span,
+.pagination .disabled span:hover,
+.pagination .disabled span:focus,
+.pagination .ellipsis span,
+.pagination .ellipsis span:hover,
+.pagination .ellipsis span:focus {
+  color: #58585b;
+}
+.pagination .ellipsis span:hover,
+.pagination .ellipsis span:focus {
+  background-color: transparent;
+}
+
+.heading-level-1,
+.heading-level-2 {
+  color: #58585b;
+  font-size: 12px;
+}
+.heading-level-1 {
+  font-weight: bold;
 }
 
 h1,
