@@ -28,11 +28,6 @@ ALLOWED_HOSTS = ['*']
 
 
 # Application definition
-try:
-    import debug_toolbar
-    DEBUG_TOOLBAR = True
-except ImportError:
-    DEBUG_TOOLBAR = False
 
 INSTALLED_APPS = (
     'django.contrib.auth', # needed by instances
@@ -46,16 +41,12 @@ INSTALLED_APPS = (
     'speeches',
     'legislature',
 )
-if DEBUG_TOOLBAR:
-    INSTALLED_APPS = INSTALLED_APPS + ('debug_toolbar',)
 
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
-if DEBUG_TOOLBAR:
-    MIDDLEWARE_CLASSES = MIDDLEWARE_CLASSES + ('debug_toolbar.middleware.DebugToolbarMiddleware',)
 
 ROOT_URLCONF = 'openhousens.urls'
 
@@ -133,3 +124,20 @@ BLEACH_ALLOWED_ATTRIBUTES = {
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
 )
+
+if DEBUG:
+    LOGGING = {
+        'version': 1,
+        'handlers': {
+            'console': {
+                'level': 'DEBUG',
+                'class': 'logging.StreamHandler',
+            },
+        },
+        'loggers': {
+            'django.db.backends': {
+                'level': 'DEBUG',
+                'handlers': ['console'],
+            },
+        }
+    }
