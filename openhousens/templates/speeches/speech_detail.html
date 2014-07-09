@@ -1,6 +1,5 @@
 {% extends 'speeches/base.html' %}
 {% load url from future %}
-{% load i18n %}
 {% load staticfiles %}
 {% load speech_utils %}
 
@@ -30,7 +29,7 @@
                             <a href="{% url "speeches:speaker-view" object.speaker.slug %}">{{ object.speaker }}</a>
                         </span>
                     {% else %}
-                        {% trans 'Unknown speaker' %}
+                        Unknown speaker
                     {% endif %}
                 </div>
 
@@ -41,15 +40,15 @@
               {% endif %}
 
               {% if object.section %}
-                {% include "speeches/_breadcrumbs.html" with section=object.section all=1 %}
+                {% include "speeches/_breadcrumbs.html" with section=object.section %}
               {% endif %}
 
                 <div class="speech__links">
                     {% if object.section %}
-                      <a href="{% url 'speeches:section-view' object.section.get_path %}#s{{ object.id }}"><i class="speech-icon icon-link-in-context"></i>{% trans "Show context" %}</a>
+                      <a href="{% url 'legislature:section-view' object.section.get_path %}#s{{ object.id }}"><i class="speech-icon icon-link-in-context"></i>Show context</a>
                     {% endif %}
                     {% if object.source_url %}
-                      <a href="{{ object.source_url }}"><i class="speech-icon icon-link"></i>{% trans "Source" %}</a>
+                      <a href="{{ object.source_url }}"><i class="speech-icon icon-link"></i>Source</a>
                     {% endif %}
                   </div>
 

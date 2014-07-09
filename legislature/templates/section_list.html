@@ -4,40 +4,44 @@
 {% block title %}Debates{% endblock %}
 
 {% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+
 <div class="container-fluid">
-  <h1>The Debates of the House of Assembly</h1>
-
-  <p>When the House is in session, every word spoken by a member is faithfully transcribed and published in a document called a <a href="http://en.wikipedia.org/wiki/Hansard">Hansard</a>. We've made the transcripts since October 31, 2011 easily searchable and browseable. If you need to go further back, consult the <a href="http://nslegislature.ca/index.php/proceedings/hansard/">website of the Nova Scotia Legislature</a>.</p>
-
-  <form action="{% url 'speeches:haystack_search' %}" method="get">
-    <input type="search" name="q" placeholder="Enter a bill, keyword, phrase or name">
-    <input type="submit" value="Search">
-  </form>
-
   <div class="row">
+    <div class="col-xs-10 col-xs-offset-2">
+      <h1>The Debates of the House of Assembly</h1>
+
+      <p>When the House is in session, every word spoken by a member is faithfully transcribed and published in a document called a <a href="http://en.wikipedia.org/wiki/Hansard">Hansard</a>. We've made the transcripts since October 31, 2011 easily searchable and browseable. If you need to go further back, consult the <a href="http://nslegislature.ca/index.php/proceedings/hansard/">website of the Nova Scotia Legislature</a>.</p>
+
+      <form action="{% url 'speeches:haystack_search' %}" method="get">
+        <input type="search" name="q" placeholder="Enter a bill, keyword, phrase or name">
+        <input type="submit" value="Search">
+      </form>
+    </div>
+  </div>
+
+  <div class="row push-down">
     <div class="col-xs-2">
       <h2>Recent</h2>
     </div>
     <div class="col-xs-10">
       <ul class="list-inline">
-{% for hansard in latest|slice:":16" %}
-        <li>
-          <a href="{% url 'speeches:section-view' hansard.get_path %}">{{ hansard.start_date|date:"F jS" }}</a>
-        </li>
-{% endfor %}
+        {% for hansard in latest|slice:":16" %}<li>
+          <a href="{% url 'legislature:section-view' hansard.get_path %}">{{ hansard.start_date|date:"F jS" }}</a>
+        </li>{% endfor %}
       </ul>
     </div>
+  </div>
 
+  <div class="row push-down">
     <div class="col-xs-2">
       <h2>Past</h2>
     </div>
     <div class="col-xs-10">
       <ul class="list-inline">
-{% for year in date_list %}
-        <li>
+        {% for year in date_list %}<li>
           <a href="{% url 'legislature:section-list-by-year' year=year.year %}">{{ year.year }}</a>
-        </li>
-{% endfor %}
+        </li>{% endfor %}
       </ul>
     </div>
   </div>

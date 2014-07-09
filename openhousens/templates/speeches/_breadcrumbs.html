@@ -1,10 +1,29 @@
 {% load url from future %}
-{% load i18n %}
+{% load legislature_extras %}
 
-<ul class="breadcrumbs">
-{% for n in section.get_ancestors %}
-{% if n.id != section.id or all %}
-    <li><a href="{% url 'speeches:section-view' n.get_path %}">{{ n.title }}</a></li>
+<ol class="breadcrumb">
+  <li><a href="{% url 'legislature:home' %}">Home</a></li>
+{% if section %}
+  <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
+  <li><a href="{% url 'legislature:section-list-by-year' year=section.start_date.year %}">{{ section.start_date.year }}</a></li>
+  <li><a href="{% url 'legislature:section-list-by-month' year=section.start_date.year month=section.start_date.month %}">{{ section.start_date.month|month_name }}</a></li>
+  {% for n in section.get_ancestors %}
+    {% if n.id == section.id %}
+  <li class="active">{{ n.title }}</li>
+    {% else %}
+  <li><a href="{% url 'legislature:section-view' n.get_path %}">{{ n.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+{% elif month %}
+  <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
+  <li><a href="{% url 'legislature:section-list-by-year' year=month.year %}">{{ month.year }}</a></li>
+  <li class="active">{{ month.month|month_name }}</li>
+{% elif year %}
+  <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
+  <li class="active">{{ year.year }}</li>
+{% elif title %}
+  <li class="active">{{ title }}</li>
+{% else %}
+  <li class="active">Debates</li>
 {% endif %}
-{% endfor %}
-</ul>
+</ol>

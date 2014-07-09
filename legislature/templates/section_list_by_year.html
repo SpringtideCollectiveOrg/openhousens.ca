@@ -2,30 +2,32 @@
 {% load url from future %}
 {% load legislature_extras %}
 
-{% block title %}Debates from {{ year.year }}{% endblock %}
+{% block title %}{{ title }}{% endblock %}
 
 {% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-2">
+      <h1>{{ title }}</h1>
+    </div>
+  </div>
 
 {% regroup object_list by start_date.month as month_list %}
-<div class="container-fluid">
-  <h1>Debates from {{ year.year }}</h1>
-
 {% for month in month_list %}
-  <div class="row">
+  <div class="row{% if not forloop.first %} push-down{% endif %}">
     <div class="col-xs-2">
       <h2>{{ month.grouper|month_name }}</h2>
     </div>
     <div class="col-xs-10">
       <ul class="list-inline">
-  {% for hansard in month.list %}
-        <li>
-          <a href="{% url 'speeches:section-view' hansard.get_path %}">{{ hansard.start_date|date:"F jS" }}</a>
-        </li>
-  {% endfor %}
+        {% for hansard in month.list %}<li>
+          <a href="{% url 'legislature:section-view' hansard.get_path %}">{{ hansard.start_date|date:"F jS" }}</a>
+        </li>{% endfor %}
       </ul>
     </div>
   </div>
 {% endfor %}
 </div>
-
-{% endblock content %}
+{% endblock %}

@@ -1,71 +1,34 @@
 {% extends 'speeches/base.html' %}
 {% load url from future %}
-{% load i18n %}
 
-{% block title %}{% blocktrans with title=section.title %}View Section: {{ title }}{% endblocktrans %}{% endblock %}
+{% block title %}Debates of {{ section.start_date|date:"F jS, Y" }}{% endblock %}
 
 {% block content %}
+{% include "speeches/_breadcrumbs.html" %}
 
-<div class="page-header page-header--speech">
-    {% include "speeches/_breadcrumbs.html" %}
-    <h1>{{ section.title }}</h1>
-    {% if section.source_url %}
-    <p><a href="{{ object.source_url }}">{% trans "Source" %}</a></p>
-    {% endif %}
-    {{ section.description }}
-</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-2">
+      <h1>Debates of {{ section.start_date|date:"F jS, Y" }}</h1>
 
-{% for node, structure in section_tree %}
-  {% if forloop.first %}
-<div class="page-content__row">
-  <div class="primary-content__unit">
-  {% endif %}
-  {% if structure.new_level %}<ul class="unstyled-list">{% else %}</li>{% endif %}
-
-  {% if structure.speech %}
-    <li id="s{{ node.id }}" class="speech {% if node.speaker %}speech--with-portrait{% endif %} {% if not node.speaker  %}speech--narrative{% endif %} speech--border"{% if node.speaker.colour %} style="border-left-color: #{{ node.speaker.colour }};"{% endif %}>
-    {% include "speeches/speech.html" with speech=node nosection="1" section=section noli=1 %}
-  {% else %}
-    <li class="section-signpost" ><span class="section-title"><a href="{% url 'speeches:section-view' node.get_path %}">{{ node.title }}</a></span>
-    {% if node.is_leaf_node %}({{ node.speech_count }}){% endif %}
-  {% endif %}
-
-  {% for level in structure.closed_levels %}</li></ul>{% endfor %}
-
-  {% if forloop.last %}
-    {% with next=section.get_next_node previous=section.get_previous_node %}
-      {% if previous or next %}
-    <div class="section-navigation speech-list-navigation">
-        {% if previous %}
-      <a href="{% url "speeches:section-view" previous.get_path %}" class="button speech-navigation__button">&laquo; {{ previous.title }}</a>
-        {% endif %}
-        {% if next %}
-      <a href="{% url "speeches:section-view" next.get_path %}" class="button speech-navigation__button">{{ next.title }} &raquo;</a>
-        {% endif %}
+      <p>House of Assembly Hansard {{ section.number }} of the {{ section.legislature }}, {{ section.session }}. (The <a href="{{ section.source_url }}">original version</a> is on the legislature's site.)</p>
     </div>
-      {% endif %}
-    {% endwith %}
   </div>
 
-  <div class="sidebar__unit section-detail-sidebar">
-    {% with next=section.get_next_node previous=section.get_previous_node %}
-      {% if previous or next %}
-    <div class="section-navigation">
-        {% if previous %}
-      <a href="{% url "speeches:section-view" previous.get_path %}" class="button speech-navigation__button">&laquo; {{ previous.title }}</a>
-        {% endif %}
-        {% if next %}
-      <a href="{% url "speeches:section-view" next.get_path %}" class="button speech-navigation__button">{{ next.title }} &raquo;</a>
-        {% endif %}
-    </div>
-      {% endif %}
-    {% endwith %}
-  </div>
-</div>
+{% for speech in speeches %}
+  <div class="row">
+    <div class="col-xs-2">
+  {% if speech.section.parent.parent %}
+      <div class="heading-level-1">{{ speech.section.parent.title }}</div>
+      <div class="heading-level-2">{{ speech.section.title }}</div>
+  {% elif speech.section.parent %}
+      <div class="heading-level-1">{{ speech.section.title }}</div>
   {% endif %}
-{% empty %}
-<div class="nothing-here-yet-message">
-  <h1>{% trans 'This section is empty' %}</h1>
-</div>
+    </div>
+    <div class="col-xs-10" id="s{{ node.id }}" class="{% if node.speaker %}{% else %}{% endif %}"{% if node.speaker.colour %} style="border-left-color: #{{ node.speaker.colour }};"{% endif %}>
+{% include "speeches/speech.html" with speech=speech nosection="1" section=section noli=1 %}
+    </div>
+  </div>
 {% endfor %}
+</div>
 {% endblock %}

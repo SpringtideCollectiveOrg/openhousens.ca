@@ -1,8 +1,19 @@
 {% extends 'speeches/base.html' %}
+{% load staticfiles %}
 
 {% block title %}About{% endblock %}
 
 {% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+
 <div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-2">
+      <h1>About this site</h1>
+
+      <p>OpenHouseNS is <a href="https://github.com/opennorth/openhousens.ca">open source</a>. All debates are available as <a href="https://github.com/opennorth/openhousens.ca/tree/master/akoma_ntoso">open data</a> in the <a href="http://www.akomantoso.org/">Akoma Ntoso</a> XML format.</p>
+      <p>OpenHouseNS is developed by <img src="{% static 'img/open-north-symbol.png' %}" alt="" height="25" width="25"> <a href="http://www.opennorth.ca/">Open North</a>, a nonprofit that builds digital tools for government transparency and civic participation.</p>
+    </div>
+  </div>
 </div>
 {% endblock %}
