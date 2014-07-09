@@ -43,12 +43,6 @@
   </div>
 </nav>
 
-{% for message in messages %}
-<div class="alert alert-{{ message.tags }}" role="alert">
-{{ message }}
-</div>
-{% endfor %}
-
 {% block content %}{% endblock %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
