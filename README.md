@@ -47,7 +47,11 @@ We don't set `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProces
 
 ### Abbreviations
 
+Question Period section titles contain a lot of abbreviations. Run the following command to find new abbreviations:
 
+    python manage.py abbreviations
+
+If any new abbreviations are found, add them to `legislature/synonyms.py`
 
 ### Validations
 
