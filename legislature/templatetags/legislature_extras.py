@@ -3,6 +3,7 @@ from collections import OrderedDict
 import re
 
 from django import template
+from django.utils.http import urlquote
 
 register = template.Library()
 
@@ -229,8 +230,8 @@ def upper_case_match(match):
 
 @register.filter()
 def heading(string):
-    if not_all_caps.match(string):
-        return string
+    if not_all_caps.search(string):
+        return string.rstrip('.')
     else:
         for pattern, repl in patterns:
           string = pattern.sub(repl, string)
@@ -246,8 +247,12 @@ def capitalize_patronymic(match):
     return match.group(1) + match.group(2).upper()
 
 @register.filter()
-def speaker_name(name):
-    if not_all_caps.match(name):
+def speaker_name(speech):
+    if speech.speaker_id:
+        name = speech.speaker.name
+    else:
+        name = speech.speaker_display
+    if not_all_caps.search(name):
         return name
     else:
         return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
@@ -260,3 +265,16 @@ def speech_class(speech):
         return 'role'
     else:
         return 'narrative'
+
+@register.filter()
+def tweet_text(speech):
+    name = speaker_name(speech)
+    if speech.title:
+        text = heading(speech.title)
+    elif speech.section.parent_id:
+        text = heading(speech.section.title)
+    if text:
+        tweet = '%s on %s' % (name, text)
+    else:
+        tweet = name
+    return urlquote(tweet)

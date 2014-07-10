@@ -1,0 +1,50 @@
+{% extends 'speeches/base_player.html' %}
+{% load url from future %}
+{% load speech_utils %}
+{% load pagination %}
+
+{% block content %}
+{% long_paginator as pagination %}
+
+<h1>Search{% if query %} / <strong>{{ query }}</strong>{% endif %}</h1>
+<form class="site-search site-search--on-results-page" action="{% url "speeches:haystack_search" %}" method="get" >
+  <input type="search" placeholder="Search" name="q" value="{{ form.q.value }}">
+  <input type="submit" value="Search">
+{% if form.speaker %}
+  <label>
+    <input type="checkbox" name="p" value="{{ form.p.value }}" checked>
+    Search only speeches by {{ form.speaker }}
+  </label>
+{% endif %}
+</form>
+
+{% if query %}
+  {% if speaker_results %}
+    <h2>Speakers</h2>
+    <ul class="unstyled-list search-results-speakers">
+        {% for result in speaker_results %}
+        <li class="search"><a href="{% url "speeches:speaker-view" result.object.slug %}">
+            {{ result.highlighted.0|striptags_highlight }}
+        </a></li>
+        {% endfor %}
+    </ul>
+  {% endif %}
+  <h2>Mentions of <strong>&ldquo;{{ query }}&rdquo;</strong> in speeches</h2>
+  <ul class="unstyled-list search-results-list">
+  {% for result in page.object_list %}
+      {% if result.model_name == 'speech' %}
+          {% include 'speeches/speech.html' with speech=result.object highlight=result.highlighted.0 %}
+      {% elif result.model_name == 'section' %}
+          {% include 'search/section_item.html' with section=result.object highlight=result.highlighted.0 %}
+      {% endif %}
+  {% empty %}
+      <li>No results found</li>
+  {% endfor %}
+  </ul>
+
+{{ pagination }}
+
+{% else %}
+  {# Show some example queries to run, maybe query syntax, something else? #}
+{% endif %}
+{% endblock %}

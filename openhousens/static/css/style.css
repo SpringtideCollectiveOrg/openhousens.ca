@@ -123,6 +123,26 @@ a:focus,
   color: #666;
 }
 
+.actions {
+  z-index: 300;
+  display: none;
+  position: absolute;
+  top: 20px;
+  right: 0;
+  padding-right: 15px;
+}
+.actions a {
+  display: inline-block;
+  position: relative;
+  padding-left: 1em;
+}
+.row-speech:hover .actions,
+.row-speech:focus .actions,
+.row-speech *:hover .actions,
+.row-speech *:focus .actions {
+  display: block;
+}
+
 h1,
 h2 {
   margin-top: 0;

@@ -1,4 +1,4 @@
-{% load url from future %}
+{% load firstof url from future %}
 {% load staticfiles speech_utils %}
 {% load legislature_extras %}
 
@@ -10,15 +10,15 @@
   </a>
 </div>
   {% endif %}
-<div class="from">
+<p class="from">
   {% if speech.speaker_id %}
   <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
-    {{ speech.speaker.name|speaker_name }}
+    {{ speech|speaker_name }}
   </a>
   {% else %}
-  {{ speech.speaker_display|speaker_name }}
+  {{ speech|speaker_name }}
   {% endif %}
-</div>
+</p>
 {% endif %}
 
 <div class="speech">
@@ -26,7 +26,12 @@
 </div>
 
 {% if speech.speaker_display %}
-<a href="#s{{ speech.id }}">Link to this</a>
-<a href="https://twitter.com/share?related=SpringtideCo%3Aopenhousens.ca&via=SpringtideCo">Tweet</a>
-<!-- @todo url, text, popup -->
+<div class="actions">
+  <a href="#s{{ speech.id }}" class="link">
+    <span class="glyphicon glyphicon-link"></span> Link
+  </a>
+  <a href="https://twitter.com/share?related=SpringtideCo%3Aopenhousens.ca&amp;url={{ request.build_absolute_uri|urlencode }}%23s{{speech.id}}&amp;text={{ speech|tweet_text }}&amp;via=SpringtideCo" class="twitter">
+    <img src="{% static 'img/twitter.png' %}" width="20" height="16" alt=""> Tweet
+  </a>
+</div>
 {% endif %}
