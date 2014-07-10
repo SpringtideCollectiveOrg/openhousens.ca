@@ -96,6 +96,10 @@ Setup the database (you can run `heroku pg:reset` to start over):
 
     heroku run python manage.py syncdb --noinput
 
+Import a directory:
+
+    heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
+
 ## Bugs? Questions?
 
 This repository is on GitHub: [http://github.com/opennorth/openhousens](http://github.com/opennorth/openhousens), where your contributions, forks, bug reports, feature requests, and feedback are greatly welcomed.

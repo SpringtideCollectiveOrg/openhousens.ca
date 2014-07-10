@@ -269,6 +269,7 @@ def speech_class(speech):
 @register.filter()
 def tweet_text(speech):
     name = speaker_name(speech)
+    text = None
     if speech.title:
         text = heading(speech.title)
     elif speech.section.parent_id:
