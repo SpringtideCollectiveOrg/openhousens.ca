@@ -94,6 +94,8 @@ a:focus,
 .row-speech .col-meta,
 .row-speech .col-speech {
   padding-top: 20px;
+}
+.row-speech .col-speech {
   padding-bottom: 20px;
 }
 .col-speech p:last-child {

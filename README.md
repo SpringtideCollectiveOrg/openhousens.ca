@@ -43,7 +43,11 @@ Rebuild the ElasticSearch index:
 
     python manage.py rebuild_index --noinput
 
-We don't set `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` as it causes timeout errors.
+We don't set `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` as it causes timeout errors in development.
+
+### Abbreviations
+
+
 
 ### Validations
 
@@ -91,6 +95,8 @@ You can [generate a secret key in Python](https://github.com/django/django/blob/
 from django.utils.crypto import get_random_string
 get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 ```
+
+Unless you have fewer than 10,000 speeches, [upgrade to the Hobby Basic plan](https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups).
 
 Setup the database (you can run `heroku pg:reset` to start over):
 
