@@ -39,11 +39,11 @@ Import a file:
 
     python manage.py load_akomantoso --commit --instance=default --file=akoma_ntoso/2011-11-03_11-38.xml
 
-You may want to clear the ElasticSearch index before re-importing:
+Rebuild the ElasticSearch index:
 
-    python manage.py clear_index --noinput
+    python manage.py rebuild_index --noinput
 
-Commenting out `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` may improve import times and avoid timeout errors.
+We don't set `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'` as it causes timeout errors.
 
 ### Validations
 

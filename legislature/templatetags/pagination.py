@@ -35,7 +35,10 @@ def long_paginator(context):
     view.
     '''
 
-    page_obj = context['page_obj']
+    try:
+        page_obj = context['page_obj']
+    except KeyError:
+        page_obj = context['page']
     try:
         paginator = page_obj.paginator
     except AttributeError:

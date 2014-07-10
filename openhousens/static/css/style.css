@@ -79,12 +79,48 @@ a:focus,
 }
 
 .heading-level-1,
-.heading-level-2 {
+.heading-level-2,
+.heading-level-3 {
   color: #58585b;
   font-size: 12px;
 }
 .heading-level-1 {
   font-weight: bold;
+}
+
+.row-speech {
+  border-top: 1px solid #ccc;
+}
+.row-speech .col-meta,
+.row-speech .col-speech {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.col-speech p:last-child {
+  margin-bottom: 0;
+}
+.person .col-speech {
+  border-left: 5px solid #8cc63e;
+}
+.role .col-speech {
+  border-left: 5px solid #eee;
+}
+.narrative {
+  background-color: #f5f5f5;
+}
+.image {
+  /* @todo */
+}
+.from {
+  font-weight: bold;
+}
+.person .speech,
+.role .speech {
+  font-family: Georgia,Times,'Times New Roman',serif;
+}
+.role .from,
+.role .speech {
+  color: #666;
 }
 
 h1,
@@ -100,4 +136,11 @@ h2 {
 }
 p {
   margin-bottom: 20px;
+}
+blockquote {
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  border: none;
+  font-size: 1em;
 }

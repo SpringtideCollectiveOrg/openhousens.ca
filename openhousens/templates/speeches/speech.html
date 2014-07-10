@@ -1,14 +1,32 @@
-{% load firstof url from future %}
+{% load url from future %}
 {% load staticfiles speech_utils %}
+{% load legislature_extras %}
 
-{% if speech.speaker %}
-{% if speech.speaker.image %}<img src="{{ speech.speaker.image }}" alt="">{% endif %}
-
-<a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
-  {% firstof speech.speaker_display speech.speaker %}
-</a>
+{% if speech.speaker_display %}
+  {% if speech.speaker.image %}
+<div class="image">
+  <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
+    <img src="{{ speech.speaker.image }}" alt="">
+  </a>
+</div>
+  {% endif %}
+<div class="from">
+  {% if speech.speaker_id %}
+  <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
+    {{ speech.speaker.name|speaker_name }}
+  </a>
+  {% else %}
+  {{ speech.speaker_display|speaker_name }}
+  {% endif %}
+</div>
 {% endif %}
 
+<div class="speech">
 {{ speech.text|bleach }}
+</div>
 
-<a title="Link in context" href="{% if section %}{% url 'legislature:section-view' section.slug %}{% else %}{% url 'legislature:section-view' speech.section.slug %}{% endif %}#s{{ speech.id }}"><i class="speech-icon icon-link-in-context"></i>Link in context</a>
+{% if speech.speaker_display %}
+<a href="#s{{ speech.id }}">Link to this</a>
+<a href="https://twitter.com/share?related=SpringtideCo%3Aopenhousens.ca&via=SpringtideCo">Tweet</a>
+<!-- @todo url, text, popup -->
+{% endif %}

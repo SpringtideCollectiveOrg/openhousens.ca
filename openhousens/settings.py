@@ -108,7 +108,6 @@ HAYSTACK_CONNECTIONS = {
         'INDEX_NAME': 'openhousens',
     },
 }
-# HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 
 BLEACH_ALLOWED_TAGS = [
     'a', 'abbr', 'b', 'i', 'u', 'span', 'sub', 'sup', 'br',
@@ -131,7 +130,8 @@ TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
     'django.core.context_processors.request',
 )
 
-if DEBUG:
+# SQL query logging.
+if DEBUG and os.getenv('VERBOSE', False):
     LOGGING = {
         'version': 1,
         'handlers': {

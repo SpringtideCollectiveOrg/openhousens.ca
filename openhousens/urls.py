@@ -1,5 +1,6 @@
 from django.conf.urls import patterns, include, url
 
+from speeches.search import InstanceSearchView
 from speeches.views import *
 
 # This file is maybe a mistake, given that we can easily go out of sync with
@@ -9,11 +10,9 @@ from speeches.views import *
 
 # SayIt URLs we will never use are omitted, as well as URLs that we override.
 speeches_patterns = [
-    url(r'^(?P<path>speaker)/?$', AddAnSRedirectView.as_view()),
-    url(r'^(?P<path>speech)/?$', AddAnSRedirectView.as_view(suffix='es')),
-
     url(r'^search/', lambda request: InstanceSearchView()(request), name='haystack_search'),
 
+    url(r'^(?P<path>speaker)/?$', AddAnSRedirectView.as_view()),
     url(r'^speakers$', SpeakerList.as_view(), name='speaker-list'),
     url(r'^speaker/(?P<slug>.+)$', SpeakerView.as_view(), name='speaker-view'),
 ]
