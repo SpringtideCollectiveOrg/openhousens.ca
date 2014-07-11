@@ -14,12 +14,15 @@ patronymic = re.compile(r"(Mac|Mc|'|-)([a-z])")
 # @see http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html
 lower_case_words = ('and', 'by', 'for', 'of', 'the', 'to')
 
+def upper_case_letter(match):
+    return match.group(0).upper()
+
+def capitalize_patronymic(match):
+    return match.group(1) + match.group(2).upper()
+
 @register.filter()
 def month_name(month_number):
     return calendar.month_name[month_number]
-
-def upper_case_match(match):
-    return match.group(0).upper()
 
 @register.filter()
 def heading(string):
@@ -35,14 +38,11 @@ def heading(string):
             if word not in upper_case_words:
                 word = word.lower()
                 if word not in lower_case_words:
-                    word = first_letter.sub(upper_case_match, word)
+                    word = first_letter.sub(upper_case_letter, word)
                     if patronymic.match(word):
                         word = patronymic.sub(capitalize_patronymic, word)
             words.append(word)
         return ' '.join(words)
-
-def capitalize_patronymic(match):
-    return match.group(1) + match.group(2).upper()
 
 @register.filter()
 def speaker_name(speech):
@@ -59,6 +59,8 @@ def speaker_name(speech):
 def speech_class(speech):
     if speech.speaker_id:
         return 'person'
+    elif speech.speaker_display in ('THE PREMIER', 'THE LIEUTENANT GOVERNOR', 'THE ADMINISTRATOR'):
+        return 'government'
     elif speech.speaker_display:
         return 'role'
     else:

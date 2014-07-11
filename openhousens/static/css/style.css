@@ -104,6 +104,9 @@ a:focus,
 .person .col-speech {
   border-left: 5px solid #8cc63e;
 }
+.government .col-speech {
+  border-left: 5px solid #359ebb;
+}
 .role .col-speech {
   border-left: 5px solid #eee;
 }

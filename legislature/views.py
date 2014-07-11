@@ -1,3 +1,5 @@
+import calendar
+
 from django.core.exceptions import ObjectDoesNotExist
 from django.http import Http404
 from django.shortcuts import get_object_or_404, render_to_response
@@ -37,9 +39,9 @@ debates_by_year = DebateYearArchive.as_view()
 class DebateMonthArchive(TitleAdder, MonthArchiveView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
-    template_name = 'section_list_by_year.html'
+    template_name = 'section_list_by_month.html'
     make_object_list = True
-    page_title = lambda self: 'Debates from %s' % self.get_year()
+    page_title = lambda self: 'Debates from %s %s' % (calendar.month_name[int(self.get_month())], self.get_year())
     month_format = '%m'  # Use integers in paths.
 debates_by_month = DebateMonthArchive.as_view()
 
