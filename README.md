@@ -25,11 +25,13 @@ Start the web app:
 
     foreman start
 
-## Importing organizations, people, posts and memberships
+## Importing Popolo data
+
+Import organizations, people, posts and memberships:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
 
-## Importing speeches
+## Importing Akoma Ntoso data
 
 Import a directory:
 
@@ -51,7 +53,7 @@ We don't set `HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProces
 
 ### Abbreviations
 
-Question Period section titles contain a lot of abbreviations. Run the following command to find new abbreviations:
+Question Period section titles contain many abbreviations. Run this command to find new abbreviations:
 
     python manage.py abbreviations
 
@@ -80,7 +82,7 @@ You can use any of Heroku's ElasticSearch add-ons:
 * [Bonsai](https://addons.heroku.com/bonsai)
 * [Found](https://addons.heroku.com/foundelasticsearch)
 
-SayIt has three indices, and you have over 10,000 speeches, so you need at least SearchBox Micro ($9) or Bonsai Staging ($10). You can alternatively run your own instance of ElasticSearch [on EC2, for example](http://www.elasticsearch.org/tutorials/elasticsearch-on-ec2/).
+SayIt has three indices, and NS have over 10,000 speeches, so you need at least SearchBox Micro ($9) or Bonsai Staging ($10). You can alternatively run your own instance of ElasticSearch [on EC2, for example](http://www.elasticsearch.org/tutorials/elasticsearch-on-ec2/).
 
     heroku addons:add searchbox:micro
     heroku addons:add bonsai:staging
@@ -104,13 +106,13 @@ from django.utils.crypto import get_random_string
 get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 ```
 
-Unless you have fewer than 10,000 speeches, [upgrade to the Hobby Basic plan](https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups).
+[Upgrade to the Hobby Basic plan](https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups), since NS has over 10,000 speeches.
 
 Setup the database (you can run `heroku pg:reset` to start over):
 
     heroku run python manage.py syncdb --noinput
 
-Import data:
+Import Popolo and Akoma Ntoso data:
 
     heroku run python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
     heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
