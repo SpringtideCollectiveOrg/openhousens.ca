@@ -25,6 +25,10 @@ Start the web app:
 
     foreman start
 
+## Importing organizations, people, posts and memberships
+
+    python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
+
 ## Importing speeches
 
 Import a directory:
@@ -106,8 +110,9 @@ Setup the database (you can run `heroku pg:reset` to start over):
 
     heroku run python manage.py syncdb --noinput
 
-Import a directory:
+Import data:
 
+    heroku run python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
     heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
 
 ## Bugs? Questions?

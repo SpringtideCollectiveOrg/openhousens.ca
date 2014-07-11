@@ -14,3 +14,6 @@ psycopg2==2.5.3
 # Akoma Ntoso importer
 python-dateutil==2.2
 lxml==3.3.5
+
+# Popolo importer
+requests==2.3.0
