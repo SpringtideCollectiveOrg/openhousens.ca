@@ -23,7 +23,7 @@
     <h2>Speakers</h2>
     <ul class="unstyled-list search-results-speakers">
         {% for result in speaker_results %}
-        <li class="search"><a href="{% url "speeches:speaker-view" result.object.slug %}">
+        <li class="search"><a href="{% url "legislature:speaker-view" result.object.slug %}">
             {{ result.highlighted.0|striptags_highlight }}
         </a></li>
         {% endfor %}

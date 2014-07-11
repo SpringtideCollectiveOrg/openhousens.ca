@@ -1,0 +1,53 @@
+{% extends 'speeches/base.html' %}
+{% load url from future %}
+{% load legislature_extras pagination %}
+
+{% block title %}{{ speaker.name|person_name }}{% endblock %}
+
+{% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+{% long_paginator as pagination %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+      <h1>{{ speaker.name|person_name }}</h1>
+    </div>
+  </div>
+
+  <div class="row push-down">
+    <div class="col-xs-2">
+      <figure>
+        <img src="{{ speaker.image }}" alt="">
+        <figcaption>Nova Scotia Legislature photo</figcaption>
+      </figure>
+      - source url
+      - email
+    </div>
+    <div class="col-xs-10 col-md-8">
+      <p class="memberships">party constituency</p>
+      <h2>Speeches</h2>
+
+      <form action="{% url "speeches:haystack_search" %}" method="get" >
+        <input type="hidden" name="p" value="{{ speaker.id }}">
+        <div class="search-wrapper">
+          <input type="search" placeholder="Search this person's speeches" name="q"/>
+          <input type="submit" value="Search"/>
+        </div>
+      </form>
+
+      <ul>
+        {% for speech in object_list %}
+          {% include "speeches/speech.html" with speech=speech %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+{{ pagination }}
+    </div>
+  </div>
+</div>
+{% endblock %}

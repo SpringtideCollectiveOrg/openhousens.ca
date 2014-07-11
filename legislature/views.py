@@ -25,6 +25,7 @@ class TitleAdder(object):
 class SpeakerListView(ListView):
     queryset = Speaker.objects.exclude(family_name='').order_by('family_name', 'given_name')
     template_name = 'speaker_list.html'
+
     def get_context_data(self, **kwargs):
         context = super(SpeakerListView, self).get_context_data(**kwargs)
         context['former_list'] = sorted(Speaker.objects.filter(family_name=''), key=lambda v: v.name.split(' ')[-1])
@@ -54,7 +55,21 @@ class DebateMonthArchive(TitleAdder, MonthArchiveView):
     month_format = '%m'  # Use integers in paths.
 debates_by_month = DebateMonthArchive.as_view()
 
-class SpeechListView(ListView):
+class SpeakerView(ListView):
+    paginate_by = 15
+    template_name = 'speaker_detail.html'
+
+    def get_queryset(self):
+        self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
+        return self.object.speech_set.all().prefetch_related('section', 'speaker')
+
+    def get_context_data(self, **kwargs):
+        context = super(SpeakerView, self).get_context_data(**kwargs)
+        context['speaker'] = self.object
+        return context
+person = SpeakerView.as_view()
+
+class DebateView(ListView):
     paginate_by = 15
     template_name = 'section_detail.html'
 
@@ -62,11 +77,11 @@ class SpeechListView(ListView):
     # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.detail/DetailView/
     # @see https://docs.djangoproject.com/en/1.4/topics/class-based-views/#dynamic-filtering
     def get_queryset(self):
-        self.section = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
-        return self.section.descendant_speeches().prefetch_related('speaker', 'section', 'section__parent')
+        self.object = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
+        return self.object.descendant_speeches().prefetch_related('speaker', 'section', 'section__parent')
 
     def get_context_data(self, **kwargs):
-        context = super(SpeechListView, self).get_context_data(**kwargs)
-        context['section'] = self.section
+        context = super(DebateView, self).get_context_data(**kwargs)
+        context['section'] = self.object
         return context
-debate = SpeechListView.as_view()
+debate = DebateView.as_view()

@@ -46,6 +46,14 @@ def heading(string):
         return ' '.join(words)
 
 @register.filter()
+def speaker_name(name):
+    return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
+
+@register.filter()
+def person_name(name):
+    return honorifics.sub('', speaker_name(name))
+
+@register.filter()
 def speech_speaker(speech):
     if speech.speaker_id:
         name = speech.speaker.name
@@ -55,14 +63,6 @@ def speech_speaker(speech):
         return name
     else:
         return speaker_name(name)
-
-@register.filter()
-def speaker_name(name):
-    return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
-
-@register.filter()
-def person_name(name):
-    return honorifics.sub('', speaker_name(name))
 
 @register.filter()
 def speech_class(speech):

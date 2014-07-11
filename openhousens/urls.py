@@ -11,7 +11,6 @@ from speeches.views import *
 # SayIt URLs we will never use are omitted, as well as URLs that we override.
 speeches_patterns = [
     url(r'^search/', lambda request: InstanceSearchView()(request), name='haystack_search'),
-    url(r'^people/(?P<slug>[-_\w]+)$', SpeakerView.as_view(), name='speaker-view'),
 ]
 
 urlpatterns = patterns('',

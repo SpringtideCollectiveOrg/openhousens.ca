@@ -1,18 +1,17 @@
 {% load firstof url from future %}
-{% load staticfiles speech_utils %}
-{% load legislature_extras %}
+{% load staticfiles speech_utils legislature_extras %}
 
 {% if speech.speaker_display %}
   {% if speech.speaker.image %}
 <div class="image">
-  <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
+  <a href="{% url 'legislature:speaker-view' speech.speaker.slug %}">
     <img src="{{ speech.speaker.image }}" alt="">
   </a>
 </div>
   {% endif %}
 <p class="from">
   {% if speech.speaker_id %}
-  <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
+  <a href="{% url 'legislature:speaker-view' speech.speaker.slug %}">
     {{ speech|speech_speaker }}
   </a>
   {% else %}

@@ -21,8 +21,8 @@
     <div class="col-xs-10 col-md-8">
       <ul class="list-inline">
         {% for speaker in speaker_list %}<li>
-          <a href="{{ speaker.get_absolute_url }}">
-            {{ speaker }}
+          <a href="{% url 'legislature:speaker-view' speaker.slug %}">
+            {{ speaker.name }}
           </a>
         </li>{% endfor %}
       </ul>
@@ -36,7 +36,7 @@
     <div class="col-xs-10 col-md-8">
       <ul class="list-inline">
         {% for speaker in former_list %}<li>
-          <a href="{{ speaker.get_absolute_url }}">
+          <a href="{% url 'legislature:speaker-view' speaker.slug %}">
             {{ speaker.name|person_name }}
           </a>
         </li>{% endfor %}

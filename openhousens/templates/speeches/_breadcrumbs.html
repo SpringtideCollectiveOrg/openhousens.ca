@@ -7,13 +7,7 @@
   <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
   <li><a href="{% url 'legislature:section-list-by-year' year=section.start_date.year %}">{{ section.start_date.year }}</a></li>
   <li><a href="{% url 'legislature:section-list-by-month' year=section.start_date.year month=section.start_date.month %}">{{ section.start_date.month|month_name }}</a></li>
-  {% for n in section.get_ancestors %}
-    {% if n.id == section.id %}
-  <li class="active">{{ n.title }}</li>
-    {% else %}
-  <li><a href="{% url 'legislature:section-view' n.slug %}">{{ n.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+  <li class="active">{{ section.title }}</li>
 {% elif month %}
   <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
   <li><a href="{% url 'legislature:section-list-by-year' year=month.year %}">{{ month.year }}</a></li>
@@ -23,6 +17,9 @@
   <li class="active">{{ year.year }}</li>
 {% elif title %}
   <li class="active">{{ title }}</li>
+{% elif speaker %}
+  <li><a href="{% url 'legislature:speaker-list' %}">People</a></li>
+  <li class="active">{{ speaker.name|person_name }}</li>
 {% elif speaker_list %}
   <li class="active">People</li>
 {% else %}
