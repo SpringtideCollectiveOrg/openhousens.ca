@@ -15,37 +15,48 @@
     </div>
   </div>
 
-  <div class="row push-down">
+  <div class="row">
     <div class="col-xs-2">
+{% if speaker.image %}
       <figure>
         <img src="{{ speaker.image }}" alt="">
         <figcaption>Nova Scotia Legislature photo</figcaption>
       </figure>
-      - source url
-      - email
+{% endif %}
+{% if speaker.email %}
+      <p class="contact">
+        <a href="mailto:{{ speaker.email }}">
+          Email {{ speaker.name|person_short_name }}
+        </a>
+      </p>
+{% endif %}
+{% if speaker.sources.all %}
+      <p>
+        <a href="{{ speaker.sources.all.0.url }}">
+          On the legislature's site
+        </a>
+      </p>
+{% endif %}
     </div>
     <div class="col-xs-10 col-md-8">
-      <p class="memberships">party constituency</p>
-      <h2>Speeches</h2>
+{% if speaker.memberships.all %}
+      <p class="memberships">{{ speaker|speaker_description }}</p>
+{% endif %}
 
       <form action="{% url "speeches:haystack_search" %}" method="get" >
         <input type="hidden" name="p" value="{{ speaker.id }}">
-        <div class="search-wrapper">
-          <input type="search" placeholder="Search this person's speeches" name="q"/>
-          <input type="submit" value="Search"/>
-        </div>
+        <input type="search" placeholder="Search {{ speaker.name|person_short_name }}'s speeches" name="q">
+        <input type="submit" value="Search">
       </form>
 
-      <ul>
-        {% for speech in object_list %}
-          {% include "speeches/speech.html" with speech=speech %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+{{ pagination }}
 
-  <div class="row">
-    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+{% for speech in object_list %}
+      <div class="col-speech col-speech-with-border">
+{% include "speeches/speech.html" with speech=speech with_context=1 %}
+      </div>
+{% endfor %}
+
 {{ pagination }}
     </div>
   </div>

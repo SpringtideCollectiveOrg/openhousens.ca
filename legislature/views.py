@@ -23,12 +23,12 @@ class TitleAdder(object):
         return context
 
 class SpeakerListView(ListView):
-    queryset = Speaker.objects.exclude(family_name='').order_by('family_name', 'given_name')
+    queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
     template_name = 'speaker_list.html'
 
     def get_context_data(self, **kwargs):
         context = super(SpeakerListView, self).get_context_data(**kwargs)
-        context['former_list'] = sorted(Speaker.objects.filter(family_name=''), key=lambda v: v.name.split(' ')[-1])
+        context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1])
         return context
 people = SpeakerListView.as_view()
 
@@ -61,7 +61,7 @@ class SpeakerView(ListView):
 
     def get_queryset(self):
         self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
-        return self.object.speech_set.all().prefetch_related('section', 'speaker')
+        return self.object.speech_set.all().order_by('-start_date', '-id').prefetch_related('section', 'speaker')
 
     def get_context_data(self, **kwargs):
         context = super(SpeakerView, self).get_context_data(**kwargs)
@@ -78,7 +78,7 @@ class DebateView(ListView):
     # @see https://docs.djangoproject.com/en/1.4/topics/class-based-views/#dynamic-filtering
     def get_queryset(self):
         self.object = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
-        return self.object.descendant_speeches().prefetch_related('speaker', 'section', 'section__parent')
+        return self.object.descendant_speeches().prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
 
     def get_context_data(self, **kwargs):
         context = super(DebateView, self).get_context_data(**kwargs)

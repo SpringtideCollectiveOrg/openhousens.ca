@@ -46,12 +46,46 @@ def heading(string):
         return ' '.join(words)
 
 @register.filter()
+def speaker_party_class(speaker):
+    klass = next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
+    if klass == 'Nova Scotia Liberal Party':
+        return 'liberal'
+    elif klass == 'Nova Scotia New Democratic Party':
+        return 'ndp'
+    elif klass == 'Progressive Conservative Association of Nova Scotia':
+        return 'pc'
+    return ''
+
+@register.filter()
+def speaker_description(speaker):
+    """
+    We use speaker.memberships.all() instead of speaker.memberships.filter()
+    to avoid additional queries to the database.
+    """
+    party = next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
+    if party == 'Nova Scotia Liberal Party':
+        party = 'Liberal'
+    elif party == 'Nova Scotia New Democratic Party':
+        party = 'NDP'
+    elif party == 'Progressive Conservative Association of Nova Scotia':
+        party = 'Progressive Conservative'
+    label = next(membership.label for membership in speaker.memberships.all() if membership.label)
+    return '%s %s' % (party, label)
+
+@register.filter()
 def speaker_name(name):
     return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
 
 @register.filter()
 def person_name(name):
     return honorifics.sub('', speaker_name(name))
+
+@register.filter()
+def person_short_name(name):
+    """
+    Find the person's given name, even if given_name is not set.
+    """
+    return person_name(name).split(' ')[0]
 
 @register.filter()
 def speech_speaker(speech):

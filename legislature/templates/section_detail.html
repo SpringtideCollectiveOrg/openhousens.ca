@@ -43,7 +43,7 @@
   {% endif %}
     </div>
     <div class="col-xs-10 col-md-8 col-speech" id="s{{ speech.id }}">
-{% include "speeches/speech.html" with speech=speech section=section %}
+{% include "speeches/speech.html" with speech=speech section=section with_speaker=1 %}
     </div>
   </div>
 {% endfor %}

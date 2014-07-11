@@ -15,13 +15,13 @@
 {% elif year %}
   <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
   <li class="active">{{ year.year }}</li>
-{% elif title %}
-  <li class="active">{{ title }}</li>
 {% elif speaker %}
   <li><a href="{% url 'legislature:speaker-list' %}">People</a></li>
   <li class="active">{{ speaker.name|person_name }}</li>
 {% elif speaker_list %}
   <li class="active">People</li>
+{% elif title %}
+  <li class="active">{{ title }}</li>
 {% else %}
   <li class="active">Debates</li>
 {% endif %}

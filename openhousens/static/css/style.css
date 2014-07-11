@@ -59,6 +59,42 @@ a:focus,
   margin-top: 40px;
 }
 
+/* http://stackoverflow.com/questions/5445491/height-equal-to-dynamic-width-css-fluid-layout */
+.avatar {
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
+  border-radius: 100%;
+  border: 2px solid #eee;
+  background-color: #eee;
+  background-position: 0% 17%;
+  background-repeat: no-repeat;
+  background-size: 100% auto; /* not same as background-cover */
+}
+.avatar.avatar-small {
+  width: 50%;
+  padding-top: 50%;
+}
+figure {
+  margin-bottom: 20px;
+}
+figure img {
+  width: 100%;
+}
+figcaption {
+  color: #58585b;
+  font-size: 11px;
+  text-align: center;
+}
+.contact a {
+  font-weight: bold;
+}
+p.memberships { /* span is styled differently */
+  font-size: 24px;
+  font-weight: 300;
+}
+
 .pagination .active span,
 .pagination .active span:hover,
 .pagination .active span:focus {
@@ -88,14 +124,19 @@ a:focus,
   font-weight: bold;
 }
 
-.row-speech {
+.row-speech,
+.col-speech-with-border {
   border-top: 1px solid #ccc;
 }
-.row-speech .col-meta,
-.row-speech .col-speech {
+.col-speech-with-border:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+.col-meta,
+.col-speech {
   padding-top: 20px;
 }
-.row-speech .col-speech {
+.col-speech {
   padding-bottom: 20px;
 }
 .col-speech p:last-child {
@@ -114,10 +155,37 @@ a:focus,
   background-color: #f5f5f5;
 }
 .image {
-  /* @todo */
+  float: left;
+  width: 67px;
+  margin-right: 10px;
 }
 .from {
   font-weight: bold;
+}
+.swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background-color: #eee;
+}
+.liberal {
+  background-color: #d01e28;
+}
+.ndp {
+  background-color: #f36f21;
+}
+.pc {
+  background-color: #00477f;
+}
+span.memberships { /* p is styled differently */
+  color: #58585b;
+  font-weight: normal;
+}
+.title {
+  font-weight: bold;
+}
+.date {
+  color: #58585b;
 }
 .person .speech,
 .role .speech {
