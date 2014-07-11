@@ -27,12 +27,14 @@ class Command(BaseCommand):
         instance, _ = Instance.objects.get_or_create(label='default')
 
         for json in self.get('organizations'):
+            defaults = {
+                'name': json['name'],
+                'classification': json['classification'],
+            }
+
             record, created = Organization.objects.get_or_create(
                 identifiers__identifier=json['_id'],
-                defaults={
-                    'name': json['name'],
-                    'classification': json['classification'],
-                }
+                defaults=defaults,
             )
             if created:
                 record.identifiers.create(
@@ -48,27 +50,34 @@ class Command(BaseCommand):
                         url=json['sources'][0]['url'],
                         note=json['sources'][0]['note'],
                     )
+            else:
+                for attr, value in defaults.items():
+                    setattr(record, attr, value)
+                record.save()
 
         for json in self.get('persons'):
+            defaults = {
+                'name': json['name'],
+                'family_name': json['family_name'],
+                'given_name': json['given_name'],
+                'sort_name': json['sort_name'],
+                'email': json.get('email'),
+                'image': json.get('image'),
+            }
+
             record, created = Speaker.objects.get_or_create(
                 instance=instance,
                 identifiers__identifier=json['_id'],
-                defaults={
-                    'name': json['name'],
-                    'family_name': json['family_name'],
-                    'given_name': json['given_name'],
-                    'email': json.get('email'),
-                    'image': json.get('image'),
-                }
+                defaults=defaults,
             )
             if created:
+                part = re.search(r'([^/]+)\Z', json['sources'][0]['url']).group(1).lower()
+                part = re.sub(r'[._-]+', '.', part)
+                part = re.sub(r'[^a-z.]', '', part)
                 record.identifiers.create(
                     identifier=json['_id'],
                     scheme='Popolo',
                 )
-                part = re.search(r'([^/]+)\Z', json['sources'][0]['url']).group(1).lower()
-                part = re.sub(r'[._-]+', '.', part)
-                part = re.sub(r'[^a-z.]', '', part)
                 record.identifiers.create(
                     identifier='/ontology/person/ca-ns.%s' % part,
                     scheme='Akoma Ntoso',
@@ -76,20 +85,30 @@ class Command(BaseCommand):
                 record.sources.create(
                     url=json['sources'][0]['url'],
                 )
+            else:
+                for attr, value in defaults.items():
+                    setattr(record, attr, value)
+                record.save()
 
         for json in self.get('posts'):
+            defaults = {
+                'role': json['role'],
+                'organization': Organization.objects.get(identifiers__identifier=json['organization_id']),
+            }
+
             record, created = Post.objects.get_or_create(
                 label=json['label'],
-                defaults={
-                    'role': json['role'],
-                    'organization': Organization.objects.get(identifiers__identifier=json['organization_id']),
-                }
+                defaults=defaults,
             )
             if created:
                 record.sources.create(
                     url=json['sources'][0]['url'],
                     note=json['sources'][0]['note'],
                 )
+            else:
+                for attr, value in defaults.items():
+                    setattr(record, attr, value)
+                record.save()
 
         for json in self.get('memberships'):
             defaults = {
@@ -109,3 +128,7 @@ class Command(BaseCommand):
                     url=json['sources'][0]['url'],
                     note=json['sources'][0]['note'],
                 )
+            else:
+                for attr, value in defaults.items():
+                    setattr(record, attr, value)
+                record.save()
