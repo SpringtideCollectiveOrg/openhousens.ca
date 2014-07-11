@@ -1,0 +1,46 @@
+{% extends 'speeches/base.html' %}
+{% load url from future %}
+{% load legislature_extras %}
+
+{% block title %}Members of the Legislative Assembly{% endblock %}
+
+{% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+      <h1>Members of the House of Assembly</h1>
+    </div>
+  </div>
+
+  <div class="row push-down">
+    <div class="col-xs-2">
+      <h2>Current</h2>
+    </div>
+    <div class="col-xs-10 col-md-8">
+      <ul class="list-inline">
+        {% for speaker in speaker_list %}<li>
+          <a href="{{ speaker.get_absolute_url }}">
+            {{ speaker }}
+          </a>
+        </li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row push-down">
+    <div class="col-xs-2">
+      <h2>Former</h2>
+    </div>
+    <div class="col-xs-10 col-md-8">
+      <ul class="list-inline">
+        {% for speaker in former_list %}<li>
+          <a href="{{ speaker.get_absolute_url }}">
+            {{ speaker.name|person_name }}
+          </a>
+        </li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock %}

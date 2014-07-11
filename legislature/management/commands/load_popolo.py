@@ -1,3 +1,5 @@
+import re
+
 from django.core.management.base import BaseCommand, CommandError
 
 import requests
@@ -35,7 +37,7 @@ class Command(BaseCommand):
             if created:
                 record.identifiers.create(
                     identifier=json['_id'],
-                    scheme='JSON',
+                    scheme='Popolo',
                 )
                 if json.get('other_names'):
                     record.other_names.create(
@@ -62,7 +64,14 @@ class Command(BaseCommand):
             if created:
                 record.identifiers.create(
                     identifier=json['_id'],
-                    scheme='JSON',
+                    scheme='Popolo',
+                )
+                part = re.search(r'([^/]+)\Z', json['sources'][0]['url']).group(1).lower()
+                part = re.sub(r'[._-]+', '.', part)
+                part = re.sub(r'[^a-z.]', '', part)
+                record.identifiers.create(
+                    identifier='/ontology/person/ca-ns.%s' % part,
+                    scheme='Akoma Ntoso',
                 )
                 record.sources.create(
                     url=json['sources'][0]['url'],

@@ -7,7 +7,7 @@ from django.utils.translation import ugettext as _
 from django.views.generic import ListView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
 
-from speeches.models import Section
+from speeches.models import Speaker, Section
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
@@ -21,6 +21,15 @@ class TitleAdder(object):
         context = super(TitleAdder, self).get_context_data(**kwargs)
         context.update(title=self.page_title)
         return context
+
+class SpeakerListView(ListView):
+    queryset = Speaker.objects.exclude(family_name='').order_by('family_name', 'given_name')
+    template_name = 'speaker_list.html'
+    def get_context_data(self, **kwargs):
+        context = super(SpeakerListView, self).get_context_data(**kwargs)
+        context['former_list'] = sorted(Speaker.objects.filter(family_name=''), key=lambda v: v.name.split(' ')[-1])
+        return context
+people = SpeakerListView.as_view()
 
 class DebateIndexView(ArchiveIndexView):
     queryset = Section.objects.filter(parent=None)

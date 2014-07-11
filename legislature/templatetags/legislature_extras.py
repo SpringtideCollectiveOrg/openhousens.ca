@@ -10,6 +10,7 @@ register = template.Library()
 
 first_letter = re.compile(r'\b[a-z]')
 not_all_caps = re.compile(r'[a-gi-ru-z]')  # e.g. CFLs, DHAs, 75th
+honorifics = re.compile(r'\b(?:Hon|Mr|Ms)\. ')
 patronymic = re.compile(r"(Mac|Mc|'|-)([a-z])")
 # @see http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html
 lower_case_words = ('and', 'by', 'for', 'of', 'the', 'to')
@@ -45,7 +46,7 @@ def heading(string):
         return ' '.join(words)
 
 @register.filter()
-def speaker_name(speech):
+def speech_speaker(speech):
     if speech.speaker_id:
         name = speech.speaker.name
     else:
@@ -53,7 +54,15 @@ def speaker_name(speech):
     if not_all_caps.search(name):
         return name
     else:
-        return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
+        return speaker_name(name)
+
+@register.filter()
+def speaker_name(name):
+    return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
+
+@register.filter()
+def person_name(name):
+    return honorifics.sub('', speaker_name(name))
 
 @register.filter()
 def speech_class(speech):
@@ -68,7 +77,7 @@ def speech_class(speech):
 
 @register.filter()
 def tweet_text(speech):
-    name = speaker_name(speech)
+    name = speech_speaker(speech)
     text = None
     if speech.title:
         text = heading(speech.title)

@@ -13,10 +13,10 @@
 <p class="from">
   {% if speech.speaker_id %}
   <a href="{% url 'speeches:speaker-view' speech.speaker.slug %}">
-    {{ speech|speaker_name }}
+    {{ speech|speech_speaker }}
   </a>
   {% else %}
-  {{ speech|speaker_name }}
+  {{ speech|speech_speaker }}
   {% endif %}
 </p>
 {% endif %}
