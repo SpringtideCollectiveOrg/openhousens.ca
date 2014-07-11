@@ -33,6 +33,7 @@
         <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="Mr. Eddie Orrell"/>
         <TLCPerson id="becky.kent" href="/ontology/person/ca-ns.becky.kent" showAs="Ms. Becky Kent"/>
         <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="Hon. David Wilson"/>
+        <TLCPerson id="ramona.jennex" href="/ontology/person/ca-ns.ramona.jennex" showAs="Hon. Ramona Jennex"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MADAM SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
@@ -913,10 +914,10 @@
           <p>Madam Speaker, I move that you do now leave the Chair and the House resolve itself into a Committee of the Whole House on Bills.</p>
         </speech>
         <narrative>
-          <p>7:21 p.m. The House resolved itself into a CWH on Bills with Deputy Speaker Ms. Becky Kent in the Chair.</p>
+          <p>7:21 p.m. The House resolved itself into a Committee of the Whole House on Bills with Deputy Speaker Ms. Becky Kent in the Chair.</p>
         </narrative>
         <narrative>
-          <p>7:32 p.m. CWH on Bills rose and the House reconvened with Deputy Speaker Ms. Becky Kent in the Chair.</p>
+          <p>7:32 p.m. Committee of the Whole House on Bills rose and the House reconvened with Deputy Speaker Ms. Becky Kent in the Chair.</p>
         </narrative>
         <speech by="" as="#speaker" status="undefined">
           <from>MADAM SPEAKER</from>
@@ -949,22 +950,22 @@
       </papers>
       <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
-        <question to="#bfdc26bd-49cf-4518-8daf-227ab65bd8b7" by="#eddie.orrell">
+        <question to="#ramona.jennex" by="#eddie.orrell">
           <num title="7">QUESTION NO. 7</num>
           <from>Mr. Eddie Orrell</from>
           <p>(1) In May 2009, Opposition Leader Darrell Dexter's Chief of Staff Dan O'Connor in a letter on behalf of his Leader was critical of the established funding criteria concerning the Tuition Support Program being put forth. The letter sent to Landmark East clearly left a firm impression that a fourth year of funding would be made available to students. Will the minister explain why her government in April 2010 added only an optional fourth year for transition instead of a guaranteed fourth year?</p>
         </question>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="8">QUESTION NO. 8</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) The Town of New Glasgow has met a total of six times with four different members of the Executive Council including the Minister of Justice, as well as the Premier between November 9, 2009 and August 30, 2011. Concerns were raised each time about the establishment of a new permanent justice complex within the Town of New Glasgow. Will the minister provide an update as to the government's plan concerning such a complex?</p>
         </question>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="9">QUESTION NO. 9</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) In May 2010, the Government of Nova Scotia, through the Department of Justice, agreed to cover the cost of a regional policing study for Pictou County. More than 18 months later, the government has not made any funding available. Why?</p>
         </question>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="10">QUESTION NO. 10</num>
           <from>Mr. Allan MacMaster</from>
           <p>(1) Does the Minister of Justice support a regional policing study, which will ensure a high standard of policing services throughout Pictou County or is it his intention to dissolve the municipal police forces and accept RCMP policing?</p>

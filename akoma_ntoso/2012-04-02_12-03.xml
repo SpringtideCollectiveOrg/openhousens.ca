@@ -32,6 +32,7 @@
         <TLCPerson id="pam.birdsall" href="/ontology/person/ca-ns.pam.birdsall" showAs="Ms. Pam Birdsall"/>
         <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="Hon. Sterling Belliveau"/>
         <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="Mr. Andrew Younger"/>
+        <TLCPerson id="percy.paris" href="/ontology/person/ca-ns.percy.paris" showAs="Hon. Percy Paris"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
@@ -805,12 +806,12 @@
       <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
         <subheading>(RESPONSES)</subheading>
-        <question to="#bfdc26bd-49cf-4518-8daf-227ab65bd8b7" by="#eddie.orrell">
+        <question to="#ramona.jennex" by="#eddie.orrell">
           <num title="7">QUESTION NO. 7</num>
           <from>Mr. E. Orrell</from>
           <p>(1) In May 2009, Opposition Leader Darrell Dexter's Chief of Staff Dan O'Connor in a letter on behalf of his Leader was critical of the established funding criteria concerning the Tuition Support Program being put forth. The letter sent to Landmark East clearly left a firm impression that a fourth year of funding would be made available to students. Will the minister explain why her government in April 2010 added only an optional fourth year for transition instead of a guaranteed fourth year?</p>
         </question>
-        <answer by="#ramona.jennex" to="#b3983942-a49c-4aa8-80f2-cd6b423518f2"><heading>RESPONSE:</heading><from>Hon. R. Jennex</from><p><i>January 5, 2012</i></p>
+        <answer by="#ramona.jennex" to="#eddie.orrell"><heading>RESPONSE:</heading><from>Hon. R. Jennex</from><p><i>January 5, 2012</i></p>
 <p><i>Mr. Eddie Orrell</i></p>
 <p><i>MLA, Cape Breton North</i></p>
 <p><i>309 Commercial Street</i></p>
@@ -824,12 +825,12 @@
 <p><i>Ramona Jennex</i></p>
 <p><i>Minister of Education</i></p>
 <p><i>C: Neil Ferguson, Chief Clerk, Office of the Clerk</i></p></answer>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="8">QUESTION NO. 8</num>
           <from>Mr. A. MacMaster</from>
           <p>(1) The Town of New Glasgow has met a total of six times with four different members of the Executive Council including the Minister of Justice as well as the Premier between November 9, 2009 and August 30, 2011. Concerns were raised each time about the establishment of a new permanent justice complex within the Town of New Glasgow. Will the minister provide an update as to the government's plan concerning such a complex?</p>
         </question>
-        <answer by="#ross.landry" to="#278da886-2783-4343-8233-fa51803c6092"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 11, 2012</i></p>
+        <answer by="#ross.landry" to="#allan.gerard.macmaster"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 11, 2012</i></p>
 <p><i>Mr. Allan MacMaster</i></p>
 <p><i>15759 Central Avenue</i></p>
 <p><i>P.O. Box 238</i></p>
@@ -842,12 +843,12 @@
 <p><i>Yours very truly,</i></p>
 <p><i>Ross Landry</i></p>
 <p><i>cc: Neil Ferguson, Office of the Clerk</i></p></answer>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="9">QUESTION NO. 9</num>
           <from>Mr. A. MacMaster</from>
           <p>(1) In May 2010, did the Government of Nova Scotia through the Department of Justice agreed to cover the cost of a regional policing study for Pictou County. More than 18 months later, the government has not made any funding available. Why?</p>
         </question>
-        <answer by="#ross.landry" to="#278da886-2783-4343-8233-fa51803c6092"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
+        <answer by="#ross.landry" to="#allan.gerard.macmaster"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
 <p><i>Mr. Neil Ferguson</i></p>
 <p><i>Office of the Clerk</i></p>
 <p><i>House of Assembly</i></p>
@@ -859,12 +860,12 @@
 <p><i>With respect to question ten, dealing with my support for a regional policing study, I can assure the honourable member and this House that my office and this government remain committed to ensuring a high standard of policing consistent with the requirements of the Police Act. Furthermore, I can also reassure the member that it is not my intention to dissolve municipal police services. The Department of Justice continues to work collaboratively to review models and options for municipal policing in the best interests of those communities. Every municipality in Nova Scotia is responsible for the policing and maintenance of law and order in their jurisdiction. The Minister of Justice's duties include ensuring that an adequate and effective level of policing is maintained throughout Nova Scotia.</i></p>
 <p><i>Yours very truly,</i></p>
 <p><i>Ross Landry</i></p></answer>
-        <question to="#0b303cad-6d46-47b8-b795-bc7222fb5acb" by="#allan.gerard.macmaster">
+        <question to="#ross.landry" by="#allan.gerard.macmaster">
           <num title="10">QUESTION NO. 10</num>
           <from>Mr. A. MacMaster</from>
           <p>(1) Does the Minister of Justice support a regional policing study which will ensure a high standard of policing services throughout Pictou County or is it his intention to dissolve the municipal police forces and accept RCMP policing?</p>
         </question>
-        <answer by="#ross.landry" to="#278da886-2783-4343-8233-fa51803c6092"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
+        <answer by="#ross.landry" to="#allan.gerard.macmaster"><heading>RESPONSE:</heading><from>Hon. R. Landry</from><p><i>January 18, 2012</i></p>
 <p><i>Mr. Neil Ferguson</i></p>
 <p><i>Office of the Clerk</i></p>
 <p><i>House of Assembly</i></p>
@@ -879,17 +880,17 @@
       </questions>
       <questions>
         <heading>NOTICE OF QUESTIONS FOR WRITTEN ANSWERS</heading>
-        <question to="#961559e3-0215-4bc4-b914-e53766e4e611" by="#eddie.orrell">
+        <question to="#percy.paris" by="#eddie.orrell">
           <num title="11">QUESTION NO. 11</num>
           <from>Mr. Eddie Orrell</from>
           <p>(1) The Keltic Lodge Resort, one of the province's Signature Resorts is an important economic and employment drive in Cape Breton. Last week, at the announcement for the Capital Plan, the Minister of Finance said there will be an announcement made soon about the fate of the resorts. I'm not sure if the minister has a plan, will have a plan or knows how to plan based on his response to my colleague on November 2, when he said "we will have a plan - we have a plan that will be going to Cabinet very shortly." My question to the Minister of Economic and Rural Development and Tourism is, will the minister outline his plan today for the Signature Resorts, which are important tourism drivers?</p>
         </question>
-        <question to="#961559e3-0215-4bc4-b914-e53766e4e611" by="#eddie.orrell">
+        <question to="#percy.paris" by="#eddie.orrell">
           <num title="12">QUESTION NO. 12</num>
           <from>Mr. Eddie Orrell</from>
           <p>(1) Community members in Ingonish are concerned about the diminishing condition and reputation of the Keltic Lodge due to lack of repairs and investment from this NDP Government. Even so, the minister has been sitting on his hands and doing nothing for over two years. Is this government considering selling the Signature Resorts or is it planning to invest in jobs and the rural communities that rely on these resorts?</p>
         </question>
-        <question to="#961559e3-0215-4bc4-b914-e53766e4e611" by="#eddie.orrell">
+        <question to="#percy.paris" by="#eddie.orrell">
           <num title="13">QUESTION NO. 13</num>
           <from>Mr. Eddie Orrell</from>
           <p>(1) Will the minister stop the guessing game and provide some certainty for the people who rely on the Signature Resorts?</p>
