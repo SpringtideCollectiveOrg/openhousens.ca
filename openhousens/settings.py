@@ -24,7 +24,7 @@ DEBUG = not os.getenv('PRODUCTION', False)
 
 TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['openhousens.herokuapp.com', '.openhousens.ca']
 
 
 # Application definition
@@ -130,13 +130,36 @@ TEMPLATE_DIRS = (
 
 from django.conf import global_settings
 TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
-    'django.core.context_processors.request',
+    'django.core.context_processors.request', # needed by pagination
 )
 
-# SQL query logging.
-if DEBUG and os.getenv('VERBOSE', False):
+# @see https://docs.djangoproject.com/en/1.7/topics/cache/#memcached
+from memcacheify import memcacheify
+CACHES = memcacheify()
+
+# Error logging.
+# @see https://github.com/etianen/django-herokuapp#outputting-logs-to-heroku-logplex
+if os.getenv('PRODUCTION', False):
     LOGGING = {
         'version': 1,
+        'disable_existing_loggers': False,
+        'handlers': {
+            'console': {
+                'level': 'INFO',
+                'class': 'logging.StreamHandler',
+            },
+        },
+        'loggers': {
+            'django': {
+                'handlers': ['console'],
+            }
+        }
+    }
+# SQL query logging.
+elif os.getenv('VERBOSE', False):
+    LOGGING = {
+        'version': 1,
+        'disable_existing_loggers': False,
         'handlers': {
             'console': {
                 'level': 'DEBUG',

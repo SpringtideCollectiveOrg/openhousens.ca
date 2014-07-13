@@ -94,9 +94,19 @@ Set the ElasticSearch configuration variable using one of the following:
     heroku config:add ELASTICSEARCH_URL=`heroku config:get BONSAI_URL`
     heroku config:add ELASTICSEARCH_URL=`heroku config:get FOUNDELASTICSEARCH_URL`
 
+Add a Memcached addon:
+
+    heroku addons:add memcachier
+
+Enable the [`log-runtime-metrics`](https://devcenter.heroku.com/articles/log-runtime-metrics) feature to track memory consumption:
+
+    heroku labs:enable log-runtime-metrics
+
 Add configuration variables (replace `YOUR-SECRET-KEY`):
 
     heroku config:set PRODUCTION=1
+    heroku config:set WEB_CONCURRENCY=3
+    heroku config:set PYTHONHASHSEED=random
     heroku config:set DJANGO_SECRET_KEY=YOUR-DJANGO-SECRET-KEY
 
 You can [generate a secret key in Python](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py):
