@@ -30,23 +30,26 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = (
-    'django.contrib.auth', # needed by instances
-    'django.contrib.contenttypes', # needed by django.contrib.auth
+    'django.contrib.auth', # needed by instances models
+    'django.contrib.contenttypes', # needed by popolo models
     'django.contrib.staticfiles',
     # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
     'haystack',
     'django_bleach',
     'popolo',
-    'instances',
+    'instances', # needed by speeches models
     'speeches',
     'legislature',
 )
 
+# @see https://docs.djangoproject.com/en/1.7/ref/middleware/#middleware-ordering
 MIDDLEWARE_CLASSES = (
+    # @see https://docs.djangoproject.com/en/1.7/ref/middleware/#django.middleware.gzip.GZipMiddleware
+    'django.middleware.gzip.GZipMiddleware',
+    # @see https://docs.djangoproject.com/en/1.7/topics/conditional-view-processing/
+    'django.middleware.http.ConditionalGetMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'speeches.middleware.InstanceMiddleware', # needed by SayIt views
 )
 
 ROOT_URLCONF = 'openhousens.urls'

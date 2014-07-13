@@ -5,7 +5,9 @@
 ## SayIt
 
 * [Forks](https://github.com/opennorth/openhousens.ca/issues/2) SayIt to add better Akoma Ntoso support
-* Omits or replaces most SayIt views
+* Omits or replaces all SayIt views
 * Omits the following apps:
   * `django.contrib.humanize`
   * `django_select2`
+* Omits the following middleware:
+  * `speeches.middleware.InstanceMiddleware`

@@ -1,13 +1,12 @@
 import calendar
 
-from django.core.exceptions import ObjectDoesNotExist
-from django.http import Http404
 from django.shortcuts import get_object_or_404, render_to_response
-from django.utils.translation import ugettext as _
 from django.views.generic import ListView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
 
-from speeches.models import Speaker, Section
+from haystack.views import SearchView
+from speeches.models import Section, Speaker
+from speeches.search import SpeakerForm, SpeechForm
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
@@ -85,3 +84,18 @@ class DebateView(ListView):
         context['section'] = self.object
         return context
 debate = DebateView.as_view()
+
+class CustomSearchView(SearchView):
+    def __init__(self, *args, **kwargs):
+        kwargs['form_class'] = SpeechForm
+        super(CustomSearchView, self).__init__(*args, **kwargs)
+
+    def extra_context(self):
+        if not self.query:
+            return {}
+
+        self.form_class = SpeakerForm
+        person_form = self.build_form()
+        return {
+            'speaker_results': person_form.search(),
+        }
