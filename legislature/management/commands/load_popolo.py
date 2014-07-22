@@ -3,9 +3,9 @@ import re
 from django.core.management.base import BaseCommand, CommandError
 
 import requests
-from speeches.models import Speaker
-from popolo.models import Membership, Organization, Post
 from instances.models import Instance
+from popolo.models import Membership, Organization, Post
+from speeches.models import Speaker
 
 class Command(BaseCommand):
     args = 'base-url'
