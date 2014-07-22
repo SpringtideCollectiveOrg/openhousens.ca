@@ -220,16 +220,16 @@ span.memberships { /* p is styled differently */
 th {
   white-space: nowrap;
 }
-th .glyphicon-arrow-up {
+th .glyphicon-chevron-up {
   display: none;
 }
-th .glyphicon-arrow-down {
+th .glyphicon-chevron-down {
   display: none;
 }
-th.headerSortDown .glyphicon-arrow-up {
+th.headerSortDown .glyphicon-chevron-up {
   display: inline;
 }
-th.headerSortUp .glyphicon-arrow-down {
+th.headerSortUp .glyphicon-chevron-down {
   display: inline;
 }
 .modified {
@@ -257,4 +257,20 @@ blockquote {
   padding-bottom: 0;
   border: none;
   font-size: 1em;
+}
+th {
+  padding: 0 10px 10px 0;
+}
+td {
+  padding: 10px 10px 10px 0;
+}
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+th {
+  border-bottom: 1px solid #58585b;
+}
+td {
+  border-top: 1px solid #eee;
 }
