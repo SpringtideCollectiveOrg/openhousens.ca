@@ -10,7 +10,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+    <div class="col-sm-10 col-md-8 col-sm-offset-2">
       <h1>Debates of {{ section.start_date|date:"F jS, Y" }}</h1>
 
       <p>House of Assembly Hansard {{ section.number }} of the {{ section.legislature }}, {{ section.session }}. (The <a href="{{ section.source_url }}">original version</a> is on the legislature's site.)</p>
@@ -19,14 +19,14 @@
 
 
   <div class="row">
-    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+    <div class="col-sm-10 col-md-8 col-sm-offset-2">
 {{ pagination }}
     </div>
   </div>
 
 {% for speech in object_list %}
   <div class="row row-speech {{ speech|speech_class }}">
-    <div class="col-xs-2 col-meta">
+    <div class="col-sm-2 col-meta hidden-xs">
   {% if speech.speaker_display %}
     {% if speech.section.parent.parent_id %}
       <div class="heading-level-1">{{ speech.section.parent.title|heading }}</div>
@@ -42,14 +42,14 @@
     {% endif %}
   {% endif %}
     </div>
-    <div class="col-xs-10 col-md-8 col-speech" id="s{{ speech.id }}">
+    <div class="col-sm-10 col-md-8 col-speech" id="s{{ speech.id }}">
 {% include "speeches/speech.html" with speech=speech section=section with_speaker=1 %}
     </div>
   </div>
 {% endfor %}
 
   <div class="row">
-    <div class="col-xs-10 col-md-8 col-xs-offset-2">
+    <div class="col-sm-10 col-md-8 col-sm-offset-2">
 {{ pagination }}
     </div>
   </div>

@@ -77,6 +77,7 @@ a:focus,
   padding-top: 50%;
 }
 figure {
+  max-width: 150px;
   margin-bottom: 20px;
 }
 figure img {
@@ -216,6 +217,10 @@ span.memberships { /* p is styled differently */
   display: block;
 }
 
+.date {
+  white-space: nowrap;
+}
+
 h1,
 h2 {
   margin-top: 0;
@@ -226,6 +231,7 @@ h1 {
 h2 {
   font-size: 24px;
   font-weight: 300;
+  margin-bottom: 20px;
 }
 p {
   margin-bottom: 20px;
