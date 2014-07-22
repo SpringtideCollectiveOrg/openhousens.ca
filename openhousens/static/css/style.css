@@ -129,7 +129,7 @@ p.memberships { /* span is styled differently */
 .col-speech-with-border {
   border-top: 1px solid #ccc;
 }
-.col-speech-with-border:first-of-type {
+.col-speech-with-border:nth-of-type(2) {
   border-top: none;
   padding-top: 0;
 }
@@ -217,7 +217,22 @@ span.memberships { /* p is styled differently */
   display: block;
 }
 
-.date {
+th {
+  white-space: nowrap;
+}
+th .glyphicon-arrow-up {
+  display: none;
+}
+th .glyphicon-arrow-down {
+  display: none;
+}
+th.headerSortDown .glyphicon-arrow-up {
+  display: inline;
+}
+th.headerSortUp .glyphicon-arrow-down {
+  display: inline;
+}
+.modified {
   white-space: nowrap;
 }
 

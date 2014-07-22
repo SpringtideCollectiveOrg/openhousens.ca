@@ -18,6 +18,9 @@
 {% elif speaker %}
   <li><a href="{% url 'legislature:speaker-list' %}">People</a></li>
   <li class="active">{{ speaker.name|person_name }}</li>
+{% elif bill %}
+  <li><a href="{% url 'legislature:bill-list' %}">Bills</a></li>
+  <li class="active">{{ bill.title }}</li>
 {% elif speaker_list %}
   <li class="active">People</li>
 {% elif title %}

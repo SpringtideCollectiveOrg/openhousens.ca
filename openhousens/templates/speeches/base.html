@@ -33,6 +33,7 @@
         <li><a href="{% url 'legislature:home' %}">Home</a></li>
         <li><a href="{% url 'legislature:speaker-list' %}">People</a></li>
         <li><a href="{% url 'legislature:section-list' %}">Debates</a></li>
+        <li><a href="{% url 'legislature:bill-list' %}">Bills</a></li>
         <li><a href="{% url 'legislature:about' %}">About</a></li>
       </ul>
       <form action="{% url 'legislature:haystack_search' %}" method="get" class="navbar-form navbar-right" role="search">
@@ -47,6 +48,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+{% block js %}{% endblock %}
 <script src="{% static 'js/main.js' %}"></script>
 
 <script>

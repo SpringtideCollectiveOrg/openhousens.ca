@@ -1,12 +1,17 @@
 import calendar
+import datetime
 
 from django.shortcuts import get_object_or_404, render_to_response
-from django.views.generic import ListView
+from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
 
+import requests
 from haystack.views import SearchView
+from lxml import html
 from speeches.models import Section, Speaker
 from speeches.search import SpeakerForm, SpeechForm
+
+from legislature.models import Bill
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
@@ -21,28 +26,28 @@ class TitleAdder(object):
         context.update(title=self.page_title)
         return context
 
-class DebateIndexView(ArchiveIndexView):
+class DebateArchiveIndexView(ArchiveIndexView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
-    template_name = 'section_list.html'
-debates = DebateIndexView.as_view()
+    template_name = 'section_archive.html'
+debates = DebateArchiveIndexView.as_view()
 
-class DebateYearArchive(TitleAdder, YearArchiveView):
+class DebateYearArchiveView(TitleAdder, YearArchiveView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
-    template_name = 'section_list_by_year.html'
+    template_name = 'section_archive_year.html'
     make_object_list = True
     page_title = lambda self: 'Debates from %s' % self.get_year()
-debates_by_year = DebateYearArchive.as_view()
+debates_by_year = DebateYearArchiveView.as_view()
 
-class DebateMonthArchive(TitleAdder, MonthArchiveView):
+class DebateMonthArchiveView(TitleAdder, MonthArchiveView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
-    template_name = 'section_list_by_month.html'
+    template_name = 'section_archive_month.html'
     make_object_list = True
     page_title = lambda self: 'Debates from %s %s' % (calendar.month_name[int(self.get_month())], self.get_year())
     month_format = '%m'  # Use integers in paths.
-debates_by_month = DebateMonthArchive.as_view()
+debates_by_month = DebateMonthArchiveView.as_view()
 
 class SpeakerListView(ListView):
     queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
@@ -54,7 +59,29 @@ class SpeakerListView(ListView):
         return context
 people = SpeakerListView.as_view()
 
-class SpeakerView(ListView):
+class BillListView(ListView):
+    template_name = 'bill_list.html'
+
+    # @see http://docs.opencivicdata.org/en/latest/proposals/0006.html
+    def get_queryset(self):
+        page = requests.get('http://nslegislature.ca/index.php/proceedings/status-of-bills/sort/status')
+        tree = html.fromstring(page.text)
+        return [
+            Bill(
+                status=tr.xpath('./td[1]//text()')[0],
+                identifier=int(tr.xpath('./td[2]//text()')[0]),
+                title=tr.xpath('./td[3]//text()')[0].strip(),
+                url=tr.xpath('./td[3]//@href')[0],
+                date=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
+            ) for tr in tree.xpath('//tr[@valign="top"]')
+        ]
+bills = BillListView.as_view()
+
+class BillDetailView(DetailView):
+    pass
+bill = BillDetailView.as_view()
+
+class SpeakerDetailView(ListView):
     paginate_by = 15
     template_name = 'speaker_detail.html'
 
@@ -63,12 +90,12 @@ class SpeakerView(ListView):
         return self.object.speech_set.all().order_by('-start_date', '-id').prefetch_related('section', 'speaker')
 
     def get_context_data(self, **kwargs):
-        context = super(SpeakerView, self).get_context_data(**kwargs)
+        context = super(SpeakerDetailView, self).get_context_data(**kwargs)
         context['speaker'] = self.object
         return context
-person = SpeakerView.as_view()
+person = SpeakerDetailView.as_view()
 
-class DebateView(ListView):
+class DebateDetailView(ListView):
     paginate_by = 15
     template_name = 'section_detail.html'
 
@@ -80,10 +107,10 @@ class DebateView(ListView):
         return self.object.descendant_speeches().prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
 
     def get_context_data(self, **kwargs):
-        context = super(DebateView, self).get_context_data(**kwargs)
+        context = super(DebateDetailView, self).get_context_data(**kwargs)
         context['section'] = self.object
         return context
-debate = DebateView.as_view()
+debate = DebateDetailView.as_view()
 
 # @see https://github.com/mysociety/sayit/blob/master/speeches/search.py
 class CustomSearchView(SearchView):
@@ -100,5 +127,3 @@ class CustomSearchView(SearchView):
         return {
             'speaker_results': person_form.search(),
         }
-
-# @todo add bills and bill views
