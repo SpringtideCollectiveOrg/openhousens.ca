@@ -21,16 +21,6 @@ class TitleAdder(object):
         context.update(title=self.page_title)
         return context
 
-class SpeakerListView(ListView):
-    queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
-    template_name = 'speaker_list.html'
-
-    def get_context_data(self, **kwargs):
-        context = super(SpeakerListView, self).get_context_data(**kwargs)
-        context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1])
-        return context
-people = SpeakerListView.as_view()
-
 class DebateIndexView(ArchiveIndexView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
@@ -53,6 +43,16 @@ class DebateMonthArchive(TitleAdder, MonthArchiveView):
     page_title = lambda self: 'Debates from %s %s' % (calendar.month_name[int(self.get_month())], self.get_year())
     month_format = '%m'  # Use integers in paths.
 debates_by_month = DebateMonthArchive.as_view()
+
+class SpeakerListView(ListView):
+    queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
+    template_name = 'speaker_list.html'
+
+    def get_context_data(self, **kwargs):
+        context = super(SpeakerListView, self).get_context_data(**kwargs)
+        context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1])
+        return context
+people = SpeakerListView.as_view()
 
 class SpeakerView(ListView):
     paginate_by = 15
@@ -85,6 +85,7 @@ class DebateView(ListView):
         return context
 debate = DebateView.as_view()
 
+# @see https://github.com/mysociety/sayit/blob/master/speeches/search.py
 class CustomSearchView(SearchView):
     def __init__(self, *args, **kwargs):
         kwargs['form_class'] = SpeechForm
@@ -99,3 +100,5 @@ class CustomSearchView(SearchView):
         return {
             'speaker_results': person_form.search(),
         }
+
+# @todo add bills and bill views
