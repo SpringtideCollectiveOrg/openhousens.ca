@@ -22,7 +22,7 @@ class Bill(models.Model):
     modified = models.DateField()
     status = models.CharField(max_length=3, choices=STATUS_CHOICES)
     url = models.URLField()
-    law_amendments_commmittee_submissions_url = models.URLField()
+    law_amendments_committee_submissions_url = models.URLField()
 
     def __str__(self):
         return self.title

@@ -126,4 +126,4 @@ def tweet_text(speech):
 
 @register.filter
 def hansard_url(date):
-    return reverse('legislature:section-view', args=('debates-%s' % date.strftime('%-d-%B-%Y'),))
+    return reverse('legislature:section-view', args=(('debates-%s' % date.strftime('%-d-%B-%Y')).lower(),))

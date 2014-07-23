@@ -97,13 +97,18 @@ class BillDetailView(DetailView):
 
         bill = Bill(
             identifier=int(div.xpath('./h3//text()')[0].rsplit(' ', 1)[1]),
-            title=div.xpath('./h2//text()')[0].replace('(amended)', ''),
-            creator=Speaker.objects.get(sources__url=div.xpath('./p//@href')[0].rstrip('/')),
-            law_amendments_commmittee_submissions_url=div.xpath('string(.//@href[contains(.,"/committees/submissions/")])'),
+            title=div.xpath('./h2//text()')[0].replace('(amended)', '').rstrip('*\n '),
+            url=url,
+            law_amendments_committee_submissions_url=div.xpath('string(.//@href[contains(.,"/committees/submissions/")])'),
         )
 
+        # @see http://nslegislature.ca/index.php/proceedings/bills/liquor_control_act_-_bill_52
+        matches = div.xpath('./p[not(@class)]//@href')
+        if matches:
+            bill.creator = Speaker.objects.get(sources__url=matches[0].rstrip('/'))
+
         # Some descriptions are identical to titles.
-        description = div.xpath('./h3//text()')[1].strip()
+        description = div.xpath('./h3//text()')[1].rstrip('*\n ')
         if bill.title != description:
             bill.description = description
 
@@ -112,10 +117,10 @@ class BillDetailView(DetailView):
             matches = tr.xpath('./td//text()')
             if matches and matches[0] != 'View':
                 action = Action(description=tr.xpath('./th//text()')[0])
-                if matches[0] == 'Submission Summary':
+                try:
+                    action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()
+                except ValueError:
                     action.text = matches[0]
-                else:
-                    action.date = datetime.datetime.strptime(matches[0], '%B %d, %Y').date()
                 actions.append(action)
 
         # Assigning `actions` to `action_set` will trigger a database call.
