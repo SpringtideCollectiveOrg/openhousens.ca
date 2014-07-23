@@ -22,8 +22,7 @@
     {% endif %}
 </p>
   {% endif %}
-{% endif %}
-{% if with_context %}
+{% elif with_context %}
 <p class="context">
   {# @todo link to speech #}
   <span class="title">{{ speech.section.title|heading }}</span>

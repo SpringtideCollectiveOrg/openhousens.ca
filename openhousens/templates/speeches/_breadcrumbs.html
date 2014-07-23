@@ -27,7 +27,12 @@
   <li class="active">Debates</li>
 {% elif title %}
   <li class="active">{{ title }}</li>
-{% else %}
+{% elif object_list %}
   <li class="active">Bills</li>
+{% elif query %}
+  <li><a href="{% url 'legislature:haystack_search' %}">Search</a></li>
+  <li class="active">{{ query }}</li>
+{% else %}
+  <li class="active">Search</li>
 {% endif %}
 </ol>

@@ -43,10 +43,18 @@
       <p class="memberships">{{ speaker|speaker_description }}</p>
 {% endif %}
 
-      <form action="{% url "legislature:haystack_search" %}" method="get" >
+      <form action="{% url "legislature:haystack_search" %}" method="get" class="form-inline form-inline-always" role="form">
+        <div class="form-group">
+          <label class="sr-only" for="q">Enter a bill, keyword or name</label>
+          <input name="q" id="q" type="search" class="form-control" placeholder="Search {{ speaker.name|person_short_name }}'s speeches">
+        </div>
+        <button type="submit" class="btn btn-default">
+          <span class="hidden-xs">Search</span>
+          <span class="visible-xs">
+            <span class="glyphicon glyphicon-search"></span>
+          </span>
+        </button>
         <input type="hidden" name="p" value="{{ speaker.id }}">
-        <input type="search" placeholder="Search {{ speaker.name|person_short_name }}'s speeches" name="q">
-        <input type="submit" value="Search">
       </form>
 
       <div class="hidden-xs">

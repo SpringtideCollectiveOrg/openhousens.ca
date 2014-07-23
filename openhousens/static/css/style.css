@@ -18,6 +18,7 @@ a:focus,
 
 .list-inline {
   margin-left: 0;
+  margin-bottom: 0;
 }
 .list-inline li {
   width: 25%;
@@ -25,6 +26,28 @@ a:focus,
   padding-left: 0;
   padding-right: 0;
   font-weight: bold;
+}
+
+.form-inline-always {
+  margin-bottom: 20px;
+}
+.form-inline-always .form-group {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+.form-inline-always .form-control {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+}
+.form-inline-always #q {
+  width: 250px;
+}
+@media (min-width: 768px) {
+  .form-inline-always #q {
+    width: 400px;
+  }
 }
 
 .push-down {
@@ -76,7 +99,6 @@ a:focus,
   width: auto;
   vertical-align: middle;
 }
-
 
 .jumbotron {
   margin-bottom: 20px;
@@ -203,11 +225,13 @@ p.memberships { /* span is styled differently */
 
 /* Section detail */
 
+.col-meta {
+  font-size: 12px;
+}
 .heading-level-1,
 .heading-level-2,
 .heading-level-3 {
   color: #58585b;
-  font-size: 12px;
 }
 .heading-level-1 {
   font-weight: bold;
@@ -221,6 +245,9 @@ p.memberships { /* span is styled differently */
   border-top: none;
   padding-top: 0;
 }
+.col-speech-with-border:last-of-type {
+  padding-bottom: 0;
+}
 .col-meta,
 .col-speech {
   padding-top: 20px;
@@ -230,6 +257,9 @@ p.memberships { /* span is styled differently */
 }
 .col-speech p:last-child {
   margin-bottom: 0;
+}
+.speeches .row-speech:last-of-type .col-speech {
+  padding-bottom: 0;
 }
 
 .person .col-speech {
@@ -300,6 +330,7 @@ span.memberships { /* p is styled differently */
   top: 20px;
   right: 0;
   padding-right: 15px;
+  background-color: #fff;
 }
 .actions a {
   display: inline-block;
@@ -357,6 +388,14 @@ th.headerSortUp .glyphicon-chevron-up {
   .dl-horizontal dd {
     margin-left: 240px;
   }
+}
+
+/* Search */
+
+.search-results em {
+  background-color: #fee373;
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* Common */

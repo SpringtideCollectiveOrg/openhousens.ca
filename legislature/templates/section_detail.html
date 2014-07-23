@@ -24,29 +24,31 @@
     </div>
   </div>
 
+  <div class="speeches">
 {% for speech in object_list %}
-  <div class="row row-speech {{ speech|speech_class }}">
-    <div class="col-sm-2 col-meta hidden-xs">
+    <div class="row row-speech {{ speech|speech_class }}">
+      <div class="col-sm-2 col-meta hidden-xs">
   {% if speech.speaker_display %}
     {% if speech.section.parent.parent_id %}
-      <div class="heading-level-1">{{ speech.section.parent.title|heading }}</div>
-      <div class="heading-level-2">{{ speech.section.title|heading }}</div>
+        <div class="heading-level-1">{{ speech.section.parent.title|heading }}</div>
+        <div class="heading-level-2">{{ speech.section.title|heading }}</div>
       {% if speech.title %}
-      <div class="heading-level-3">{{ speech.title|heading }}</div>
+        <div class="heading-level-3">{{ speech.title|heading }}</div>
       {% endif %}
     {% elif speech.section.parent_id %}
-      <div class="heading-level-1">{{ speech.section.title|heading }}</div>
+        <div class="heading-level-1">{{ speech.section.title|heading }}</div>
       {% if speech.title %}
-      <div class="heading-level-2">{{ speech.title|heading }}</div>
+        <div class="heading-level-2">{{ speech.title|heading }}</div>
       {% endif %}
     {% endif %}
   {% endif %}
+      </div>
+      <div class="col-sm-10 col-md-8 col-speech" id="s{{ speech.id }}">
+{% include "speeches/speech.html" with speech=speech with_speaker=1 %}
+      </div>
     </div>
-    <div class="col-sm-10 col-md-8 col-speech" id="s{{ speech.id }}">
-{% include "speeches/speech.html" with speech=speech section=section with_speaker=1 %}
-    </div>
-  </div>
 {% endfor %}
+  </div>
 
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">

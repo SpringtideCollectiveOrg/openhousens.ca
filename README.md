@@ -129,6 +129,10 @@ Import Popolo and Akoma Ntoso data:
     heroku run python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
     heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
 
+Rebuild the ElasticSearch index:
+
+    heroku run python manage.py rebuild_index --noinput
+
 Add the Scheduler add-on:
 
     heroku addons:add scheduler

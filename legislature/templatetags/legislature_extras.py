@@ -9,7 +9,7 @@ from legislature.synonyms import upper_case_words, mixed_case_abbreviations, upp
 
 register = template.Library()
 
-first_letter = re.compile(r'\b[a-z]')
+first_letter = re.compile(r'(?<![</])\b[a-z]')
 not_all_caps = re.compile(r'[a-gi-ru-z]')  # e.g. CFLs, DHAs, 75th
 honorifics = re.compile(r'\b(?:Hon|Mr|Ms)\. ')
 patronymic = re.compile(r"(Mac|Mc|'|-)([a-z])")
@@ -75,7 +75,7 @@ def speaker_description(speaker):
 
 @register.filter
 def speaker_name(name):
-    return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
+    return ' '.join(patronymic.sub(capitalize_patronymic, first_letter.sub(upper_case_letter, component.lower())) for component in name.split(' '))
 
 @register.filter
 def person_name(name):
