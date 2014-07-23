@@ -37,14 +37,18 @@
         <li><a href="{% url 'legislature:about' %}">About</a></li>
       </ul>
       <form action="{% url 'legislature:haystack_search' %}" method="get" class="navbar-form navbar-right" role="search">
-        <input name="q" type="text" class="form-control" placeholder="Enter a bill, keyword, phrase or name">
-        <button type="submit" class="btn btn-default">Search</button>
+        <input name="q" type="text" class="form-control" placeholder="Search">
+        <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
       </form>
     </div>
   </div>
 </nav>
 
 {% block content %}{% endblock %}
+
+<footer>
+  <p>A <img src="{% static 'img/springtide-collective.png' %}" alt="" height="25" width="25"> <a href="http://www.springtidecollective.ca/"><strong>Springtide Collective</strong></a> project developed by <img src="{% static 'img/open-north-symbol.png' %}" alt="" height="25" width="25"> <a href="http://www.opennorth.ca/"><strong>Open North</strong></a></p>
+</footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>

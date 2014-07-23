@@ -4,16 +4,25 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-<div class="container-fluid">
-  <h1>Easily track what's said in the Nova Scotia Legislature</h1>
+<div class="jumbotron">
+  <div class="container-fluid">
+    <h1>Easily track what's said in Nova Scotia's Legislature</h1>
+  </div>
+</div>
 
-  <form action="{% url 'legislature:haystack_search' %}" method="get">
-    <input type="search" name="q" placeholder="Enter a bill, keyword, phrase or name">
-    <input type="submit" value="Search">
+<div class="container-fluid home">
+  <p class="lead">Important decisions are made in our legislature. We make it easier for Nova Scotians to know what's happening.</p>
+
+  <form action="{% url 'legislature:haystack_search' %}" method="get" class="form-inline" role="form">
+    <div class="form-group form-group-lg">
+      <label class="sr-only" for="q">Enter a bill, keyword or name</label>
+      <input name="q" id="q" type="search" class="form-control input-lg" placeholder="Enter a bill, keyword or name">
+    </div>
+    <button type="submit" class="btn btn-default btn-lg">Search</button>
   </form>
 
 {% if hansard %}
-  <p>The latest transcript is from <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a>.</p>
+  <p class="latest">The latest transcript is from <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a></p>
 {% endif %}
 </div>
 {% endblock %}

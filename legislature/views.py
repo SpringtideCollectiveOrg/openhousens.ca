@@ -115,15 +115,15 @@ class BillDetailView(DetailView):
         actions = []
         for tr in div.xpath('.//tr'):
             matches = tr.xpath('./td//text()')
-            if matches and matches[0] != 'View':
-                action = Action(description=tr.xpath('./th//text()')[0].rstrip())
+            if matches and matches[0] != 'View':  # Skip link to statute
+                action = Action(description=tr.xpath('./th//text()')[0])
                 try:
-                    action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()
+                    action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()  # Use the first date
                 except ValueError:
                     action.text = matches[0]
                 actions.append(action)
 
-        # Assigning `actions` to `action_set` will trigger a database call.
+        # Assigning `actions` to an `action_set` will trigger a database call.
         setattr(bill, 'actions', actions)
 
         return bill
