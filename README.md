@@ -96,7 +96,7 @@ Set the ElasticSearch configuration variable using one of the following:
     heroku config:add ELASTICSEARCH_URL=`heroku config:get BONSAI_URL`
     heroku config:add ELASTICSEARCH_URL=`heroku config:get FOUNDELASTICSEARCH_URL`
 
-Add a Memcached addon:
+Add a Memcached add-on:
 
     heroku addons:add memcachier
 
@@ -128,6 +128,14 @@ Import Popolo and Akoma Ntoso data:
 
     heroku run python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
     heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
+
+Add the Scheduler add-on:
+
+    heroku addons:add scheduler
+
+[Schedule](https://scheduler.heroku.com/dashboard) the following job daily:
+
+    python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
 
 ## Bugs? Questions?
 
