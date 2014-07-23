@@ -12,6 +12,8 @@ Install the requirements:
 
     pip install -r requirements.txt
 
+If `pylibmc` fails to install, you may need to `export CFLAGS="-std=c99"`.
+
 Create a database (`dropdb openhousens` if it already exists):
 
     createdb openhousens
