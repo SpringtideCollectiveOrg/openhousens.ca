@@ -73,7 +73,7 @@ class BillListView(ListView):
         for tr in tree.xpath('//tr[@valign="top"]'):
             bill = Bill(
                 identifier=int(tr.xpath('./td[2]//text()')[0]),
-                title=tr.xpath('./td[3]//text()')[0].replace('(amended)', ''),
+                title=tr.xpath('./td[3]//text()')[0].replace('(amended)', '').rstrip('*\n '),
                 status=tr.xpath('./td[1]//text()')[0],
                 modified=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
                 url=tr.xpath('./td[3]//@href')[0],
@@ -116,7 +116,7 @@ class BillDetailView(DetailView):
         for tr in div.xpath('.//tr'):
             matches = tr.xpath('./td//text()')
             if matches and matches[0] != 'View':
-                action = Action(description=tr.xpath('./th//text()')[0])
+                action = Action(description=tr.xpath('./th//text()')[0].rstrip())
                 try:
                     action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()
                 except ValueError:

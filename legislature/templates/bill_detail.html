@@ -42,10 +42,16 @@
       <dl class="dl-horizontal">
 {% for action in bill.actions %}
         <dt>{{ action.description }}</dt>
-  {% if action.text == "Submission Summary" %}
+  {% if action.description == "Law Amendments Committee" %}
         <dd><a href="{{ bill.law_amendments_committee_submissions_url }}" target="_blank">{{ action.text }} <span class="glyphicon glyphicon-new-window"></span></a></dd>
   {% elif action.text %}
         <dd>{{ action.text }}</dd>
+  {% elif "Meeting Date(s)" in action.description %}
+        <dd>{{ action.date|date:"F j, Y" }}</dd>
+  {% elif "Reported to the House" in action.description %}
+        <dd>{{ action.date|date:"F j, Y" }}</dd>
+  {% elif action.description == "Commencement" %}
+        <dd>{{ action.date|date:"F j, Y" }}</dd>
   {% else %}
         <dd><a href="{{ action.date|hansard_url }}">{{ action.date|date:"F j, Y" }}</a></dd>
   {% endif %}
