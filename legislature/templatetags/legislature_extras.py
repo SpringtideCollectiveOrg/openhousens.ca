@@ -2,6 +2,7 @@ import calendar
 import re
 
 from django import template
+from django.core.urlresolvers import reverse
 from django.utils.http import urlquote
 
 from legislature.synonyms import upper_case_words, mixed_case_abbreviations, upper_case_abbreviations
@@ -21,11 +22,11 @@ def upper_case_letter(match):
 def capitalize_patronymic(match):
     return match.group(1) + match.group(2).upper()
 
-@register.filter()
+@register.filter
 def month_name(month_number):
     return calendar.month_name[month_number]
 
-@register.filter()
+@register.filter
 def heading(string):
     if not_all_caps.search(string):
         for pattern, repl in mixed_case_abbreviations:
@@ -45,7 +46,7 @@ def heading(string):
             words.append(word)
         return ' '.join(words)
 
-@register.filter()
+@register.filter
 def speaker_party_class(speaker):
     klass = next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
     if klass == 'Nova Scotia Liberal Party':
@@ -56,7 +57,7 @@ def speaker_party_class(speaker):
         return 'pc'
     return ''
 
-@register.filter()
+@register.filter
 def speaker_description(speaker):
     """
     We use speaker.memberships.all() instead of speaker.memberships.filter()
@@ -72,22 +73,22 @@ def speaker_description(speaker):
     label = next(membership.label for membership in speaker.memberships.all() if membership.label)
     return '%s %s' % (party, label)
 
-@register.filter()
+@register.filter
 def speaker_name(name):
     return ' '.join(patronymic.sub(capitalize_patronymic, component.lower().capitalize()) for component in name.split(' '))
 
-@register.filter()
+@register.filter
 def person_name(name):
     return honorifics.sub('', speaker_name(name))
 
-@register.filter()
+@register.filter
 def person_short_name(name):
     """
     Find the person's given name, even if given_name is not set.
     """
     return person_name(name).split(' ')[0]
 
-@register.filter()
+@register.filter
 def speech_speaker(speech):
     if speech.speaker_id:
         name = speech.speaker.name
@@ -98,7 +99,7 @@ def speech_speaker(speech):
     else:
         return speaker_name(name)
 
-@register.filter()
+@register.filter
 def speech_class(speech):
     if speech.speaker_id:
         return 'person'
@@ -109,7 +110,7 @@ def speech_class(speech):
     else:
         return 'narrative'
 
-@register.filter()
+@register.filter
 def tweet_text(speech):
     name = speech_speaker(speech)
     text = None
@@ -122,3 +123,7 @@ def tweet_text(speech):
     else:
         tweet = name
     return urlquote(tweet)
+
+@register.filter
+def hansard_url(date):
+    return reverse('legislature:section-view', args=('debates-%s' % date.strftime('%-d-%B-%Y'),))

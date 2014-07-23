@@ -20,12 +20,14 @@
   <li class="active">{{ speaker.name|person_name }}</li>
 {% elif bill %}
   <li><a href="{% url 'legislature:bill-list' %}">Bills</a></li>
-  <li class="active">{{ bill.title }}</li>
+  <li class="active">Bill No. {{ bill.identifier }}</li>
 {% elif speaker_list %}
   <li class="active">People</li>
+{% elif latest %}
+  <li class="active">Debates</li>
 {% elif title %}
   <li class="active">{{ title }}</li>
 {% else %}
-  <li class="active">Debates</li>
+  <li class="active">Bills</li>
 {% endif %}
 </ol>

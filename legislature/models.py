@@ -1,6 +1,8 @@
 from django.db import models
 from django.utils.encoding import python_2_unicode_compatible
 
+from speeches.models import Speaker
+
 @python_2_unicode_compatible
 class Bill(models.Model):
     STATUS_CHOICES = (
@@ -15,12 +17,12 @@ class Bill(models.Model):
 
     identifier = models.PositiveIntegerField()
     title = models.TextField()
-    date = models.DateField()
+    description = models.TextField()
+    creator = models.ForeignKey(Speaker, blank=True, null=True, on_delete=models.SET_NULL)
+    modified = models.DateField()
     status = models.CharField(max_length=3, choices=STATUS_CHOICES)
     url = models.URLField()
-
-    class Meta:
-        ordering = ('identifier',)
+    law_amendments_commmittee_submissions_url = models.URLField()
 
     def __str__(self):
         return self.title
@@ -28,3 +30,12 @@ class Bill(models.Model):
     @property
     def slug(self):
         return self.url.rsplit('/', 1)[1]
+
+@python_2_unicode_compatible
+class Action(models.Model):
+    description = models.TextField()
+    date = models.DateField(blank=True, null=True)
+    text = models.TextField(blank=True, null=True)
+
+    def __str__(self):
+        return self.description

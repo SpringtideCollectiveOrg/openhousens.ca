@@ -1,0 +1,51 @@
+{% extends 'speeches/base.html' %}
+{% load url from future %}
+{% load legislature_extras %}
+
+{% block title %}Bill No. {{ bill.identifier }} {{ bill.title }}{% endblock %}
+
+{% block content %}
+{% include "speeches/_breadcrumbs.html" %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-10 col-md-8 col-sm-offset-2">
+      <header>
+        <h1>Bill No. {{ bill.identifier }}</h1>
+        <p class="title">{{ bill.title }}</p>
+{% if bill.description %}
+        <p class="subtitle">{{ bill.description }}</p>
+{% endif %}
+      </header>
+    </div>
+  </div>
+
+  <div class="row push-down">
+    <div class="col-sm-2">
+      <h2>Sponsor</h2>
+    </div>
+    <div class="col-sm-10 col-md-8">
+      <a href="{% url 'legislature:speaker-view' bill.creator.slug %}">
+        <strong>{{ bill.creator.name }}</strong>
+      </a>
+    </div>
+  </div>
+
+  <div class="row push-down">
+    <div class="col-sm-2">
+      <h2>Status</h2>
+    </div>
+    <div class="col-sm-10 col-md-8">
+      <dl class="dl-horizontal">
+{% for action in bill.actions %}
+        <dt>{{ action.description }}</dt>
+  {% if action.text %}
+        <dd><a href="{{ bill.law_amendments_commmittee_submissions_url }}" target="_blank">{{ action.text }} <span class="glyphicon glyphicon-new-window"></span></a></dd>
+  {% else %}
+        <dd><a href="{{ action.date|hansard_url }}">{{ action.date|date:"F j, Y" }}</a></dd>
+  {% endif %}
+{% endfor %}
+      </dl>
+    </div>
+  </div>
+{% endblock %}

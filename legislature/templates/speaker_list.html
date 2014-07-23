@@ -22,7 +22,7 @@
       <ul class="list-inline">
         {% for speaker in speaker_list %}<li>
           <a href="{% url 'legislature:speaker-view' speaker.slug %}">
-            <div class="avatar avatar-small" style="background-image: url({{ speaker.image }})"></div>
+            <div class="avatar avatar-sm" style="background-image: url({{ speaker.image }})"></div>
           </a>
           <a href="{% url 'legislature:speaker-view' speaker.slug %}">
             {{ speaker.name }}

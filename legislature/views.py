@@ -11,7 +11,7 @@ from lxml import html
 from speeches.models import Section, Speaker
 from speeches.search import SpeakerForm, SpeechForm
 
-from legislature.models import Bill
+from legislature.models import Action, Bill
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
@@ -64,21 +64,64 @@ class BillListView(ListView):
 
     # @see http://docs.opencivicdata.org/en/latest/proposals/0006.html
     def get_queryset(self):
-        page = requests.get('http://nslegislature.ca/index.php/proceedings/status-of-bills/sort/status')
+        url = 'http://nslegislature.ca/index.php/proceedings/status-of-bills/sort/status'
+        page = requests.get(url)
         tree = html.fromstring(page.text)
-        return [
-            Bill(
-                status=tr.xpath('./td[1]//text()')[0],
+        tree.make_links_absolute(url)
+
+        bills = []
+        for tr in tree.xpath('//tr[@valign="top"]'):
+            bill = Bill(
                 identifier=int(tr.xpath('./td[2]//text()')[0]),
-                title=tr.xpath('./td[3]//text()')[0].strip(),
+                title=tr.xpath('./td[3]//text()')[0].replace('(amended)', ''),
+                status=tr.xpath('./td[1]//text()')[0],
+                modified=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
                 url=tr.xpath('./td[3]//@href')[0],
-                date=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
-            ) for tr in tree.xpath('//tr[@valign="top"]')
-        ]
+            )
+            bills.append(bill)
+
+        return bills
 bills = BillListView.as_view()
 
 class BillDetailView(DetailView):
-    pass
+    template_name = 'bill_detail.html'
+
+    # @see http://ccbv.co.uk/projects/Django/1.5/django.views.generic.detail/DetailView/
+    def get_object(self):
+        url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
+        page = requests.get(url)
+        tree = html.fromstring(page.text)
+        tree.make_links_absolute(url)
+
+        div = tree.xpath('//div[@id="content"]')[0]
+
+        bill = Bill(
+            identifier=int(div.xpath('./h3//text()')[0].rsplit(' ', 1)[1]),
+            title=div.xpath('./h2//text()')[0].replace('(amended)', ''),
+            creator=Speaker.objects.get(sources__url=div.xpath('./p//@href')[0].rstrip('/')),
+            law_amendments_commmittee_submissions_url=div.xpath('string(.//@href[contains(.,"/committees/submissions/")])'),
+        )
+
+        # Some descriptions are identical to titles.
+        description = div.xpath('./h3//text()')[1].strip()
+        if bill.title != description:
+            bill.description = description
+
+        actions = []
+        for tr in div.xpath('.//tr'):
+            matches = tr.xpath('./td//text()')
+            if matches and matches[0] != 'View':
+                action = Action(description=tr.xpath('./th//text()')[0])
+                if matches[0] == 'Submission Summary':
+                    action.text = matches[0]
+                else:
+                    action.date = datetime.datetime.strptime(matches[0], '%B %d, %Y').date()
+                actions.append(action)
+
+        # Assigning `actions` to `action_set` will trigger a database call.
+        setattr(bill, 'actions', actions)
+
+        return bill
 bill = BillDetailView.as_view()
 
 class SpeakerDetailView(ListView):

@@ -30,18 +30,18 @@
           <tr>
             <th>
               Number
-              <span class="glyphicon glyphicon-chevron-up"></span>
               <span class="glyphicon glyphicon-chevron-down"></span>
+              <span class="glyphicon glyphicon-chevron-up"></span>
             </th>
             <th class="headerSortDown">
               Title
-              <span class="glyphicon glyphicon-chevron-up"></span>
               <span class="glyphicon glyphicon-chevron-down"></span>
+              <span class="glyphicon glyphicon-chevron-up"></span>
             </th>
             <th>
               Date
-              <span class="glyphicon glyphicon-chevron-up"></span>
               <span class="glyphicon glyphicon-chevron-down"></span>
+              <span class="glyphicon glyphicon-chevron-up"></span>
             </th>
           </tr>
         </thead>
@@ -50,7 +50,7 @@
           <tr>
             <td class="hidden-xs">{{ bill.identifier }}</td>
             <td><a href="{% url 'legislature:bill-view' bill.slug %}">{{ bill.title }}</a></td>
-            <td class="hidden-xs modified" data-modified="{{ bill.date|date:"Y-m-d" }}">{{ bill.date|date:"F j, Y" }}</td>
+            <td class="hidden-xs modified" data-modified="{{ bill.modified|date:"Y-m-d" }}">{{ bill.modified|date:"F j, Y" }}</td>
           </tr>
   {% endfor %}
         </tbody>
