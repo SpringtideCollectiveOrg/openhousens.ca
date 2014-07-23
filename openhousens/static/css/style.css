@@ -237,6 +237,17 @@ p.memberships { /* span is styled differently */
   font-weight: bold;
 }
 
+/* display: table makes sure the left border are always the full-height of the row */
+.speeches {
+  display: table;
+  border-collapse: collapse;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.row-speech {
+  display: table-row;
+  margin: 0; /* table-row ignores negative margins anyway */
+}
 .row-speech,
 .col-speech-with-border {
   border-top: 1px solid #ccc;
@@ -250,9 +261,9 @@ p.memberships { /* span is styled differently */
 }
 .col-meta,
 .col-speech {
+  float: none;
+  display: table-cell;
   padding-top: 20px;
-}
-.col-speech {
   padding-bottom: 20px;
 }
 .col-speech p:last-child {
@@ -260,6 +271,12 @@ p.memberships { /* span is styled differently */
 }
 .speeches .row-speech:last-of-type .col-speech {
   padding-bottom: 0;
+}
+/* .col-md-8 doesn't work with table-cell */
+@media (min-width: 992px) {
+  .col-speech {
+    padding-right: 16.66666667%;;
+  }
 }
 
 .person .col-speech {
@@ -392,7 +409,7 @@ th.headerSortUp .glyphicon-chevron-up {
 
 /* Search */
 
-.search-results em {
+.highlighted em {
   background-color: #fee373;
   font-weight: normal;
   font-style: normal;
