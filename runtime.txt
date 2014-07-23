@@ -1,3 +1,1 @@
-# pylibmc doesn't build in Python 3.4, possibly due to http://bugs.python.org/issue21121
-# CFLAGS="-std=c99" can be used to avoid the error locally, but not on Heroku.
 python-3.3.3
