@@ -4,7 +4,7 @@
 {% block title %}Debates{% endblock %}
 
 {% block content %}
-{% include "speeches/_breadcrumbs.html" %}
+{% include 'speeches/_breadcrumbs.html' %}
 
 <div class="container-fluid">
   <div class="row">
@@ -13,7 +13,7 @@
 
       <p>When the House is in session, every word spoken by a member is faithfully transcribed and published in a document called a <a href="http://en.wikipedia.org/wiki/Hansard">Hansard</a>. We've made the transcripts since October 31, 2011 easily searchable and browseable. If you need to go further back, consult the <a href="http://nslegislature.ca/index.php/proceedings/hansard/">website of the Nova Scotia Legislature</a>.</p>
 
-      <form action="{% url "legislature:haystack_search" %}" method="get" class="form-inline form-inline-always" role="form">
+      <form action="{% url 'legislature:haystack_search' %}" method="get" class="form-inline form-inline-always" role="form">
         <div class="form-group">
           <label class="sr-only" for="q">Enter a bill, keyword or name</label>
           <input name="q" id="q" type="search" class="form-control" placeholder="Enter a bill, keyword or name">

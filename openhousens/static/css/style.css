@@ -415,6 +415,10 @@ th.headerSortUp .glyphicon-chevron-up {
   font-style: normal;
 }
 
+.order .active {
+  font-weight: bold;
+}
+
 /* Common */
 
 h1,

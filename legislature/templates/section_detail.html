@@ -5,7 +5,7 @@
 {% block title %}Debates of {{ section.start_date|date:"F jS, Y" }}{% endblock %}
 
 {% block content %}
-{% include "speeches/_breadcrumbs.html" %}
+{% include 'speeches/_breadcrumbs.html' %}
 {% long_paginator as pagination %}
 
 <div class="container-fluid">

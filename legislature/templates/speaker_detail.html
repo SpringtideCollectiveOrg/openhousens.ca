@@ -5,7 +5,7 @@
 {% block title %}{{ speaker.name|person_name }}{% endblock %}
 
 {% block content %}
-{% include "speeches/_breadcrumbs.html" %}
+{% include 'speeches/_breadcrumbs.html' %}
 {% long_paginator as pagination %}
 
 <div class="container-fluid">
@@ -43,7 +43,7 @@
       <p class="memberships">{{ speaker|speaker_description }}</p>
 {% endif %}
 
-      <form action="{% url "legislature:haystack_search" %}" method="get" class="form-inline form-inline-always" role="form">
+      <form action="{% url 'legislature:haystack_search' %}" method="get" class="form-inline form-inline-always" role="form">
         <div class="form-group">
           <label class="sr-only" for="q">Enter a bill, keyword or name</label>
           <input name="q" id="q" type="search" class="form-control" placeholder="Search {{ speaker.name|person_short_name }}'s speeches">
