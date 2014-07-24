@@ -241,6 +241,7 @@ p.memberships { /* span is styled differently */
 .speeches {
   display: table;
   border-collapse: collapse;
+  width: calc(100% + 30px);
   margin-left: -15px;
   margin-right: -15px;
 }
@@ -428,6 +429,11 @@ th.headerSortUp .glyphicon-chevron-up {
 }
 .controls .order {
   float: right;
+}
+
+.note {
+  color: #58585b;
+  font-style: italic;
 }
 
 /* Common */

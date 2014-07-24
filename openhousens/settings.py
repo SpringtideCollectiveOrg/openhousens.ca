@@ -112,7 +112,6 @@ HAYSTACK_CONNECTIONS = {
         'INDEX_NAME': 'openhousens',
         'EXCLUDED_INDEXES': [
             'speeches.search_indexes.SpeechIndex',
-            'speeches.search_indexes.SectionIndex',
         ],
     },
 }

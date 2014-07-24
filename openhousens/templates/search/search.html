@@ -85,9 +85,14 @@
 
   <div class="speeches">
     {% for result in page.object_list %}
-    <div class="row row-speech {{ result.object|speech_class }}">
-      <div class="col-sm-10 col-speech col-sm-offset-2" id="s{{ result.object.id }}">
+    <div class="row row-speech{% if result.model_name == "speech" %} {{ result.object|speech_class }}{% endif %}">
+      <div class="col-sm-2 col-meta hidden-xs"></div>
+      <div class="col-sm-10 col-speech">
+{% if result.model_name == "speech" %}
 {% include 'speeches/speech.html' with speech=result.object %}
+{% elif result.model_name == "section" %}
+{% include 'search/section_item.html' with section=result.object %}
+{% endif %}
       </div>
     </div>
     {% endfor %}

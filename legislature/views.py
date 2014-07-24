@@ -217,7 +217,7 @@ class SpeechForm(SearchForm):
             sqs = sqs.load_all()
 
         # Like HighlightedSearchForm and ModelSearchForm.
-        sqs = sqs.highlight().models(Speech)
+        sqs = sqs.highlight().models(Section, Speech)
 
         if self.cleaned_data.get('p'):
             sqs = sqs.filter(speaker=self.cleaned_data['p'])

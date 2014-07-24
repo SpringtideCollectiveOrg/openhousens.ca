@@ -1,0 +1,14 @@
+{% load legislature_extras %}
+
+<p class="context">
+  <span class="title">
+    {{ section.title|heading }}
+  </span>
+  <span class="date">
+    <a href="{{ section.start_date|hansard_url }}">{{ section.start_date|date:"F jS, Y" }}</a>
+  </span>
+</p>
+
+{% if section.parent.parent_id %}
+<p class="note">Debated in {{ section.parent.title|heading }}.</p>
+{% endif %}
