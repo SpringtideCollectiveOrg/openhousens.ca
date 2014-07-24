@@ -53,7 +53,7 @@
   {% elif action.description == "Commencement" %}
         <dd>{{ action.date|date:"F j, Y" }}</dd>
   {% else %}
-        <dd><a href="{{ action.date|hansard_url }}">{{ action.date|date:"F j, Y" }}</a></dd>
+        <dd><a href="{% url 'legislature:haystack_search' %}?q=Bill%20{{ bill.identifier }}%20start_date%3A{{ action.date|date:"Y-m-d" }}">{{ action.date|date:"F j, Y" }}</a></dd>
   {% endif %}
 {% endfor %}
       </dl>
