@@ -11,7 +11,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h1>Search</h1>
+      <h1>Search{% if form.speaker %} {{ form.speaker.name|person_name }}'s speeches{% endif %}</h1>
 
       <form action="{% url 'legislature:haystack_search' %}" method="get" class="form-inline form-inline-always" role="form">
         <div class="form-group">
