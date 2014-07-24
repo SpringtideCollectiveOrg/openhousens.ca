@@ -202,8 +202,22 @@ class SpeechForm(SearchForm):
         super(SpeechForm, self).__init__(*args, **kwargs)
 
     # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html
+    # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html#SearchQuerySet.auto_query
     def search(self):
-        sqs = super(SpeechForm, self).search().highlight().models(Speech)
+        if not self.is_valid():
+            return self.no_query_found()
+
+        if not self.cleaned_data.get('q'):
+            return self.no_query_found()
+
+        # SearchForm calls `auto_query` here, which will escape colons.
+        sqs = self.searchqueryset.raw_search(self.cleaned_data['q'])
+
+        if self.load_all:
+            sqs = sqs.load_all()
+
+        # Like HighlightedSearchForm and ModelSearchForm.
+        sqs = sqs.highlight().models(Speech)
 
         if self.cleaned_data.get('p'):
             sqs = sqs.filter(speaker=self.cleaned_data['p'])
