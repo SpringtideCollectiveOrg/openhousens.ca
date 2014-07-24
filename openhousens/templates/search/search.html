@@ -2,7 +2,7 @@
 {% load url from future %}
 {% load legislature_extras pagination highlight %}
 
-{% block title %}Search{% if query %}: {{ query }}{% endif %}{% endblock %}
+{% block title %}Search{% if query %}: {{ query }}{% elif form.speaker %} {{ form.speaker.name|person_name }}'s speeches{% endif %}{% endblock %}
 
 {% block content %}
 {% include 'speeches/_breadcrumbs.html' %}
@@ -29,7 +29,7 @@
           <label>
             <input type="checkbox" name="p" value="{{ form.p.value }}" checked>
             Search only speeches by
-            <a href="{% url 'legislature:speaker-view' form.speaker.slug %}">{{ form.speaker }}</a>
+            <a href="{% url 'legislature:speaker-view' form.speaker.slug %}">{{ form.speaker.name|person_name }}</a>
           </label>
         </div>
 {% endif %}
@@ -59,7 +59,7 @@
   {% if page.object_list %}
   <div class="row push-down">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h2>Speeches</h2>
+      <h2>Speeches{% if form.speaker %} by {{ form.speaker.name|person_name }}{% endif %}</h2>
       <p class="controls">
         Results <strong>{{ page.start_index }}–{{ page.end_index }}</strong> of <strong>{{ paginator.count }}</strong>
 

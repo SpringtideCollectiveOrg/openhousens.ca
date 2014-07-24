@@ -195,6 +195,7 @@ class SpeechForm(SearchForm):
     A form with a hidden integer field that searches the speaker ID field
     """
     p = forms.IntegerField(required=False, widget=forms.HiddenInput())
+    speaker = None  # the speaker object
 
     def __init__(self, *args, **kwargs):
         if kwargs.get('searchqueryset') is None:
@@ -204,6 +205,12 @@ class SpeechForm(SearchForm):
     # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html
     # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html#SearchQuerySet.auto_query
     def search(self):
+        if self.cleaned_data.get('p'):
+            try:
+                self.speaker = Speaker.objects.get(id=self.cleaned_data['p'])
+            except Speaker.DoesNotExist:
+                pass
+
         if not self.is_valid():
             return self.no_query_found()
 
@@ -219,12 +226,8 @@ class SpeechForm(SearchForm):
         # Like HighlightedSearchForm and ModelSearchForm.
         sqs = sqs.highlight().models(Section, Speech)
 
-        if self.cleaned_data.get('p'):
-            sqs = sqs.filter(speaker=self.cleaned_data['p'])
-            try:
-                self.speaker = Speaker.objects.get(id=self.cleaned_data['p'])
-            except Speaker.DoesNotExist:
-                pass
+        if self.speaker:
+            sqs = sqs.filter(speaker=self.speaker.id)
 
         return sqs
 

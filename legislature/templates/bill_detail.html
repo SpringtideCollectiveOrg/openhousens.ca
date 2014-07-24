@@ -50,7 +50,7 @@
         <dd>{{ action.date|date:"F j, Y" }}</dd>
   {% elif "Reported to the House" in action.description %}
         <dd>{{ action.date|date:"F j, Y" }}</dd>
-  {% elif action.description == "Commencement" %}
+  {% elif "Commencement" in action.description %}
         <dd>{{ action.date|date:"F j, Y" }}</dd>
   {% else %}
         <dd><a href="{% url 'legislature:haystack_search' %}?q=Bill%20{{ bill.identifier }}%20start_date%3A{{ action.date|date:"Y-m-d" }}">{{ action.date|date:"F j, Y" }}</a></dd>
