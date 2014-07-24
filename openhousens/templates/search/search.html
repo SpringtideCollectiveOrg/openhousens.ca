@@ -1,6 +1,6 @@
 {% extends 'speeches/base.html' %}
 {% load url from future %}
-{% load speech_utils legislature_extras pagination %}
+{% load legislature_extras pagination highlight %}
 
 {% block title %}Search{% if query %}: {{ query }}{% endif %}{% endblock %}
 
@@ -48,7 +48,7 @@
             <div class="avatar avatar-sm"{% if result.object.image %} style="background-image: url({{ result.object.image }})"{% endif %}></div>
           </a>
           <a href="{% url 'legislature:speaker-view' result.object.slug %}" class="highlighted">
-            {{ result.highlighted.0|person_name|striptags_highlight }}
+            {% highlight result.text with query css_class "" html_tag "em" max_length 400 %}
           </a>
         </li>{% endfor %}
         </ul>
@@ -87,7 +87,7 @@
     {% for result in page.object_list %}
     <div class="row row-speech {{ result.object|speech_class }}">
       <div class="col-sm-10 col-speech col-sm-offset-2" id="s{{ result.object.id }}">
-{% include 'speeches/speech.html' with speech=result.object with_context=1 highlight=result.highlighted.0 %}
+{% include 'speeches/speech.html' with speech=result.object with_context=1 %}
       </div>
     </div>
     {% endfor %}
@@ -106,7 +106,5 @@
     </div>
   </div>
 {% endif %}
-    </div>
-  </div>
 </div>
 {% endblock %}

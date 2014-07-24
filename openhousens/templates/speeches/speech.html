@@ -1,5 +1,5 @@
 {% load firstof url from future %}
-{% load staticfiles speech_utils legislature_extras %}
+{% load legislature_extras staticfiles highlight speech_utils %}
 
 {% if with_speaker %}
   {% if speech.speaker_display %}
@@ -27,7 +27,7 @@
   {# @todo link to speech #}
   <span class="title">{% firstof speech.title|heading speech.section.title|heading %}</span>
   <span class="date">{{ speech.section.start_date|date:"F jS, Y" }}</span>
-  {% if highlight %}
+  {% if query %}
     {% if speech.speaker_display %}
   <span class="from">
       {% if speech.speaker_id %}
@@ -42,7 +42,15 @@
 {% endif %}
 
 <div class="speech">
+{% if query %}
+  <div class="highlighted">
+{% highlight result.text with query css_class "" html_tag "em" max_length 400 %}
+  </div>
+{% elif truncate %}
+{{ speech.text|bleach|truncatewords_html:"50" }}
+{% else %}
 {{ speech.text|bleach }}
+{% endif %}
 </div>
 
 {% if with_speaker %}
