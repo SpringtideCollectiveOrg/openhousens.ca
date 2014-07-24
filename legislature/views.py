@@ -16,12 +16,15 @@ from speeches.search import SpeakerForm
 
 from legislature.models import Action, Bill
 
+
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
     return render_to_response('home.html', {'hansard': hansard})
 
+
 def about(request):
     return render_to_response('about.html', {'title': 'About'})
+
 
 class TitleAdder(object):
     def get_context_data(self, **kwargs):
@@ -29,11 +32,13 @@ class TitleAdder(object):
         context.update(title=self.page_title)
         return context
 
+
 class DebateArchiveIndexView(ArchiveIndexView):
     queryset = Section.objects.filter(parent=None)
     date_field = 'start_date'
     template_name = 'section_archive.html'
 debates = DebateArchiveIndexView.as_view()
+
 
 class DebateYearArchiveView(TitleAdder, YearArchiveView):
     queryset = Section.objects.filter(parent=None)
@@ -42,6 +47,7 @@ class DebateYearArchiveView(TitleAdder, YearArchiveView):
     make_object_list = True
     page_title = lambda self: 'Debates from %s' % self.get_year()
 debates_by_year = DebateYearArchiveView.as_view()
+
 
 class DebateMonthArchiveView(TitleAdder, MonthArchiveView):
     queryset = Section.objects.filter(parent=None)
@@ -52,6 +58,7 @@ class DebateMonthArchiveView(TitleAdder, MonthArchiveView):
     month_format = '%m'  # Use integers in paths.
 debates_by_month = DebateMonthArchiveView.as_view()
 
+
 class SpeakerListView(ListView):
     queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
     template_name = 'speaker_list.html'
@@ -61,6 +68,40 @@ class SpeakerListView(ListView):
         context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1].lower())
         return context
 people = SpeakerListView.as_view()
+
+
+class SpeakerDetailView(ListView):
+    paginate_by = 15
+    template_name = 'speaker_detail.html'
+
+    def get_queryset(self):
+        self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
+        return self.object.speech_set.all().order_by('-start_date', '-id').prefetch_related('section', 'speaker')
+
+    def get_context_data(self, **kwargs):
+        context = super(SpeakerDetailView, self).get_context_data(**kwargs)
+        context['speaker'] = self.object
+        return context
+person = SpeakerDetailView.as_view()
+
+
+class DebateDetailView(ListView):
+    paginate_by = 15
+    template_name = 'section_detail.html'
+
+    # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.list/ListView/
+    # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.detail/DetailView/
+    # @see https://docs.djangoproject.com/en/1.4/topics/class-based-views/#dynamic-filtering
+    def get_queryset(self):
+        self.object = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
+        return self.object.descendant_speeches().prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
+
+    def get_context_data(self, **kwargs):
+        context = super(DebateDetailView, self).get_context_data(**kwargs)
+        context['section'] = self.object
+        return context
+debate = DebateDetailView.as_view()
+
 
 class BillListView(ListView):
     template_name = 'bill_list.html'
@@ -85,6 +126,7 @@ class BillListView(ListView):
 
         return bills
 bills = BillListView.as_view()
+
 
 class BillDetailView(DetailView):
     template_name = 'bill_detail.html'
@@ -132,36 +174,6 @@ class BillDetailView(DetailView):
         return bill
 bill = BillDetailView.as_view()
 
-class SpeakerDetailView(ListView):
-    paginate_by = 15
-    template_name = 'speaker_detail.html'
-
-    def get_queryset(self):
-        self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
-        return self.object.speech_set.all().order_by('-start_date', '-id').prefetch_related('section', 'speaker')
-
-    def get_context_data(self, **kwargs):
-        context = super(SpeakerDetailView, self).get_context_data(**kwargs)
-        context['speaker'] = self.object
-        return context
-person = SpeakerDetailView.as_view()
-
-class DebateDetailView(ListView):
-    paginate_by = 15
-    template_name = 'section_detail.html'
-
-    # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.list/ListView/
-    # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.detail/DetailView/
-    # @see https://docs.djangoproject.com/en/1.4/topics/class-based-views/#dynamic-filtering
-    def get_queryset(self):
-        self.object = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
-        return self.object.descendant_speeches().prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
-
-    def get_context_data(self, **kwargs):
-        context = super(DebateDetailView, self).get_context_data(**kwargs)
-        context['section'] = self.object
-        return context
-debate = DebateDetailView.as_view()
 
 # @see http://django-haystack.readthedocs.org/en/latest/views_and_forms.html#creating-your-own-form
 # @see https://github.com/toastdriven/django-haystack/blob/master/haystack/forms.py
@@ -188,6 +200,7 @@ class SpeechForm(SearchForm):
                 pass
 
         return sqs
+
 
 # @see http://django-haystack.readthedocs.org/en/latest/views_and_forms.html#views
 # @see https://github.com/toastdriven/django-haystack/blob/master/haystack/views.py
