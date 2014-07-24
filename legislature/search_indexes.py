@@ -8,7 +8,7 @@ from speeches.models import Speech
 class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
     # @see http://django-haystack.readthedocs.org/en/latest/searchfield_api.html
     text = indexes.CharField(document=True, model_attr='text')
-    title = indexes.CharField(model_attr='title', boost=1.2)
+    title = indexes.CharField(model_attr='title', boost=1.5)
     speaker = indexes.IntegerField(model_attr='speaker_id', null=True)
     start_date = indexes.DateTimeField(model_attr='start_date', null=True)
 
@@ -18,10 +18,7 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
         return Speech
 
     def index_queryset(self, using=None):
-        """
-        Exclude narrative from the index.
-        """
-        return self.get_model()._default_manager.exclude(speaker_id=None, speaker_display=None).select_related('section')
+        return self.get_model()._default_manager.select_related('section')
 
     def load_all_queryset(self):
         """
@@ -33,9 +30,12 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
     # @see http://django-haystack.readthedocs.org/en/latest/boost.html
     def prepare(self, obj):
         """
-        Decrease the relevance of written notices and of speeches by anonymous
-        speakers and by roles, including the Speaker, the Sergeant-at-Arms and
-        the clerks.
+        Decrease the relevance of written notices, of narrative and of speeches
+        by anonymous speakers and by roles, including the Speaker, the Sergeant-
+        at-Arms and the clerks.
+
+        A narrative may contain the only mention of a bill at its introduction;
+        therefore, we must include narratives.
         """
         data = super(SpeechIndex, self).prepare(obj)
         if not obj.speaker_id and obj.speaker_display not in ('THE PREMIER', 'THE LIEUTENANT GOVERNOR', 'THE ADMINISTRATOR'):
