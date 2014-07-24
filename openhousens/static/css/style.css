@@ -236,9 +236,6 @@ p.memberships { /* span is styled differently */
 .heading-level-1 {
   font-weight: bold;
 }
-.col-meta .from {
-  margin-top: 1em;
-}
 
 /* display: table makes sure the left border are always the full-height of the row */
 .speeches {
@@ -269,6 +266,9 @@ p.memberships { /* span is styled differently */
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.col-speech-with-border {
+  display: block;
+}
 .col-speech p:last-child {
   margin-bottom: 0;
 }
@@ -279,6 +279,9 @@ p.memberships { /* span is styled differently */
 @media (min-width: 992px) {
   .col-speech {
     padding-right: 16.66666667%;;
+  }
+  .col-speech-with-border {
+    padding-right: 0;
   }
 }
 

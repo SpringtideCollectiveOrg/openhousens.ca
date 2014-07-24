@@ -25,8 +25,19 @@
 {% elif with_context %}
 <p class="context">
   {# @todo link to speech #}
-  <span class="title">{{ speech.section.title|heading }}</span>
+  <span class="title">{% firstof speech.title|heading speech.section.title|heading %}</span>
   <span class="date">{{ speech.section.start_date|date:"F jS, Y" }}</span>
+  {% if highlight %}
+    {% if speech.speaker_display %}
+  <span class="from">
+      {% if speech.speaker_id %}
+    <a href="{% url 'legislature:speaker-view' speech.speaker.slug %}">{{ speech|speech_speaker }}</a>
+      {% else %}
+    {{ speech|speech_speaker }}
+      {% endif %}
+  </span>
+    {% endif %}
+  {% endif %}
 </p>
 {% endif %}
 

@@ -28,7 +28,7 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
         Reduce the number of SQL queries to render search results. We might
         alternatively store a rendered result or more fields in ElasticSearch.
         """
-        return self.get_model()._default_manager.all().prefetch_related('speaker', 'section', 'section__parent')
+        return self.get_model()._default_manager.all().prefetch_related('speaker', 'section')
 
     # @see http://django-haystack.readthedocs.org/en/latest/boost.html
     def prepare(self, obj):
