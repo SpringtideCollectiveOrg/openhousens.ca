@@ -27,13 +27,13 @@ Start the web app:
 
     foreman start
 
-## Importing Popolo data
+### Importing Popolo data
 
 Import organizations, people, posts and memberships:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
 
-## Importing Akoma Ntoso data
+### Importing Akoma Ntoso data
 
 Import a directory:
 
@@ -47,6 +47,8 @@ Import a file:
 
     python manage.py load_akomantoso --commit --instance=default --file=akoma_ntoso/2011-11-03_11-38.xml
 
+### Enabling search
+
 Rebuild the ElasticSearch index:
 
     python manage.py rebuild_index --noinput
@@ -59,7 +61,7 @@ Question Period section titles contain many abbreviations. Run this command to f
 
     python manage.py abbreviations
 
-If any new abbreviations are found, add them to `legislature/synonyms.py`
+If any new abbreviations are found, add them to `legislature/synonyms.py` so that they can be expanded in the views.
 
 ### Validations
 
@@ -96,15 +98,19 @@ Set the ElasticSearch configuration variable using one of the following:
     heroku config:add ELASTICSEARCH_URL=`heroku config:get BONSAI_URL`
     heroku config:add ELASTICSEARCH_URL=`heroku config:get FOUNDELASTICSEARCH_URL`
 
-Add a Memcached add-on:
+Add the SendGrid add-on for error reporting:
+
+    heroku addons:add sendgrid
+
+Add the Memcachier add-on for caching:
 
     heroku addons:add memcachier
 
-Enable the [`log-runtime-metrics`](https://devcenter.heroku.com/articles/log-runtime-metrics) feature to track memory consumption:
+Enable the [`log-runtime-metrics`](https://devcenter.heroku.com/articles/log-runtime-metrics) feature to track memory consumption, in case `WEB_CONCURRENCY` needs to be adjusted:
 
     heroku labs:enable log-runtime-metrics
 
-Add configuration variables (replace `YOUR-SECRET-KEY`):
+Add configuration variables (replace `YOUR-DJANGO-SECRET-KEY`):
 
     heroku config:set PRODUCTION=1
     heroku config:set WEB_CONCURRENCY=3

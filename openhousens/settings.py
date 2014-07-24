@@ -135,12 +135,23 @@ TEMPLATE_DIRS = (
 
 from django.conf import global_settings
 TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
-    'django.core.context_processors.request', # needed by pagination
+    'django.core.context_processors.request',  # needed by pagination
 )
 
 # @see https://docs.djangoproject.com/en/1.7/topics/cache/#memcached
 from memcacheify import memcacheify
 CACHES = memcacheify()
+
+# Error reporting.
+ADMINS = (
+    ('James McKinney', 'james@opennorth.ca'),
+)
+# @see https://sendgrid.com/docs/Integrate/Frameworks/django.html
+EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIL_HOST_USER = os.environ.get('SENDGRID_USERNAME', None)
+EMAIL_HOST_PASSWORD = os.environ.get('SENDGRID_PASSWORD', None)
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
 
 # Error logging.
 # @see https://github.com/etianen/django-herokuapp#outputting-logs-to-heroku-logplex
@@ -153,12 +164,21 @@ if os.getenv('PRODUCTION', False):
                 'level': 'INFO',
                 'class': 'logging.StreamHandler',
             },
+            'mail_admins': {
+                'level': 'ERROR',
+                'class': 'django.utils.log.AdminEmailHandler',
+            },
         },
         'loggers': {
             'django': {
                 'handlers': ['console'],
-            }
-        }
+            },
+            'django.request': {
+                'handlers': ['mail_admins'],
+                'level': 'ERROR',
+                'propagate': False,
+            },
+        },
     }
 # SQL query logging.
 elif os.getenv('VERBOSE', False):
@@ -176,5 +196,5 @@ elif os.getenv('VERBOSE', False):
                 'level': 'DEBUG',
                 'handlers': ['console'],
             },
-        }
+        },
     }
