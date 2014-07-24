@@ -85,7 +85,6 @@ class SpeakerDetailView(ListView):
 person = SpeakerDetailView.as_view()
 
 
-notices_title = 'NOTICES OF MOTION UNDER RULE 32(3)'
 class DebateDetailView(ListView):
     paginate_by = 15
     template_name = 'section_detail.html'
@@ -99,7 +98,7 @@ class DebateDetailView(ListView):
         self.notices_present = False
         section_ids = []
         for section in self.object._get_descendants(include_self=True):
-            if section.title == notices_title:
+            if section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
                 self.notices_present = True
                 if self.notices:
                     section_ids.append(section.id)
