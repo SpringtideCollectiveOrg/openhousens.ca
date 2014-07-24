@@ -58,7 +58,7 @@ class SpeakerListView(ListView):
 
     def get_context_data(self, **kwargs):
         context = super(SpeakerListView, self).get_context_data(**kwargs)
-        context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1])
+        context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1].lower())
         return context
 people = SpeakerListView.as_view()
 
