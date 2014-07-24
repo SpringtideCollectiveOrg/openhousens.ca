@@ -38,7 +38,7 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
         """
         data = super(SpeechIndex, self).prepare(obj)
         if not obj.speaker_id and obj.speaker_display not in ('THE PREMIER', 'THE LIEUTENANT GOVERNOR', 'THE ADMINISTRATOR'):
-            data['boost'] = 0.8
+            data['boost'] = 0.5
         return data
 
     def get_updated_field(self):
