@@ -25,8 +25,12 @@
 {% else %}
 <p class="context">
   {# @todo link to speech #}
-  <span class="title">{% firstof speech.title|heading speech.section.title|heading %}</span>
-  <span class="date">{{ speech.section.start_date|date:"F jS, Y" }}</span>
+  <span class="title">
+    {% firstof speech.title|heading speech.section.title|heading %}
+  </span>
+  <span class="date">
+    <a href="{{ speech.section.start_date|hansard_url }}">{{ speech.section.start_date|date:"F jS, Y" }}</a>
+  </span>
   {% if query %}
     {% if speech.speaker_display %}
   <span class="from">
