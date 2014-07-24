@@ -21,7 +21,7 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
         """
         Exclude narrative from the index.
         """
-        return self.get_model()._default_manager.exclude(speaker_id=None, speaker_display=None)
+        return self.get_model()._default_manager.exclude(speaker_id=None, speaker_display=None).select_related('section')
 
     def load_all_queryset(self):
         """
@@ -33,11 +33,14 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
     # @see http://django-haystack.readthedocs.org/en/latest/boost.html
     def prepare(self, obj):
         """
-        Decrease the relevance of speeches by anonymous speakers and by roles,
-        including the Speaker, the Sergeant-at-Arms and clerks.
+        Decrease the relevance of written notices and of speeches by anonymous
+        speakers and by roles, including the Speaker, the Sergeant-at-Arms and
+        the clerks.
         """
         data = super(SpeechIndex, self).prepare(obj)
         if not obj.speaker_id and obj.speaker_display not in ('THE PREMIER', 'THE LIEUTENANT GOVERNOR', 'THE ADMINISTRATOR'):
+            data['boost'] = 0.5
+        elif obj.section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
             data['boost'] = 0.5
         return data
 

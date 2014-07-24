@@ -85,22 +85,36 @@ class SpeakerDetailView(ListView):
 person = SpeakerDetailView.as_view()
 
 
+notices_title = 'NOTICES OF MOTION UNDER RULE 32(3)'
 class DebateDetailView(ListView):
     paginate_by = 15
     template_name = 'section_detail.html'
+    notices = False
 
     # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.list/ListView/
     # @see http://ccbv.co.uk/projects/Django/1.6/django.views.generic.detail/DetailView/
     # @see https://docs.djangoproject.com/en/1.4/topics/class-based-views/#dynamic-filtering
     def get_queryset(self):
-        self.object = get_object_or_404(Section, slug=self.kwargs.get('slug', None))
-        return self.object.descendant_speeches().prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
+        self.object = get_object_or_404(Section, parent_id=None, slug=self.kwargs.get('slug', None))
+        self.notices_present = False
+        section_ids = []
+        for section in self.object._get_descendants(include_self=True):
+            if section.title == notices_title:
+                self.notices_present = True
+                if self.notices:
+                    section_ids.append(section.id)
+            elif not self.notices:
+                section_ids.append(section.id)
+        return Speech.objects.filter(section__in=section_ids).prefetch_related('speaker', 'speaker__memberships', 'speaker__memberships__organization', 'section', 'section__parent')
 
     def get_context_data(self, **kwargs):
         context = super(DebateDetailView, self).get_context_data(**kwargs)
         context['section'] = self.object
+        context['notices'] = self.notices
+        context['notices_present'] = self.notices_present
         return context
 debate = DebateDetailView.as_view()
+notices = DebateDetailView.as_view(notices=True)
 
 
 class BillListView(ListView):

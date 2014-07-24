@@ -127,4 +127,5 @@ def tweet_text(speech):
 
 @register.filter
 def hansard_url(date):
+    # It's possible for two hansards to have the same date. This picks the earliest.
     return reverse('legislature:section-view', args=(('debates-%s' % date.strftime('%-d-%B-%Y')).lower(),))

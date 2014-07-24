@@ -2,7 +2,7 @@
 {% load url from future %}
 {% load legislature_extras pagination %}
 
-{% block title %}Debates of {{ section.start_date|date:"F jS, Y" }}{% endblock %}
+{% block title %}{% if notices %}Written Notices{% else %}Debates{% endif %} of {{ section.start_date|date:"F jS, Y" }}{% endblock %}
 
 {% block content %}
 {% include 'speeches/_breadcrumbs.html' %}
@@ -11,9 +11,23 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h1>Debates of {{ section.start_date|date:"F jS, Y" }}</h1>
+      <h1>{% if notices %}Written Notices{% else %}Debates{% endif %} of {{ section.start_date|date:"F jS, Y" }}</h1>
 
-      <p>House of Assembly Hansard {{ section.number }} of the {{ section.legislature }}, {{ section.session }}. (The <a href="{{ section.source_url }}">original version</a> is on the legislature's site.)</p>
+      <p>
+{% if notices %}
+        Under <a href="http://nslegislature.ca/legc/rules.htm" target="_blank">Rule 32(3)</a> of the House of Assembly, member may give written notices of motions for resolutions before a meeting.
+{% else %}
+        House of Assembly Hansard {{ section.number }} of the {{ section.legislature }}, {{ section.session }}.
+{% endif %}
+        (The <a href="{{ section.source_url }}">original version</a> is on the legislature's site.)
+{% if notices_present %}
+  {% if notices %}
+        Read the <a href="{% url 'legislature:section-view' section.slug %}">debates of {{ section.start_date|date:"F jS, Y" }}</a>.
+  {% else %}
+        Read the <a href="{% url 'legislature:notices-view' section.slug %}">written notices of motions for resolutions</a> submitted before this meeting.
+  {% endif %}
+{% endif %}
+      </p>
     </div>
   </div>
 
@@ -44,7 +58,7 @@
   {% endif %}
       </div>
       <div class="col-sm-10 col-speech" id="s{{ speech.id }}">
-{% include "speeches/speech.html" with speech=speech with_speaker=1 %}
+{% include 'speeches/speech.html' with speech=speech full=1 %}
       </div>
     </div>
 {% endfor %}

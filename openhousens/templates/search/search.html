@@ -87,7 +87,7 @@
     {% for result in page.object_list %}
     <div class="row row-speech {{ result.object|speech_class }}">
       <div class="col-sm-10 col-speech col-sm-offset-2" id="s{{ result.object.id }}">
-{% include 'speeches/speech.html' with speech=result.object with_context=1 %}
+{% include 'speeches/speech.html' with speech=result.object %}
       </div>
     </div>
     {% endfor %}

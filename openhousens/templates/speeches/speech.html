@@ -1,7 +1,7 @@
 {% load firstof url from future %}
 {% load legislature_extras staticfiles highlight speech_utils %}
 
-{% if with_speaker %}
+{% if full %}
   {% if speech.speaker_display %}
     {% if speech.speaker.image %}
 <div class="image">
@@ -22,7 +22,7 @@
     {% endif %}
 </p>
   {% endif %}
-{% elif with_context %}
+{% else %}
 <p class="context">
   {# @todo link to speech #}
   <span class="title">{% firstof speech.title|heading speech.section.title|heading %}</span>
@@ -53,7 +53,7 @@
 {% endif %}
 </div>
 
-{% if with_speaker %}
+{% if full and speech.speaker_display %}
 <div class="actions">
   <a href="#s{{ speech.id }}" class="link">
     <span class="glyphicon glyphicon-link"></span> Link

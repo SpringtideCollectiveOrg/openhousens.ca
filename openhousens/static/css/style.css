@@ -272,7 +272,9 @@ p.memberships { /* span is styled differently */
 .col-speech p:last-child {
   margin-bottom: 0;
 }
-.speeches .row-speech:last-of-type .col-speech {
+.speeches .person:last-of-type .col-speech,
+.speeches .government:last-of-type .col-speech,
+.speeches .role:last-of-type .col-speech {
   padding-bottom: 0;
 }
 /* .col-md-8 doesn't work with table-cell */

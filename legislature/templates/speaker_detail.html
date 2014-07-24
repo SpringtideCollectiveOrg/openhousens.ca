@@ -63,7 +63,7 @@
 
 {% for speech in object_list %}
       <div class="col-speech col-speech-with-border">
-{% include "speeches/speech.html" with speech=speech with_context=1 truncate=1 %}
+{% include 'speeches/speech.html' with speech=speech truncate=1 %}
       </div>
 {% endfor %}
 
