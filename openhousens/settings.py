@@ -116,6 +116,8 @@ HAYSTACK_CONNECTIONS = {
         ],
     },
 }
+# @see http://django-haystack.readthedocs.org/en/latest/settings.html#haystack-custom-highlighter
+HAYSTACK_CUSTOM_HIGHLIGHTER = 'legislature.highlighting.SafeHighlighter'
 
 BLEACH_ALLOWED_TAGS = [
     'a', 'abbr', 'b', 'i', 'u', 'span', 'sub', 'sup', 'br',
