@@ -1,15 +1,18 @@
 import calendar
 import datetime
 
+from django import forms
 from django.shortcuts import get_object_or_404, render_to_response
 from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
 
 import requests
+from haystack.forms import SearchForm
+from haystack.query import RelatedSearchQuerySet
 from haystack.views import SearchView
 from lxml import html
-from speeches.models import Section, Speaker
-from speeches.search import SpeakerForm, SpeechForm
+from speeches.models import Section, Speaker, Speech
+from speeches.search import SpeakerForm
 
 from legislature.models import Action, Bill
 
@@ -160,11 +163,44 @@ class DebateDetailView(ListView):
         return context
 debate = DebateDetailView.as_view()
 
-# @see https://github.com/mysociety/sayit/blob/master/speeches/search.py
+# @see http://django-haystack.readthedocs.org/en/latest/views_and_forms.html#creating-your-own-form
+# @see https://github.com/toastdriven/django-haystack/blob/master/haystack/forms.py
+class SpeechForm(SearchForm):
+    """
+    A form with a hidden integer field that searches the speaker ID field
+    """
+    p = forms.IntegerField(required=False, widget=forms.HiddenInput())
+
+    def __init__(self, *args, **kwargs):
+        if kwargs.get('searchqueryset') is None:
+            kwargs['searchqueryset'] = RelatedSearchQuerySet()
+        super(SpeechForm, self).__init__(*args, **kwargs)
+
+    # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html
+    def search(self):
+        sqs = super(SpeechForm, self).search().highlight().models(Speech)
+
+        if self.cleaned_data.get('p'):
+            sqs = sqs.filter(speaker=self.cleaned_data['p'])
+            try:
+                self.speaker = Speaker.objects.get(id=self.cleaned_data['p'])
+            except Speaker.DoesNotExist:
+                pass
+
+        return sqs
+
+# @see http://django-haystack.readthedocs.org/en/latest/views_and_forms.html#views
+# @see https://github.com/toastdriven/django-haystack/blob/master/haystack/views.py
 class CustomSearchView(SearchView):
     def __init__(self, *args, **kwargs):
         kwargs['form_class'] = SpeechForm
         super(CustomSearchView, self).__init__(*args, **kwargs)
+
+    def build_form(self, *args, **kwargs):
+        self.searchqueryset = RelatedSearchQuerySet()
+        if self.request.GET.get('sort') == 'newest':
+            self.searchqueryset = self.searchqueryset.order_by('-start_date')
+        return super(CustomSearchView, self).build_form(*args, **kwargs)
 
     def extra_context(self):
         if not self.query:

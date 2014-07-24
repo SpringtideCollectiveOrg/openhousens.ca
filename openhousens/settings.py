@@ -104,11 +104,16 @@ STATICFILES_DIRS = (
 )
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
+# @see http://django-haystack.readthedocs.org/en/latest/searchindex_api.html#keeping-the-index-fresh
 HAYSTACK_CONNECTIONS = {
     'default': {
         'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
         'URL': os.getenv('ELASTICSEARCH_URL', 'http://127.0.0.1:9200/'),
         'INDEX_NAME': 'openhousens',
+        'EXCLUDED_INDEXES': [
+            'speeches.search_indexes.SpeechIndex',
+            'speeches.search_indexes.SectionIndex',
+        ],
     },
 }
 

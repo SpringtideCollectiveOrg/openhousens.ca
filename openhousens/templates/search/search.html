@@ -65,32 +65,28 @@
 
   <div class="speeches">
     {% for result in page.object_list %}
-      {% if result.model_name == 'speech' %}
     <div class="row row-speech {{ result.object|speech_class }}">
       <div class="col-sm-2 col-meta hidden-xs">
         <a href="{{ result.object.section.start_date|hansard_url }}">
           {{ result.object.section.start_date|date:"F jS, Y" }}
         </a>
-        {% if result.object.section.parent.parent_id %}
+      {% if result.object.section.parent.parent_id %}
         <div class="heading-level-1">{{ result.object.section.parent.title|heading }}</div>
         <div class="heading-level-2">{{ result.object.section.title|heading }}</div>
-          {% if result.object.title %}
+        {% if result.object.title %}
         <div class="heading-level-3">{{ result.object.title|heading }}</div>
-          {% endif %}
-        {% elif result.object.section.parent_id %}
-        <div class="heading-level-1">{{ result.object.section.title|heading }}</div>
-          {% if result.object.title %}
-        <div class="heading-level-2">{{ result.object.title|heading }}</div>
-          {% endif %}
         {% endif %}
+      {% elif result.object.section.parent_id %}
+        <div class="heading-level-1">{{ result.object.section.title|heading }}</div>
+        {% if result.object.title %}
+        <div class="heading-level-2">{{ result.object.title|heading }}</div>
+        {% endif %}
+      {% endif %}
       </div>
       <div class="col-sm-10 col-speech" id="s{{ speech.id }}">
 {% include 'speeches/speech.html' with speech=result.object with_speaker=1 highlight=result.highlighted.0 %}
       </div>
     </div>
-      {% elif result.model_name == 'section' %}
-{# @todo include 'search/section_item.html' with section=result.object highlight=result.highlighted.0 #}
-      {% endif %}
     {% endfor %}
   </div>
   {% else %}
