@@ -34,7 +34,7 @@
 {{ speech.text|bleach }}
 </div>
 
-{% if speech.speaker_display %}
+{% if with_speaker %}
 <div class="actions">
   <a href="#s{{ speech.id }}" class="link">
     <span class="glyphicon glyphicon-link"></span> Link

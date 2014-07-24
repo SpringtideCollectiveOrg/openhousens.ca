@@ -59,18 +59,26 @@
   {% if page.object_list %}
   <div class="row push-down">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h2>Speeches <small>Results {{ page.start_index }}–{{ page.end_index }} of {{ paginator.count }}</small></h2>
-      <p class="order">
-        Sort by
+      <h2>Speeches</h2>
+      <p class="controls">
+        Results <strong>{{ page.start_index }}–{{ page.end_index }}</strong> of <strong>{{ paginator.count }}</strong>
+
+        <span class="order">
+          Sort by
     {% if request.GET.sort == "newest" %}
-        <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}">relevance</a>
-        or
-        <span class="active">newest first</span>
+          <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}">
+            relevance
+          </a>
+          or
+          <span class="active">newest first</span>
     {% else %}
-        <span class="active">relevance</span>
-        or
-        <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}&amp;sort=newest">newest first</a>
+          <span class="active">relevance</span>
+          or
+          <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}&amp;sort=newest">
+            newest first
+          </a>
     {% endif %}
+        </span>
       </p>
     </div>
   </div>
@@ -79,9 +87,7 @@
     {% for result in page.object_list %}
     <div class="row row-speech {{ result.object|speech_class }}">
       <div class="col-sm-2 col-meta hidden-xs">
-        <a href="{{ result.object.section.start_date|hansard_url }}">
-          {{ result.object.section.start_date|date:"F jS, Y" }}
-        </a>
+        {{ result.object.section.start_date|date:"F jS, Y" }}
       {% if result.object.section.parent.parent_id %}
         <div class="heading-level-1">{{ result.object.section.parent.title|heading }}</div>
         <div class="heading-level-2">{{ result.object.section.title|heading }}</div>
@@ -94,9 +100,18 @@
         <div class="heading-level-2">{{ result.object.title|heading }}</div>
         {% endif %}
       {% endif %}
+      {% if result.object.speaker_display %}
+        <div class="from">
+        {% if result.object.speaker_id %}
+          <a href="{% url 'legislature:speaker-view' result.object.speaker.slug %}">{{ result.object|speech_speaker }}</a>
+        {% else %}
+          {{ result.object|speech_speaker }}
+        {% endif %}
+        </div>
+      {% endif %}
       </div>
-      <div class="col-sm-10 col-speech" id="s{{ speech.id }}">
-{% include 'speeches/speech.html' with speech=result.object with_speaker=1 highlight=result.highlighted.0 %}
+      <div class="col-sm-10 col-speech" id="s{{ result.object.id }}">
+{% include 'speeches/speech.html' with speech=result.object highlight=result.highlighted.0 %}
       </div>
     </div>
     {% endfor %}

@@ -226,7 +226,7 @@ p.memberships { /* span is styled differently */
 /* Section detail */
 
 .col-meta {
-  font-size: 12px;
+  font-size: 11px;
 }
 .heading-level-1,
 .heading-level-2,
@@ -235,6 +235,9 @@ p.memberships { /* span is styled differently */
 }
 .heading-level-1 {
   font-weight: bold;
+}
+.col-meta .from {
+  margin-top: 1em;
 }
 
 /* display: table makes sure the left border are always the full-height of the row */
@@ -415,8 +418,11 @@ th.headerSortUp .glyphicon-chevron-up {
   font-style: normal;
 }
 
-.order .active {
+.controls .active {
   font-weight: bold;
+}
+.controls .order {
+  float: right;
 }
 
 /* Common */
