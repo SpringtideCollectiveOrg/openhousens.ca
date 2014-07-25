@@ -1,5 +1,5 @@
 from haystack import indexes
-from speeches.models import Speech
+from speeches.models import Section, Speech
 
 # @note We want to use decay functions to decrease the relevance of older
 #   speeches, but Haystack doesn't support scoring out-of-the-box.
@@ -43,6 +43,22 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
         elif obj.section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
             data['boost'] = 0.5
         return data
+
+    def get_updated_field(self):
+        return 'modified'
+
+class SectionIndex(indexes.SearchIndex, indexes.Indexable):
+    text = indexes.CharField(document=True, model_attr='title')
+
+    def get_model(self):
+        return Section
+
+    def load_all_queryset(self):
+        """
+        Reduce the number of SQL queries to render search results. We might
+        alternatively store a rendered result or more fields in ElasticSearch.
+        """
+        return self.get_model()._default_manager.all().prefetch_related('parent', 'parent__parent')
 
     def get_updated_field(self):
         return 'modified'

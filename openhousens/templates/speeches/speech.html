@@ -25,14 +25,10 @@
 {% else %}
 <p class="context">
   <span class="title">
-  {% if speech.title or speech.section.parent_id %}
-      <a href="{{ speech.section|hansard_url }}#s{{ speech.id }}">{% firstof speech.title|heading speech.section.title|heading %}</a>
-  {% else %}
-      <a href="{{ speech.section|hansard_url }}#s{{ speech.id }}">Debates</a>
-  {% endif %}
+    <a href="{{ speech.section|single_page_hansard_url }}#s{{ speech.id }}">{% if speech.title or speech.section.parent_id %}{% firstof speech.title|heading speech.section.title|heading %}{% else %}Debates{% endif %}</a>
   </span>
   <span class="date">
-    <a href="{{ speech.section.start_date|hansard_url }}">{{ speech.section.start_date|date:"F jS, Y" }}</a>
+    <a href="{{ speech.section|hansard_url }}">{{ speech.section.start_date|date:"F jS, Y" }}</a>
   </span>
   {% if query %}
     {% if speech.speaker_display %}

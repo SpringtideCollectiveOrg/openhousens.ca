@@ -5,7 +5,6 @@ from django import template
 from django.core.urlresolvers import reverse
 from django.utils.http import urlquote
 
-from speeches.models import Section
 from legislature.synonyms import upper_case_words, mixed_case_abbreviations, upper_case_abbreviations
 
 register = template.Library()
@@ -135,9 +134,9 @@ def tweet_text(speech):
     return urlquote(tweet)
 
 @register.filter
-def hansard_url(obj):
-    if isinstance(obj, Section):
-        return reverse('legislature:section-view-single-page', args=(top_level_slug(obj),))
-    else:
-        # It's possible for two hansards to have the same date. This picks the earliest.
-        return reverse('legislature:section-view', args=(('debates-%s' % obj.strftime('%-d-%B-%Y')).lower(),))
+def hansard_url(section):
+    return reverse('legislature:section-view', args=(top_level_slug(section),))
+
+@register.filter
+def single_page_hansard_url(section):
+    return reverse('legislature:section-view-single-page', args=(top_level_slug(section),))
