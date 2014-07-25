@@ -5,6 +5,7 @@ from django import template
 from django.core.urlresolvers import reverse
 from django.utils.http import urlquote
 
+from speeches.models import Section
 from legislature.synonyms import upper_case_words, mixed_case_abbreviations, upper_case_abbreviations
 
 register = template.Library()
@@ -21,6 +22,14 @@ def upper_case_letter(match):
 
 def capitalize_patronymic(match):
     return match.group(1) + match.group(2).upper()
+
+def top_level_slug(section):
+    if not section.parent_id:
+        return section.slug
+    elif not section.parent.parent_id:
+        return section.parent.slug
+    else:
+        return section.parent.parent.slug
 
 @register.filter
 def month_name(month_number):
@@ -126,6 +135,9 @@ def tweet_text(speech):
     return urlquote(tweet)
 
 @register.filter
-def hansard_url(date):
-    # It's possible for two hansards to have the same date. This picks the earliest.
-    return reverse('legislature:section-view', args=(('debates-%s' % date.strftime('%-d-%B-%Y')).lower(),))
+def hansard_url(obj):
+    if isinstance(obj, Section):
+        return reverse('legislature:section-view-single-page', args=(top_level_slug(obj),))
+    else:
+        # It's possible for two hansards to have the same date. This picks the earliest.
+        return reverse('legislature:section-view', args=(('debates-%s' % obj.strftime('%-d-%B-%Y')).lower(),))

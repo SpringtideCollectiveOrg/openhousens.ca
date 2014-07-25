@@ -13,7 +13,6 @@ from haystack.views import SearchView
 from lxml import html
 from speeches.models import Section, Speaker, Speech
 from speeches.search import SpeakerForm
-
 from legislature.models import Action, Bill
 
 
@@ -77,7 +76,7 @@ class SpeakerDetailView(ListView):
 
     def get_queryset(self):
         self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
-        qs = self.object.speech_set.order_by('-start_date', '-id').select_related('section')
+        qs = self.object.speech_set.order_by('-start_date', '-id').select_related('section', 'section__parent', 'section__parent__parent')
         if self.notices:
             qs = qs.filter(section__title='NOTICES OF MOTION UNDER RULE 32(3)')
         else:

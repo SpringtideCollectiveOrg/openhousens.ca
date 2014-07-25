@@ -14,6 +14,11 @@ urlpatterns = patterns('',
     url(r'^debates/(?P<year>\d{4})/(?P<month>\d{1,2})/$', views.debates_by_month, name='section-list-by-month'),
     # It's possible for two hansards to have the same date, so we use slugs.
     url(r'^debates/(?P<slug>\D[-_\w]+)/$', views.debate, name='section-view'),
+    # OpenParliament.ca uses a `sequence` field to determine the page on which
+    # the speech appers. SayIt lists all speeches in a section. Until SayIt adds
+    # a `sequence` field to the Speech model, we put all speeches on one page
+    # when linking to a speech.
+    url(r'^debates/(?P<slug>\D[-_\w]+)/single-page/$', views.debate_single_page, name='section-view-single-page'),
     url(r'^written-notices/(?P<slug>\D[-_\w]+)/$', views.notices, name='notices-view'),
     url(r'^bills/$', cache_page(86400)(views.bills), name='bill-list'),
     url(r'^bills/(?P<slug>[-_\w.]+)/$', cache_page(86400)(views.bill), name='bill-view'),
