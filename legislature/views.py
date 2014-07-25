@@ -73,16 +73,24 @@ people = SpeakerListView.as_view()
 class SpeakerDetailView(ListView):
     paginate_by = 15
     template_name = 'speaker_detail.html'
+    notices = False
 
     def get_queryset(self):
         self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
-        return self.object.speech_set.all().order_by('-start_date', '-id').prefetch_related('section', 'speaker')
+        qs = self.object.speech_set.order_by('-start_date', '-id').select_related('section')
+        if self.notices:
+            qs = qs.filter(section__title='NOTICES OF MOTION UNDER RULE 32(3)')
+        else:
+            qs = qs.exclude(section__title='NOTICES OF MOTION UNDER RULE 32(3)')
+        return qs
 
     def get_context_data(self, **kwargs):
         context = super(SpeakerDetailView, self).get_context_data(**kwargs)
         context['speaker'] = self.object
+        context['notices'] = self.notices
         return context
 person = SpeakerDetailView.as_view()
+person_notices = SpeakerDetailView.as_view(notices=True)
 
 
 class DebateDetailView(ListView):
@@ -114,6 +122,7 @@ class DebateDetailView(ListView):
         return context
 debate = DebateDetailView.as_view()
 notices = DebateDetailView.as_view(notices=True)
+debate_single_page = DebateDetailView.as_view(paginate_by=None)
 
 
 class BillListView(ListView):

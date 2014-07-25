@@ -28,9 +28,6 @@ a:focus,
   font-weight: bold;
 }
 
-.form-inline-always {
-  margin-bottom: 20px;
-}
 .form-inline-always .form-group {
   display: inline-block;
   margin-bottom: 0;
@@ -52,6 +49,11 @@ a:focus,
 
 .push-down {
   margin-top: 40px;
+}
+
+.empty {
+  font-size: 24px;
+  font-weight: 300;
 }
 
 /* Layout */
@@ -200,6 +202,30 @@ figcaption {
 p.memberships { /* span is styled differently */
   font-size: 24px;
   font-weight: 300;
+}
+
+.nav-pills {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.nav-pills li span {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+.nav-pills li.active span,
+.nav-pills li.active span:hover,
+.nav-pills li.active span:focus {
+  color: #fff;
+  background-color: #359ebb;
+}
+
+.speaker-detail h2 {
+  margin-top: 20px;
+}
+.speaker-detail .pagination {
+  margin-top: 0;
 }
 
 /* Pagination */

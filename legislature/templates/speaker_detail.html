@@ -8,7 +8,7 @@
 {% include 'speeches/_breadcrumbs.html' %}
 {% long_paginator as pagination %}
 
-<div class="container-fluid">
+<div class="container-fluid speaker-detail">
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
       <h1>{{ speaker.name|person_name }}</h1>
@@ -57,6 +57,24 @@
         <input type="hidden" name="p" value="{{ speaker.id }}">
       </form>
 
+      <ul class="nav nav-pills">
+{% if notices %}
+        <li>
+          <a href="{% url 'legislature:speaker-view' speaker.slug %}">Speeches</a>
+        </li>
+        <li class="active">
+          <span>Written notices</span>
+        </li>
+{% else %}
+        <li class="active">
+          <span>Speeches</span>
+        </li>
+        <li>
+          <a href="{% url 'legislature:speaker-view-notices' speaker.slug %}">Written notices</a>
+        </li>
+{% endif %}
+      </ul>
+
       <div class="hidden-xs">
 {{ pagination }}
       </div>
@@ -65,6 +83,8 @@
       <div class="col-speech col-speech-with-border">
 {% include 'speeches/speech.html' with speech=speech truncate=1 %}
       </div>
+{% empty %}
+      <p class="empty">No {% if notices %}written notices{% else %}speeches{% endif %}</p>
 {% endfor %}
 
 {{ pagination }}
