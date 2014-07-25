@@ -122,6 +122,7 @@ class DebateDetailView(ListView):
 debate = DebateDetailView.as_view()
 notices = DebateDetailView.as_view(notices=True)
 debate_single_page = DebateDetailView.as_view(paginate_by=None)
+notices_single_page = DebateDetailView.as_view(paginate_by=None, notices=True)
 
 
 class BillListView(ListView):

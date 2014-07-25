@@ -135,8 +135,14 @@ def tweet_text(speech):
 
 @register.filter
 def hansard_url(section):
-    return reverse('legislature:section-view', args=(top_level_slug(section),))
+    if section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
+        return reverse('legislature:notices-view', args=(top_level_slug(section),))
+    else:
+        return reverse('legislature:section-view', args=(top_level_slug(section),))
 
 @register.filter
 def single_page_hansard_url(section):
-    return reverse('legislature:section-view-single-page', args=(top_level_slug(section),))
+    if section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
+        return reverse('legislature:notices-view-single-page', args=(top_level_slug(section),))
+    else:
+        return reverse('legislature:section-view-single-page', args=(top_level_slug(section),))
