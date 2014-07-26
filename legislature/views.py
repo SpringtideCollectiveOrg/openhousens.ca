@@ -214,14 +214,14 @@ class SpeechForm(SearchForm):
     # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html
     # @see http://django-haystack.readthedocs.org/en/latest/searchqueryset_api.html#SearchQuerySet.auto_query
     def search(self):
+        if not self.is_valid():
+            return self.no_query_found()
+
         if self.cleaned_data.get('p'):
             try:
                 self.speaker = Speaker.objects.get(id=self.cleaned_data['p'])
             except Speaker.DoesNotExist:
                 pass
-
-        if not self.is_valid():
-            return self.no_query_found()
 
         if not self.cleaned_data.get('q'):
             return self.no_query_found()
