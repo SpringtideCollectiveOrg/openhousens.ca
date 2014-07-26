@@ -15,14 +15,19 @@ $(function () {
   });
 
   $('.tablesorter').tablesorter({
-    sortList: [[1, 0]],
-    textExtraction: function (node) { 
-      if (node.className === 'hidden-xs modified') {
+    sortList: [[1, 0]]
+  , textExtraction: function (node) {
+      if (node.className.indexOf('modified') !== -1) {
         return node.getAttribute('data-modified');
       }
       else {
         return node.innerHTML;
       }
-    } 
+    }
+  , widgets: ['filter']
+  , widgetOptions: {
+      filter_columnFilters: false
+    , filter_external: '.form-filter input'
+    }
   });
 });

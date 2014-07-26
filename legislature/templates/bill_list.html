@@ -6,6 +6,7 @@
 
 {% block js %}
 <script src="{% static 'js/plugins/jquery.tablesorter.min.js' %}"></script>
+<script src="{% static 'js/plugins/jquery.tablesorter.widgets.min.js' %}"></script>
 {% endblock %}
 
 {% block content %}
@@ -15,6 +16,10 @@
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
       <h1>Bills</h1>
+
+      <form class="form-filter" role="form">
+        <input type="search" data-column="1" class="form-control" placeholder="Search bills">
+      </form>
     </div>
   </div>
 
@@ -28,7 +33,7 @@
       <table class="tablesorter">
         <thead class="hidden-xs">
           <tr>
-            <th>
+            <th class="header-number">
               Number
               <span class="glyphicon glyphicon-chevron-down"></span>
               <span class="glyphicon glyphicon-chevron-up"></span>
@@ -38,7 +43,7 @@
               <span class="glyphicon glyphicon-chevron-down"></span>
               <span class="glyphicon glyphicon-chevron-up"></span>
             </th>
-            <th>
+            <th class="header-date">
               Date
               <span class="glyphicon glyphicon-chevron-down"></span>
               <span class="glyphicon glyphicon-chevron-up"></span>

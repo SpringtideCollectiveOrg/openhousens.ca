@@ -398,6 +398,16 @@ span.memberships { /* p is styled differently */
 
 /* Bill list */
 
+.form-filter {
+  margin-bottom: 20px;
+}
+.header-number {
+  width: 5em;
+}
+.header-date {
+  width: 9em;
+}
+
 table {
   width: 100%;
 }
@@ -420,10 +430,10 @@ th .glyphicon-chevron-down {
 th .glyphicon-chevron-up {
   display: none;
 }
-th.headerSortDown .glyphicon-chevron-down {
+th.tablesorter-headerAsc .glyphicon-chevron-down {
   display: inline;
 }
-th.headerSortUp .glyphicon-chevron-up {
+th.tablesorter-headerDesc .glyphicon-chevron-up {
   display: inline;
 }
 .modified {

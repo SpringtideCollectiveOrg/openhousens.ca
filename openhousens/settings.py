@@ -141,8 +141,15 @@ TEMPLATE_CONTEXT_PROCESSORS = global_settings.TEMPLATE_CONTEXT_PROCESSORS + (
 )
 
 # @see https://docs.djangoproject.com/en/1.7/topics/cache/#memcached
-from memcacheify import memcacheify
-CACHES = memcacheify()
+if os.getenv('PRODUCTION', False):
+    from memcacheify import memcacheify
+    CACHES = memcacheify()
+else:
+    CACHES = {
+        'default': {
+            'BACKEND': 'django.core.cache.backends.dummy.DummyCache',
+        }
+    }
 
 # Error reporting.
 ADMINS = (
