@@ -366,6 +366,31 @@ span.memberships { /* p is styled differently */
   color: #58585b;
 }
 
+.truncatable {
+  overflow: hidden;
+  position: relative;
+  max-height: 300px;
+}
+.expand-fade {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 45px;
+  background: transparent url('../img/gradient.png') repeat-x;
+}
+.expand-link {
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  padding-right: 10px;
+  background-color: #fff;
+}
+.expand-link:hover {
+  background-position :0 -22px;
+}
+
 .person .speech,
 .role .speech {
   font-family: Georgia,Times,'Times New Roman',serif;
