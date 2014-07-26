@@ -78,9 +78,9 @@ class SpeakerDetailView(ListView):
         self.object = get_object_or_404(Speaker, slugs__slug=self.kwargs.get('slug', None))
         qs = self.object.speech_set.order_by('-start_date', '-id').select_related('section', 'section__parent', 'section__parent__parent')
         if self.notices:
-            qs = qs.filter(section__title='NOTICES OF MOTION UNDER RULE 32(3)')
+            qs = qs.filter(section__heading='NOTICES OF MOTION UNDER RULE 32(3)')
         else:
-            qs = qs.exclude(section__title='NOTICES OF MOTION UNDER RULE 32(3)')
+            qs = qs.exclude(section__heading='NOTICES OF MOTION UNDER RULE 32(3)')
         return qs
 
     def get_context_data(self, **kwargs):
