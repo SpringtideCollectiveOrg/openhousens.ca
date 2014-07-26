@@ -139,7 +139,7 @@ class BillListView(ListView):
         for tr in tree.xpath('//tr[@valign="top"]'):
             bill = Bill(
                 identifier=int(tr.xpath('./td[2]//text()')[0]),
-                title=tr.xpath('./td[3]//text()')[0].replace('(amended)', '').rstrip('*\n '),
+                title=tr.xpath('./td[3]//text()')[0].rstrip('*\n '),
                 status=tr.xpath('./td[1]//text()')[0],
                 modified=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
                 url=tr.xpath('./td[3]//@href')[0],
@@ -164,7 +164,7 @@ class BillDetailView(DetailView):
 
         bill = Bill(
             identifier=int(div.xpath('./h3//text()')[0].rsplit(' ', 1)[1]),
-            title=div.xpath('./h2//text()')[0].replace('(amended)', '').rstrip('*\n '),
+            title=div.xpath('./h2//text()')[0].rstrip('*\n '),
             url=url,
             law_amendments_committee_submissions_url=div.xpath('string(.//@href[contains(.,"/committees/submissions/")])'),
         )

@@ -3,7 +3,9 @@ import re
 
 from django import template
 from django.core.urlresolvers import reverse
+from django.utils.html import conditional_escape
 from django.utils.http import urlquote
+from django.utils.safestring import mark_safe
 
 from legislature.synonyms import upper_case_words, mixed_case_abbreviations, upper_case_abbreviations
 
@@ -21,6 +23,9 @@ def upper_case_letter(match):
 
 def capitalize_patronymic(match):
     return match.group(1) + match.group(2).upper()
+
+def html_mark_safe(template, *args):
+    return mark_safe(template.format(*map(conditional_escape, args)))
 
 def top_level_slug(section):
     if not section.parent_id:
@@ -79,7 +84,7 @@ def speaker_description(speaker):
     elif party == 'Progressive Conservative Association of Nova Scotia':
         party = 'Progressive Conservative'
     label = next(membership.label for membership in speaker.memberships.all() if membership.label)
-    return '%s %s' % (party, label)
+    return html_mark_safe('<span itemprop="member" itemscope itemtype="http://schema.org/Organization">{0}</span> <span itemprop="jobTitle">{1}</span>', party, label)
 
 @register.filter
 def speaker_name(name):

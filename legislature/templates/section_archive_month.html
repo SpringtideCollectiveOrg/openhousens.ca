@@ -20,8 +20,12 @@
     </div>
     <div class="col-sm-10 col-md-8">
       <ul class="list-inline">
-        {% for hansard in object_list reversed %}<li>
-          <a href="{% url 'legislature:section-view' hansard.slug %}">{{ hansard.start_date|date:"F jS" }}</a>
+        {% for hansard in object_list reversed %}<li itemscope itemtype="http://schema.org/CreativeWork">
+          <a href="{% url 'legislature:section-view' hansard.slug %}">
+            <time itemprop="dateCreated" datetime="{{ hansard.start_date|date:"Y-m-d" }}">
+              {{ hansard.start_date|date:"F jS" }}
+            </time>
+          </a>
         </li>{% endfor %}
       </ul>
     </div>

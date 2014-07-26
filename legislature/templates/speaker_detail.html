@@ -8,10 +8,10 @@
 {% include 'speeches/_breadcrumbs.html' %}
 {% long_paginator as pagination %}
 
-<div class="container-fluid speaker-detail">
+<div class="container-fluid speaker-detail" itemscope itemtype="http://schema.org/Person">
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h1>{{ speaker.name|person_name }}</h1>
+      <h1 itemprop="name">{{ speaker.name|person_name }}</h1>
     </div>
   </div>
 
@@ -19,20 +19,20 @@
     <div class="col-sm-2">
 {% if speaker.image %}
       <figure>
-        <img src="{{ speaker.image }}" alt="">
+        <img itemprop="image" src="{{ speaker.image }}" alt="">
         <figcaption>Nova Scotia Legislature photo</figcaption>
       </figure>
 {% endif %}
 {% if speaker.email %}
       <p class="contact">
-        <a href="mailto:{{ speaker.email }}">
+        <a itemprop="email" href="mailto:{{ speaker.email }}">
           Email {{ speaker.name|person_short_name }}
         </a>
       </p>
 {% endif %}
 {% if speaker.sources.all %}
       <p class="hidden-xs">
-        <a href="{{ speaker.sources.all.0.url }}">
+        <a itemprop="url" href="{{ speaker.sources.all.0.url }}">
           On the legislature's site
         </a>
       </p>

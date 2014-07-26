@@ -52,10 +52,10 @@
         </thead>
         <tbody>
   {% for bill in status.list %}
-          <tr>
+          <tr itemscope itemtype="http://schema.org/CreativeWork">
             <td class="hidden-xs">{{ bill.identifier }}</td>
-            <td><a href="{% url 'legislature:bill-view' bill.slug %}">{{ bill.title }}</a></td>
-            <td class="hidden-xs modified" data-modified="{{ bill.modified|date:"Y-m-d" }}">{{ bill.modified|date:"F j, Y" }}</td>
+            <td><a href="{% url 'legislature:bill-view' bill.slug %}"><span itemprop="alternateName">{{ bill.title }}</span></a></td>
+            <td class="hidden-xs modified"><time itemprop="dateModified" datetime="{{ bill.modified|date:"Y-m-d" }}">{{ bill.modified|date:"F j, Y" }}</time></td>
           </tr>
   {% endfor %}
         </tbody>

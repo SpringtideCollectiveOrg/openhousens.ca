@@ -7,16 +7,16 @@
 {% block content %}
 {% include 'speeches/_breadcrumbs.html' %}
 
-<div class="container-fluid">
+<div class="container-fluid" itemscope itemtype="http://schema.org/CreativeWork">
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
       <header>
-        <h1>Bill No. {{ bill.identifier }}</h1>
-        <p class="title">{{ bill.title }}</p>
+        <h1 itemprop="name">Bill No. {{ bill.identifier }}</h1>
+        <p class="title" itemprop="alternateName">{{ bill.title }}</p>
 {% if bill.description %}
-        <p class="subtitle">{{ bill.description }}</p>
+        <p class="subtitle" itemprop="description">{{ bill.description }}</p>
 {% endif %}
-        <p>(The <a href="{{ bill.url }}">original version</a> is on the legislature's site.)</p>
+        <p>(The <a itemprop="url" href="{{ bill.url }}">original version</a> is on the legislature's site.)</p>
       </header>
     </div>
   </div>
@@ -26,9 +26,9 @@
     <div class="col-sm-2">
       <h2>Sponsor</h2>
     </div>
-    <div class="col-sm-10 col-md-8">
+    <div class="col-sm-10 col-md-8" itemprop="creator" itemscope itemtype="http://schema.org/Person">
       <a href="{% url 'legislature:speaker-view' bill.creator.slug %}">
-        <strong>{{ bill.creator.name }}</strong>
+        <strong itemprop="name">{{ bill.creator.name|person_name }}</strong>
       </a>
     </div>
   </div>

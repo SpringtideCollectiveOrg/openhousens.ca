@@ -18,7 +18,7 @@ $(function () {
     sortList: [[1, 0]]
   , textExtraction: function (node) {
       if (node.className.indexOf('modified') !== -1) {
-        return node.getAttribute('data-modified');
+        return node.children[0].getAttribute('datetime');
       }
       else {
         return node.innerHTML;
