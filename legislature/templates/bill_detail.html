@@ -1,6 +1,6 @@
 {% extends 'speeches/base.html' %}
 {% load url from future %}
-{% load legislature_extras %}
+{% load staticfiles legislature_extras %}
 
 {% block title %}Bill No. {{ bill.identifier }} {{ bill.title }}{% endblock %}
 
@@ -20,7 +20,10 @@
 {% if bill.description %}
         <p class="subtitle" itemprop="description">{{ bill.description }}</p>
 {% endif %}
-        <p>(The <a itemprop="url" href="{{ bill.url }}">original version</a> is on the legislature's site.)</p>
+        <p>
+          Subscribe to this <a href="http://nslegislature.ca/index.php/proceedings/rss_2.0/{{ bill.slug }}">RSS feed</a> to track changes to the bill's status.
+          (The <a itemprop="url" href="{{ bill.url }}">original version</a> is on the legislature's site.)
+        </p>
       </header>
     </div>
   </div>
