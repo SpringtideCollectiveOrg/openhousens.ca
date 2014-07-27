@@ -1,4 +1,6 @@
 $(function () {
+  $('dt[data-toggle="tooltip"]').tooltip();
+
   // @see https://dev.twitter.com/docs/share-bookmarklet
   $('.twitter').click(function (event) {
     event.preventDefault();

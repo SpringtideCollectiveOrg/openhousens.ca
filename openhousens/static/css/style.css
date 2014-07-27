@@ -283,9 +283,6 @@ p.memberships { /* span is styled differently */
   border-top: none;
   padding-top: 0;
 }
-.col-speech-with-border:last-of-type {
-  padding-bottom: 0;
-}
 .col-meta,
 .col-speech {
   float: none;
@@ -392,6 +389,7 @@ span.memberships { /* p is styled differently */
 }
 
 .person .speech,
+.government .speech,
 .role .speech {
   font-family: Georgia,Times,'Times New Roman',serif;
 }
@@ -404,7 +402,7 @@ span.memberships { /* p is styled differently */
   z-index: 300;
   display: none;
   position: absolute;
-  top: 20px;
+  top: 0;
   right: 0;
   padding-right: 15px;
   background-color: #fff;

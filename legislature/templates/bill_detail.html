@@ -4,6 +4,10 @@
 
 {% block title %}Bill No. {{ bill.identifier }} {{ bill.title }}{% endblock %}
 
+{% block head %}
+<link rel="alternate" type="application/rss+xml" href="http://nslegislature.ca/index.php/proceedings/rss_2.0/{{ bill.slug }}">
+{% endblock %}
+
 {% block content %}
 {% include 'speeches/_breadcrumbs.html' %}
 
@@ -41,19 +45,57 @@
     <div class="col-sm-10 col-md-8">
       <dl class="dl-horizontal">
 {% for action in bill.actions %}
-        <dt>{{ action.description }}</dt>
-  {% if action.description == "Law Amendments Committee" %}
-        <dd><a href="{{ bill.law_amendments_committee_submissions_url }}" target="_blank">{{ action.text }} <span class="glyphicon glyphicon-new-window"></span></a></dd>
-  {% elif action.text %}
-        <dd>{{ action.text }}</dd>
-  {% elif "Meeting Date(s)" in action.description %}
-        <dd>{{ action.date|date:"F j, Y" }}</dd>
-  {% elif "Reported to the House" in action.description %}
-        <dd>{{ action.date|date:"F j, Y" }}</dd>
-  {% elif "Commencement" in action.description %}
-        <dd>{{ action.date|date:"F j, Y" }}</dd>
-  {% else %}
-        <dd><a href="{% url 'legislature:haystack_search' %}?q=Bill%20{{ bill.identifier }}%20start_date%3A{{ action.date|date:"Y-m-d" }}">{{ action.date|date:"F j, Y" }}</a></dd>
+  {% if "Meeting Date(s)" not in action.description %}
+    {% if "First Reading" in action.description %}
+        <dt data-toggle="tooltip" title="The bill is introduced">
+          {{ action.description }}
+        </dt>
+    {% elif "Second Reading Passed" in action.description %}
+        <dt data-toggle="tooltip" title="The House votes to refer the bill to the Committee on Law Amendments">
+          Second Reading
+        </dt>
+    {% elif "Law Amendments Committee" in action.description %}
+        <dt data-toggle="tooltip" title="The committee considers the bill and hears from interested people and organizations">
+          {{ action.description }}
+        </dt>
+    {% elif "Reported to the House" in action.description %}
+        <dt data-toggle="tooltip" title="The House votes to refer the bill to the Committee of the Whole House on Bills">
+          {{ action.description }}
+        </dt>
+    {% elif "Committee of the Whole House" in action.description %}
+        <dt data-toggle="tooltip" title="The Committee of the Whole House on Bills examines each clause of the bill">
+          {{ action.description }}
+        </dt>
+    {% elif action.description == "Third Reading" %}
+        <dt data-toggle="tooltip" title="The House votes to pass the bill">
+          {{ action.description }}
+        </dt>
+    {% elif "Royal Assent" in action.description %}
+        <dt data-toggle="tooltip" title="The Lieutenant Governor signs the bill into law">
+          {{ action.description }}
+        </dt>
+    {% elif "Commencement" in action.description %}
+        <dt data-toggle="tooltip" title="The law comes into force">
+          {{ action.description }}
+        </dt>
+    {% else %}
+        <dt>
+          {{ action.description }}
+        </dt>
+    {% endif %}
+        <dd>
+    {% if "Law Amendments Committee" in action.description %}
+          <a href="{{ bill.law_amendments_committee_submissions_url }}" target="_blank">{{ action.text }} <span class="glyphicon glyphicon-new-window"></span></a>
+    {% elif action.text %}
+          {{ action.text }}
+    {% elif "Meeting Date(s)" in action.description %}
+          {{ action.date|date:"F j, Y" }}
+    {% elif "Commencement" in action.description %}
+          {{ action.date|date:"F j, Y" }}
+    {% else %}
+          <a href="{% url 'legislature:haystack_search' %}?q=Bill%20{{ bill.identifier }}%20start_date%3A{{ action.date|date:"Y-m-d" }}">{{ action.date|date:"F j, Y" }}</a>
+    {% endif %}
+        </dd>
   {% endif %}
 {% endfor %}
       </dl>
