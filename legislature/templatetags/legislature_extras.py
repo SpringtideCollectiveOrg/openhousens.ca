@@ -60,13 +60,17 @@ def heading(string):
         return ' '.join(words)
 
 @register.filter
+def speaker_party_name(speaker):
+    return next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
+
+@register.filter
 def speaker_party_class(speaker):
-    klass = next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
-    if klass == 'Nova Scotia Liberal Party':
+    party = speaker_party_name(speaker)
+    if party == 'Nova Scotia Liberal Party':
         return 'liberal'
-    elif klass == 'Nova Scotia New Democratic Party':
+    elif party == 'Nova Scotia New Democratic Party':
         return 'ndp'
-    elif klass == 'Progressive Conservative Association of Nova Scotia':
+    elif party == 'Progressive Conservative Association of Nova Scotia':
         return 'pc'
     return ''
 
@@ -76,7 +80,7 @@ def speaker_description(speaker):
     We use speaker.memberships.all() instead of speaker.memberships.filter()
     to avoid additional queries to the database.
     """
-    party = next(membership.organization.name for membership in speaker.memberships.all() if not membership.label)
+    party = speaker_party_name(speaker)
     if party == 'Nova Scotia Liberal Party':
         party = 'Liberal'
     elif party == 'Nova Scotia New Democratic Party':

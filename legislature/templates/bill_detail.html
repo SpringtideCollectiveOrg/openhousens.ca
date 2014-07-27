@@ -37,6 +37,7 @@
       <a href="{% url 'legislature:speaker-view' bill.creator.slug %}">
         <strong itemprop="name">{{ bill.creator.name|person_name }}</strong>
       </a>
+      <span class="swatch {{ bill.creator|speaker_party_class }}" title="{{ bill.creator|speaker_party_name }}"></span>
     </div>
   </div>
 {% endif %}
