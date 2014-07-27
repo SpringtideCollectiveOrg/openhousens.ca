@@ -40,7 +40,7 @@ debates = DebateArchiveIndexView.as_view()
 
 
 class DebateYearArchiveView(TitleAdder, YearArchiveView):
-    queryset = Section.objects.filter(parent=None)
+    queryset = Section.objects.filter(parent=None).order_by('start_date')
     date_field = 'start_date'
     template_name = 'section_archive_year.html'
     make_object_list = True
@@ -49,7 +49,7 @@ debates_by_year = DebateYearArchiveView.as_view()
 
 
 class DebateMonthArchiveView(TitleAdder, MonthArchiveView):
-    queryset = Section.objects.filter(parent=None)
+    queryset = Section.objects.filter(parent=None).order_by('start_date')
     date_field = 'start_date'
     template_name = 'section_archive_month.html'
     make_object_list = True
