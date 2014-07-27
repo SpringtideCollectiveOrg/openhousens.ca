@@ -27,11 +27,13 @@
   <span class="title">
     <a href="{{ speech.section|single_page_hansard_url }}#s{{ speech.id }}">{% if speech.title or speech.section.parent_id %}{% firstof speech.title|heading speech.section.title|heading %}{% else %}Debates{% endif %}</a>
   </span>
+  on
   <span class="date">
     <a href="{{ speech.section|hansard_url }}">{{ speech.section.start_date|date:"F jS, Y" }}</a>
   </span>
   {% if query %}
     {% if speech.speaker_display %}
+  by
   <span class="from">
       {% if speech.speaker_id %}
     <a href="{% url 'legislature:speaker-view' speech.speaker.slug %}">{{ speech|speech_speaker }}</a>

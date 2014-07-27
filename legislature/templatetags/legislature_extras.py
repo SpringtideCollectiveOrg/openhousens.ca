@@ -90,6 +90,12 @@ def speaker_description(speaker):
 def speaker_name(name):
     return ' '.join(patronymic.sub(capitalize_patronymic, first_letter.sub(upper_case_letter, component.lower())) for component in name.split(' '))
 
+invalid = re.compile('[^a-z._-]')
+@register.filter
+def speaker_dom_id(speaker):
+    label = next(membership.label for membership in speaker.memberships.all() if membership.label)
+    return invalid.sub('', label.replace('MLA for ', '').replace(' ', '_').lower())
+
 @register.filter
 def person_name(name):
     return honorifics.sub('', speaker_name(name))

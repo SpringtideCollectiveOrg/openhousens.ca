@@ -1,6 +1,78 @@
+if (typeof google !== 'undefined') {
+  var geocoder = new google.maps.Geocoder();
+}
+
+/**
+ * @see http://learn.jquery.com/code-organization/deferreds/examples/
+ */
+function createCache(url) {
+  var cache = {};
+  return function (arg) {
+    var key = arg.toString();
+    if (!cache[key]) {
+      cache[key] = $.ajax({dataType: 'json', url: url(arg)});
+    }
+    return cache[key];
+  };
+}
+
+var getBoundariesByLatLng = createCache(function (latlng) {
+  return 'http://represent.opennorth.ca/boundaries/nova-scotia-electoral-districts/?limit=0&contains=' + latlng[0] + ',' + latlng[1];
+});
+
+function processLatLng(latlng) {
+  $('#error').hide();
+  $('#results').empty();
+
+  getBoundariesByLatLng(latlng).then(function (response) {
+    if (response.objects.length) {
+      $.each(response.objects, function (i, object) {
+        var id = object.name.toLowerCase().replace(/ /g, '_').replace(/—/g, '-').replace(/[^a-z._-]/g, ''); // m-dash
+        $('#' + id).clone().appendTo('#results');
+      });
+    }
+    else {
+      $('#error').html("We couldn't find your MLA, sorry.").fadeIn('slow');
+    }
+  });
+}
+
+function processAddress() {
+  $('.alert').hide();
+  $('#results').empty();
+
+  if ($('#address').val()) {
+    geocoder.geocode({address: $('#address').val(), region: 'ca'}, function (results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+        if (results.length > 1) {
+          $('#addresses').empty().append('<option>Select your address</option>');
+          $.each(results, function (i, result) {
+            $('#addresses').append('<option data-latitude="' + result.geometry.location.lat() + '" data-longitude="' + result.geometry.location.lng() + '">' + result.formatted_address + '</option>');
+          });
+          $('#many-results').fadeIn('slow');
+        }
+        else {
+          processLatLng([results[0].geometry.location.lat(), results[0].geometry.location.lng()]);
+        }
+      }
+      else if (status == google.maps.GeocoderStatus.ZERO_RESULTS) {
+        $('#error').html("We couldn't find your address or postal code, sorry.").fadeIn('slow');
+      }
+      else {
+        $('#error').html("Something went wrong. Please try again.").fadeIn('slow');
+      }
+    });
+  }
+  else {
+    $('#error').html("Please enter an address or postal code.").fadeIn('slow');
+  }
+}
+
 $(function () {
+  // Bill detail
   $('dt[data-toggle="tooltip"]').tooltip();
 
+  // Section detail
   // @see https://dev.twitter.com/docs/share-bookmarklet
   $('.twitter').click(function (event) {
     event.preventDefault();
@@ -16,6 +88,7 @@ $(function () {
       'personalbar=0,toolbar=0,scrollbars=1,resizable=1');
   });
 
+  // Bill list
   var $tablesorter = $('.tablesorter');
   if ($tablesorter.length) {
     $tablesorter.tablesorter({
@@ -36,6 +109,7 @@ $(function () {
     });
   }
 
+  // Section detail
   $('.truncatable').each(function () {
     if (this.clientHeight < this.scrollHeight) {
       $('<div class="expand-fade"></div>').appendTo(this);
@@ -52,4 +126,24 @@ $(function () {
       }).appendTo(this);
     }
   });
+
+  // Speaker list
+  $('#submit').click(function (event) {
+    processAddress();
+    event.preventDefault();
+  });
+
+  $('#addresses').change(function (event) {
+    var $this = $(this).find(':selected')
+      , latitude = $this.data('latitude')
+      , longitude = $this.data('longitude');
+    if (latitude && longitude) {
+      processLatLng([latitude, longitude]);
+    }
+    else {
+      $('#error').hide();
+    }
+    event.preventDefault();
+  });
 });
+

@@ -59,7 +59,7 @@ debates_by_month = DebateMonthArchiveView.as_view()
 
 
 class SpeakerListView(ListView):
-    queryset = Speaker.objects.exclude(email=None).order_by('sort_name')
+    queryset = Speaker.objects.exclude(email=None).order_by('sort_name').select_related('memberships')
     template_name = 'speaker_list.html'
 
     def get_context_data(self, **kwargs):

@@ -162,6 +162,25 @@ footer {
   }
 }
 
+/* Speaker list */
+
+#lookup {
+  margin-bottom: 20px;
+}
+.alert {
+  display: none;
+}
+.alert-info {
+  background-color: #fee373;
+  border-color: #f0d360;
+  color: #333;
+}
+@media (min-width: 768px) {
+  #address {
+    width: 400px;
+  }
+}
+
 /* Speaker detail */
 
 /* http://stackoverflow.com/questions/5445491/height-equal-to-dynamic-width-css-fluid-layout */

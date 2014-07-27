@@ -4,6 +4,10 @@
 
 {% block title %}Members of the Legislative Assembly{% endblock %}
 
+{% block js %}
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbbmKWi0kGZ37Ng9lIEOBQC8lo3fVGUvo&sensor=true"></script>
+{% endblock %}
+
 {% block content %}
 {% include 'speeches/_breadcrumbs.html' %}
 
@@ -11,16 +15,31 @@
   <div class="row">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
       <h1>Members of the House of Assembly</h1>
+
+      <form class="form-inline" role="form" id="lookup">
+        <div class="form-group">
+          <label class="sr-only" for="address">Enter your address or postal code</label>
+          <input id="address" type="text" class="form-control" placeholder="Enter your address or postal code">
+        </div>
+        <button class="btn btn-default" id="submit">
+          Find your MLA
+        </button>
+      </form>
+      <div class="alert alert-info" id="many-results">
+        Which address is yours? <select id="addresses"></select>
+      </div>
+      <div class="alert alert-danger" id="error"></div>
+      <ul class="list-inline" id="results"></ul>
     </div>
   </div>
 
-  <div class="row">
+  <div class="row push-down">
     <div class="col-sm-2">
       <h2>Current</h2>
     </div>
     <div class="col-sm-10 col-md-8">
       <ul class="list-inline">
-        {% for speaker in speaker_list %}<li itemscope itemtype="http://schema.org/Person">
+        {% for speaker in speaker_list %}<li itemscope itemtype="http://schema.org/Person" id="{{ speaker|speaker_dom_id }}">
           <a href="{% url 'legislature:speaker-view' speaker.slug %}">
             <div class="avatar avatar-sm" style="background-image: url({{ speaker.image }})"></div>
           </a>
