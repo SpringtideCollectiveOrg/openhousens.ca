@@ -41,7 +41,7 @@
   {% if speaker_results %}
   <div class="row push-down">
     <div class="col-sm-10 col-md-8 col-sm-offset-2">
-      <h2>Speakers</h2>
+      <h2>People</h2>
       <ul class="list-inline">
         {% for result in speaker_results %}<li>
           <a href="{% url 'legislature:speaker-view' result.object.slug %}">
