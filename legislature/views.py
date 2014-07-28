@@ -2,6 +2,7 @@ import calendar
 import datetime
 
 from django import forms
+from django.db.models import Count
 from django.shortcuts import get_object_or_404, render_to_response
 from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
@@ -11,6 +12,7 @@ from haystack.forms import SearchForm
 from haystack.query import RelatedSearchQuerySet
 from haystack.views import SearchView
 from lxml import html
+from popolo.models import Organization
 from speeches.models import Section, Speaker, Speech
 from speeches.search import SpeakerForm
 from legislature.models import Action, Bill
@@ -59,11 +61,12 @@ debates_by_month = DebateMonthArchiveView.as_view()
 
 
 class SpeakerListView(ListView):
-    queryset = Speaker.objects.exclude(email=None).order_by('sort_name').select_related('memberships')
+    queryset = Speaker.objects.exclude(email=None).order_by('sort_name').prefetch_related('memberships')
     template_name = 'speaker_list.html'
 
     def get_context_data(self, **kwargs):
         context = super(SpeakerListView, self).get_context_data(**kwargs)
+        context['memberships_counts'] = Organization.objects.filter(classification='political party').annotate(memberships_count=Count('memberships')).order_by('-memberships_count').prefetch_related('other_names')
         context['former_list'] = sorted(Speaker.objects.filter(email=None), key=lambda v: v.name.split(' ')[-1].lower())
         return context
 people = SpeakerListView.as_view()

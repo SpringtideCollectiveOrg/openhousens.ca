@@ -36,6 +36,24 @@
   <div class="row push-down">
     <div class="col-sm-2">
       <h2>Current</h2>
+
+      <table id="memberships-counts">
+        <tbody>
+{% for organization in memberships_counts %}
+          <tr>
+            <td>
+              <span class="swatch {{ organization.other_names.all.0.name|lower }}"></span>
+  {% if organization.name == 'Independent' %}
+              Independent
+  {% else %}
+              {{ organization.other_names.all.0.name }}
+  {% endif %}
+            </td>
+            <td>{{ organization.memberships_count }}</td>
+          </tr>
+{% endfor %}
+        </tbody>
+      </table>
     </div>
     <div class="col-sm-10 col-md-8">
       <ul class="list-inline">

@@ -27,6 +27,11 @@ a:focus,
   padding-right: 0;
   font-weight: bold;
 }
+@media (max-width: 320px) {
+  .list-inline li {
+    width: 50%;
+  }
+}
 
 .form-inline-always .form-group {
   display: inline-block;
@@ -164,21 +169,32 @@ footer {
 
 /* Speaker list */
 
-#lookup {
-  margin-bottom: 20px;
-}
 .alert {
   display: none;
+  margin-top: 20px;
 }
 .alert-info {
   background-color: #fee373;
   border-color: #f0d360;
   color: #333;
 }
+#results {
+  margin-top: 20px;
+}
 @media (min-width: 768px) {
   #address {
     width: 400px;
   }
+}
+
+#memberships-counts {
+  color: #58585b;
+}
+#memberships-counts td {
+  padding-bottom: 10px;
+}
+#memberships-counts td:first-child {
+  padding-right: 10px;
 }
 
 /* Speaker detail */
@@ -450,20 +466,20 @@ span.memberships { /* p is styled differently */
   width: 9em;
 }
 
-table {
+.tablesorter {
   width: 100%;
 }
-th {
+.tablesorter th {
   padding: 0 10px 10px 0;
   border-bottom: 1px solid #58585b;
   white-space: nowrap;
 }
-td {
+.tablesorter td {
   padding: 10px 10px 10px 0;
   border-top: 1px solid #eee;
 }
-th:last-child,
-td:last-child {
+.tablesorter th:last-child,
+.tablesorter td:last-child {
   padding-right: 0;
 }
 th .glyphicon-chevron-down {
@@ -507,6 +523,13 @@ th.tablesorter-headerDesc .glyphicon-chevron-up {
 }
 .controls .order {
   float: right;
+}
+@media (max-width: 320px) {
+  .controls .order {
+    float: none;
+    display: block;
+    margin-top: 20px;
+  }
 }
 
 .note {
