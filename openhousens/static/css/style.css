@@ -425,7 +425,8 @@ span.memberships { /* p is styled differently */
 
 .person .speech,
 .government .speech,
-.role .speech {
+.role .speech,
+.col-speech-with-border .speech {
   font-family: Georgia,Times,'Times New Roman',serif;
 }
 .role .from,
