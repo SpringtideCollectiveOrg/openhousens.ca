@@ -69,8 +69,23 @@ function processAddress() {
 }
 
 $(function () {
-  // Bill detail
-  $('dt[data-toggle="tooltip"]').tooltip();
+  // Section detail
+  $('.truncatable').each(function () {
+    if (this.clientHeight < this.scrollHeight) {
+      $('<div class="expand-fade"></div>').appendTo(this);
+      $('<div class="expand-link"><span class="glyphicon glyphicon-chevron-down"></span> see more</div>').click(function () {
+        $(this).hide()
+          .parent().children('.expand-fade').hide()
+          .parent().animate({
+            maxHeight: '800px'
+          }, {
+            easing: 'linear'
+          , complete: function () {
+            $(this).css('max-height', 'none');
+          }})
+      }).appendTo(this);
+    }
+  });
 
   // Section detail
   // @see https://dev.twitter.com/docs/share-bookmarklet
@@ -109,30 +124,14 @@ $(function () {
     });
   }
 
-  // Section detail
-  $('.truncatable').each(function () {
-    if (this.clientHeight < this.scrollHeight) {
-      $('<div class="expand-fade"></div>').appendTo(this);
-      $('<div class="expand-link"><span class="glyphicon glyphicon-chevron-down"></span> see more</div>').click(function () {
-        $(this).hide()
-          .parent().children('.expand-fade').hide()
-          .parent().animate({
-            maxHeight: '800px'
-          }, {
-            easing: 'linear'
-          , complete: function () {
-            $(this).css('max-height', 'none');
-          }})
-      }).appendTo(this);
-    }
-  });
+  // Bill detail
+  $('dt[data-toggle="tooltip"]').tooltip();
 
   // Speaker list
   $('#submit').click(function (event) {
     processAddress();
     event.preventDefault();
   });
-
   $('#addresses').change(function (event) {
     var $this = $(this).find(':selected')
       , latitude = $this.data('latitude')
