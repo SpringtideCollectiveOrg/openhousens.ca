@@ -144,5 +144,11 @@ $(function () {
     }
     event.preventDefault();
   });
+
+  // Speaker detail
+  $('.truncated').each(function () {
+    var $this = $(this);
+    $('<a href="' + $this.parents('.col-speech').find('.title a').attr('href') + '" class="more">read more</a>').appendTo($this.find('p:last'));
+  });
 });
 

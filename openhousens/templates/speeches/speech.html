@@ -52,7 +52,9 @@
 {% highlight result.text with query css_class "" html_tag "em" max_length 400 %}
   </div>
 {% elif truncate %}
+  <div class="truncated">
 {{ speech.text|bleach|truncatewords_html:"50" }}
+  </div>
 {% else %}
 {{ speech.text|bleach }}
 {% endif %}

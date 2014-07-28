@@ -263,6 +263,11 @@ p.memberships { /* span is styled differently */
   margin-top: 0;
 }
 
+.more {
+  padding-left: 1ex;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 /* Pagination */
 
 .pagination .active span,
