@@ -18,6 +18,7 @@ class Bill(models.Model):
     identifier = models.PositiveIntegerField()
     title = models.TextField()
     description = models.TextField()
+    classification = models.TextField()
     creator = models.ForeignKey(Speaker, blank=True, null=True, on_delete=models.SET_NULL)
     modified = models.DateField()
     status = models.CharField(max_length=3, choices=STATUS_CHOICES)

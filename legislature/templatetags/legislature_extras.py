@@ -149,6 +149,32 @@ def tweet_text(speech):
     return urlquote(tweet)
 
 @register.filter
+def bill_action_html_attributes(description):
+    title = None
+    if description == 'First Reading':
+        title = "The bill is introduced"
+    elif description == 'Second Reading':
+        title = "The House votes to refer the bill to committee"
+    elif description == 'Law Amendments Committee':
+        title = "The committee considers the bill and hears from interested people and organizations"
+    elif description == 'Private and Local Bills':
+        title = "The committee considers the bill and hears from interested people and organizations"
+    elif description == 'Reported to the House':
+        title = "The House votes to refer the bill to the Committee of the Whole House on Bills"
+    elif description == 'Committee of the Whole House':
+        title = "The Committee of the Whole House on Bills examines each clause of the bill"
+    elif description == 'Third Reading':
+        title = "The House votes to pass the bill"
+    elif description == 'Royal Assent':
+        title = "The Lieutenant Governor signs the bill into law"
+    elif description == 'Commencement':
+        title = "The law comes into force"
+    if title:
+        return mark_safe(' data-toggle="tooltip" title="%s"' % title)
+    else:
+        return ''
+
+@register.filter
 def hansard_url(section):
     if section.title == 'NOTICES OF MOTION UNDER RULE 32(3)':
         return reverse('legislature:notices-view', args=(top_level_slug(section),))

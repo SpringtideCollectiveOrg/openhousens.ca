@@ -182,11 +182,19 @@ class BillDetailView(DetailView):
         if bill.title != description:
             bill.description = description
 
+        if div.xpath('.//text()[contains(.,"Law Amendments Committee")]'):
+            bill.classification = 'Public Bills'
+        elif div.xpath('.//text()[contains(.,"Private and Local Bills")]'):
+            bill.classification = 'Private and Local Bills'
+
         actions = []
         for tr in div.xpath('.//tr'):
             matches = tr.xpath('./td//text()')
             if matches and matches[0] != 'View':  # Skip link to statute
-                action = Action(description=tr.xpath('./th//text()')[0])
+                description = tr.xpath('./th//text()')[0].strip()
+                if description == 'Second Reading Passed':
+                    description = 'Second Reading'
+                action = Action(description=description)
                 try:
                     action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()  # Use the first date
                 except ValueError:
