@@ -113,6 +113,10 @@ Add the SendGrid add-on for error reporting:
 
     heroku addons:add sendgrid
 
+Add and [configure](https://devcenter.heroku.com/articles/flydata#s3-integration) the FlyData add-on to archive logs for later analysis:
+
+    heroku addons:add flydata
+
 Add the Memcachier add-on for caching:
 
     heroku addons:add memcachier
