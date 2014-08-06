@@ -27,7 +27,7 @@ And start the web app:
 
     foreman start
 
-Otherwise, you can start the server with:
+Otherwise, you can start the web app with:
 
     python manage.py runserver
 
