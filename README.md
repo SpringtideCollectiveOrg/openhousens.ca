@@ -2,7 +2,7 @@
 
 ## Development
 
-Follow the instructions in the [Python Quick Start Guide](https://github.com/opennorth/opennorth.ca/wiki/Python-Quick-Start%3A-OS-X) to install Homebrew (if OS X), Git, Python and virtualenv.
+Follow the instructions in the [Python Quick Start Guide](https://github.com/opennorth/opennorth.ca/wiki/Python-Quick-Start%3A-OS-X) to install Homebrew (if OS X), Git, Python and virtualenvwrapper.
 
     mkvirtualenv openhousens
     git clone git@github.com:opennorth/openhousens.git
@@ -19,13 +19,17 @@ Create a database (`dropdb openhousens` if it already exists):
     createdb openhousens
     python manage.py syncdb --noinput
 
-Install the foreman gem:
+If you have Ruby, install the foreman gem:
 
     gem install foreman
 
-Start the web app:
+And start the web app:
 
     foreman start
+
+Otherwise, you can start the server with:
+
+    python manage.py runserver
 
 ### Importing Popolo data
 
