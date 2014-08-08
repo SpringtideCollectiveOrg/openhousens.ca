@@ -1,8 +1,9 @@
 {% extends 'speeches/superbase.html' %}
+{% load staticfiles %}
 
 {% block facebook %}
 <meta property="og:title" content="{% block title %}{% endblock %}">
 <meta property="og:site_name" content="OpenHouseNS">
-<meta property="og:image" content="http://www.openhousens.ca/static/img/springtide-collective.png">
+<meta property="og:image" content="{% static 'img/springtide-collective-large.png' %}">
 <meta property="og:locale" content="en_CA">
 {% endblock %}
