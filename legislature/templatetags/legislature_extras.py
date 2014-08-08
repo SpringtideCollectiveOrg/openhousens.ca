@@ -88,7 +88,7 @@ def speaker_description(speaker):
     elif party == 'Progressive Conservative Association of Nova Scotia':
         party = 'Progressive Conservative'
     label = next(membership.label for membership in speaker.memberships.all() if membership.label)
-    return html_mark_safe('<span itemprop="member" itemscope itemtype="http://schema.org/Organization">{0}</span> <span itemprop="jobTitle">{1}</span>', party, label)
+    return html_mark_safe(' <span itemprop="member" itemscope itemtype="http://schema.org/Organization">{0}</span> <span itemprop="jobTitle">{1}</span> ', party, label)
 
 @register.filter
 def speaker_name(name):
