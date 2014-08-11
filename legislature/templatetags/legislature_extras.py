@@ -94,7 +94,7 @@ def speaker_description(speaker):
 def speaker_name(name):
     return ' '.join(patronymic.sub(capitalize_patronymic, first_letter.sub(upper_case_letter, component.lower())) for component in name.split(' '))
 
-invalid = re.compile('[^a-z._-]')
+invalid = re.compile('[^a-z_-]')
 @register.filter
 def speaker_dom_id(speaker):
     label = next(membership.label for membership in speaker.memberships.all() if membership.label)

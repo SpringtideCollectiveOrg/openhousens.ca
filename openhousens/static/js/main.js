@@ -27,7 +27,7 @@ function processLatLng(latlng) {
   getBoundariesByLatLng(latlng).then(function (response) {
     if (response.objects.length) {
       $.each(response.objects, function (i, object) {
-        var id = object.name.toLowerCase().replace(/ /g, '_').replace(/—/g, '-').replace(/[^a-z._-]/g, ''); // m-dash
+        var id = object.name.toLowerCase().replace(/ /g, '_').replace(/—/g, '-').replace(/[^a-z_-]/g, ''); // m-dash
         $('#' + id).clone().appendTo('#results');
       });
     }
