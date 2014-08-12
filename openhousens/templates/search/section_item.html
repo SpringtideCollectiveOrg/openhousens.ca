@@ -2,7 +2,9 @@
 
 <p class="context">
   <span class="title">
-    {{ section.title|heading }}
+    <a href="{{ section|single_page_hansard_url }}#ss{{ section.id }}">
+      {{ section.title|heading }}
+    </a>
   </span>
   <span class="date">
     <a href="{{ section|hansard_url }}">{{ section.start_date|date:"F jS, Y" }}</a>

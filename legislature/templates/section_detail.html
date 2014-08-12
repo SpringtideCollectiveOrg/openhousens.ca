@@ -45,7 +45,7 @@
 
   <div class="speeches">
 {% for speech in object_list %}
-    <div class="row row-speech {{ speech|speech_class }}">
+    <div class="row row-speech {{ speech|speech_class }}"{% ifchanged speech.section_id %} id="ss{{ speech.section_id }}"{% endifchanged %}>
       <div class="col-sm-2 col-meta hidden-xs">
   {% if speech.speaker_display %}
     {% if speech.section.parent.parent_id %}
