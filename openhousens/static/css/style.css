@@ -71,7 +71,7 @@ a:focus,
   color: #58585b;
 }
 .navbar .navbar-toggle:hover,
-.navbar .navbar-toggle:hover {
+.navbar .navbar-toggle:focus {
   background-color: #eee;
   border-color: #eee;
 }
