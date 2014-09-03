@@ -1,4 +1,4 @@
-* Uses Django 1.7c1 on Python 3.3.3
+* Uses Django 1.7 on Python 3.3.3
 * Uses [Bootstrap](http://getbootstrap.com/) instead of [Foundation](http://foundation.zurb.com/)
 * Deploys to Heroku
 
