@@ -1,5 +1,7 @@
 # OpenHouseNS
 
+[![Dependency Status](https://gemnasium.com/opennorth/openhousens.ca.png)](https://gemnasium.com/opennorth/openhousens.ca)
+
 ## Development
 
 Follow the instructions in the [Python Quick Start Guide](https://github.com/opennorth/opennorth.ca/wiki/Python-Quick-Start%3A-OS-X) to install Homebrew (if OS X), Git, Python and virtualenvwrapper.
@@ -168,6 +170,6 @@ Add the Scheduler add-on:
 
 ## Bugs? Questions?
 
-This repository is on GitHub: [http://github.com/opennorth/openhousens](http://github.com/opennorth/openhousens), where your contributions, forks, bug reports, feature requests, and feedback are greatly welcomed.
+This repository is on GitHub: [http://github.com/opennorth/openhousens.ca](http://github.com/opennorth/openhousens.ca), where your contributions, forks, bug reports, feature requests, and feedback are greatly welcomed.
 
 Copyright (c) 2014 Open North Inc., released under the MIT license
