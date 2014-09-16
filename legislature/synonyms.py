@@ -178,6 +178,7 @@ UPPER_CASE_ABBREVIATIONS = [
     ('CNSOPB', 'Canada-Nova Scotia Offshore Petroleum Board'),
     ('DHA', 'District Health Authorities'),
     ('DHAs', 'District Health Authorities'),
+    ('DIS', 'Drug Information System'),
     ('DSTN', 'DSME Trenton Ltd'),
     ('EECD', 'Education and Early Childhood Development'),
     ('EI', 'Employment Insurance'),
