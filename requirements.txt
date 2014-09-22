@@ -13,7 +13,7 @@ psycopg2==2.5.3
 # django-pylibmc==0.5.0 is not compatible with Python 3
 # @see https://github.com/jbalogh/django-pylibmc/pull/16
 -e git+git://github.com/jpmckinney/django-pylibmc.git#egg=django-pylibmc
-django-heroku-memcacheify==0.6
+django-heroku-memcacheify==0.7
 
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 # -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
