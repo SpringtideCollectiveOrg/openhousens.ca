@@ -97,6 +97,8 @@ All boundaries should match a membership label:
 
 ## Deployment
 
+[scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/#deployment) must be deployed.
+
 You can use any of Heroku's ElasticSearch add-ons:
 
 * [SearchBox](https://addons.heroku.com/searchbox)
