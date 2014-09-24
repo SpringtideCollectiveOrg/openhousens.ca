@@ -18,7 +18,11 @@ django-heroku-memcacheify==0.7
 # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
 # -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
 # @see https://github.com/jpmckinney/sayit/commit/33d1bb67dc4e3248e6bc1c77aaec15f7a5a394ae
+# @see https://github.com/mysociety/sayit/pull/387
+# @see https://github.com/mysociety/sayit/pull/384
 -e git+git://github.com/jpmckinney/sayit.git@hotfix#egg=django-sayit
+# @see https://github.com/mysociety/django-subdomain-instances/pull/12
+-e git+git://github.com/jpmckinney/django-subdomain-instances@migrations#egg=django-subdomain-instances
 
 # Akoma Ntoso importer
 python-dateutil==2.2

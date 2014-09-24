@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
     'haystack',
     'django_bleach',
+    'easy_thumbnails',
     'popolo',
     'instances', # needed by speeches models
     'speeches',
@@ -187,6 +188,10 @@ if os.getenv('PRODUCTION', False):
                 'level': 'ERROR',
                 'propagate': False,
             },
+            'speeches': {
+                'handlers': ['console'],
+                'level': 'INFO',
+            },
         },
     }
 # SQL query logging.
@@ -204,6 +209,23 @@ elif os.getenv('VERBOSE', False):
             'django.db.backends': {
                 'level': 'DEBUG',
                 'handlers': ['console'],
+            },
+        },
+    }
+else:
+    LOGGING = {
+        'version': 1,
+        'disable_existing_loggers': False,
+        'handlers': {
+            'console': {
+                'level': 'INFO',
+                'class': 'logging.StreamHandler',
+            },
+        },
+        'loggers': {
+            'speeches': {
+                'handlers': ['console'],
+                'level': 'INFO',
             },
         },
     }
