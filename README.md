@@ -19,7 +19,7 @@ If `pylibmc` fails to install, you may need to `export CFLAGS="-std=c99"`.
 Create a database (`dropdb openhousens` if it already exists):
 
     createdb openhousens
-    python manage.py syncdb --noinput
+    python manage.py migrate --noinput
 
 If you have Ruby, install the foreman gem:
 
@@ -151,7 +151,7 @@ get_random_string(50, 'abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*(-_=+)')
 
 Setup the database (you can run `heroku pg:reset` to start over):
 
-    heroku run python manage.py syncdb --noinput
+    heroku run python manage.py migrate --noinput
 
 Import Popolo and Akoma Ntoso data:
 
@@ -169,6 +169,10 @@ Add the Scheduler add-on:
 [Schedule](https://scheduler.heroku.com/dashboard) the following job daily:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
+
+### Migrations
+
+    python manage.py migrate
 
 ## Bugs? Questions?
 
