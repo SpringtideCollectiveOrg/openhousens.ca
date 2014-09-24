@@ -133,12 +133,14 @@ Enable the [`log-runtime-metrics`](https://devcenter.heroku.com/articles/log-run
 
     heroku labs:enable log-runtime-metrics
 
-Add configuration variables (replace `YOUR-DJANGO-SECRET-KEY`):
+Add configuration variables (replace `REPLACE`):
 
     heroku config:set PRODUCTION=1
     heroku config:set WEB_CONCURRENCY=3
     heroku config:set PYTHONHASHSEED=random
-    heroku config:set DJANGO_SECRET_KEY=YOUR-DJANGO-SECRET-KEY
+    heroku config:set DJANGO_SECRET_KEY=REPLACE
+    heroku config:set AWS_ACCESS_KEY_ID=REPLACE
+    heroku config:set AWS_SECRET_ACCESS_KEY=REPLACE
 
 You can [generate a secret key in Python](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py):
 
@@ -166,9 +168,10 @@ Add the Scheduler add-on:
 
     heroku addons:add scheduler
 
-[Schedule](https://scheduler.heroku.com/dashboard) the following job daily:
+[Schedule](https://scheduler.heroku.com/dashboard) the following jobs daily:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
+    python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso/ --no-clobber --start-date `date +%Y-%m-%d`
 
 ### Migrations
 

@@ -25,8 +25,9 @@ django-heroku-memcacheify==0.7
 -e git+git://github.com/jpmckinney/django-subdomain-instances@migrations#egg=django-subdomain-instances
 
 # Akoma Ntoso importer
-python-dateutil==2.2
+boto==2.32.1
 lxml==3.3.5
+python-dateutil==2.2
 
 # Popolo importer
 requests==2.3.0
