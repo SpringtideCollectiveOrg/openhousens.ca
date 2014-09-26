@@ -41,6 +41,7 @@
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="members" href="/ontology/role/nslegislature.ca-ns.members" showAs="SOME HON. MEMBERS"/>
       </references>
     </meta>
     <preface>
@@ -753,8 +754,14 @@
           </speech>
           <speech by="#charlie.parker"><from>MR. PARKER</from><p>Mr. Speaker, you know, naturally, everybody wants the best price for their product and I know we're in challenging times. Certainly, it's important now that that mill, operated by Pacific West, is open: it's providing great jobs in the Strait area and throughout Eastern Nova Scotia and Cape Breton Island. There are thousands of families that now come to rely on the paycheques, from both the mill directly and indirectly.</p>
 <p>Again, we're in a free market system. I would encourage woodlot owners to work together and to work with the mill. I know some have already come to an agreement, like M.R. MacDonald Holdings have signed an agreement with Pacific West: B.A. Fraser from Cape Breton have done the same. I would encourage the two parties to come together and mutually agree to what is a good working price for both of them.</p></speech>
-          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>It's hard to believe that this minister believes that it is a free market system when his government gives them $150 million to operate. (Interruptions) If you were allowed to talk, you wouldn't be sitting in the back bench. (Interruptions)</p>
-<p>SOME HON. MEMBERS: Oh, oh.</p></speech>
+          <speech by="#alfie.macleod">
+            <from>MR. MACLEOD</from>
+            <p>It's hard to believe that this minister believes that it is a free market system when his government gives them $150 million to operate. (Interruptions) If you were allowed to talk, you wouldn't be sitting in the back bench. (Interruptions)</p>
+          </speech>
+          <speech by="" as="#members" status="undefined">
+            <from>SOME HON. MEMBERS</from>
+            <p>Oh, oh.</p>
+          </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please.</p>
 <p>The honourable member for Cape Breton West has the floor.</p></speech>
           <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>Mr. Speaker, I hear these comments from the other side and so be it. But, anyway, Pacific West negotiated a deal with the province, which has harvesting rights of Crown land similar to the former owner, NewPage, and that means that they direct harvesting operations, maintain the roads on those lands. Private land contractors, on the other hand, have to pay stumpage, build their own roads and organize where they operate, and this all adds to the bottom line and their costs.</p>
@@ -951,8 +958,14 @@
             <from>MR. JIM BOUDREAU</from>
             <p>Ha.</p>
           </speech>
-          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>I hear a snicker coming from the member for Guysborough-Sheet Harbour. He really wants to be part of the discussion and I'm hopeful that he's going to get on his feet.</p>
-<p>SOME HON. MEMBERS: He's not allowed.</p></speech>
+          <speech by="#alfie.macleod">
+            <from>MR. MACLEOD</from>
+            <p>I hear a snicker coming from the member for Guysborough-Sheet Harbour. He really wants to be part of the discussion and I'm hopeful that he's going to get on his feet.</p>
+          </speech>
+          <speech by="" as="#members" status="undefined">
+            <from>SOME HON. MEMBERS</from>
+            <p>He's not allowed.</p>
+          </speech>
           <speech by="" as="#member" status="undefined">
             <from>AN HON. MEMBER</from>
             <p>A lot of time-outs over there.</p>

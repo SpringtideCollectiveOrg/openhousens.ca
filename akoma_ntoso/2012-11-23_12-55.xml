@@ -33,6 +33,7 @@
         <TLCPerson id="marilyn.more" href="/ontology/person/ca-ns.marilyn.more" showAs="HON. MARILYN MORE"/>
         <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="Mr. Chuck Porter"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="members" href="/ontology/role/nslegislature.ca-ns.members" showAs="SOME HON. MEMBERS"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
     </meta>
@@ -110,8 +111,14 @@
           <from>MR. BAILLIE</from>
           <p>I also, Mr. Speaker, request the unanimous consent of the House to move the bill through all readings today.</p>
         </speech>
-        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The request was for unanimous consent to move the bill through the House today. Would all those in favour &#x2026;</p>
-<p>SOME HON. MEMBERS: No.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The request was for unanimous consent to move the bill through the House today. Would all those in favour &#x2026;</p>
+        </speech>
+        <speech by="" as="#members" status="undefined">
+          <from>SOME HON. MEMBERS</from>
+          <p>No.</p>
+        </speech>
         <speech by="#alfie.macleod">
           <from>MR. ALFIE MACLEOD</from>
           <p>Mr. Speaker, I rise on a point of order. I just want to say, as someone who has a wife who does have a disability and a mobility challenge, how disappointed I am to hear that we are not going to be able to talk about this bill today. This is a bill about helping people who really need help, people who can't &#x2026;</p>

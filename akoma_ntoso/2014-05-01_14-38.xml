@@ -54,6 +54,7 @@
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+        <TLCRole id="members" href="/ontology/role/nslegislature.ca-ns.members" showAs="SOME HON. MEMBERS"/>
         <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
         <TLCRole id="assistant clerk" href="/ontology/role/nslegislature.ca-ns.assistant clerk" showAs="THE ASSISTANT CLERK"/>
         <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
@@ -1292,8 +1293,14 @@
           </speech>
           <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Overruled, we have a disagreement of facts between two members.</p>
 <p>The honourable Minister of Finance and Treasury Board.</p></speech>
-          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, I hate to say that it's almost comical to hear that sort of thing said. That budget was about as balanced as last year's budget was balanced.</p>
-<p>SOME HON. MEMBERS: Oh, oh.</p></speech>
+          <speech by="#diana.whalen">
+            <from>MS. WHALEN</from>
+            <p>Mr. Speaker, I hate to say that it's almost comical to hear that sort of thing said. That budget was about as balanced as last year's budget was balanced.</p>
+          </speech>
+          <speech by="" as="#members" status="undefined">
+            <from>SOME HON. MEMBERS</from>
+            <p>Oh, oh.</p>
+          </speech>
           <speech by="" as="#speaker" status="undefined">
             <from>MR. SPEAKER</from>
             <p>Order, please. The honourable Minister of Finance and Treasury Board has the floor.</p>

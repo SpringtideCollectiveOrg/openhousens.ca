@@ -40,6 +40,7 @@
         <TLCPerson id="leonard.preyra" href="/ontology/person/ca-ns.leonard.preyra" showAs="HON. LEONARD PREYRA"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
+        <TLCRole id="members" href="/ontology/role/nslegislature.ca-ns.members" showAs="SOME HON. MEMBERS"/>
       </references>
     </meta>
     <preface>
@@ -1155,14 +1156,23 @@
         <speech by="#gary.ramey"><from>MR. RAMEY</from><p>Well I'm finding this amusing, I mean I'm finding this - whatever is going on over there, I find that amusing and kind of entertaining in a sick sort of way.</p>
 <p>Anyway after 9/11, Americans, Madam Speaker, were required to buy passports to get re-admitted to their own country if they travelled outside its borders. Now many Americans considered this a form of tax and refused to purchase one. This of course eliminated the possibility of travel to countries like Canada, because they'd need a passport, because of Homeland Security, to get back into their own country.</p>
 <p>Another thing that happened, Madam Speaker, is that gas prices skyrocketed, discouraging them from summer travel at around the same time, and finally when the United States and Canadian currencies reached parity, this caused a further problem. So simply put, many American visitors chose to stay at home, and they usually do that, I might add, when they do not receive 20 cents back on every dollar that they spend here in Nova Scotia.</p>
-<p>So, Mr. Speaker, what happened? Ridership on The Cat had been declining prior to 2009. We had no funding partners - none. I told you there were normally three, we had no funding partners, meaning the entire financial burden fell totally on the Province of Nova Scotia. Now this, as all members on both sides of this House really know, was unsustainable and untenable. Did the current federal government, the Conservatives, offer to reinstate the subsidy?</p>
-<p>SOME HON. MEMBERS: No. No.</p></speech>
+<p>So, Mr. Speaker, what happened? Ridership on The Cat had been declining prior to 2009. We had no funding partners - none. I told you there were normally three, we had no funding partners, meaning the entire financial burden fell totally on the Province of Nova Scotia. Now this, as all members on both sides of this House really know, was unsustainable and untenable. Did the current federal government, the Conservatives, offer to reinstate the subsidy?</p></speech>
+        <speech by="" as="#members" status="undefined">
+          <from>SOME HON. MEMBERS</from>
+          <p>No. No.</p>
+        </speech>
         <speech by="" as="#member" status="undefined">
           <from>AN HON. MEMBER</from>
           <p>Harper was cutting everything.</p>
         </speech>
-        <speech by="#gary.ramey"><from>MR. RAMEY</from><p>No. Did the Governor of Maine offer to fiscally support the service?</p>
-<p>SOME HON. MEMBERS: No.</p></speech>
+        <speech by="#gary.ramey">
+          <from>MR. RAMEY</from>
+          <p>No. Did the Governor of Maine offer to fiscally support the service?</p>
+        </speech>
+        <speech by="" as="#members" status="undefined">
+          <from>SOME HON. MEMBERS</from>
+          <p>No.</p>
+        </speech>
         <speech by="#gary.ramey"><from>MR. RAMEY</from><p>Thank you, and that, Madam Speaker, meant there was one and only one funder for service that was, as I pointed out, in steady decline for a number of reasons, which I've also pointed out. The Province of Nova Scotia was on the hook and I submit to you that it was not sustainable.</p>
 <p>Now knowing this, what would a responsible government do? Well, Madam Speaker, they would work with the community to try to find the right boat, at the right price, with the right schedule, to make the service sustainable. That is exactly what we did. As of right now we have $21 million on the table over seven years and we are actively trying to make that happen.</p>
 <p>The Liberals, and particularly the member for Yarmouth, if he'd like to comment, might want to examine why his federal cousins cancelled the subsidy in the first place, and the member for Argyle may wish to contact his federal cousins and ask them where their contribution is towards reinstating this service. Constantly we hear about how important it is, and we agree, so we'd like to know that. (Interruptions)</p>

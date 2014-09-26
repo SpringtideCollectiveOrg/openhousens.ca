@@ -13,6 +13,7 @@
         <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
         <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="members" href="/ontology/role/nslegislature.ca-ns.members" showAs="SOME HON. MEMBERS"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
         <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
       </references>
@@ -224,8 +225,11 @@
           <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
         </speech>
         <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered the bill be read a second time on a future day.</p>
-<p>Her Honour the Lieutenant Governor has been pleased to make a Speech to the members met in General Assembly of which, for greater accuracy, I have obtained a copy which the Chief Clerk will now read. (Interruptions)</p>
-<p>SOME HON. MEMBERS: Hear! Hear! (Applause)</p></speech>
+<p>Her Honour the Lieutenant Governor has been pleased to make a Speech to the members met in General Assembly of which, for greater accuracy, I have obtained a copy which the Chief Clerk will now read. (Interruptions)</p></speech>
+        <speech by="" as="#members" status="undefined">
+          <from>SOME HON. MEMBERS</from>
+          <p>Hear! Hear! (Applause)</p>
+        </speech>
         <speech by="" as="#clerk" status="undefined">
           <from>THE CLERK</from>
           <p>Mr. Speaker, members of the Legislature, ladies and gentlemen, Nova Scotians &#x2026;</p>
