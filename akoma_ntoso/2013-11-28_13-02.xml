@@ -10,6 +10,8 @@
         <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
         <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
         <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
       </references>
@@ -24,34 +26,177 @@
       <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13nov28/"/>
     </preface>
     <debateBody>
-      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
-<p>The honourable Attorney General.</p></speech>
-      <speech by="#lena.m.diab">
-        <from>HON. LENA DIAB</from>
-        <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
+      <narrative>
+        <p>The First Session of the 62<sup>nd</sup> General Assembly was opened with historic ceremony on a cool, sunny day.</p>
+      </narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>His Honour, the Lieutenant Governor.</p>
       </speech>
-      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
+      <narrative><p>The Lieutenant Governor, the Honourable J.J. Grant, preceded by his escorts and aides and by Mr. Ken Greenham, Sergeant-at-Arms, bearing the Mace, entered the House of Assembly Chamber. The Lieutenant Governor then took his seat on the Throne.</p>
+<p>The Sergeant-at-Arms then departed and re-entered the Chamber followed by the Speaker, the Honourable Kevin Murphy; the Chief Clerk of the House, Neil Ferguson; and the Assistant Clerk, Annette Boucher.</p>
+<p>The Speaker, with the Sergeant-at-Arms on his right and the Clerks on either side, took up his position at the foot of the Table of the House.</p></narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>It is the wish of His Honour, the Lieutenant Governor, that the ladies and gentlemen be seated.</p>
+      </speech>
+      <debateSection>
+        <heading>SPEECH FROM THE THRONE</heading>
+        <speech by="" as="#lieutenant governor" status="undefined"><from>THE LIEUTENANT GOVERNOR</from><p>It is my great honour and privilege to welcome you to the First Session of the 62<sup>nd</sup> General Assembly of the Nova Scotia Legislature.</p>
+<p>For some of you, it's a "Welcome back." For others, this is one of the first opportunities you've had to take your place in this Chamber.</p>
+<p>For all, it is an occasion to be proud of, an occasion to be enjoyed by you, your families, and those who worked so diligently in your name. Congratulations and best wishes.</p>
+<p class="hsd_noindent">The 2013 Provincial Election</p>
+<p>In October of 2013, Nova Scotians voted for change. Government is deeply aware of the confidence that has been placed in its program for change, and will work with unwavering purpose to achieve and implement its plan on behalf of all Nova Scotians.</p>
+<p>Elections are a fundamental element of a proud and mature democracy, and the willingness of so many citizens to engage in the public affairs of our province is a source of confidence and optimism in Nova Scotia's future.</p>
+<p>However, the reluctance of many others to participate in the electoral process is a source of real concern.</p>
+<p>During the course of my government's mandate, steps will be taken to address this erosion in voter participation. These steps will be based on engaging with Nova Scotians in a discussion about our electoral process.</p>
+<p>In keeping with that goal, government understands the need to strive for a collegial and co-operative tone in the Legislative Assembly. It is important for all members to remember that initiatives should not be rejected solely on the basis of source. Of course, vigorous and informed debate is both expected and desired.</p>
+<p>In essence, my government believes that open and decorous debate will contribute to enhanced public trust in the Legislative Assembly. In turn, my government is confident that such constructive debates will be an important contributing factor for increasing the participation of Nova Scotians in the electoral process.</p>
+<p class="hsd_noindent">Government's Strategic Priorities</p>
+<p>My government believes in the determination and optimism of Nova Scotians. Therefore, my government will provide strong, clear leadership and a path forward that will be built upon the idea of harnessing the potential of our province and its people.</p>
+<p>Nova Scotians are working hard - to create jobs, to find solutions, to make life better in their own communities. But for too long, the day-to-day priorities of Nova Scotians have been neglected in many areas of our province's affairs.</p>
+<p>My government will seek to redefine its role and relationship with Nova Scotians, and it will do so by always placing the needs and aspirations of citizens at the foundation of its decision-making.</p>
+<p>The following priorities will guide my government:</p>
+<p>Within government's statutory authority over the provision of electricity, specific steps will be taken to ensure true consumer choice and fairness.</p>
+<p>The needs of Nova Scotia's entrepreneurs will be met through appropriate forms of assistance, and there will be enhanced support for employee training and skills development.</p>
+<p>A re-investment in our school system will ensure that every student and educator has access to the classroom supports and modern educational curriculum required to excel in a rapidly changing world.</p>
+<p>Health care will be realigned to place the needs of patients, families, and individuals first.</p>
+<p>Investments will be made in our communities so that seniors, people with disabilities, and those in need, get the services and care they require.</p>
+<p>This realignment of government's underlying strategic priorities will require a great deal of thought, effort, and deliberate action.</p>
+<p>In pursuit of these strategic objectives, my government will rely on the lessons of the past and the hard-won successes that have guided us through our long and distinguished history as a province.</p>
+<p class="hsd_noindent">Matters of Recognition</p>
+<p>In keeping with that sentiment, I want to recognize the valued contributions of a number of Nova Scotians who have passed since I last had the opportunity to address this Chamber.</p>
+<p>Builders and entrepreneurs Ben McCrea and James Philip Dumaresq - their impacts on the skylines, streetscapes, and economy of our province continue to this day.</p>
+<p>Artists Dr. Alex Colville and Rita MacNeil, two of Nova Scotia's most distinguished and celebrated cultural icons - while their canvases were distinct, their individual works tugged at our very identity and shaped how the world saw us and how we saw the world.</p>
+<p>Public servants Rose Marie Abraham, Dr. J. Clair Callaghan, Bertha Mantley, Dr. Vincent Audain, and the Hon. Malachi Jones - their lives and careers were dedicated to improving the well-being of our institutions, our communities, and our people.</p>
+<p>Civil rights champion and social activist Dr. Burnley (Rocky) Jones - like no other, he lent his voice to those who could not be heard, and sought justice for those long deprived.</p>
+<p>Legislator and journalist the Hon. Jane Purves - a candid and passionate member of this House, she courageously and publicly fought her own personal battles and those of her constituents. Jane always spoke honestly and openly with the public interest at heart, even when she knew it wouldn't be popular.</p>
+<p>This was a group of remarkable Nova Scotians. Their passing is a matter of great sadness; yet simultaneously, the memory of their contributions -the legacies they have left to our province - will be a source of enduring pride for all of us. Each understood the capacity and promise of change, and that is the perspective we must embrace and maintain as we navigate this province's fundamental shift in direction.</p>
+<p class="hsd_noindent">Respect for Nova Scotians</p>
+<p>Our country was founded as a strong and vibrant liberal democracy. It is a history that makes us all proud, especially here in Nova Scotia - one of the first four provinces to join Confederation.</p>
+<p>However, we must keep pace with the expectations of citizens, and institutions must evolve in tandem with legitimate expectations. Transparency and accountability are pillars of our democracy; both must be continually protected and improved.</p>
+<p>This is why my government will:</p>
+<ul>
+<li>immediately begin a full and independent review of MLA salaries and benefits, pensions, living allowances, and other expenses;</li>
+<li>enact legislation to increase transparency with regard to economic development assistance; </li>
+<li>pensure through legislative change that taxpayers' dollars are protected from partisan advertising and politically motivated signage</li>
+</ul>
+<p class="hsd_noindent">Fairness in Power Rates and Energy Policy</p>
+<p>Over the last 10 years, electricity rates in our province have climbed by nearly 30 per cent - households and businesses have been hurt by this trend, while the power monopoly has profited.</p>
+<p>My government has already taken steps to address some of the fundamental flaws in the Maritime Link agreement and shifted responsibility and risk to where they justifiably belong.</p>
+<p>Additionally, my government's first piece of legislation will be the Electricity Reform Act - a bill that will permit consumer choice and competition while laying the groundwork for consultation with Nova Scotians on our energy future.</p>
+<p>Upon the passage of this legislation, Nova Scotians will be offered greater choice among power providers. This will allow local providers of renewable electricity to compete with Nova Scotia Power and sell directly to customers. Compelling regulated power companies to compete for your business is a solution that puts Nova Scotians first.</p>
+<p>My government's plans for reforming the electricity market were borne out of discussions and consultations that took place in communities across Nova Scotia. As we move toward implementing those plans, we will once again be seeking input from the people of the province.</p>
+<p>My government will involve the public and experts on what our energy future will look like - and how we can best organize ourselves to take advantage of it. As our province continues its commitment to move toward cleaner and innovative energy sources, we know it is imperative that Nova Scotians are able to voice their concerns and have them addressed frankly and honestly. For instance, the practice of hydraulic fracturing is a huge concern for Nova Scotians.</p>
+<p>That's why there is a moratorium on hydraulic fracturing in the province while the independent review is underway. This review, led by Dr. David Wheeler and a panel of experts, will help determine whether the practice can be done safely given Nova Scotia's geology. During this legislative session, my government will also introduce legislation banning the importation of fracked waste water into our province.</p>
+<p>Another important element of our energy and economic future is the activity taking place in our offshore. Our government will continue to invest in geoscience research. We will also ensure that this information is made available to companies so that they have the information needed to assess the opportunities available in our offshore.</p>
+<p class="hsd_noindent">An Economy Built on Putting Nova Scotians First</p>
+<p>There is no doubt that the last recession took its toll on jurisdictions throughout Canada and the world. Of course, Nova Scotia was not exempt from these global pressures and, like many other areas of Canada and the world, our province has been slow to recover from the recession's impacts.</p>
+<p>In fact, recent economic data has clearly outlined the challenge that now faces government:</p>
+<ul>
+			<li>Our province has shed 3,000 full-time jobs in the last year, while trailing every other province in the country in terms of economic growth for two decades;</li>
+<li>Federal transfers are not keeping pace with changing demands and demographic shifts; and</li>
+<li>Our population is facing further decline which, in turn, is placing further pressure on programs and services.</li>
+			</ul>
+<p>These realities underline the need for change. A fundamental change will require my government to direct more of its economic attention toward small- and medium-sized Nova Scotia business.</p>
+<p>In the past, too much emphasis was placed in too few areas, and our collective economic strength diminished in the process.</p>
+<p>Instead, my government will refocus its attention on small businesses - offering supports and incentives to help them grow their operations. For example, term loan guarantees under the Credit Union Small Business Loan Program will increase from 75 per cent to 90 per cent.</p>
+<p>My government fully understands that businesses must be able to prosper in Nova Scotia, but not at the expense of Nova Scotians. Therefore, while working with businesses my government will attach job guarantees to repayable loans and keep processes transparent through public reporting. Legislation will be introduced by our government in the coming days that will greatly improve the transparency and accountability of Nova Scotia's economic assistance programs.</p>
+<p>Beyond transparency, our government is working to create a competitive economic environment focused on growing good, sustainable jobs. My government realizes it cannot solve this alone, but it can lead the way forward with a new vision of economic innovation: harnessing research, maximizing comparative advantages, eliminating barriers to competitiveness, expanding apprenticeship opportunities that will keep our skilled workers in Nova Scotia and, finally, getting government out of the way of business.</p>
+<p>There are areas, however, where government must and will play a key role. My government will continue to take steps to ensure that Nova Scotians return home to their families safely at the end of the work day. We will hire more workplace safety inspectors and, because safety is a shared responsibility, we will work with industry to ensure officers are visiting more high-risk workplaces and enforcing safety regulations.</p>
+<p>Business operators should be able to focus on growing their business, employing Nova Scotians, and giving back to their communities. With this in mind, changes to bring balance and responsibility to first contract arbitration will be brought forward in this session.</p>
+<p>My government will create a fair and competitive environment for business by engaging in a responsible and comprehensive review of taxes, regulations, and fees, guided by the principles of simplicity and fairness. All regulations will be tested for their efficiency and effectiveness. Regulations that protect Nova Scotians will be strengthened; wasteful and redundant regulations will be eliminated. The development of that broad review has commenced, and we will formulate a plan to simplify our regulatory regime -and leave as much money with Nova Scotians as possible.</p>
+<p class="hsd_noindent">Fiscal Responsibility</p>
+<p>Within itself, government is fully cognizant of the need to restore fiscal balance to its own affairs.</p>
+<p>Across government, a 1 per cent target for expenditure reduction has been set and a great deal of work is currently underway to identify appropriate areas for increased efficiency.</p>
+<p>Government remains mindful of its duty and obligation to support Nova Scotians in need. Therefore, government will maintain fiscal discipline without further burdening our most vulnerable citizens or a new generation of Nova Scotians engaged in study. To that end, the provision of health care and education has been exempted from this process.</p>
+<p>A true and accurate update on where our province stands financially will be delivered to Nova Scotians in mid-December. My government will then implement a fiscally responsible plan to deliver a balanced budget prudently.</p>
+<p>Our province is witnessing a population loss like we have never before experienced. We must reverse this trend. Our province needs talented and capable individuals if we are to have a healthy economy and improve the provincial finances.</p>
+<p>In our province newcomers have played an important role in developing our economy, and our government wants to continue to welcome newcomers to communities from one end of the province to the other.</p>
+<p>That is why my government will create the Premier's Immigration Advisory Council, which will be made up of immigrants to Nova Scotia who have experienced the strengths and weaknesses of our immigration system. The council will bring forward concerns on immigration issues, and propose solutions to improve Nova Scotia's attraction and retention of immigrants.</p>
+<p>The Council will also help lead my government's efforts in seeking the changes required to carve out our own future when it comes to immigration. Nova Scotia must be an active partner in national discussions and our government will engage on two fronts - building strong relationships with provinces and enhancing our collaboration with the federal government.</p>
+<p class="hsd_noindent">Our Future is Educated</p>
+<p>If Nova Scotians are to be put first, my government needs a bold vision for education.</p>
+<p>There has not been a comprehensive curriculum review in this province for 25 years. My government will undertake a full review with a blue ribbon panel of experts to find out what is working and what isn't. The world has changed significantly in the past 25 years, and our education system must adapt. Students need to earn achievements, see the value of their efforts, and be taught by teachers who can focus on teaching.</p>
+<p>In addition, my government is reaffirming its commitment to restore the funding removed from public education over the last four years. It will take time and deliberate action to undo the damage done by decisions of the past, but we know that educational dollars achieve some of the best return on investment of any expenditure government can make. That commitment goes beyond Grade Primary - this is why my government is investing in Early Intervention Programs. Ensuring that every child begins their public school career with the foundation for learning already in place is critical to their progress through the school system.</p>
+<p class="hsd_noindent">Improving Health Care Through Improving the System</p>
+<p>For too many years, our health care system has been neglected. My government will begin to develop solutions so all Nova Scotians get the care they need, when they need it. My government will do what it takes so that our health care system puts patients first.</p>
+<p>My government will improve community-based decision making by streamlining administration so Nova Scotians can access treatment faster. My government will address wait times by reinvesting in front-line health care, by reducing the number of CEOs and vice-presidents, and by reducing the district health authorities from ten to two. This transformative process will not happen overnight, nor will it occur without the valuable input of all those involved in our health care system. Administrators, front-line workers, patients, volunteers, advocates, and communities will have their voices heard.</p>
+<p>Nova Scotians need better access to programs, services, and a variety of health care professionals to prevent and manage chronic diseases like arthritis and diabetes. Hospital admissions can thus be reduced, and when patients do end up in hospitals, we need to make sure they return home as quickly as possible.</p>
+<p>Far too many Nova Scotians don't have access to a family physician, or primary care provider such as a nurse practitioner, leaving many without care and putting added strain on our emergency rooms. My government will provide up to $120,000 in tuition relief to 25 new doctors per year for four years, in exchange for a five-year commitment to practice in underserviced communities in Nova Scotia.</p>
+<p>In addition, my government will immediately appoint an expert Physician Recruitment and Retention Action Team so that Nova Scotia is able to competitively recruit new doctors and keep the ones we have.</p>
+<p class="hsd_noindent">Supporting Our Seniors, Caring for Our Citizens</p>
+<p>As our population ages there will be additional pressures on our health care system. My government will work with health care providers and Nova Scotians to turn our challenges into solutions. My government has begun work on evaluating, updating, and implementing the Continuing Care Strategy to ensure that it meets our long-term needs, both at home and in facilities where our senior population is cared for.</p>
+<p>The increase in sexual assault and sexual violence in our province is a grave concern. Too often the organizations that work to address these issues have been asked to do far too much with too little. My government will develop a multi-year strategy that will provide services directly to victims but will also focus on prevention.</p>
+<p class="hsd_noindent">Our Communities</p>
+<p>This government recognizes the importance of local communities in building a strong, viable province. We are committed to partnering with municipalities and the Union of Nova Scotia Municipalities to advance the interests of Nova Scotians through the establishment and development of effective and sustainable municipal government. To that end we will engage in open and frank discussion regarding local governance issues, support continuation of existing provincial-municipal partnerships, and seek opportunities to work collaboratively on important municipal initiatives. The relationship between the provincial government and our municipalities is one that must be repaired and strengthened if we are to meet our challenges head-on.</p>
+<p>My government is also committed to the long-term health of our valuable, traditional natural resources, as we look forward to a future in which industries can be innovative and sustainable.</p>
+<p>Our fisheries and agriculture industries are the backbone of rural economies and communities across the province. My government will work with partners in these important sectors to focus on their expansion and modernization through research and innovation, and to encourage Nova Scotians to buy local.</p>
+<p>Transportation is a critical part of strengthening communities from one end of Nova Scotia to the other. My government is committed to continuing discussions with the federal government to extend twinning on Highway No. 103 and to complete Highway No. 101. We will also improve access to Burnside Industrial Park through the completion of the Burnside connector and remove the MV Miner, an environmental liability, from the Cape Breton coastline.</p>
+<p>My government is expanding tourism opportunities by renewing our major trade and convention facilities, and restoring and enhancing our ferry connection to the United States.</p>
+<p>Another vessel - the iconic Bluenose II - has been lovingly refurbished by Nova Scotia craftspeople to the highest standards of safety and quality. My government will join them in celebrating Bluenose II's return as Nova Scotia's sailing ambassador next spring as she helps to welcome the world to our shores.</p>
+<p>Nova Scotians know how important culture is in our provincial identity. It is the heart and soul of a sustainable future. In partnership with the cultural community, my government will develop this province's first Culture Strategy, which will establish a new vision for culture in Nova Scotia. Together with the sector, we will identify ways that government, communities, and citizens can work together to preserve and enhance culture for the benefit of all</p>
+<p>Strong, diverse, and vibrant communities are key to creating more opportunities for Nova Scotians to live, work, and raise their families here. My government is committed to a productive and respectful relationship with the Mi'kmaq of Nova Scotia. We look forward to working with Mi'kmaq leaders and communities to foster training and employment opportunities that will drive sustainable economic development in rural Nova Scotia.</p>
+<p>My government will continue to champion diversity and social inclusion in the province by, for example, working with the Government of Canada on a new funding agreement to support the planning and delivery of French-language services. This will ensure that Acadian and francophone Nova Scotians have access to important public services that enhance the quality of life for their communities.</p>
+<p>We must make time to savour that quality of life and honour our cultural identity. That's why my government is respecting and acknowledging hard-working Nova Scotians by providing a statutory holiday in February to enjoy our beautiful province and spend time with loved ones.</p>
+<p class="hsd_noindent">LEGISLATIVE AGENDA FOR FALL 2013</p>
+<p>During this First Session of the 62<sup>nd</sup> General Assembly, my government will bring forward a legislative agenda designed to put Nova Scotians first.</p>
+<p>In the coming days, the following pieces of legislation will be introduced:</p>
+<ul>
+				<li>An Act to Amend Chapter 155 of the Revised Statutes of 1989. The Executive Council Act; and Chapter 376 of the Revised Statutes of 1989. The Public Service Act.</li>
+<li>An Act to Ensure Accountability in Providing Economic Development Assistance in Nova Scotia.</li>
+<li>An Act to Amend Chapter 1 (1992 Supplement) of the Revised Statutes of 1989. The House of Assembly Act.</li>
+<li>An Act to Amend Chapter 7 of the Acts of 1996. The Occupational Health and Safety Act.</li>
+<li>An Act to Amend Chapter 475 of the Revised Statutes of 1989. The Trade Union Act.</li>
+<li>An Act to Establish a Holiday in February.</li>
+<li>An Act to Amend Chapter 25 of the Acts of 2004. The Electricity Act, Respecting the Sale of Renewable Electricity.</li>
+<li>An Act to Amend Chapter 376 of the Revised Statutes of 1989. The Public Service Act, Respecting the Office of Communications Nova Scotia.</li>
+<li>An Act to Ban the Importation of Hydraulic Fracturing Wastewater.</li>
+<li>An Act to Amend Chapter 244 of the Revised Statutes of 1989. The Justices of the Peace Act; and Chapter 238 of the Revised Statutes of 1989. The Provincial Court Act.</li>
+			</ul>
+<p>On October 8<sup>th</sup>, Nova Scotians voted for change and that change is underway. It means a new beginning for our province - a new beginning for all Nova Scotians.</p>
+<p>Change begins with respecting Nova Scotians. Change begins with putting Nova Scotians first, from one end of the province to the other. Change begins with trust - our government's trust in its citizens and their trust in government.</p>
+<p>My government will be diligent in its desire to bring governance back to the people. Elected representatives are the citizens' trustees, but that does not mean Nova Scotians should be excluded from the decision-making processes. Democracy can only thrive when citizens are included in governing our great province.</p>
+<p>This begins with an open and accountable government. This begins with respecting Nova Scotians' tax dollars. This begins with creating a province where education and health care are recognized as requirements for societal well-being.</p>
+<p>But none of this begins by leaving any Nova Scotian behind. Our government has started to implement the mandate for change that Nova Scotians asked for in October. Our government, with the help of all Nova Scotians, will continue that change.</p>
+<p>God bless Nova Scotia.</p>
+<p>God bless Canada.</p>
+<p>God save the Queen.</p></speech>
+        <narrative><p>The Speaker and Clerks left the Chamber.</p>
+<p>The Lieutenant Governor left the Chamber preceded by his escorts and aides and the Sergeant-at-Arms.</p>
+<p>Mr. Speaker took the Chair.</p></narrative>
+        <speech by="" as="#sergeant-at-arms" status="undefined">
+          <from>SERGEANT-AT-ARMS</from>
+          <p>His Honour, the Speaker.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
+<p>The honourable Attorney General.</p></speech>
+        <speech by="#lena.m.diab">
+          <from>HON. LENA DIAB</from>
+          <p>Mr. Speaker, I beg leave to introduce a bill entitled An Act Respecting Oaths of Office.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
 <p>His Honour the Lieutenant Governor has been pleased to make a Speech to the members met in General Assembly, of which Speech, for greater accuracy, I have obtained a copy which the Chief Clerk will now read.</p>
 <p>of which Speech, for greater accuracy, I have obtained a copy, which the Chief Clerk will now read.</p></speech>
-      <speech by="" as="#clerk" status="undefined">
-        <from>THE CLERK</from>
-        <p>It is my great honour and privilege to welcome you to the First Session of the 62<sup>nd</sup> General Assembly of the Nova Scotia Legislature. For some of you it's a welcome back. For others this is &#x2026;</p>
-      </speech>
-      <speech by="" as="#speaker" status="undefined">
-        <from>MR. SPEAKER</from>
-        <p>The honourable Premier.</p>
-      </speech>
-      <speech by="#stephen.mcneil">
-        <from>HON. STEPHEN MCNEIL</from>
-        <p>While I enjoyed it, Mr. Speaker, I move the Speech from the Throne be taken as read.</p>
-      </speech>
-      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the Speech from the Throne be taken as read.</p>
+        <speech by="" as="#clerk" status="undefined">
+          <from>THE CLERK</from>
+          <p>It is my great honour and privilege to welcome you to the First Session of the 62<sup>nd</sup> General Assembly of the Nova Scotia Legislature. For some of you it's a welcome back. For others this is &#x2026;</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Premier.</p>
+        </speech>
+        <speech by="#stephen.mcneil">
+          <from>HON. STEPHEN MCNEIL</from>
+          <p>While I enjoyed it, Mr. Speaker, I move the Speech from the Throne be taken as read.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the Speech from the Throne be taken as read.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable member for Lunenburg.</p></speech>
-      <speech by="#suzanne.lohnes.croft"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, it is an honour to rise in the 62<sup>nd</sup> Session of the House of Assembly and move the Address in Reply to the Speech from the Throne as read by His Honour Brigadier-General, the Honourable J.J. Grant.</p>
+        <speech by="#suzanne.lohnes.croft"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, it is an honour to rise in the 62<sup>nd</sup> Session of the House of Assembly and move the Address in Reply to the Speech from the Throne as read by His Honour Brigadier-General, the Honourable J.J. Grant.</p>
 <p>Mr. Speaker, it is indeed a privilege to stand here in this historic House before my colleagues representing the constituency of Lunenburg, located on Nova Scotia's beautiful South Shore.</p>
 <p>I would like to begin my remarks by congratulating you, Mr. Speaker, on your first official day presiding over the House of Assembly. I know you will maintain order and lead us through a productive session in the House. (Applause)</p>
 <p>Mr. Speaker, it is my great pleasure to say thank you to the fine people of the Lunenburg constituency for electing me to represent them in the Nova Scotia House of Assembly. I am humbled by their vote of confidence and I pledge to represent the people of Lunenburg to the best of my ability each and every day. My work experiences over the years helped me to acquire the leadership skills necessary for running for public office but I must give the greatest credit to my experiences as a volunteer.</p>
@@ -66,11 +211,11 @@
 <p>For many generations Lunenburg has been known for its abundance of natural resources, known in the past for its fisheries, boat building, forestry, agriculture, and of course Christmas tree growing. However, Mr. Speaker, this is no longer the case. The closure of the fisheries, the lower demand for our forestry products, and the challenges in the farming industry have caused our youth to go elsewhere for education, training, and work. We know there are challenges ahead relating to our economy, our population, and educational opportunities for our youth. This is exactly why the new government will be investing in education while making smart investments in our economy and communities.</p>
 <p>Mr. Speaker, our government's plan to reduce the size of health care administration so we can focus on our valuable health resources on front-line health care services is about delivering the world class health care service that Nova Scotians deserve. I am pleased that we will be increasing access to health care professionals such as nurses and family doctors. With an aging population in my constituency we will work hard to help seniors remain in their homes longer. I am ready to work with the people of Lunenburg, to be a strong voice in this House, and have a hand in creating a better Nova Scotia for today and generations to come.</p>
 <p>Mr. Speaker, it is now my pleasure to thank His Honour for the Throne Speech and with great pride and great confidence I move that the Address in Reply to the Speech from the Throne, as read by His Honour the Lieutenant Governor of Nova Scotia, be accepted as read. Thank you. (Applause)</p></speech>
-      <speech by="" as="#speaker" status="undefined">
-        <from>MR. SPEAKER</from>
-        <p>The honourable member for Halifax Atlantic.</p>
-      </speech>
-      <speech by="#brendan.o.maguire"><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, it is also an honour for me to rise today and express my thanks to His Honour Brigadier-General, the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, for his inspiring words.</p>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Halifax Atlantic.</p>
+        </speech>
+        <speech by="#brendan.o.maguire"><from>MR. BRENDAN MAGUIRE</from><p>Mr. Speaker, it is also an honour for me to rise today and express my thanks to His Honour Brigadier-General, the Honourable J.J. Grant, Lieutenant Governor of Nova Scotia, for his inspiring words.</p>
 <p>I am honoured to second the Address in Reply to the Speech from the Throne. It is truly a privilege to stand before you and my colleagues from both sides of the House today in this historic Chamber. I rise today not just to second the Address in Reply to the Speech from the Throne, but also as the voice of the people of Halifax Atlantic.</p>
 <p>Halifax Atlantic is a riding that is not only my home but a community that has helped save my life. I wake up every day thankful to the people of this amazing community and fully aware of the enormous responsibility they have placed on me. I am proud to be from such a unique and diverse riding, a riding that is reflective of the hard work and big hearts that Nova Scotians have become known for worldwide.</p>
 <p>I am the MLA for Halifax Atlantic, a riding that is made up of unique individuals from Spryfield to Herring Cove to Portuguese Cove, Ketch Harbour, Sambro, East and West Pennant, Williamswood, Harrietsfield, and Purcells Cove. I am also husband to Rena Maguire and the proud father of Oliver Finn Maguire, who is making all the noise. I am also going to get it on record that I love both of you. (Applause)</p>
@@ -81,11 +226,11 @@
 <p>It is essential that we assess the quality of the curriculum that is being delivered and ensure that our students have the resources to succeed. It is time that we view our children as our most important resource and not just a budget line item. (Applause)</p>
 <p>I believe a good idea is a good idea no matter which side of the House it comes from.</p>
 <p>We need to be the role models that youth look up to today and tomorrow. I look forward to being part of a better Nova Scotia, and it is my honour today to second the motion that the Address in Reply to the Speech from the Throne passes as read. Thank you. (Applause)</p></speech>
-      <speech by="" as="#speaker" status="undefined">
-        <from>MR. SPEAKER</from>
-        <p>The honourable Leader of the Official Opposition.</p>
-      </speech>
-      <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, on behalf of the Official Opposition, I would like to thank His Honour the Lieutenant Governor for his address to the House today, and for the work he's doing in service of all Nova Scotians.</p>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, on behalf of the Official Opposition, I would like to thank His Honour the Lieutenant Governor for his address to the House today, and for the work he's doing in service of all Nova Scotians.</p>
 <p>Let me say right off the top, on behalf of those of us here in Opposition, I want to congratulate the Premier and the members of the Liberal Government on their victory in the most recent general election. I offer sincere congratulations to them for their work. (Applause)</p>
 <p>Mr. Speaker, I heard the Premier's words outside this Chamber, that he wants to set a new and respectful tone of debate in the Legislature and I just want him to know, and everyone in his government to know, that on the Opposition side we accept that invitation and will return it in kind - it's time to set a new tone of debate in the House. (Applause)</p>
 <p>We may be from different Parties - Liberal, PC, or NDP - but we are all part of the same family, the Nova Scotia family, and we ought to be guided by the way families talk and discuss issues at their own kitchen table or their own dining-room table. Although, when I think of the debates at my own family kitchen table, I'm not sure that's the right model - and I can say to the Premier that I can just imagine when he was growing up what the debates were like around his family table. (Applause)</p>
@@ -111,30 +256,31 @@
 <p>Let me just say in closing that it is an amazing privilege to be a member of the Nova Scotia House of Assembly. We all fought very hard to be here and we witnessed a change in government in peace because we fought with our words, with our ideas, with our TV ads, and with our competing platforms. We fought in peace; we did not fight with guns or bullets as in too many parts of the world, that's how they change governments. But not here in this country.</p>
 <p>So as we conclude today's proceedings in the month of November 2013, let us remember that it is our veterans who gave us this great privilege to fight elections with ideas and words and not guns and change governments in peace.</p>
 <p>With that I move that we adjourn debate for today and I will continue my remarks tomorrow when we reconvene Thank you.</p></speech>
-      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to adjourn debate. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to adjourn debate. Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>The honourable Premier.</p></speech>
-      <speech by="#stephen.mcneil">
-        <from>HON. STEPHEN MCNEIL</from>
-        <p>Mr. Speaker, on your behalf, at the conclusion of this session I would like to invite all members of the House and all guests in the gallery to the Red Room for a reception.</p>
-      </speech>
-      <speech by="" as="#speaker" status="undefined">
-        <from>MR. SPEAKER</from>
-        <p>The honourable Government House Leader.</p>
-      </speech>
-      <speech by="#michel.p.samson">
-        <from>HON. MICHEL SAMSON</from>
-        <p>Mr. Speaker, that concludes the government's business for today. I move that the House do now rise to meet again tomorrow at the hour of 9:00 a.m. until 1:00 p.m.</p>
-      </speech>
-      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House do now rise to meet again tomorrow at 9:00 a.m.</p>
+        <speech by="#stephen.mcneil">
+          <from>HON. STEPHEN MCNEIL</from>
+          <p>Mr. Speaker, on your behalf, at the conclusion of this session I would like to invite all members of the House and all guests in the gallery to the Red Room for a reception.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#michel.p.samson">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, that concludes the government's business for today. I move that the House do now rise to meet again tomorrow at the hour of 9:00 a.m. until 1:00 p.m.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is that the House do now rise to meet again tomorrow at 9:00 a.m.</p>
 <p>Is it agreed?</p>
 <p>It is agreed.</p>
 <p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
 <p>The motion is carried.</p>
 <p>We stand adjourned.</p></speech>
-      <narrative>
-        <p>The House rose at 3:20 p.m.</p>
-      </narrative>
+        <narrative>
+          <p>The House rose at 3:20 p.m.</p>
+        </narrative>
+      </debateSection>
     </debateBody>
   </debate>
 </akomaNtoso>

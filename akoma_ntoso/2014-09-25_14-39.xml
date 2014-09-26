@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 25 September 2014</docTitle>
+      <docNumber>14-39</docNumber>
+      <docDate date="2014-09-25">Thursday, September 25, 2014</docDate>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
+      <legislature value="62">62nd General Assembly</legislature>
+      <session value="1">1st Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_14sep25/"/>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Let His Honour be admitted.</p>
+      </speech>
+      <narrative>
+        <p>The Speaker and the Clerks left the Chamber.</p>
+      </narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>His Honour, the Lieutenant Governor.</p>
+      </speech>
+      <narrative><p>The Lieutenant Governor, the Honourable J.J. Grant, preceded by his Private Secretary, and by Mr. Ken Greenham, Sergeant-at-Arms, bearing the Mace, entered the House of Assembly Chamber. The Lieutenant Governor then took his seat on the Throne.</p>
+<p>The Sergeant-at-Arms then departed and re-entered the Chamber, followed by the Speaker, Hon. Kevin Murphy; the Chief Clerk of the House, Neil Ferguson; and the Assistant Clerk, Annette Boucher.</p>
+<p>The Speaker, preceded by the Sergeant-at-Arms on his right and the Clerks on either side, took up his position at the foot of the Table of the House.</p></narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>It is the wish of His Honour, the Lieutenant Governor, that the ladies and gentlemen be seated.</p>
+      </speech>
+      <speech by="" as="#lieutenant governor" status="undefined"><from>THE LIEUTENANT GOVERNOR</from><p>Mr. Speaker and members of the House of Assembly, in closing this, the First Session of the Sixty-second General Assembly, I thank you for the attention, consideration and care you have given to the legislation and measures that have come before you.</p>
+<p>During the last session government continued to fulfill its commitments to Nova Scotians. It made good on its promises to remove the efficiency tax from power bills, eliminate the interest on Nova Scotia student loans, modernize the apprenticeship system, reinvest in the school system, and reinstate ferry service between Yarmouth and the northeastern United States.</p>
+<p>Government brought in legislation to guarantee essential care for Nova Scotians during a strike or lock-out affecting health care, seniors' homes, youth, or people with special needs, and tabled a budget to encourage private sector economic growth.</p>
+<p>Other highlights from the session included giving small businesses better access to loans with an improved Credit Union Small Business Loan Guarantee Program, investing in children and families with Family Resource Centre funding, changes to the Nova Scotia Child Benefit, creating a new direction for economic development so the private sector will drive the economy, beginning to reorganize the province's health authorities, and working to reduce wait times for orthopaedic surgery.</p>
+<p>Twenty-seven bills received the approval of the House during the session.</p>
+<p>I thank you for the ample provision you have made for the Public Service, and I assure you that care and prudence will be exercised to ensure that the amounts voted are expended in the best interests of Nova Scotia.</p>
+<p>I now bid you farewell.</p></speech>
+      <speech by="#stephen.mcneil">
+        <from>HON. STEPHEN MCNEIL</from>
+        <p>Mr. Speaker and the members of the House of Assembly, it is the will and the pleasure of His Honour, the Lieutenant Governor, that this, the First Session of the Sixty-second General Assembly be prorogued and this session is accordingly prorogued and that the Second Session of the said General Assembly meet at two o'clock in the afternoon of this day for the dispatch of business.</p>
+      </speech>
+      <narrative>
+        <p>The House rose at 11:17 a.m.</p>
+      </narrative>
+    </debateBody>
+  </debate>
+</akomaNtoso>

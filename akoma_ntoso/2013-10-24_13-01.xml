@@ -8,10 +8,10 @@
         <TLCPerson id="kevin.murphy" href="/ontology/person/ca-ns.kevin.murphy" showAs="MR. KEVIN MURPHY"/>
         <TLCPerson id="margaret.miller" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
         <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
         <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
         <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
         <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
-        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
         <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
       </references>
     </meta>
@@ -25,6 +25,13 @@
       <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C94/house_13oct24/"/>
     </preface>
     <debateBody>
+      <narrative>
+        <p>The First Session of the 62<sup>nd </sup>General Assembly was opened on a sunny day.</p>
+      </narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>Honourable members, please rise.</p>
+      </speech>
       <speech by="" as="#clerk" status="undefined">
         <from>THE CLERK</from>
         <p>The honourable Premier.</p>
