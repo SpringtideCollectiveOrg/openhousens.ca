@@ -172,6 +172,7 @@ Add the Scheduler add-on:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
     python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso --no-clobber --start-date `date +%Y-%m-%d`
+    python manage.py rebuild_index --noinput
 
 ### Migrations
 
