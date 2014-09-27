@@ -51,7 +51,7 @@ Add the SendGrid add-on for error reporting, the Memcachier add-on for caching a
 [Schedule](https://scheduler.heroku.com/dashboard) the following jobs daily:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
-    python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso --no-clobber --start-date `date +%Y-%m-%d`
+    python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso --no-clobber --start-date `date -d yesterday +%Y-%m-%d`
     python manage.py rebuild_index --noinput
 
 ### ElasticSearch
@@ -87,4 +87,4 @@ Import Popolo and Akoma Ntoso data, and rebuild the ElasticSearch index:
 Deploy [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/#deployment) and schedule:
 
     ruby ca_ns/scraper.rb --pipelined -q -t people
-    ruby ca_ns/scraper.rb --pipelined -q -a scrape -a import -a akoma_ntoso -- down-to `date +%Y-%m-%d` no-clobber 1
+    ruby ca_ns/scraper.rb --pipelined -q -a scrape -a import -a akoma_ntoso -- down-to `date -d yesterday +%Y-%m-%d` no-clobber 1
