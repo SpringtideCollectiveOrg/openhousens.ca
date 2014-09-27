@@ -832,22 +832,22 @@
             <from>MADAM SPEAKER</from>
             <p>That concludes late debate for this evening. I wish to thank everybody for their input in the debate. We will now recess until 6:30 p.m.</p>
           </speech>
-          <narrative>
-            <p>6:11 p.m. The House recessed.</p>
-          </narrative>
-          <narrative>
-            <p>6:30 p.m. The House reconvened.</p>
-          </narrative>
-          <speech by="" as="#speaker" status="undefined">
-            <from>MADAM SPEAKER</from>
-            <p>Order, please. The honourable Government House Leader.</p>
-          </speech>
-          <speech by="#michel.p.samson">
-            <from>HON. MICHEL SAMSON</from>
-            <p>Madam Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
-          </speech>
         </debateSection>
       </debateSection>
+      <narrative>
+        <p>6:11 p.m. The House recessed.</p>
+      </narrative>
+      <narrative>
+        <p>6:30 p.m. The House reconvened.</p>
+      </narrative>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MADAM SPEAKER</from>
+        <p>Order, please. The honourable Government House Leader.</p>
+      </speech>
+      <speech by="#michel.p.samson">
+        <from>HON. MICHEL SAMSON</from>
+        <p>Madam Speaker, would you please call the order of business, Public Bills for Second Reading.</p>
+      </speech>
       <debateSection>
         <heading>PUBLIC BILLS FOR SECOND READING</heading>
         <speech by="" as="#speaker" status="undefined">
