@@ -10,19 +10,15 @@ psycopg2==2.5.3
 # pylibmc==1.3.0 is not compatible with Python 3, use the py3k branch
 # @see https://github.com/lericson/pylibmc/issues/146
 -e git+git://github.com/lericson/pylibmc.git@py3k#egg=pylibmc
-# django-pylibmc==0.5.0 is not compatible with Python 3
+# django-pylibmc==0.5.0 is not compatible with Python 3, use our fork
 # @see https://github.com/jbalogh/django-pylibmc/pull/16
 -e git+git://github.com/jpmckinney/django-pylibmc.git#egg=django-pylibmc
 django-heroku-memcacheify==0.7
 
-# @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
-# -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
+# django-sayit==1.2.1
 # @see https://github.com/jpmckinney/sayit/commit/33d1bb67dc4e3248e6bc1c77aaec15f7a5a394ae
 # @see https://github.com/mysociety/sayit/pull/387
-# @see https://github.com/mysociety/sayit/pull/384
 -e git+git://github.com/jpmckinney/sayit.git@hotfix#egg=django-sayit
-# @see https://github.com/mysociety/django-subdomain-instances/pull/12
--e git+git://github.com/jpmckinney/django-subdomain-instances@migrations#egg=django-subdomain-instances
 
 # Akoma Ntoso importer
 boto==2.32.1
