@@ -42,11 +42,12 @@ Add and [configure](https://devcenter.heroku.com/articles/flydata#s3-integration
 
     heroku addons:add flydata
 
-Add the SendGrid add-on for error reporting, the Memcachier add-on for caching and the Scheduler add-on:
+Add the SendGrid add-on for error reporting, the Memcachier add-on for caching, the Scheduler add-on, and PG Backups addon:
 
     heroku addons:add sendgrid
     heroku addons:add memcachier
     heroku addons:add scheduler
+    heroku addons:add pgbackups:auto-month
 
 [Schedule](https://scheduler.heroku.com/dashboard) the following jobs daily:
 
