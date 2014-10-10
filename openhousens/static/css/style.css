@@ -440,6 +440,13 @@ span.memberships { /* p is styled differently */
   color: #666;
 }
 
+.speech table {
+  width: 100%;
+}
+.speech table td {
+  width: 50%;
+}
+
 .actions {
   z-index: 300;
   display: none;
