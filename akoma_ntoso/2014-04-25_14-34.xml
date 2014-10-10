@@ -187,7 +187,8 @@
         <narrative>
           <p>The Clerk calls the roll.</p>
         </narrative>
-        <other><table>
+        <other>
+          <table>
 <tr>
 <th>YEAS</th>
 <th>NAYS</th>
@@ -317,7 +318,7 @@
 <td/>
 </tr>
 </table>
-</other>
+        </other>
         <speech by="" as="#clerk" status="undefined">
           <from>THE CLERK</from>
           <p>For, 31. Against, 15.</p>
