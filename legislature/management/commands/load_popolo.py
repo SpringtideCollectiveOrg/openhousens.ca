@@ -26,7 +26,7 @@ class Command(BaseCommand):
 
         instance, _ = Instance.objects.get_or_create(label='default')
 
-        for json in self.get('organizations'):
+        for json in self.get('organizations?in_network_of=ocd-organization/country:ca/province:ns/legislature'):
             defaults = {
                 'name': json['name'],
                 'classification': json['classification'],
@@ -55,7 +55,7 @@ class Command(BaseCommand):
                     setattr(record, attr, value)
                 record.save()
 
-        for json in self.get('persons'):
+        for json in self.get('people?member_of=ocd-organization/country:ca/province:ns/legislature'):
             defaults = {
                 'name': json['name'],
                 'family_name': json['family_name'],
@@ -90,7 +90,7 @@ class Command(BaseCommand):
                     setattr(record, attr, value)
                 record.save()
 
-        for json in self.get('posts'):
+        for json in self.get('posts?organization_id=ocd-organization/country:ca/province:ns/legislature'):
             defaults = {
                 'role': json['role'],
                 'organization': Organization.objects.get(identifiers__identifier=json['organization_id']),
@@ -110,7 +110,7 @@ class Command(BaseCommand):
                     setattr(record, attr, value)
                 record.save()
 
-        for json in self.get('memberships'):
+        for json in self.get('memberships?in_network_of=ocd-organization/country:ca/province:ns/legislature'):
             defaults = {
                 'label': json.get('label', ''),  # @see https://github.com/openpolis/django-popolo/pull/12
                 'role': json.get('role', ''),
