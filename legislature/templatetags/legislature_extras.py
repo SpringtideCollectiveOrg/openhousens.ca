@@ -122,6 +122,7 @@ def speech_speaker(speech):
     else:
         return speaker_name(name)
 
+# To find other possible values to trigger 'government':
 # Speech.objects.filter(speaker_id=None).exclude(speaker_display__in=('THE PREMIER', 'THE LIEUTENANT GOVERNOR', 'THE ADMINISTRATOR')).values_list('speaker_display', flat=True).order_by('speaker_display').distinct()
 @register.filter
 def speech_class(speech):
@@ -131,7 +132,7 @@ def speech_class(speech):
         return 'government'
     elif speech.speaker_display:
         return 'role'
-    else:
+    else:  # speech.type can also be inspected
         return 'narrative'
 
 @register.filter
