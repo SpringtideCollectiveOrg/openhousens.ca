@@ -1,0 +1,1138 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="HON. LEO GLAVINE"/>
+        <TLCPerson id="margaret.miller" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="pam.eyking" href="/ontology/person/ca-ns.pam.eyking" showAs="MS. PAM EYKING"/>
+        <TLCPerson id="larry.harrison" href="/ontology/person/ca-ns.larry.harrison" showAs="MR. LARRY HARRISON"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="allan.rowe" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="karla.macfarlane" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAQUIRE"/>
+        <TLCPerson id="patrick.dunn" href="/ontology/person/ca-ns.patrick.dunn" showAs="HON. PAT DUNN"/>
+        <TLCPerson id="ben.jessome" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
+        <TLCPerson id="keith.irving" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
+        <TLCPerson id="bill.horne" href="/ontology/person/ca-ns.bill.horne" showAs="MR. BILL HORNE"/>
+        <TLCPerson id="randy.delorey" href="/ontology/person/ca-ns.randy.delorey" showAs="HON. RANDY DELOREY"/>
+        <TLCPerson id="terry.farrell" href="/ontology/person/ca-ns.terry.farrell" showAs="MR. TERRY FARRELL"/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="tony.ince" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
+        <TLCPerson id="zach.churchill" href="/ontology/person/ca-ns.zach.churchill" showAs="HON. ZACH CHURCHILL"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
+        <TLCPerson id="andrew.younger" href="/ontology/person/ca-ns.andrew.younger" showAs="HON. ANDREW YOUNGER"/>
+        <TLCPerson id="mark.furey" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="chuck.porter" href="/ontology/person/ca-ns.chuck.porter" showAs="MR. CHUCK PORTER"/>
+        <TLCPerson id="geoff.maclellan" href="/ontology/person/ca-ns.geoff.maclellan" showAs="HON. GEOFF MACLELLAN"/>
+        <TLCPerson id="tim.houston" href="/ontology/person/ca-ns.tim.houston" showAs="MR. TIM HOUSTON"/>
+        <TLCPerson id="keith.colwell" href="/ontology/person/ca-ns.keith.colwell" showAs="HON. KEITH COLWELL"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCPerson id="joachim.stroink" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
+        <TLCPerson id="brendan.o.maguire" href="/ontology/person/ca-ns.brendan.o.maguire" showAs="MR. BRENDAN MAGUIRE"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="Mr. Alfie MacLeod"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 22 October 2014</docTitle>
+      <docNumber>14-18</docNumber>
+      <docDate date="2014-10-22">Wednesday, October 22, 2014</docDate>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
+      <legislature value="62">62nd General Assembly</legislature>
+      <session value="2">2nd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C96/house_14oct22/"/>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We will begin the daily routine.</p>
+      </speech>
+      <noticesOfMotion>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Health and Wellness.</p>
+        </speech>
+        <speech by="#leo.glavine"><num title="357">RESOLUTION NO. 357</num><from>HON. LEO GLAVINE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Bryan Darrell is a member of our staff in the Department of Health and Wellness who balances his busy career with his family responsibilities and significant community service, notably with Big Brothers Big Sisters; and</p>
+<p>Whereas every day Bryan pours his talents and dedication into the complex work of helping build and renovate health care facilities for Nova Scotians; and</p>
+<p>Whereas Bryan has been recognized with the 2014 Citizenship Award from Engineers Nova Scotia for his outstanding service and dedication to the province's engineering profession, combining his professional career with service to the community;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Bryan Darrell on receiving this award and thank him for the time he invests, both personally and professionally, in service to his fellow Nova Scotians.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+      </noticesOfMotion>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <other>
+          <p>
+            <b> Bill No. 49 - Entitled an Act to Improve Economic Development in Nova Scotia. (Hon. Michel Samson)</b>
+          </p>
+        </other>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Ordered that this bill be read a second time on a future day.</p>
+        </speech>
+      </debateSection>
+      <noticesOfMotion>
+        <heading>NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Hants East.</p>
+        </speech>
+        <speech by="#margaret.miller"><num title="358">RESOLUTION NO. 358</num><from>MS. MARGARET MILLER</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Lawson Grant of Kennetcook was born with a hearing impairment and has been using hearing aids since the tender age of four months; and</p>
+<p>Whereas Lawson Grant is a student of Kennetcook District Elementary School and receives support from the Atlantic Provinces Special Education Authority; and</p>
+<p>Whereas Lawson has received two awards - one from the Canadian Association of Educators of the Deaf and Hard of Hearing, for Academic Achievement, as well as the Lena Donachie award for a deaf or a hard of hearing student who exhibits a love of reading and a love of books;</p>
+<p>Therefore be it resolved that all members of this House of Assembly recognize Lawson Grant for his academic achievement, and wish him continued success in all of his academic efforts.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Argyle-Barrington.</p></speech>
+        <speech by="#christopher.a.dentremont"><num title="359">RESOLUTION NO. 359</num><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Scott Surette of Abrams River, Yarmouth County, has been named Baseball Nova Scotia's 2014 Coach of the Year; and</p>
+<p>Whereas Scott has been active in coaching in the Yarmouth area for many years; and</p>
+<p>Whereas in spite of losing some key players, Scott recruited new players and led the Yarmouth Abuptic Lobster Bantam AA Gateways to a provincial title, as well as leading the team to the semifinals of the Atlantic championships;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Scott Surette on being named Baseball Nova Scotia's 2014 Coach of the Year, thank him for his dedication to his team, and wish him continued success with coaching in the years to come.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Queens-Shelburne.</p></speech>
+        <speech by="#sterling.belliveau"><num title="360">RESOLUTION NO. 360</num><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Minister of Natural Resources stated on October 9, 2014, that firewood used by Nova Scotians does not qualify as an energy source; and</p>
+<p>Whereas the Liberal Government promised in their election campaign to keep energy costs down; and</p>
+<p>Whereas many Nova Scotians, especially in rural Nova Scotia, use wood to heat their homes to reduce their power bills;</p>
+<p>Therefore be it resolved that the Minister of Finance and Treasury Board encourage the Minister of Natural Resources to meet with firewood suppliers to get a better understanding of how the use of firewood can heat a home and reduce power bills.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>I hear several Noes.</p>
+<p>The notice is tabled.</p>
+<p>The honourable member for Victoria-The Lakes.</p></speech>
+        <speech by="#pam.eyking"><num title="361">RESOLUTION NO. 361</num><from>MS. PAM EYKING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Cabot Trail Writers Festival, produced by the Cabot Trail Writers Festival Society, took place again this year in St. Ann's during October 4<sup>th</sup> and October 5<sup>th</sup>, with a focus on the celebration of Alistair MacLeod; and</p>
+<p>Whereas the Cabot Trail Writers Festival, now in its sixth year, provides an opportunity for local and internationally-renowned writers to exchange ideas, read, write, and celebrate, and gives readers the opportunity to gain a new appreciation for the authors' work; and</p>
+<p>Whereas the festival draws residents and visitors to Cape Breton Island every year to enjoy the literary events, and encourages them to visit and enjoy other parts of the Island;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate the Cabot Trail Writers Festival Society on another successful year and wish them the best as the planning begins for their 2015 festival.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Colchester-Musquodoboit Valley.</p></speech>
+        <speech by="#larry.harrison"><num title="362">RESOLUTION NO. 362</num><from>MR. LARRY HARRISON</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas former Middle Musquodoboit resident Sandy Scott competed in the 2014</p>
+<p>Muzzle Loading National Championship; and</p>
+<p>Whereas Sandy tied the Canadian records in the Colt Competition (96) and the Pennsylvania Repro (94) and set a new Canadian record of 164 in the Remington Original Competition; and</p>
+<p>Whereas as a result of bringing home three second-place trophies and two wins, Sandy was part of a group representing the Canadian International Muzzle Loading team at the 26<sup>th</sup> World Championship in Granada, Spain;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Sandy Scott for his outstanding performance in the 2014 Muzzle Loading National Championship.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Chester-St. Margaret's.</p></speech>
+        <speech by="#denise.peterson.rafuse"><num title="363">RESOLUTION NO. 363</num><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the law firm of Kennedy Schofield hosted the first annual Nova Scotia Youth Justice Camp in Head of St. Margaret's Bay on August 12, 2014; and</p>
+<p>Whereas the camp was a one-day event designed to teach youth about law while fostering leadership skills; and</p>
+<p>Whereas the organizers used fun and exciting topics to educate the young participants, led by community experts including members of the RCMP, Crown Attorneys, judges, and investigators;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature join me in congratulating the firm of Kennedy Schofield on their first annual Nova Scotia Youth Justice Camp, with our sincere hopes that it continues in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth South.</p></speech>
+        <speech by="#allan.rowe"><num title="364">RESOLUTION NO. 364</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Kinesis Health Associates, a wellness clinic specializing in chiropractic, massage and physiotherapy, moved to a new home on Ochterloney Street in Dartmouth this past summer; and</p>
+<p>Whereas in August, Kinesis Health Associates hosted a family-focused event promoting a campaign to address proper fitting and sizing of children's school backpacks called "Pack it light, wear it right"; and</p>
+<p>Whereas in addition to teaching parents and students how to pack their backpacks to avoid muscle and nerve damage, Kinesis also orchestrated a donation drive of backpacks for Parker Street Food and Furniture Bank to help families prepare for the current school year;</p>
+<p>Therefore be it resolved that members of this House of Assembly congratulate Kinesis Health Associates on their new clinic on Ochterloney Street and applaud them for their work to promote healthy practices for parents and for students in our community.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Pictou West.</p></speech>
+        <speech by="#karla.macfarlane"><num title="365">RESOLUTION NO. 365</num><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on September 23<sup>rd</sup>, the Clean Air: A Basic Right photo exhibit opened at the deCoste Centre in Pictou; and</p>
+<p>Whereas organizers of the photo exhibit wanted to provide individuals an artistic outlet to express how pollution impacts their daily lives; and</p>
+<p>Whereas the exhibit, organized by Colin and Marianne Fraser and Dr. Gerry Farrell, was officially opened by Louis Brill, president of the Nova Scotia Lung Association;</p>
+<p>Therefore be it resolved that all members of this Legislative Assembly congratulate the organizers and all the photographers who participated in the Clean Air: A Basic Right photo exhibit.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p></speech>
+        <speech by="#lenore.zann"><num title="366">RESOLUTION NO. 366</num><from>MS. LENORE ZANN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Carl Gannon Jr. was recently elected president of the national union component of the Public Service Alliance of Canada Union of Veterans Affairs Employees; and</p>
+<p>Whereas Carl is the first African-Nova Scotian and the youngest person in the history of the PSAC to hold the office of component president; and</p>
+<p>Whereas for many years, Carl has been active in his community and used his time as local president to champion employees' and veterans' rights;</p>
+<p>Therefore be it resolved that the Nova Scotia Legislature congratulate Carl Gannon Jr. and wish him great success in his new position.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Halifax Atlantic.</p></speech>
+        <speech by="#brendan.o.maguire"><num title="367">RESOLUTION NO. 367</num><from>MR. BRENDAN MAQUIRE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Hand in Hand is a local thrift shop in Spryfield that had its humble beginnings in St. Michael's Church's basement over 25 years ago; and</p>
+<p>Whereas now located at 440 Herring Cove Road, Hand in Hand not only provides affordable clothing and household items, but also offers advocacy and support to individuals and families in the area; and</p>
+<p>Whereas Hand in Hand is a community-based organization providing support to people in need and is always looking for projects to better serve the community;</p>
+<p>Therefore be it resolved that members of the House of Assembly congratulate Hand in Hand on their commitment to serve the people of our community who need a helping hand.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member Pictou Centre.</p></speech>
+        <speech by="#patrick.dunn"><num title="368">RESOLUTION NO. 368</num><from>HON. PAT DUNN</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Amherst native Steve Goodwin arrived in New Glasgow approximately four decades ago and became the sports editor of <i>The Evening News</i>; and</p>
+<p>Whereas Steve is now a valuable team member of the <i>Pictou Advocate</i> and can be seen at sport events wherever there is a story to be found; and</p>
+<p>Whereas Steve Goodwin has been inducted into the media section of the Pictou County Sports Heritage Hall of Fame this past Saturday, October 18, 2014;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Steve Goodwin for his continuous dedication in covering sports and news in Pictou County and beyond over the past few decades.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Dartmouth South.</p></speech>
+        <speech by="#allan.rowe"><num title="369">RESOLUTION NO. 369</num><from>MR. ALLAN ROWE</from><p>Mr. Speaker, on behalf of the member for Eastern Shore, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Debra Hines has been an active volunteer in the community of Musquodoboit Harbour for many years; and</p>
+<p>Whereas Debra Hines is a retired school teacher who taught locally at Eastern Shore District High School; and</p>
+<p>Whereas Debra Hines is a member of the Musquodoboit Harbour and District Lions Club who takes an active role in such activities as Lions supper, 50-mile yard sale, and the Lions chicken barbeque to name a few;</p>
+<p>Therefore be it resolved that members of this House of Assembly join me in thanking Debra Hines for her continued commitment to her community and her embodiment of the Lions Club motto, "We serve."</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Hammonds Plains-Lucasville.</p></speech>
+        <speech by="#ben.jessome"><num title="370">RESOLUTION NO. 370</num><from>MR. BEN JESSOME</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nova Scotians look forward to sharing birthdays with family and friends to celebrate the life of loved ones; and</p>
+<p>Whereas on September 7, 2014, Mr. Ernest Kelsey of Lucasville, Nova Scotia, celebrated his 100<sup>th</sup> birthday; and</p>
+<p>Whereas Mr. Kelsey, being 100 years young, reads his Bible daily, keeps his strong faith in God, enjoys his guitar, and with his ever cheerful outlook on life continues to create lasting memories with family, friends, and neighbours;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Ernest Kelsey on reaching this milestone and wish him continued good health in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Kings South.</p></speech>
+        <speech by="#keith.irving"><num title="371">RESOLUTION NO. 371</num><from>MR. KEITH IRVING</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Wolfville Historical Society has coordinated an impressive commemoration of the impact of the Great War on Wolfville and its people entitled <i>1914: War Comes to Wolfville</i>; and</p>
+<p>Whereas the special exhibits and events coordinated by the Wolfville Historical Society enabled Wolfville and area residents to better understand the role the community played in the Great War and its effect on the local community; and</p>
+<p>Whereas <i>1914: War Comes to Wolfville</i> has honoured the people of Wolfville and area who sent off so many of their loved ones to the war in Europe;</p>
+<p>Therefore be it resolved that the House of Assembly congratulate and thank the Wolfville Historical Society for their important cultural contribution to Wolfville and surrounding areas through this special commemoration.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Waverley-Fall River-Beaver Bank.</p></speech>
+        <speech by="#bill.horne"><num title="372">RESOLUTION NO. 372</num><from>MR. BILL HORNE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Bridget Deveau is a Grade 12 honours graduate and athlete from the Lockview High School; and</p>
+<p>Whereas Bridget Deveau has successfully competed in track and field at the school, provincial and national level; and</p>
+<p>Whereas Bridget has chosen to attend the University of Massachusetts in Amherst, having received both an athletic and academic scholarship;</p>
+<p>Therefore be it resolved that members of the House of Assembly congratulate Bridget on her hard work and wish her future success.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Antigonish.</p></speech>
+        <speech by="#randy.delorey"><num title="373">RESOLUTION NO. 373</num><from>HON. RANDY DELOREY</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas 16-year-old Donovan Rehill of Antigonish was drafted by the Quebec Remparts of the Quebec Major Junior Hockey League; and</p>
+<p>Whereas the left-winger participated in the Ramparts training camp and was one of 15 forwards who got signed;</p>
+<p>Therefore be it resolved that all members of this House of Assembly join me in congratulating Donovan for signing with the Quebec Remparts and wishing him a successful season.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Cumberland North.</p></speech>
+        <speech by="#terry.farrell"><num title="374">RESOLUTION NO. 374</num><from>MR. TERRY FARRELL</from><p>Mr. Speaker, on behalf of the member for Clare-Digby, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Little River Trading Company is a general store serving the community for over 65 years; and</p>
+<p>Whereas Royce Elderkin, at 85, still puts in a day's work at the general store; and</p>
+<p>Whereas Royce Elderkin plays a key role in his community by working tirelessly to make sure that the local population in Little River is supplied with necessary goods;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Royce Elderkin on his 65 years of dedicated service to his community and wish him all the best in the years to come.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable member for Waverley-Fall River-Beaver Bank.</p></speech>
+        <speech by="#bill.horne"><num title="375">RESOLUTION NO. 375</num><from>MR. BILL HORNE</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Mitchell Lesbirel of Oakfield and business partner Casey Binkley are the investors of the Fast Rack, a beer and wine bottle drying rack; and</p>
+<p>Whereas the two took the product to CBC's Dragons Den and received rave reviews from all five dragons; and</p>
+<p>Whereas they are revolutionizing the speed it takes to clean and dry bottles in a sanitary way;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Mitchell and Casey on their successful entrepreneurial venture and wish them continued success in the future.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#michel.p.samson">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, with the unanimous consent of the House, would you please revert to the order of business, Statements by Ministers.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is to revert to the order of business, Statements by Ministers.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p></speech>
+      </noticesOfMotion>
+      <ministerialStatements>
+        <heading>STATEMENTS BY MINISTERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Premier.</p>
+        </speech>
+        <speech by="#stephen.mcneil"><from>HON. STEPHEN MCNEIL</from><p>Mr. Speaker, today our thoughts and prayers are with those who endured a horrifying trial in our nation's capital. Most especially I want to express my profound sadness and deepest sympathies to the families of the soldiers who have been killed and injured over the last several days. It has just been reported the soldier shot today on Parliament Hill recently passed away.</p>
+<p>By striking our National War Memorial and then our Parliament, an attempt has been made to weaken the bonds that unite us as Canadians. In fact, it is moments like these that ultimately, with the passage of time, will strengthen us all. As Canadians, each and every one of us has ties to our capital and many of us have very close and personal ties to the women and men who work there. As Canadians, all of us depend on the dedication and commitment of the men and women who serve in our Forces. I am confident that our federal government is taking the appropriate and necessary measures to protect Nova Scotians and all Canadians.</p>
+<p>Our Department of Justice remains in close contact with federal agencies including the RCMP and the Canadian Armed Forces. Further to that, I've been asked by the RCMP to pass on this request to all Nova Scotians, if you see something suspicious, report it to the appropriate authorities. I want to remind all of us that as we stand in this House today, the situation is still unfolding in our nation's capital. Nova Scotians should be confident that the authorities here will be provided with information relative to any specific threats, and this will be communicated to Nova Scotians as effectively and as quickly as possible.</p>
+<p>My office reached out to the Prime Minister's Office to offer both our condolences and our support. Furthermore, I've been in contact with the office of Rear Admiral John Newton, Commander Maritime Forces Atlantic, to express both my sympathies and our assistance if needed and whenever required.</p>
+<p>I want to assure all Nova Scotians that we are prepared to work with our partners, to take all necessary steps to ensure the safety and security of our citizens.</p>
+<p>Mr. Speaker, again, on behalf of all Nova Scotians, I want to express my deepest sympathies to the families and friends of those who have been killed or injured and, further, I want to offer my support to those who have been affected by this violent act that has taken place in our nation's capital.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Leader of the Official Opposition.</p>
+        </speech>
+        <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Thank you, Mr. Speaker, and I do want to thank the Premier for his remarks and for providing them to us today.</p>
+<p>Today is a sad day for all Canadians. It is a day of tragedy, both personal and as a nation. One Canadian soldier has been shot dead and we express our condolences to his family in great sadness, and we also want to thank him for his service to our great country, and with him, all of the Canadian peacekeepers, police officers, members of Canadian Forces, and others, who sometimes end up in harm's way to keep us and our country safe, Mr. Speaker.</p>
+<p>It is true that an attack on one Canadian is really an attack on all of us. What happened today is also an attack on democracy itself. Today there are no Liberals or Progressive Conservatives or New Democrats - we're all Canadians. I know that in this House all of us have friends, colleagues, even family in Ottawa, still going through this ordeal, and I do want to reach out specifically to the member for Bedford and the member for Victoria-The Lakes and let them know that we are here with them, as they worry.</p>
+<p>Mr. Speaker, we have Party Leaders in Ottawa; we have Members of Parliament who represent our province; and many Nova Scotians who are there, as well, still living in fear. I know we are all there with them as well. It has already been said that Canada lost a little bit of its innocence today and that it will never be the same. Well, that will be decided in the days ahead. But what I know, and what we all know here in this House, is that some things will endure no matter what. This is a great country; it is governed by the rule of law; it is a peaceful country; and it is a great world democracy - no matter what happens, none of those things will ever change.</p>
+<p>As we meet today in this place, in the provincial House, we do so and reaffirm our unbending, enduring commitment to democracy and to peace here in Canada.</p>
+<p>Mr. Speaker, in the days ahead we will also know that today is a day of heroes - the soldier who gave his life in service of his country; the reports of a Sergeant-at-Arms who brought down a shooter inside the Parliament buildings. Who knows how many countless lives he may have saved by putting himself in harm's way?</p>
+<p>Through them we know that those who hate and who commit violent acts will never prevail in our country. So we would like to say thanks to one Canadian soldier today, a Sergeant-at-Arms, as well, and all of those who keep our country safe. Hopefully they will be in a safe place again very soon, all of them. Mr. Speaker, we are a country of peace and freedom thanks to our strong values, which will endure. And thanks to all Canadians who come together, at a time like this, as one.&#xFFFD;</p>
+<p>So, Mr. Speaker, the events are still unfolding, of course. Let us all pray that the loss of life is over, that our colleagues, our fellow citizens, our law enforcement officers will be safe again soon. I will just conclude by saying no matter what, God blesses this great country and all who call her home.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Interim Leader of the New Democratic Party.</p>
+        </speech>
+        <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Thank you, Mr. Speaker. I want to thank the Premier and I want to associate myself with the remarks of the Premier and the Leader of the Official Opposition. I want to start by saying on behalf of the members of this caucus, we want to extend our sincere condolences to the soldier who died today in our capital and also to the soldier who just a few days before as well.</p>
+<p>The world has changed a bit today for Canadians I think, Mr. Speaker. For us here in the Province of Nova Scotia, with a long military tradition, we think first of the men and women who, on a daily basis, put themselves in harm's way on our behalf, and we think about their families and we think about how they must be feeling at this time. We've had some other tragedies; recently in New Brunswick, the RCMP, the loss of the three members of that detachment there. What in the world is our world coming to?</p>
+<p>One of the things that I like to say when I'm in small political gatherings is, we live in a democracy where we battle each other with words, and how much better that is than what the alternative is. I say to people, you need to think about that sometime, that our disagreements are played out in a nonviolent kind of way. But when something occurs like these incidents, we are reminded that we still have a ways to go to promote a different way of learning to live together with our differences in our world.</p>
+<p>It is with profound sadness that we stand here and have to make these remarks today, but we make our remarks from our heart and we make our remarks in unity and in harmony. We are stronger together than we are divided. Ultimately, what unites us is our compassion and our caring for each other, for our province and for our country. No matter what the attacks are, where they come from, that will prevail. I am sure of that and I know that we are all sure of that, Mr. Speaker. Thank you.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>With the unanimous consent of the House, I would like to revert back to the order of business, Introduction of Bills.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p></speech>
+      </ministerialStatements>
+      <debateSection>
+        <heading>INTRODUCTION OF BILLS</heading>
+        <other>
+          <p>
+            <b>Bill No. 50 - Entitled An Act to Amend Chapter 39 of the Acts of 2008. Halifax Regional Municipality Charter. (Hon. Mark Furey)</b>
+          </p>
+        </other>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Ordered that this bill be read a second time on a future day.</p>
+<p>With the unanimous consent of the House, once again I'd like to revert back to the order of business, Government Notices of Motion.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p></speech>
+      </debateSection>
+      <noticesOfMotion>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Justice.</p>
+        </speech>
+        <speech by="#lena.m.diab">
+          <from>HON. LENA DIAB</from>
+          <p>Mr. Speaker, with your consent, I would like to make an introduction before I read the resolution.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>Permission granted.</p>
+        </speech>
+        <speech by="#lena.m.diab">
+          <from>MS. DIAB</from>
+          <p>Joining us today in the east gallery is Mr. Greg MacArthur, who is representing the Truro Police Board. I would ask that you please rise and receive the warm welcome of the House. (Applause)</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Justice.</p>
+        </speech>
+        <speech by="#lena.m.diab"><num title="376">RESOLUTION NO. 376</num><from>HON. LENA DIAB</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas I had the pleasure of attending the Canadian Association of Police Governance conference held in August in Halifax that highlighted several key resolutions; and</p>
+<p>Whereas these resolutions supported important issues surrounding the economics of policing, impaired driving, and mental health; and</p>
+<p>Whereas these resolutions highlighted the importance of many issues that are important not only to police agencies but to government and all Nova Scotians;</p>
+<p>Therefore be it resolved that all members of this House recognize the importance of these resolutions and the work of the Canadian Association of Police Governance.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+      </noticesOfMotion>
+      <questions>
+        <heading>ORAL QUESTIONS PUT BY MEMBERS TO MINISTERS</heading>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The time is now 2:42 p.m. We will conclude at 4:12 p.m.</p>
+<p>The honourable Leader of the Official Opposition.</p></speech>
+        <debateSection>
+          <heading>PREM.: HYDRAULIC FRACTURING - BAN CONFIRM</heading>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, let me just say I know that we all feel like we're going through the motions today, and that's going to include Question Period, but the motions we're going through, by going through them, are making the point that this democracy, this country, this House of Assembly endures, so I will lead off Question Period in that spirit.</p>
+<p>Mr. Speaker, yesterday at the Law Amendments Committee, one thing was made clear by the presenters: that the government's bill to ban hydraulic fracturing does not have the support of either the industry that creates those jobs itself or even other communities. This reflects the confusing way that the government has rolled out this ban.</p>
+<p>Last week the Premier said in this House that the government was not banning anything. His own Minister of Energy stated in a news release that the government is prohibiting hydraulic fracturing. This is another chance to clear up the confusion that has been created.</p>
+<p>I know I asked this before, and we didn't get a clear answer so I'd like to ask the Premier again, very directly. Is the government banning high-volume hydraulic fracturing, yes or no?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, what we have said many times in this House, the Minister of Energy has continued to say and the panel asked us to do, which was to continue to do science, provide research, making sure that we map the province to identify whether we actually have that resource in place, and put in place protocols that would ensure that if down the road we have high-volume hydraulic fracturing in this province, we actually have a conversation about it.</p>
+          </speech>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, again, we want to encourage the government to be clear about what is being banned and what is not being banned. We certainly believe that one of the things that is being banned - we overhear, anyway - is a new way of creating new jobs in the province.</p>
+<p>Hopefully the Premier can continue to shed some light on what his government is banning, because questions have been raised about what exactly "high-volume hydraulic fracturing" is. So I'll ask the Premier, can he share with this House his definition of "high-volume hydraulic fracturing"?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I believe that yesterday the Minister of Energy continued to say that would be part of the conversation that goes forward. It has been very clear that this province is open for business. We are very encouraged by the support that we receive from industries across all sectors. We're excited about providing research grants for university students to provide an opportunity for them to do that work right here in Nova Scotia.</p>
+<p>We're looking forward to making sure that we broaden the apprenticeship opportunities for young Nova Scotians, which will create jobs right here at home. We're continuing to be encouraged by the signs we're seeing from private sector development when it comes to job creation and the development that is happening in and around our province. We will continue to explore the possibilities out there, to ensure whether or not we have the resource that the honourable member is fixated on, to see if indeed that resource is there and if there is a safe way to extract that.</p>
+<p>Mr. Speaker, again, I want to remind all Nova Scotians with the investment by Shell and BP, the entire oil and gas sector - not only in this province or in this country but I had the good fortune of travelling to Scotland and to Asia - are excited about the possibilities of investing in this province and creating an opportunity for not only job growth here but for investment on their part.</p></speech>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I would like to say through you gently, today, that this Party will never apologize for being fixated on new ways to create new jobs for Nova Scotians. The Wheeler report recommendations were very clear. They said to go slow but definitely to go. The Premier says that the government is saying that they are open for business but that is not what people who actually want to create jobs are hearing.</p>
+<p>In Law Amendments Committee yesterday Barbara Pike of the Maritimes Energy Association told our Law Amendments Committee that existing regulations can control and protect onshore gas development if they were allowed to proceed, and of course I would even add that existing regulations can be strengthened as needed. She said that bringing in this bill, amending the legislation, in fact, sends a strong message to industry that this province is closed for business, despite what the Premier just said.</p>
+<p>I will ask the Premier, instead of just using our existing regulations, or even strengthening them and leaving the province open for business, why is he sending such a negative message that we are closed for business, when Nova Scotians need to try new ways to create new jobs?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, first of all I want to thank Barbara Pike for the work that she is doing on behalf of the industry, ensuring that we continue to move forward in the Province of Nova Scotia, but I do want to remind my colleague, the Leader of the Progressive Conservative Party, day after day I have people knocking on my door who want to make an investment in this province, who are making investments, and want to continue to enhance that investment to create job opportunities in Nova Scotia, and we are encouraged by that.</p>
+<p>As well, we are hearing very loudly and clearly from people. They want to invest in LNG in Nova Scotia, they want to invest in the offshore of this province and, Mr. Speaker, they want us to get it right when it comes to hydraulic fracturing in this province, and that's exactly what the Minister of Energy is doing, along with the good work by the people in his department.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Interim Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM. - CDN. FORCES PERSONNEL: RISK - DETAILS</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, my question through you is to the Premier. I understand that the Canadian military bases have been closed, in light of the situation today in our nation's capital. Our thoughts are with everyone affected there, and as the situation continues to unfold, we certainly hope that everyone remains safe.</p>
+<p>CFB Halifax is the largest naval base in Canada and the nation's largest military base in terms of the number of personnel. Approximately two-thirds of the Navy's major ships are home ported in Halifax, and CFB Shearwater in Eastern Passage is another major military facility, considered the home base of naval aviation in Canada.</p>
+<p>In light of the events unfolding in our nation's capital, I want to ask the Premier, could he update the House on any information he has received about the potential risks to Canadian Forces personnel in Nova Scotia?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>I want to thank the honourable member for the question. As I said a few minutes ago in a statement, there is a situation that is continuing to unfold in our national's capital. We have tremendous men and women who are leading our national organizations; one of them, Rear-Admiral Newton, is here in Halifax. I spoke to him briefly today.</p>
+<p>I want to assure all Nova Scotians that the men and women who are in charge of our national institutions have in the forefront of their minds the safety of their personnel, as well as the safety of all Nova Scotians.</p>
+<p>As I said in my remarks and as I said outside of this House, it is incumbent on all of us as Nova Scotians and as Canadians, if we see something happening that we see as suspicious and inappropriate in our communities, that we notify the appropriate authorities. But I want to assure the member opposite that the men and women in uniform have great leadership, who will continue to ensure they do their due diligence and are vigilant to ensure that their safety is paramount.</p></speech>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>Mr. Speaker, I want to thank the Premier very much for his response.</p>
+<p>As we all know, members of the Canadian military do put themselves in harm's way to secure all of us, both here at home and abroad. I wonder, could the Premier tell us if extra security measures have been put in place in the Province of Nova Scotia to ensure that security is enhanced for our military personnel?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, I want to thank the honourable member for the question, but that security threat level is being determined at the national level across all of our collective institutions. Again, I want to say to you that the men and women who are in charge of those national institutions are making that assessment and determination on what the appropriate level of response is, but again I want to say to all Nova Scotians that we have a collective responsibility to ensure that we are vigilant in making sure that the safety - not only of the men and women in uniform - of all Nova Scotians and Canadian citizens is paramount.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the Official Opposition.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM. - GOV'T.: SM. BUS. - CONFIDENCE LEVEL</heading>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, I want to thank the Leader of the NDP for that question and the Premier for his answers.</p>
+<p>We learned today that Halifax fell from 17<sup>th</sup> to 38<sup>th</sup> place on the Canadian Federation of Independent Business' list of places to do business in this country. That fall from 17<sup>th</sup> to 38<sup>th</sup> out of 40 happened all in the past year. Ted Mallett, the CFIB's chief economist says that the downward slide in confidence was noted not just in Halifax, but province-wide. The CFIB is the voice of thousands of Nova Scotia's small businesses.</p>
+<p>I'd like to ask the Premier, why are our small businesses losing confidence in his government?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, while I appreciate the work of the CFIB, as I travel this province men and women who are investing in their businesses in this province are talking about great confidence in the direction this government is taking in terms of ensuring that government gets back to living within its means, making some of the tough decisions that have been put off by successive governments. We know they're not easy, but they're required to do, and it's providing them the confidence to invest in their own businesses.</p>
+<p>We're very much encouraged by the enthusiasm we're hearing from the private sector when it comes to the apprenticeship opportunities and providing them with continued work opportunities. We're excited by the research and development that will take place in this province, and the Minister of Economic and Rural Development and Tourism had an announcement today - but we will be looking at the Graduate to Opportunities program which will be directly linking employment opportunities working directly with the private sector. We continue to be encouraged by what we're hearing on the ground by those who are actually investing in this province.</p></speech>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, I'm sure that our small businesses appreciate the Premier's thanks, but they are still waiting to see this government actually lead by example and live within its means.</p>
+<p>The Ivany report's fourth goal was to generate 4,200 new business start-ups per year; the report today shows that we're getting further and further behind from ever reaching that goal. Nova Scotia's small businesses really want to know, when will the Premier take real action to regain their confidence instead of just study and review issues that are important to them?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I'm sure members of this House, indeed a lot of Nova Scotians, read the Ivany report. There were a couple of those goals that were directly related to government; there were a number related to the private sector; and there was some level of responsibility in some of our public institutions. We've been very encouraged by the word we received early on in terms of research and development and investing in some of the infrastructure that will be required to drive private sector development.</p>
+<p>I want to go back to what I have said many times in this House. It will be the private sector that creates the jobs in this province. It will be our government that works side by side with them, providing them with the infrastructure to help them make that investment, but it will the private sector making that investment to create the jobs in Nova Scotia.</p></speech>
+          <speech by="#jamie.baillie">
+            <from>MR. BAILLIE</from>
+            <p>Mr. Speaker, I will say that of course the private sector is the one that creates the jobs, but they still look to their government for leadership, and banning new ways to create new jobs in this province is not leadership; it is the opposite. Having said that, the government does have a tax and regulatory review underway. Nova Scotia's small businesses have been very clear, year after year, that the biggest issues they face are the tax burden that they pay and the regulatory burden that they have compared to other provinces. I'd like to give the Premier a chance to assure Nova Scotia's small businesses that when that tax and regulatory review reports back, that it will actually contain meaningful tax relief and regulatory relief for them and not just a reshuffling of the old cards.</p>
+          </speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>First of all, I want to say that I don't know what will be in that report. The person who is doing that report will present it to all Nova Scotians and to the government at the time.</p>
+<p>But I do want to assure the member opposite that one of the first things that our government did was work with our sister provinces to harmonize the apprenticeship opportunities, to tear down some of the regulatory pieces that were involved in that. I do want to recognize the member for Cape Breton Centre, who was at the beginning of that work. We continue to go forward. We're continuing to recognize there are barriers that need to be brought down across the entire sector of government to deliver services to people in this province. We're excitedly waiting for the report when it comes forward.</p>
+<p>But I do want to say to the Leader of the Progressive Conservative Party and all members of this House that one of the things that we've heard loud and clear from Nova Scotians is that they want to ensure that the public institutions like public education, public health care, ensuring the most vulnerable citizens of this province are being looked after, Mr. Speaker. They want a balance and that's what this government is going to provide.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle-Barrington.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS: ALTERNATIVE PAYMENT PLANS - ACTION</heading>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Thank you very much, Mr. Speaker. Today in Public Accounts Committee, my colleague, the member for Pictou East asked the Deputy Minister of Health and Wellness about the inexcusable oversights of the alternative payment plans. The Auditor General's Report has identified several concerns with these plans. One example is an audit on a group of alternative payment plan physicians where the results were very negative. This was reported to the department in September 2013, but as of January 2014, no action has been taken yet, and I'll table that.</p>
+<p>My question to the Minister of Health and Wellness is, what action has the minister's department taken to address the findings that there are serious issues with certain alternative payment plans?</p></speech>
+          <speech by="#leo.glavine">
+            <from>HON. LEO GLAVINE</from>
+            <p>Mr. Speaker, I think as the member for Argyle-Barrington knows, there's actually the alternative payment plan with our GPs, especially those now who are working in collaborative health centres, and also there's an alternative payment plan for those in the academic research and clinical, and any combination of those three. At the present time, in fact, there is information going out to all those who are on the alternative payment plans that there is going to be a new agreement coming forward. Also, we know that with that, there has to be some oversight and constant review of that particular payment plan.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont">
+            <from>MR. D'ENTREMONT</from>
+            <p>The Department of Health and Wellness' monitoring of alternative payment plans and academic funding plans to ensure deliverables was described by the Auditor General as poor. That was also in that same report that I tabled. In fact, academic funding plan departments have not always submitted the required deliverable reports and the departments are not following up on missing ones. With findings like that, could the minister please confirm that his department will address these concerns and ensure that Nova Scotians will receive the best value for their money spent on health care?</p>
+          </speech>
+          <speech by="#leo.glavine"><from>MR. GLAVINE</from><p>I know this particular payment plan, whether it's the academic funding plan or the alternative payment plan for GPs is relatively new, and because of that, we know that when the Auditor General did his review, there were indeed some areas that need to have a greater regulatory process, a greater way of having them monitored, to make sure that we are getting value for every dollar.</p>
+<p>We know at the same time that these plans allow for some unique work to go on in our province when you combine clinical research and teaching. However, we do need to make sure that good oversight and that the department is actually on its way as a result of the Auditor General's Report.</p></speech>
+          <speech by="#christopher.a.dentremont"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, the Auditor General's Report detailed that the department "&#x2026; has persistently allowed operators to continue without current contracts." This should not be considered acceptable by this government as it opens up our health system to inefficiencies, harming health care outcomes. In fact, 13 Academic Funding Plans expired before March 31, 2013, and the department has not renegotiated new agreements despite Cabinet approving more money.</p>
+<p>My final question to the minister is, will the minister explain why the department allowed for operators to continue without current contracts?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, again this speaks to the fact of having a provincial plan, the need for consistency and to get all of these plans now under one start date is where our department is heading towards and those negotiations are now underway.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS - CECs: OPENINGS - STATUS</heading>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Mr. Speaker, my question today is for the Minister of Health and Wellness. In the last 12 months, the Liberal Government has not opened a single Collaborative Emergency Centre, nor have they announced any new primary care centres. Primary care centres allow doctors to practise - a variety of health care providers, including nurse practitioners, nurses, social workers - allowing patients to get better care sooner.</p>
+<p>I'd like to ask the minister, why has the minister allowed himself to be distracted by the district health authorities' amalgamation instead of continuing to improve front-line health care by opening more Collaborative Emergency Centres and collaborative practices?</p></speech>
+          <speech by="#leo.glavine"><from>HON. LEO GLAVINE</from><p>Mr. Speaker, I do agree and our department agrees that the CEC model is a very, very valuable part of primary health care. It will continue to expand in our province. As the member knows, any project like when they developed the CECs is only one small part of the work of the minister. We have had, in fact, a number of key initiatives that are well underway.</p>
+<p>Mary Jane Hampton's report - the first draft is now in the department. The final draft is expected within a week. Once that is in place, I can assure the member opposite that there will be new CECs in the future.</p></speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>Mr. Speaker, I hope the minister recognizes that a year of inaction really hurts the health care delivery and services here in the province.</p>
+<p>During the last election, the Liberals promised a doctor for every Nova Scotian this year. Today in Public Accounts Committee, the deputy minister told us this commitment is really not doable and it will be an ongoing work-in-progress.</p>
+<p>My question to the minister, will the minister now admit that this is another promise that he won't be able to keep?</p></speech>
+          <speech by="#leo.glavine"><from>MR. GLAVINE</from><p>Mr. Speaker, I am pleased to say that all we need to do is look at one community alone that's a little bit of a microcosm of the work that we're doing, and that's Digby. Digby went for 10 to 15 years without doctors. We now have three new doctors with a fourth who is coming in place. Underserviced areas like Hantsport and Windsor have a CAPP doctor now who is making a long-term commitment.</p>
+<p>With our tuition relief, we will meet our goal - and as our campaign promised, it was over the course of our mandate, not the first year.</p></speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>I wish I had a copy of the commitment, because I remember seeing a check on year one, Mr. Speaker. And it is great that the minister was able to continue work on those new doctors in Digby because it was an announcement that I made - one of the last few announcements that I made as Minister of Health and Wellness - and there is a lot of work that has been done. (Applause) Thank you very much, no claps from that side.</p>
+<p>In Public Accounts Committee today, when the Deputy Minister of Health and Wellness was questioned about the financial impact of the amalgamation of the boards, he was unwilling to provide any specific numbers. We know that the commitment that the Liberals made, which was that they would see a $13 million savings from the amalgamation, will not be achievable. Now we are over a year since the government has taken over. Can the minister estimate the cost of the district health authority amalgamation for all Nova Scotians?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, I know there will be savings in the first year when the new streamlined structure comes into place on April 1<sup>st</sup>. We know that the saving will be a minimum of $5.5 million. We don't know who will be selected to be part of the operational board at this time. What I can I tell the member and all Nova Scotians is that when this new structure comes into place, and as we transform health care over the next number years, we will have the most integrated, the most efficient and the most cost effective health care system.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM.: STUDENT LOANS/CHILD CARE - ASSISTANCE</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Thank you Mr. Speaker. My question through you is to the Premier. In pursuit of meaningful employment, nearly half of young Nova Scotians take out student loans to access post-secondary education. We know on average Nova Scotian graduates carry the highest student debt load in the country and the elimination of the Graduate Retention Rebate, which was worth approximately $50 million this year, coupled with high cost of child care, is squeezing many young families.</p>
+<p>So my question through you Mr. Speaker, is, what steps is the Premier taking to ensure young Nova Scotian families don't have to choose between paying off their student loans and paying for child care?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, I want to thank the honourable member for the question. We are going to continue to invest in good job opportunities for those students she is referring to. We have invested in research opportunities that will provide them with an opportunity to create employment right here in our province. We are going to continue to invest in graduate opportunities where we work with the private sector, who are actually the job creators in this province, to support them in providing new opportunities for new hires in this province and we are going to continue to ensure that, as we move this province forward, it is sustainable in the long run.</p>
+          </speech>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>One such young Nova Scotian family that has been in contact with my office is Bob and Jessica Parker. They both attended post-secondary institutions with the help of student loans. After securing jobs they were very excited to be able to start a family. Now they are trying to manage the child care payments on top of student loan payments.</p>
+<p>Through you, Mr. Speaker, I want to ask, why hasn't the Premier's government reinvested the tens of millions of dollars it cut from the Graduate Retention Rebate to support young families like the Parkers to be able to stay here in Nova Scotia?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, we continue to invest in economic opportunities, job opportunities for Nova Scotians. I want to remind the honourable member, over the last four years this province had a government that was continuing to spend beyond its means, leaving a financial legacy in their wake that we have to deal with. We have made it very clear to Nova Scotians that we are going bring this province back to balance in a way that is affordable and sustainable in the long run.</p>
+<p>I do want to repeat what I said yesterday. In 2006 the national government of the day was working with provincial governments across this province and territorial leaders to provide a national vision on child care that was voted against by the New Democratic Party because they thought they could win a few more seats.</p></speech>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>Mr. Speaker, the Premier is misinformed about the national daycare program back in mid-2006. He absolutely is. At any rate in 2006, the Premier in Opposition spoke on the issue of affordable child care. He said: I think it is probably the single biggest issue that families are faced with.</p>
+<p>I want to ask the Premier, if child care was the single biggest issue that families were faced with in 2006, how is it that it is not on this government's priority list in 2014 now that they are in a positon to do something about it?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I want to assure the honourable member that it is on our priority list. The difference between 2006 and now is that we suffered through four years of the NDP Party being in power that didn't do anything not only about the issue of child care but continued to run the debt of this province up, continued to leave a financial legacy that they are not even proud of at this moment in time. So we are going to continue to deal with that and invest in it.</p>
+<p>Mr. Speaker, what I again want to remind you, I believe this should be on the national agenda and we are prepared to work with the national government to ensure that we revive the 2006 national daycare program that provincial territories and provincial provinces and Premiers and territorial leaders signed onto to ensure that we deal with this national issue.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou West.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>IMMIGRATION - IMMIGRANTS: RETENTION - ACTION</heading>
+          <speech by="#karla.macfarlane"><from>MS. KARLA MACFARLANE</from><p>Mr. Speaker, my question through you is to the Minister of Immigration. During a speech yesterday a successful Nova Scotia businessman, Ken Rowe, offered the government a cautionary tale about retaining skilled immigrants in Nova Scotia. After recruiting workers from the U.K., Mr. Rowe found that there was only a 50 per cent retention rate. This is not surprising given that so many Nova Scotia's skilled workers are moving out West.</p>
+<p>With no jobs plan in sight, what is the Minister of Immigration doing to ensure the skilled taxpaying immigrants who come to Nova Scotia find meaningful work that allows them to stay in this province?</p></speech>
+          <speech by="#lena.m.diab"><from>HON. LENA DIAB</from><p>I really want to thank the member opposite for the first Immigration question of the season. Indeed immigration is a very important issue in this province and it is one that my government has taken very seriously since coming into office. As the minister I have been doing quite a bit and so - I'm not sure how much time you would like but I would definitely be able to give you a few hours on that.</p>
+<p>I certainly was at Pier 21 yesterday and I was very honoured, and actually humbled, to introduce Mr. Ken Rowe of IMP, a gentleman who has done a tremendous amount of work not only for Nova Scotia but also for Canada. With me were a few of my MLA colleagues as well, about 200 to 300 people.</p>
+<p>We are doing quite a bit of work in this office and I'm going to wait for you to ask me the second question because Mr. Speaker here is saying sit down.</p></speech>
+          <speech by="#karla.macfarlane">
+            <from>MS. MACFARLANE</from>
+            <p>Mr. Rowe also pointed out yesterday that in a unionized environment, new employees like immigrants are often the first to be let go when layoffs happen. That of course is a huge barrier to immigrants requiring a two-year work requirement for permanent residency. What does the minister say to immigrants who come to Nova Scotia who are forced to move West in order to meet the work requirement for permanent residency?</p>
+          </speech>
+          <speech by="#lena.m.diab"><from>MS. DIAB</from><p>First I want to encourage anybody and everybody around the world to look at Nova Scotia as a viable alternative to emigrate here. Not only do we have the people who want to welcome every single immigrant who wants to come to this province, but we're also putting a system together that will ensure that they will stay - and that is something that has been lacking throughout the last number of years and it's something that we're working very hard on.</p>
+<p>More than that, your question, quite frankly, deals with some of the federal legislation and it's not a provincial matter. But having said that I'm working very, very closely with my federal counterpart in order for us to see what we can do in this province to alleviate some of the pain and some of the challenges that new immigrants face.</p></speech>
+          <speech by="#karla.macfarlane"><from>MS. MACFARLANE</from><p>Mr. Speaker, I have a number of immigrants who live in Pictou West and I know they're frustrated like Mr. Rowe expressed his frustration yesterday with this government's inaction in turning around Nova Scotia's economy. He said we should not paint the mast as we have a hole in the boat.</p>
+<p>Considering this government doesn't have the best record in handling boats and the economy, when will the Minister of Immigration demand that her Cabinet colleagues balance the budget, lower taxes, and create an economy where Nova Scotians and new immigrants can build a life rather than heading out West?</p></speech>
+          <speech by="#lena.m.diab"><from>MS. DIAB</from><p>Mr. Speaker, for the record, let me set it straight. I was there yesterday, Mr. Rowe, in fact, said that he was pleased with how this province (Interruptions) No, very true, he was very pleased with how this province and how this government is moving on the immigration front and how we are dealing with not only bringing immigrants, but actually attracting them.</p>
+<p>You're talking to an individual here who is an immigrant herself and has lived and been an immigrant and knows the system. Any of your constituents who have any issues, I'd be happy to have somebody help you and help them through the system as best as we can.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Order, please. I just want to remind the honourable minister not to refer directly to the members opposite in her impassioned comments.</p>
+<p>The honourable member for Sackville-Cobequid.</p></speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS: CAP. HEALTH REVIEW - RECOMMENDATIONS</heading>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Mr. Speaker, my question through you is to the Minister of Health and Wellness.</p>
+<p>A story by Hilary Beaumont, published in <i>The Coast,</i> recently highlighted the need for trauma-informed services in our emergency rooms. This is not a new issue. The story of Rehtaeh Parsons and her experience at the IWK Hospital sparked a review of the child and adolescent mental health and addiction services in Capital Health. When this report was delivered in 2013, in December, the minister accepted all 14 recommendations. And I'll table that.</p>
+<p>Mr. Speaker, through you to the minister, what recommendations, if any, are left to be implemented?</p></speech>
+          <speech by="#leo.glavine">
+            <from>HON. LEO GLAVINE</from>
+            <p>Mr. Speaker, the member opposite is exactly right, this was a very succinct report that gave us a sense of what was taking place in the province, what was also needed. And he is right, the trauma-informed care is the centrepiece of the plan. We know that in the new Garron Centre at the IWK that practice is very much now in use.</p>
+          </speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>Mr. Speaker, in a recent survey the Community Foundation of Nova Scotia found about one in five Nova Scotia high school students in 2012 had seriously considered suicide, and nearly one in 10 have attempted it - really, really sad numbers. One of the recommendations of the IWK report was to increase the number of child and adolescent psychiatrists in the province, which the minister vowed to do - and I'll table that also.</p>
+<p>So my question through you to the minister is, have any of the additional child and adolescent psychiatrists been hired in the province to date?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, again an excellent question because we know that the work we can do with our youth in the province is going to have great long-term gains both for the individual and for our province. We've been able to hire a couple of additional child psychiatrists for the province. However, the big news is that at the present time, the work being done with our teachers across the province is hallmark work as we look at in comparison to other provinces - to date, 800 Nova Scotia teachers, with the goal of quickly adding to those numbers, about early detection of mental health issues, and some of that training is going on today in our province.</p>
+          </speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>Mr. Speaker, I want to thank the minister for updating us on that. I know the teachers and those educators in our province are very committed to ensuring that they are highly educated on mental health, especially children's and adolescents' mental health.</p>
+<p>I've had the privilege to attend symposiums as the Minister of Health and Wellness. I know that Dr. Stan Kutcher has been working with school boards across the province, so I want to thank the minister for that.</p>
+<p>Through you, Mr. Speaker, when can Nova Scotians expect all 14 recommendations from the IWK report to be fully implemented?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, actually, some of the recommendations were an assessment of where we are, as far as, I guess, in comparison to developments in Canada. However, others will be worked on during our mandate, and we're hoping to have a couple of announcements coming very soon that deal with the recommendations made in the report done by Dr. Davidson.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable House Leader for the Official Opposition.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS: CONTINUING CARE STRATEGY - TIMELINE</heading>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, earlier this session I asked the Minister of Health and Wellness about the 100-day review that he announced last January. It has now been 263 days since the review was first announced.</p>
+<p>In a FOIPOP recently received by our office - and it's a briefing note from the minister's binder, I would suggest - it states that the evaluation of the Continuing Care Strategy would not be completed for about 12 to 14 months. I'll table that document.</p>
+<p>That is well beyond the 100-day review that the minister promised last year. My question to the minister is, which is it? Can the minister tell us when we can expect to see the updated Continuing Care Strategy?</p></speech>
+          <speech by="#leo.glavine">
+            <from>HON. LEO GLAVINE</from>
+            <p>Mr. Speaker, what was promised in the 100 days is that we would initiate the work to refresh the Continuing Care Strategy. It was implemented in 2006. There have been a number of key developments in continuing care delivery, especially with what is taking place with delivery in the home care model. So we should have the Continuing Care Strategy, or the first draft, by Spring of this year.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, the document that I did table was as of August 29<sup>th</sup>, so a pretty recent briefing note from your department.</p>
+<p>There are more than 2,500 Nova Scotians waiting on the list for placement in a long-term care facility. These are seniors who have worked and contributed to this province their whole lives. We believe they deserve better. I'm sure everyone in this Chamber believes they deserve better than this. The minister should not tell families that it will be 100 days until a new plan is designed when it will actually be more than a year.</p>
+<p>What can the minister say to families who have a loved one who is on the wait-list for a nursing bed?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, one of the areas in terms of people on the waiting list that is of enormous concern to myself, as minister, and to our department, is that in this year, 2014, we are running at over 30 per cent of those on that list of 2,440 people who, when they were called, refused their first notification to enter a nursing home. We obviously have to correct some of that current process that we are using, but we know that there are a number on that list who do need nursing home care. They are getting to be very frail seniors. Also, we have those who are in hospital who need to move through the acute care facility as well.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont">
+            <from>MR. D'ENTREMONT</from>
+            <p>Mr. Speaker, maybe as a follow-up to that answer, really - if you did the assessment of the 2,500, you did find that there were a number of them who weren't accepting their first placement, what would be the reasonable number today? Is it less than the 2,500? Is it 2,000? There are still a lot of people waiting for long-term care placements. I was wondering if the minister could maybe update, or commit to update at some point during the session, what the real number of Nova Scotians waiting for long-term care placements in this province actually is.</p>
+          </speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Mr. Speaker, I think having that very accurate number that gives a true assessment of those who are literally needing care at the moment is an important evaluation to have. This is one that - we know that it's certainly less than the 2,400, but I will work to provide the member for Argyle-Barrington as to what the real number is now of who should be in a nursing home based on their assessment.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Chester-St. Margaret's.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CCH: HERITAGE OBJECT/TREASURE - DEFINITIONS</heading>
+          <speech by="#denise.peterson.rafuse">
+            <from>HON. DENISE PETERSON-RAFUSE</from>
+            <p>Mr. Speaker, my question through you is to the Minister of Communities, Culture and Heritage. Last week, I asked the Minister of Communities, Culture and Heritage if he was willing to table a list of heritage objects and treasure that has been found thus far on Oak Island. Instead of a substantive response, this House received a flawed response. The minister couldn't even provide factual definitions. My question to the minister is, can the minister educate this House and its members - what is the difference between a heritage object and treasure?</p>
+          </speech>
+          <speech by="#tony.ince">
+            <from>HON. TONY INCE</from>
+            <p>To answer my colleague's question, Mr. Speaker, a treasure is any item that has been altered by man. Any precious stone, metal, any object of that type that has been altered by man is considered a treasure under the Oak Island Treasure Act. A heritage or archaeological object is an object that is typically found on any site in Nova Scotia once people have begun to dig that are usually of historical importance. Thank you.</p>
+          </speech>
+          <speech by="#denise.peterson.rafuse"><from>MS. PETERSON-RAFUSE</from><p>I would like to thank the minister for his answer, because that shows and proves that if an object such as a menorah was found and it was made of metal, and one of the oldest Jewish faith symbols, was found on Oak Island, then it could be taken from the province and belong to the treasure hunters. If it was a Shakespearean goblet, it would be the same.</p>
+<p>My second question is through you to the Minister of Natural Resources. The Oak Island Treasure Act does not state that any process must be followed by a licence holder to protect any heritage objects that may be recovered during explorations for treasure. So my question to the minister is, what, if any, are the proper protocols or procedures a licensee must take when a heritage object is discovered from Oak Island to ensure preservation?</p></speech>
+          <speech by="#zach.churchill">
+            <from>HON. ZACH CHURCHILL</from>
+            <p>Mr. Speaker, according to the law of the land in Nova Scotia, according to the licence that we've signed with the licensee, any object that is found of historical significance to the province needs to be delivered to the province after we're informed of it and it will be assessed by our experts to deem its value to the province.</p>
+          </speech>
+          <speech by="#denise.peterson.rafuse"><from>MS. PETERSON-RAFUSE</from><p>Thank you for the answer. As the minister knows, it would be assessed at its value but it would be considered - once again, if it was the menorah made out of metal - it would be considered a treasure and the permit allows that to be removed from the Province of Nova Scotia.</p>
+<p>My question, Mr. Speaker - I would like to mention that last week I informed the Minister of Natural Resources that his fellow Minister of Communities, Culture and Heritage signed a letter that I tabled, which stated a recommendation by the minister to the licence holders to have an archeologist be present during their further explorations of Oak Island. This was because of the discovery of heritage objects by the licence holders who voluntarily produced these items to the Department of Communities, Culture and Heritage.</p>
+<p>My question through you, Mr. Speaker, is will the Minister of Natural Resources amend the Oak Island Treasure Act to ensure that anything recovered on Oak Island is monitored by an archeologist and remains preserved until the Department of Communities, Culture and Heritage has a chance to determine if it is historically valuable to the culture and heritage of Nova Scotia?</p></speech>
+          <speech by="#zach.churchill"><from>MR. CHURCHILL</from><p>Mr. Speaker, when we enter into a licensing agreement with someone who is coming in and supporting a community economically, who is doing things that are bringing positive attention to the Province of Nova Scotia, we do that with the assumption that they are following the rule of law.</p>
+<p>In this particular case these licence holders have been doing that. They have been co-operating with the province and acting in great fairness with what they are doing. Mr. Speaker, if there is anything happening that shouldn't be - they are obviously filming this, so it will be captured on film and we will see it later on.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings North.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>ENERGY - HYDRAULIC FRACTURING: JURISDICTIONS REVIEW - LIST</heading>
+          <speech by="#john.a.lohr"><from>MR. JOHN LOHR</from><p>Mr. Speaker, my question is for the Minister of Energy. The minister plans to ban high-volume hydraulic fracturing in the province. The minister and his government must have had an approximate definition of what this would be when they made this announcement, whether it is a measurement of pressure, water use, quantity of natural gas produced or quantity of chemicals used in the fracturing fluid.</p>
+<p>I assume the minister has reviewed the definition of this term in other jurisdictions. My question for the minister is, could the minister detail what jurisdictions the Department of Energy has reviewed when forming an idea of what high-volume hydraulic fracturing means?</p></speech>
+          <speech by="#andrew.younger"><from>HON. ANDREW YOUNGER</from><p>Mr. Speaker, I am happy to answer the question. In fact he could have asked his own Party Leader who stood at the press conference when I answered this very question, right across in the Red Room. (Interruptions) I did actually answer it. I'll name some of them; it is a fairly widely used term: New York, New Brunswick, Newfoundland and Labrador, Quebec, and Alberta also use the definition; Oklahoma uses the definition; Texas uses the definition; and Pennsylvania uses the definition. We have actually met with all - oh, West Virginia is using the definition as well.</p>
+<p>Mr. Speaker, the member just asked for which jurisdictions we were looking at, those are just some of the ones we have been looking at.</p></speech>
+          <speech by="#john.a.lohr"><from>MR. LOHR</from><p>Thank you, Mr. Speaker, for that answer from the minister. The reason I asked this is because it raises the question as to whether or not there is such a thing as low-volume hydraulic fracturing. It appears that no one is happy with this legislation; the industry is criticizing the ban and environmental groups are aware that there is the possibility of medium- or low-volume hydraulic fracturing.</p>
+<p>Mr. Speaker, my question to the minister is, if the regulations are to ban high-volume hydraulic fracturing, will it permit other forms of hydraulic fracturing for unconventional natural gas in Nova Scotia?</p></speech>
+          <speech by="#andrew.younger"><from>MR. YOUNGER</from><p>Mr. Speaker, I'm not terribly sure what is so confusing. I'm going to quote from the press release of April 16, 2012. I have said - in fact I was on CBC News three hours after I was sworn in as the minister and I was asked whether anything we would consider would go beyond the moratorium that had been put in place by the previous government. I said it would not and I will quote from their release at the time, which explained it. It says, "Hydraulic fracturing is a technique used to extract gas and oil from shale by using pressure, chemicals and large volumes of water that has been controversial in Nova Scotia &#x2026;" and it goes on to other things.</p>
+<p>Mr. Speaker, it talks about the formations, which is shale. It talks about the fact that it is only the hydraulic fracturing using large volumes of water - that is the only moratorium that has been in place in this province. That is what this bill covers, that is the moratorium that has been in place, and I've been saying that since just hours after I was sworn in.</p></speech>
+          <speech by="#john.a.lohr">
+            <from>MR. LOHR</from>
+            <p>Will the minister then confirm that medium-volume and low-volume hydraulic fracturing will be permitted in the province?</p>
+          </speech>
+          <speech by="#andrew.younger">
+            <from>MR. YOUNGER</from>
+            <p>Mr. Speaker, "high-volume hydraulic fracturing" is an accepted term. I am not aware of a technique called low-volume hydraulic fracturing, or medium-volume. I know he's trying to be funny, but "high-volume hydraulic fracturing" is actually used in the regulations in a number of U.S. and Canadian jurisdictions. I realize that he's trying to be funny and cute, but the reality is that the reason that phrase is used is because that is an accepted phrase in the regulations, and the government is trying to be clear. Because the actual water volumes and chemical types in that varied slightly among different jurisdictions, we were also clear that there is a public comment period for two months, plus then posting for 30 days, so that people have the opportunity to comment as it compares to other jurisdictions and provide input.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>SNS - HARP: FUNDING REDUCTION - EXPLAIN</heading>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>My question is for the Minister of Service Nova Scotia. Mr. Speaker, this week our caucus confirmed that the application forms for the Heating Assistance Rebate Program, better known as HARP, will be issued next week. I'm sure I'm not the only member of this House who has already received numerous calls from constituents asking when these forms will be made available.</p>
+<p>In this year's budget, the money set aside for HARP is set at $11.6 million, down by approximately $800,000 from the previous year. I'd like to ask the minister, can the minister tell this House what changes are being made to HARP that account for this $800,000 reduction in funding?</p></speech>
+          <speech by="#mark.furey"><from>HON. MARK FUREY</from><p>I appreciate the question from my colleague - a two-part question. The first piece, for the benefit of the members of the House and their constituency assistants: HARP will be available on October 30<sup>th</sup> via online application, as well as the opportunity to receive applications at many government offices, including Access Nova Scotia, and a mail-out to each and every one of the MLA constituency offices. In addition to that, for those who were in the program in the past, prepopulated forms will be sent to those individuals directly through the mail.</p>
+<p>The second part to my colleague's question refers specifically to the reduction in the budget. Obviously, Mr. Speaker, this government has taken on a very important responsibility of being fiscally prudent in how we provide government services. In these circumstances the $11.6 million that my colleague has referred to is a reflection of the money that was utilized in the program this past year - about 46,400 applicants. We anticipate similar numbers this year, and we believe that the budget allotted will reflect appropriate funding to support the program.</p></speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>In 2012, during Public Accounts, the executive director of Program Management and Corporate Services for Service Nova Scotia and Municipal Relations told the House, "&#x2026; as we approach the Fall, there's a review done on the program, and things such as the price of oil, the price of electricity, and so forth are considered. We look at our budget situation and options are presented for consideration. Basically from there, program parameters are set or maintained."</p>
+<p>My question for the Minister of Service Nova Scotia is, can he tell the House what the results of this year's review were, and were any changes recommended for the program parameters?</p></speech>
+          <speech by="#mark.furey">
+            <from>MR. FUREY</from>
+            <p>The program review was completed within the department. Other than the budget allotted for the program, there were no other changes made to the program. The program itself is designed to help those qualifying low-income Nova Scotians to pay for any type of heat, and the funding available at this time remains at $200 per applicant.</p>
+          </speech>
+          <speech by="#david.allan.wilson">
+            <from>MR. DAVID WILSON</from>
+            <p>Mr. Speaker, this winter people heating their homes with natural gas, wood pellets, and in particular firewood, are going to see a sharp increase in their energy costs. Firewood, for example - we've seen increases over $20 a cord. My question to the Minister of Service Nova Scotia is, why won't the minister consider adjusting the HARP program this winter to reflect the increased costs many low-income households are facing to heat their homes?</p>
+          </speech>
+          <speech by="#mark.furey">
+            <from>MR. FUREY</from>
+            <p>Mr. Speaker, included in the review are the circumstances that my colleague has referenced, the increased price in fuel. There are multiple fuel options available to homeowners. They tend to choose the most efficient method of fuel source. In these circumstances we believe the $200 allotted per applicant remains a reasonable amount.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>MUN. AFFS.: PROV.-MUN. FISCAL REVIEW - IMPLEMENTATION</heading>
+          <speech by="#allan.gerard.macmaster">
+            <from>MR. ALLAN MACMASTER</from>
+            <p>Mr. Speaker, my question is for the Minister of Municipal Affairs. Nova Scotians are digesting the provincial-municipal fiscal review. One of the recommendations was a requirement for rural municipalities to pay full cost recovery to transportation for roads covered under the service exchange. Can the minister explain exactly how this might work?</p>
+          </speech>
+          <speech by="#mark.furey">
+            <from>HON. MARK FUREY</from>
+            <p>Mr. Speaker, I thank my colleague for the question. The recommendation that my colleague has referenced is simply just that, a recommendation. The opportunity now is to go out to municipalities and stakeholders and to inquire of them and solicit from them the methods and opportunities to implement not only this recommendation but any one of the 41 recommendations in the report.</p>
+          </speech>
+          <speech by="#allan.gerard.macmaster">
+            <from>MR. MACMASTER</from>
+            <p>Mr. Speaker, if it is how I understand it to be, I am actually concerned about this because I know in Inverness County we have about 2,000 kilometres of roads and this would represent a major new expense for property owners in the area I represent. If this recommendation is accepted, would it not lead to property tax increases for people living in these rural municipalities?</p>
+          </speech>
+          <speech by="#mark.furey">
+            <from>MR. FUREY</from>
+            <p>Mr. Speaker, to my colleague's question, I think from my perspective it would be premature to draw any conclusions as to what the outcomes may be of the recommendations. What is important at this time is that we hear from our elected municipal officials and through them community stakeholders to consider the very points that my colleague has mentioned so that when the report is complete and returned to the steering committee, we will have an informed document that really outlines the objectives and the challenges that my colleague has referenced.</p>
+          </speech>
+          <speech by="#allan.gerard.macmaster">
+            <from>MR. MACMASTER</from>
+            <p>Mr. Speaker, I would like to thank the minister for his answers. One point - I know I've raised it already a couple of times in this sitting - one thing that I think would compound this potential problem for rural municipal governments is the fact that the RIM budget five years ago was cut in half. I know there are many MLAs in this Chamber who know what that means: it means less ditching and gravelling and patching and brush cutting. I know we get calls about that sort of thing all the time, at least I do in my constituency office. I know over the past five years rural roads have not been maintained as well as they could have been because of that budget reduction. Is the minister concerned that rural municipalities will be taking over roads that will require more future investment because the government continues to choose to invest less in these important investments in our roads?</p>
+          </speech>
+          <speech by="#mark.furey">
+            <from>MR. FUREY</from>
+            <p>Mr. Speaker, as I indicated earlier the objective of the fiscal review and its dissemination to our municipalities is to solicit this type of feedback and be very clear on how municipalities see the recommendations impacting them. I want to assure my colleague, the member for Inverness that I met with the council in Inverness and I know they have concerns, and obviously roads are one of them. I believe we are best informed to allow the fiscal review process to run its course and I anticipate that we will find solutions not only within the road spectrum, but across the broad spectrum of municipal services that will make municipal government more affordable, based on the efforts of this government to be fiscally responsible.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Northside-Westmount.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS - NORTHSIDE GEN. HOSP.: DOCTORS' LETTERS - RECEIPT CONFIRM</heading>
+          <speech by="#eddie.orrell">
+            <from>MR. EDDIE ORRELL</from>
+            <p>Mr. Speaker, my question is to the Minister of Health and Wellness. Last week I asked the Minister of Health and Wellness about a letter written by 20 local doctors on the Northside expressing concerns about the situation at the Northside General Hospital. My question to the minister is, now that the minister has had time to consult with his colleagues and his department, could he provide any update on whether or not he received that letter?</p>
+          </speech>
+          <speech by="#leo.glavine">
+            <from>HON. LEO GLAVINE</from>
+            <p>Mr. Speaker, I'm pleased to say that the department has received that letter and an appropriate response will be going forward.</p>
+          </speech>
+          <speech by="#eddie.orrell">
+            <from>MR. ORRELL</from>
+            <p>Through you, Mr. Speaker, thank you to the minister for that answer. While we believe that updating technology in our hospitals is important, it is also important we do not overlook the concerns and challenges that face the front-line health care workers and what they highlight. So my question to the minister, will the minister table his response to the letter written by the local doctors on the Northside?</p>
+          </speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>Thank you for the question and, Mr. Speaker, I don't see any reason why that can't be tabled in the House. It's information that is showing some of the concerns that are now very much on the minds of the clinical team at Northside General, and we will do that for the member.</p>
+          </speech>
+          <speech by="#eddie.orrell"><from>MR. ORRELL</from><p>Thank you, Mr. Minister. Last week the minister indicated that he would be travelling to Cape Breton to visit the health authority later on this Fall. I believe it would be very beneficial to the people of the Northside if the minister met with health care professionals while he was there, and not simply the health care authority representatives.</p>
+<p>Mr. Speaker, many people in my area are nervous about the decline of the services and frequent closures at the Northside General. It is important that the minister take these concerns of the community and professionals very seriously. I'm getting a lot of calls from local residents about these issues as well, so my question to the minister, will the minister commit to meeting with the front-line health care workers from the Northside General and the community when he visits Cape Breton, following this House session?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>I'll thank you for the question, and Mr. Speaker, I can assure the member opposite that, just like the provincial tour that I did where I've already met with some of the medical team that worked at Northside, when we do go down to Cape Breton and review the Northside General's situation they are facing, I'm prepared to meet with the chief of staff all the way to the kitchen staff.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Hants West.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TIR: RAP - STORAGE LOCATION</heading>
+          <speech by="#chuck.porter"><from>MR. CHUCK PORTER</from><p>Thank you, Mr. Speaker. My question through you will be to the Minister of Transportation and Infrastructure Renewal.</p>
+<p>As most members in this House and most Nova Scotians have known the condition of our roads, we would all like to have more and I'm sure that minister would like to be able to give us more, but my question is, with regard to - when major reconstruction work is done, generally we see our highways being pulverized, the recycled asphalt and I'm wondering, as part of the tendering process is that allotment of recycled asphalt or RAP, as we know it, going with the contractor or being stockpiled at local DOT operation centres?</p></speech>
+          <speech by="#geoff.maclellan"><from>HON. GEOFF MACLELLAN</from><p>I thank the honourable member for the question. It is being stockpiled. Part of the tendering process for those road builders is that we get access to the RAP, so we have about 200,000, give or take, tons of RAP stockpiled at this point. Basically we keep them at our depots that are closest to the respective capital jobs that are happening, so it's generally spread throughout the province at this point, but we do use it, as the member would know - he's a big proponent of the RAP program and using it.</p>
+<p>We use it for shoulders, we mix it with the gravel content to strengthen up the gravel roads, and of course we use it for hot-patching. It's one of those recycle pieces that provide a lot of distance and a lot of mileage for Nova Scotians, so it's a good question. It's an important piece of our mix as we try to keep the roads in decent shape. (Applause)</p></speech>
+          <speech by="#chuck.porter"><from>MR. PORTER</from><p>I thank the minister for his answer - and he's correct, I am a big proponent of the use of the RAP material. It holds up well. People are generally happy with it on what used to be - probably 25 or 30 years ago - paved, or constructed at that time with what was then recycled asphalt as well.</p>
+<p>So my final question to the minister is, will we see a policy change, given that this holds up so well, some consideration for a policy change, perhaps, around more of this RAP material being put directly on roads that are well-built, that could sustain it and make quite a bit of difference given that it's probably becoming more difficult, as the years go by, to get some of these roads that probably won't see asphalt for a good many years to come?</p></speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, again I thank the member - certainly a valid point for us. When we use the RAP we put it in our asphalt mix so it basically reduces the cost per mix by about 25 per cent so it adds tremendous value for the particular asphalt mix that we are working on at that time.</p>
+<p>Certainly it does help and it is a valuable additive for the gravel roads but again, we basically use it when it is required. There is lots of patching required in the Spring; it is valuable for that. Again, strengthening the shoulders, as the member would know, once you break the back, so to speak, of a gravel road, you are in trouble. Strengthening those shoulders by way of the RAP mix is important.</p>
+<p>I think that a policy change with respect to how we use it is particularly interesting, given the fact that we are going to do our best to maintain the capital program. As those capital projects take place, more RAP is produced, and then we can use it for those particular uses. It is certainly something we will take to the department. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Queens-Shelburne.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TIR: HWY. IMPROVEMENT PROJECTS - DETAILS</heading>
+          <speech by="#sterling.belliveau"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, my question is to the Minister of Transportation and Infrastructure Renewal. First of all, I would like to offer my sincere condolences to the family members of the victim of last week's collision near Marshy Hope. The death of that young man is a reminder of how dangerous highway driving can be.</p>
+<p>Last week the minister announced 22 highway improvement projects on our 100-Series Highways. Seven of those projects are slated to happen on the eastern part of Highway No. 104 between Pictou and Antigonish. Mr. Speaker, will any money identified for those seven projects be used to twin the highway between Sutherlands River and Antigonish?</p></speech>
+          <speech by="#geoff.maclellan"><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, I would like to thank the member for the question and certainly on behalf of the government I join him in offering our condolences to the victim's family and friends. These are certainly tough times for our department. We do our very best to make those infrastructure improvements and enhance our roadways so people are safe. Accidents happen and fatalities happen. It is certainly a tough time not only for the province but for those individually impacted, so again our condolences.</p>
+<p>With respect to the $50 million announced jointly by our government in conjunction with the federal government, those projects are specifically for repaving of the 100-Series Highways. Obviously there is a set schedule for that highway repaving. We do that as part of our capital plan. It's all engineering science that we use to resurface those roads.</p>
+<p>This particular roadway is not part of any twinning component. For us, though, we have recently met with Barneys River Fire Chief Joe MacDonald, who has been a tremendous advocate for that area. He is one of the first responders - he and his crew. They are there on the scene on Highway No. 104 and have been for the last number of years. He has certainly seen some tough things and we take his opinion and his advice seriously.</p>
+<p>What we committed to when we met with Joe in the summer was a complete study of the corridor between Sutherlands River and Antigonish to see what changes we can make. There are a number of challenges there, without question, but we are conducting that study. It will begin in the next few weeks. It will be completely finished in February so we will know exactly what kind of changes and measures we can take. When that is the case, we will certainly make that available to the public. We are going to do our best to improve safety in that corridor.</p></speech>
+          <speech by="#sterling.belliveau">
+            <from>MR. BELLIVEAU</from>
+            <p>Mr. Speaker, we know how expensive and time-consuming twinning a highway can be but the 14 highway deaths in the last five years between Sutherlands River and Antigonish is a call to action. If there are no plans to twin that stretch of the highway in the immediate future, can the minister tell us what is planned to improve the safety of that stretch of road in the near future?</p>
+          </speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, the study we are going to undertake is going to give us some of those answers with respect to how we manage this area. As the members for Pictou would know in particular, I myself driving that stretch with other MLAs twice per week - there are a number of challenges. It is not even as simple as a twinning. It requires a complete realignment because of the mountains, because of the water, because of the railway system that runs through there.</p>
+<p>There are a number of challenges with respect to that Highway No. 104 corridor and the safety study is going to give us an indication as to where we go from here. We have committed to that for Joe and for the people who have been impacted in that area and we're going to do our best to make it safer. Thank you.</p></speech>
+          <speech by="#sterling.belliveau">
+            <from>MR. BELLIVEAU</from>
+            <p>I want to thank the minister for his answers and I know the public interest is very keen on this particular question. We know there are many ways to improve highway safety in addition to twinning our major highways. Mr. Speaker, through you, of the $50 million announced last week for highway projects, exactly how many of those dollars will be spent on non-surface safety improvements like rumble strips, brush cutting, or highway dividers?</p>
+          </speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, that $50 million that was announced last week is entirely for the 100-Series resurfacing. The brush cutting and all those other functions that we do are still part of the department. We have a significant budget because they are significant endeavours that we do to keep people safe, so all of those play a role in road safety. There are a number of factors that play a role in keeping people safe and getting them home alive, and we take that very seriously.</p>
+<p>With respect to the repaving, we have to do that. That's part of the schedule of the 100-Series Highways, and that in turn saves lives. When our highways are safe and there is good paving there, it gets people home safely as well. All of these are part of the mix. It's certainly a challenge. We want to keep people safe, and we'll continue to make those investments on behalf of Nova Scotians to get them home alive.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TIR - HWY. NO. 104: REVIEW - DETAILS</heading>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>Thank you, Mr. Speaker. My question is also for the Minister of Transportation and Infrastructure Renewal, about Highway No. 104. Since 2009, we have lost 14 individuals in tragic accidents along this stretch of highway. It is a subject that I - and I know the minister has as well - have spoken quite a bit about to my friend Joe MacDonald, the fire chief in Barneys River.</p>
+<p>The minister did reference on the weekend and again today that the safety review is about to start, and be finished in February, I think. I wonder if the minister can shed just a little bit of light on the safety review, what it involves, and maybe what the terms of reference for it might be?</p></speech>
+          <speech by="#geoff.maclellan"><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, thanks to the honourable member for that question. To sum it up, it essentially involves everything. We have three engineer groups that are bidding on that specific contract. What they've been mandated to do is go into that area, from the entire Sutherlands River to Antigonish - basically, the area identified by Joe and others in terms of the safety challenges and the accidents and collisions and of course fatalities that have taken place in that corridor.</p>
+<p>They're going to look at everything from the road alignment - which, again, I think will play a very significant role in this - to all of the other safety factors like rumble strips, the shoulders, the speed limit - all the components that go into safe driving. Whatever improvements it can be, whether it be realignments, some widening, some signage, increased visibility, that's what we're going to look at. So it's going to encompass everything that makes the roadway safer.</p></speech>
+          <speech by="#tim.houston">
+            <from>MR. HOUSTON</from>
+            <p>I'm very pleased to hear that, actually. On my final supplemental, I'll just ask if Jersey barriers are a possibility that will be reviewed along that stretch as well?</p>
+          </speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Certainly. I think as the member knows, Jersey barriers are great to reduce head-on collisions, which have been a factor in the issues in the Highway No. 104 corridor. So everything will be considered, and when that study is finally completed, I'd be happy to share it with the member. I know that he has constituents and many people in his region that would be interested.</p>
+<p>This is not a partisan issue. We're trying to keep people safe and keep them alive, so we're going to do our best to put that information out to Nova Scotians. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings North.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>NAT. RES. - FIREWOOD: AVAILABILITY - PLANS</heading>
+          <speech by="#john.a.lohr"><from>MR. JOHN LOHR</from><p>Thank you, Mr. Speaker. My question is for the Minister of Natural Resources. As we're going into the Fall, many people are looking for heat, and unfortunately, numerous individuals in this province remain without firewood. The minister has said in this House of Assembly in the past 10 days that tenders for firewood have been put out by his department, but there have been no bids received. Such a statement provides little comfort for Nova Scotians looking for firewood for heating this winter.</p>
+<p>Mr. Speaker, my question for the minister is, will the minister explain what other measures he has taken in the past two weeks in an attempt to ensure that people will have firewood and will not be left out in the cold this winter?</p></speech>
+          <speech by="#zach.churchill"><from>HON. ZACH CHURCHILL</from><p>Mr. Speaker, I appreciate the question. Obviously, we've heard concerns from community members in various parts of the province around their ability to access affordable hardwood for firewood purposes.</p>
+<p>It needs to be made very clear that 80 per cent of wood supplies come off of private lands in the Province of Nova Scotia. The challenges that we're facing in the marketplace right now are related to the contraction in the forestry sector. There are fewer contractors cutting wood, fewer people getting that wood to market, and other market forces that are taking on hardwood in the province. Our ability to intervene in this particular market situation is limited.</p>
+<p>What we have done, as the member mentioned, was try to open up more Crown land for hardwood harvesting, which we did do. We were successful in a number of counties to have bids and I hope that flow of Crown wood has supported the current situation. Unfortunately in three counties, in particular in the western part of the province, there were no bids and that speaks directly to the number-one problem that we are facing and that this is a contract-capacity issue.</p></speech>
+          <speech by="#john.a.lohr">
+            <from>MR. LOHR</from>
+            <p>Mr. Speaker, thank you to the minister for the answer. The minister can talk about tenders not being bid on and the lack of contractors to cut and saw wood but such answers do little for Nova Scotians who are anxiously awaiting firewood to heat their homes. We all know how expensive fuel oil and other sources of heat are. Has the minister held discussions with the officials in his department or human resources about making plans to find contractors here who will cut the wood?</p>
+          </speech>
+          <speech by="#zach.churchill">
+            <from>MR. CHURCHILL</from>
+            <p>Mr. Speaker, yes we have. An ongoing issue in our department is this contracting issue so we partnered with the forestry association; we deal with the wood cutters and we are working on education plans to help inform the population, young people who are out there coming up through the education system, that there are hopefully some opportunities in the forestry sector, but we are primarily focused on turning the corner in that forestry sector, getting it to a position where it is sustainable, where it is thriving, where it is supporting our rural economies and obviously an increased capacity in contracting is going to be a part of that.</p>
+          </speech>
+          <speech by="#john.a.lohr">
+            <from>MR. LOHR</from>
+            <p>Mr. Speaker, firewood is in very short supply. We know that Great Northern Timber in Sheet Harbour and Scotia Atlantic Biomass Co. Limited in Upper Musquodoboit are consuming large amounts of wood fibre, largely for export to the European markets. Ian Ripley, General Manager of Athol Forestry in Cumberland County, says large amounts of hardwood are headed to pulp mills in Saint John, New Brunswick, and Northern Pulp. This is my question: Access Nova Scotia has a list of at least 14 firewood vendors; has the minister spoken to his Service Nova Scotia counterpart to see if those firewood vendors might possibly be able to help with the present shortage?</p>
+          </speech>
+          <speech by="#zach.churchill">
+            <from>MR. CHURCHILL</from>
+            <p>Mr. Speaker, our staff have reached out to almost every single player, I believe, in that particular sector. We are very open to ideas, if there are other ways that government can be involved in improving the current market condition. I know this has been an issue that has been brought up by members of the Opposition. I would be happy to entertain any ideas or potential solutions that they might have.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou Centre.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TIR - C.B. &amp; CENT. N.S. RAILWAY (NEW GLASGOW LINE): INSPECTION - DETAILS</heading>
+          <speech by="#patrick.dunn">
+            <from>HON. PAT DUNN</from>
+            <p>Mr. Speaker, my question is for the Minister of Transportation and Infrastructure Renewal. Just recently a couple of members from his department and a member from the company office in Halifax, of Cape Breton &amp; Central Nova Railroad, had an opportunity to look over the line going through the Town of New Glasgow. I appreciate the minister for arranging that - that they had an opportunity to see that. My question to the minister is does the minister have any update to share with that particular day?</p>
+          </speech>
+          <speech by="#geoff.maclellan"><from>HON. GEOFF MACLELLAN</from><p>Mr. Speaker, as the member knows, our department is connected with Genesee &amp; Wyoming to do a tour of not only the Hopewell line, which is the mainland line around the New Glasgow area, as well as some of the specific concerns that were being shared by the Town of Port Hawkesbury. There will be a formal report based on that trip. Certainly we will make that available to the member who has been interested in this file.</p>
+<p>Just on the on-site inspection, things were in compliance as we had indicated and as was the suggestion based on the Transport Canada report of August. Certainly that is just the visual inspection; we will wait for the real materials and when they are available we will make them available here for the House to take a look at.</p></speech>
+          <speech by="#patrick.dunn">
+            <from>MR. DUNN</from>
+            <p>Mr. Speaker, the rail lines through that particular area and other areas of the province - I've talked to a number of people who are aware of the condition of some of the rail lines with rotten ties, missing spikes, steel fragments on the edge of rails and so on. My question to the minister is, is the minister considering taking any action to improve the state of our rail lines in the province?</p>
+          </speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, when the issues became very public about the New Glasgow corridor and the Hopewell line, we reached out to the municipality, both in New Glasgow as well as in Port Hawkesbury. We want to understand what the issues are.</p>
+<p>There are three different levels of inspection and compliance with respect to the operator themselves, Transport Canada, and a completely independent audit of the line. From the compliance perspective, both lines that we have in the province, they do meet the regulations as identified by the Railways Act. However, for us that wasn't enough, given the realities of Lac-M&#xE9;gantic and the tragedies that have taken place on some of our rail lines in this country. We want to make sure that we are leaving no stone unturned.</p>
+<p>The member had mentioned some specific areas. We checked them out; the Town of Port Hawkesbury did the same. We took a look. At the end of the day, we can only react to the information we're getting. At this point, everything seems to be in compliance, but again, we're going to wait for that report. If there's anything we can do to improve safety, we're going to do that for sure.</p>
+<p>I appreciate the member's question and if he has any information from experts, we'll take it and take it under advisement, without question. Thank you.</p></speech>
+          <speech by="#patrick.dunn"><from>MR. DUNN</from><p>I thank the minister for that answer. What worries me is with the compliance and the regulations that are in place that most people follow, I think they should be strengthened. When we look at our rail system, in the New Glasgow area itself this year, we had three derailments. One of them was on the very beginning of the downtown core of New Glasgow where a couple of cars fell off. We had another derailment out in West River where some cars were carrying propane and butane. If you read the reports, Mr. Speaker, the two cars that exploded out in Saskatchewan were carrying propane or butane, the chances for a disaster in downtown New Glasgow are great, I think, because of where the rail is going through.</p>
+<p>My question to the minister is, will the minister consider improving the compliance level used by the inspection system?</p></speech>
+          <speech by="#geoff.maclellan"><from>MR. MACLELLAN</from><p>Mr. Speaker, I thank the member for that question. For the most part, Transport Canada sets those guidelines for us. We're the regulator, so we enforce the Act and we will continue to do that.</p>
+<p>Without question, when you see the derailments on lines that are seemingly in compliance, it's a concern. Again, any information that we have that we can strengthen the rail lines that we have in this province, certainly we're going to do that. I think that once we have the report of the recent visit by our Transportation and Infrastructure Renewal officials with Genesee &amp; Wyoming, we'll take all the recommendations under consideration.</p>
+<p>Again, it will be for the public to share. We can have that dialogue publicly. At the end of the day, we want to make our rail lines safer and we'll do that to the best of our abilities.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle-Barrington.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>AFFAIRES ACADIENNES: ASSEMBL&#xC9;E G&#xC9;N&#xC9;RALE DE FANE - PR&#xC9;SENTATIONS</heading>
+          <speech by="#christopher.a.dentremont">
+            <from>HON. CHRISTOPHER D'ENTREMONT</from>
+            <p>Merci beaucoup, M. le Pr&#xE9;sident. J'aimerais peut-&#xEA;tre - sur le week-end, la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse va prendre place leur assembl&#xE9;e g&#xE9;n&#xE9;rale. Donc, peut-&#xEA;tre je peux demander la question au ministre des Affaires acadiennes, s'il pourrait peut-&#xEA;tre parler de ce qu'il veut pr&#xE9;senter &#xE0; la F&#xE9;d&#xE9;ration acadienne ce week-end.</p>
+          </speech>
+          <speech by="#michel.p.samson">
+            <from>HON. MICHEL SAMSON</from>
+            <p>M. le Pr&#xE9;sident, &#xE0; la fin de semaine, la F&#xE9;d&#xE9;ration acadienne aura l'occasion d'avoir leur r&#xE9;union annuel. C'est toujours une occasion pour eux &#xE0; partager avec nous, comme membres du gouvernement, quels sont les d&#xE9;fis et quels sont les projets sp&#xE9;cifiques que la F&#xE9;d&#xE9;ration veut faire adresser au nom du gouvernement. Je continue &#xE0; travailler tr&#xE8;s proche avec la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse et les autres organismes de la communaut&#xE9; acadienne. J'attends de voir vraiment qu'est-ce que c'est les diff&#xE9;rents projets qu'ils voudront discuter &#xE0; la fin de semaine. Merci.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont">
+            <from>MR. D'ENTREMONT</from>
+            <p>On sait qu'un des projets que la F&#xE9;d&#xE9;ration acadienne travaille dessus, c'est la question des districts dans les r&#xE9;gions du sud-ouest, la r&#xE9;gion de Richmond - on sait bien les districts. Donc, je veux demander au ministre, si possible, s'il va prendre cette discussion avec la F&#xE9;d&#xE9;ration acadienne quand &#xE7;a vient &#xE0; leurs appels juridiques qui s'en viennent.</p>
+          </speech>
+          <speech by="#michel.p.samson">
+            <from>MR. SAMSON</from>
+            <p>M. le Pr&#xE9;sident, comme vous savez, la ministre de la Justice soumet une question &#xE0; la Cour supr&#xEA;me de la Nouvelle-&#xC9;cosse sur la question des fronti&#xE8;res &#xE9;lectorales. Puisque cette question-l&#xE0; a &#xE9;t&#xE9; d&#xE9;pos&#xE9;e &#xE0; la Cour, on va respecter le processus qui va suivre. Ce n'est pas notre place de passer commentaire sur cette question. C'est pourquoi nous avons envoy&#xE9; cette question &#xE0; la Cour pour leur d&#xE9;termination. Merci.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont">
+            <from>MR. D'ENTREMONT</from>
+            <p>Et finalement, la F&#xE9;d&#xE9;ration regarde souvent &#xE0; la question de financement quand &#xE7;a vient &#xE0; leurs projets dans les r&#xE9;gions. Donc, peut-&#xEA;tre la question, c'est - quand la n&#xE9;gociation de l'entente entre le Canada et la Nouvelle-&#xC9;cosse commence &#xE0; s'en venir, on veut y voir des argents pour les r&#xE9;gions et plut&#xF4;t pour les organismes qui se font parties de la F&#xE9;d&#xE9;ration acadienne de la Nouvelle-&#xC9;cosse.</p>
+          </speech>
+          <speech by="#michel.p.samson">
+            <from>MR. SAMSON</from>
+            <p>M. le Pr&#xE9;sident, on continue &#xE0; donner des subventions au Conseil de d&#xE9;veloppement &#xE9;conomique de la Nouvelle-&#xC9;cosse. Les projets qu'ils ont soumis devant nous, nous sommes toujours &#xE0; l'&#xE9;coute. Au m&#xEA;me temps, M. le Pr&#xE9;sident, je peux vous informer que j'ai particip&#xE9; &#xE0; une mission &#xE9;conomique &#xE0; Saint-Pierre-et-Miquelon avec des entrepreneurs de la Nouvelle-&#xC9;cosse - un du Cap-Breton, l'autre de la r&#xE9;gion sud-ouest - pour discuter des diff&#xE9;rents projets possibles l&#xE0; avec leur industrie de p&#xEA;che. Alors, on continue de travailler tr&#xE8;s proche avec toutes nos communaut&#xE9;s acadiennes, et les projets qu'ils vont nous pr&#xE9;senter, on serait tr&#xE8;s content de les financer. Merci.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Queens-Shelburne.</p>
+          </speech>
+          <speech by="#sterling.belliveau">
+            <from>HON. STERLING BELLIVEAU</from>
+            <p>Thank you very much &#x2026;</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Unfortunately, the time allotted for Oral Questions Put by Members to Ministers has expired.</p>
+          </speech>
+          <speech by="#keith.colwell">
+            <from>HON. KEITH COLWELL</from>
+            <p>Mr. Speaker, I rise on a point of order. On the point of privilege raised by the honourable member for Kings North yesterday, I want to assure this House that at no time have I ever in my political career intended to mislead this House in any way. Thank you very much.</p>
+          </speech>
+        </debateSection>
+      </questions>
+      <debateSection>
+        <heading>OPPOSITION MEMBERS' BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable House Leader for the New Democratic Party.</p>
+        </speech>
+        <speech by="#frank.corbett">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call the order of business, Private Members' Public Bills for Second Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PRIVATE MEMBERS' PUBLIC BILLS FOR SECOND READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable House Leader for the New Democratic Party.</p>
+        </speech>
+        <speech by="#frank.corbett">
+          <from>HON. FRANK CORBETT</from>
+          <p>Mr. Speaker, would you please call Bill No. 40.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 40 - Oak Island Treasure Act and Special Places Protection Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Chester-St. Margaret's.</p>
+          </speech>
+          <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>I am pleased to have the opportunity to stand here today to express the urgent need to support Bill No. 40 or for the government to bring in their own legislation to protect Oak Island. The bill is to amend the Oak Island Treasure Act.</p>
+<p>I want to be able to stand here today and clarify some of the confusion that has been presented by our government. In our province, we have the Special Places Protection Act, which is under the Minister of Communities, Culture and Heritage. We also have the Oak Island Treasure Act, which is under the responsibility of the Minister of Natural Resources.</p>
+<p>Therefore, what I would like to make very clear is that Oak Island has its own Act. This hence is where the problem is, with having also two ministers responsible for a place in our province that we have potential historical objects being found.</p>
+<p>The reason that we have in our province the Oak Island Treasure Act is because over the decades, it has been thought that what was on Oak Island and buried was simply pirate treasure. The thought at the time was that it would be probably like gold and silver coins. It only came to our province's attention late Spring of 2013 - so that was just last year - that it became known from a theory that was presented by a gentleman from Norway, and his name is Petter Amundsen.</p>
+<p>Petter has written books about Oak Island and he has done a number of films. He introduced an international film, in Chester actually, in 2013, late Spring, and the theory which can seem to be very complicated, but extremely interesting, links up Shakespearian times along with the Masons and with the Knights Templar. To try to simplify this, Petter had identified three very large flat rocks that would be found on the island before he even stepped on the island; in fact when he had the opportunity to go to the island, those rocks were discovered in the exact spots he had identified.</p>
+<p>One of the most interesting aspects is when you watch the film - it's sort of the "aha" moment - was actually when Petter and his colleague Wynand were able to get on to what is a man-made swamp on Oak Island. When they got to the swamp the gentleman who owned the property who allowed them to access the swamp, they took a large metal rod and put it down in the water where they thought that third, big, flat rock would be and, lo and behold, you heard the noise of hitting something solid.</p>
+<p>For me, as I watched the film and tried to put all the pieces together of his theory, which seems so far-fetched when you are talking about Shakespearian time and Knights Templar, that was really the aha moment because, as we all know, in a swamp what we are going to find is just muddy water.</p>
+<p>Hence, Mr. Speaker, that's where the treasure hunters started to look. They actually did contact the licensees once they got that licence, they contacted Petter and asked him to help along with their search. As they were going along, one of the incredible things that Petter said to me was that he was kind of in a Catch-22 position, that he absolutely would love the fact that the items and his theory would be proven true, but yet at the same time he said actually it would be a shame for our province because the theory and the mystery of Oak Island has been carried on for so many years and has drawn attention to our area.</p>
+<p>Although we've had many opportunities to develop it, more on an economic and a tourism base, we really haven't done the best job that we could have in our province to do that. So this is why we are dealing right now, in the present, with a situation where we have new information. The treasure seekers, unfortunately when Petter talked to them and said that once they were starting their search he was very concerned that they did not have an archeologist on-site. He said, I'm sorry, I can't really want to be involved with the project unless you have a mandatory archeologist on-site. Unfortunately at the time the treasure seekers refused to do that and cut off all communications with Petter, the very person who has given them the information of where to search on Oak Island.</p>
+<p>Now Bill No. 40 does not at all do anything that would not be respectful to the History Channel and, as many people know, there is a show called The Curse of Oak Island, that the treasurer seekers joined in with the History Channel to show their venture. I understand they have a five-year contract, so last year was the first of that series.</p>
+<p>We respect the fact that the History Channel is bringing attention to our local community and the province, but we want to make sure that that attention will remain when they leave the province. The key to that, which is really the key to the treasure, Mr. Speaker, is to make sure that the items found are preserved and handled by an archeologist. In that way we will have part of the past to continue for our future in terms of tourism opportunities and economic opportunities throughout our province, with respect to Oak Island.</p>
+<p>Bill No. 40 also respects the treasure hunters and all their efforts they put in to seeking this treasure. Presently in our province many people would be surprised that the treasure seekers are able to walk away with 90 percent of the value or royalty or items that are discovered on Oak Island, and only 10 percent comes back to the people of Nova Scotia. So Bill No. 40 tries to balance that, to ensure that it offers 75 per cent to the treasure seekers with 25 per cent coming back to the province, which would be a wonderful economic investment into tourism surrounding the mystery of Oak Island.</p>
+<p>The other area that we have to make sure - and Bill No. 40 is really all about the fact that Oak Island should really be under the Minister of Community, Culture and Heritage, under the Special Places Protection Act. It shouldn't be divided between two ministers because that is creating the problem. As I said, The Oak Island Treasure Act is creating a problem, too.</p>
+<p>As we spoke about in the House, the definition of treasure - and the minister got that today and was right on - can be a metal item, but it has to be manipulated by man. If we look back in history, there are many things that, today, we would identify as very valuable in terms of religion, in terms of our history.</p>
+<p>However, the way the Act reads right now, treasure seekers could legally leave Nova Scotia with those types of items. As far-fetched as people may think that is, when you mention the menorah<i>,</i> what's very interesting is that, just this past Spring when I first introduced the bill as Bill No. 68, there were people chuckling about the notion that anything could be found there, because they looked for so many years and only a few tantalizing little items were found.</p>
+<p>But, as I said, the difference is that it was found in the swamp area that was never, ever searched before, in the history of Oak Island. We know things have been found because they have been delivered to the minister's office. I'm sure that the treasure seekers are doing the best they can to follow the rules. The Minister of Natural Resources is confident that they would do that.</p>
+<p>But I want to bring up the point that <i>The Curse of Oak Island</i> show was actually taped during the summer of 2013, and those items - the show aired the beginning of January/February 2014 and the final show, which they always leave as a cliff-hanger, presented the fact that they found Spanish coins, coconut fibres, et cetera. Now those finds did not land at the office of the minister until August 14<sup>th</sup>.</p>
+<p>If you read the Act, it says that as soon as those items are found, they have to immediately be reported and given to the minister. That is where part of the problem is - we don't have any eyes on the island to make sure. We are talking about seeking treasure, some of which would be absolutely priceless. There are some things that we don't know about. We hear things in our community, and one in particular is about a spear that has been found. I'm not privy to the list that the minister has been given, so I do not know if he has that in his possession, but the talk of the community is - is this from the Knights Templar or is this an Aboriginal spear?</p>
+<p>If it's an Aboriginal spear it is protected under federal law. We shouldn't be guessing whether or not a spear has been found. We should not have to say, if we find out that they removed it from the province, that we are going to go chasing after it, because that would be fairly ridiculous to do. The other thing is, with all the dollars that can be made on all these priceless items, let's not forget that there are private collectors around the world that have artifacts and art work in private collections that never become public and we don't know about them.</p>
+<p>So here, we know a few things. We are here in the House of Assembly in the Fall of 2014, and we know, in fact, that items have been found because the minister, himself, was kind enough to write to the treasure seekers and to inform them on what was discovered by his office when they analyzed it. I just want to quickly read just one paragraph, Mr. Speaker, from the Minister of Communities, Culture and Heritage:</p>
+<p>Our assessment is that there are enough items of archaeological and historic interest being unearthed to warrant an archaeologist being present and monitoring all further treasure hunting work that you may be undertaking on the island. As such, we advise that you engage the services of an archaeologist to monitor licensee activity at the site. I have attached a list of professional archaeologists available for this type of work.</p>
+<p>The minister is right in the fact that all he can do is suggest. I have found that to date the minister has tried wholeheartedly to move this forward, and then we discover the problem is that it's actually the Minister of Natural Resources who has the power to amend that legislation, bring in new legislation, or support Bill No. 40.</p>
+<p>Mr. Speaker, we have to remember that we know there are items; we know that Bill No. 40 is fair to the treasure hunters and will continue with the series <i>The Curse of Oak Island</i>. We also know that the world is watching us. I know both ministers know that they have received hundreds of emails from people from Sweden, Norway, England - you may think that that's not happening, but we are on a world stage, and I'm very fearful that if we do not support Bill No. 40, or if the government - I don't care how you do it. You can create your own bill, it doesn't matter to me, as long as you make some changes. We are living in a new time where there is history that we did not know, and the world is watching us. We will be so embarrassed as a province if the menorah and items like that are taken away from us. Thank you very much for your time.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Chebucto.</p>
+          </speech>
+          <speech by="#joachim.stroink"><from>MR. JOACHIM STROINK</from><p>Mr. Speaker, I am pleased to rise today to speak on Bill No. 40, the Oak Island Treasure Act and Special Places Protection Act. I would like to take the opportunity to address the concerns that the MLA for Chester-St. Margaret's has raised.</p>
+<p>First, let me begin with a couple of explanations. There are two complementary acts that apply to Oak Island: the Oak Island Treasure Act and the Special Places Protection Act. I think there is some confusion there, so let me repeat that again. There are two complementary acts that apply to Oak Island: the Oak Island Treasure Act and the Special Places Protection Act. Hopefully that clarifies that.</p>
+<p>The Nova Scotia Special Places Protection Act applies to the whole province. It is the place to protect Nova Scotia's archaeological resources, like artifacts and specimens, that tell the story of the province's heritage. The member should know this. The Oak Island Treasure Act applies only to Oak Island, and it is an Act of the Department of Natural Resources.</p>
+<p>Oak Island is the only place in Nova Scotia where the treasure hunting Act applies. This was a change made by the NDP Government when it repealed the Treasure Trove Act. They did this because they had outstanding treasure hunting permits they wanted to honour, and we are facing the same situation today.</p>
+<p>As the minister already stated in Question Period, "treasure" is defined in the Oak Island Treasure Act by precious stones, valuable metals, and not mineral deposits. These are things like coins and jewellery or other objects made of gold or other precious metals. So treasure is coins, jewellery, et cetera.</p>
+<p>When someone makes an application to search for treasure, the Department of Natural Resources and the Department of Communities, Culture and Heritage consult to determine how the treasure hunting is to be permitted. Communities, Culture and Heritage will determine if the proponent will be required to have a Heritage Research Permit under the Special Places Protection Act before he can be licensed to use the Oak Island Treasure licence. The possession of an Oak Island Treasure licence does not exempt a licensed treasure hunter from the obligations of the Special Places Protection Act.</p>
+<p>We think the legislation is adequate and protects the interest of the province, as well as clearly defining the responsibilities of treasure hunters. Let me assure the member and this House that Nova Scotia's archaeological resources are being protected under the Special Places Protection Act. This legislation is doing what it is intended to do: protect artifacts that are important to the province. The licensee on Oak Island has been very co-operative and complied with all requirements under the Special Places Protection Act.</p>
+<p>CCH recently received items recovered by the licensee at Oak Island, and archaeologists say that there is a wide range of material that is of interest to the province. Our government cannot reveal the specifics of what has been found on Oak Island, this is proprietary information.</p>
+<p>The artifacts are a mix of relatively recent and historical items typical of those found at other historic sites throughout Nova Scotia. But I can assure the member that the menorah has not been found, but cannot comment about the Holy Grail.</p>
+<p>Indeed the work that is being carried out at Oak Island is worthy of a television show - people around the world are watching <i>The Curse of Oak Island</i> program. It helps to promote Nova Scotia as a tourist destination and there are numerous economic benefits on having television programs produced here in this province.</p>
+<p>&#xFFFD;So with that, Mr. Speaker, I take my seat. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Colchester-Musquodoboit Valley.</p>
+          </speech>
+          <speech by="#larry.harrison"><from>MR. LARRY HARRISON</from><p>Thank you, Mr. Speaker. For over 200 years now treasures hunters have been coming to Oak Island to hunt for treasure. They've been drawn to the so-called money pit and they've been lured by the possibility of uncovering pirate treasure buried by Captain Kid, Blue Beard. Fascinating. Norwegian researcher and documentary maker Petter Amundsen says Shakespeare's works have clear links to the island, and the Knights Templar treasures could be buried there.</p>
+<p>One story says that Marie Antoinette's jewels might be stashed at Oak Island, and some say that the pit is just a naturally occurring sinkhole. But no matter what you believe there is no doubt that the 140-acre island is steeped in legend and mystery. It is a rich part of our history and one of our province's most intriguing places. There is merit to the part of the bill that differentiates between heritage objects and treasure. If there are important historical items buried deep in the money pit, then they should remain in Nova Scotia.</p>
+<p>I believe all members recognize the importance of historical and archeological artifacts on Oak Island. The challenge is allowing treasure hunters enough freedom to seek the island's fortune while still preserving the legend and the legacy of the place and any artifacts that might be found there. My understanding is that under this bill existing permits for treasure hunting on Oak Island would transition to a new heritage research permit. Once a heritage permit is received, the permit holder will have two years to conduct any explorations or excavations.</p>
+<p>During that time the province will have the right to appoint an archaeologist to monitor the site of any explorations or excavations carried out on Oak Island; the cost would be borne by the permit holder. Preserving historical artifacts for future generations makes our province stronger; it connects generations and opens a window into the past. There is merit in making sure that items that are important to Nova Scotia and Nova Scotians stay in our province.</p>
+<p>We should not allow the secrets of Oak Island, part of the provincial history, to leave Nova Scotia. We also must be careful in our zeal to do the right thing that we don't dampen the enthusiasm for the world's greatest treasure hunt.</p>
+<p>With those few remarks I will take my place. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p>
+          </speech>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Thank you, Mr. Speaker. I'm always pleased to rise to my feet to talk about the importance of arts and culture and heritage in the Province of Nova Scotia. I've been a champion of such for many, many years, long before I ever got into government, and now that I'm in government it has been one of my favourite things to actually try to fight for, to talk about, to bring to the attention of other government employees, to deputy ministers, to other ministers, both when I was in the government caucus and now that we are in Opposition, because I believe without our culture and heritage we have nothing here in Nova Scotia.</p>
+<p>Every inch of this province is full of talented, creative people who are proud of their history, their heritage, and they continue to create incredible artifacts that I think are priceless and that can go up against any in the world. I think that all sides of this House can agree that we want to bring as many people to Nova Scotia to appreciate this beauty and these incredibly creative objects and talent that we have. As much as possible, we want to share it with the world.</p>
+<p>I was very pleased that the Oak Island treasure has once again become a topic of interest, that there is indeed a television show now about it, and that people are noticing Nova Scotia in a new way. I think the one thing we have to remember, and I think this is important for our members on the other side of the House, including the ministers involved, is that when we talk about heritage items and treasures, back in the old days a hundred years ago, people didn't put much value on heritage objects and, therefore the idea that people were coming here to dig up treasure was exciting and the idea that people could just take that treasure away was part and parcel of the day.</p>
+<p>But I would have to say that the definition between what is a heritage object and what is a treasure - I would say there are many heritage objects that are treasures and there are many treasures that are heritage objects. I think the frightening part here is that there is a gap in legislation at the present time that leaves room for heritage objects, which could also be treasures, to be actually discovered and taken away from Nova Scotia. I would like to see a museum in Oak Island. I would like to see a museum to put all the different things they have found and that they will continue to find.</p>
+<p>I think it is an amazing story. I have always been fascinated with it and I think if we are smart and progressive, we can use it to our advantage to turn Oak Island into a treasured heritage site, like a protected heritage site. I think this is something that both ministers that are involved in this, the Minister of Natural Resources and also the Minister of Communities, Culture and Heritage, should consider - in fact, personally I'd like to see Oak Island put in the Department of Communities, Culture and Heritage completely, because it really falls under that department. I believe my colleague, my good member who had produced this piece of legislation is trying to protect Oak Island and trying to protect whatever is found. We don't know what is there but there are all kinds of incredible stories out there.</p>
+<p>What if they did find a menorah? What if they did find the Holy Grail? Who knows? The thing is, it is the anticipation and the mystery that attracts people. Once it's found, if it's found, well that's another thing, but the thing that gets people interested is the idea that it may be there. All these theories that are out there, all the books that are being written, even <i>The Da Vinci Code</i>, all of these different books are about these types of things and are very, very popular.</p>
+<p>I would like to see the ministers consider my colleague's legislation. I really appreciate them taking a meeting with us the other day and I would hope that we don't let politics play a part in this and that we could do something together. I would make a plea as the Critic for Communities, Culture and Heritage that we work together on this because I think it is that important. I think it would be an awful shame for anything that is found to be taken off our beautiful peninsula and taken away somewhere. Even 90 per cent of the treasure, if there is a treasure that is found and considered a treasure, the treasure hunters get to keep, and only 10 per cent goes to the government, to the people of Nova Scotia. I don't think that's enough. I think it should be 25 per cent/75 per cent and I think we discussed that, and in this day and age that makes a lot more sense.</p>
+<p>The fact that they have discovered interesting objects there is already an incentive for us to do something. The fact that there is now renewed interest and new theories that when they follow the theories they actually are finding things in the spots that the person who has created these theories and come up with them said they would find things. That is why the television series is being done.</p>
+<p>Again, I think that it is very important to not just talk about the rhetoric of whether it's protected - it isn't protected. In our opinion on this side, it is not protected. The fact that we are mincing words about whether it is treasure or whether it is a heritage object, again there are heritage objects that are treasures and there are treasures that are heritage objects.</p>
+<p>If, for instance, something that is a crown, who knows, was found that has been manipulated by a man's hands - say it's a gold crown with jewels on it, that would be considered a treasure and that could be taken away. What a shame. I'd rather see that be in a museum here that people can come and gaze at and wonder at and talk about for years to come. That is why I think this legislation is really important. The Oak Island Treasure Act doesn't really protect us for the future.</p>
+<p>I think that my colleagues' new legislation has been thoroughly gone over by other experts who know about Oak Island and have been following this. This is now a global story. They are talking about it around the world. They are talking about it in Australia where I was born. They are talking about it in the Scandinavian countries. It ties in with so many other stories that have been known over the years but now are starting to actually - they are connecting the dots, Mr. Speaker. That is why I think the Special Places Protection Act unfortunately does not cover Oak Island and this particular situation.</p>
+<p>I think if we work together with the two brothers who are behind this and who are looking for artifacts or treasure, I would like to see what, indeed, they have found. I think the people and the public of Nova Scotia deserve to know. I know that some of the things are supposed to be treasures and some are supposed to be artifacts, so let's have a list; let's see what they are. If they are artifacts, then that is supposed to belong to the province and to the people so, therefore, we should be able to know.</p>
+<p>Also, I have heard word that not everything has been turned in. Now this is hearsay at this point in time but I have heard there was a First Nations spear that was discovered. I am Acting Critic for Aboriginal Affairs at the moment while my dear colleague, the member for Sydney-Whitney Pier is ill. This is something that should concern all Aboriginals of Nova Scotia, the fact that there could be some Aboriginal artifacts there.</p>
+<p>Everything starts as a rumour, Mr. Speaker. It was a rumour that there was a treasure in Oak Island to begin with. It starts with the seed of an idea and then you follow up, you follow the tracks, you go back, you check facts and that's how you discover things. That's called discovery.</p>
+<p>My ancestors were explorers as well, Mr. Speaker, so I know how important this is. My family comes from a country, Croatia, where our hometown, our ancestral town is 2,400 years old. It is called Stari Grad, on the Island of Hvar, and they just recently made it a global heritage district because of all the artifacts, as well as treasures, that have been found there over the years and they continue to discover things.</p>
+<p>Back when I first visited there in 1986, Mr. Speaker, these things weren't considered as important, now it is a UNESCO World Heritage Site. Part of that UNESCO World Heritage Site is a fertile plain called the Stari Grad Plain where they have had continual land division from the Greeks since 384 B.C. They are white stone markers and nobody is allowed to touch them. They are there. Now many people there would call that a treasure.</p>
+<p>They have also discovered stone tablets and lead tablets from the Greeks, asking their gods should they go with the Porosians, which is the Island of Poros, to Pharos to start a new life. These are also - would these be treasures or artifacts? Many people would say they are treasures and artifacts. I think that our culture needs to take a look at what we value. Heritage buildings, heritage sites and heritage objects are treasures, I would argue, Mr. Speaker. That's why I care passionately about places like Oak Island and like the Plain of Stari Grad in Croatia where I originated many hundreds and thousands of years ago.</p>
+<p>I think we could discuss education here with the people of Nova Scotia, but I think there is an appetite now, people are starting to recognize the importance of these places. We know we need as many tourist attractions as we can get here in Nova Scotia to bring people in and I think the television show is a wonderful, wonderful opportunity.</p>
+<p>But again, let's us value what is there and realize it's not just for the looks of it, it's not just for the television cameras, but we must take control and we should recognize the importance of the treasure or the artifacts that are going to be found there and that have already been found there - coconut fibre, coins throughout the years. These are incredible little finds, and there are more. I'd like to know what they are and I really think that the people of Nova Scotia do deserve to know. There have been a number of radio shows lately saying just that and asking why our ministers are not allowing us to have a list of these things. Some of these things may be owned by the people who are pulling them up but, again, those would be considered treasures.</p>
+<p>What about the artifacts, those things are going to be owned by the province, by the people of Nova Scotia? So let's see a list of what these things are and let's have a better idea so that we know, in fact, what Nova Scotia has there buried in the ground and what we could look forward to continuing to discover.</p>
+<p>Mr. Speaker, finally I'd just like to say that arts and culture in Canada, they've finally done a study that proves exactly how much arts, culture, and heritage do contribute to the economy, to the gross domestic product of our country. In fact they've discovered just recently that $47.8 billion goes to the Canadian economy on a yearly basis, which accounts for around 647,301 jobs. That means that the arts, culture, and heritage industry contributes - at $47.8 billion, that is a larger contribution than the food and accommodation service industry, it's twice as large as the agriculture, forestry, fishing and hunting industries combined, because they contribute $23.9 billion to the GDP, and arts, culture, and heritage contributes $47.8 billion across the country.</p>
+<p>Mr. Speaker, I think that with figures like this - and that's just direct contributions, not including indirect contributions. So with that, this is why it's so important for us to focus on our arts, culture, and heritage and to protect and preserve it for many years to come.</p>
+<p>With those words, Mr. Speaker, I'll take my seat. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable House Leader for the New Democratic Party.</p>
+          </speech>
+          <speech by="#frank.corbett">
+            <from>HON. FRANK CORBETT</from>
+            <p>Mr. Speaker, would you please call Bill No. 39.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>Bill No. 39 - New Graduates and Apprentices Retention Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cape Breton Centre.</p>
+          </speech>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, just for the record before I get too far into this, it was scheduled that each speaker would be given 10 minutes on this, so the same rule would apply in the last bill, we'll speak no longer than 10 minutes per member and whichever comes first, all four speakers or the 40 minutes in totality or the 10 minutes each - is that clear or did I muddy the waters? Anyway, thank you, Mr. Speaker, for your guidance.</p>
+<p>Bill No. 39, an Act to Support the Retention of New Graduates and Apprentices in Nova Scotia is often referred to - this type of legislation is often referred to as enabling legislation. It's not one that really sets out to be obstructionist to the government or to be of a terribly philosophical bent, it's one that hopefully people will see it as overall supportive of the economy of this province.</p>
+<p>In Question Period every day in this House we have questions asked - and some of them are even answered - about out-migration and cost of education, especially post-secondary, and we are always at a loss as to how to retain these young people. I think</p>
+<p>Bill No. 39, an Act to Support the Retention of New Graduates and Apprentices in Nova Scotia, is one of the ways to do it. Is it the silver bullet, as they say? No, but also the catchphrase may be done by a whole different method. There are many parts to the recipe of solving unemployment, especially youth unemployment.</p>
+<p>What we're asking the government to see and agree to in this bill is that, when we're doing procurement for the government, especially when we're letting contracts, there be a set-aside. And within that set-aside there'd be apprenticeships available, and it would be, for others, a certain number of graduates from other institutions - not necessarily in the applied trades that they would need apprenticeships for, but other recent graduates who would be seeking employment.</p>
+<p>I'll give you an example: if we were to give a tax rebate to a company that was in the financial services sector, say, that promised that they would hire 100 people, that a percentage of those hired would be new graduates.</p>
+<p>&#xFFFD;Certainly, in other contracts for procurement, we let, straight-up such things as road construction and other government infrastructures - whether it's building schools or hospitals - that they would be set aside again. That apprentice would be hired and they would be using this guy, and not only would the general contractor have to adhere to the hiring practice as set out, but also the subcontractors, Madam Speaker.</p>
+<p>This would allow young people the opportunity to start their apprenticeship training here in this province. We also heard in Question Period today about aligning our apprenticeship programs with other provinces'. I agree with the Premier that this is a great idea. It was started under our government, and it was something that we wholeheartedly agree with. We agree with this government of the day proceeding on with it.</p>
+<p>If we could start training here, even if the - we'll use an example. If there was a hospital to be built and we could hire a few apprentices, but say the whole build didn't last the four years, say, that it would take for them to get their apprenticeship hours and the necessary blocks. They'd be on their way, and with that under their belt, then they could go out to other areas and finish it off, but they would have a good foundation here in Nova Scotia. It makes absolute sense that we would put this in as a rider, if you will, in any of our contracts with people that do business with this province.</p>
+<p>I was somewhat dismayed and perplexed when I was in government and found out, I think, in the breadth of government, there was either none or there was only one person apprenticing that was employed by the Province of Nova Scotia. Of all the work we do in TIR and across the whole breadth of it, there was only one. This is not to point the finger at anybody, but it was like a "Wow, I should have had a V8" moment.</p>
+<p>Can you imagine that? We're asking that the private sector - and I'll talk a bit about putting the apprenticeship board together, because this is where these decisions would be vested. Can you imagine an employer the size of the Nova Scotia Government, in the vicinity of 12,000 employees, and we didn't have apprentices? All the work we do? Isn't that something that we really should have been watching and doing. Is that fair for us to say to the private sector that you are not doing your job when it comes to recruitment and helping with the apprenticeship program and we don't have anybody in our own workforce. Shame on us for that.</p>
+<p>It is my hope that this bill will be given a favourable eye, if you will, and looked at for its merits. It is a bill that is not asking, or putting the government in a position of, aha, we gotcha. It is not that type of bill. As I stated earlier, it is an enabling piece of legislation that I would think - it's not in here; we are not prescribing timelines that the government has to do it in. What we are saying is, look, will you look at this? It is a good idea. It's the taxpayers' money investing in a facility or we are giving you a tax rebate or whatever form of assistance an employer may take.</p>
+<p>We would do two things: if they are in the applied trades and it's applicable to use apprentices, then we say there should be so many apprentices used and they should be from Nova Scotia institutions, and the same with, whether it's a business arena or the financial arena or for some other aspect, we could use recently graduated students and go forward from there.</p>
+<p>This bill is one small spoonful of medicine that could help what ails the Province of Nova Scotia when it comes to losing our young people and would allow us to retain, hopefully, some of our young people. This problem will not be solved overnight and I dare say by one government in one term. What I do agree with though, is that with taking steps that are maybe a little bit out of the ordinary, out of our comfort zones from time to time, it may help us. This may very well help us to solve a portion of that and we could incrementally move this forward. It would be good if we could just see the purpose of this bill and the purpose of this bill, once again, is for government to look - at the end of the day, government has a majority - at this bill and say, we want to improve on it or we are going roll it into one of our own bills, I could live with that.</p>
+<p>I'm not looking for a bill that has my name stamped on it or the name of this Party stamped on it. What I'm looking for is legislation that will help (a) the Province of Nova Scotia, and (a+) the young people of Nova Scotia. If we can do that, however that happens, it would be a good thing for all of us. Thank you Madam Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Halifax Atlantic.</p>
+          </speech>
+          <speech by="#brendan.o.maguire"><from>MR. BRENDAN MAGUIRE</from><p>Madam Speaker, I want to take a moment to speak on Bill No. 39 and in particular what this government has done for new graduates and apprenticeship. No matter what some may want you to believe, this government has taken meaningful action to keep our young Nova Scotians here.</p>
+<p>Skilled labour and apprenticeship is something that is actually near and dear to my heart. Not only are many of my friends, family, and constituents skilled labourers but also before I had the privilege to represent the great riding of Halifax Atlantic, I myself got up every single morning at the crack of dawn, walked out of the house with a hard hat and work boots on. Some of those days included using a jackhammer, working a bobcat, and a lot of pipe cutting.</p>
+<p>I talk to my former co-workers daily, weekly, and they thank this government, they thank this Premier for understanding the importance of finally modernizing the apprenticeship system and doubling the START program, which actually started under the previous government. We're also creating the Graduate to Opportunities program to help recent grads get their first job. We will help to improve employee participation in the apprenticeship system and this will help create many opportunities for apprenticeships in Nova Scotia.</p>
+<p>We've also eliminated the interest on provincial student loans. Jonathan Williams, the executive director of StudentsNS said: "It alleviates that worry that students are going to have that their debt is going to grow after graduation and it's going to make it easier for them to pay off those loans faster. It's definitely a good step in improving the student assistance program." And I'll table that.</p>
+<p>We've also created graduate scholarships that will support graduate students as they do their research. They'll also boost Nova Scotia's economy as this research turns into new products and new opportunities.</p>
+<p>You can just ask Chris Burns, a Ph.D. candidate at Dalhousie. "It's virtually impossible to do cutting-edge research without funding. Innovative work and developments are continually happening in graduate research, and this new provincial funding recognizes that potential and the need for it in Nova Scotia." He added: "With these new scholarship opportunities, I believe others will be encouraged to study, work and innovate in Nova Scotia as well."</p>
+<p>Or ask Mr. Ray Ivany himself, president of Acadia University. He said, "The government's funding commitment will play an important role in attracting and retaining more talented graduate students, thereby further improving the national competitiveness of our province." That's right, attract and retain - and I'll table those quotes.</p>
+<p>I'll close with this government, this Premier - we understand that there is no quick fix. This is about expanding on some of the programs that previous governments started, but it's also about looking at new ways of attracting and retaining graduates and skilled labourers in this province. Madam Speaker, we are opening doors that were not just closed in previous years, they were actually nailed shut. This government is finally encouraging our skilled workers, our students to live and work in this beautiful province. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Pictou Centre.</p>
+          </speech>
+          <speech by="#patrick.dunn"><from>HON. PAT DUNN</from><p>Madam Speaker, I'm pleased to rise to debate Bill No. 39, the New Graduates and Apprentices Retention Act. I agree with my colleague from the NDP, we need to be doing everything we can to attract and retain skilled workers in Nova Scotia. An important part of that is ensuring apprentices and recent graduates have access to good jobs.</p>
+<p>Apprenticeship programming is a great way for workers to earn money while gaining practical skills under the supervision of certified tradespeople. If more of our young people could get more of this training here at home, they may be more likely to obtain a job here, put down roots here, build a future here and contribute to our province in many ways. Unfortunately, when 8,700 jobs disappear in Nova Scotia in the last year, I'm sure many apprentices and recent graduates are searching beyond Nova Scotia to secure a job.</p>
+<p>As I understand it, under this bill companies that receive government contracts in capital construction, roadwork or infrastructure would be mandated to hire a certain number of local apprentices for the duration of the contract, including subcontractors.</p>
+<p>There is no doubt Nova Scotians need jobs. Nova Scotians want jobs, that is why so many of them are leaving the province. I do wonder, however, if tying the hands of private business, and probably increasing their cost, is the best way to retain skilled workers. For the apprentice system to be truly successful, it must work for apprentices and for employers.</p>
+<p>In July, only a few months ago, the Nova Scotia Apprenticeship Agency was established, and I note that just Monday the new agency began managing all new apprenticeship START applications and agreements. The START program encourages employers to hire Nova Scotians requiring work experience and it provides financial incentives to employers with the labour need, willing to support ready-to-work Nova Scotians. I would be interested to hear what the industry leaders involved with the agency have to say about Bill No. 39.</p>
+<p>I am aware that some industries operate with job requirements similar to those contained in this bill. It would be interesting to hear from the employers and from the employees of their experience. Madam Speaker, too many bright, talented, and hard-working Nova Scotians are leaving our province for work.</p>
+<p>With no job strategy and no concreate action on the Ivany commission recommendations, creating jobs and retaining our best and brightest does not appear to be a priority for this government. By reducing power rates and high taxes and cutting job killing red tape this government would go a long way to businesses grow and succeed and have the capacity to take on apprentices safely. Unfortunately none of those seem to be priorities.</p>
+<p>Goal number seven of the Ivany report is to attach more than 25,000 Nova Scotians into our labour market with permanent jobs. Members know that the labour force participation rate measures the percentage of the population that is available to engage in paid employment. In the last year Nova Scotia's labour force decreased by 9,700.</p>
+<p>Consider two provinces, one with a high labour force participation rate and one with a lower rate. The province with the higher rate has more people contributing to the overall economic activity. That province typically would have higher income per capita.</p>
+<p>Madam Speaker, a particular concern is when people give up looking for a job because they become discouraged by a long period of unsuccessful job search. Such people do not meet the definition of unemployed because they are not looking for a job, but they would take a job if one were offered. The participation rate recently fell by 1,200 in Nova Scotia. Those sad stats are putting the Ivany goal number seven further and further from reach. It means that there are fewer people contributing to the overall economy and it means more people will leave to contribute somewhere else.</p>
+<p>Madam Speaker, Ivany goal 10 would see the proportion of Nova Scotia's working age population with a post-secondary certificate, diploma, or degree, including apprenticeship completion increase from 55 per cent to 65 per cent. That requires a plan. It needs action and it needs leadership.</p>
+<p>Madam Speaker, with those few comments I'll take my seat, thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>I appreciate the comments from all members, especially from the member for Halifax Atlantic. It is interesting that he started off with a quote from Jonathan Williams from StudentsNS around the interest relief off of the student loans, which is good, it's a great initiative, but what he fails to continue on with is some of the other quotes from Mr. Williams who has criticized him and been very vocal about the government's cancellation of GRR and not reinvesting that nearly $50 million program.</p>
+<p>I believe the interest free program is about $14 million so they have been very vocal and trying to encourage the government to come to their senses and reinvest that money. The GRR, for example, put $15,000 back into the pockets of newly-graduated students here in the province. With this bill, I just thought I had to make that known, since he brought up Mr. Williams. I think Bill No. 39 is an important piece of legislation that should garner support from all sides. It's a piece of legislation that will support our young, recently graduated students, men and women, the apprenticeship who are working in our province.</p>
+<p>Over the last year or so, Madam Speaker, one of the more interesting things I've seen around my engagement with young people who are deciding what career to go into is those who are going toward the Nova Scotia Community College and the trades, and seeing more and more of those students who are women who are entering that trade, and it's great to see that.</p>
+<p>In my former career as a paramedic, when I started in the early 1990s, we were just starting to see an influx of more women choosing to become paramedics. I know that the majority of those students now tend to be women. I think we are starting to see that throughout different areas.</p>
+<p>With the apprentice program we have here in Nova Scotia, I think it's important that if we are asking our private sector to step up to the plate, as my colleague mentioned earlier, to ensure that there's opportunities for young people to work and have the opportunity to go through the apprentice program here in Nova Scotia, I think it should be compelled upon ourselves to ask government to do the same.</p>
+<p>I know a lot of work has been ongoing over the last three or four years to get to the point where we now have the Nova Scotia Apprenticeship Agency, Madam Speaker. I want to commend the former minister and the government for continuing on with that program, ensuring that our young people have every opportunity to stay here. I can tell you that if a young person needs those hours in on the job and can't find that placement here, they're going to go elsewhere.</p>
+<p>We've seen it over and over, the number of Nova Scotians leaving our province to work out West, that if we see young students leaving, you are more likely to not see them come back for many years. Of course, with the debt they're incurring for going to school - but if you're getting on-the-job training and the apprentice program, most of the time if not all of the time, the employers who hire those young apprentices are the ones who have done placement with that company.</p>
+<p>I know, for example, through my practicum as a paramedic, part of my schooling - we had two practicums that we had to go on with different employers in the province, and it was one of those at the time - there were 51 or 52 different private operators of ambulance services and it was one of the ones that I did my practicum at that hired me. They know who you are, they know your work ethic, and I think it's important to have those opportunities. (Interruptions) No heckling from my own side, now.</p>
+<p>With Bill No. 39, I think it's something the government could look at to continue on to show the support of our recently graduated young people, our apprentices here in Nova Scotia. I think it can work with the Nova Scotia Apprenticeship Agency to finalize what the makeup of the support could be from the province.</p>
+<p>As was stated earlier by the former minister, my colleague, when he was in the position he was astonished with the sheer number of apprenticeships in the province - hardly any, if any. With the work we do as a province, as departments, especially through TIR and the projects that they undertake, it is a great opportunity to supply and support positions for apprentices here in Nova Scotia, Madam Speaker.</p>
+<p>I hope the government recognizes that this is something that we feel is extremely important to continue to support. I hope we will see in the future Bill No. 39 either approved or a version of it under the government support be passed through this Legislature so that we can truly show our young people that we support them as they enter the workforce.</p>
+<p>With those few comments I want to thank all members for their input and thank our member for bringing this piece of legislation forward.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable House Leader for the New Democratic Party.</p>
+          </speech>
+          <speech by="#frank.corbett">
+            <from>HON. FRANK CORBETT</from>
+            <p>Madam Speaker, that concludes the New Democratic Party Opposition Day business. Now I hand over to the Deputy Government House Leader.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MADAM SPEAKER</from>
+            <p>The honourable Deputy Government House Leader.</p>
+          </speech>
+          <speech by="#terry.farrell"><from>MR. TERRY FARRELL</from><p>Madam Speaker, I move that the House do now rise to resume again tomorrow between the hours of 2:00 p.m. and 6:00 p.m. At that time we'll call Government Business, Public Bills for Second Reading: Bill Nos. 49 and 50; Public Bills for Third Reading: Bill Nos. 5, 9, 10, 12, 14, 15, 16, and 17; and if time shall permit, Address in Reply to the Speech from the Throne.</p>
+<p>I move now that the House do now rise to resume at 2:00 p.m. tomorrow.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MADAM SPEAKER</from><p>The motion is that the House do rise to meet again on October 23<sup>rd</sup> from the hours of 2:00 p.m. to 6:00 p.m.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>The motion is carried.</p></speech>
+          <narrative>
+            <p>The House rose at 5:16 p.m.</p>
+          </narrative>
+        </debateSection>
+      </debateSection>
+      <noticesOfMotion>
+        <heading>NOTICES OF MOTION UNDER RULE 32(3)</heading>
+        <speech by="#karla.macfarlane"><num title="377">RESOLUTION NO. 377</num><from>Ms. Karla MacFarlane</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas the Northumberland Quilt Guild is celebrating 20 years and shows no signs of slowing down, with around 100 members; and</p>
+<p>Whereas the quilt guild members create works of art both by hand and by sewing machine; and</p>
+<p>Whereas each year the quilt guild holds an annual show at the deCoste Centre in Pictou, displaying about 100 quilts that were all made in the past year;</p>
+<p>Therefore be it resolved that all members of the Legislative Assembly congratulate the Northumberland Quilt Guild members on their 20<sup>th</sup> Anniversary and wish them many more years of happy quilting.</p></speech>
+        <speech by="#chuck.porter"><num title="378">RESOLUTION NO. 378</num><from>Mr. Chuck Porter</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas on October 21, 1914, a little girl named Olive Elsie was born to James and Lucy Rafuse in their home in Upper Vaughan, formerly called Waterville and at age 17 married Clark Rafuse, had 11 children, raised them in Olive's home community on a dirt road with no car or electricity, until nine of her children were grown; and</p>
+<p>Whereas raising her children was full time work for Olive but she found time outside of her home for volunteering, playing the organ for local churches, also in later years enjoying her 35 grandchildren, 73 great-grandchildren along with 43 great-great-grandchildren; and</p>
+<p>Whereas Olive has seen many changes happen in the last 100 years, crediting her longevity to hard work, absence of smoking, drinking of coffee, tea, or alcohol, she now lives in her first apartment with cable television, where she enjoys crocheting as an additional pastime and the occasional shopping spree;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate and wish Olive Elsie Rafuse a happy 100<sup>th</sup> birthday.</p></speech>
+        <speech by="#alfie.macleod"><num title="379">RESOLUTION NO. 379</num><from>Mr. Alfie MacLeod</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Curtis Novak, 11, and Joshua Novak, 9, sons of Albert and Michele Novak from Prime Brook, are two amazing young men; and</p>
+<p>Whereas both of these boys have been actively donating their time to plan and do a carnival day for sick children and their families held recently at the Wildlife Park; and</p>
+<p>Whereas Curtis and Joshua are hoping to make this an annual event for their brother Lukas and other children living with serious health issues;</p>
+<p>Therefore be it resolved that all members of this House of Assembly congratulate Curtis and Joshua Novak on their tireless efforts to help others.</p></speech>
+        <speech by="#eddie.orrell"><num title="380">RESOLUTION NO. 380</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas for the past 12 years, the Johnny Miles Haunted House has scared Northside residents and raised funds for the Johnny Miles Festival Society; and</p>
+<p>Whereas the society celebrates the success of two-time Boston Marathon winner Johnny Miles every summer; and</p>
+<p>Whereas with the help of Memorial High School carpentry students and 60 volunteers, the Three Knights of Fear has become a Halloween Tradition;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank the Johnny Miles Festival Society for their efforts in honouring a Sydney Mines hometown hero.</p></speech>
+        <speech by="#eddie.orrell"><num title="381">RESOLUTION NO. 381</num><from>Mr. Eddie Orrell</from><p>I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas earlier this year the Grade 3 class from Seaton Elementary School in North Sydney planted a garden under the watchful eye of local farmer Eddie Rendell; and</p>
+<p>Whereas vegetable and flower seeds, bulbs and transplants were provided by the Cape Breton Richmond Federation of Agriculture and nurtured by the students; and</p>
+<p>Whereas the students harvested their garden and gave some of their produce to Jim MacDonald, of Thyme Savour Takeaway Food Shoppe, who in turn prepared a meal for the Seaton students;</p>
+<p>Therefore be it resolved that all members of this House of Assembly thank all those involved in the Seaton Elementary Grade 3 for giving students an experience they will never forget.</p></speech>
+      </noticesOfMotion>
+    </debateBody>
+  </debate>
+</akomaNtoso>
