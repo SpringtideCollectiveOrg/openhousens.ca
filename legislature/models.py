@@ -30,7 +30,7 @@ class Bill(models.Model):
 
     @property
     def slug(self):
-        return self.url.rsplit('/', 1)[1]
+        return self.url.rsplit('/', 1)[1][:70]
 
 @python_2_unicode_compatible
 class Action(models.Model):
