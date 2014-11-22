@@ -1,0 +1,1236 @@
+<?xml version="1.0"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+      <references source="#source">
+        <TLCOrganization id="source" href="/ontology/organization/ca.open.north.inc" showAs="Open North Inc."/>
+        <TLCPerson id="michel.p.samson" href="/ontology/person/ca-ns.michel.p.samson" showAs="HON. MICHEL SAMSON"/>
+        <TLCPerson id="joanne.bernard" href="/ontology/person/ca-ns.joanne.bernard" showAs="HON. JOANNE BERNARD"/>
+        <TLCPerson id="christopher.a.dentremont" href="/ontology/person/ca-ns.christopher.a.dentremont" showAs="HON. CHRISTOPHER D'ENTREMONT"/>
+        <TLCPerson id="maureen.macdonald" href="/ontology/person/ca-ns.maureen.macdonald" showAs="HON. MAUREEN MACDONALD"/>
+        <TLCPerson id="margaret.miller" href="/ontology/person/ca-ns.margaret.miller" showAs="MS. MARGARET MILLER"/>
+        <TLCPerson id="tim.houston" href="/ontology/person/ca-ns.tim.houston" showAs="MR. TIM HOUSTON"/>
+        <TLCPerson id="sterling.belliveau" href="/ontology/person/ca-ns.sterling.belliveau" showAs="HON. STERLING BELLIVEAU"/>
+        <TLCPerson id="suzanne.lohnes.croft" href="/ontology/person/ca-ns.suzanne.lohnes.croft" showAs="MS. SUZANNE LOHNES-CROFT"/>
+        <TLCPerson id="patrick.dunn" href="/ontology/person/ca-ns.patrick.dunn" showAs="HON. PAT DUNN"/>
+        <TLCPerson id="lenore.zann" href="/ontology/person/ca-ns.lenore.zann" showAs="MS. LENORE ZANN"/>
+        <TLCPerson id="allan.rowe" href="/ontology/person/ca-ns.allan.rowe" showAs="MR. ALLAN ROWE"/>
+        <TLCPerson id="john.a.lohr" href="/ontology/person/ca-ns.john.a.lohr" showAs="MR. JOHN LOHR"/>
+        <TLCPerson id="joyce.treen" href="/ontology/person/ca-ns.joyce.treen" showAs="MS. JOYCE TREEN"/>
+        <TLCPerson id="karla.macfarlane" href="/ontology/person/ca-ns.karla.macfarlane" showAs="MS. KARLA MACFARLANE"/>
+        <TLCPerson id="stephen.gough" href="/ontology/person/ca-ns.stephen.gough" showAs="MR. STEPHEN GOUGH"/>
+        <TLCPerson id="alfie.macleod" href="/ontology/person/ca-ns.alfie.macleod" showAs="HON. ALFIE MACLEOD"/>
+        <TLCPerson id="ben.jessome" href="/ontology/person/ca-ns.ben.jessome" showAs="MR. BEN JESSOME"/>
+        <TLCPerson id="allan.gerard.macmaster" href="/ontology/person/ca-ns.allan.gerard.macmaster" showAs="MR. ALLAN MACMASTER"/>
+        <TLCPerson id="keith.irving" href="/ontology/person/ca-ns.keith.irving" showAs="MR. KEITH IRVING"/>
+        <TLCPerson id="eddie.orrell" href="/ontology/person/ca-ns.eddie.orrell" showAs="MR. EDDIE ORRELL"/>
+        <TLCPerson id="bill.horne" href="/ontology/person/ca-ns.bill.horne" showAs="MR. BILL HORNE"/>
+        <TLCPerson id="joachim.stroink" href="/ontology/person/ca-ns.joachim.stroink" showAs="MR. JOACHIM STROINK"/>
+        <TLCPerson id="david.allan.wilson" href="/ontology/person/ca-ns.david.allan.wilson" showAs="HON. DAVID WILSON"/>
+        <TLCPerson id="patricia.arab" href="/ontology/person/ca-ns.patricia.arab" showAs="MS. PATRICIA ARAB"/>
+        <TLCPerson id="mark.furey" href="/ontology/person/ca-ns.mark.furey" showAs="HON. MARK FUREY"/>
+        <TLCPerson id="lena.m.diab" href="/ontology/person/ca-ns.lena.m.diab" showAs="HON. LENA DIAB"/>
+        <TLCPerson id="stephen.mcneil" href="/ontology/person/ca-ns.stephen.mcneil" showAs="HON. STEPHEN MCNEIL"/>
+        <TLCPerson id="jamie.baillie" href="/ontology/person/ca-ns.jamie.baillie" showAs="HON. JAMIE BAILLIE"/>
+        <TLCPerson id="diana.whalen" href="/ontology/person/ca-ns.diana.whalen" showAs="HON. DIANA WHALEN"/>
+        <TLCPerson id="denise.peterson.rafuse" href="/ontology/person/ca-ns.denise.peterson.rafuse" showAs="HON. DENISE PETERSON-RAFUSE"/>
+        <TLCPerson id="tony.ince" href="/ontology/person/ca-ns.tony.ince" showAs="HON. TONY INCE"/>
+        <TLCPerson id="leo.glavine" href="/ontology/person/ca-ns.leo.glavine" showAs="HON. LEO GLAVINE"/>
+        <TLCPerson id="frank.corbett" href="/ontology/person/ca-ns.frank.corbett" showAs="HON. FRANK CORBETT"/>
+        <TLCRole id="speaker" href="/ontology/role/nslegislature.ca-ns.speaker" showAs="MR. SPEAKER"/>
+        <TLCRole id="premier" href="/ontology/role/nslegislature.ca-ns.premier" showAs="THE PREMIER"/>
+        <TLCRole id="clerk" href="/ontology/role/nslegislature.ca-ns.clerk" showAs="THE CLERK"/>
+        <TLCRole id="sergeant-at-arms" href="/ontology/role/nslegislature.ca-ns.sergeant-at-arms" showAs="SERGEANT-AT-ARMS"/>
+        <TLCRole id="assistant clerk" href="/ontology/role/nslegislature.ca-ns.assistant clerk" showAs="THE ASSISTANT CLERK"/>
+        <TLCRole id="lieutenant governor" href="/ontology/role/nslegislature.ca-ns.lieutenant governor" showAs="THE LIEUTENANT GOVERNOR"/>
+        <TLCRole id="member" href="/ontology/role/nslegislature.ca-ns.member" showAs="AN HON. MEMBER"/>
+      </references>
+    </meta>
+    <preface>
+      <docTitle>Debates, 20 November 2014</docTitle>
+      <docNumber>14-34</docNumber>
+      <docDate date="2014-11-20">Thursday, November 20, 2014</docDate>
+      <docAuthority>Nova Scotia House of Assembly</docAuthority>
+      <legislature value="62">62nd General Assembly</legislature>
+      <session value="2">2nd Session</session>
+      <link rel="alternate" type="text/html" href="http://nslegislature.ca/index.php/proceedings/hansard/C96/house_14nov20/"/>
+    </preface>
+    <debateBody>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please. We'll begin the daily routine.</p>
+      </speech>
+      <petitions>
+        <heading>PRESENTING AND READING PETITIONS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Economic and Rural Development and Tourism.</p>
+        </speech>
+        <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, I beg leave to table a petition which reads:</p>
+<p><b>"Lewis Cove Road"</b> in Richmond County is in urgent need of necessary upgrade. This 9.5 km section of roadway has had an asphalt surface since 1963 with periodic repair &#x2026;</p>
+<p>Over the past 40 years <b>"Lewis Cove Road"</b> has become a travelled route of bumps, lumps, cracked or broken sections with grass growing through the asphalt. Heavy forest growth is resulting in alders and branches extending to the main highway, causing safety concerns for travelers.</p>
+<p>The residents and communities that connect with <b>"Lewis Cove Road"</b> are urging the Provincial Department of Transportation and Infrastructure Renewal to immediately conduct a full assessment of this section of road and begin necessary upgrades and improvements as soon as possible.</p>
+<p>Mr. Speaker, this petition is signed by 514 residents and, as per the Rules of this House, I have attached my signature.</p></speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The petition is tabled.</p>
+        </speech>
+      </petitions>
+      <papers>
+        <heading>TABLING REPORTS, REGULATIONS AND OTHER PAPERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Community Services.</p>
+        </speech>
+        <speech by="#joanne.bernard">
+          <from>HON. JOANNE BERNARD</from>
+          <p>Recently a public consultation process began to set us on a path to help make Nova Scotia a more accessible and inclusive province for everyone to live and work. I am pleased to table this discussion paper developed by the Minister's Advisory Panel on Accessibility Legislation. Thank you, Mr. Speaker.</p>
+        </speech>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The discussion paper is tabled.</p>
+        </speech>
+      </papers>
+      <noticesOfMotion>
+        <heading>GOVERNMENT NOTICES OF MOTION</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Minister of Community Services.</p>
+        </speech>
+        <speech by="#joanne.bernard"><num title="1033">RESOLUTION NO. 1033</num><from>HON. JOANNE BERNARD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas transgender individuals can face many challenges in life, including the threat of violence; and</p>
+<p>Whereas November 20<sup>th</sup> is Transgender Day of Remembrance, a day to remember transgender people who have been killed due to transphobic violence; and</p>
+<p>Whereas all Nova Scotians have the right to love, compassion and acceptance, and to live their lives free from threat of violence and discrimination;</p>
+<p>Therefore be it resolved that members of this House encourage Nova Scotians to support the transgender community by attending tonight's Transgender Day of Remembrance Candlelit Walk, leaving Victoria Park at 6:00 p.m., and the Remembrance Ceremony at St. Matthew's United Street, Barrington Street, Halifax, at 6:30 p.m.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p>
+<p>The honourable Minister of Community Services.</p></speech>
+        <speech by="#joanne.bernard"><num title="1034">RESOLUTION NO. 1034</num><from>HON. JOANNE BERNARD</from><p>Mr. Speaker, I hereby give notice that on a future day I shall move the adoption of the following resolution:</p>
+<p>Whereas Nova Scotia's youngest residents and their families hold the key to a prosperous future for all Nova Scotians; and</p>
+<p>Whereas in the words of Ban Ki-moon, "Every child has the right to survive and thrive, to be educated, to be free from violence and abuse, to participate and to be heard."; and</p>
+<p>Whereas this year marks the 25<sup>th</sup> Anniversary of the United Nations Convention on the Rights of the Child;</p>
+<p>Therefore be it resolved that all members of this House, and all Nova Scotians, take time to celebrate children's rights, not only on National Child Day but throughout the year.</p>
+<p>Mr. Speaker, I request waiver of notice and passage without debate.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>There has been a request for waiver.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>Would all those in favour of the motion please say Aye. Contrary minded, Nay.</p>
+<p>The motion is carried.</p></speech>
+      </noticesOfMotion>
+      <debateSection>
+        <heading>STATEMENTS BY MEMBERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Argyle-Barrington.</p>
+        </speech>
+        <debateSection>
+          <heading>LEGISLATURE STAFF - THANK</heading>
+          <speech by="#christopher.a.dentremont">
+            <from>HON. CHRISTOPHER D'ENTREMONT</from>
+            <p>After a long session, it's important that we take time to thank people who make the proceedings of this House possible each day. I would like to take time to thank the Legislative Library for their quick and helpful resources; our clerks, Neil Ferguson and Annette Boucher and their staff; everyone at the Speaker's Office; our Sergeant-at-Arms, Ken Greenham, and all the Commissionaires; the Hansard staff and Bob Kinsman; every one of the Legislative Counsel and Legislative TV; the staff at the Committee Office; the custodial staff; the workers at the Queen's Printer; Anna's and Rudy's for the wonderful food that they provide; and of course Mike Laffin and Peter Theriault and all the Pages who keep things running so smoothly. We've sat some very long hours this session and we all owe you a huge thank-you. (Applause)</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Needham.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>BROTEN RECOMMENDATIONS: N.S./ONT. - DIFFERENCES</heading>
+          <speech by="#maureen.macdonald">
+            <from>HON. MAUREEN MACDONALD</from>
+            <p>Thank you, Mr. Speaker. Tax exemptions on family essentials like diapers, books, and children's clothing make a difference for families in our province. In 2009, Ms. Laurel Broten, who led this recent Nova Scotia tax review, sat at the Liberal Cabinet Table in Ontario and created HST exemptions for diapers, books, children's clothing, and other items. In fact, her Liberal Government announced these exemptions in Ms. Broten's own constituency. I can't help but wonder why Ms. Broten thinks these exemptions are important for families in Ontario but not families here in Nova Scotia.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Hants East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HOLIDAY SEASON - BLOOD DONATIONS</heading>
+          <speech by="#margaret.miller"><from>MS. MARGARET MILLER</from><p>Thank you, Mr. Speaker. In recent months, Canadian Blood Services had to send an appeal to all Canadians to donate blood due to the blood inventory being at a critical six-year low. Canadians answered that call. Canadian Blood Services' blood inventory is now at a comfortable level.</p>
+<p>However, the need for blood is constant. Every minute of every day, someone in Canada needs blood. Blood is used to treat patients with bleeding disorders, individuals undergoing surgery, transplant recipients, cancer patients, newborn babies, and many others. It can take up to 50 units of blood for just one car accident victim.</p>
+<p>The holiday season is among us, which can be a challenging time for blood donation. Let's rally together as a community and ensure that our shelves are fully stocked for patients in need. What better gift can you give someone than the gift of life when they need it this holiday season? Please call 1-888-2-DONATE and visit <a href="http://www.blood.ca">http://www.blood.ca</a>. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>BLACK WATCH OF CAN. CAP BADGE - PICTOU CO. MILITARY HERITAGE MUSEUM</heading>
+          <speech by="#tim.houston">
+            <from>MR. TIM HOUSTON</from>
+            <p>Thank you, Mr. Speaker. Mr. Lou MacNaughton, a veteran of the Black Watch who served as a peacekeeper after the Korean War, was on hand recently to present one-of-a-kind item for display in the Pictou County Military Heritage Museum. It is a 3-foot by 2.5-foot replica of the Black Watch (Royal Highland Regiment) of Canada cap badge, which was created by a craftsman from the government and the people of South Korea just after the armistice was signed ending the Korean War. Mr. MacNaughton hopes people will stop in to view this replica while it is on loan to the museum before it returns to the Black Watch Museum at the regiment's armoury in Montreal. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Queens-Shelburne.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TANCOOK FERRY: ABSENCE - EFFECTS</heading>
+          <speech by="#sterling.belliveau"><from>HON. STERLING BELLIVEAU</from><p>Mr. Speaker, I rise in my place to bring an important issue to the floor of the House of Assembly. The absence of a reliable ferry system for Little and Big Tancook Islands for residents to get to work, children to get to school, seniors depend on it to get to their doctors for appointments, and the ferry carries tourists out to the scenic islands.</p>
+<p>My colleague, the member for Chester-St. Margaret's has questioned the Minister of Transportation and Infrastructure Renewal, who is in charge of this provincially owned and operated ferry system, a number of times in this session. The past two weeks, we had people and supplies left on the docks because of an ineffective ferry that the Minister of Transportation and Infrastructure Renewal has failed to address properly. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Lunenburg.</p>
+          </speech>
+          <speech by="#suzanne.lohnes.croft">
+            <from>MS. SUZANNE LOHNES-CROFT</from>
+            <p>Mr. Speaker, I'd like to make an introduction.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Permission granted.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>LEET, PASTOR GERRY: GALLERY PRESENCE - THANK</heading>
+          <speech by="#suzanne.lohnes.croft"><from>MS. LOHNES-CROFT</from><p>In the east gallery, I would like Pastor Gerry Leet to stand and be welcomed by the House. (Applause)</p>
+<p>Mr. Speaker, I'd like to say a special thank you to a person we all know. He is here every day looking down on us, literally, from above, and I am speaking, of course, of Pastor Gerry Leet. Pastor Leet has been a welcome presence at this House of Assembly offering both comfort and support regardless of political stripe or affiliation.</p>
+<p>We work in a very challenging environment. It is, at times, easy to get discouraged, but just knowing Pastor Leet is here is a weight off my chest, as it is for many of our members, in fact, he helps sustain our spirits. Once again I would like to thank Pastor Leet for being a daily presence here, and often helping to put things in context of a greater scheme of things, whether he means it or not. You are always welcome here.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou Centre.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX PROPOSAL - VETO</heading>
+          <speech by="#patrick.dunn">
+            <from>HON. PAT DUNN</from>
+            <p>Mr. Speaker, the Ivany report told us that it was time to take developing our natural resources seriously. It provided a blueprint to kick-start the rural economy and call for immediate action. It did not call for risky new tax schemes that will increase the cost of virtually everything. That's what the new carbon tax that has been proposed will do. The Liberal Government should take the recommendations of the Ivany report seriously and say no to a new carbon tax. It is not the time for risky new experiments with the tax system. It is, however, a time for action on Ivany. Today, I'm calling on the Liberals to get to work on implementing the Ivany report and to trash the carbon tax proposal. Thank you, Mr. Speaker.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Truro-Bible Hill-Millbrooke-Salmon River.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>BROTEN, LAUREL - TAX REPT. RECOMMENDATIONS/JOB PROSPECT</heading>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Mr. Speaker, Nova Scotia's Liberal Government paid $155,000 to a former Ontario Liberal Cabinet Minister, Laurel Broten, to undertake a tax review with recommendations to help stimulate economic growth for Nova Scotia's future. Out of the many recommendations, the following are an example of this review: adding the tax back on power, diapers, children's clothing and books; increasing taxes for small businesses; and lowering the taxes for high economic earners.</p>
+<p>According to allNovaScotia.com today, there is also a potential patronage position in the works for Ms. Broten as CEO of NSBI, the very type of job her tax recommendations will, in fact, help. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Dartmouth South.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HFX./DART. DOWNTOWN ART WALK</heading>
+          <speech by="#allan.rowe"><from>MR. ALLAN ROWE</from><p>Mr. Speaker, this evening the downtown of Halifax and Dartmouth will be bustling as residents will be visiting a variety of art galleries and retailers who are opening their doors for free for an event called Downtown Artwalk, which promotes local artists and businesses. In advance of our holiday season, I wish to remind all members of this House of Assembly of the importance of supporting local businesses, local retailers, and our cultural sector, as well.</p>
+<p>I encourage all of my colleagues to visit the Downtown Artwalk venues this evening to demonstrate their support. I also wish to recognize the organizers, the promoters and participating galleries and, as well, the businesses of Artwalk who give generously to make their art accessible, and to provide a platform for local artists to display and promote their work. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings North.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX PROPOSAL - LIBERALS REJECT</heading>
+          <speech by="#john.a.lohr">
+            <from>MR. JOHN LOHR</from>
+            <p>Mr. Speaker, as a farmer, I'm well aware of the negative impact the new Liberal carbon tax would have on the agriculture sector. Farmers consume a lot of fuel and energy in their work, work that benefits people everywhere. If their costs rise at the hands of a new Liberal carbon tax, that means their costs will have to be absorbed elsewhere. Farmers may have to cut back on workers and employees and will lose their jobs, or Nova Scotians will have to pay more at the grocery store. Either way, a carbon tax is bad news for agricultural workers and consumers. Today I'm calling on the Liberals to do the right thing and reassure consumers and the agricultural community by rejecting the carbon tax proposal. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Queens-Shelburne.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>TANCOOK FERRY: LOBSTER SEASON - EFFECTS</heading>
+          <speech by="#sterling.belliveau">
+            <from>HON. STERLING BELLIVEAU</from>
+            <p>Mr. Speaker, in my earlier statement today, I raised the issue of a lack of a reliable ferry system for Little and Big Tancook Islands. As we approach another lobster season and the winter conditions, many fishers have great concerns of fuel and bait supplies being brought to the island in a timely fashion. The lobster industry is the economic engine that drives many Nova Scotian communities, especially those of Little and Big Tancook Islands. The Minister of Transportation and Infrastructure Renewal needs to understand the full concerns and seriousness of this situation. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cole Harbour-Eastern Passage.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>EAST. PASSAGE - COW BAY CHRISTMAS BOX PROJ.</heading>
+          <speech by="#joyce.treen"><from>MS. JOYCE TREEN</from><p>Mr. Speaker, the spirit of Christmas is alive in Eastern Passage and Cow Bay. The community is busy with its Community Christmas Box project. For the past 25 years the Knights of Columbus, the Buffalo Club, the Legion, and the Lions Club, along with the Catholic, Anglican, and Baptist churches and our local food bank and many residents, have all worked together to provide Christmas hampers for those in need. The hampers include everything for a Christmas dinner, plus toys and clothes if there are children.</p>
+<p>Our local grocery store, the ValuFoods, is key in making sure all the food is ordered at great savings and delivered to the hall for prep day. The Christmas boxes are delivered to all the homes on December 23<sup>rd</sup>, in time for the big day. I would like to give a big thank you to all involved in making this such a great success every year. You rock.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou West.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX: LIBERALS - IMPLEMENTATION REFUSE</heading>
+          <speech by="#karla.macfarlane">
+            <from>MS. KARLA MACFARLANE</from>
+            <p>Mr. Speaker, our province needs jobs. Job creation needs to be the top priority for the Liberal Government, not risky new schemes like the carbon tax that has been proposed. In Opposition the Liberals called a carbon tax a "job killer" and said it would make Nova Scotia less competitive. The Progressive Conservative caucus agrees. A carbon tax will make Nova Scotia less attractive to industry and will deter investment. The Liberals have already indicated that Nova Scotia is closed for business with their ban on onshore development. By refusing to rule out the implementation of a carbon tax, they are sending more negative signals to job creators. The Liberals must be clear and assure industry that there will be no job-killing carbon tax under their watch.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Beaver Bank.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>BOULARDERIE MAMMOWARRIORS - FUNDRAISING</heading>
+          <speech by="#stephen.gough"><from>MR. STEPHEN GOUGH</from><p>Mr. Speaker, I read this statement on behalf of the member for Victoria-The Lakes.</p>
+<p>The Boularderie MammoWarriors are a dragon boat team made up of friends and neighbours from beautiful Boularderie Island and beyond. They participate in the annual Cape Breton Dragon Boat Festival in the summer, but all year round they are fundraising. For example, this past weekend they held a soup luncheon, and every penny raised went to the Cape Breton Cancer Patient Care Fund.</p>
+<p>This group of dedicated community members has raised, over the course of eight years, in the realm of $100,000 for their cause. These community-minded people are a shining example of how small communities can have a giant impact. I am proud to call them my friends and neighbours.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sydney River-Mira-Louisbourg.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX PROPOSAL: LIBERALS - REJECT</heading>
+          <speech by="#alfie.macleod"><from>HON. ALFIE MACLEOD</from><p>Mr. Speaker, Cape Breton's economy is in need of a serious direction change. Fortunately there are projects on the horizon that could mean more jobs and a better future for Cape Breton. One of those projects is the much-discussed development of the Donkin Mine. However, a new Liberal carbon tax like the one that has been proposed could put Donkin's future at risk.</p>
+<p>The Ivany report called on Nova Scotia to kick-start the economy by developing our natural resources, not by implementing punitive new taxes that will deter investment. Today I'm calling on the Liberals to take a hard look at the carbon tax proposal and consider what it will mean for Donkin. Surely then they will do the right thing and reject it outright. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Hammonds Plains-Lucasville.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>YELLOWCARD CAMPAIGN - SUPPORT</heading>
+          <speech by="#ben.jessome"><from>MR. BEN JESSOME</from><p>Mr. Speaker, motionball is a national organization that serves to support our Special Olympians. Through motionball Halifax, I was exposed to the YELLOWCARD campaign. I would like to take a moment to make all members aware of its existence and importance. Its intent is to educate society about harm associated with the use of the R-word, and it encourages people to take the pledge. The campaign strives to eliminate the casual use of the R-word in everyday conversation.</p>
+<p>A yellow card is given out in soccer to warn offenders that they have committed an infraction, and in this case the yellow card serves as a means of letting people know that the R-word is offensive, and that it isolates those with intellectual disabilities and only serves as a means of degrading and bullying. There is no good way to use the R-word.</p>
+<p>I would like to encourage all members in this Legislature to consider taking the pledge and encourage the elimination of the R-word in our society. You can do so by visiting motionball.com/yellowcard.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX PROPOSAL - VETO</heading>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, the cost of living is a top concern for many in my constituency. As their MLA, it is my duty to fight for measures that will make life more affordable for them. A carbon tax will undoubtedly raise the price of many goods and services; additionally, the pain will be felt at the pumps when Inverness residents fuel their vehicles. This government has yet to rule out a new carbon tax for Nova Scotia and many in my constituency will be rightly worried.</p>
+<p>Today I am calling on this government to do the right thing for consumers in my constituency and all across our province and say no to the proposed carbon tax. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings South.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HILL-LEHR, ANDRIA/PREM DE BOER, MR. NISTAL - MONA PARSONS STATUE</heading>
+          <speech by="#keith.irving"><from>MR. KEITH IRVING</from><p>Mr. Speaker, author Andria Hill-Lehr and sculptor Nistal Prem de Boer recently unveiled the design for the statue of war heroine Mona Parsons. Mona Parsons of Wolfville moved to Holland with her husband in 1937 and became part of the resistance by repatriating downed Allied airmen.</p>
+<p>An informer gave them away in 1941, and Parsons was condemned to death. She appealed her sentence and had it commuted to life in prison. Parson was interned in Vechta prison. In 1945 the prison was heavily bombed and she seized the opportunity to escape and devised a plan to get back across Germany without being captured.</p>
+<p>Parsons eventually met a Canadian unit, the North Nova Scotia Highlanders. She returned to Wolfville and married. Mona Parsons is a Nova Scotia war hero. We will be remembering her on Nova Scotia Heritage Day. I thank Andria Hill-Lehr, Nistal Prem de Boer, and others who have worked tirelessly to make Mona Parsons' courageous sacrifices known to Nova Scotians and Canadians. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Northside-Westmount.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX - LIBERALS: REAL TAX RELIEF PROVIDE</heading>
+          <speech by="#eddie.orrell"><from>MR. EDDIE ORRELL</from><p>Mr. Speaker, the call for a new Liberal carbon tax in Nova Scotia is met with concern by many. Many of my constituents are already disappointed with the Liberal Government's flip-flops and broken promises on power rates. Now they are worried that the new Liberal carbon tax will raise power rates even further. It is already too hard to make ends meet for families in this province under the Liberal Government.</p>
+<p>A new job-killing carbon tax that will hike power rates will do nothing to help families, it will only make things worse. Now is not the time for risky, new experiments in the tax field. Instead, it's time for Liberals to get on with the job of providing real tax rate relief for Nova Scotians. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Waverley-Fall River-Beaver Bank.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>LAW, MS. BROOKLYN: DISNEY WORLD PARADES - CONGRATS.</heading>
+          <speech by="#bill.horne"><from>MR. BILL HORNE</from><p>Seven-year-old Brooklyn Law, who dances out of Dance Zone Performing Arts studio, is getting a once-in-a-lifetime opportunity to showcase her talent during two Christmas parades in Disney World, Florida. Normally the program is for eight-year-olds and up, however Brooklyn's mom sent in an audition tape when she was six and Disney provided the special permission for her to attend. Brooklyn will be in two parades while down in Disney World. The first is down Main Street, U.S.A., in front of Disney guests and the other is for the ABC TV taping of Disney Christmas Parade, which will be televised on Christmas Day.</p>
+<p>Mr. Speaker, I would like to congratulate Brooklyn and her family, and wish her much success as she follows her dreams.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle-Barrington.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX: LIBERALS - OBJECT</heading>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Following the release of yesterday's Tax and Regulatory Review, Mr. Speaker, many have expressed concerns about the proposed job-killing carbon tax. I rise today to add my name to those in objection - a Liberal carbon tax will raise the price of many goods and products that Nova Scotia families rely on.</p>
+<p>This is a punitive tax that will hurt those in rural communities the most. Rural Nova Scotians, like my constituents, are rarely able to take advantage of public transportation opportunities. They rely on their vehicles for groceries, medical appointments, and to see family members, and a carbon tax would make life more expensive for them.</p>
+<p>The Liberals have yet to rule out the carbon tax for Nova Scotia. Today I am calling on them to do so, just like I am calling on the member for Halifax Chebucto to do so as well. For that, Mr. Speaker, I'm looking forward to that answer. Thank you very much.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Lunenburg.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CHRISTMAS - SHOP LOCAL</heading>
+          <speech by="#suzanne.lohnes.croft"><from>MS. SUZANNE LOHNES-CROFT</from><p>Mr. Speaker, it can arguably be said that the backbone of any community's economy is its small business. In rural Nova Scotia it can be even more evident. With Christmas approaching and the holiday shopping underway, it is important to think about these small and local businesses when we're buying, they are your neighbours and your friends and by shopping local you are not only helping them, you are helping your entire community. Economists will tell you that each dollar spent in a community circulates through that community seven times. Imagine how much that helps your local economy.</p>
+<p>For my constituents, Lunenburg County offers everything you need from Christmas trees - as we are the balsam fir Christmas tree capital of the world - to food, clothing, presents, and everything associated with holiday cheer. What a better present to give your community than supporting the local businesses that help make it what it is.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CARBON TAX: GOV'T. - VETO</heading>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>Yesterday I quizzed the Premier, the Minister of Finance and Treasury Board, and the Minister of Energy on the proposed job-killing carbon tax. I'm disappointed that on each occasion the Liberals refused to rule out a carbon tax for Nova Scotia. The Liberals have already done enough to deter industry from investing in Nova Scotia. Dithering on whether or not to introduce a new Liberal carbon tax will soon be another black mark against our province.</p>
+<p>If the Liberals were serious about creating jobs in our province, they would forcefully say no to a new carbon tax now, because it's not too late for the Premier and his government to send the right message to job creators. I urge the government to say no to a new carbon tax today.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Halifax Chebucto.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CHRISTMAS SHOPPING - BUY LOCAL</heading>
+          <speech by="#joachim.stroink"><from>MR. JOACHIM STROINK</from><p>As the Christmas season is upon us, we will all head soon to do some Christmas shopping. As you shop for family please consider local small businesses. Small businesses play a huge role in Nova Scotia economy. For every dollar that is spent in a local family-owned business, roughly 62 per cent stays in Nova Scotia. So if you live in Yarmouth, maybe think about shopping at Sandy's Gifts &amp; Ladies Wear; in Glace Bay, Bay Bye Sports; in Halifax, maybe Woozles. These are some small businesses in Nova Scotia that you can support so I encourage all members to shop local.</p>
+<p>I am challenging all members to shop in your constituency and try to do 100 per cent of your Christmas shopping at local businesses. I know my family will be taking this challenge on and I know you will, especially the member for Argyle-Barrington.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>I'd just like to remind the honourable member for Halifax Chebucto not to promote specific businesses in your member statements, local or otherwise.</p>
+<p>The honourable member for Inverness.</p></speech>
+        </debateSection>
+        <debateSection>
+          <heading>BEYOND BORDERS</heading>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, there has been some question about who paid for the ad placed by some of the victims of Ernest Fenwick MacIntosh. That ad was signed by Bob Martin, Dale Sutherland, Alvin MacInnis, Barry Sutherland, Jeff Hadley, and Weldon Reynolds. The ad was paid for by Beyond Borders.</p>
+<p>Beyond Borders Canada is a national advocacy organization advancing the rights of children everywhere to be free from sexual abuse and exploitation. They are a registered charity without political or religious affiliation. They are the Canadian representative of ECPAT International, which is a global network of more than 82 groups in 75 countries, is also the Canadian representative for the Code of Conduct for the protection of children from sexual exploitation in travel and tourism. They raise awareness, advocate for improved legislation, monitor court cases for human rights violations, promote and support effective prevention and intervention initiatives, intervene in court cases to provide a voice for victims, and provide training and education. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>DAVISON, KEVIN: PTSD SONG - CAREER SUPPORT</heading>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>I would like to bring the members' attention, and all Nova Scotians' attention to a new up and coming country artist from our province. Kevin Davison is from Kentville, Nova Scotia and recently has been nominated for a Nova Scotia Country Recording of the Year for 2014, his song <i>Encore</i>. Kevin also had the great opportunity to represent our province at the CCMAs in Edmonton recently where he had two showcases in Edmonton at the Diamonds in the Rough stage and at the prestigious Coast to Coast Showcase at West Edmonton Mall.</p>
+<p>I hope all Nova Scotians will recognize the importance of supporting our young artists but more importantly Kevin has been a paramedic for over 20 years and recently has co-written a song about PTSD, <i>When Those Sirens are Gone</i>. I would hope all Nova Scotians would support him in his music career.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Fairview-Clayton Park.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>FARES, WADIH/BENNET, JACK - CDN. RED CROSS HUMANITARIAN OF YR. AWARD</heading>
+          <speech by="#patricia.arab"><from>MS. PATRICIA ARAB</from><p>Last night the Canadian Red Cross presented their Humanitarian of the Year Awards. This year's recipient was Mr. Wadih Fares. Mr. Fares, along with the 2014 Young Humanitarian recipient, Jack Bennet, are amazing examples of what giving of your time and abilities to those in need can do to make our world a better place.</p>
+<p>In the words of Lebanese poet Gibran Khalil Gibran: I felt in my heart to give a little because I was given so much. Mr. Fares and Mr. Bennet are prime examples of this philosophy and their message and positivity should be embraced by all of us. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>DAVISON, KEVIN: MUSIC CAREER - SUPPORT</heading>
+          <speech by="#david.allan.wilson">
+            <from>HON. DAVID WILSON</from>
+            <p>Thank you, Mr. Speaker. I want to again hopefully encourage all members of the House to support Kevin Davison in his music career. I did forget to mention that he has been contacted by CTV to perform next week his song about PTSD, <i>When Those Sirens Are Gone</i>. It just shows the commitment on behalf of the profession as paramedics that Kevin wants to give back to that profession in hopes to hopefully support any of his colleagues or anybody within the emergency response team who finds themselves with PTSD. I hope all Nova Scotians would encourage and support him.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cape Breton-Richmond.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>LEGISLATURE STAFF - THANK</heading>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Thank you, Mr. Speaker. Today seems an appropriate day to reflect on this fall session, which has lasted approximately eight weeks. The work that we do here as parliamentarians would not be possible without the assistance and the guidance of yourself as Speaker, our Deputy Speaker, Legislative Counsel, the Clerks who work here, our beloved Pages who have spent some long days and long nights with us here along with all the other staff, as well as Margaret Murphy and her team in the Legislative Library, our Commissionaires who have been here with us during this sitting, our administrative people, Mike Laffin and Peter Theriault as well, and I should always remember Hansard and Legislative TV for the work that they do for us as well.</p>
+<p>As well, outside of this Chamber, we wouldn't be able to do our work if it wasn't for our hardworking caucus staff who work to prepare us for our work, and as ministers, our executive assistants and department staff who are there to assist us during these sittings. With that, Mr. Speaker, I'm sure on behalf of all members, I want to thank all of the men and women who help us do the work that we do and help us keep our democracy alive and strong here in Nova Scotia.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Dartmouth South.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HFX. EXPLOSION - NOVA SCOTIANS REFLECT</heading>
+          <speech by="#allan.rowe"><from>MR. ALLAN ROWE</from><p>Mr. Speaker, on Saturday, December 6<sup>th</sup>, communities right across our region will gather to commemorate the 97<sup>th</sup> Anniversary of the Halifax Explosion. I'm sure all members of this Legislature know and appreciate the details of that fateful day in 1917. Of course, in light of this week's events with the Boston tree-cutting and send-off, I join my colleagues in reflecting on the impact which this disaster has had on our region.</p>
+<p>Mr. Speaker, I'm sure you join me in paying respects to the more than 2,000 souls who perished on that day and the 9,000 individuals who suffered injuries in the Halifax Explosion. I wish to recognize the brave individuals who came to the rescue of those who needed assistance as well as those who were trapped under debris, who were injured and needed medical attention, and those who were dedicated to searching for their family members and neighbours who were missing in the wake of the explosion. In no small part, the Halifax Explosion has shaped our cultural identity. On December 6<sup>th</sup>, I encourage all Nova Scotians to take a moment and reflect on this solemn occasion.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Lunenburg West.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>GLEN MURRAY HOCKEY TOURNAMENT</heading>
+          <speech by="#mark.furey"><from>HON. MARK FUREY</from><p>Thank you, Mr. Speaker. This weekend, two of our local high schools, Park View Education Centre and Bridgewater High School, will partner for the 12<sup>th</sup> time to bring us the Glen Murray Hockey Tournament. This year, we'll see 14 teams from across the province as well as a team from Slovenia compete against each other for the championship banner. A tournament such as this would not be possible without the dedicated volunteers and parents who spend hours leading up to and during the tournament to ensure a positive hockey experience for all in attendance. This tournament is named for our local hockey hero Glen Murray, who spent many years in the NHL and continues to promote and support local hockey in the area.</p>
+<p>I'd like to acknowledge the parents and volunteers who have continued to make this tournament a success, one that brings visitors from across the province, and to the players of this tournament for showcasing their skill and school spirit as they play for their respective high school teams. Thank you, Mr. Speaker.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings South.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>KINGS/ANNAPOLIS COS. - FOAM POLYSTYRENE RECYCLING PROG.</heading>
+          <speech by="#keith.irving">
+            <from>MR. KEITH IRVING</from>
+            <p>Thank you, Mr. Speaker. Nova Scotia is recognized the world over as the leader in recycling and solid waste resource management. Yesterday, I was pleased to announce on behalf of the Minister of Environment &#x2026;</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Order, please. The honourable member for Kings South has the floor.</p>
+          </speech>
+          <speech by="#keith.irving"><from>MR. IRVING</from><p>Thank you, Mr. Speaker. Yesterday I was pleased to announce on behalf of the Minister of Environment that in Kings and Annapolis Counties we have achieved yet another milestone with the foam polystyrene recycling program, the first of its kind in Nova Scotia. Our new ability to recycle foam polystyrene products significantly increases the sustainability of our solid waste resource system and our waste diversion rates.</p>
+<p>Thanks to the collaboration and innovation of the key project partners Valley Waste Resource Management, Scotia Recycling, CFK Inc., the Canadian Plastics Industry Association, and the Resource Recovery Fund Board, we are significantly closer to achieving our goal of reducing per capita solid waste disposal to 300 kilograms per year, and can look forward to recycling foam polystyrene throughout the province in the years to come. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cole Harbour-Eastern Passage.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>EAST. PASSAGE-COW BAY COMMUN. FOOD BANK CHRISTMAS CAROL SING</heading>
+          <speech by="#joyce.treen"><from>MS. JOYCE TREEN</from><p>Mr. Speaker, on the evening of December 14<sup>th</sup>, the Eastern Passage-Cow Bay Community Food Bank will be holding a Christmas carol sing at the St. Peter's Anglican Church in Eastern Passage. The carol sing is a fundraiser for our local food bank. Donations of food, along with cash donations, are welcome on that evening as well.</p>
+<p>This is a great feel-good event and a chance to give back to the people in need. Participants will enjoy the beautiful Christmas music, snacks, and refreshments, along with the company of your friends and neighbours. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Hammonds Plains-Lucasville.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>OPPOSITION: ATTITUDE CHANGE - CONSIDER</heading>
+          <speech by="#ben.jessome"><from>MR. BEN JESSOME</from><p>Mr. Speaker, on several occasions I've heard children, often times too young to have made the decision on their own, say that there's nothing here for me and I'm going out West. A couple of weeks back I had the privilege of listening to Dan Christmas speak, and he spoke about an attitude change, a change in the way we converse with the next generation.</p>
+<p>In this House we constantly hear the Opposition say we're doing nothing and that we're banning jobs. I would like to encourage the Opposition and all naysayers in Nova Scotia to think about an attitude shift and refrain from packing the bags of the next generation for them.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Fairview-Clayton Park.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>ANNAPOLIS MLA ET AL - BIRTHDAYS CONGRATS.</heading>
+          <speech by="#patricia.arab">
+            <from>MS. PATRICIA ARAB</from>
+            <p>Mr. Speaker, on a significantly lighter note, there have been a number of birthdays that have already been celebrated during this session of the Legislature, but over the past two weeks we've missed a few that have taken place. Before we finish I'd like to wish very happy birthdays to the honourable member for Annapolis, whose birthday was November 10<sup>th</sup>; the honourable member for Cape Breton-Richmond, whose birthday was November 15<sup>th</sup>; and the honourable member for Clayton Park West, whose birthday is actually today. Happy birthday to all of my esteemed colleagues.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Waverley-Fall River-Beaver Bank.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>LOCKVIEW HIGH KIDS HELP PHONE</heading>
+          <speech by="#bill.horne"><from>MR. BILL HORNE</from><p>Mr. Speaker, the Lockview High Kids Help Phone has been an ongoing organization at the school for many years, dedicated to raising funds and spreading awareness for Kids Help Phone, being one of only two schools in all of HRM to have a Kids Help Phone group. They have a lot of pride in what they do and what they stand for. This past September and October, the group worked to raise money for one of their two major fundraisers, raising nearly $1,300 - an all-time school record.</p>
+<p>The Lockview group is pleased to know the money they raised will go toward helping youth like themselves at their school, in their communities, and across the entire country, and are extremely excited to continue with their work for the duration of the school year. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Lunenburg West.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>VOGLERS COVE COMMUN. HALL</heading>
+          <speech by="#mark.furey"><from>HON. MARK FUREY</from><p>Mr. Speaker, I would like to recognize the Voglers Cove Community Hall on its fine board of directors. This group of community members have worked tirelessly to renovate an existing community hall, creating the heart of their community. I can tell you that the pride shown by community members is second to none. They've contributed with the fundraising, the planning, and the construction, and are now enjoying the fruits of their labour. This hall is used for so much more than a monthly breakfast. There are volunteers who take time to read to young children during a weekly story hour, and they have book signing events and card parties, to name a few.</p>
+<p>The group of volunteers who have made this happen are a strong and determined group who are always looking for ways to make their community just a little better, a little stronger, and a unified group who can teach us a wonderful lesson about teamwork and the ability to persevere.</p>
+<p>Mr. Speaker, I'd like to acknowledge and congratulate the people of Voglers Cove Community Hall for the community spirit, and wish them all the best of luck as they continue to serve their community.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>In the absence of no further Statements by Members, the House will now stand in recess until 3:00 p.m.</p>
+          </speech>
+        </debateSection>
+      </debateSection>
+      <narrative>
+        <p>2:46 p.m. The House recessed.</p>
+      </narrative>
+      <narrative>
+        <p>3:00 p.m. The House reconvened.</p>
+      </narrative>
+      <questions>
+        <heading>ORAL QUESTIONS PUT BY MEMBERS TO MINISTERS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable member for Inverness.</p>
+        </speech>
+        <debateSection>
+          <heading>JUSTICE - LIMITATIONS LEGISLATION: MISHANDLING - MOTIVATION</heading>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, my question is for the Minister of Justice. For the last two weeks, the Minister of Justice has ignored invitations to meet, ignored emails, disregarded reasonable amendments, provided inaccurate information to this House, and has repeatedly been unable or unwilling to answer straightforward Opposition questions about limitations legislation. Worst of all, she has made survivors of historical sexual abuse feel like victims again because of her tragic mishandling of this vitally important issue.</p>
+<p>My question, was her mishandling of limitations legislation done on purpose or was it just incompetence?</p></speech>
+          <speech by="#lena.m.diab">
+            <from>HON. LENA DIAB</from>
+            <p>Mr. Speaker, thank you to the honourable member for that very important question that he has asked over and over again in the last two days. I feel I've responded to it in English and French, and the next time I will respond in Arabic as well. I have said on many occasions that I have been honest and I've been upfront. I've brought in legislation that is a good piece of legislation for all sexual assault victims, for all victims and for all litigants who are going through civil procedures and civil processes in court in the Province of Nova Scotia. Thank you very much.</p>
+          </speech>
+          <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Mr. Speaker, not for all of them. Before introducing Bill No. 64, the minister should have been aware of similar legislation across the country. Because she did not do her homework, many victims of historical sexual violence have been made to feel that they matter less than other victims. Instead of doing what was right and fixing her legislation, the minister blamed her staff.</p>
+<p>Will the minister finally take responsibility for letting victims down and resign?</p></speech>
+          <speech by="#lena.m.diab">
+            <from>MS. DIAB</from>
+            <p>Mr. Speaker, thank you to the honourable member for the question. No, I'm not going to resign. It's absurd. I've never heard of any such thing. We have brought in a good piece of legislation that protects all victims. Thank you.</p>
+          </speech>
+          <speech by="#allan.gerard.macmaster">
+            <from>MR. MACMASTER</from>
+            <p>Mr. Speaker, I don't know. We've talked about it in here at length. We've given the minister four chances; four times, this government has voted against it. Can the minister explain why she will not give the same rights? Can she explain why she is not recognizing that this legislation existed, that she was aware of it? Why?</p>
+          </speech>
+          <speech by="#lena.m.diab">
+            <from>MS. DIAB</from>
+            <p>Mr. Speaker, thank you for his question. We have said that we will look at this information and we will examine it, and if appropriate, we will bring amendments. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Acting Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM.: HST EXEMPTIONS - ELECTION PROMISES</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, my question through you is to the Premier. On Page 7 of the 2013 election platform for the Liberal Party, the Premier promised to "Maintain all current HST exemptions." I'll table that.</p>
+<p>Yesterday during Question Period, when the Premier was asked if he would keep his commitment in regard to HST rebates, the Premier would not answer. Instead, he chose to take the opportunity to thank members of his Party for their help in drafting their platform.</p>
+<p>My question for the Premier is this, when it comes to keeping the HST off essentials like diapers, books, children's clothing, and home energy, why is the Premier refusing to reiterate the same promise he made to voters just 13 months ago?</p></speech>
+          <speech by="#stephen.mcneil">
+            <from>HON. STEPHEN MCNEIL</from>
+            <p>Mr. Speaker, I want to thank the honourable member for the question. I again want to thank the members of Nova Scotia who have supported us and helped us draft the platform that we are continuing to move forward on. We'll continue to implement it to ensure that we keep all of our commitments to the people of this province.</p>
+          </speech>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>Mr. Speaker, according to official sources, which I'll table, the average family of three with a newborn child in Nova Scotia spends about $150 a month on electricity, $72 a month on diapers, and $60 a month on children's clothing. This means that under the Liberal plan that we saw yesterday, these families could end up paying considerably more a year in taxes, $300 on these household essentials alone.</p>
+<p>My question for the Premier, at a time when Nova Scotia is struggling with out-migration and a stagnating economy, how is increasing costs for young families by $300 a year going to encourage them to remain in our province?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>I want to thank, again, the honourable member for the question. I want to correct her comments, Mr. Speaker, there was no Liberal plan that she saw yesterday, there was an independent report brought out that all Nova Scotians can look at. Our government will receive it and move forward. What she can count on is that we've delivered on our platform, we'll continue to deliver on our commitments to the people of this province, and we'll continue to deliver good government to the people of Nova Scotia.</p>
+          </speech>
+          <speech by="#maureen.macdonald">
+            <from>MS. MACDONALD</from>
+            <p>Mr. Speaker, on Page 4 of the Liberal Platform the Premier promises his tax review will be guided by "the principles of simplicity and fairness." Well one out of two is not bad - and I'll table that as well. So my question for the Premier is, how is giving top earners thousands of dollars in tax breaks, while charging young families an additional $300 a year on home essentials, ensuring tax fairness for Nova Scotians?</p>
+          </speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, I want to thank the honourable member for the question, and I want to, again, remind her that the report brought forward is an independent analysis done on behalf of all Nova Scotians. I want to assure the honourable member I won't do what the former government did, which was give themselves a tax break.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Inverness.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM. - BILL NO. 64 MISHANDLING: JUSTICE MIN. - FIRE</heading>
+          <speech by="#allan.gerard.macmaster"><from>MR. ALLAN MACMASTER</from><p>Mr. Speaker, my question is for the Premier. In a letter to the Premier just today the executive director of Avalon Sexual Assault Centre outlined her concern that survivors of historical abuse are left out of this government's legislation. She says her participation in the government's initial press conference was based on the understanding that limitations for all victims of sexual assault would be abolished.</p>
+<p>She says: "Inadvertently, this decision causes another layer of secondary wounding for victims/survivors of historical sexual assault/abuse, and continues to create barriers to access to justice. It sends a message that those people who have been sexually victimized in the past do not deserve the same options under the law as victims that will come after them."</p>
+<p>And she goes on to say: "If true systemic change is to happen in this province then any time limitations pertaining to sexual assault/abuse, intimate partner violence, and child abuse within this Act must be eliminated."</p>
+<p>My question is, advocates for victims of sexual assault were misled by the Justice Minister's incompetent handling of Bill No. 64 - if she does not resign today will the Premier remove her?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>The answer is no.</p>
+          </speech>
+          <speech by="#allan.gerard.macmaster"><from>MR. MACMASTER</from><p>Once again, Mr. Speaker, the Premier and this government say no to historical victims of sexual abuse and sexual violence.</p>
+<p>In an email sent to the Minister of Justice, Lynn Martin, Bob Martin's spouse, expresses her disappointment that the Minister of Justice did not do her homework on limitation legislation. She urges the minister to rethink her position as Justice Minister and do her research on behalf of all Nova Scotians. Failing that, Mrs. Martin asks the minister to resign.</p>
+<p>My question is, victims and their families have completely lost faith in this Minister of Justice; if the Premier truly wants to make changes to limitation legislation he needs someone else to do it - will the Premier remove the Minister of Justice and restore Mrs. Martin's faith in Nova Scotia's justice system?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>I want to thank the honourable member for the question. We have said in the very beginning the piece of legislation that has been brought before this House is a good piece of legislation and it builds on an Act that was already passed, had been law in this province. We have information that has been brought before us, we said we would review it, we would analyze it, we would look at it, and if the bill needs to be amended going forward we would do so.</p>
+<p>But let me assure all members of this House, I have all the confidence in the Minister of Justice to continue to do her job the way she has been doing it on behalf of all people in the Province of Nova Scotia.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Acting Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM.: HST REFERENDUM - PREM. CONFIRM</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>My question through you is to the Premier. Yesterday the government received findings from the tax review they commissioned earlier this year, and one recommendation is to eliminate rebates for the provincial portion of the HST on family essentials, like children's clothing, diapers, and home energy.</p>
+<p>In 2013, the NDP Government passed a law in this Chamber that would require a referendum before the provincial portion of the HST could be added back to these family essentials. Mr. Speaker, my question is, when will the Premier hold a referendum on whether to put the HST back on family essentials?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, she's right. That is the law in this province. We have made no decision to put the HST back on anything. We're going to receive that report. There's a lot of information in that report; we're going to analyze it. We're going to continue to move forward, but we will respect the law of the province.</p>
+          </speech>
+          <speech by="#maureen.macdonald"><from>MS. MACDONALD</from><p>In April 2013, the Premier was asked about holding a referendum before putting the HST back on family essentials. He said he had "&#x2026; no idea why the government would chose [sic] to protect these items through a referendum. 'It's irrelevant to me. We're not talking about adding HST to any of these items &#x2026; It's funny, they want (Nova Scotians) to have a say on issues that no one's talking about.'"</p>
+<p>Well let me tell you, Nova Scotians are talking about this now. My question for the Premier is, will he commit today to keeping the current HST exemptions on home energy and family essentials, or is he prepared to hold a referendum?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>As I said in my previous answer, we have not at all entertained the idea of moving forward with increasing the HST. It's interesting the member's talking about a piece of legislation I brought in on a referendum. It's too bad they didn't hold a referendum when they increased the HST by 2 per cent. Wait a minute, they did. It was called a general election.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the Official Opposition.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM.: CARBON TAX (B.C.) - COMPARISON</heading>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, my question is for the Premier. The Liberal tax report proposes a carbon tax for Nova Scotia modelled on the one in British Columbia, but that is completely unfair to the people of Nova Scotia. B.C. gets over 90 per cent of their electricity from hydroelectricity, which of course does not emit any carbon, while here in Nova Scotia we get over half of ours from coal and natural gas.</p>
+<p>It's bad enough they want to ban natural gas development; now they want to tax it, too. I'd like to ask the Premier if he will confirm that copying the B.C. carbon tax is the wrong thing to do for Nova Scotia.</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, I can assure the honourable member I have not looked at the B.C. carbon tax. I have no idea how they apply it, what it's applied to. We're moving forward to govern the Province of Nova Scotia and are focused on moving this province forward.</p>
+          </speech>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Well, the Premier commissioned a $154,000 report to tell us that we should have a carbon tax like B.C. even though it would raise our electricity prices, which are already the highest in the country. Comparing us to B.C. is completely unrealistic. You know, Australia has a carbon tax and they have the exact same fuel mix for electricity as we do, and their prices went up 25 per cent.</p>
+<p>I'll just ask the Premier, will he confirm we will not have a carbon tax like B.C. which drives up electricity prices here in Nova Scotia?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Again, I want to tell the honourable member I have not looked at the carbon tax in B.C., nor have I looked at what's happening in Australia. I can tell you what I have done - continue to support the Minister of Energy to bring down energy prices in the province.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Acting Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM.: TAX REVIEW - FAVOURITISM</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, my question through you is to the Premier. Now that we have seen the government's tax review, we know their road map is for increasing inequality. There's not a lot of fairness in the government's tax review. People earning $60,000 will pay more tax and people earning $150,000 will pay less.</p>
+<p>Can the Premier please explain why his government's tax review helps the wealthiest Nova Scotians at the expense of middle-income earners?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Again, I want to tell all members of this House that it's an independent report. The author of the report talked to Nova Scotians. She put out what she heard, the thoughts that she had. That report will be brought in, will be looked at; we will analyze it. But again, I want to remind the honourable member it was her government that actually gave Cabinet Ministers a tax cut at the expense of poor Nova Scotians.</p>
+          </speech>
+          <speech by="#maureen.macdonald">
+            <from>MS. MACDONALD</from>
+            <p>Mr. Speaker, I want to remind the Premier that as Finance Minister, I saw a lot of these proposals and rejected them. The Canadian Union of Public Employees says the government's tax review is a regressive plan. The Canadian Centre for Policy Alternatives says the plan is eroding tax fairness. The government's tax plan to eliminate the income tax refund for low-income seniors and for first-time homeowners will make things much tougher for these people in our province. So why does the government's tax review chart a path to greater inequality for Nova Scotians?</p>
+          </speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Mr. Speaker, I want to thank the honourable member for the question. Again, I want to remind her that it is an independent review. It's not the government's plan. It was one that was an independent analysis. We'll look at it with all the information that comes forward.</p>
+<p>I want to remind all members of this House, and indeed all Nova Scotians, that the honourable member was a member of a Cabinet but we learned very quickly that they didn't make any decisions, Mr. Speaker; they were made on the seventh floor by the unelected part of that government.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Leader of the Official Opposition.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM. - N.S. POWER: MONOPOLY - DETAILS</heading>
+          <speech by="#jamie.baillie"><from>HON. JAMIE BAILLIE</from><p>Mr. Speaker, we learned today another version of the Liberal energy policy has been released and I will table it. As reported in the local paper, "Grits pull back on rate relief for NSP customers." The Minister of Energy is now saying they are going to delay wind projects in order to try to save money.</p>
+<p>Mr. Speaker, the whole break-the-monopoly promise was based on the premise that there would be renewable suppliers, including wind, to compete with Nova Scotia Power. I'd like to ask the Premier, is the monopoly on Nova Scotia Power broken or is that another promise that is just blowing in the wind?</p></speech>
+          <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Yes, I want to tell the honourable member that the monopoly of Nova Scotia Power is broken. I am pleased to report the municipal utilities across this province are looking for other power sources, not only inside but outside. They are looking for an opportunity to provide savings for their ratepayers and continue to provide competition.</p>
+<p>I also want to remind all members of this House that we removed the efficiency tax off power bills as of January 1<sup>st</sup>. We've created a separate Efficiency Nova Scotia, which is in direct competition with the fuel mechanism, and we continue to drive down prices on the fuel side.</p></speech>
+          <speech by="#jamie.baillie"><from>MR. BAILLIE</from><p>Mr. Speaker, of course all Nova Scotians know that the monopoly of Nova Scotia Power is, in fact, still in place. They are now realizing that our efficiency tax is not being removed, it is being deferred to a future day, with interest. The minister now says he is going to save money by delaying wind projects, which are the very competitors that the government held up as they are to compete against Nova Scotia Power.</p>
+<p>So the Premier says this is all going to happen, I'll just ask him very simply, how many competitors have actually registered, under the new Liberal policy, to compete against Nova Scotia Power?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, what is happening is we are seeing municipal utilities across this province looking to purchase power from other fuel sources, looking to buy energy from other people, which in turn is good for those customers. We are seeing a set-up where we've created a separate entity, which is driving competition on the fuel side. We've seen the Utility and Review Board drive down those prices and we're very encouraged by the way communities across this province are looking at ways to generate their own energy so they don't have to purchase energy from Nova Scotia Power. They are looking after their own communities and their own community energy needs.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sackville-Cobequid.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>MUN. AFFS.: EMERGENCY RESPONDERS - SUPPORT</heading>
+          <speech by="#david.allan.wilson"><from>HON. DAVID WILSON</from><p>Mr. Speaker, my question is for the Minister of Municipal Affairs. A 2008 news release about fire service in our province, the member for Annapolis spoke about the need to "&#x2026; support the hard work of firefighters here in Nova Scotia who selflessly protect all of us." I'll table that.</p>
+<p>I would agree with him, Mr. Speaker. These are people who literally run into burning buildings when everyone else is running out of them. So my question to the Minister of Municipal Affairs is, does he agree that emergency responders like firefighters deserve the provincial government's support?</p></speech>
+          <speech by="#mark.furey">
+            <from>HON. MARK FUREY</from>
+            <p>Mr. Speaker, I thank my colleague for the question. I, too, agree with his assessment of our firefighter service and the individuals who risk their lives on a regular basis. I had the good pleasure over many years to work side by side with our emergency first responders and can tell you there is nobody in this House who values their service more than I do.</p>
+          </speech>
+          <speech by="#david.allan.wilson"><from>MR. DAVID WILSON</from><p>I'll compete with the minister on that one, I don't know about that one, Mr. Speaker; I'll challenge him on it but I agree with him.</p>
+<p>According to the organization Volunteer Canada, 80 per cent of Canadian firefighters are volunteers. In some rural areas of our province, for example, Mr. Speaker, 100 per cent of those firefighters are volunteers. For many years now the provincial government has been giving these hard-working men and women volunteers a tax rebate, a small token of appreciation for the work that they do. So my question through you to the Minister of Municipal Affairs is, given the important role volunteer firefighters play in our province, why is this government entertaining eliminating their tax rebate?</p></speech>
+          <speech by="#mark.furey">
+            <from>MR. FUREY</from>
+            <p>I appreciate the question. As has been stated in this House before, the report submitted is simply an independent report with a number of recommendations. We will consider all of the recommendations in the assessment over the next number of months.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>FIN. &amp; TREASURY BD. - VOL. FIREFIGHTER TAX CREDIT: ELIMINATION - DETAILS</heading>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>My question is for the Minister of Finance and Treasury Board. Page 35 of the Liberal tax plan contains Recommendation 1.7 which calls for the elimination of the volunteer firefighter tax credit. We ask our volunteers to train, practice, and then risk their lives by running into burning buildings. This tax credit is just a small thank you and now it is at risk of being taken away.</p>
+<p>My question for the minister is, will the minister reassure our brave volunteer firefighters that she won't consider for one millisecond the elimination of one of the few ways that government expresses its appreciation for the work our volunteer firefighters do?</p></speech>
+          <speech by="#diana.whalen"><from>HON. DIANA WHALEN</from><p>I appreciate the opportunity to answer that question today about the firefighters and the tax credit. As it has already been said, all members of this House appreciate the work of all first responders and firefighters and the work that they do every day. That goes without saying and it's nothing but really cheap shots to say otherwise, I would say.</p>
+<p>Mr. Speaker, what we're doing here today - well perhaps I'll wait for a second question.</p></speech>
+          <speech by="#tim.houston">
+            <from>MR. HOUSTON</from>
+            <p>Well my question was why would the minister consider for one millisecond the elimination of the tax credit? So I will give her another chance to answer because many of us do stand in this House to praise and recognize the outstanding work of volunteer firefighters and I certainly do that on a number of occasions. My question quite simply for the minister is the same, and hopefully we can get an answer this time. Why would the minister tell this House that she will not consider taking away the volunteer firefighter tax credit? It's the only way to encourage volunteer firefighters to join and stay committed.</p>
+          </speech>
+          <speech by="#diana.whalen">
+            <from>MS. WHALEN</from>
+            <p>I think the context of this report is very important. All members of the House knew that a campaign commitment was made to ask for a tax review on all of our taxes, fees, and regulations. That was a commitment made and a commitment kept. It has been done at an arm's length. It has been done with the consultation of many people and now we have the responsibility to look at it and I would hope that you would also look at it in its entirety. It's not intended to be discussed in one little piece at a time or taken out of context. Mr. Speaker, that's the story.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Chester-St. Margaret's.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>ERDT - TAX REPT.: ECONOMY - EFFECT</heading>
+          <speech by="#denise.peterson.rafuse"><from>HON. DENISE PETERSON-RAFUSE</from><p>Mr. Speaker, for the last year the Minister of Economic and Rural Development and Tourism sat on his hands as nearly 10,000 jobs vanished, and that saga continued this week. Yesterday the government received a tax report that lacked even basic language on jobs and the economy. The government's new tax report refused to talk about what effect the new tax package would have on our economy or if the government's new tax system will even create one single job.</p>
+<p>My question to the Minister of Economic and Rural Development and Tourism is, how could the minster allow this government to commission a tax report that is completely silent on economic impacts and job creation?</p></speech>
+          <speech by="#michel.p.samson">
+            <from>HON. MICHEL SAMSON</from>
+            <p>Mr. Speaker, I'd like to refer the member to Valerie Payn of the Halifax Chamber of Commerce to answer that question for her.</p>
+          </speech>
+          <speech by="#denise.peterson.rafuse"><from>MS. PETERSON-RAFUSE</from><p>Mr. Speaker, if the minister thinks taxing low- and middle-income earners is funny, or to give to the rich a tax break will create jobs, he's dead wrong. The minister might not believe it but it's the workers in our province who make our economy strong.</p>
+<p>My question is, can the minister explain how taxing books, diapers, and children's shoes will help workers in Nova Scotia who make less than $150,000 a year?</p></speech>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Mr. Speaker, what we learned the hard way of what doesn't work is a Cabinet that sits there with a chequebook and writes cheques to winners and losers in the hundreds of millions of dollars with no accountability, which did not create jobs but certainly increased the debt of this province.</p>
+<p>We learned and we have listened to the business community that have asked us to work with them to create the winning conditions. We have made significant reforms to the way we do economic development in this province. One of the concerns we have heard is taxation, as well we have received a report that provides a myriad of different suggestions relating to that. We will continue to work very closely with not only the business community, but with all Nova Scotians, to move this province forward.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle-Barrington.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>ERDT - TAX REVIEW: E-GOV'T. - BROADBAND SERV. EXTEND</heading>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, the government's Tax and Regulatory Review recommends, on Page 87, that government take advantage of new information technology, noting that e-government and regulatory reform are a natural fit. The report finds that technology is an essential tool in engaging and motivating citizens in many processes that enable regulatory reform. While successful examples exist where citizens can access these services, it may not be a normal fit for many Nova Scotians whose existing Internet service may not be capable of accessing basic web pages, let alone participating in forms of e-government services.</p>
+<p>My question to the Minister of Economic and Rural Development and Tourism is, since this broadband service was partially supported by government, what actions can the department take to bring these residents into the current century and be able to participate in forms of this recommended e-government?</p></speech>
+          <speech by="#michel.p.samson">
+            <from>HON. MICHEL SAMSON</from>
+            <p>Mr. Speaker, as I've stated numerous times in this House, the rural broadband initiative started in 2006, was implemented in 2007, and it has gone through successive governments. As I indicated the intention was to have 100 per cent connectivity. That has proven to be a challenge due to some of the geographical aspects of our province. We continue to work closely not only with Eastlink for some of the areas that are not receiving the level of service that they should, but as well we continue to await some of the details from our federal counterparts that have announced there will be funding coming for better broadband service throughout the country.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont"><from>MR. D'ENTREMONT</from><p>Mr. Speaker, I thank the minister for that answer. We know that not so long ago I introduced a petition in this House of Assembly with 800 names of people who were very unhappy with the Eastlink service in southwestern Nova Scotia, and these are the kinds of Nova Scotians who would not be able to directly access e-government services that are supposedly - according to the report - a significantly improved access to reliable information to alleviate a significant burden on businesses through better internal information sharing.</p>
+<p>Since it would be the Nova Scotia Government and not the federal government to implement these types of changes to allow greater access, what will the minister do so that all Nova Scotians and provincial business could access e-government services that the report calls an essential tool in engaging citizens?</p></speech>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>Our department continues to work with some of the C@P sites that are located throughout the province that Nova Scotians can access to receive service. I believe the member is aware of that, but at the same time I have acknowledged the fact that there are still way too many Nova Scotians who do not have access to high-speed Internet or those who have access are certainly not getting the speed that one would deem to be high speed.</p>
+<p>It's a problem that has existed for quite some time, as I mentioned. The initiative started in 2006, so it's certainly not something that started in October 2013. I work with the providers in question to try to find solutions and remain hopeful that we are going to be able to find a long-term solution to this very problem.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Sydney River-Mira-Louisbourg.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>FIN. &amp; TREASURY BD. - CARBON TAX: DONKIN MINE - EFFECT</heading>
+          <speech by="#alfie.macleod"><from>HON. ALFIE MACLEOD</from><p>Mr. Speaker, my question through you will be to the Minister of Finance and Treasury Board. Yesterday's Liberal tax plan calls for a carbon tax, a tax that kills jobs and raises power. That news will strike fear into those that who want to see the Donkin mine open and those who hope to work at the mine.</p>
+<p>My question to the minister is, will the minister allow the job-killing carbon tax to jeopardize the development of the many jobs at the Donkin mine?</p></speech>
+          <speech by="#diana.whalen">
+            <from>HON. DIANA WHALEN</from>
+            <p>Mr. Speaker, I'd like to just refer again to the fact that this is a report that was done and commissioned as a commitment during the last election that we would look at all taxes throughout. We are going to give it some consideration for everything that's in it, but I want to assure the member opposite, you will be invited to the opening of the Donkin mine.</p>
+          </speech>
+          <speech by="#alfie.macleod"><from>MR. MACLEOD</from><p>Well, I want to thank you now for that invitation. Mr. Speaker, the Ivany report points out that Nova Scotia has untapped potential for resource development, and some of those in the House have heard me sing this song a long time. The tax review seeks to kill resource jobs with a carbon tax.</p>
+<p>My question to the minister is, which report will the Minister of Finance listen to? The Ivany report, to use our resource development, or the Broten report that includes a job-killing carbon tax?</p></speech>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, it's amazing to me how really complex issues can be boiled down into such trite questions. I'm really surprised. (Interruptions) I think it's parliamentary, I do.</p>
+<p>There are a host of recommendations in this report. They are interrelated, they are complex, and they require some consideration. It's been 24 hours since we've seen this report. The report we have before us took into account - and I know it took into account - the Ivany report and the recommendations there. This government has nothing more than a commitment to see the province succeed and improve, and that's where we'll stand.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Truro-Bible Hill-Millbrook-Salmon River.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>CCH - SOUND RECORDING TAX CREDIT: ELECTION PROMISE - BREACH</heading>
+          <speech by="#lenore.zann"><from>MS. LENORE ZANN</from><p>Thank you, Mr. Speaker. My question today is for the Minister of Communities, Culture and Heritage. The Liberal platform made a promise to Nova Scotian artists and the platform reads, "A Liberal government will strengthen Arts and Culture and will continue to support our thriving cultural industries by &#x2026; Implementing a Sound Recording Tax Credit" in the first year. I will table that.</p>
+<p>However, the first year has come and gone, and the Liberal Government's recent tax review makes no mention of this plan for the music industry. Can the minister explain why he has moved away from keeping this election promise to implement a sound recording tax credit?</p></speech>
+          <speech by="#tony.ince">
+            <from>HON. TONY INCE</from>
+            <p>Thank you, Mr. Speaker. I will punt that to the Minister of ERDT. Thank you.</p>
+          </speech>
+          <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Thank you, Mr. Speaker. The member would be aware that we just recently announced the extension of the Film and Digital Media Tax Credits. We have received accolades from throughout the industry for having done that.</p>
+<p>What I can tell the member is that we continue to consult with the industry as to what exactly the sound digital recording tax credit should look like. We want to ensure that it is a reflection of what will best serve the industry. I think it's a perfect example of where government is actually listening to those who would be impacted by this prior to implementing that credit.</p></speech>
+          <speech by="#lenore.zann"><from>MS. ZANN</from><p>All I can say to that is I look forward to seeing what they actually do as opposed to just making promises. The Liberal platform also states that their promises to the arts and culture community are designed to strengthen " &#x2026; Nova Scotia's heart and soul". I would like to remind all Nova Scotians that it was our NDP Government that brought back the Arts Council, as we promised, approved the new Black Loyalist Heritage Centre, and improved the film and television tax credits which are now improving our creative economy.</p>
+<p>Can the minister of Communities, Culture and Heritage please explain why taxing books is "Strengthening Nova Scotia's heart and soul".</p></speech>
+          <speech by="#tony.ince">
+            <from>MR. INCE</from>
+            <p>Thank you for that question. I will say to you that our government has put forward a tax review. We have explained to you what the tax review and its recommendations are for Nova Scotians. We will address all those issues for you. Thank you.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Acting Leader of the New Democratic Party.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>FIN. &amp; TREASURY BD. - BROTEN REVIEW: FIN. DEPT. ASSISTANCE - DETAILS</heading>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, my question through you is to the Minister of Finance and Treasury Board. It's only 24 hours ago, approximately, that we had the release of the tax review, and the government already appears to be distancing themselves from some aspects of this report, if not the entire report. (Interruptions)</p>
+<p>Mr. Speaker, this report was commissioned at a cost of $150,000 to the taxpayers of the province, and it was led by a former Liberal Party Cabinet Minister from the Province of Ontario, and now the government are talking about how independent this report is.</p>
+<p>I'll table a letter from Ms. Broten at the front of the report that indicates the assistance she had from staff in the Department of Finance and Treasury Board &#x2026;</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Does the member have a question?</p>
+          </speech>
+          <speech by="#maureen.macdonald">
+            <from>MS. MACDONALD</from>
+            <p>Mr. Speaker, my question to the minister is, would she please outline what assistance her staff provided in preparing the tax review that Ms. Broten refers to in her report?</p>
+          </speech>
+          <speech by="#diana.whalen"><from>HON. DIANA WHALEN</from><p>Mr. Speaker, that is a good question. I'd be happy to discuss that here in the House in this Oral Question Period. It's well known that we engaged a lead for the tax review. That person is Laurel Broten, and she came by herself, without an entourage of other consultants. It would have cost a lot more than the current price, had she had others, not to mention that to do things like tax modelling is a very difficult thing. Very few people can do it, and really only people in the Department of Finance and Treasury Board would have that capacity.</p>
+<p>They did help with the modelling and the implications of what would happen in various scenarios, so they helped in the analysis.</p></speech>
+          <speech by="#maureen.macdonald">
+            <from>MS. MACDONALD</from>
+            <p>I thank the minister for the answer, because it's obvious that staff in the department were intimately involved in the preparation of this report. Mr. Speaker, my question to the minister is simple: how can you possibly say that this is an independent tax review when staff in the Department of Finance and Treasury Board were intimately involved in its preparation?</p>
+          </speech>
+          <speech by="#diana.whalen"><from>MS. WHALEN</from><p>Mr. Speaker, I know the members opposite understand the difference between the politics that go on here and partisanship and the professionalism of the Public Service. That's important.</p>
+<p>Mr. Speaker, what I can say as well is that throughout the work that was done, I did not meet with Laurel Broten at all. She did her work with the staff so that they could support her work. She also consulted widely with people across the province and even beyond. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Argyle-Barrington.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>HEALTH &amp; WELLNESS: AT-HOME CANCER DRUGS - FUNDING UPDATE</heading>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>As much as I could go on the tax review, I'm not. I'm going to go to a Health and Wellness question.</p>
+<p>On October 14<sup>th</sup> I asked the Minister of Health and Wellness to provide a timeline for his department's review of oral cancer medications that individuals take at home. He indicated that he would know more following a meeting with the other Maritime Provinces that was to take place at the end of October. My question is, can the minister provide an update on how that meeting went and whether his department has decided to proceed with funding at-home cancer drugs?</p></speech>
+          <speech by="#leo.glavine">
+            <from>HON. LEO GLAVINE</from>
+            <p>Mr. Speaker, what I can inform the honourable member is that our department is taking a look at the provinces that have provided funding. We will get back to meet with CanCertainty and our oncologists and support people who assist those Nova Scotians who are able to use oral cancer treatment and how the funding process takes place. We have made a commitment to bring those people together early in the new year.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont"><from>MR. D'ENTREMONT</from><p>So basically what the minister is saying is that they are developing a cost analysis based on the latest figures associated with at-home cancer care. We know this would be incredibly beneficial for those Nova Scotians whose situation could allow them to remain in their homes. We know the stress on cancer patients when they do have to travel back and forth for their treatment, so if they could stay at home, this would be a tremendous opportunity for them.</p>
+<p>When will the cost analysis be complete and if it is, will the minister table it here in the House or give us a call later and make sure we have this information?</p></speech>
+          <speech by="#leo.glavine">
+            <from>MR. GLAVINE</from>
+            <p>In fact it was just yesterday that I met with a patient who has had to rely on oral cancer treatment and we went through that process that he had to move through in order to get that treatment paid for. It is a very trying experience for many Nova Scotians; it's one that we are working to address, as much as possible, and we will have that timeline and that cost available for all Nova Scotians to see early in the New Year.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>COM. SERV. - RIVERVIEW HOME: PHASE 3 CHANGES - COSTS</heading>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>My question is for the Minister of Community Services. The minister knows my concerns about the cost of cancelling or changing phase three at the Riverview home and how those change fees are monies diverted away from care and I think that we could be talking upwards of a million dollars in change fees and penalties at issue here. The minister said last week, "I know that in the process of stopping the construction and redesigning what happens, there were additional costs&#x2026;"</p>
+<p>So my question today is, can the minister tell us the amount of these costs that will be diverted from care and paid out in fees as a result of this change in course? If she doesn't have the number at hand maybe she could agree to provide the number to me within the month.</p></speech>
+          <speech by="#joanne.bernard"><from>HON. JOANNE BERNARD</from><p>I thank the member and I really want to commend him for his relentless advocacy on this issue. I know it's important to you and one of these days you and I will sit down, perhaps over dinner, a little wine, and I will explain to you the right side of the issue and why you should come over and talk about transformation and why it's a good thing.</p>
+<p>Actually the cost of phase three, had it gone on, would have been $31.1 million. In winding up the costs of phase one and phase two it is $26.9 million, so there has actually been a savings of $4.1 million from the whole project all together.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>I'd just like to remind the honourable minister to direct her comments through the Chair and if she's going to invite anybody for dinner and wine, I'll go. (Laughter)</p>
+<p>The honourable member for Pictou East.</p></speech>
+          <speech by="#tim.houston"><from>MR. HOUSTON</from><p>I think the minister is implying that I do a lot of whining. I think the minister knows that by not completing the construction, the money that is not spent is not a savings because you don't have the facility that you would have. But the government will move forward with its own new plan at Riverview and it is becoming apparent that no matter what I or the community say, the government is going on its own on this one.</p>
+<p>Today I just want to remind the minister that people have been waiting over a year for those new 32 beds. Oftentimes this wait is in a hospital bed and the cost of a night in a non-acute hospital bed is greater than $500 per night. So if money is not used at the Riverview facility to meet its needs, it should be used ASAP to create other homes within our community. Action for this vulnerable population is needed now. So my question to the minister is, can she provide some clarification on how and when residents of our area can expect this reinvestment?</p></speech>
+          <speech by="#joanne.bernard"><from>MS. BERNARD</from><p>I just want to reiterate that it is not just this government's commitment but it was the previous government's commitment. More importantly it was actually the people from the community who came together and said we want person-directed choice and inclusion for people who are living with disabilities.</p>
+<p>We will work with the board of directors at Riverview and we will not just make beds, I'm not interested in increasing beds, and I've said there will be no bed increase under my government, but we are interested in making homes for folks that they choose to live in and that they can stay in their community.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Cape Breton Centre.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>PREM. - ENERGY: HST - APPLICATION CONFIRM</heading>
+          <speech by="#frank.corbett"><from>HON. FRANK CORBETT</from><p>Mr. Speaker, the on-again, off-again affair between the Liberals and charging the HST on electricity began a new chapter yesterday with the release of the Liberal Government's tax review. As they say, like sands through the hourglass, these are the days of our lives. (Laughter)</p>
+<p>So let me take you back, Mr. Speaker. In 2008 we saw the first date when the Liberals voted to put the HST back on energy. Now in 2009 Nova Scotians were shocked and appalled. They were glued to their TV sets for the marriage as the Premier vowed that removing the HST on electricity was bad public policy. Then, lo and behold, in 2013, the breakup &#x2026;</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Can the member skip to the final act, please. (Laughter)</p>
+          </speech>
+          <speech by="#frank.corbett"><from>MR. CORBETT</from><p>Oh, but Mr. Speaker, love springs eternal. So in 2013, the breakup - the Premier read a resolution in this very House calling on HST to remain off energy for all eternity.</p>
+<p>Mr. Speaker, I want to ask the minister through you, were yesterday's public overtures about putting the HST back on energy just a tease, or in the Spring, will romance be back in the air?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Me and the honourable member in a romance. I'm not sure that anyone would have ever predicted that. (Laughter)</p>
+          </speech>
+          <speech by="#frank.corbett">
+            <from>MR. CORBETT</from>
+            <p>Look, I don't like it any better than you. (Laughter)</p>
+          </speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>Mr. Speaker, after listening to the honourable member, I now know what he did with his time for the last four years.</p>
+          </speech>
+          <speech by="#frank.corbett"><from>MR. CORBETT</from><p>Let's get to the altar again, Mr. Speaker. Mine will come with crayons. To put it bluntly though, it's unfair that the Liberal Government is talking about burdening low-income Nova Scotians with a tax grab on their electricity bills while giving the CEO of Emera a tax break.</p>
+<p>I want to ask the Premier again, why would his Liberal Government release a report that calls for giving Nova Scotia's top earners a tax break while taking money out of the pockets of hard-working families?</p></speech>
+          <speech by="" as="#premier" status="undefined">
+            <from>THE PREMIER</from>
+            <p>The Liberal Government didn't release a report that suggested that. There's an independent report done by someone that was commissioned by the province. They've gone out and spoken to Nova Scotians. They put the report out. We told the honourable member we would look at it, we'd analyze it. We'll continue to move forward, Mr. Speaker. Equally as important, we'll continue to do the hard work to ensure that energy prices in this province are affordable for all Nova Scotians.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Kings North.</p>
+          </speech>
+        </debateSection>
+        <debateSection>
+          <heading>ERDT: BUS. PARKS (KINGS CO.) - MIN. PLANS</heading>
+          <speech by="#john.a.lohr">
+            <from>MR. JOHN LOHR</from>
+            <p>Mr. Speaker, my question is for the Minister of Economic and Rural Development and Tourism. Business parks are the number one issue raised to me by the Annapolis Valley Chamber of Commerce after becoming elected. The lack of shovel-ready land is restricting new industrial development in Kings County. Does the Economic and Rural Development and Tourism Minister have any plans to assist in the strategy for developing future parks in Kings County for industrial use?</p>
+          </speech>
+          <speech by="#michel.p.samson">
+            <from>HON. MICHEL SAMSON</from>
+            <p>I want to thank the member for the question. The parks that we have throughout the province are managed by NSBI on behalf of the Province of Nova Scotia. There have been some concerns that have been raised in various ones. We're working with our stakeholders there and trying to review how best to have these parks and how the future of these should look. I will certainly get back to the member as to any specific concerns that he has raised regarding the park.</p>
+          </speech>
+          <speech by="#john.a.lohr">
+            <from>MR. LOHR</from>
+            <p>I'd like to thank the minister for that answer. Recently the Valley Regional Enterprise Network, the REN, hired its first executive director, Kelly Ells. Can the minister update this House on what assistance his department will provide the REN in the coming year, and will he commit to meeting with the Valley REN and Kelly Ells at his earliest convenience?</p>
+          </speech>
+          <speech by="#michel.p.samson"><from>MR. SAMSON</from><p>There was a funding envelope that was provided to the Regional Enterprise Network which we provide to all of them to help them with the start-up costs. The member will recall that the federal Conservative Government had abandoned the regional development authorities with their funding, which led to the creation of these regional enterprise networks. We have certainly learned from some of the failings of the RDA model, which has brought in much stronger accountability, which is not only good for all the businesspeople who will be involved with this, but it's accountability for the people of Nova Scotia.</p>
+<p>I would certainly be more than happy to meet with the executive director and all members of that regional enterprise network. More importantly, I want to commend the municipalities of the Valley for working together in co-operation to create this regional enterprise network.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Queens-Shelburne.</p>
+          </speech>
+          <speech by="#sterling.belliveau">
+            <from>HON. STERLNG BELLIVEAU</from>
+            <p>My question is for the Minister of Transportation and Infrastructure Renewal, but Mr. Speaker, the question should be to the Minister of Natural Resources.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Order, please. Time allotted for Oral Questions Put by Members to Ministers has expired.</p>
+          </speech>
+        </debateSection>
+      </questions>
+      <debateSection>
+        <heading>GOVERNMENT BUSINESS</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#michel.p.samson"><from>HON. MICHEL SAMSON</from><p>Mr. Speaker, as a result of the new rule changes that we brought in with the tabling of resolutions of a congratulatory nature, it was always the intent that at the end of the session we would pass a motion that would deem that all the congratulatory resolutions be deemed to have received the unanimous support of all members of the House, which members can indicate when they are sending out these resolutions.</p>
+<p>So I would ask the unanimous consent of the House that all resolutions that have been tabled with the Clerks, including today's resolutions which will be added to Hansard tomorrow, that are of a congratulatory nature be deemed to have received the unanimous support of all members of the House.</p></speech>
+        <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>The honourable Government House Leader.</p></speech>
+        <speech by="#michel.p.samson">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, would you please call the order of business, Public Bills for Third Reading.</p>
+        </speech>
+      </debateSection>
+      <debateSection>
+        <heading>PUBLIC BILLS FOR THIRD READING</heading>
+        <speech by="" as="#speaker" status="undefined">
+          <from>MR. SPEAKER</from>
+          <p>The honourable Government House Leader.</p>
+        </speech>
+        <speech by="#michel.p.samson">
+          <from>HON. MICHEL SAMSON</from>
+          <p>Mr. Speaker, would you please call Bill No. 60.</p>
+        </speech>
+        <debateSection>
+          <heading>Bill No. 60 - Smoke-free Places Act and Tobacco Access Act.</heading>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable member for Pictou East.</p>
+          </speech>
+          <speech by="#tim.houston"><from>MR. TIM HOUSTON</from><p>Thank you, your honour, maybe I could get some clarification on how much time I have left.</p>
+<p>It's a pleasure to stand today for the last time and speak to Bill No. 60 a little bit. I don't know what more we can say about Bill No. 60 to be honest. I think we made our frustration with Bill No. 60 pretty clear to the government.</p>
+<p>Today I think what I would just say is leave some words with the minister and encourage him over the next little while to make sure a good consultation process with business takes place because we do believe that regulation is good, we're happy with the public spaces legislation that came forward here, we're happy with the age requirement in selling stuff, those are good things - regulation is good there. And like everyone else we do believe that in the fullness of time we need to see some legislation before this House to legislate e-juice and make sure it's properly packaged, make sure it doesn't contain any harmful filler-type substances that we've all heard - we don't want that, we want a good, safe product.</p>
+<p>At the same time, we need to recognize that there are people who are moving from smoking to vaping. In fact, this week I saw that the Oxford dictionaries picked "vape" as the word of the year. I think that should be an indication to the members of this House of how popular that is a tool for people who are, in many cases, trying to get away from smoking. I know we haven't had the vaping process approved as a cessation device or cessation product, but I don't think there can be much doubt that it is helping people get off of smoking. I think that it is probably also fair to say that vaping is not as harmful to your health as smoking.</p>
+<p>Of course there probably is still some research that will say over the fullness of time, but they can't be as harmful as smoking just by the mere fact that there are 4,000-some-odd-plus chemicals and substances in cigarettes and very few in the vaping juice.</p>
+<p>My final words on this subject are to plead with the minister that when this legislation comes back before us that we've had a good consultation with people who are vaping, with store owners, with stakeholders, to make sure we properly understand. I don't want to be part of a piece of legislation, part of a House that passes a bill that sends people back to smoking. People who have been able to get away from smoking, I don't want to send them back to smoking. I think there's a risk of that, I think the minister has time to mitigate that risk and properly understand that risk, and I look forward to being part of that process.</p>
+<p>So with those few words today, added to the very few words that I've had a chance to say on Bill No. 60 over the past couple of weeks, I think I will take my seat. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable Acting Leader of the New Democratic Party.</p>
+          </speech>
+          <speech by="#maureen.macdonald"><from>HON. MAUREEN MACDONALD</from><p>Mr. Speaker, I'm pleased to have an opportunity to rise in my place on third reading and put on the record a few remarks about Bill No. 60 and what our caucus, the NDP caucus, feel about this piece of legislation. There has been a lot of debate with respect to this bill. I didn't stand in my place and speak on this bill during second reading. The bill that we are about to pass through this Legislature is a different bill, in my opinion, than the bill that was brought into this House and was debated on second reading. It changed over in the Red Room after interveners were at Law Amendments Committee and so we are dealing with a very different piece of legislation.</p>
+<p>I didn't speak on second reading because that bill was a bill that I could support but this bill is a bill, frankly, I can't support and I'm disappointed in and so is our caucus. This is the first time, Mr. Speaker, in the 17 years that I've been in this House that I have not and will not be voting for a piece of tobacco control legislation and I do that with a very heavy heart. It's not because I don't support the measures that will be going forward - and I want to congratulate the Minister of Health and Wellness for taking the initiative for doing something about e-cigarettes, something that we don't have enough information on and we really need to have a better appreciation of the impact of these particular devices on people's health.</p>
+<p>However this is the concern that we have about this bill as it now stands. It is a seriously flawed piece of legislation. It initially excluded menthol and that menthol flavoured tobacco, which in and of itself was a weakness in the first bill, perhaps a weakness that we could have lived with, a weakness that we could have had some debate around, a weakness that we could say, okay this is a product that has been used for a long time and perhaps it needs to be phased out over a period of time. Let's have a discussion about what is the appropriate way to address this particular product.</p>
+<p>That has been the history of tobacco control legislation debates here in this Chamber, actually. There has been a lot of collaboration on pretty much every piece of tobacco control legislation that I have seen put through this House over 17 years. I'm not going to go through the litany of what those measures were. There have been a substantial number of measures: taking away tobacco in drug stores, and the power walls, confined areas in bars and pubs, to no smoking whatsoever, and smoke-free public places. There have been many pieces of legislation. It has all been conducted in a very collaborative, thoughtful way here and this bill has not reflected those patterns, in my experience, and I'm disappointed in that.</p>
+<p>Mr. Speaker, if there is anything that guides my decision and the decision of the members of this caucus it is with respect to whether or not we will bow to the pressure, the considerable pressure that is brought to bear on members of this Legislature from the tobacco industry and agents of the tobacco industry. I am not going to go through a litany of all the techniques that the tobacco industry use but they are a very powerful group. They have been around a long time and they are very effective in getting governments to weaken and to defer legislation that will have an impact on their bottom line. It troubles me greatly that they have been and continue to be in the background of this bill and no doubt any other legislation that may be brought forward in the future.</p>
+<p>I have the greatest respect for the convenience store operators in the province. I know they have experienced many challenges in the past 20 years. They tend to be the business operators for whom now tobacco sales are probably the most important. They live in a very, very difficult environment, unquestionably. The notion, though, the explanation that I've heard government members say - that they need an opportunity to rid themselves of their inventories of flavoured tobacco - does not ring true to me, Mr. Speaker.</p>
+<p>There are ways to deal with those issues. The way that the government has chosen does not, I think, adequately explain their decision to withdraw the flavoured tobacco piece of the tobacco control measures in this bill. Most of these businesses are selling inventory on commission. There is the potential for many vendors to return product that goes unsold, with little or no penalty.</p>
+<p>If in the future there is legislation brought forward to deal with flavoured tobacco, there will have to be measures built in to allow for some period so that unless there's compensation offered, that there is an opportunity for people to make arrangements to rid themselves of these inventories, without a huge cost to the individual convenience store.</p>
+<p>I am troubled by the government's decision and the explanation we've received and the lack of detail that would convince me that the steps the government has taken with respect to removing the flavoured tobacco portion were necessary. Nevertheless, that is the decision that the government has made and I recognize that they have a majority and that they will be able to see this bill through.</p>
+<p>There will be a consultation process on a variety of elements of this legislation and I hope that indeed it is a thorough consultation and that we will see the government find the courage to bring this feature, this particular piece of Bill No. 60 back to us in the Spring. I think the Minister of Health and Wellness recognizes that he has an Opposition that will hold him to that commitment so he can look forward to doing this.</p>
+<p>I think I've heard the date, the 27<sup>th</sup> of March, thrown around a few times. Whether or not that will be the actual date, it doesn't really matter, I know that we'll be back here in the Spring and we will be looking for these changes to come back and perhaps be better. Our caucus had brought forward an amendment to Bill No. 60 to cover flavoured tobacco with the menthol flavouring as well and so I'm anticipating that that could be a piece and should be a piece of the amendments that will be brought forward in the Spring.</p>
+<p>With those few words which reflect the position of the NDP caucus and with profound disappointment, we will not be supporting this bill.</p></speech>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>The honourable House Leader for the Official Opposition.</p>
+          </speech>
+          <speech by="#christopher.a.dentremont"><from>HON. CHRISTOPHER D'ENTREMONT</from><p>Mr. Speaker, I won't be speaking long on this one either just simply because I think we have said everything we can possibly can say to convince this government and this minister that there's a gaping hole in his legislation.</p>
+<p>We started this debate with a lot of optimism as the Leader of the NDP just alluded to. We all spoke in favour of this next step of tobacco legislation in the province, to be able to look at the issues of vaping, of e-cigarettes and flavoured tobacco. These were all the topics that were mixed into this document, into this bill and into the law that would slow some of these things down anyway. I can't say that any bill or any law of this province is going to completely stop one activity from happening versus any other, but at least I thought we were going down the right road during second reading.</p>
+<p>We know during Law Amendments there were a number of presentations that came forward. I think, from what we had heard there from the e-cigarette/vapour people, that there had to be a little more work done on that side of things and I think we all agreed that it would probably make sense to go and do a little more consultation on that side of it and find out exactly what e-juices are, what is really in them, how they actually work, what flavours, and what the incidents are of people getting off of smoking tobacco that use this product versus others. There's not a lot of data on that one that we can necessarily grab a hold of and say yes, this is a smoking cessation product versus anything else.</p>
+<p>We thought that was a decent step that we could take a piece of it, do a little more consultation on it, after we had heard that government had done very little consultation on this one. We were very surprised and quite honestly many people were surprised. Not just the Opposition but advocates for the Canadian Cancer Society, The Lung Association, amongst others, were very disappointed to see not only the e-juice stuff, the flavours and those things but to see the flavoured tobacco issue get pulled out of that bill, and really not to have a good answer because no one had asked for that side of things to be removed from that bill.</p>
+<p>What we have today, even though we spent hours and hours in this House of Assembly trying to convince the government - we still have a government, quite frankly, that doesn't seem to want to change anything that is suggested, doesn't seem to want to work with the Opposition. Alright, I'm okay, I'm a big guy, I can understand that. We worked in this House of Assembly. We worked under minority governments. Unfortunately that's when most consultation happens and we do work with one another. I thought maybe we could get there because we did hear positive things from the Premier that he would be consultative and work with everybody to try to make things better for Nova Scotians.</p>
+<p>I think that's a laudable thing, that we're actually here to make things and make life better for Nova Scotians. If it means that we have to make a bit an adjustment to a bill, which we did have the opportunity during Committee of Whole House over a number of hours to make changes to that bill, I thought that would be a good thing. I think we could all say we won something, we could all say we lost something, but we could all say, we as a Legislature came to the right decision when it came to this bill.</p>
+<p>I want to finish up where I started my Committee of Whole House discussion, when I talked about my family. I listened to the minister's debate and why he feels this bill is important, that tobacco legislation is important. I talked about my grandparents. I talked about my mom and my family who were smokers. I talked about how I lost my grandparents a little too early. I can talk about my mom, who has had cancer.</p>
+<p>I just want to finish off by saying to my mom I love her, because she's getting stuff done again, going through the tests, because maybe there's something else there. We can look directly back at it being because of smoking. Again, all I can do is say I love her, but this Act is not the Act that we wanted it to be, and that's why we're going to be voting against it as well. Thank you for that.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>If I recognize the minister it will be to close debate.</p>
+<p>The honourable Minister of Health and Wellness</p></speech>
+          <speech by="#leo.glavine"><from>HON. LEO GLAVINE</from><p>Mr. Speaker, it is with really sincere thanks that I recognize the contribution of the Opposition to this debate. Not supporting where we're going with again the most progressive e-cigarette legislation is disappointing, but they wanted more from the bill. Their contribution in debate, as well as that of many colleagues, is one of the real positive developments that came after Law Amendments Committee. I think it paves the way for where we want to go.</p>
+<p>One of the things I need to mention is that from day one, our approach here was to focus on the health and safety of Nova Scotians and in particular our youth, to do all we can through legislation to protect the next generation of Nova Scotians.</p>
+<p>Our intention has also been to ensure that we continue to shift to a smoke-free culture in Nova Scotia and that's really where all Parties and all members of the Legislature over the last decade or so can in fact see themselves as having been part of that change. In fact, we have been a leader in Canada in this shift.</p>
+<p>One of the elements that came out very strongly from everybody who spoke, no matter what their past has been in relation to smoking, but they did not need any convincing of the harm of tobacco. We have all the evidence.</p>
+<p>We heard from a lot of Nova Scotians about this bill over the past couple of weeks and that we were moving too quickly without proper consultation. I certainly am one who recognizes that, who accepts that. It's a good part of that lesson of being in government - even when you are there to bring forth the strength, as the Minister of Health and Wellness, that it's a health bill, there still needs to be some wider consultation.</p>
+<p>We heard that our bill may include products and flavours that did not meet the original intention of protecting our youth from starting smoking. Rather than proceed without considering the input of Nova Scotians, we listened. Consultations on flavoured tobacco and flavoured e-juice will begin shortly. Our process will be transparent and involve stakeholders from all sectors. But let me be clear; I will not consult with Big Tobacco. The consultation will begin shortly and we will bring forward new legislation in the Spring.</p>
+<p>Mr. Speaker, with that said, I don't want anyone to forget that today we are taking a very important step forward in our mission to shift to a smoke-free culture in Nova Scotia. Today we have a bill that will protect our youth and will be the most progressive in the country on e-cigarettes. As of May 31, 2015, no person under the age of 19 will be able to purchase e-cigarettes and they will not be displayed, promoted or marketed. There will be no smoking e-cigarettes or water pipes in indoor public places. Probably no other piece of advice, information that had been passed along in that - no more, I guess, in particular in that regard, because people did not want to see an e-cigarette in a restaurant, in an arena, in a public place. Public health officers will have the ability to issue summary offence tickets. With the support of members of this Legislature, we will have these measures in place effective May 31, 2015.</p>
+<p>Mr. Speaker, this is important legislation to protect the health and safety of Nova Scotians from the risks of smoking. It will help us continue to promote a culture in this province where not smoking is the norm, and I thank all members again for their contribution to that debate and that commitment. We will look forward to this legislation becoming effective in the Spring, and to our consultation with Nova Scotians on flavoured products. Thank you.</p></speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is for third reading of Bill No. 60.</p>
+<p>A recorded vote is being called for.</p>
+<p>We will ring the bells for 10 minutes. Call in the members.</p></speech>
+          <narrative>
+            <p>The Division bells were rung.</p>
+          </narrative>
+          <speech by="" as="#speaker" status="undefined">
+            <from>MR. SPEAKER</from>
+            <p>Order, please. Are the Whips satisfied?</p>
+          </speech>
+          <narrative>
+            <p>The Clerk calls the roll.</p>
+          </narrative>
+          <other>
+            <table>
+<tr>
+<th>YEAS</th>
+<th>NAYS</th>
+</tr>
+<tr>
+<td>Mr. Colwell</td>
+<td>Mr. MacLeod</td>
+</tr>
+<tr>
+<td>Mr. Churchill</td>
+<td>Mr. MacMaster</td>
+</tr>
+<tr>
+<td>Ms. Bernard</td>
+<td>Mr. Dunn</td>
+</tr>
+<tr>
+<td>Mr. Samson</td>
+<td>Mr. Baillie</td>
+</tr>
+<tr>
+<td>Mr. McNeil</td>
+<td>Mr. d'Entremont</td>
+</tr>
+<tr>
+<td>Ms. Whalen</td>
+<td>Mr. Corbett</td>
+</tr>
+<tr>
+<td>Mr. Glavine</td>
+<td>Ms. MacDonald</td>
+</tr>
+<tr>
+<td>Ms. Casey</td>
+<td>Mr. David Wilson</td>
+</tr>
+<tr>
+<td>Mr. MacLellan</td>
+<td>Ms. Zann</td>
+</tr>
+<tr>
+<td>Ms. Diab</td>
+<td>Ms. Peterson-Rafuse</td>
+</tr>
+<tr>
+<td>Mr. Horne</td>
+<td>Mr. Belliveau</td>
+</tr>
+<tr>
+<td>Mr. Hines</td>
+<td>Mr. Orrell</td>
+</tr>
+<tr>
+<td>Mr. Stroink</td>
+<td>Ms. MacFarlane</td>
+</tr>
+<tr>
+<td>Ms. Arab</td>
+<td>Mr. Houston</td>
+</tr>
+</table>
+            <table>
+<tr>
+<td>Mr. Delorey</td>
+<td>Mr. Lohr</td>
+</tr>
+<tr>
+<td>Mr. Ince</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Kousoulis</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Furey</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Farrell</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Gordon Wilson</td>
+<td/>
+</tr>
+<tr>
+<td>Ms. Miller</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Rowe</td>
+<td/>
+</tr>
+<tr>
+<td>Ms. Lohnes-Croft</td>
+<td/>
+</tr>
+<tr>
+<td>Ms. Treen</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Gough</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Jessome</td>
+<td/>
+</tr>
+<tr>
+<td>Mr. Irving</td>
+<td/>
+</tr>
+</table>
+          </other>
+          <speech by="" as="#clerk" status="undefined">
+            <from>THE CLERK</from>
+            <p>For, 27. Against, 15.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The motion is carried.</p>
+<p>Ordered that this bill do pass. Ordered that the title be as read by the Clerk. Ordered that the bill be engrossed.</p>
+<p>The honourable Government House Leader.</p></speech>
+          <speech by="#michel.p.samson">
+            <from>HON. MICHEL SAMSON</from>
+            <p>Mr. Speaker, that concludes the government's business for this Fall session. It's my understanding that His Honour is en route. As a result I would ask that the House now recess until 5:00 p.m., when we will reconvene.</p>
+          </speech>
+          <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>The House will now stand recessed until 5:00 p.m. while we await the arrive of His Honour to give the bills Royal Assent.</p>
+<p>We stand recessed until 5:00 p.m.</p></speech>
+        </debateSection>
+      </debateSection>
+      <narrative>
+        <p>4:30 p.m. The House recessed.</p>
+      </narrative>
+      <narrative>
+        <p>5:03 p.m. The House reconvened.</p>
+      </narrative>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Order, please.</p>
+      </speech>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>His Honour the Lieutenant Governor is without.</p>
+      </speech>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>Let his Honour be admitted.</p>
+      </speech>
+      <narrative>
+        <p>The Speaker and the Clerks left the Chamber.</p>
+      </narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>His Honour, the Lieutenant Governor.</p>
+      </speech>
+      <narrative><p>The Lieutenant Governor, the Honourable John J. Grant, preceded by his Private Secretary, and Mr. Ken Greenham, Sergeant-at-Arms, bearing the Mace, entered the House of Assembly Chamber. The Lieutenant Governor then took his seat on the Throne.</p>
+<p>The Sergeant-at-Arms then departed and re-entered the Chamber, followed by the Speaker, the Honourable Kevin Murphy, the Chief Clerk of the House, Neil Ferguson, and Assistant Clerk, Annette Boucher.</p>
+<p>The Speaker, with the Clerk on his left, and the Sergeant-at-Arms and Assistant Clerk on his right took up his position at the foot of the Speaker's Table.</p></narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>It is the wish of His Honour that the ladies and gentlemen be seated.</p>
+      </speech>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>May it please Your Honour, the General Assembly of the Province has, in its present session, passed certain bills to which, in the name and on behalf of the General Assembly, I respectfully request Your Honour's Assent.</p>
+      </speech>
+      <speech by="" as="#assistant clerk" status="undefined"><from>THE ASSISTANT CLERK</from><p><b>Bill No. 5 - Government Restructuring (2014) Act.</b></p>
+<p><b>Bill No. 6 - Petroleum Resources Act.</b></p>
+<p><b>Bill No. 9 - Embalmers and Funeral Directors Act.</b></p>
+<p><b>Bill No. 10 - Service Nova Scotia Statutory Officers Appointment Act.</b></p>
+<p><b>Bill No. 12 - Correctional Services Act.</b></p>
+<p><b>Bill No. 14 - Gas Distribution Act.</b></p>
+<p><b>Bill No. 15 - Builders' Lien Act.</b></p>
+<p><b>Bill No. 16 - Police Act.</b></p>
+<p><b>Bill No. 17 - Police Act.</b></p>
+<p><b>Bill No. 18 - Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation (Nova Scotia) Act.</b></p>
+<p><b>Bill No. 22 - Maritime Provinces Harness Racing Commission Act.</b></p>
+<p><b>Bill No. 24 - Civil Service Act.</b></p>
+<p><b>Bill No. 25 - Housing Act and Housing Nova Scotia Act.</b></p>
+<p><b>Bill No. 26 - Animal Protection Act.</b></p>
+<p><b>Bill No. 38 - Pooled Registered Pension Plans Act.</b></p>
+<p><b>Bill No. 44 - Victoria Hall Continuation Act.</b></p>
+<p><b>Bill No. 45 - Black Cultural Society Act.</b></p>
+<p><b>Bill No. 49 - Economic Development in Nova Scotia Improvement Act.</b></p>
+<p><b>Bill No. 50 - Halifax Regional Municipality Charter.</b></p>
+<p><b>Bill No. 51 - Motor Vehicle Act.</b></p>
+<p><b>Bill No. 52 - Consumer Protection Act and Safer Communities and Neighbourhoods Act.</b></p>
+<p><b>Bill No. 58 - Apprenticeship and Trades Qualifications Act.</b></p>
+<p><b>Bill No. 59 - Halifax Regional Municipality Charter.</b></p>
+<p><b>Bill No. 60 - Smoke-free Places Act and Tobacco Access Act.</b></p>
+<p><b>Bill No. 61 - Onslow Cemetery Company Trustees Incorporation Act.</b></p>
+<p><b>Bill No. 62 - Shared Services Act.</b></p>
+<p><b>Bill No. 64 - Limitation of Actions Act.</b></p>
+<p><b>Bill No. 65 - Railways Act.</b></p>
+<p><b>Bill No. 66 - House of Assembly Act and House of Assembly Management Commission Act and Members' Retiring Allowances Act.</b></p></speech>
+      <speech by="" as="#lieutenant governor" status="undefined">
+        <from>THE LIEUTENANT GOVERNOR</from>
+        <p>In Her Majesty's name, I Assent to these Bills.</p>
+      </speech>
+      <narrative>
+        <p>The Speaker and the Clerks left the Chamber.</p>
+      </narrative>
+      <narrative>
+        <p>The Lieutenant-Governor left the Chamber.</p>
+      </narrative>
+      <speech by="" as="#sergeant-at-arms" status="undefined">
+        <from>SERGEANT-AT-ARMS</from>
+        <p>His Honour, the Speaker.</p>
+      </speech>
+      <narrative>
+        <p>The Speaker took the Chair.</p>
+      </narrative>
+      <speech by="" as="#speaker" status="undefined">
+        <from>MR. SPEAKER</from>
+        <p>I would ask all members to please rise and join me in the singing of our National Anthem.</p>
+      </speech>
+      <narrative>
+        <p>The national anthem was sung by the members.</p>
+      </narrative>
+      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Please be seated.</p>
+<p>The honourable Premier.</p></speech>
+      <speech by="" as="#premier" status="undefined"><from>THE PREMIER</from><p>Thank you, Mr. Speaker. Before we move to adjourn, may I just say, on behalf of all of us, a great thanks to the Pages who are here, for the work that they have been doing in this session on behalf of all of us. To the Commissionaires, some of them are here but not all of them, so I would ask that you pass on our gratitude for the work that you do during the session. We know sometimes these can be long nights but we do appreciate the work that you have been doing on behalf of all of us.</p>
+<p>To our Clerks, many of us get to escape some of this debate; you two listen to a great deal of it. We will try to make sure that next session we have someone that can at least provide you some relief instead of having to stay here the entire time, so thank you for what you have been doing here. To our respective caucus staff, some are here, but pass on to them our thanks for the work that they've been doing on behalf of each of our caucuses. I will say that no matter how raucous this debate may sometimes get, I think our staff show a great example of communicating with one another outside of this House and working together, which speaks volumes to them and who they are, so congratulations to them. (Applause)</p>
+<p>To Legislative TV and to Hansard, I want to thank them as well, and to the staff in the Library - you are doing too good a job for the Opposition Party so stop doing as much as you've been doing (Laughter), but thank you for what you've been doing.</p>
+<p>I would like to say to the Public Service that supports all of us, quite frankly, and supports the running of government no matter who's in power, they respond to do the best they can every day to ensure that government continues to move forward, so I would like to say to them, thank you for ensuring that not only do sessions continue to move along but government continues to move along.</p>
+<p>In closing I just want to wish all of you a Merry Christmas and a Happy New Year. I hope at some point you find some music to go along with the bells that have been ringing and extend to your families, from each of our families, the very best for this holiday season. No matter where we sit in this House, none of us get here on our own; it's our loved ones who often give up a lot of their own time and quite frankly, for many of us while we're sitting here, do an awful lot of campaigning at home and work at home on behalf of the unit. I wish them the very best as you get a chance to go back home, as we all get a chance to go back home and celebrate the Christmas season with our loved ones.</p>
+<p>In closing, Mr. Speaker, and members of the House of Assembly, I move that this General Assembly do now adjourn to meet again at the call of the Speaker.</p></speech>
+      <speech by="" as="#member" status="undefined">
+        <from>AN HON. MEMBER</from>
+        <p>Ring the bells.</p>
+      </speech>
+      <speech by="" as="#speaker" status="undefined"><from>MR. SPEAKER</from><p>Overruled. (Applause)</p>
+<p>The motion is that the House do now adjourn to meet again at the call of the Speaker.</p>
+<p>Is it agreed?</p>
+<p>It is agreed.</p>
+<p>The House is adjourned until the call of the Speaker.</p></speech>
+      <narrative>
+        <p>The House rose at 5:19 p.m.</p>
+      </narrative>
+      <narrative>
+        <p>Tabled resolutions will follow.</p>
+      </narrative>
+    </debateBody>
+  </debate>
+</akomaNtoso>
