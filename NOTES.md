@@ -4,7 +4,6 @@
 
 ## SayIt
 
-* [Adds support for source_url to Akoma Ntoso importer](https://github.com/opennorth/openhousens.ca/issues/2)
 * Omits or replaces all SayIt views
 * Replaces `SpeechIndex` and `SpeechForm`
 * Omits the following apps:

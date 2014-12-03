@@ -52,7 +52,7 @@ Add the SendGrid add-on for error reporting, the Memcachier add-on for caching, 
 [Schedule](https://scheduler.heroku.com/dashboard) the following jobs daily:
 
     python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
-    python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso --no-clobber --start-date `date -d yesterday +%Y-%m-%d`
+    python manage.py load_akomantoso_aws --commit --instance=default --dir=http://logs.openhousens.ca.s3.amazonaws.com/akoma_ntoso --skip-existing --start-date `date -d yesterday +%Y-%m-%d`
     python manage.py rebuild_index --noinput
 
 ### ElasticSearch
