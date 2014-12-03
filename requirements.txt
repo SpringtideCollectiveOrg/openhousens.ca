@@ -17,6 +17,9 @@ django-heroku-memcacheify==0.7
 
 -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
 
+# pyOpenSSL==0.14 is not compatible with Python 3.
+-e git+git://github.com/pyca/pyopenssl.git#egg=pyopenssl
+
 # Akoma Ntoso importer
 boto==2.32.1
 lxml==3.3.5
