@@ -15,9 +15,7 @@ psycopg2==2.5.3
 -e git+git://github.com/jpmckinney/django-pylibmc.git#egg=django-pylibmc
 django-heroku-memcacheify==0.7
 
-# -e git+git://github.com/mysociety/sayit.git#egg=django-sayit
-# @see https://github.com/mysociety/sayit/pull/430
--e git+git://github.com/jpmckinney/sayit.git@ssl#egg=django-sayit
+-e git+git://github.com/mysociety/sayit.git#egg=django-sayit
 
 # Akoma Ntoso importer
 boto==2.32.1
