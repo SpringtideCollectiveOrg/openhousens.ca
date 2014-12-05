@@ -24,5 +24,21 @@
 {% if hansard %}
   <p class="latest">The latest transcript is from <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a></p>
 {% endif %}
+
+{% if word_frequencies %}
+  <ul id="word-frequency-list">
+  {% for word, frequency in word_frequencies.items %}
+    <li data-frequency="{{ frequency }}">{{ word }}</li>
+  {% endfor %}
+  </ul>
+  <br />
+  <div id="word-cloud">
+    <h3>Topical Search</h3>
+    <br />
+  </div>
+{% endif %}
+
 </div>
+
+
 {% endblock %}

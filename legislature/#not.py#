@@ -1,0 +1,15 @@
+
+word_frequencies = dict()
+for section in queryset:
+    section_ids = list()
+    section_ids.append(section.id)
+
+    speeches = Speech.objects.filter(section_id__in, section_ids).
+
+    for speech in speeches:
+        prev_freq = word_frequencies
+        current_blob = TextBlob(speech.text)
+        word_frequencies =dict(current_blob.word_counts, **prev_freq)
+
+
+    
