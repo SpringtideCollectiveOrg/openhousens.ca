@@ -45,19 +45,13 @@ def TwitOnBillSaved(sender, instance, **kwards):
     # Comment/uncomment stuff below to tweet out different updates
     #
     if instance.status=='RA':
-        twitfmt = "Bill \"\" receives Royal Assent"
-#    elif instance.status=='3rd':
-#        twitfmt = "Bill \"\" now in third reading"
+        twitfmt = "A bill has become a law! Bill \"\" has received Royal Assent"
     elif instance.status=='WH':
         twitfmt = "Bill \"\" now in Whole House Committee"
     elif instance.status=='PL':
         twitfmt = "Bill \"\" now in Private/Local Bills Committee"
     elif instance.status=='LA':
         twitfmt = "Bill \"\" now in Law Amendments Committee"
-#    elif instance.status=='2nd':
-#        twitfmt = "Bill \"\" now in second reading"
-#    elif instance.status=='1st':
-#        twitfmt = "Bill \"\" is in first reading"
     else:
         print "Twitter interface dropping update tweet as it does not meet requirements"
         print "Bill was "+str(instance)+" and status was "+str(instance.status)

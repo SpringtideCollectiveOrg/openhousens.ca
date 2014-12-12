@@ -59,7 +59,7 @@ def home(request):
             # similar in the cloud
             # multiply by 10 to get the values to be appropriate
             # for font sizes
-			filtered_word_frequencies[word]= int(math.log10(word_frequencies[word]) * 8)
+			filtered_word_frequencies[word]= int(math.log(word_frequencies[word],[, 3]) * 8)
     
     
     return render_to_response('home.html', {'hansard': hansard, 'word_frequencies': filtered_word_frequencies})

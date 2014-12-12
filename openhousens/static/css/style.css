@@ -593,7 +593,7 @@ blockquote {
 }
 
 #word-cloud{ 
-             width: 65%;
+             width: 35%;
              margin: 0 auto;
              padding: 9px;
              border: 1px solid grey;
@@ -601,7 +601,7 @@ blockquote {
 }
 
 .viz-canvas{ 
-             margin-left: 10%;
+             margin-left: 15%;
 }
 
 .frequent-word:hover{ 
