@@ -1,5 +1,8 @@
 import calendar
 import datetime
+import math
+
+
 
 from django import forms
 from django.db.models import Count
@@ -8,6 +11,9 @@ from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
 
 import requests
+
+from textblob import TextBlob
+from nltk.corpus import stopwords
 from haystack.forms import SearchForm
 from haystack.query import RelatedSearchQuerySet
 from haystack.views import SearchView
@@ -20,7 +26,43 @@ from legislature.models import Action, Bill
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
-    return render_to_response('home.html', {'hansard': hansard})
+
+    # grab 35 most recent sections
+    recent_sections = Section.objects.filter(parent=None).order_by('start_date')[0:35]
+
+    # collect section ids in a list
+    section_ids = list()
+    for section in recent_sections:
+        section_ids.append(section)
+
+    # grab the speeches that are associated with these sections
+	speeches = Speech.objects.filter(section__in = section_ids)
+
+    word_frequencies = dict()
+    # loop through the speeches
+    for speech in speeches:
+        prev_freq = word_frequencies
+        current_blob = TextBlob(speech.text)
+        # merge dictionaries
+        word_frequencies = dict(current_blob.word_counts, **prev_freq)
+
+    # filter out stopwords
+    custom_stopwords = ['b', 'p', 'hansard', 'minister', 'motion', 'bill', 'question', 'act', 'today', 'yesterday', 'premier', 'met', 'mr', 'daily', 'sup', 'tomorrow', 'today', 'tonight', 'week', 'le', 'la', 'n\'t', 'ask', 'going', 'facts', 'done', 'used', 'rule', 'pass', 'one', 'two', 'might', 'start', 'end' ]
+    stop_words = stopwords.words('english')
+    stop_words.extend(custom_stopwords)
+    
+    filtered_word_frequencies = dict()
+    for word in word_frequencies:
+		if word not in stop_words and word_frequencies[word] > 1:
+            # add word to filtered list
+            # change count to log scale to keep word sizes
+            # similar in the cloud
+            # multiply by 10 to get the values to be appropriate
+            # for font sizes
+			filtered_word_frequencies[word]= int(math.log(word_frequencies[word],[, 3]) * 8)
+    
+    
+    return render_to_response('home.html', {'hansard': hansard, 'word_frequencies': filtered_word_frequencies})
 
 
 def about(request):
@@ -131,6 +173,12 @@ notices_single_page = DebateDetailView.as_view(paginate_by=None, notices=True)
 class BillListView(ListView):
     template_name = 'bill_list.html'
 
+    # added by informatics group fall 2014
+    # was real time screen scrape now reads from database
+    def get_queryset(self):
+        return Bill.objects.all()
+    
+    '''
     # @see http://docs.opencivicdata.org/en/latest/proposals/0006.html
     def get_queryset(self):
         url = 'http://nslegislature.ca/index.php/proceedings/status-of-bills/sort/status'
@@ -150,6 +198,8 @@ class BillListView(ListView):
             bills.append(bill)
 
         return bills
+        '''
+        
 bills = BillListView.as_view()
 
 
@@ -158,6 +208,15 @@ class BillDetailView(DetailView):
 
     # @see http://ccbv.co.uk/projects/Django/1.5/django.views.generic.detail/DetailView/
     def get_object(self):
+        # updated by informatics group fall 2014
+        # now reads from the database
+        url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
+        bill=Bill.objects.get(url=url)
+        actions = Action.objects.filter(bill=bill).all()
+        setattr(bill, 'actions', actions)
+        return bill
+        
+        '''
         url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
         page = requests.get(url)
         tree = html.fromstring(page.text)
@@ -205,6 +264,9 @@ class BillDetailView(DetailView):
         setattr(bill, 'actions', actions)
 
         return bill
+        '''
+    
+        
 bill = BillDetailView.as_view()
 
 

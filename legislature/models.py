@@ -1,7 +1,7 @@
 from django.db import models
 from django.utils.encoding import python_2_unicode_compatible
-
 from speeches.models import Speaker
+
 
 @python_2_unicode_compatible
 class Bill(models.Model):
@@ -37,6 +37,7 @@ class Action(models.Model):
     description = models.TextField()
     date = models.DateField(blank=True, null=True)
     text = models.TextField(blank=True, null=True)
-
+    bill = models.ForeignKey(Bill,blank=True,null=True,on_delete=models.SET_NULL)
+    
     def __str__(self):
         return self.description
