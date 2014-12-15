@@ -1,6 +1,7 @@
 from haystack import indexes
 from speeches.models import Section, Speech
 
+
 # @note We want to use decay functions to decrease the relevance of older
 #   speeches, but Haystack doesn't support scoring out-of-the-box.
 # @see http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-function-score-query.html
@@ -46,6 +47,7 @@ class SpeechIndex(indexes.SearchIndex, indexes.Indexable):
 
     def get_updated_field(self):
         return 'modified'
+
 
 class SectionIndex(indexes.SearchIndex, indexes.Indexable):
     text = indexes.CharField(document=True, model_attr='title')

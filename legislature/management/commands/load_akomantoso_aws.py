@@ -5,6 +5,7 @@ from six.moves.urllib.parse import urlsplit
 
 from speeches.management.commands.load_akomantoso import Command as AkomaNtosoCommand
 
+
 class Command(AkomaNtosoCommand):
     def document_list(self, options):
         parsed = urlsplit(options['dir'])

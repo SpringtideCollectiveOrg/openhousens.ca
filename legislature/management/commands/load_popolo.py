@@ -7,6 +7,7 @@ from instances.models import Instance
 from popolo.models import Membership, Organization, Post
 from speeches.models import Speaker
 
+
 class Command(BaseCommand):
     args = 'base-url'
     help = 'Imports people, memberships and organizations in Popolo format'

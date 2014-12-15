@@ -30,15 +30,15 @@ ALLOWED_HOSTS = ['openhousens.herokuapp.com', '.openhousens.ca']
 # Application definition
 
 INSTALLED_APPS = (
-    'django.contrib.auth', # needed by instances models
-    'django.contrib.contenttypes', # needed by popolo models
+    'django.contrib.auth',  # needed by instances models
+    'django.contrib.contenttypes',  # needed by popolo models
     'django.contrib.staticfiles',
     # @see http://mysociety.github.io/sayit/install/#installing-sayit-as-a-django-app
     'haystack',
     'django_bleach',
     'easy_thumbnails',
     'popolo',
-    'instances', # needed by speeches models
+    'instances',  # needed by speeches models
     'speeches',
     'legislature',
 )
@@ -93,7 +93,7 @@ STATIC_URL = '/static/'
 
 # Parse database configuration from $DATABASE_URL
 import dj_database_url
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres@localhost/openhousens')}
+DATABASES = {'default': dj_database_url.config(default='postgres://localhost/openhousens')}
 
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
@@ -127,9 +127,9 @@ BLEACH_ALLOWED_TAGS = [
     'table', 'caption', 'tr', 'th', 'td',
 ]
 BLEACH_ALLOWED_ATTRIBUTES = {
-    '*': [ 'id', 'title', 'class' ], # class, style
-    'a': [ 'href' ],
-    'li': [ 'value' ],
+    '*': ['id', 'title', 'class'],  # class, style
+    'a': ['href'],
+    'li': ['value'],
 }
 
 TEMPLATE_DIRS = (

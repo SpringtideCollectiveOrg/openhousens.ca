@@ -25,6 +25,7 @@ LEADING_PAGE_RANGE = TRAILING_PAGE_RANGE = 6
 NUM_PAGES_OUTSIDE_RANGE = 2
 ADJACENT_PAGES = 2
 
+
 @register.assignment_tag(takes_context=True)
 def long_paginator(context):
     '''

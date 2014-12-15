@@ -5,6 +5,7 @@ from popolo.models import Membership
 
 from speeches.models import Section, Speech
 
+
 class Command(BaseCommand):
     help = 'Validates speeches, sections and memberships'
 

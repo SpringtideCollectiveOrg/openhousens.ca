@@ -43,6 +43,7 @@ ignore_words = (
     '3.5',
 )
 
+
 class Command(BaseCommand):
     help = 'Finds abbreviations in section titles'
 
