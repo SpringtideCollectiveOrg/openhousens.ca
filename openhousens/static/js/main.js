@@ -150,72 +150,18 @@ $(function () {
     var $this = $(this);
     $('<a href="' + $this.parents('.col-speech').find('.title a').attr('href') + '" class="more">read more</a>').appendTo($this.find('p:last'));
   });
-});
 
-// @todo
-$(document).ready(function () {
-  word_frequencies = []
-  if ($('#word-frequency-list').length) {
-    $('#word-frequency-list').hide();
-    $('#word-frequency-list li').each(function (i) {
-      word = {
-        text: $(this).text(),
-        size: $(this).attr('data-frequency') * 8
+  // Word cloud
+  if ($('.wordcloud').length) {
+    OP.wordcloud.drawSVG($.map(most_common_words, function (d) {
+      return {
+        text: d[0]
+      , score: d[1]
       }
-      word_frequencies.push(word);
+    }), {
+      searchURL: '/search/?q='
     });
   }
-
-  var fill = d3.scale.category20()
-  , padding = 3
-  , width = 1200
-  , height = 400;
-
-  d3.layout.cloud()
-    .size([width, height])
-    .words(word_frequencies)
-    .padding(padding)
-    .rotate(function () {
-      return 0;
-    })
-    .font('Impact')
-    .fontSize(function (d) {
-      return d.size;
-    })
-    .on('end', draw)
-    .start();
-
-  function draw(words) {
-    d3.select('#word-cloud')
-      .append('svg')
-      .attr('width', width)
-      .attr('height', height)
-      .attr('class', 'viz-canvas')
-      .append('g')
-      .attr('transform', 'translate(150,150)')
-      .attr('class', 'viz-wrapper')
-      .selectAll('text')
-      .data(words)
-      .enter()
-      .append('text')
-      .style('font-size', function (d) {
-        return d.size + 'px';
-      })
-      .style('font-family', 'Impact')
-      .style('fill', function (d, i) {
-        return fill(i);
-      })
-      .attr('text-anchor', 'middle')
-      .attr('class', 'frequent-word')
-      .attr('transform', function (d) {
-      return 'translate(' + [d.x, d.y] + ')rotate(' + d.rotate + ')';
-    }).text(function (d) {
-      return d.text;
-    });
-  }
-
-  $('.frequent-word').click(function() {
-    search_url = '/search/?q=' + $(this).text();
-    window.location = search_url;
-  });
+  // Can alternatively use D3 Cloud.
+  // @see https://github.com/jasondavies/d3-cloud/blob/master/examples/simple.html
 });

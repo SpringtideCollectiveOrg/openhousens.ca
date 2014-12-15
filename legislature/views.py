@@ -1,68 +1,88 @@
 import calendar
-import datetime
-import math
-
-
+import json
+from collections import defaultdict
+from heapq import nlargest
+from operator import itemgetter
 
 from django import forms
 from django.db.models import Count
 from django.shortcuts import get_object_or_404, render_to_response
 from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
-
-import requests
-
-from textblob import TextBlob
-from nltk.corpus import stopwords
 from haystack.forms import SearchForm
 from haystack.query import RelatedSearchQuerySet
 from haystack.views import SearchView
-from lxml import html
 from popolo.models import Organization
 from speeches.models import Section, Speaker, Speech
 from speeches.search import SpeakerForm
+from textblob import TextBlob
+
 from legislature.models import Action, Bill
+
+STOPWORDS = frozenset([
+    # nltk.corpus.stopwords.words('english')
+    'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', 'your',
+    'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', 'her',
+    'hers', 'herself', 'it', 'its', 'itself', 'they', 'them', 'their', 'theirs',
+    'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', 'these', 'those',
+    'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had',
+    'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if',
+    'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with',
+    'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after',
+    'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over',
+    'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where',
+    'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other',
+    'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too',
+    'very', 's', 't', 'can', 'will', 'just', 'don', 'should', 'now',
+    # @see https://github.com/rhymeswithcycle/openparliament/blob/master/parliament/text_analysis/frequencymodel.py
+    "it's", "we're", "we'll", "they're", "can't", "won't", "isn't", "don't", "he's",
+    "she's", "i'm", "aren't", "government", "house", "committee", "would", "speaker",
+    "motion", "mr", "mrs", "ms", "member", "minister", "canada", "members", "time",
+    "prime", "one", "parliament", "us", "bill", "act", "like", "canadians", "people",
+    "said", "want", "could", "issue", "today", "hon", "order", "party", "canadian",
+    "think", "also", "new", "get", "many", "say", "look", "country", "legislation",
+    "law", "department", "two", "day", "days", "madam", "must", "that's", "okay",
+    "thank", "really", "much", "there's", "yes", "no",
+    # HTML tags
+    'sup',
+    # Nova Scotia
+    "nova", "scotia", "scotians", "province",
+    # artifacts
+    "\ufffd", "n't",
+])
 
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
 
-    # grab 35 most recent sections
-    recent_sections = Section.objects.filter(parent=None).order_by('start_date')[0:35]
+    # Get the latest hansard's speeches as in DebateDetailView.
+    section_ids = []
+    for section in hansard._get_descendants(include_self=True):
+        if section.title != 'NOTICES OF MOTION UNDER RULE 32(3)':
+            section_ids.append(section.id)
+    speeches = Speech.objects.filter(section__in=section_ids)
 
-    # collect section ids in a list
-    section_ids = list()
-    for section in recent_sections:
-        section_ids.append(section)
+    # @see https://github.com/rhymeswithcycle/openparliament/blob/master/parliament/text_analysis/analyze.py
+    # @see https://github.com/rhymeswithcycle/openparliament/blob/master/parliament/text_analysis/frequencymodel.py
 
-    # grab the speeches that are associated with these sections
-	speeches = Speech.objects.filter(section__in = section_ids)
+    # Get the counts of all non-stopwords.
+    word_counts = defaultdict(int)
+    total_count = 0
 
-    word_frequencies = dict()
-    # loop through the speeches
     for speech in speeches:
-        prev_freq = word_frequencies
-        current_blob = TextBlob(speech.text)
-        # merge dictionaries
-        word_frequencies = dict(current_blob.word_counts, **prev_freq)
+        for word, count in TextBlob(speech.text).word_counts.items():
+            if word not in STOPWORDS and len(word) > 2:
+                word_counts[word] += count
+                total_count += count
 
-    # filter out stopwords
-    custom_stopwords = ['b', 'p', 'hansard', 'minister', 'motion', 'bill', 'question', 'act', 'today', 'yesterday', 'premier', 'met', 'mr', 'daily', 'sup', 'tomorrow', 'today', 'tonight', 'week', 'le', 'la', 'n\'t', 'ask', 'going', 'facts', 'done', 'used', 'rule', 'pass', 'one', 'two', 'might', 'start', 'end' ]
-    stop_words = stopwords.words('english')
-    stop_words.extend(custom_stopwords)
-    
-    filtered_word_frequencies = dict()
-    for word in word_frequencies:
-		if word not in stop_words and word_frequencies[word] > 1:
-            # add word to filtered list
-            # change count to log scale to keep word sizes
-            # similar in the cloud
-            # multiply by 10 to get the values to be appropriate
-            # for font sizes
-			filtered_word_frequencies[word]= int(math.log(word_frequencies[word],[, 3]) * 8)
-    
-    
-    return render_to_response('home.html', {'hansard': hansard, 'word_frequencies': filtered_word_frequencies})
+    # Normalize the counts by the total counted words, as in OpenParliament.
+    word_counts = {word: count / total_count * 1000 for word, count in word_counts.items()}
+    most_common_words = nlargest(50, word_counts.items(), key=itemgetter(1))
+
+    return render_to_response('home.html', {
+        'hansard': hansard,
+        'most_common_words': json.dumps(most_common_words),
+    })
 
 
 def about(request):
@@ -171,35 +191,8 @@ notices_single_page = DebateDetailView.as_view(paginate_by=None, notices=True)
 
 
 class BillListView(ListView):
+    model = Bill
     template_name = 'bill_list.html'
-
-    # added by informatics group fall 2014
-    # was real time screen scrape now reads from database
-    def get_queryset(self):
-        return Bill.objects.all()
-    
-    '''
-    # @see http://docs.opencivicdata.org/en/latest/proposals/0006.html
-    def get_queryset(self):
-        url = 'http://nslegislature.ca/index.php/proceedings/status-of-bills/sort/status'
-        page = requests.get(url)
-        tree = html.fromstring(page.text)
-        tree.make_links_absolute(url)
-
-        bills = []
-        for tr in tree.xpath('//tr[@valign="top"]'):
-            bill = Bill(
-                identifier=int(tr.xpath('./td[2]//text()')[0]),
-                title=tr.xpath('./td[3]//text()')[0].rstrip('*\n '),
-                status=tr.xpath('./td[1]//text()')[0],
-                modified=datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date(),
-                url=tr.xpath('./td[3]//@href')[0],
-            )
-            bills.append(bill)
-
-        return bills
-        '''
-        
 bills = BillListView.as_view()
 
 
@@ -208,65 +201,12 @@ class BillDetailView(DetailView):
 
     # @see http://ccbv.co.uk/projects/Django/1.5/django.views.generic.detail/DetailView/
     def get_object(self):
-        # updated by informatics group fall 2014
-        # now reads from the database
+        # @todo
         url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
-        bill=Bill.objects.get(url=url)
+        bill = Bill.objects.get(url=url)
         actions = Action.objects.filter(bill=bill).all()
         setattr(bill, 'actions', actions)
         return bill
-        
-        '''
-        url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
-        page = requests.get(url)
-        tree = html.fromstring(page.text)
-        tree.make_links_absolute(url)
-
-        div = tree.xpath('//div[@id="content"]')[0]
-
-        bill = Bill(
-            identifier=int(div.xpath('./h3//text()')[0].rsplit(' ', 1)[1]),
-            title=div.xpath('./h2//text()')[0].rstrip('*\n '),
-            url=url,
-            law_amendments_committee_submissions_url=div.xpath('string(.//@href[contains(.,"/committees/submissions/")])'),
-        )
-
-        # @see http://nslegislature.ca/index.php/proceedings/bills/liquor_control_act_-_bill_52
-        matches = div.xpath('./p[not(@class)]//@href')
-        if matches:
-            bill.creator = Speaker.objects.get(sources__url=matches[0].rstrip('/'))
-
-        # Some descriptions are identical to titles.
-        description = div.xpath('./h3//text()')[1].rstrip('*\n ')
-        if bill.title != description:
-            bill.description = description
-
-        if div.xpath('.//text()[contains(.,"Law Amendments Committee")]'):
-            bill.classification = 'Public Bills'
-        elif div.xpath('.//text()[contains(.,"Private and Local Bills")]'):
-            bill.classification = 'Private and Local Bills'
-
-        actions = []
-        for tr in div.xpath('.//tr'):
-            matches = tr.xpath('./td//text()')
-            if matches and matches[0] != 'View':  # Skip link to statute
-                description = tr.xpath('./th//text()')[0].strip()
-                if description == 'Second Reading Passed':
-                    description = 'Second Reading'
-                action = Action(description=description)
-                try:
-                    action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()  # Use the first date
-                except ValueError:
-                    action.text = matches[0]
-                actions.append(action)
-
-        # Assigning `actions` to an `action_set` will trigger a database call.
-        setattr(bill, 'actions', actions)
-
-        return bill
-        '''
-    
-        
 bill = BillDetailView.as_view()
 
 
