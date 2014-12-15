@@ -1,8 +1,8 @@
 import re
 
 from django.core.management.base import BaseCommand
-
 from speeches.models import Section
+
 from legislature.templatetags.legislature_extras import upper_case_words, heading
 
 # Using a Scrabble word list, which does not contain acronyms, I built lists of

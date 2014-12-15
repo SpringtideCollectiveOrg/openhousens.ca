@@ -2,7 +2,6 @@ import os.path
 
 from boto.s3.connection import S3Connection
 from six.moves.urllib.parse import urlsplit
-
 from speeches.management.commands.load_akomantoso import Command as AkomaNtosoCommand
 
 

@@ -1,8 +1,7 @@
 import re
 
-from django.core.management.base import BaseCommand, CommandError
-
 import requests
+from django.core.management.base import BaseCommand, CommandError
 from instances.models import Instance
 from popolo.models import Membership, Organization, Post
 from speeches.models import Speaker

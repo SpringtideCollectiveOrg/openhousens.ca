@@ -2,7 +2,6 @@ import requests
 
 from django.core.management.base import BaseCommand
 from popolo.models import Membership
-
 from speeches.models import Section, Speech
 
 

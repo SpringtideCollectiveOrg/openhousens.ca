@@ -1,5 +1,4 @@
 from django.utils.html import strip_tags
-
 from haystack.utils import Highlighter
 
 
