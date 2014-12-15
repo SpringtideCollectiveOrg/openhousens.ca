@@ -587,23 +587,19 @@ blockquote {
   font-size: 1em;
 }
 
-
-#word-frequency-list{ 
-                      visibility: hidden;
+#word-frequency-list {
+  visibility: hidden;
 }
-
-#word-cloud{ 
-             width: 35%;
-             margin: 0 auto;
-             padding: 9px;
-             border: 1px solid grey;
-             border-radius: 5px;
+#word-cloud {
+  width: 35%;
+  margin: 0 auto;
+  padding: 9px;
+  border: 1px solid #999;
+  border-radius: 5px;
 }
-
-.viz-canvas{ 
-             margin-left: 15%;
+.viz-canvas {
+  margin-left: 15%;
 }
-
-.frequent-word:hover{ 
-                      cursor: pointer;
- }
+.frequent-word:hover {
+  cursor: pointer;
+}
