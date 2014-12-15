@@ -16,6 +16,10 @@ Add configuration variables (replace `REPLACE`):
     # These variables are automatically read by boto.
     heroku config:set AWS_ACCESS_KEY_ID=REPLACE
     heroku config:set AWS_SECRET_ACCESS_KEY=REPLACE
+    heroku config:set TWITTER_ACCESS_TOKEN=REPLACE
+    heroku config:set TWITTER_TOKEN_SECRET=REPLACE
+    heroku config:set TWITTER_CONSUMER_KEY=REPLACE
+    heroku config:set TWITTER_CONSUMER_SECRET=REPLACE
 
 You can [generate a secret key in Python](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py):
 
