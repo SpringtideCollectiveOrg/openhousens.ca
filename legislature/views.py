@@ -1,5 +1,6 @@
 import calendar
 import json
+import re
 from collections import defaultdict
 from heapq import nlargest
 from operator import itemgetter
@@ -15,7 +16,6 @@ from haystack.views import SearchView
 from popolo.models import Organization
 from speeches.models import Section, Speaker, Speech
 from speeches.search import SpeakerForm
-from textblob import TextBlob
 
 from legislature.models import Action, Bill
 
@@ -51,6 +51,7 @@ STOPWORDS = frozenset([
     "\ufffd", "n't",
 ])
 
+r_whitespace = re.compile(r'[\s—]+')
 
 def home(request):
     hansard = Section.objects.filter(parent=None).order_by('-start_date').first()
@@ -70,10 +71,10 @@ def home(request):
     total_count = 0
 
     for speech in speeches:
-        for word, count in TextBlob(speech.text).word_counts.items():
+        for word in r_whitespace.split(speech.text):
             if word not in STOPWORDS and len(word) > 2:
-                word_counts[word] += count
-                total_count += count
+                word_counts[word] += 1
+                total_count += 1
 
     word_counts = {word: count for word, count in word_counts.items()}
     most_common_words = nlargest(50, word_counts.items(), key=itemgetter(1))
