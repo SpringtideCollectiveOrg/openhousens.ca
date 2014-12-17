@@ -587,6 +587,11 @@ blockquote {
   font-size: 1em;
 }
 
+/* Word cloud */
+
+.wordcloud {
+  height: 175px;
+}
 .cloud-word {
   cursor: pointer;
 }

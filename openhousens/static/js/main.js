@@ -155,8 +155,9 @@ $(function () {
   if ($('.wordcloud').length) {
     // @see http://www.jasondavies.com/wordcloud/cloud.js
     var fill = d3.scale.category20b()
-    , w = 960
-    , h = 175
+    , cloud = $('.wordcloud')
+    , w = cloud.width()
+    , h = cloud.height()
     , font = '"Helvetica Neue", Helvetica, sans serif';
 
     var fontSize = d3.scale.log().range([10, 100]).domain([
