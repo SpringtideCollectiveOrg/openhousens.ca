@@ -51,6 +51,7 @@ STOPWORDS = frozenset([
     "\ufffd", "n't",
 ])
 
+r_punctuation = re.compile(r"[^\s\w0-9'’—-]", re.UNICODE)
 r_whitespace = re.compile(r'[\s—]+')
 
 def home(request):
@@ -71,7 +72,7 @@ def home(request):
     total_count = 0
 
     for speech in speeches:
-        for word in r_whitespace.split(speech.text):
+        for word in r_whitespace.split(r_punctuation.sub('', speech.text.lower())):
             if word not in STOPWORDS and len(word) > 2:
                 word_counts[word] += 1
                 total_count += 1
