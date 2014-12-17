@@ -5,11 +5,13 @@ from collections import defaultdict
 from heapq import nlargest
 from operator import itemgetter
 
+import bleach
 from django import forms
 from django.db.models import Count
 from django.shortcuts import get_object_or_404, render_to_response
 from django.views.generic import ListView, DetailView
 from django.views.generic.dates import ArchiveIndexView, YearArchiveView, MonthArchiveView
+from django_bleach.templatetags.bleach_tags import bleach_args
 from haystack.forms import SearchForm
 from haystack.query import RelatedSearchQuerySet
 from haystack.views import SearchView
@@ -72,7 +74,7 @@ def home(request):
     total_count = 0
 
     for speech in speeches:
-        for word in r_whitespace.split(r_punctuation.sub('', speech.text.lower())):
+        for word in r_whitespace.split(r_punctuation.sub('', bleach.clean(speech.text, **bleach_args).lower())):
             if word not in STOPWORDS and len(word) > 2:
                 word_counts[word] += 1
                 total_count += 1
