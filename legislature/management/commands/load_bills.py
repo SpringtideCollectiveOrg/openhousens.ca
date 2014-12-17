@@ -35,6 +35,7 @@ class Command(BaseCommand):
             bill.status = tr.xpath('./td[1]//text()')[0]
             bill.modified = datetime.datetime.strptime(tr.xpath('./td[4]//text()')[0], '%B %d, %Y').date()
             bill.url = tr.xpath('./td[3]//@href')[0]
+            bill.slug = bill.url.rsplit('/', 1)[1][:70]
 
             page = requests.get(bill.url)
             tree = html.fromstring(page.text)
@@ -68,9 +69,14 @@ class Command(BaseCommand):
                     description = tr.xpath('./th//text()')[0].strip()
                     if description == 'Second Reading Passed':
                         description = 'Second Reading'
-                    action = Action(description=description, bill=bill)
+
+                    # Avoids importing duplicates.
                     try:
-                        action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()  # Use the first date
-                    except ValueError:
-                        action.text = matches[0]
-                    action.save()
+                        Action.objects.get(description=description, bill=bill)
+                    except Action.DoesNotExist:
+                        action = Action(description=description, bill=bill)
+                        try:
+                            action.date = datetime.datetime.strptime(matches[0].split(';', 1)[0], '%B %d, %Y').date()  # Use the first date
+                        except ValueError:
+                            action.text = matches[0]
+                        action.save()

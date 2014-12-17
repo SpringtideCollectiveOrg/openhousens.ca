@@ -36,15 +36,12 @@ class Bill(models.Model):
     creator = models.ForeignKey(Speaker, blank=True, null=True, on_delete=models.SET_NULL)
     modified = models.DateField()
     status = models.CharField(max_length=3, choices=STATUS_CHOICES)
+    slug = models.TextField()
     url = models.URLField()
     law_amendments_committee_submissions_url = models.URLField()
 
     def __str__(self):
         return self.title
-
-    @property
-    def slug(self):
-        return self.url.rsplit('/', 1)[1][:70]
 
 
 @python_2_unicode_compatible
@@ -54,27 +51,31 @@ class Action(models.Model):
     text = models.TextField(blank=True, null=True)
     bill = models.ForeignKey(Bill, blank=True, null=True)  # had to be NULL for migration
 
+    class Meta:
+        ordering = ['date']
+        unique_together = ('bill', 'description')
+
     def __str__(self):
         return self.description
 
 
-@receiver(post_save, sender=Bill)
+@receiver(post_save, sender=Action)
 def tweet_bill_status(sender, instance, **kwargs):
-    # @todo Should only tweet if the bill's status changed.
-    if instance.status == '1st':
+    # @note Disable Twitter when scraping bills for the first time.
+    if instance.bill.status == '1st':
         text = "The %s was introduced"
-    if instance.status == '2nd':
+    if instance.bill.status == '2nd':
         text = "The House voted on referring the %s to committee"
-    elif instance.status == 'LA' or instance.status == 'PL':
+    elif instance.bill.status == 'LA' or instance.bill.status == 'PL':
         text = "A committee considered the %s"
-    elif instance.status == 'WH':
+    elif instance.bill.status == 'WH':
         text = "The House debated the %s"
-    elif instance.status == '3rd':
+    elif instance.bill.status == '3rd':
         text = "The House voted on passing the %s"
-    elif instance.status == 'RA':
+    elif instance.bill.status == 'RA':
         text = "The %s became law"
 
-    title = instance.title
+    title = instance.bill.title
     title = re.sub(r'\s+', ' ', title)
     title = re.sub(r'\AAn ', '', title)
     title = re.sub(r' \([Aa]mended\)', '', title)
@@ -83,4 +84,5 @@ def tweet_bill_status(sender, instance, **kwargs):
     if len(title) > title_maxlength:
         title = title[:title_maxlength - 1] + '…'
 
-    twitter.statuses.update(status=text % title)
+    if os.getenv('TWITTER_CONSUMER_SECRET', False):
+        twitter.statuses.update(status=text % title)
