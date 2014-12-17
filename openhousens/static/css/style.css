@@ -586,3 +586,7 @@ blockquote {
   border: none;
   font-size: 1em;
 }
+
+.cloud-word {
+  cursor: pointer;
+}

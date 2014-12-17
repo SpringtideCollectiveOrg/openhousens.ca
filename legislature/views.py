@@ -75,8 +75,7 @@ def home(request):
                 word_counts[word] += count
                 total_count += count
 
-    # Normalize the counts by the total counted words, as in OpenParliament.
-    word_counts = {word: count / total_count * 1000 for word, count in word_counts.items()}
+    word_counts = {word: count for word, count in word_counts.items()}
     most_common_words = nlargest(50, word_counts.items(), key=itemgetter(1))
 
     return render_to_response('home.html', {
@@ -197,16 +196,8 @@ bills = BillListView.as_view()
 
 
 class BillDetailView(DetailView):
+    model = Bill
     template_name = 'bill_detail.html'
-
-    # @see http://ccbv.co.uk/projects/Django/1.5/django.views.generic.detail/DetailView/
-    def get_object(self):
-        # @todo
-        url = 'http://nslegislature.ca/index.php/proceedings/bills/%s' % self.kwargs.get(self.slug_url_kwarg, None)
-        bill = Bill.objects.get(url=url)
-        actions = Action.objects.filter(bill=bill).all()
-        setattr(bill, 'actions', actions)
-        return bill
 bill = BillDetailView.as_view()
 
 
