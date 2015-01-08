@@ -33,7 +33,7 @@ Otherwise, you can start the web app with:
 
 Import organizations, people, posts and memberships:
 
-    python manage.py load_popolo http://scrapers-ruby.herokuapp.com/
+    python manage.py load_popolo http://openhousens-scrapers.herokuapp.com/
 
 ## Import Akoma Ntoso data
 
