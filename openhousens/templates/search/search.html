@@ -65,8 +65,8 @@
 
         <span class="order">
           Sort by
-    {% if request.GET.sort == "newest" %}
-          <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}">
+    {% if request.GET.sort != "relevance" %}
+          <a href="{% url 'legislature:haystack_search' %}?q={{ form.q.value }}{% if form.speaker %}&amp;p={{ form.p.value }}{% endif %}&amp;sort=relevance">
             relevance
           </a>
           or

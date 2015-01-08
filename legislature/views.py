@@ -257,7 +257,7 @@ class CustomSearchView(SearchView):
 
     def build_form(self, *args, **kwargs):
         self.searchqueryset = RelatedSearchQuerySet()
-        if self.request.GET.get('sort') == 'newest':
+        if self.request.GET.get('sort') != 'relevance':
             self.searchqueryset = self.searchqueryset.order_by('-start_date')
         return super(CustomSearchView, self).build_form(*args, **kwargs)
 
