@@ -85,6 +85,7 @@ Set the ElasticSearch configuration variable using one of the following:
 Import Popolo and Akoma Ntoso data, and rebuild the ElasticSearch index:
 
     heroku run python manage.py load_popolo http://openhousens-scrapers.herokuapp.com/
+    heroku run python manage.py load_bills
     heroku run python manage.py load_akomantoso --commit --instance=default --dir=akoma_ntoso/
     heroku run python manage.py rebuild_index --noinput
 
