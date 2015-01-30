@@ -17,7 +17,7 @@ function createCache(url) {
 }
 
 var getBoundariesByLatLng = createCache(function (latlng) {
-  return 'http://represent.opennorth.ca/boundaries/nova-scotia-electoral-districts/?limit=0&contains=' + latlng[0] + ',' + latlng[1];
+  return 'https://represent.opennorth.ca/boundaries/nova-scotia-electoral-districts/?limit=0&contains=' + latlng[0] + ',' + latlng[1];
 });
 
 function processLatLng(latlng) {

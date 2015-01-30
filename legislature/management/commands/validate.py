@@ -22,7 +22,7 @@ class Command(BaseCommand):
                 print(section.get_ancestors[0].start_date, section.title)
 
         # All boundaries should match a membership label.
-        url = 'http://represent.opennorth.ca/boundaries/nova-scotia-electoral-districts/?limit=0'
+        url = 'https://represent.opennorth.ca/boundaries/nova-scotia-electoral-districts/?limit=0'
         for boundary in requests.get(url).json()['objects']:
             try:
                 _ = Membership.objects.get(label='MLA for %s' % boundary['name'].replace('—', '-'))  # m-dash
