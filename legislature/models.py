@@ -60,29 +60,29 @@ class Action(models.Model):
 
 
 @receiver(post_save, sender=Action)
-def tweet_bill_status(sender, instance, **kwargs):
+def tweet_bill_status(sender, instance, created, **kwargs):
     # @note Disable Twitter when scraping bills for the first time.
-    if instance.bill.status == '1st':
-        text = "The %s was introduced"
-    if instance.bill.status == '2nd':
-        text = "The House voted on referring the %s to committee"
-    elif instance.bill.status == 'LA' or instance.bill.status == 'PL':
-        text = "A committee considered the %s"
-    elif instance.bill.status == 'WH':
-        text = "The House debated the %s"
-    elif instance.bill.status == '3rd':
-        text = "The House voted on passing the %s"
-    elif instance.bill.status == 'RA':
-        text = "The %s became law"
+    if created and os.getenv('TWITTER_CONSUMER_SECRET', False):
+        if instance.bill.status == '1st':
+            text = "The %s was introduced"
+        if instance.bill.status == '2nd':
+            text = "The House voted on referring the %s to committee"
+        elif instance.bill.status == 'LA' or instance.bill.status == 'PL':
+            text = "A committee considered the %s"
+        elif instance.bill.status == 'WH':
+            text = "The House debated the %s"
+        elif instance.bill.status == '3rd':
+            text = "The House voted on passing the %s"
+        elif instance.bill.status == 'RA':
+            text = "The %s became law"
 
-    title = instance.bill.title
-    title = re.sub(r'\s+', ' ', title)
-    title = re.sub(r'\AAn ', '', title)
-    title = re.sub(r' \([Aa]mended\)', '', title)
+        title = instance.bill.title
+        title = re.sub(r'\s+', ' ', title)
+        title = re.sub(r'\AAn ', '', title)
+        title = re.sub(r' \([Aa]mended\)', '', title)
 
-    title_maxlength = 142 - len(text)  # accounts for "%s"
-    if len(title) > title_maxlength:
-        title = title[:title_maxlength - 1] + '…'
+        title_maxlength = 142 - len(text)  # accounts for "%s"
+        if len(title) > title_maxlength:
+            title = title[:title_maxlength - 1] + '…'
 
-    if os.getenv('TWITTER_CONSUMER_SECRET', False):
         twitter.statuses.update(status=text % title)
