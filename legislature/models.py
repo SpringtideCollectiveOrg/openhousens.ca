@@ -43,6 +43,10 @@ class Bill(models.Model):
     def __str__(self):
         return self.title
 
+    @models.permalink
+    def get_absolute_url(self):
+        return ('legislature:bill-view', (), {'slug': self.slug})
+
 
 @python_2_unicode_compatible
 class Action(models.Model):
@@ -64,25 +68,27 @@ def tweet_bill_status(sender, instance, created, **kwargs):
     # @note Disable Twitter when scraping bills for the first time.
     if created and os.getenv('TWITTER_CONSUMER_SECRET', False):
         if instance.bill.status == '1st':
-            text = "The %s was introduced"
+            text = 'The {title} was introduced {url}'
         if instance.bill.status == '2nd':
-            text = "The House voted on referring the %s to committee"
+            text = 'The House voted on referring the {title} to committee {url}'
         elif instance.bill.status == 'LA' or instance.bill.status == 'PL':
-            text = "A committee considered the %s"
+            text = 'A committee considered the {title} {url}'
         elif instance.bill.status == 'WH':
-            text = "The House debated the %s"
+            text = 'The House debated the {title} {url}'
         elif instance.bill.status == '3rd':
-            text = "The House voted on passing the %s"
+            text = 'The House voted on passing the {title} {url}'
         elif instance.bill.status == 'RA':
-            text = "The %s became law"
+            text = 'The {title} became law {url}'
 
         title = instance.bill.title
         title = re.sub(r'\s+', ' ', title)
         title = re.sub(r'\AAn ', '', title)
         title = re.sub(r' \([Aa]mended\)', '', title)
 
-        title_maxlength = 142 - len(text)  # accounts for "%s"
+        # Accounts for "{title}" (7) and 22-character "{url}" (5).
+        # @see https://dev.twitter.com/rest/reference/get/help/configuration
+        title_maxlength = 130 - len(text)
         if len(title) > title_maxlength:
             title = title[:title_maxlength - 1] + '…'
 
-        twitter.statuses.update(status=text % title)
+        twitter.statuses.update(status=text.format(title=title, url=instance.bill.get_absolute_url()))
