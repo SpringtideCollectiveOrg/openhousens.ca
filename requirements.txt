@@ -15,7 +15,7 @@ pylibmc==1.4.0
 -e git+git://github.com/django-pylibmc/django-pylibmc.git#egg=django-pylibmc
 django-heroku-memcacheify==0.7
 
--e git+git://github.com/mysociety/sayit.git#egg=django-sayit
+-e git+git://github.com/jpmckinney/sayit.git@hotfix#egg=django-sayit
 twitter==1.15.0
 
 # Akoma Ntoso importer

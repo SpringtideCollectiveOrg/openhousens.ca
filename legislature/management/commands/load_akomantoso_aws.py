@@ -1,13 +1,8 @@
 import os.path
-import ssl
 
 from boto.s3.connection import S3Connection
 from six.moves.urllib.parse import urlsplit
 from speeches.management.commands.load_akomantoso import Command as AkomaNtosoCommand
-
-# @see https://github.com/boto/boto/issues/2836#issuecomment-68608362
-if hasattr(ssl, '_create_unverified_context'):
-    ssl._create_default_https_context = ssl._create_unverified_context
 
 
 class Command(AkomaNtosoCommand):
