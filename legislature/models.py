@@ -91,4 +91,4 @@ def tweet_bill_status(sender, instance, created, **kwargs):
         if len(title) > title_maxlength:
             title = title[:title_maxlength - 1] + '…'
 
-        twitter.statuses.update(status=text.format(title=title, url=instance.bill.get_absolute_url()))
+        twitter.statuses.update(status=text.format(title=title, url='http://www.openhousens.ca%s' % instance.bill.get_absolute_url()))
