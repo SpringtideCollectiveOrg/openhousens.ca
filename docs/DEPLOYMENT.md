@@ -1,5 +1,7 @@
 # OpenHouseNS: Deployment
 
+    heroku apps:create
+
 ## Configuration variables
 
 Add configuration variables (replace `REPLACE`):
