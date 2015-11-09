@@ -22,7 +22,7 @@
   </form>
 
 {% if hansard %}
-  <p class="latest">The latest transcript is from <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a></p>
+  <p class="latest">The latest transcript is from: <a href="{% url 'legislature:section-view' hansard.slug %}"><strong>{{ hansard.start_date }}</strong></a></p>
 {% endif %}
 
 <script>var most_common_words = {{ most_common_words | safe }};</script>
