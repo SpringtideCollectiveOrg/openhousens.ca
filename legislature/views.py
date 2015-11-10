@@ -91,6 +91,10 @@ def about(request):
     return render_to_response('about.html', {'title': 'About'})
 
 
+def donate(request):
+    return render_to_response('donate.html', {'title': 'Donate'})
+
+
 class TitleAdder(object):
     def get_context_data(self, **kwargs):
         context = super(TitleAdder, self).get_context_data(**kwargs)
