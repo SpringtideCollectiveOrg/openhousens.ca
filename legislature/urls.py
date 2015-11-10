@@ -6,6 +6,7 @@ from legislature import views
 urlpatterns = patterns('',
     url(r'^$', views.home, name='home'),
     url(r'^about/$', views.about, name='about'),
+    url(r'^donate/$', views.about, name='donate'),
     url(r'^people/$', views.people, name='speaker-list'),
     url(r'^people/(?P<slug>[-_\w]+)/$', views.person, name='speaker-view'),
     url(r'^people/(?P<slug>[-_\w]+)/notices/$', views.person_notices, name='speaker-view-notices'),
