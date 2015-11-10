@@ -95,6 +95,10 @@ def donate(request):
     return render_to_response('donate.html', {'title': 'Donate'})
 
 
+def volunteer(request):
+    return render_to_response('volunteer.html', {'title': 'Volunteer'})
+
+
 class TitleAdder(object):
     def get_context_data(self, **kwargs):
         context = super(TitleAdder, self).get_context_data(**kwargs)
